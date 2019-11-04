@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+First Large Cyber Espionage Activity against Pakistan Emanating From India
+Mohit Kumar
+
+Cyber Security researchers have discovered a family of information stealing malware targeting Pakistan that originates out of India. 
+Norman Shark, the global security leader in malware analysis solutions for enterprises, service providers and government, today released a report detailing a large and sophisticated cyber-attack infrastructure that appears to have originated from India.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attacks, conducted by private threat actors over a period of three years and still ongoing, showed no evidence of state sponsorship but the primary purpose of the global command-and-control network appears to be intelligence gathering from a combination of national security targets and private sector companies.
+Attackers used known vulnerabilities in Microsoft software, chucking malware dubbed HangOver onto target machines, most of which were based in Pakistan, where 511 infections associated with the campaign were detected. HangOver installs keyloggers, takes screenshots and records victims’ browser usage, before sending the pilfered data off to remote servers by FTP or HTTP.
+The malware installed on the infected computers is primarily designed to steal information, but its functionality can be enhanced with additional modules.
+There’s also evidence that the attackers are signing their code with an old certificate that was issued in 2011 to Technical and Commercial Consulting Pvt. Ltd., a firm based in New Delhi, India. The certificate had been revoked in late March 2012, but was still in use. Eset contacted VeriSign, which revoked the certificate. Eset found more than 70 binary files signed with the malicious certificate.
+The payloads dropped by the malware offer a range from access. ESET discovered downloaders, document uploaders, keyloggers, reverse shells, and payloads with the ability to self-replicate within a network.
+There was another association with India in the repeated appearance of the word “Appin”. “There seems to be some connection with the Indian security company called Appin Security Group,” Norman wrote. Domains used by the attack infrastructure were shown to have been registered by Appin Security Solutions too.
+Another firm, Mantra Tech Ventures, was also hosting a number of malicious sites run by the attackers, Norman said.
+The report said that the attackers used NirSoft's WebPassView and Mail PassView tools for recovering passwords in email clients and browser stores; the tools were signed by the malicious certificate.
+Update: Spokesperson from Appin responded about the Norman's Findings via email "Appin The Appin Security Group is no manner connected or involved with the activities as sought to be implied in the alleged report. As is apparent from the alleged report itself, the same is only a marketing gimmick on the part of Norman AS. The Appin Security Group has already initiated legal proceedings against Norman AS." Abhishek, Corporate Communications Team, Appin Security Group said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<user_compromise id="u0" start="1421" end="1428" text="signing" TYPE="USP" />
+<user_compromise id="u1" start="2502" end="2512" text="recovering" TYPE="USP" />
+<spyware id="s0" start="1075" end="1083" text="installs" TYPE="USP" />
+<spyware id="s1" start="1096" end="1101" text="takes" TYPE="USP" />
+<spyware id="s2" start="1157" end="1164" text="sending" TYPE="USP" />
+<spyware id="s3" start="1118" end="1125" text="records" TYPE="USP" />
+<spyware id="s4" start="1294" end="1299" text="steal" TYPE="USP" />
+<arbitrary_code_execution id="a0" start="858" end="862" text="used" TYPE="USP" />
+<arbitrary_code_execution id="a1" start="907" end="916" text=" chucking" TYPE="SUP" />
+</TAGS>
+</KddTask>

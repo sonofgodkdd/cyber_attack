@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Border Patrol Seizes Nearly 200 Pounds of Marijuana Concealed Throughout Vehicle
+(Tuesday, January 19, 2010)
+Niland, Calif. -  On Sunday morning, El Centro Sector Border Patrol agents working the Highway 111 checkpoint seized nearly 200 pounds of marijuana valued at close to $160,000.
+At approximately 11 a.m., a red colored mini-van operated by a United States citizen approached the primary inspection area at the Highway 111 checkpoint which is operated by Indio Station agents. A Border Patrol canine team conducted an exterior non-intrusive inspection of the vehicle.click for hi-res
+Packages of marijuana are discovered hidden in various areas of a vehicle.
+The canine team alerted to several areas of the vehicle which led agents to discover 90 vacuum sealed bags of marijuana concealed within the dashboard, behind false side wall panels, and within a false roof compartment.
+The driver, the vehicle and the marijuana were turned over to the Drug Enforcement Administration.
+Since the fiscal year began in on October 1, 2009, the El Centro Sector has seized more than 2,000 pounds of marijuana.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="147" end="184" text="El Centro Sector Border Patrol agents" TYPE="BAR" />
+<person id="p1" start="348" end="371" text="a United States citizen" TYPE="NOM" />
+<person id="p2" start="462" end="482" text="Indio Station agents" TYPE="BAR" />
+<person id="p3" start="484" end="511" text="A Border Patrol canine team" TYPE="NOM" />
+<person id="p4" start="666" end="681" text="The canine team" TYPE="NOM" />
+<person id="p5" start="732" end="738" text="agents" TYPE="BAR" />
+<person id="p6" start="886" end="896" text="The driver" TYPE="NOM" />
+<organization id="o0" start="1" end="14" text="Border Patrol" TYPE="NAM" />
+<organization id="o1" start="147" end="177" text="El Centro Sector Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="486" end="499" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o3" start="948" end="983" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o4" start="1036" end="1056" text="the El Centro Sector" TYPE="NAM" />
+<geographical-political id="g0" start="110" end="123" text="Niland, Calif" TYPE="NAM" />
+<geographical-political id="g1" start="118" end="123" text="Calif" TYPE="NAM" />
+<geographical-political id="g2" start="350" end="363" text="United States" TYPE="NAMPRE" />
+<falicity id="f0" start="193" end="219" text="the Highway 111 checkpoint" TYPE="NOM" />
+<falicity id="f1" start="197" end="208" text="Highway 111" TYPE="NAMPRE" />
+<falicity id="f3" start="418" end="429" text="Highway 111" TYPE="NAMPRE" />
+<falicity id="f4" start="462" end="475" text="Indio Station" TYPE="NAMPRE" />
+<falicity id="f5" start="441" end="446" text="which" TYPE="WHQ" />
+<falicity id="f2" start="414" end="482" text="the Highway 111 checkpoint which is operated by Indio Station agents" TYPE="NOM" />
+<head id="h0" start="1" end="14" text="Border Patrol" />
+<head id="h1" start="110" end="116" text="Niland" />
+<head id="h2" start="118" end="123" text="Calif" />
+<head id="h3" start="178" end="184" text="agents" />
+<head id="h4" start="147" end="177" text="El Centro Sector Border Patrol" />
+<head id="h5" start="209" end="219" text="checkpoint" />
+<head id="h6" start="197" end="208" text="Highway 111" />
+<head id="h7" start="364" end="371" text="citizen" />
+<head id="h8" start="350" end="363" text="United States" />
+<head id="h9" start="430" end="440" text="checkpoint" />
+<head id="h10" start="418" end="429" text="Highway 111" />
+<head id="h11" start="476" end="482" text="agents" />
+<head id="h12" start="462" end="475" text="Indio Station" />
+<head id="h13" start="441" end="446" text="which" />
+<head id="h14" start="507" end="511" text="team" />
+<head id="h15" start="486" end="499" text="Border Patrol" />
+<head id="h16" start="677" end="681" text="team" />
+<head id="h17" start="732" end="738" text="agents" />
+<head id="h18" start="890" end="896" text="driver" />
+<head id="h19" start="952" end="983" text="Drug Enforcement Administration" />
+<head id="h20" start="1040" end="1056" text="El Centro Sector" />
+<name id="n0" start="1" end="14" text="Border Patrol" />
+<name id="n1" start="110" end="116" text="Niland" />
+<name id="n2" start="118" end="123" text="Calif" />
+<name id="n3" start="147" end="177" text="El Centro Sector Border Patrol" />
+<name id="n4" start="197" end="208" text="Highway 111" />
+<name id="n5" start="350" end="363" text="United States" />
+<name id="n6" start="418" end="429" text="Highway 111" />
+<name id="n7" start="462" end="475" text="Indio Station" />
+<name id="n8" start="486" end="499" text="Border Patrol" />
+<name id="n9" start="952" end="983" text="Drug Enforcement Administration" />
+<name id="n10" start="1040" end="1056" text="El Centro Sector" />
+<located-mention id="lo0" start="147" end="219" text="El Centro Sector Border Patrol agents working the Highway 111 checkpoint" TYPE="Participial" />
+<located-mention id="lo1" start="287" end="482" text="At approximately 11 a.m., a red colored mini-van operated by a United States citizen approached the primary inspection area at the Highway 111 checkpoint which is operated by Indio Station agents" TYPE="Other" />
+<located-mention id="lo2" start="462" end="482" text="Indio Station agents" TYPE="PreMod" />
+<CRRE id="C0" start="348" end="371" text="a United States citizen" TYPE="PreMod" />
+<M id="M0" start="147" end="184" text="El Centro Sector Border Patrol agents" TYPE="PreMod" />
+<entity_link id="en1" fromID="f3" fromText="Highway 111" toID="f1" toText="Highway 111" />
+<entity_link id="en3" fromID="o2" fromText="Border Patrol" toID="o0" toText="Border Patrol" />
+<entity_link id="en4" fromID="p4" fromText="The canine team" toID="p3" toText="A Border Patrol canine team" />
+<entity_link id="en5" fromID="p5" fromText="agents" toID="p2" toText="Indio Station agents" />
+<entity_link id="en6" fromID="p6" fromText="The driver" toID="p1" toText="a United States citizen" />
+<entity_link id="en7" fromID="o4" fromText="the El Centro Sector" toID="o1" toText="El Centro Sector Border Patrol" />
+<entity_link id="en8" fromID="f2" fromText="the Highway 111 checkpoint which is operated by Indio Station agents" toID="f0" toText="the Highway 111 checkpoint" />
+<entity_link id="en9" fromID="f5" fromText="which" toID="f2" toText="the Highway 111 checkpoint which is operated by Indio Station agents" />
+<head_link id="he0" fromID="o0" fromText="Border Patrol" toID="h0" toText="Border Patrol" />
+<head_link id="he1" fromID="g0" fromText="Niland, Calif" toID="h1" toText="Niland" />
+<head_link id="he2" fromID="g1" fromText="Calif" toID="h2" toText="Calif" />
+<head_link id="he3" fromID="p0" fromText="El Centro Sector Border Patrol agents" toID="h3" toText="agents" />
+<head_link id="he4" fromID="o1" fromText="El Centro Sector Border Patrol" toID="h4" toText="El Centro Sector Border Patrol" />
+<head_link id="he5" fromID="f0" fromText="the Highway 111 checkpoint" toID="h5" toText="checkpoint" />
+<head_link id="he8" fromID="p1" fromText="a United States citizen" toID="h7" toText="citizen" />
+<head_link id="he9" fromID="g2" fromText="United States" toID="h8" toText="United States" />
+<head_link id="he6" fromID="f1" fromText="Highway 111" toID="h6" toText="Highway 111" />
+<head_link id="he11" fromID="f3" fromText="Highway 111" toID="h10" toText="Highway 111" />
+<head_link id="he12" fromID="p2" fromText="Indio Station agents" toID="h11" toText="agents" />
+<head_link id="he13" fromID="f4" fromText="Indio Station" toID="h12" toText="Indio Station" />
+<head_link id="he14" fromID="f5" fromText="which" toID="h13" toText="which" />
+<head_link id="he15" fromID="p3" fromText="A Border Patrol canine team" toID="h14" toText="team" />
+<head_link id="he16" fromID="o2" fromText="Border Patrol" toID="h15" toText="Border Patrol" />
+<head_link id="he17" fromID="p4" fromText="The canine team" toID="h16" toText="team" />
+<head_link id="he18" fromID="p5" fromText="agents" toID="h17" toText="agents" />
+<head_link id="he19" fromID="p6" fromText="The driver" toID="h18" toText="driver" />
+<head_link id="he20" fromID="o3" fromText="the Drug Enforcement Administration" toID="h19" toText="Drug Enforcement Administration" />
+<head_link id="he21" fromID="o4" fromText="the El Centro Sector" toID="h20" toText="El Centro Sector" />
+<head_link id="he7" fromID="f2" fromText="the Highway 111 checkpoint which is operated by Indio Station agents" toID="h9" toText="checkpoint" />
+<name_link id="na0" fromID="o0" fromText="Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="Niland, Calif" toID="n1" toText="Niland" />
+<name_link id="na2" fromID="g1" fromText="Calif" toID="n2" toText="Calif" />
+<name_link id="na3" fromID="o1" fromText="El Centro Sector Border Patrol" toID="n3" toText="El Centro Sector Border Patrol" />
+<name_link id="na5" fromID="g2" fromText="United States" toID="n5" toText="United States" />
+<name_link id="na6" fromID="f1" fromText="Highway 111" toID="n4" toText="Highway 111" />
+<name_link id="na7" fromID="f3" fromText="Highway 111" toID="n6" toText="Highway 111" />
+<name_link id="na8" fromID="f4" fromText="Indio Station" toID="n7" toText="Indio Station" />
+<name_link id="na9" fromID="o2" fromText="Border Patrol" toID="n8" toText="Border Patrol" />
+<name_link id="na10" fromID="o3" fromText="the Drug Enforcement Administration" toID="n9" toText="Drug Enforcement Administration" />
+<name_link id="na11" fromID="o4" fromText="the El Centro Sector" toID="n10" toText="El Centro Sector" />
+<relation_link1 id="r1" fromID="lo0" fromText="El Centro Sector Border Patrol agents working the Highway 111 checkpoint" toID="p0" toText="El Centro Sector Border Patrol agents" />
+<relation_link1 id="r2" fromID="lo1" fromText="At approximately 11 a.m., a red colored mini-van operated by a United States citizen approached the primary inspection area at the Highway 111 checkpoint which is operated by Indio Station agents" toID="p1" toText="a United States citizen" />
+<relation_link1 id="r3" fromID="lo2" fromText="Indio Station agents" toID="p2" toText="Indio Station agents" />
+<relation_link1 id="r5" fromID="C0" fromText="a United States citizen" toID="p1" toText="a United States citizen" />
+<relation_link1 id="r6" fromID="M0" fromText="El Centro Sector Border Patrol agents" toID="p0" toText="El Centro Sector Border Patrol agents" />
+<relation_link2 id="re1" fromID="lo0" fromText="El Centro Sector Border Patrol agents working the Highway 111 checkpoint" toID="f0" toText="the Highway 111 checkpoint" />
+<relation_link2 id="re3" fromID="lo2" fromText="Indio Station agents" toID="f4" toText="Indio Station" />
+<relation_link2 id="re5" fromID="C0" fromText="a United States citizen" toID="g2" toText="United States" />
+<relation_link2 id="re6" fromID="lo1" fromText="At approximately 11 a.m., a red colored mini-van operated by a United States citizen approached the primary inspection area at the Highway 111 checkpoint which is operated by Indio Station agents" toID="f2" toText="the Highway 111 checkpoint which is operated by Indio Station agents" />
+<relation_link2 id="re7" fromID="M0" fromText="El Centro Sector Border Patrol agents" toID="o1" toText="El Centro Sector Border Patrol" />
+</TAGS>
+</KddTask>

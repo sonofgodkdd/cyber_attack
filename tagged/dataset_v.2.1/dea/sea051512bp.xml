@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Date: May 15, 2012
+Contact: Jodie Underwood
+Number: 206-553-1162
+Prolific Cocaine Trafficker Sentenced to 27 Years in Federal Prison
+May 15, 2012 - ( Anchorage, AK ) - 
+On May 14, 2012, Thomas M. Riley, 44, a resident of Kansas City, Missouri, was sentenced in federal court in Anchorage to 27 years imprisonment for possessing cocaine with the intent to distribute and being a felon in possession of a firearm.
+On November 21, 2011, an Anchorage federal jury convicted Riley of the drug and firearm charges, and also ordered him to forfeit a 2004 Cadillac Escalade, a 2008 Ford F450, a 2007 Ford Taurus, and $215,629 in cash. These assets were seized between April and May 2009, and the jury found that the assets were the proceeds of Riley's cocaine trafficking. In addition, Riley was ordered to pay a money judgment of $396,000, which represents a conservative estimate of Riley's profits made from the sale of 33 kilograms of cocaine in Alaska.
+According to evidence introduced at trial, Riley had been mailing cocaine packages from Texas to Alaska since 2008. On April 13, 2009, investigators seized a parcel containing $29,100 in cash that Riley was attempting to mail back to Kansas City. On May 10, 2009, investigators seized another package containing $73,520 in cash, all in 20 dollar bills, that Riley was attempting to mail to Texas. Using various databases, a United States Postal Inspector was able to link Riley to incoming parcels at a P.O. Box in the Eastchester Post Office near downtown Anchorage. Surveillance agents observed the defendant entering that post office on May 11, 2009. Shortly thereafter, investigators seized a six-pound package from the P.O. Box linked to the defendant. The package had been sent from Texas, and the evidence at trial showed that the defendant purchased the postage for the package in Texas. After obtaining a search warrant, agents found two kilograms of cocaine inside the package. Furthermore, postal records showed that this P.O Box received approximately 18 previous packages, or two packages per month, with each package weighing roughly the same amount as the two kilogram package.
+The defendant was arrested on May 12, 2009, and a search warrant was obtained for his local vehicle, a 2007 Ford Taurus. Inside, agents found a loaded Smith & Wesson 9 mm pistol that the defendant had packaged in a Fed Ex box. Also inside the vehicle, there was an Express Mail parcel, which contained $110,746 in cash intended to be mailed to Kansas City. Agents linked the defendant's drug proceeds to two additional vehicles, a Cadillac Escalade that was purchased in Alaska, and a Ford F450 that was registered in Texas. Both vehicles were seized from a storage facility in Kansas City and were found by the jury to constitute drug proceeds, along with the seized cash.
+The case was investigated by the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City, along with assistance from the Alaska State Troopers.
+###
+]]></TEXT>
+<TAGS>
+<person id="p0" start="29" end="44" text="Jodie Underwood" TYPE="NAM" />
+<person id="p1" start="66" end="133" text="Prolific Cocaine Trafficker Sentenced to 27 Years in Federal Prison" TYPE="BAR" />
+<person id="p2" start="187" end="243" text="Thomas M. Riley, 44, a resident of Kansas City, Missouri" TYPE="APP" />
+<person id="p3" start="187" end="206" text="Thomas M. Riley, 44" TYPE="NAM" />
+<person id="p4" start="208" end="243" text="a resident of Kansas City, Missouri" TYPE="NOM" />
+<person id="p5" start="377" end="411" text="a felon in possession of a firearm" TYPE="NOM" />
+<person id="p6" start="435" end="460" text="an Anchorage federal jury" TYPE="NOM" />
+<person id="p7" start="471" end="476" text="Riley" TYPE="NAM" />
+<person id="p8" start="527" end="530" text="him" TYPE="PRO" />
+<person id="p9" start="685" end="693" text="the jury" TYPE="NOM" />
+<person id="p10" start="737" end="742" text="Riley" TYPE="NAM" />
+<person id="p11" start="779" end="784" text="Riley" TYPE="NAM" />
+<person id="p12" start="878" end="883" text="Riley" TYPE="NAM" />
+<person id="p13" start="994" end="999" text="Riley" TYPE="NAM" />
+<person id="p14" start="1086" end="1099" text="investigators" TYPE="BAR" />
+<person id="p15" start="1148" end="1153" text="Riley" TYPE="NAM" />
+<person id="p16" start="1215" end="1228" text="investigators" TYPE="BAR" />
+<person id="p17" start="1309" end="1314" text="Riley" TYPE="NAM" />
+<person id="p18" start="1373" end="1405" text="a United States Postal Inspector" TYPE="NOM" />
+<person id="p19" start="1423" end="1428" text="Riley" TYPE="NAM" />
+<person id="p20" start="1519" end="1538" text="Surveillance agents" TYPE="BAR" />
+<person id="p21" start="1548" end="1561" text="the defendant" TYPE="NOM" />
+<person id="p22" start="1625" end="1638" text="investigators" TYPE="BAR" />
+<person id="p23" start="1694" end="1707" text="the defendant" TYPE="NOM" />
+<person id="p24" start="1785" end="1798" text="the defendant" TYPE="NOM" />
+<person id="p25" start="1881" end="1887" text="agents" TYPE="BAR" />
+<person id="p26" start="2144" end="2157" text="The defendant" TYPE="NOM" />
+<person id="p27" start="2226" end="2229" text="his" TYPE="PRO" />
+<person id="p28" start="2273" end="2279" text="agents" TYPE="BAR" />
+<person id="p29" start="2327" end="2340" text="the defendant" TYPE="NOM" />
+<person id="p30" start="2501" end="2507" text="Agents" TYPE="BAR" />
+<person id="p31" start="2515" end="2528" text="the defendant" TYPE="NOM" />
+<person id="p32" start="2752" end="2760" text="the jury" TYPE="NOM" />
+<organization id="o0" start="262" end="288" text="federal court in Anchorage" TYPE="BAR" />
+<organization id="o3" start="2847" end="2964" text="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" TYPE="NAM" />
+<organization id="o4" start="2847" end="2964" text="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" TYPE="NAM" />
+<organization id="o6" start="2993" end="3018" text="the Alaska State Troopers" TYPE="NAM" />
+<organization id="o1" start="2359" end="2365" text="Fed Ex" TYPE="NAMPRE" />
+<organization id="o2" start="2928" end="2964" text="both in Anchorage and in Kansas City" TYPE="HLS" />
+<geographical-political id="g0" start="151" end="164" text="Anchorage, AK" TYPE="NAM" />
+<geographical-political id="g1" start="162" end="164" text="AK" TYPE="NAM" />
+<geographical-political id="g2" start="222" end="243" text="Kansas City, Missouri" TYPE="NAM" />
+<geographical-political id="g3" start="235" end="243" text="Missouri" TYPE="NAM" />
+<geographical-political id="g4" start="279" end="288" text="Anchorage" TYPE="NAM" />
+<geographical-political id="g5" start="438" end="447" text="Anchorage" TYPE="NAMPRE" />
+<geographical-political id="g6" start="943" end="949" text="Alaska" TYPE="NAM" />
+<geographical-political id="g7" start="1039" end="1044" text="Texas" TYPE="NAM" />
+<geographical-political id="g8" start="1048" end="1054" text="Alaska" TYPE="NAM" />
+<geographical-political id="g9" start="1185" end="1196" text="Kansas City" TYPE="NAM" />
+<geographical-political id="g10" start="1341" end="1346" text="Texas" TYPE="NAM" />
+<geographical-political id="g11" start="1375" end="1388" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g12" start="1740" end="1745" text="Texas" TYPE="NAM" />
+<geographical-political id="g13" start="1840" end="1845" text="Texas" TYPE="NAM" />
+<geographical-political id="g14" start="2488" end="2499" text="Kansas City" TYPE="NAM" />
+<geographical-political id="g15" start="2615" end="2621" text="Alaska" TYPE="NAM" />
+<geographical-political id="g16" start="2662" end="2667" text="Texas" TYPE="NAM" />
+<geographical-political id="g17" start="2722" end="2733" text="Kansas City" TYPE="NAM" />
+<geographical-political id="g18" start="2936" end="2945" text="Anchorage" TYPE="NAM" />
+<geographical-political id="g19" start="2953" end="2964" text="Kansas City" TYPE="NAM" />
+<location id="l0" start="1499" end="1517" text="downtown Anchorage" TYPE="BAR" />
+<falicity id="f1" start="119" end="133" text="Federal Prison" TYPE="BAR" />
+<falicity id="f2" start="1466" end="1493" text="the Eastchester Post Office" TYPE="NAM" />
+<falicity id="f3" start="1571" end="1587" text="that post office" TYPE="NOM" />
+<falicity id="f5" start="2700" end="2733" text="a storage facility in Kansas City" TYPE="NOM" />
+<head id="h0" start="29" end="44" text="Jodie Underwood" />
+<head id="h1" start="83" end="93" text="Trafficker" />
+<head id="h2" start="127" end="133" text="Prison" />
+<head id="h3" start="151" end="160" text="Anchorage" />
+<head id="h4" start="162" end="164" text="AK" />
+<head id="h5" start="187" end="202" text="Thomas M. Riley" />
+<head id="h6" start="210" end="218" text="resident" />
+<head id="h7" start="222" end="233" text="Kansas City" />
+<head id="h8" start="235" end="243" text="Missouri" />
+<head id="h9" start="270" end="275" text="court" />
+<head id="h10" start="279" end="288" text="Anchorage" />
+<head id="h11" start="379" end="384" text="felon" />
+<head id="h12" start="456" end="460" text="jury" />
+<head id="h13" start="438" end="447" text="Anchorage" />
+<head id="h14" start="471" end="476" text="Riley" />
+<head id="h15" start="527" end="530" text="him" />
+<head id="h16" start="689" end="693" text="jury" />
+<head id="h17" start="737" end="742" text="Riley" />
+<head id="h18" start="779" end="784" text="Riley" />
+<head id="h19" start="878" end="883" text="Riley" />
+<head id="h20" start="943" end="949" text="Alaska" />
+<head id="h21" start="994" end="999" text="Riley" />
+<head id="h22" start="1039" end="1044" text="Texas" />
+<head id="h23" start="1048" end="1054" text="Alaska" />
+<head id="h24" start="1086" end="1099" text="investigators" />
+<head id="h25" start="1148" end="1153" text="Riley" />
+<head id="h26" start="1185" end="1196" text="Kansas City" />
+<head id="h27" start="1215" end="1228" text="investigators" />
+<head id="h28" start="1309" end="1314" text="Riley" />
+<head id="h29" start="1341" end="1346" text="Texas" />
+<head id="h30" start="1396" end="1405" text="Inspector" />
+<head id="h31" start="1375" end="1388" text="United States" />
+<head id="h32" start="1423" end="1428" text="Riley" />
+<head id="h33" start="1470" end="1493" text="Eastchester Post Office" />
+<head id="h34" start="1508" end="1517" text="Anchorage" />
+<head id="h35" start="1532" end="1538" text="agents" />
+<head id="h36" start="1552" end="1561" text="defendant" />
+<head id="h37" start="1576" end="1587" text="post office" />
+<head id="h38" start="1625" end="1638" text="investigators" />
+<head id="h39" start="1698" end="1707" text="defendant" />
+<head id="h40" start="1740" end="1745" text="Texas" />
+<head id="h41" start="1789" end="1798" text="defendant" />
+<head id="h42" start="1840" end="1845" text="Texas" />
+<head id="h43" start="1881" end="1887" text="agents" />
+<head id="h44" start="2148" end="2157" text="defendant" />
+<head id="h45" start="2226" end="2229" text="his" />
+<head id="h46" start="2273" end="2279" text="agents" />
+<head id="h47" start="2331" end="2340" text="defendant" />
+<head id="h48" start="2488" end="2499" text="Kansas City" />
+<head id="h49" start="2501" end="2507" text="Agents" />
+<head id="h50" start="2519" end="2528" text="defendant" />
+<head id="h51" start="2615" end="2621" text="Alaska" />
+<head id="h52" start="2662" end="2667" text="Texas" />
+<head id="h54" start="2710" end="2718" text="facility" />
+<head id="h55" start="2722" end="2733" text="Kansas City" />
+<head id="h56" start="2756" end="2760" text="jury" />
+<head id="h57" start="2851" end="2882" text="Drug Enforcement Administration" />
+<head id="h58" start="2887" end="2926" text="United States Postal Inspection Service" />
+<head id="h59" start="2928" end="2932" text="both" />
+<head id="h60" start="2936" end="2945" text="Anchorage" />
+<head id="h61" start="2953" end="2964" text="Kansas City" />
+<head id="h62" start="2997" end="3018" text="Alaska State Troopers" />
+<head id="h53" start="2359" end="2365" text="Fed Ex" />
+<name id="n0" start="29" end="44" text="Jodie Underwood" />
+<name id="n1" start="151" end="160" text="Anchorage" />
+<name id="n2" start="162" end="164" text="AK" />
+<name id="n3" start="187" end="202" text="Thomas M. Riley" />
+<name id="n4" start="222" end="233" text="Kansas City" />
+<name id="n5" start="235" end="243" text="Missouri" />
+<name id="n6" start="279" end="288" text="Anchorage" />
+<name id="n7" start="438" end="447" text="Anchorage" />
+<name id="n8" start="471" end="476" text="Riley" />
+<name id="n9" start="737" end="742" text="Riley" />
+<name id="n10" start="779" end="784" text="Riley" />
+<name id="n11" start="878" end="883" text="Riley" />
+<name id="n12" start="943" end="949" text="Alaska" />
+<name id="n13" start="994" end="999" text="Riley" />
+<name id="n14" start="1039" end="1044" text="Texas" />
+<name id="n15" start="1048" end="1054" text="Alaska" />
+<name id="n16" start="1148" end="1153" text="Riley" />
+<name id="n17" start="1185" end="1196" text="Kansas City" />
+<name id="n18" start="1309" end="1314" text="Riley" />
+<name id="n19" start="1341" end="1346" text="Texas" />
+<name id="n20" start="1375" end="1388" text="United States" />
+<name id="n21" start="1423" end="1428" text="Riley" />
+<name id="n22" start="1470" end="1493" text="Eastchester Post Office" />
+<name id="n23" start="1740" end="1745" text="Texas" />
+<name id="n24" start="1840" end="1845" text="Texas" />
+<name id="n25" start="2488" end="2499" text="Kansas City" />
+<name id="n26" start="2615" end="2621" text="Alaska" />
+<name id="n27" start="2662" end="2667" text="Texas" />
+<name id="n28" start="2722" end="2733" text="Kansas City" />
+<name id="n29" start="2851" end="2882" text="Drug Enforcement Administration" />
+<name id="n30" start="2887" end="2926" text="United States Postal Inspection Service" />
+<name id="n31" start="2936" end="2945" text="Anchorage" />
+<name id="n32" start="2953" end="2964" text="Kansas City" />
+<name id="n33" start="2997" end="3018" text="Alaska State Troopers" />
+<name id="n34" start="2359" end="2365" text="Fed Ex" />
+<located-mention id="lo0" start="766" end="949" text="In addition, Riley was ordered to pay a money judgment of $396,000, which represents a conservative estimate of Riley's profits made from the sale of 33 kilograms of cocaine in Alaska" TYPE="Other" />
+<located-mention id="lo1" start="951" end="1065" text="According to evidence introduced at trial, Riley had been mailing cocaine packages from Texas to Alaska since 2008" TYPE="Other" />
+<located-mention id="lo2" start="1519" end="1603" text="Surveillance agents observed the defendant entering that post office on May 11, 2009" TYPE="Other" />
+<located-mention id="lo3" start="1709" end="1845" text="The package had been sent from Texas, and the evidence at trial showed that the defendant purchased the postage for the package in Texas" TYPE="Other" />
+<employment-mention id="e0" start="435" end="460" text="an Anchorage federal jury" TYPE="PreMod" />
+<employment-mention id="e1" start="1373" end="1405" text="a United States Postal Inspector" TYPE="PreMod" />
+<CRRE id="C0" start="208" end="243" text="a resident of Kansas City, Missouri" TYPE="Preposition" />
+<entity_link id="en0" fromID="p3" fromText="Thomas M. Riley, 44" toID="p2" toText="Thomas M. Riley, 44, a resident of Kansas City, Missouri" />
+<entity_link id="en1" fromID="p3" fromText="Thomas M. Riley, 44" toID="p1" toText="Prolific Cocaine Trafficker Sentenced to 27 Years in Federal Prison" />
+<entity_link id="en2" fromID="p4" fromText="a resident of Kansas City, Missouri" toID="p3" toText="Thomas M. Riley, 44" />
+<entity_link id="en3" fromID="g4" fromText="Anchorage" toID="g0" toText="Anchorage, AK" />
+<entity_link id="en4" fromID="p5" fromText="a felon in possession of a firearm" toID="p3" toText="Thomas M. Riley, 44" />
+<entity_link id="en5" fromID="g5" fromText="Anchorage" toID="g4" toText="Anchorage" />
+<entity_link id="en6" fromID="p7" fromText="Riley" toID="p3" toText="Thomas M. Riley, 44" />
+<entity_link id="en7" fromID="p8" fromText="him" toID="p7" toText="Riley" />
+<entity_link id="en8" fromID="p9" fromText="the jury" toID="p6" toText="an Anchorage federal jury" />
+<entity_link id="en9" fromID="p10" fromText="Riley" toID="p7" toText="Riley" />
+<entity_link id="en10" fromID="p11" fromText="Riley" toID="p10" toText="Riley" />
+<entity_link id="en11" fromID="p12" fromText="Riley" toID="p11" toText="Riley" />
+<entity_link id="en12" fromID="p13" fromText="Riley" toID="p12" toText="Riley" />
+<entity_link id="en13" fromID="g8" fromText="Alaska" toID="g6" toText="Alaska" />
+<entity_link id="en14" fromID="p15" fromText="Riley" toID="p13" toText="Riley" />
+<entity_link id="en15" fromID="g9" fromText="Kansas City" toID="g2" toText="Kansas City, Missouri" />
+<entity_link id="en16" fromID="p16" fromText="investigators" toID="p14" toText="investigators" />
+<entity_link id="en17" fromID="p17" fromText="Riley" toID="p15" toText="Riley" />
+<entity_link id="en18" fromID="g10" fromText="Texas" toID="g7" toText="Texas" />
+<entity_link id="en19" fromID="p21" fromText="the defendant" toID="p19" toText="Riley" />
+<entity_link id="en20" fromID="f3" fromText="that post office" toID="f2" toText="the Eastchester Post Office" />
+<entity_link id="en21" fromID="p22" fromText="investigators" toID="p16" toText="investigators" />
+<entity_link id="en22" fromID="p23" fromText="the defendant" toID="p21" toText="the defendant" />
+<entity_link id="en23" fromID="g12" fromText="Texas" toID="g10" toText="Texas" />
+<entity_link id="en24" fromID="p24" fromText="the defendant" toID="p23" toText="the defendant" />
+<entity_link id="en25" fromID="g13" fromText="Texas" toID="g12" toText="Texas" />
+<entity_link id="en26" fromID="p26" fromText="The defendant" toID="p24" toText="the defendant" />
+<entity_link id="en27" fromID="p27" fromText="his" toID="p26" toText="The defendant" />
+<entity_link id="en28" fromID="p28" fromText="agents" toID="p25" toText="agents" />
+<entity_link id="en29" fromID="p29" fromText="the defendant" toID="p26" toText="The defendant" />
+<entity_link id="en30" fromID="g14" fromText="Kansas City" toID="g9" toText="Kansas City" />
+<entity_link id="en31" fromID="p30" fromText="Agents" toID="p28" toText="agents" />
+<entity_link id="en32" fromID="p31" fromText="the defendant" toID="p29" toText="the defendant" />
+<entity_link id="en33" fromID="g15" fromText="Alaska" toID="g8" toText="Alaska" />
+<entity_link id="en34" fromID="g16" fromText="Texas" toID="g13" toText="Texas" />
+<entity_link id="en35" fromID="g17" fromText="Kansas City" toID="g14" toText="Kansas City" />
+<entity_link id="en36" fromID="p32" fromText="the jury" toID="p9" toText="the jury" />
+<entity_link id="en37" fromID="g18" fromText="Anchorage" toID="g5" toText="Anchorage" />
+<entity_link id="en38" fromID="g19" fromText="Kansas City" toID="g17" toText="Kansas City" />
+<entity_link id="en39" fromID="g6" fromText="Alaska" toID="g1" toText="AK" />
+<head_link id="he0" fromID="p0" fromText="Jodie Underwood" toID="h0" toText="Jodie Underwood" />
+<head_link id="he1" fromID="p1" fromText="Prolific Cocaine Trafficker Sentenced to 27 Years in Federal Prison" toID="h1" toText="Trafficker" />
+<head_link id="he3" fromID="f1" fromText="Federal Prison" toID="h2" toText="Prison" />
+<head_link id="he4" fromID="g0" fromText="Anchorage, AK" toID="h3" toText="Anchorage" />
+<head_link id="he5" fromID="g1" fromText="AK" toID="h4" toText="AK" />
+<head_link id="he6" fromID="p3" fromText="Thomas M. Riley, 44" toID="h5" toText="Thomas M. Riley" />
+<head_link id="he7" fromID="p4" fromText="a resident of Kansas City, Missouri" toID="h6" toText="resident" />
+<head_link id="he8" fromID="g2" fromText="Kansas City, Missouri" toID="h7" toText="Kansas City" />
+<head_link id="he9" fromID="g3" fromText="Missouri" toID="h8" toText="Missouri" />
+<head_link id="he10" fromID="o0" fromText="federal court in Anchorage" toID="h9" toText="court" />
+<head_link id="he11" fromID="g4" fromText="Anchorage" toID="h10" toText="Anchorage" />
+<head_link id="he12" fromID="p5" fromText="a felon in possession of a firearm" toID="h11" toText="felon" />
+<head_link id="he13" fromID="p6" fromText="an Anchorage federal jury" toID="h12" toText="jury" />
+<head_link id="he14" fromID="g5" fromText="Anchorage" toID="h13" toText="Anchorage" />
+<head_link id="he15" fromID="p7" fromText="Riley" toID="h14" toText="Riley" />
+<head_link id="he16" fromID="p8" fromText="him" toID="h15" toText="him" />
+<head_link id="he17" fromID="p9" fromText="the jury" toID="h16" toText="jury" />
+<head_link id="he18" fromID="p10" fromText="Riley" toID="h17" toText="Riley" />
+<head_link id="he19" fromID="p11" fromText="Riley" toID="h18" toText="Riley" />
+<head_link id="he20" fromID="p12" fromText="Riley" toID="h19" toText="Riley" />
+<head_link id="he21" fromID="g6" fromText="Alaska" toID="h20" toText="Alaska" />
+<head_link id="he22" fromID="p13" fromText="Riley" toID="h21" toText="Riley" />
+<head_link id="he23" fromID="g7" fromText="Texas" toID="h22" toText="Texas" />
+<head_link id="he24" fromID="g8" fromText="Alaska" toID="h23" toText="Alaska" />
+<head_link id="he25" fromID="p14" fromText="investigators" toID="h24" toText="investigators" />
+<head_link id="he26" fromID="p15" fromText="Riley" toID="h25" toText="Riley" />
+<head_link id="he27" fromID="g9" fromText="Kansas City" toID="h26" toText="Kansas City" />
+<head_link id="he28" fromID="p16" fromText="investigators" toID="h27" toText="investigators" />
+<head_link id="he29" fromID="p17" fromText="Riley" toID="h28" toText="Riley" />
+<head_link id="he30" fromID="g10" fromText="Texas" toID="h29" toText="Texas" />
+<head_link id="he31" fromID="p18" fromText="a United States Postal Inspector" toID="h30" toText="Inspector" />
+<head_link id="he32" fromID="g11" fromText="United States" toID="h31" toText="United States" />
+<head_link id="he33" fromID="p19" fromText="Riley" toID="h32" toText="Riley" />
+<head_link id="he35" fromID="l0" fromText="downtown Anchorage" toID="h34" toText="Anchorage" />
+<head_link id="he36" fromID="p20" fromText="Surveillance agents" toID="h35" toText="agents" />
+<head_link id="he37" fromID="p21" fromText="the defendant" toID="h36" toText="defendant" />
+<head_link id="he38" fromID="f2" fromText="the Eastchester Post Office" toID="h33" toText="Eastchester Post Office" />
+<head_link id="he39" fromID="f3" fromText="that post office" toID="h37" toText="post office" />
+<head_link id="he40" fromID="p22" fromText="investigators" toID="h38" toText="investigators" />
+<head_link id="he41" fromID="p23" fromText="the defendant" toID="h39" toText="defendant" />
+<head_link id="he42" fromID="g12" fromText="Texas" toID="h40" toText="Texas" />
+<head_link id="he43" fromID="p24" fromText="the defendant" toID="h41" toText="defendant" />
+<head_link id="he44" fromID="g13" fromText="Texas" toID="h42" toText="Texas" />
+<head_link id="he45" fromID="p25" fromText="agents" toID="h43" toText="agents" />
+<head_link id="he46" fromID="p26" fromText="The defendant" toID="h44" toText="defendant" />
+<head_link id="he47" fromID="p27" fromText="his" toID="h45" toText="his" />
+<head_link id="he48" fromID="p28" fromText="agents" toID="h46" toText="agents" />
+<head_link id="he49" fromID="p29" fromText="the defendant" toID="h47" toText="defendant" />
+<head_link id="he50" fromID="g14" fromText="Kansas City" toID="h48" toText="Kansas City" />
+<head_link id="he51" fromID="p30" fromText="Agents" toID="h49" toText="Agents" />
+<head_link id="he52" fromID="p31" fromText="the defendant" toID="h50" toText="defendant" />
+<head_link id="he53" fromID="g15" fromText="Alaska" toID="h51" toText="Alaska" />
+<head_link id="he54" fromID="g16" fromText="Texas" toID="h52" toText="Texas" />
+<head_link id="he55" fromID="f5" fromText="a storage facility in Kansas City" toID="h54" toText="facility" />
+<head_link id="he56" fromID="g17" fromText="Kansas City" toID="h55" toText="Kansas City" />
+<head_link id="he57" fromID="p32" fromText="the jury" toID="h56" toText="jury" />
+<head_link id="he59" fromID="o3" fromText="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" toID="h57" toText="Drug Enforcement Administration" />
+<head_link id="he60" fromID="o4" fromText="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" toID="h58" toText="United States Postal Inspection Service" />
+<head_link id="he62" fromID="g18" fromText="Anchorage" toID="h60" toText="Anchorage" />
+<head_link id="he63" fromID="g19" fromText="Kansas City" toID="h61" toText="Kansas City" />
+<head_link id="he64" fromID="o6" fromText="the Alaska State Troopers" toID="h62" toText="Alaska State Troopers" />
+<head_link id="he2" fromID="o1" fromText="Fed Ex" toID="h53" toText="Fed Ex" />
+<head_link id="he34" fromID="o2" fromText="both in Anchorage and in Kansas City" toID="h59" toText="both" />
+<name_link id="na0" fromID="p0" fromText="Jodie Underwood" toID="n0" toText="Jodie Underwood" />
+<name_link id="na1" fromID="g0" fromText="Anchorage, AK" toID="n1" toText="Anchorage" />
+<name_link id="na2" fromID="g1" fromText="AK" toID="n2" toText="AK" />
+<name_link id="na3" fromID="p3" fromText="Thomas M. Riley, 44" toID="n3" toText="Thomas M. Riley" />
+<name_link id="na4" fromID="g2" fromText="Kansas City, Missouri" toID="n4" toText="Kansas City" />
+<name_link id="na5" fromID="g3" fromText="Missouri" toID="n5" toText="Missouri" />
+<name_link id="na6" fromID="g4" fromText="Anchorage" toID="n6" toText="Anchorage" />
+<name_link id="na7" fromID="g5" fromText="Anchorage" toID="n7" toText="Anchorage" />
+<name_link id="na8" fromID="p7" fromText="Riley" toID="n8" toText="Riley" />
+<name_link id="na9" fromID="p10" fromText="Riley" toID="n9" toText="Riley" />
+<name_link id="na10" fromID="p11" fromText="Riley" toID="n10" toText="Riley" />
+<name_link id="na11" fromID="p12" fromText="Riley" toID="n11" toText="Riley" />
+<name_link id="na12" fromID="g6" fromText="Alaska" toID="n12" toText="Alaska" />
+<name_link id="na13" fromID="p13" fromText="Riley" toID="n13" toText="Riley" />
+<name_link id="na14" fromID="g7" fromText="Texas" toID="n14" toText="Texas" />
+<name_link id="na15" fromID="g8" fromText="Alaska" toID="n15" toText="Alaska" />
+<name_link id="na16" fromID="p15" fromText="Riley" toID="n16" toText="Riley" />
+<name_link id="na17" fromID="g9" fromText="Kansas City" toID="n17" toText="Kansas City" />
+<name_link id="na18" fromID="p17" fromText="Riley" toID="n18" toText="Riley" />
+<name_link id="na19" fromID="g10" fromText="Texas" toID="n19" toText="Texas" />
+<name_link id="na20" fromID="g11" fromText="United States" toID="n20" toText="United States" />
+<name_link id="na21" fromID="p19" fromText="Riley" toID="n21" toText="Riley" />
+<name_link id="na23" fromID="f2" fromText="the Eastchester Post Office" toID="n22" toText="Eastchester Post Office" />
+<name_link id="na24" fromID="g12" fromText="Texas" toID="n23" toText="Texas" />
+<name_link id="na25" fromID="g13" fromText="Texas" toID="n24" toText="Texas" />
+<name_link id="na26" fromID="g14" fromText="Kansas City" toID="n25" toText="Kansas City" />
+<name_link id="na27" fromID="g15" fromText="Alaska" toID="n26" toText="Alaska" />
+<name_link id="na28" fromID="g16" fromText="Texas" toID="n27" toText="Texas" />
+<name_link id="na29" fromID="g17" fromText="Kansas City" toID="n28" toText="Kansas City" />
+<name_link id="na31" fromID="o3" fromText="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" toID="n29" toText="Drug Enforcement Administration" />
+<name_link id="na32" fromID="o4" fromText="the Drug Enforcement Administration and United States Postal Inspection Service, both in Anchorage and in Kansas City" toID="n30" toText="United States Postal Inspection Service" />
+<name_link id="na33" fromID="g18" fromText="Anchorage" toID="n31" toText="Anchorage" />
+<name_link id="na34" fromID="g19" fromText="Kansas City" toID="n32" toText="Kansas City" />
+<name_link id="na35" fromID="o6" fromText="the Alaska State Troopers" toID="n33" toText="Alaska State Troopers" />
+<name_link id="na22" fromID="o1" fromText="Fed Ex" toID="n34" toText="Fed Ex" />
+<relation_link1 id="r0" fromID="C0" fromText="a resident of Kansas City, Missouri" toID="p4" toText="a resident of Kansas City, Missouri" />
+<relation_link1 id="r1" fromID="e0" fromText="an Anchorage federal jury" toID="p6" toText="an Anchorage federal jury" />
+<relation_link1 id="r2" fromID="lo0" fromText="In addition, Riley was ordered to pay a money judgment of $396,000, which represents a conservative estimate of Riley's profits made from the sale of 33 kilograms of cocaine in Alaska" toID="p12" toText="Riley" />
+<relation_link1 id="r3" fromID="lo1" fromText="According to evidence introduced at trial, Riley had been mailing cocaine packages from Texas to Alaska since 2008" toID="p13" toText="Riley" />
+<relation_link1 id="r4" fromID="e1" fromText="a United States Postal Inspector" toID="p18" toText="a United States Postal Inspector" />
+<relation_link1 id="r5" fromID="lo2" fromText="Surveillance agents observed the defendant entering that post office on May 11, 2009" toID="p21" toText="the defendant" />
+<relation_link1 id="r6" fromID="lo3" fromText="The package had been sent from Texas, and the evidence at trial showed that the defendant purchased the postage for the package in Texas" toID="p24" toText="the defendant" />
+<relation_link2 id="re0" fromID="C0" fromText="a resident of Kansas City, Missouri" toID="g2" toText="Kansas City, Missouri" />
+<relation_link2 id="re1" fromID="e0" fromText="an Anchorage federal jury" toID="g5" toText="Anchorage" />
+<relation_link2 id="re2" fromID="lo0" fromText="In addition, Riley was ordered to pay a money judgment of $396,000, which represents a conservative estimate of Riley's profits made from the sale of 33 kilograms of cocaine in Alaska" toID="g6" toText="Alaska" />
+<relation_link2 id="re3" fromID="lo1" fromText="According to evidence introduced at trial, Riley had been mailing cocaine packages from Texas to Alaska since 2008" toID="g7" toText="Texas" />
+<relation_link2 id="re4" fromID="e1" fromText="a United States Postal Inspector" toID="g11" toText="United States" />
+<relation_link2 id="re5" fromID="lo2" fromText="Surveillance agents observed the defendant entering that post office on May 11, 2009" toID="f3" toText="that post office" />
+<relation_link2 id="re6" fromID="lo3" fromText="The package had been sent from Texas, and the evidence at trial showed that the defendant purchased the postage for the package in Texas" toID="g13" toText="Texas" />
+</TAGS>
+</KddTask>

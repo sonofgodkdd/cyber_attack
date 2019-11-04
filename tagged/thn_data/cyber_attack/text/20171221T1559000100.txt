@@ -1,0 +1,25 @@
+Hackers Targeting Servers Running Database Services for Mining Cryptocurrency
+Swati Khandelwal
+
+Security researchers have discovered multiple attack campaigns conducted by an established Chinese criminal group that operates worldwide, targeting database servers for mining cryptocurrencies, exfiltrating sensitive data and building a DDoS botnet.
+The researchers from security firm GuardiCore Labs have analyzed thousands of attacks launched in recent months and identified at least three attack variants—Hex, Hanako, and Taylor—targeting different MS SQL and MySQL servers for both Windows and Linux.
+The goals of all the three variants are different—Hex installs cryptocurrency miners and remote access trojans (RATs) on infected machines, Taylor installs a keylogger and a backdoor, and Hanako uses infected devices to build a DDoS botnet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So far, researchers have recorded hundreds of Hex and Hanako attacks and tens of thousands of Taylor attacks each month and found that most compromised machines are based in China, and some in Thailand, the United States, Japan and others.
+To gain unauthorized access to the targeted database servers, the attackers use brute force attacks and then run a series of predefined SQL commands to gain persistent access and evade audit logs.
+What's interesting? To launch the attacks against database servers and serve malicious files, attackers use a network of already compromised systems, making their attack infrastructure modular and preventing takedown of their malicious activities.
+For achieving persistent access to the victim's database, all three variants (Hex, Hanko, and Taylor) create backdoor users in the database and open the Remote Desktop port, allowing attackers to remotely download and install their next stage attack—a cryptocurrency miner, Remote Access Trojan (RAT) or a DDoS bot.
+"Later in the attack, the attacker stops or disables a variety of anti-virus and monitoring applications by running shell commands," the researchers wrote in their blog post published Tuesday. 
+"The anti-virus targeted is a mixture of well-known products such as Avira and Panda Security and niche software such as Quick Heal and BullGuard."
+Finally, to cover their tracks, the attackers deletes any unnecessary Windows registry, file, and folder entry using pre-defined batch files and Visual Basic scripts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Administrators should check for the existence of the following usernames in their database or systems in order to identify if they have been compromised by the Chinese criminal hackers.
+hanako
+kisadminnew1
+401hk$
+Guest
+Huazhongdiguo110
+To prevent compromise of your systems, researchers advised administrators to always follow the databases hardening guides (provided by both MySQL and Microsoft), rather than just having a strong password for your databases.
+"While defending against this type of attacks may sound easy or trivial—'patch your servers and use strong passwords'—we know that 'in real life' things are much more complicated. The best way to minimize your exposure to campaigns targeting databases is to control the machines that have access to the database," the researchers advised. 
+"Routinely review the list of machines that have access to your databases, keep this list to a minimum and pay special attention to machines that are accessible directly from the internet. Every connection attempt from an IP or domain that does not belong to this list should be blocked and investigated."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

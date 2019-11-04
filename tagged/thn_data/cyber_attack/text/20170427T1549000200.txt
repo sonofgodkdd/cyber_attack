@@ -1,0 +1,23 @@
+Hack'em If You Can — U.S. Air Force launches Bug Bounty Program
+Mohit Kumar
+
+With the growing number of data breaches and cyber attacks, a significant number of companies and organizations have started Bug Bounty programs for encouraging hackers and bug hunters to find and responsibly report vulnerabilities in their services and get rewarded.
+Now, following the success of the "Hack the Pentagon" and "Hack the Army" initiatives, the United States Department of Defense (DoD) has announced the launch of the "Hack the Air Force" bug bounty program.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hacking or breaking into Defense Department networks was illegal once, but after "Hack the Pentagon" initiative, the DoD started rewarding outsiders to finding and reporting weaknesses in its private networks.
+"This is the first time the AF [Air Force] has opened up...networks to such a broad scrutiny," Peter Kim, the Air Force Chief Information Security Officer said in a statement. "We have malicious hackers trying to get into our systems every day."
+"It'll be nice to have friendly hackers taking a shot and, most importantly, showing us how to improve our cyber security and defense posture. The additional participation from our partner nations greatly widens the variety of experience available to find additional unique vulnerabilities."
+The "Hack the Air Force" program is directed by HackerOne, the bug bounty startup that was behind Hack the Pentagon, and Luta Security, the security consulting company driving the U.K. program.
+Hackers From The Five Eyes Nations Are Invited
+This program will be the DoD's largest bug bounty project as it invites experts and white hat hackers not only from the United States, but also from remaining Five Eyes countries: the United Kingdom, Canada, Australia and New Zealand.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, only Hackers and bug hunters from the Five Eyes intelligence alliance are eligible to participate in Hack the Air Force.
+"This outside approach – drawing on the talent and expertise of our citizens and partner nation citizens – in identifying our security vulnerabilities will help bolster our cyber security," said Air Force Chief of Staff Gen. David L. Goldfein.
+"We already aggressively conduct exercises and 'red team' our public facing and critical websites. But this next step throws open the doors and brings additional talent onto our cyber team."
+Only Vetted Hackers Can Participate
+Only "Vetted Hackers" can participate in Hack the Air Force program, which means the candidates must pass a rigorous background test after registration and have a clean criminal record in order to participate in the program.
+However, according to some critics, this process excludes many talented hackers and bug hunters, but this is one of the common conditions across all of the Pentagon's bug bounty programs.
+Registration for "Hack the Air Force" will start on May 15 and interested participants should register through HackerOne. The contest will launch on May 30 and last until June 23.
+The first DoD bug bounty program, "Hack the Pentagon," came in April 2016, in which over 14,000 participating hackers found 138 vulnerabilities in DoD systems and were awarded over $75,000 in bounties.
+Just like Bug Bounty programs offered by several Frontliners in the technology industry, Hack the Air Force is also an exercise for the federal authorities to boost up their security measures and counter the cyber attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

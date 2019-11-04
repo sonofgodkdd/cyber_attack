@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Another Cyber attack Hit Regions Bank and SunTrust 
+Mohit Kumar
+
+As warned by Izz ad-Din al-Qassam Cyber Fighters They launched another distributed denial-of-service (DDOS) attack against the website of Regions Financial Corp (regions.com) and SunTrust. The computer attacks burden the bank websites with heavy traffic volume that causes slow service for the sites or makes them completely unavailable.
+In a Pastebin post dated Oct. 8, the hacktivist group announced the planned Oct. 9 attack against Capital One, the Oct. 10 attack against SunTrust and an Oct. 11 takedown date for Regions Financial Corp and THEY DID IT.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+SunTrust ( suntrust.com ) spokesman Michael McCoy confirmed SunTrust's site had been hit by an uptick in traffic. "We have seen increased online traffic today and experienced intermittent service availability of some online functions," he said.
+A couple of days ago, Regions representatives told Fox Business that the organization was aware of the threats. At the time, they claimed they were “taking every measure” to protect the company and customers.
+All these attacks on US Banks are in response to a video uploaded to YouTube ridiculing the Prophet Muhammad and offending some Muslims.
+That unknown motivation also makes fighting these DDoS attacks challenging, Pascual says, although banks are likely improving their defensive techniques.
+Subscribe to our Daily News-letter via email - Be First to know about Security and Hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DoS id="D0" start="174" end="188" text="attack against" TYPE="USP" />
+<DoS id="D1" start="276" end="282" text="burden" TYPE="USP" />
+<DoS id="D2" start="339" end="351" text="slow service" TYPE="SUP" />
+<DoS id="D4" start="763" end="766" text="hit" TYPE="USP" />
+<DoS id="D5" start="801" end="815" text="seen increased" TYPE="USP" />
+<DoS id="D6" start="369" end="402" text="makes them completely unavailable" TYPE="SUP" />
+<DoS id="D8" start="852" end="866" text=" intermittent " TYPE="USP" />
+<confuse id="c0" start="339" end="402" text="slow service for the sites or makes them completely unavailable" />
+</TAGS>
+</KddTask>

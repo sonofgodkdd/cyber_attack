@@ -1,0 +1,20 @@
+Tumblr Patches A Flaw That Could Have Exposed Users’ Account Info
+Swati Khandelwal
+
+Tumblr today published a report admitting the presence of a security vulnerability in its website that could have allowed hackers to steal login credentials and other private information for users' accounts.
+The affected information included users email addresses, protected (hashed and salted) account passwords, self-reported location (a feature no longer available), previously used email addresses, last login IP addresses, and names of the blog associated with every account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the company, a security researcher discovered a critical vulnerability in the desktop version of its website and responsibly reported it to the Tumblr security team via its bug bounty program.
+Though the company has not revealed the researcher's name or any technical details about the vulnerability, Tumblr has disclosed that the flaw resided in the "Recommended Blogs" feature of its website.
+Recommended Blogs has been designed to display a short, rotating list of blogs of other users that may be of interest. The feature appears only for logged-in users.
+Tumblr also says:
+"If a blog appeared in the module, it was possible, using debugging software in a certain way, to view certain account information associated with the blog."
+In short, your account could only be affected if it was recommended to some an attacker via the vulnerable feature.
+The company fails to determine which specific accounts were recommended via the vulnerable feature, thus is unable to disclose the number of affected users, but it concludes that "the bug was rarely present."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Tumblr also assured that its internal investigation found no evidence of the bug being abused by an attacker.
+"It's our mission to provide a safe space for people to express themselves freely and form communities around things they love," Tumblr says. "We feel that this bug could have affected that experience. We want to be transparent with you about it. In our view, it's simply the right thing to do."
+Tumblr disclosure comes less than a week after Facebook announced its worst-ever security breach that allowed attackers to steal personal information, including secret access tokens, for 30 million users.
+Also, over a week ago Google announced the shut down of its social media network Google+ following a massive data breach that exposed the private data of hundreds of thousands of Google Plus users to third-party developers.
+Late last month, Twitter also revealed a similar security breach incident in which an API flaw inadvertently exposed direct messages (DMs) and protected tweets of more than 3 million people to unauthorized third-party app developers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

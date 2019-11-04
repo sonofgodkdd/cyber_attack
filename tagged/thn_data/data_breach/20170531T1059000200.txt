@@ -1,0 +1,26 @@
+LinkedIn Hacker, Wanted by US & Russian, Can be Extradited to Either State
+Mohit Kumar
+The alleged Russian hacker, who was arrested by the Czech police in Prague last October on suspicion of massive 2012 data breach at LinkedIn, can be extradited to either the United States or Russia, a Czech court ruled on Tuesday.
+Yevgeniy Aleksandrovich Nikulin, a 29-years-old Russian national, is accused of allegedly hacking not just LinkedIn, but also the online cloud storage platform Dropbox, and now-defunct social-networking company Formspring.
+However, he has repeatedly denied all accusations.
+Nikulin was arrested in Prague on October 5 by the Czech police after Interpol issued an international arrest warrant against him.
+Nikulin appeared at a court hearing held inside a high-security prison in Prague on Tuesday and emaciated after eight months in solitary confinement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The court ruling, pending appeals, left the final decision in the hands of Czech Justice Minister Robert Pelikan, who can approve extradition to one of the countries and block the other.
+The United States has requested Nikulin extradition for carrying out hacking attacks and stealing information from several American social networking companies, including LinkedIn, Dropbox, and Formspring, between March 2012 to July 2012.
+However, Russia, where Nikulin is facing a lesser charge, has requested his extradition on a separate cyber theft charge of stealing $3,450 via the Internet in 2009.
+"Both [case] documents are very, very sufficient for reasonable suspicion that [the offenses] took place and that there is a reason to press charges," the judge said.
+Hacker Claims FBI Pressured Him to Confess to US Election Hacks
+Nikulin's arrest last October came three days before the United States officially accused Russia of hacking the Democratic National Committee (DNC) and interfering in the 2016 presidential election.
+Nikulin's lawyer says the case is a set-up, indicating that his arrest may have deeper inclinations than over the cyber attacks against American firms.
+The Guardian reported Nikulin was interrogated in Prague, where he currently remains imprisoned, by FBI special agent Jeffrey Miller.
+Nikulin wrote in a letter from prison that during his interrogation, Miller reportedly brought up the US election hacking and claimed that the FBI agent pressured him to admit to the DNC hack and promised him good treatment if he accepted to cooperate.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nikulin wrote in the letter that he rejected the offer. His lawyer indicated that Nikulin was not a hacker, but just a victim of an FBI plot. 
+"Do you really imagine that a high-ranking FBI agent is going to travel all the way from San Francisco just to read this guy his rights?," Nikulin lawyer said.
+Mark Galeotti, a senior security researcher at the Institute of International Relations Prague, also showed his concern about an FBI agent traveling to another country to extradite a hacker.
+"An FBI agent traveling from the US to a third country as part of an extradition request is extremely unusual and highlights that the case is seen as significant," Galeotti said, as quoted by the Guardian.
+Nikulin's Russian lawyer stated that his client's life revolved around buying and selling luxury cars, adding that Nikulin was "useless with computers" and capable of checking his email and no more and, far from being a super-hacker who can hack big firms.
+Tuesday's court hearing was held in a tiny room inside the prison for security reasons, to which Nikulin’s Czech lawyer said: "In all my 25 years as a lawyer, I don’t remember any cases being tried inside the prison, including serial killers or organized crime cases."
+Now, the final decision is in the hands of the Czech Justice Minister Robert Pelikan, who is slated to decide where Nikulin will be extradited: The United States, where he can face a "disproportionately harsh" sentence of 54 years behind bars, or Russia, where he faces a lesser charge of cyber theft.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,21 @@
+Bitcoin Price Drops 20% After $72 Million in Bitcoin Stolen from Bitfinex Exchange
+Mohit Kumar
+
+Yet another blow to Bitcoin: One of the world's most popular exchanges of the cryptocurrency has suffered a major hack, leading to a loss of around $72 Million worth of Bitcoins.
+Hong Kong-based Bitcoin exchange 'Bitfinex' has posted a note on their website announcing the shutdown of its operation after discovering a security breach that allowed an attacker to steal some user funds.
+While the company did not mention a total amount lost in the breach, one of their employees — Bitfinex community director Zane Tackett — confirmed on Reddit that the total amount stolen was 119,756 bitcoins — worth up to $72 Million in cash.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The cause of the security breach and the hacker behind the incident is still unclear, but the attackers appear to have mysteriously bypassed Bitfinex’s mandated limits on withdrawals.
+"The theft is being reported to — and we are co-operating with — law enforcement," Bitfinex statement reads.
+"We will look at various options to address customer losses later in the investigation" and "ask for the community’s patience as we unravel the causes and consequences of this breach."
+Bitcoin Price Drops 20% After the Hack
+Bitfinex is the third-largest Bitcoin exchange in the world. After the news of the Bitfinex hack had broken on August 2, the price of Bitcoin dropped almost 20%, from $602.78 to $541 per Bitcoin, within the day after the announcement.
+The sudden dropout could be the result of the latest hack that likely made Bitcoin investors sell off their Bitcoin holdings, leading to a rapid decrease in Bitcoin price.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bitfinex's security firm Bitgo — a Palo Alto-based Bitcoin security company that allows bitcoin exchanges to provide separate, multi-signature wallets for each user's funds — tweeted earlier today, saying it has not found any "evidence of a breach on any BitGo servers" during its investigation.
+Although it’s unclear whether Bitfinex can sustain a loss of that magnitude, the company will address any customer losses following the result of their ongoing investigation.
+"As we account for individualized customer losses, we may need to settle open margin positions, associated financing, and/or collateral affected by the breach," the company says. "Any settlements will be at the current market prices as of 18:00 UTC."
+The bottom line:
+The best way to secure yourself is to go OFFLINE.
+The safest place to store your Bitcoins or any other cryptocurrency is on your own (if possible, offline) wallet; instead on any website or cryptocurrency exchange.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

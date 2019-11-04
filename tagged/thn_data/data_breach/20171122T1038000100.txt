@@ -1,0 +1,22 @@
+After Getting Hacked, Uber Paid Hackers $100,000 to Keep Data Breach Secret
+Mohit Kumar
+
+Uber is in headlines once again—this time for concealing last year's data breach that exposed personal data of 57 million customers and drivers.
+On Tuesday, Uber announced that the company suffered a massive data breach in October 2016 that exposed names, e-mail addresses and phone numbers of 57 million Uber riders and drivers along with driver license numbers of around 600,000 drivers.
+However, instead of disclosing the breach, the company paid $100,000 in ransom to the two hackers who had access to the data in exchange for keeping the incident secret and deleting the information, according to a report published by Bloomberg.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Uber said none of its own systems were breached, rather two individuals outside the company inappropriately accessed and downloaded 57 million Uber riders' and drivers' data that was stored on a third-party cloud-based service.
+The cyberattack exposed the names and driver license numbers of some 600,000 drivers in the United States, and the names, emails, and mobile phone numbers of around 57 million Uber users worldwide, which included drivers as well.
+However, the company said other personal details, such as trip location history, credit card numbers, bank account numbers, Social Security numbers or dates of birth, were not accessed in the attack.
+Uber Hid 57 Million User Data Breach For Over a Year
+According to Bloomberg report, former Uber CEO Travis Kalanick learned of the cyber attack in November 2016, when the company was negotiating with the Federal Trade Commission (FTC) on a privacy settlement.
+So, the company chose to pay the two hackers $100,000 to delete the stolen information and keep quiet about the incident and finally agreed to the FTC settlement three months ago, without admitting any wrongdoing.
+Uber Technologies Inc. only told the FTC about the October 2016 data incident on Tuesday, when the breach was made public by Bloomberg.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, this secret payment eventually cost Uber security executives their jobs for handling the incident.
+Now Uber CEO Dara Khosrowshahi has reportedly asked for the resignation of Uber Chief Security Officer Joe Sullivan, and one of his deputies, Craig Clark, who worked to keep the attack quiet.
+"None of this should have happened, and I will not make excuses for it. While I cannot erase the past, I can commit on behalf of every Uber employee that we will learn from our mistakes," Khosrowshahi said.
+"We are changing the way we do business, putting integrity at the core of every decision we make and working hard to earn the trust of our customers."
+Uber is notifying regulatory authorities and offering affected drivers free credit monitoring and identity theft protection.
+The company also says that it is monitoring the affected accounts for fraudulent activity and that riders do not need to take any action against this incident. It's likely that Uber will be forcing its customers to reset their passwords for its app.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+Scam Alert: Your Trusted Friends Can Hack Your Facebook Account
+Mohit Kumar
+
+If you receive a message from any of your Facebook Friends asking for urgent help to recover their Facebook account, since they've added you as one of their 'Trusted Contacts'—just don’t blindly believe it.
+Researchers have detected a new Facebook phishing scam that can even trick an experienced technical user into falling victim to the scam, helping an attacker gain access to your Facebook account.
+This latest social media scam is abusing "Trusted Contact"—a Facebook account recovery feature that sends secret access codes to a few of your close friends in order to help you regain access to your Facebook account in case you forget your password or lost access to your account.
+According to a public security alert published by AccessNow, the attack initiates by an already compromised account of one of your friends, asking for urgent help to get back into his/her Facebook account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attacker explains that you are listed as one of his/her Trusted Contacts on Facebook and asks you to check your email for a recovery code and share with the attacker (who's hiding behind the identity of your friend).
+However, in actual, the code you received is not the key to unlock your friend's account, but instead, the attacker initiated "Forgot my password" request for your account in an attempt to hijack your Facebook account.
+Knowing that a friend is in trouble, apparently one would share the code without giving a second thought.
+"The new attack targets people using Facebook, and it relies on your lack of knowledge about the platform's Trusted Contacts feature," Access Now warns.
+You should know Facebook's Trusted Contacts feature doesn't work the way this phishing attack suggests. To understand how this feature works, you can head on to this Facebook post.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Access Now says, "So far we're seeing the majority of reports [falling victims to this new Facebook phishing scam] from human right defenders and activists from the Middle East and North Africa."
+Although this latest Facebook scam is initiated using a compromised Facebook account of one of your friends, any of your Facebook friend can also intentionally trick you into handing over your Facebook account to them (looking at the way how people accept friend requests sent by anyone on the social media platform).
+The best way to protect yourself is always to be vigilant to every recovery emails you receive, and read the recovery message or email carefully, even if it is sent by one of your actual friends.
+Stay Safe!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

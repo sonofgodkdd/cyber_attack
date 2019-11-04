@@ -1,0 +1,10 @@
+Stuxnet is Back ! Iran reported another cyber attack
+Wang Wei
+
+Iran claims to have repelled a fresh cyber attack on its industrial units in a southern province. In the last few years, various Iranian industrial, nuclear and government bodies have recently come under growing cyber attacks, widely believed to be designed and staged by the US and Israel.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A power plant and other industries in southern Iran have been targeted by the Stuxnet computer worm, an Iranian civil defense official says. Iran's news agency reported that the worm attacked the Culture Ministry's Headquarters for Supporting and Protecting Works of Art and Culture and was reportedly sent from Dallas via switches in Malaysia and Vietnam.
+This recent Stuxnet attack was successfully defeated, according to local Iranian civil defense chief Ali Akbar Akhavan. "We were able to prevent its expansion owing to our timely measures and the cooperation of skilled hackers," Akhavan said. The sophisticated worm spreads via USB drives and through four previously unknown holes, known as zero-day vulnerabilities, in Windows.
+Iranian officials have said, Cyber attackers also slowed Iran's Internet and attacked its offshore oil and gas platforms this year. ran is a little sensitive about malware attacks after Stuxnet, knocked out a big chunk of Iran's uranium enrichment operation.
+When Stuxnet's source code was leaked online and the virus has infected computers in Indonesia, India, the United States. Stuxnet is the first discovered worm that spies on and reprograms industrial systems. It is specifically written to attack SCADA systems which are used to control and monitor industrial processes.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

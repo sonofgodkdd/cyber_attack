@@ -1,0 +1,19 @@
+Reddit Hacked – Emails, Passwords, Private Messages Stolen
+Mohit Kumar
+Another day, another significant data breach.
+This time the victim is Reddit... seems someone is really pissed off with Reddit's account ban policy or bias moderators.
+Reddit social media network today announced that it suffered a security breach in June that exposed some of its users' data, including their current email addresses and an old 2007 database backup containing usernames and hashed passwords.
+According to Reddit, the unknown hacker(s) managed to gain read-only access to some of its systems that contained its users' backup data, source code, internal logs, and other files.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a post published to the platform Wednesday, Reddit Chief Technology Officer Christopher Slowe admitted that the hack was a serious one, but assured its users that the hackers did not gain access to Reddit systems.
+"[The attackers] were not able to alter Reddit information, and we have taken steps since the event to further lock down and rotate all production secrets and API keys, and to enhance our logging and monitoring systems," Slowe wrote.
+According to Slowe, the most significant data contained in the backup was account credentials (usernames and their corresponding salted and hashed passwords), email addresses and all content including private messages.
+Attacker Bypassed SMS-based Two-Factor Authentication
+Reddit learned about the data breach on June 19 and said that the attacker compromised a few of the Reddit employees' accounts with its cloud and source code hosting providers between June 14 and June 18.
+The hack was accomplished by intercepting SMS messages that were meant to reach Reddit employees with one-time passcodes, eventually circumventing the two-factor authentication (2FA) Reddit had in place attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The security breach should be a wake-up call to those who still rely on SMS-based authentication and believes it is secure. It's time for you to move on from this method and switch to other non-SMS-based two-factor authentication.
+Reddit is also encouraging users to move to token-based two-factor authentication, which involves your mobile phone generating a unique one-time passcode over an app.
+Reddit said that users can follow a few steps mentioned on the breach announcement page to check if their accounts were involved.
+Moreover, Reddit will reset passwords for users who may have had their login credentials stolen in the breach, and also directly notify all affected users with tips on how they can protect themselves.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

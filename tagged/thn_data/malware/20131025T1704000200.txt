@@ -1,0 +1,14 @@
+South Korea hit by Android Trojan, Malware in Gaming apps and DDoS attack
+Mohit Kumar
+
+Last Tuesday, The National Police Agency of South Korea warned the people that many Malware infected video games being offered in the South Korean markets with the purpose of launching Cyber attacks on the Country.
+That Malware is collecting location data and IP addresses of infected users and according to experts, malware is sending data back to its master servers based in North Korea.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Just today the Korea's largest anti-virus software firm AhnLab confirmed that they have detected distributed denial-of-service (DDoS) attacks on local companies' websites.
+According to the report, about 16 websites of 13 companies, including Daum, MSN and the JoongAng Ilbo newspaper had been affected.
+AhnLab said that some 10-thousand computers have been hit, mainly because they failed to install a vaccination program or update an existing one since the last cyber attack in July.
+The attack was detected around 4:00 p.m. on Thursday, infecting around 10,000 computers until Friday.
+It is possible that same infected systems were used to launch DDoS attacks today. Police advise the public to do not download gaming programs from unverified sources and to keep their Antivirus up to date.
+Yesterday, we reported about another malicious campaign against South Korean Android users, where a Banking Trojan is specifically targeting South Korean banking applications for stealing user credentials.
+In March, North Korea was suspected as responsible for for a malware attack that simultaneously wiped data from tens of thousands of South Korean computers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

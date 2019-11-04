@@ -1,0 +1,28 @@
+Google makes 2-Factor Authentication a lot Easier and Faster
+Swati Khandelwal
+
+When it comes to data breaches of major online services like LinkedIn, MySpace, Twitter and VK.com, it's two-factor authentication that could save you from being hacked.
+Two-factor authentication or 2-step verification is an effective way to secure online accounts, but many users avoid enabling the feature just to save themselves from irritation of receiving and typing a six-digit code that takes their 10 to 15 extra seconds.
+Now, Google has made the 2-Step Verification (2FV) process much easier for its users, allowing you to login with just a single tap instead of typing codes.
+Previously, you have had to manually enter a six-digit code received via an SMS or from an authenticator app, but now…
+Google has introduced a new method called "Google Prompt" that uses a simple push notification where you just have to tap on your mobile phone to approve login requests. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also Read: Google Plans to Kill your Passwords.
+In other words, while signing in to your account, just enter your password, and you will get a pop-up message on your mobile phone asking you if you want to sign in. If you want, then press "Yes" and you're in.
+How to Set Up Google Prompt
+Here's how you can enable Google Prompt for your Google accounts:
+Before enabling Google Prompt, first enable two-step verification for your Google account and you have already enabled two-step verification, you can skip this part.
+Go to myaccount.google.com and sign in to your Google account.
+Select 'Signing in to Google,' using 2-Step Verification.
+Click on 'Get started' and enter your password once again.
+Now provide your phone number you want to use for authenticating, and choose either an SMS or phone call for verification, and click on 'Try it.'
+Enter the 6-digit code from the SMS or phone call and select 'Next.'
+For setting up two-step verification, click 'Turn ON.'
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, once you have enabled two-step verification, follow these simple steps that will just take a few second. All you need is an Android or iOS device nearby.
+Under 'Set up alternative second step,' click on the Google prompt option
+Add phone and click Get started.
+Then just follow the on-screen instructions and you're all set to go.
+If you have an iPhone, you are required to download the Google Search app first and sign in before using Google Prompt. But, if you are an Android user, just update your Google Play Service.
+Two-step verification has become so easier to use, so what are you now waiting for?
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

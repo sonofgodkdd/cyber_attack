@@ -1,0 +1,29 @@
+Over 92 Million New Accounts Up for Sale from More Unreported Breaches
+Swati Khandelwal
+
+All these numbers….
+"More than 5 billion records from 6,500 data breaches were exposed in 2018" — a report from Risk Based Security says.
+"More than 59,000 data breaches have been reported across the European since the GDPR came into force in 2018" — a report from DLA Piper says.
+…came from data breaches that were reported to the public, but in reality, more than half of all data breaches actually go unreported.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Just last week, we disclosed the existence of some massive unreported data breaches in two rounds, which a hacker has now started monetizing by selling stolen user databases publicly.
+Now, a new set of databases containing millions of hacked accounts from several websites has been made available for sale on the dark web marketplace by the same hacker who goes by online alias Gnosticplayers.
+Gnosticplayers last week made two rounds of stolen accounts up for sale on the popular dark web marketplace called Dream Market, posting details of nearly 620 million accounts stolen from 16 popular websites in the first round and 127 million records originating from 8 other sites in the second.
+The third round, which the hacker told The Hacker News would be his last round, published Sunday contained more than 92 million hacked users’ accounts stolen from 8 websites, including the popular GIF hosting platform Gfycat.
+New List of Hacked Websites
+Gnosticplayers told The Hacker News in an email that the third round up for sale on Dream Market belonged to the following 8 hacked websites:
+Pizap (Photo editor) — 60 million 
+Jobandtalent (Online job portal) — 11 million
+Gfycat (GIF hosting service) — 8 million
+Storybird (Online publishing platform) — 4 million 
+Legendas.tv (Movie streaming site) — 3.8 million
+Onebip (Mobile payment service) — 2.6 million
+Classpass (Fitness and Yoga center) — 1.5 million
+Streeteasy (Real estate) — 990,000 (1 million)
+The hacker is selling each of the above listed hacked databases individually on Dream Market for a total worth 2.6249 Bitcoin (roughly $9,700).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In an interview with The Hacker News, Gnosticplayers said none of the services listed in the third round was aware of the data breach of its network and has previously disclosed any such security incident.
+Since the majority of compromised services listed in the first and second batches have confirmed the previously-unreported or undetected data breaches, it's likely that the new round of stolen accounts being sold on the underground market is also legit.
+While the third round of the stolen accounts has been up for sale on the Dream Market, the first and second collections have already been removed from the underground market (except a round-2 database from interior designing service Houzz) by the hacker to avoid them from getting leaked or land on security initiatives like Google's new Password Checkup tool.
+What's next? If you are a user of any of the above-listed services or websites disclosed in the previous two rounds, you should consider changing your passwords and also on other services in the event you re-used the same password.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

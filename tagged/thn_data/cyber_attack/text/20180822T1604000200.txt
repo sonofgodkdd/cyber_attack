@@ -1,0 +1,29 @@
+New Apache Struts RCE Flaw Lets Hackers Take Over Web Servers
+Mohit Kumar
+
+Semmle security researcher Man Yue Mo has disclosed a critical remote code execution vulnerability in the popular Apache Struts web application framework that could allow remote attackers to run malicious code on the affected servers.
+Apache Struts is an open source framework for developing web applications in the Java programming language and is widely used by enterprises globally, including by 65 percent of the Fortune 100 companies, like Vodafone, Lockheed Martin, Virgin Atlantic, and the IRS.
+The vulnerability (CVE-2018-11776) resides in the core of Apache Struts and originates because of insufficient validation of user-provided untrusted inputs in the core of the Struts framework under certain configurations.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The newly found Apache Struts exploit can be triggered just by visiting a specially crafted URL on the affected web server, allowing attackers to execute malicious code and eventually take complete control over the targeted server running the vulnerable application.
+Struts2 Vulnerability - Are You Affected?
+All applications that use Apache Struts—supported versions (Struts 2.3 to Struts 2.3.34, and Struts 2.5 to Struts 2.5.16) and even some unsupported Apache Struts versions—are potentially vulnerable to this flaw, even when no additional plugins have been enabled.
+"This vulnerability affects commonly-used endpoints of Struts, which are likely to be exposed, opening up an attack vector to malicious hackers," Yue Mo said.
+Your Apache Struts implementation is vulnerable to the reported RCE flaw if it meets the following conditions:
+The alwaysSelectFullNamespace flag is set to true in the Struts configuration.
+Struts configuration file contains an "action" or "url" tag that does not specify the optional namespace attribute or specifies a wildcard namespace.
+According to the researcher, even if an application is currently not vulnerable, "an inadvertent change to a Struts configuration file may render the application vulnerable in the future."
+Here's Why You Should Take Apache Struts Exploit Seriously
+Less than a year ago, credit rating agency Equifax exposed personal details of its 147 million consumers due to their failure of patching a similar Apache Struts flaw that was disclosed earlier that year (CVE-2017-5638).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Equifax breach cost the company over $600 million in losses.
+"Struts is used for publicly-accessible customer-facing websites, vulnerable systems are easily identified, and the flaw is easy to exploit," said Pavel Avgustinov, Co-founder & VP of QL Engineering at Semmle.
+"A hacker can find their way in within minutes, and exfiltrate data or stage further attacks from the compromised system."
+Patch Released for Critical Apache Struts Bug
+Apache Struts has fixed the vulnerability with the release of Struts versions 2.3.35 and 2.5.17. Organizations and developers who use Apache Struts are urgently advised to upgrade their Struts components as soon as possible.
+We have seen how previous disclosures of similar critical flaws in Apache Struts have resulted in PoC exploits being published within a day, and exploitation of the vulnerability in the wild, putting critical infrastructure as well as customers' data at risk.
+Therefore, users and administrators are strongly advised to upgrade their Apache Struts components to the latest versions, even if they believe their configuration is not vulnerable right now.
+This is not the first time the Semmle Security Research Team has reported a critical RCE flaw in Apache Struts. Less than a year ago, the team disclosed a similar remote code execution vulnerability (CVE-2017-9805) in Apache Struts.
+UPDATE — Apache Struts RCE Exploit PoC Released
+A security researcher has today released a PoC exploit for the newly discovered remote code execution (RCE) vulnerability (CVE-2018-11776) in Apache Struts web application framework.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

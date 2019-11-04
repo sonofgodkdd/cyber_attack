@@ -1,0 +1,35 @@
+Ransomware attacks on Hospitals put Patients at Risk
+Unknown
+
+Just last week, the Federal Bureau of Investigation (FBI) issued an urgent "Flash" message to the businesses and organisations about the threat of Samsam Ransomware, but the ransomware has already wreaked havoc on some critical infrastructure.
+MedStar, a non-profit group that runs 10 hospitals in the Baltimore and Washington area, was attacked with Samsam, also known as Samas and MSIL, last week, which encrypted sensitive data at the hospitals.
+After compromising the MedStar Medical System, the operators of the ransomware offered a bulk deal: 45 Bitcoins (about US$18,500) for the decryption keys to unlock all the infected systems.
+But unlike other businesses or hospitals, MedStar did not pay the Ransom to entertain the hackers. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, you might be thinking that the hospitals lost all its important and critical data. Right?
+But that was not the case in MedStar. 
+Here's How MetStar Successfully dealt with SAMSAM Ransomware
+MetStar sets an example for all those businesses and organisations that pay ransom amount to attackers, motivating their criminal minds to spread the infection further.
+The IT department of the MedStar Hospital was initially able to detect the intrusion in their servers and stop the Ransomware from spreading further in its internal network by shutting down most of its network operations.
+Besides this, the IT engineers successfully restored three main clinical information systems from the backups (rest of the restoration process is in progress)  – a practice that all organisation should follow.
+This quick and active approach of hospital’s IT department ultimately saved not only the hospital reputation but also the lives of admitted patients, said Ann Nickels, a spokeswoman for the nonprofit MedStar medical system.
+Even though the prevention of Ransomware attack is complex, it is noticeable from the MedStar incident that the automatic backup is not an optional step but a must-follow step, to prevent these kinds of attacks.
+What is Samsam and How Does it Work?
+Ransomware has been around since last few years targeting businesses and organisations, but Samsam is yet the most interesting innovation of ransomware that requires no human interaction from the target.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Typical ransomware infects victim's machine by a malicious email link or attachment or a malicious advertisement. But Samsam ransomware doesn't target humans. It targets servers.
+Samsam first exploits the unpatched vulnerabilities in both JBoss application servers by using JexBoss, an open-source penetration testing tool. 
+The hacker then uses these exploits to get remote shell access to the affected server and install Samsam onto the targeted Web application server. 
+Now, the hacker uses the infected server to spread the ransomware client to Windows machines and encrypt their files. Once the server is compromised, there is no communication with the command and control network.
+You can find more detailed information about Samsam here.
+Why Hospitals are Soft Target?
+With the advent of Ransomware, we have seen an enormous growth in the malware business. 
+The countless transactions of Bitcoins into the dark web wallets had energized the Ransomware authors to spread and adopt new methods of infection for the higher successful rate.
+Nowadays ransomware had been a soft target for both Corporates and Hospitals.
+Since earlier this year, at least, a dozen hospitals have been affected by ransomware, enforcing them to pay the ransom as per the demand by freezing the central medical systems. 
+Technological advancement in the medical arena had digitalized patients data in the form of Electronic Medical Record (EMR) to save them into the hospital’s central database. 
+Since the delay in patients treatment by temporary locking down their data could even result in the patient’s death, the ransomware attackers seek 100% guarantee ransom by infecting hospitals. 
+Due to this reason, in most of the cases, hospitals generally agrees to pay the ransom amount to the attacker in order to obtain the decryption keys from the attackers.
+Recently, Hollywood Presbyterian Medical Centre in Los Angeles paid US$17,000 to the ransomware attackers to (or "intending to") regaining access to their patient's data.
+Followingly, many more hospitals like Methodist Hospital in Henderson and Kentucky, Chino Valley Medical Center and Desert Valley Hospital in California have been infected with Ransomware and became fresh victims of the ransomware attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

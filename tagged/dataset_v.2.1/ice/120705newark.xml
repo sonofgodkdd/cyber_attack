@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+July 5, 2012
+Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison
+NEWARK, N.J. - A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman. The investigation by U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI) led to the arrest and extradition.
+Naranjan Patel, 53, formerly of South Plainfield, N.J., was convicted in June 2007 for helping ineligible aliens fraudulently file for legal residency to remain in the United States. Patel was found guilty following a jury trial of both counts of the indictment against him; one count of conspiring with others to defraud the United States and one count of submitting false immigration documents to immigration officials.
+U.S. District Judge Katharine S. Hayden sentenced Patel in October 2007 to 37 months in prison, ordering him to begin serving his sentence as directed by the Bureau of Prisons. Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India.
+According to documents filed in this case and statements made in court:
+Between September 2004 and February 2006, Patel conspired with Jonathan Saint Preux and his wife Michele Saint Preux to file fraudulent immigration applications on behalf of hundreds of illegal aliens who were seeking permanent residency status in the United States under a government sponsored amnesty program. The program allowed aliens to eventually seek permanent residency status if they could demonstrate they had illegally resided in the United States continuously between 1982 and 1988.
+Patel and his co-conspirators helped aliens who did not meet these requirements file immigration forms which fraudulently represented that they did. The conspirators also coached the applicants on what to say during interviews with immigration officials.
+During the conspiracy, co-conspirator Jonathan Saint Preux was an attorney specializing in immigration law, with an office in Irvington, N.J. Patel's primary role in the conspiracy was to recruit alien applicants, but he also helped Jonathan Saint Preux and Michele Saint Preux file fraudulent applications and coach the applicants. The law offices of Jonathan Saint Preux received thousands of dollars in exchange for their services.
+Patel will now begin serving the 37-month sentence imposed for those crimes.
+Jonathan Saint Preux and Michele Saint Preux pleaded guilty in April 2007 to submitting false immigration documents to immigration officials. Jonathan Saint Preux was subsequently sentenced to 57 months in prison. Michele Saint Preux, who served as her husband's office manager, was sentenced to a five-year term of probation.
+The Office of International Affairs in the Justice Department's Criminal Division, and U.S. Citizenship and Immigration Services, under the direction of New Jersey District Director John E. Thompson, played key roles in the extradition process.
+The government is represented by Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="14" end="122" text="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" TYPE="BAR" />
+<person id="p1" start="138" end="282" text="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" TYPE="NOM" />
+<person id="p2" start="157" end="160" text="who" TYPE="WHQ" />
+<person id="p3" start="348" end="351" text="his" TYPE="PRO" />
+<person id="p4" start="370" end="419" text="District of New Jersey U.S. Attorney Paul Fishman" TYPE="NAM" />
+<person id="p5" start="370" end="406" text="District of New Jersey U.S. Attorney" TYPE="NOMPRE" />
+<person id="p6" start="565" end="619" text="Naranjan Patel, 53, formerly of South Plainfield, N.J." TYPE="NAM" />
+<person id="p7" start="660" end="677" text="ineligible aliens" TYPE="BAR" />
+<person id="p8" start="748" end="753" text="Patel" TYPE="NAM" />
+<person id="p9" start="783" end="787" text="jury" TYPE="NOMPRE" />
+<person id="p10" start="835" end="838" text="him" TYPE="PRO" />
+<person id="p11" start="869" end="875" text="others" TYPE="HLS" />
+<person id="p12" start="964" end="985" text="immigration officials" TYPE="BAR" />
+<person id="p13" start="987" end="1026" text="U.S. District Judge Katharine S. Hayden" TYPE="NAM" />
+<person id="p14" start="987" end="1006" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p15" start="1037" end="1042" text="Patel" TYPE="NAM" />
+<person id="p16" start="1092" end="1095" text="him" TYPE="PRO" />
+<person id="p17" start="1113" end="1116" text="his" TYPE="PRO" />
+<person id="p18" start="1188" end="1191" text="his" TYPE="PRO" />
+<person id="p19" start="1225" end="1230" text="Patel" TYPE="NAM" />
+<person id="p20" start="1379" end="1384" text="Patel" TYPE="NAM" />
+<person id="p21" start="1400" end="1420" text="Jonathan Saint Preux" TYPE="NAM" />
+<person id="p22" start="1425" end="1453" text="his wife Michele Saint Preux" TYPE="NOM" />
+<person id="p23" start="1434" end="1453" text="Michele Saint Preux" TYPE="NAM" />
+<person id="p24" start="1425" end="1428" text="his" TYPE="PRO" />
+<person id="p25" start="1511" end="1647" text="hundreds of illegal aliens who were seeking permanent residency status in the United States under a government sponsored amnesty program" TYPE="NOM" />
+<person id="p26" start="1538" end="1541" text="who" TYPE="WHQ" />
+<person id="p27" start="1669" end="1675" text="aliens" TYPE="BAR" />
+<person id="p28" start="1725" end="1729" text="they" TYPE="PRO" />
+<person id="p29" start="1748" end="1752" text="they" TYPE="PRO" />
+<person id="p30" start="1832" end="1837" text="Patel" TYPE="NAM" />
+<person id="p31" start="1842" end="1861" text="his co-conspirators" TYPE="NOM" />
+<person id="p32" start="1842" end="1845" text="his" TYPE="PRO" />
+<person id="p33" start="1869" end="1911" text="aliens who did not meet these requirements" TYPE="BAR" />
+<person id="p34" start="1876" end="1879" text="who" TYPE="WHQ" />
+<person id="p35" start="1971" end="1975" text="they" TYPE="PRO" />
+<person id="p36" start="1981" end="1997" text="The conspirators" TYPE="NOM" />
+<person id="p37" start="2011" end="2025" text="the applicants" TYPE="NOM" />
+<person id="p38" start="2064" end="2085" text="immigration officials" TYPE="BAR" />
+<person id="p39" start="2110" end="2145" text="co-conspirator Jonathan Saint Preux" TYPE="NAM" />
+<person id="p40" start="2110" end="2124" text="co-conspirator" TYPE="NOMPRE" />
+<person id="p41" start="2150" end="2228" text="an attorney specializing in immigration law, with an office in Irvington, N.J." TYPE="NOM" />
+<person id="p42" start="2229" end="2234" text="Patel" TYPE="NAM" />
+<person id="p43" start="2283" end="2299" text="alien applicants" TYPE="BAR" />
+<person id="p44" start="2305" end="2307" text="he" TYPE="PRO" />
+<person id="p45" start="2320" end="2340" text="Jonathan Saint Preux" TYPE="NAM" />
+<person id="p46" start="2345" end="2364" text="Michele Saint Preux" TYPE="NAM" />
+<person id="p47" start="2404" end="2418" text="the applicants" TYPE="NOM" />
+<person id="p48" start="2439" end="2459" text="Jonathan Saint Preux" TYPE="NAM" />
+<person id="p49" start="2522" end="2527" text="Patel" TYPE="NAM" />
+<person id="p50" start="2599" end="2619" text="Jonathan Saint Preux" TYPE="NAM" />
+<person id="p51" start="2624" end="2643" text="Michele Saint Preux" TYPE="NAM" />
+<person id="p52" start="2718" end="2739" text="immigration officials" TYPE="BAR" />
+<person id="p53" start="2741" end="2761" text="Jonathan Saint Preux" TYPE="NAM" />
+<person id="p54" start="2813" end="2876" text="Michele Saint Preux, who served as her husband's office manager" TYPE="NAM" />
+<person id="p55" start="2834" end="2837" text="who" TYPE="WHQ" />
+<person id="p56" start="2848" end="2876" text="her husband's office manager" TYPE="NOM" />
+<person id="p57" start="2848" end="2859" text="her husband" TYPE="NOM" />
+<person id="p58" start="2848" end="2851" text="her" TYPE="PRO" />
+<person id="p59" start="3079" end="3124" text="New Jersey District Director John E. Thompson" TYPE="NAM" />
+<person id="p60" start="3079" end="3107" text="New Jersey District Director" TYPE="NOMPRE" />
+<person id="p61" start="3204" end="3303" text="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" TYPE="NAM" />
+<person id="p62" start="3204" end="3227" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="370" end="392" text="District of New Jersey" TYPE="NAMPRE" />
+<organization id="o1" start="442" end="528" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="525" end="528" text="HSI" TYPE="NAM" />
+<organization id="o3" start="442" end="489" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="486" end="489" text="ICE" TYPE="NAM" />
+<organization id="o5" start="992" end="1000" text="District" TYPE="NOMPRE" />
+<organization id="o6" start="1141" end="1162" text="the Bureau of Prisons" TYPE="NAM" />
+<organization id="o7" start="1330" end="1335" text="court" TYPE="BAR" />
+<organization id="o8" start="2200" end="2228" text="an office in Irvington, N.J." TYPE="NOM" />
+<organization id="o9" start="2420" end="2459" text="The law offices of Jonathan Saint Preux" TYPE="NOM" />
+<organization id="o10" start="2506" end="2511" text="their" TYPE="PRO" />
+<organization id="o11" start="2862" end="2868" text="office" TYPE="NOMPRE" />
+<organization id="o12" start="2926" end="3007" text="The Office of International Affairs in the Justice Department's Criminal Division" TYPE="NAM" />
+<organization id="o13" start="2965" end="3007" text="the Justice Department's Criminal Division" TYPE="NOM" />
+<organization id="o14" start="2965" end="2987" text="the Justice Department" TYPE="NAM" />
+<organization id="o15" start="3013" end="3124" text="U.S. Citizenship and Immigration Services, under the direction of New Jersey District Director John E. Thompson" TYPE="NAM" />
+<organization id="o16" start="3090" end="3098" text="District" TYPE="NOMPRE" />
+<organization id="o17" start="3249" end="3303" text="the U.S. Attorney's Office Criminal Division in Newark" TYPE="NAM" />
+<geographical-political id="g0" start="31" end="41" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g1" start="77" end="81" text="U.S." TYPE="NAM" />
+<geographical-political id="g2" start="87" end="92" text="India" TYPE="NAM" />
+<geographical-political id="g3" start="123" end="134" text="NEWARK, N.J" TYPE="NAM" />
+<geographical-political id="g4" start="131" end="134" text="N.J" TYPE="NAM" />
+<geographical-political id="g5" start="151" end="156" text="India" TYPE="NAM" />
+<geographical-political id="g6" start="166" end="183" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="303" end="308" text="India" TYPE="NAM" />
+<geographical-political id="g8" start="393" end="397" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g9" start="597" end="619" text="South Plainfield, N.J." TYPE="NAM" />
+<geographical-political id="g10" start="615" end="619" text="N.J." TYPE="NAM" />
+<geographical-political id="g11" start="729" end="746" text="the United States" TYPE="NAM" />
+<geographical-political id="g12" start="887" end="904" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="987" end="991" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g14" start="1236" end="1253" text="the United States" TYPE="NAM" />
+<geographical-political id="g15" start="1258" end="1263" text="India" TYPE="NAM" />
+<geographical-political id="g16" start="1585" end="1602" text="the United States" TYPE="NAM" />
+<geographical-political id="g17" start="1611" end="1621" text="government" TYPE="NOMPRE" />
+<geographical-political id="g18" start="1778" end="1795" text="the United States" TYPE="NAM" />
+<geographical-political id="g19" start="2213" end="2228" text="Irvington, N.J." TYPE="NAM" />
+<geographical-political id="g20" start="2224" end="2228" text="N.J." TYPE="NAM" />
+<geographical-political id="g21" start="3079" end="3089" text="New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g22" start="3171" end="3185" text="The government" TYPE="NOM" />
+<geographical-political id="g23" start="3214" end="3218" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g24" start="3297" end="3303" text="Newark" TYPE="NAM" />
+<falicity id="f0" start="116" end="122" text="prison" TYPE="BAR" />
+<falicity id="f1" start="227" end="233" text="prison" TYPE="BAR" />
+<falicity id="f2" start="1075" end="1081" text="prison" TYPE="BAR" />
+<falicity id="f3" start="2805" end="2811" text="prison" TYPE="BAR" />
+<head id="h0" start="14" end="17" text="Man" />
+<head id="h1" start="31" end="41" text="New Jersey" />
+<head id="h2" start="77" end="81" text="U.S." />
+<head id="h3" start="87" end="92" text="India" />
+<head id="h4" start="116" end="122" text="prison" />
+<head id="h5" start="123" end="129" text="NEWARK" />
+<head id="h6" start="131" end="134" text="N.J" />
+<head id="h7" start="140" end="147" text="citizen" />
+<head id="h8" start="157" end="160" text="who" />
+<head id="h9" start="151" end="156" text="India" />
+<head id="h10" start="170" end="183" text="United States" />
+<head id="h11" start="227" end="233" text="prison" />
+<head id="h12" start="303" end="308" text="India" />
+<head id="h13" start="348" end="351" text="his" />
+<head id="h14" start="407" end="419" text="Paul Fishman" />
+<head id="h15" start="398" end="406" text="Attorney" />
+<head id="h16" start="393" end="397" text="U.S." />
+<head id="h17" start="370" end="392" text="District of New Jersey" />
+<head id="h18" start="491" end="523" text="Homeland Security Investigations" />
+<head id="h19" start="525" end="528" text="HSI" />
+<head id="h20" start="442" end="482" text="U.S. Immigration and Customs Enforcement" />
+<head id="h21" start="486" end="489" text="ICE" />
+<head id="h22" start="565" end="579" text="Naranjan Patel" />
+<head id="h23" start="597" end="613" text="South Plainfield" />
+<head id="h24" start="615" end="619" text="N.J." />
+<head id="h25" start="671" end="677" text="aliens" />
+<head id="h26" start="733" end="746" text="United States" />
+<head id="h27" start="748" end="753" text="Patel" />
+<head id="h28" start="783" end="787" text="jury" />
+<head id="h29" start="835" end="838" text="him" />
+<head id="h30" start="869" end="875" text="others" />
+<head id="h31" start="891" end="904" text="United States" />
+<head id="h32" start="976" end="985" text="officials" />
+<head id="h33" start="1007" end="1026" text="Katharine S. Hayden" />
+<head id="h34" start="1001" end="1006" text="Judge" />
+<head id="h35" start="987" end="991" text="U.S." />
+<head id="h36" start="992" end="1000" text="District" />
+<head id="h37" start="1037" end="1042" text="Patel" />
+<head id="h38" start="1075" end="1081" text="prison" />
+<head id="h39" start="1092" end="1095" text="him" />
+<head id="h40" start="1113" end="1116" text="his" />
+<head id="h41" start="1145" end="1162" text="Bureau of Prisons" />
+<head id="h42" start="1188" end="1191" text="his" />
+<head id="h43" start="1225" end="1230" text="Patel" />
+<head id="h44" start="1240" end="1253" text="United States" />
+<head id="h45" start="1258" end="1263" text="India" />
+<head id="h46" start="1330" end="1335" text="court" />
+<head id="h47" start="1379" end="1384" text="Patel" />
+<head id="h48" start="1400" end="1420" text="Jonathan Saint Preux" />
+<head id="h49" start="1429" end="1433" text="wife" />
+<head id="h50" start="1434" end="1453" text="Michele Saint Preux" />
+<head id="h51" start="1425" end="1428" text="his" />
+<head id="h52" start="1531" end="1537" text="aliens" />
+<head id="h53" start="1538" end="1541" text="who" />
+<head id="h54" start="1589" end="1602" text="United States" />
+<head id="h55" start="1611" end="1621" text="government" />
+<head id="h56" start="1669" end="1675" text="aliens" />
+<head id="h57" start="1725" end="1729" text="they" />
+<head id="h58" start="1748" end="1752" text="they" />
+<head id="h59" start="1782" end="1795" text="United States" />
+<head id="h60" start="1832" end="1837" text="Patel" />
+<head id="h61" start="1846" end="1861" text="co-conspirators" />
+<head id="h62" start="1842" end="1845" text="his" />
+<head id="h63" start="1869" end="1875" text="aliens" />
+<head id="h64" start="1876" end="1879" text="who" />
+<head id="h65" start="1971" end="1975" text="they" />
+<head id="h66" start="1985" end="1997" text="conspirators" />
+<head id="h67" start="2015" end="2025" text="applicants" />
+<head id="h68" start="2076" end="2085" text="officials" />
+<head id="h69" start="2125" end="2145" text="Jonathan Saint Preux" />
+<head id="h70" start="2110" end="2124" text="co-conspirator" />
+<head id="h71" start="2153" end="2161" text="attorney" />
+<head id="h72" start="2203" end="2209" text="office" />
+<head id="h73" start="2213" end="2222" text="Irvington" />
+<head id="h74" start="2224" end="2228" text="N.J." />
+<head id="h75" start="2229" end="2234" text="Patel" />
+<head id="h76" start="2289" end="2299" text="applicants" />
+<head id="h77" start="2305" end="2307" text="he" />
+<head id="h78" start="2320" end="2340" text="Jonathan Saint Preux" />
+<head id="h79" start="2345" end="2364" text="Michele Saint Preux" />
+<head id="h80" start="2408" end="2418" text="applicants" />
+<head id="h81" start="2428" end="2435" text="offices" />
+<head id="h82" start="2439" end="2459" text="Jonathan Saint Preux" />
+<head id="h83" start="2506" end="2511" text="their" />
+<head id="h84" start="2522" end="2527" text="Patel" />
+<head id="h85" start="2599" end="2619" text="Jonathan Saint Preux" />
+<head id="h86" start="2624" end="2643" text="Michele Saint Preux" />
+<head id="h87" start="2730" end="2739" text="officials" />
+<head id="h88" start="2741" end="2761" text="Jonathan Saint Preux" />
+<head id="h89" start="2805" end="2811" text="prison" />
+<head id="h90" start="2813" end="2832" text="Michele Saint Preux" />
+<head id="h91" start="2834" end="2837" text="who" />
+<head id="h92" start="2869" end="2876" text="manager" />
+<head id="h93" start="2862" end="2868" text="office" />
+<head id="h94" start="2852" end="2859" text="husband" />
+<head id="h95" start="2848" end="2851" text="her" />
+<head id="h96" start="2930" end="2961" text="Office of International Affairs" />
+<head id="h98" start="2969" end="2987" text="Justice Department" />
+<head id="h99" start="3013" end="3054" text="U.S. Citizenship and Immigration Services" />
+<head id="h100" start="3108" end="3124" text="John E. Thompson" />
+<head id="h101" start="3099" end="3107" text="Director" />
+<head id="h102" start="3090" end="3098" text="District" />
+<head id="h103" start="3079" end="3089" text="New Jersey" />
+<head id="h104" start="3175" end="3185" text="government" />
+<head id="h105" start="3228" end="3245" text="Ronnell L. Wilson" />
+<head id="h106" start="3219" end="3227" text="Attorney" />
+<head id="h107" start="3214" end="3218" text="U.S." />
+<head id="h108" start="3297" end="3303" text="Newark" />
+<head id="h109" start="3253" end="3293" text="U.S. Attorney's Office Criminal Division" />
+<head id="h97" start="2999" end="3007" text="Division" />
+<name id="n0" start="31" end="41" text="New Jersey" />
+<name id="n1" start="77" end="81" text="U.S." />
+<name id="n2" start="87" end="92" text="India" />
+<name id="n3" start="123" end="129" text="NEWARK" />
+<name id="n4" start="131" end="134" text="N.J" />
+<name id="n5" start="151" end="156" text="India" />
+<name id="n6" start="170" end="183" text="United States" />
+<name id="n7" start="303" end="308" text="India" />
+<name id="n8" start="407" end="419" text="Paul Fishman" />
+<name id="n9" start="393" end="397" text="U.S." />
+<name id="n10" start="370" end="392" text="District of New Jersey" />
+<name id="n11" start="491" end="523" text="Homeland Security Investigations" />
+<name id="n12" start="525" end="528" text="HSI" />
+<name id="n13" start="442" end="482" text="U.S. Immigration and Customs Enforcement" />
+<name id="n14" start="486" end="489" text="ICE" />
+<name id="n15" start="565" end="579" text="Naranjan Patel" />
+<name id="n16" start="597" end="613" text="South Plainfield" />
+<name id="n17" start="615" end="619" text="N.J." />
+<name id="n18" start="733" end="746" text="United States" />
+<name id="n19" start="748" end="753" text="Patel" />
+<name id="n20" start="891" end="904" text="United States" />
+<name id="n21" start="1007" end="1026" text="Katharine S. Hayden" />
+<name id="n22" start="987" end="991" text="U.S." />
+<name id="n23" start="1037" end="1042" text="Patel" />
+<name id="n24" start="1145" end="1162" text="Bureau of Prisons" />
+<name id="n25" start="1225" end="1230" text="Patel" />
+<name id="n26" start="1240" end="1253" text="United States" />
+<name id="n27" start="1258" end="1263" text="India" />
+<name id="n28" start="1330" end="1335" text="court" />
+<name id="n29" start="1379" end="1384" text="Patel" />
+<name id="n30" start="1400" end="1420" text="Jonathan Saint Preux" />
+<name id="n31" start="1434" end="1453" text="Michele Saint Preux" />
+<name id="n32" start="1589" end="1602" text="United States" />
+<name id="n33" start="1782" end="1795" text="United States" />
+<name id="n34" start="1832" end="1837" text="Patel" />
+<name id="n35" start="2125" end="2145" text="Jonathan Saint Preux" />
+<name id="n36" start="2213" end="2222" text="Irvington" />
+<name id="n37" start="2224" end="2228" text="N.J." />
+<name id="n38" start="2229" end="2234" text="Patel" />
+<name id="n39" start="2320" end="2340" text="Jonathan Saint Preux" />
+<name id="n40" start="2345" end="2364" text="Michele Saint Preux" />
+<name id="n41" start="2439" end="2459" text="Jonathan Saint Preux" />
+<name id="n42" start="2522" end="2527" text="Patel" />
+<name id="n43" start="2599" end="2619" text="Jonathan Saint Preux" />
+<name id="n44" start="2624" end="2643" text="Michele Saint Preux" />
+<name id="n45" start="2741" end="2761" text="Jonathan Saint Preux" />
+<name id="n46" start="2813" end="2832" text="Michele Saint Preux" />
+<name id="n47" start="2930" end="2961" text="Office of International Affairs" />
+<name id="n49" start="2969" end="2987" text="Justice Department" />
+<name id="n50" start="3013" end="3054" text="U.S. Citizenship and Immigration Services" />
+<name id="n51" start="3108" end="3124" text="John E. Thompson" />
+<name id="n52" start="3079" end="3089" text="New Jersey" />
+<name id="n53" start="3228" end="3245" text="Ronnell L. Wilson" />
+<name id="n54" start="3214" end="3218" text="U.S." />
+<name id="n55" start="3297" end="3303" text="Newark" />
+<name id="n56" start="3253" end="3293" text="U.S. Attorney's Office Criminal Division" />
+<located-mention id="lo0" start="14" end="122" text="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" TYPE="Participial" />
+<located-mention id="lo1" start="14" end="122" text="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" TYPE="Participial" />
+<located-mention id="lo2" start="14" end="122" text="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" TYPE="Participial" />
+<located-mention id="lo4" start="138" end="419" text="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" TYPE="Verbal" />
+<located-mention id="lo5" start="138" end="419" text="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" TYPE="Verbal" />
+<located-mention id="lo3" start="1164" end="1263" text="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" TYPE="Verbal" />
+<located-mention id="lo6" start="1164" end="1263" text="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" TYPE="Other" />
+<located-mention id="lo7" start="1649" end="1830" text="The program allowed aliens to eventually seek permanent residency status if they could demonstrate they had illegally resided in the United States continuously between 1982 and 1988" TYPE="Other" />
+<employment-mention id="e0" start="370" end="406" text="District of New Jersey U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="987" end="1006" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="2848" end="2876" text="her husband's office manager" TYPE="PreMod" />
+<employment-mention id="e3" start="3079" end="3107" text="New Jersey District Director" TYPE="PreMod" />
+<employment-mention id="e4" start="3204" end="3227" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="138" end="282" text="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" TYPE="Preposition" />
+<CRRE id="C1" start="565" end="619" text="Naranjan Patel, 53, formerly of South Plainfield, N.J." TYPE="Preposition" />
+<M id="M0" start="370" end="406" text="District of New Jersey U.S. Attorney" TYPE="PreMod" />
+<M id="M1" start="987" end="1006" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M2" start="3079" end="3107" text="New Jersey District Director" TYPE="PreMod" />
+<M id="M3" start="3204" end="3303" text="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" TYPE="Preposition" />
+<entity_link id="en0" fromID="g4" fromText="N.J" toID="g0" toText="New Jersey" />
+<entity_link id="en1" fromID="p1" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" toID="p0" toText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" />
+<entity_link id="en2" fromID="p2" fromText="who" toID="p1" toText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" />
+<entity_link id="en3" fromID="g5" fromText="India" toID="g2" toText="India" />
+<entity_link id="en4" fromID="g6" fromText="the United States" toID="g1" toText="U.S." />
+<entity_link id="en5" fromID="f1" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en6" fromID="g7" fromText="India" toID="g5" toText="India" />
+<entity_link id="en7" fromID="p3" fromText="his" toID="p1" toText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" />
+<entity_link id="en8" fromID="p5" fromText="District of New Jersey U.S. Attorney" toID="p4" toText="District of New Jersey U.S. Attorney Paul Fishman" />
+<entity_link id="en9" fromID="g8" fromText="U.S." toID="g6" toText="the United States" />
+<entity_link id="en10" fromID="o2" fromText="HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en11" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en12" fromID="p6" fromText="Naranjan Patel, 53, formerly of South Plainfield, N.J." toID="p1" toText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" />
+<entity_link id="en13" fromID="g10" fromText="N.J." toID="g4" toText="N.J" />
+<entity_link id="en14" fromID="g11" fromText="the United States" toID="g8" toText="U.S." />
+<entity_link id="en15" fromID="p8" fromText="Patel" toID="p6" toText="Naranjan Patel, 53, formerly of South Plainfield, N.J." />
+<entity_link id="en16" fromID="p10" fromText="him" toID="p8" toText="Patel" />
+<entity_link id="en17" fromID="g12" fromText="the United States" toID="g11" toText="the United States" />
+<entity_link id="en18" fromID="p14" fromText="U.S. District Judge" toID="p13" toText="U.S. District Judge Katharine S. Hayden" />
+<entity_link id="en19" fromID="g13" fromText="U.S." toID="g12" toText="the United States" />
+<entity_link id="en20" fromID="p15" fromText="Patel" toID="p8" toText="Patel" />
+<entity_link id="en21" fromID="f2" fromText="prison" toID="f1" toText="prison" />
+<entity_link id="en22" fromID="p16" fromText="him" toID="p15" toText="Patel" />
+<entity_link id="en23" fromID="p17" fromText="his" toID="p16" toText="him" />
+<entity_link id="en24" fromID="p18" fromText="his" toID="p15" toText="Patel" />
+<entity_link id="en25" fromID="p19" fromText="Patel" toID="p15" toText="Patel" />
+<entity_link id="en26" fromID="g14" fromText="the United States" toID="g13" toText="U.S." />
+<entity_link id="en27" fromID="g15" fromText="India" toID="g7" toText="India" />
+<entity_link id="en28" fromID="p20" fromText="Patel" toID="p19" toText="Patel" />
+<entity_link id="en29" fromID="p23" fromText="Michele Saint Preux" toID="p22" toText="his wife Michele Saint Preux" />
+<entity_link id="en30" fromID="p24" fromText="his" toID="p21" toText="Jonathan Saint Preux" />
+<entity_link id="en31" fromID="p26" fromText="who" toID="p25" toText="hundreds of illegal aliens who were seeking permanent residency status in the United States under a government sponsored amnesty program" />
+<entity_link id="en32" fromID="g16" fromText="the United States" toID="g14" toText="the United States" />
+<entity_link id="en33" fromID="g17" fromText="government" toID="g16" toText="the United States" />
+<entity_link id="en34" fromID="p28" fromText="they" toID="p27" toText="aliens" />
+<entity_link id="en35" fromID="p29" fromText="they" toID="p28" toText="they" />
+<entity_link id="en36" fromID="g18" fromText="the United States" toID="g16" toText="the United States" />
+<entity_link id="en37" fromID="p30" fromText="Patel" toID="p20" toText="Patel" />
+<entity_link id="en38" fromID="p32" fromText="his" toID="p30" toText="Patel" />
+<entity_link id="en39" fromID="p34" fromText="who" toID="p33" toText="aliens who did not meet these requirements" />
+<entity_link id="en40" fromID="p35" fromText="they" toID="p33" toText="aliens who did not meet these requirements" />
+<entity_link id="en41" fromID="p37" fromText="the applicants" toID="p33" toText="aliens who did not meet these requirements" />
+<entity_link id="en42" fromID="p38" fromText="immigration officials" toID="p12" toText="immigration officials" />
+<entity_link id="en43" fromID="p39" fromText="co-conspirator Jonathan Saint Preux" toID="p21" toText="Jonathan Saint Preux" />
+<entity_link id="en44" fromID="p40" fromText="co-conspirator" toID="p39" toText="co-conspirator Jonathan Saint Preux" />
+<entity_link id="en45" fromID="p41" fromText="an attorney specializing in immigration law, with an office in Irvington, N.J." toID="p39" toText="co-conspirator Jonathan Saint Preux" />
+<entity_link id="en46" fromID="g20" fromText="N.J." toID="g10" toText="N.J." />
+<entity_link id="en47" fromID="p42" fromText="Patel" toID="p20" toText="Patel" />
+<entity_link id="en48" fromID="p44" fromText="he" toID="p42" toText="Patel" />
+<entity_link id="en49" fromID="p45" fromText="Jonathan Saint Preux" toID="p21" toText="Jonathan Saint Preux" />
+<entity_link id="en50" fromID="p46" fromText="Michele Saint Preux" toID="p23" toText="Michele Saint Preux" />
+<entity_link id="en51" fromID="p47" fromText="the applicants" toID="p43" toText="alien applicants" />
+<entity_link id="en52" fromID="p48" fromText="Jonathan Saint Preux" toID="p45" toText="Jonathan Saint Preux" />
+<entity_link id="en53" fromID="o10" fromText="their" toID="o9" toText="The law offices of Jonathan Saint Preux" />
+<entity_link id="en54" fromID="p49" fromText="Patel" toID="p42" toText="Patel" />
+<entity_link id="en55" fromID="p50" fromText="Jonathan Saint Preux" toID="p48" toText="Jonathan Saint Preux" />
+<entity_link id="en56" fromID="p51" fromText="Michele Saint Preux" toID="p46" toText="Michele Saint Preux" />
+<entity_link id="en57" fromID="p52" fromText="immigration officials" toID="p38" toText="immigration officials" />
+<entity_link id="en58" fromID="p53" fromText="Jonathan Saint Preux" toID="p50" toText="Jonathan Saint Preux" />
+<entity_link id="en59" fromID="f3" fromText="prison" toID="f2" toText="prison" />
+<entity_link id="en60" fromID="p54" fromText="Michele Saint Preux, who served as her husband's office manager" toID="p51" toText="Michele Saint Preux" />
+<entity_link id="en61" fromID="p55" fromText="who" toID="p54" toText="Michele Saint Preux, who served as her husband's office manager" />
+<entity_link id="en62" fromID="p57" fromText="her husband" toID="p53" toText="Jonathan Saint Preux" />
+<entity_link id="en63" fromID="p58" fromText="her" toID="p54" toText="Michele Saint Preux, who served as her husband's office manager" />
+<entity_link id="en64" fromID="p56" fromText="her husband's office manager" toID="p54" toText="Michele Saint Preux, who served as her husband's office manager" />
+<entity_link id="en65" fromID="p60" fromText="New Jersey District Director" toID="p59" toText="New Jersey District Director John E. Thompson" />
+<entity_link id="en66" fromID="g21" fromText="New Jersey" toID="g20" toText="N.J." />
+<entity_link id="en67" fromID="g22" fromText="The government" toID="g18" toText="the United States" />
+<entity_link id="en68" fromID="p62" fromText="Assistant U.S. Attorney" toID="p61" toText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" />
+<entity_link id="en69" fromID="g23" fromText="U.S." toID="g18" toText="the United States" />
+<entity_link id="en70" fromID="g24" fromText="Newark" toID="g3" toText="NEWARK, N.J" />
+<head_link id="he0" fromID="p0" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="h0" toText="Man" />
+<head_link id="he1" fromID="g0" fromText="New Jersey" toID="h1" toText="New Jersey" />
+<head_link id="he2" fromID="g1" fromText="U.S." toID="h2" toText="U.S." />
+<head_link id="he3" fromID="g2" fromText="India" toID="h3" toText="India" />
+<head_link id="he4" fromID="f0" fromText="prison" toID="h4" toText="prison" />
+<head_link id="he5" fromID="g3" fromText="NEWARK, N.J" toID="h5" toText="NEWARK" />
+<head_link id="he6" fromID="g4" fromText="N.J" toID="h6" toText="N.J" />
+<head_link id="he7" fromID="p1" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" toID="h7" toText="citizen" />
+<head_link id="he8" fromID="p2" fromText="who" toID="h8" toText="who" />
+<head_link id="he9" fromID="g5" fromText="India" toID="h9" toText="India" />
+<head_link id="he10" fromID="g6" fromText="the United States" toID="h10" toText="United States" />
+<head_link id="he11" fromID="f1" fromText="prison" toID="h11" toText="prison" />
+<head_link id="he12" fromID="g7" fromText="India" toID="h12" toText="India" />
+<head_link id="he13" fromID="p3" fromText="his" toID="h13" toText="his" />
+<head_link id="he14" fromID="p4" fromText="District of New Jersey U.S. Attorney Paul Fishman" toID="h14" toText="Paul Fishman" />
+<head_link id="he15" fromID="p5" fromText="District of New Jersey U.S. Attorney" toID="h15" toText="Attorney" />
+<head_link id="he16" fromID="g8" fromText="U.S." toID="h16" toText="U.S." />
+<head_link id="he17" fromID="o0" fromText="District of New Jersey" toID="h17" toText="District of New Jersey" />
+<head_link id="he18" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h18" toText="Homeland Security Investigations" />
+<head_link id="he19" fromID="o2" fromText="HSI" toID="h19" toText="HSI" />
+<head_link id="he20" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h20" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he21" fromID="o4" fromText="ICE" toID="h21" toText="ICE" />
+<head_link id="he22" fromID="p6" fromText="Naranjan Patel, 53, formerly of South Plainfield, N.J." toID="h22" toText="Naranjan Patel" />
+<head_link id="he23" fromID="g9" fromText="South Plainfield, N.J." toID="h23" toText="South Plainfield" />
+<head_link id="he24" fromID="g10" fromText="N.J." toID="h24" toText="N.J." />
+<head_link id="he25" fromID="p7" fromText="ineligible aliens" toID="h25" toText="aliens" />
+<head_link id="he26" fromID="g11" fromText="the United States" toID="h26" toText="United States" />
+<head_link id="he27" fromID="p8" fromText="Patel" toID="h27" toText="Patel" />
+<head_link id="he28" fromID="p9" fromText="jury" toID="h28" toText="jury" />
+<head_link id="he29" fromID="p10" fromText="him" toID="h29" toText="him" />
+<head_link id="he30" fromID="p11" fromText="others" toID="h30" toText="others" />
+<head_link id="he31" fromID="g12" fromText="the United States" toID="h31" toText="United States" />
+<head_link id="he32" fromID="p12" fromText="immigration officials" toID="h32" toText="officials" />
+<head_link id="he33" fromID="p13" fromText="U.S. District Judge Katharine S. Hayden" toID="h33" toText="Katharine S. Hayden" />
+<head_link id="he34" fromID="p14" fromText="U.S. District Judge" toID="h34" toText="Judge" />
+<head_link id="he35" fromID="g13" fromText="U.S." toID="h35" toText="U.S." />
+<head_link id="he36" fromID="o5" fromText="District" toID="h36" toText="District" />
+<head_link id="he37" fromID="p15" fromText="Patel" toID="h37" toText="Patel" />
+<head_link id="he38" fromID="f2" fromText="prison" toID="h38" toText="prison" />
+<head_link id="he39" fromID="p16" fromText="him" toID="h39" toText="him" />
+<head_link id="he40" fromID="p17" fromText="his" toID="h40" toText="his" />
+<head_link id="he41" fromID="o6" fromText="the Bureau of Prisons" toID="h41" toText="Bureau of Prisons" />
+<head_link id="he42" fromID="p18" fromText="his" toID="h42" toText="his" />
+<head_link id="he43" fromID="p19" fromText="Patel" toID="h43" toText="Patel" />
+<head_link id="he44" fromID="g14" fromText="the United States" toID="h44" toText="United States" />
+<head_link id="he45" fromID="g15" fromText="India" toID="h45" toText="India" />
+<head_link id="he46" fromID="o7" fromText="court" toID="h46" toText="court" />
+<head_link id="he47" fromID="p20" fromText="Patel" toID="h47" toText="Patel" />
+<head_link id="he48" fromID="p21" fromText="Jonathan Saint Preux" toID="h48" toText="Jonathan Saint Preux" />
+<head_link id="he49" fromID="p22" fromText="his wife Michele Saint Preux" toID="h49" toText="wife" />
+<head_link id="he50" fromID="p23" fromText="Michele Saint Preux" toID="h50" toText="Michele Saint Preux" />
+<head_link id="he51" fromID="p24" fromText="his" toID="h51" toText="his" />
+<head_link id="he52" fromID="p25" fromText="hundreds of illegal aliens who were seeking permanent residency status in the United States under a government sponsored amnesty program" toID="h52" toText="aliens" />
+<head_link id="he53" fromID="p26" fromText="who" toID="h53" toText="who" />
+<head_link id="he54" fromID="g16" fromText="the United States" toID="h54" toText="United States" />
+<head_link id="he55" fromID="g17" fromText="government" toID="h55" toText="government" />
+<head_link id="he56" fromID="p27" fromText="aliens" toID="h56" toText="aliens" />
+<head_link id="he57" fromID="p28" fromText="they" toID="h57" toText="they" />
+<head_link id="he58" fromID="p29" fromText="they" toID="h58" toText="they" />
+<head_link id="he59" fromID="g18" fromText="the United States" toID="h59" toText="United States" />
+<head_link id="he60" fromID="p30" fromText="Patel" toID="h60" toText="Patel" />
+<head_link id="he61" fromID="p31" fromText="his co-conspirators" toID="h61" toText="co-conspirators" />
+<head_link id="he62" fromID="p32" fromText="his" toID="h62" toText="his" />
+<head_link id="he63" fromID="p33" fromText="aliens who did not meet these requirements" toID="h63" toText="aliens" />
+<head_link id="he64" fromID="p34" fromText="who" toID="h64" toText="who" />
+<head_link id="he65" fromID="p35" fromText="they" toID="h65" toText="they" />
+<head_link id="he66" fromID="p36" fromText="The conspirators" toID="h66" toText="conspirators" />
+<head_link id="he67" fromID="p37" fromText="the applicants" toID="h67" toText="applicants" />
+<head_link id="he68" fromID="p38" fromText="immigration officials" toID="h68" toText="officials" />
+<head_link id="he69" fromID="p39" fromText="co-conspirator Jonathan Saint Preux" toID="h69" toText="Jonathan Saint Preux" />
+<head_link id="he70" fromID="p40" fromText="co-conspirator" toID="h70" toText="co-conspirator" />
+<head_link id="he71" fromID="p41" fromText="an attorney specializing in immigration law, with an office in Irvington, N.J." toID="h71" toText="attorney" />
+<head_link id="he72" fromID="o8" fromText="an office in Irvington, N.J." toID="h72" toText="office" />
+<head_link id="he73" fromID="g19" fromText="Irvington, N.J." toID="h73" toText="Irvington" />
+<head_link id="he74" fromID="g20" fromText="N.J." toID="h74" toText="N.J." />
+<head_link id="he75" fromID="p42" fromText="Patel" toID="h75" toText="Patel" />
+<head_link id="he76" fromID="p43" fromText="alien applicants" toID="h76" toText="applicants" />
+<head_link id="he77" fromID="p44" fromText="he" toID="h77" toText="he" />
+<head_link id="he78" fromID="p45" fromText="Jonathan Saint Preux" toID="h78" toText="Jonathan Saint Preux" />
+<head_link id="he79" fromID="p46" fromText="Michele Saint Preux" toID="h79" toText="Michele Saint Preux" />
+<head_link id="he80" fromID="p47" fromText="the applicants" toID="h80" toText="applicants" />
+<head_link id="he81" fromID="o9" fromText="The law offices of Jonathan Saint Preux" toID="h81" toText="offices" />
+<head_link id="he82" fromID="p48" fromText="Jonathan Saint Preux" toID="h82" toText="Jonathan Saint Preux" />
+<head_link id="he83" fromID="o10" fromText="their" toID="h83" toText="their" />
+<head_link id="he84" fromID="p49" fromText="Patel" toID="h84" toText="Patel" />
+<head_link id="he85" fromID="p50" fromText="Jonathan Saint Preux" toID="h85" toText="Jonathan Saint Preux" />
+<head_link id="he86" fromID="p51" fromText="Michele Saint Preux" toID="h86" toText="Michele Saint Preux" />
+<head_link id="he87" fromID="p52" fromText="immigration officials" toID="h87" toText="officials" />
+<head_link id="he88" fromID="p53" fromText="Jonathan Saint Preux" toID="h88" toText="Jonathan Saint Preux" />
+<head_link id="he89" fromID="f3" fromText="prison" toID="h89" toText="prison" />
+<head_link id="he90" fromID="p54" fromText="Michele Saint Preux, who served as her husband's office manager" toID="h90" toText="Michele Saint Preux" />
+<head_link id="he91" fromID="p55" fromText="who" toID="h91" toText="who" />
+<head_link id="he92" fromID="p56" fromText="her husband's office manager" toID="h92" toText="manager" />
+<head_link id="he93" fromID="o11" fromText="office" toID="h93" toText="office" />
+<head_link id="he94" fromID="p57" fromText="her husband" toID="h94" toText="husband" />
+<head_link id="he95" fromID="p58" fromText="her" toID="h95" toText="her" />
+<head_link id="he96" fromID="o12" fromText="The Office of International Affairs in the Justice Department's Criminal Division" toID="h96" toText="Office of International Affairs" />
+<head_link id="he98" fromID="o14" fromText="the Justice Department" toID="h98" toText="Justice Department" />
+<head_link id="he99" fromID="o15" fromText="U.S. Citizenship and Immigration Services, under the direction of New Jersey District Director John E. Thompson" toID="h99" toText="U.S. Citizenship and Immigration Services" />
+<head_link id="he100" fromID="p59" fromText="New Jersey District Director John E. Thompson" toID="h100" toText="John E. Thompson" />
+<head_link id="he101" fromID="p60" fromText="New Jersey District Director" toID="h101" toText="Director" />
+<head_link id="he102" fromID="o16" fromText="District" toID="h102" toText="District" />
+<head_link id="he103" fromID="g21" fromText="New Jersey" toID="h103" toText="New Jersey" />
+<head_link id="he104" fromID="g22" fromText="The government" toID="h104" toText="government" />
+<head_link id="he105" fromID="p61" fromText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" toID="h105" toText="Ronnell L. Wilson" />
+<head_link id="he106" fromID="p62" fromText="Assistant U.S. Attorney" toID="h106" toText="Attorney" />
+<head_link id="he107" fromID="g23" fromText="U.S." toID="h107" toText="U.S." />
+<head_link id="he108" fromID="g24" fromText="Newark" toID="h108" toText="Newark" />
+<head_link id="he109" fromID="o17" fromText="the U.S. Attorney's Office Criminal Division in Newark" toID="h109" toText="U.S. Attorney's Office Criminal Division" />
+<head_link id="he110" fromID="o13" fromText="the Justice Department's Criminal Division" toID="h97" toText="Division" />
+<name_link id="na0" fromID="g0" fromText="New Jersey" toID="n0" toText="New Jersey" />
+<name_link id="na1" fromID="g1" fromText="U.S." toID="n1" toText="U.S." />
+<name_link id="na2" fromID="g2" fromText="India" toID="n2" toText="India" />
+<name_link id="na3" fromID="g3" fromText="NEWARK, N.J" toID="n3" toText="NEWARK" />
+<name_link id="na4" fromID="g4" fromText="N.J" toID="n4" toText="N.J" />
+<name_link id="na5" fromID="g5" fromText="India" toID="n5" toText="India" />
+<name_link id="na6" fromID="g6" fromText="the United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="g7" fromText="India" toID="n7" toText="India" />
+<name_link id="na8" fromID="p4" fromText="District of New Jersey U.S. Attorney Paul Fishman" toID="n8" toText="Paul Fishman" />
+<name_link id="na9" fromID="g8" fromText="U.S." toID="n9" toText="U.S." />
+<name_link id="na10" fromID="o0" fromText="District of New Jersey" toID="n10" toText="District of New Jersey" />
+<name_link id="na11" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n11" toText="Homeland Security Investigations" />
+<name_link id="na12" fromID="o2" fromText="HSI" toID="n12" toText="HSI" />
+<name_link id="na13" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n13" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na14" fromID="o4" fromText="ICE" toID="n14" toText="ICE" />
+<name_link id="na15" fromID="p6" fromText="Naranjan Patel, 53, formerly of South Plainfield, N.J." toID="n15" toText="Naranjan Patel" />
+<name_link id="na16" fromID="g9" fromText="South Plainfield, N.J." toID="n16" toText="South Plainfield" />
+<name_link id="na17" fromID="g10" fromText="N.J." toID="n17" toText="N.J." />
+<name_link id="na18" fromID="g11" fromText="the United States" toID="n18" toText="United States" />
+<name_link id="na19" fromID="p8" fromText="Patel" toID="n19" toText="Patel" />
+<name_link id="na20" fromID="g12" fromText="the United States" toID="n20" toText="United States" />
+<name_link id="na21" fromID="p13" fromText="U.S. District Judge Katharine S. Hayden" toID="n21" toText="Katharine S. Hayden" />
+<name_link id="na22" fromID="g13" fromText="U.S." toID="n22" toText="U.S." />
+<name_link id="na23" fromID="p15" fromText="Patel" toID="n23" toText="Patel" />
+<name_link id="na24" fromID="o6" fromText="the Bureau of Prisons" toID="n24" toText="Bureau of Prisons" />
+<name_link id="na25" fromID="p19" fromText="Patel" toID="n25" toText="Patel" />
+<name_link id="na26" fromID="g14" fromText="the United States" toID="n26" toText="United States" />
+<name_link id="na27" fromID="g15" fromText="India" toID="n27" toText="India" />
+<name_link id="na28" fromID="o7" fromText="court" toID="n28" toText="court" />
+<name_link id="na29" fromID="p20" fromText="Patel" toID="n29" toText="Patel" />
+<name_link id="na30" fromID="p21" fromText="Jonathan Saint Preux" toID="n30" toText="Jonathan Saint Preux" />
+<name_link id="na31" fromID="p23" fromText="Michele Saint Preux" toID="n31" toText="Michele Saint Preux" />
+<name_link id="na32" fromID="g16" fromText="the United States" toID="n32" toText="United States" />
+<name_link id="na33" fromID="g18" fromText="the United States" toID="n33" toText="United States" />
+<name_link id="na34" fromID="p30" fromText="Patel" toID="n34" toText="Patel" />
+<name_link id="na35" fromID="p39" fromText="co-conspirator Jonathan Saint Preux" toID="n35" toText="Jonathan Saint Preux" />
+<name_link id="na36" fromID="g19" fromText="Irvington, N.J." toID="n36" toText="Irvington" />
+<name_link id="na37" fromID="g20" fromText="N.J." toID="n37" toText="N.J." />
+<name_link id="na38" fromID="p42" fromText="Patel" toID="n38" toText="Patel" />
+<name_link id="na39" fromID="p45" fromText="Jonathan Saint Preux" toID="n39" toText="Jonathan Saint Preux" />
+<name_link id="na40" fromID="p46" fromText="Michele Saint Preux" toID="n40" toText="Michele Saint Preux" />
+<name_link id="na41" fromID="p48" fromText="Jonathan Saint Preux" toID="n41" toText="Jonathan Saint Preux" />
+<name_link id="na42" fromID="p49" fromText="Patel" toID="n42" toText="Patel" />
+<name_link id="na43" fromID="p50" fromText="Jonathan Saint Preux" toID="n43" toText="Jonathan Saint Preux" />
+<name_link id="na44" fromID="p51" fromText="Michele Saint Preux" toID="n44" toText="Michele Saint Preux" />
+<name_link id="na45" fromID="p53" fromText="Jonathan Saint Preux" toID="n45" toText="Jonathan Saint Preux" />
+<name_link id="na46" fromID="p54" fromText="Michele Saint Preux, who served as her husband's office manager" toID="n46" toText="Michele Saint Preux" />
+<name_link id="na47" fromID="o12" fromText="The Office of International Affairs in the Justice Department's Criminal Division" toID="n47" toText="Office of International Affairs" />
+<name_link id="na49" fromID="o14" fromText="the Justice Department" toID="n49" toText="Justice Department" />
+<name_link id="na50" fromID="o15" fromText="U.S. Citizenship and Immigration Services, under the direction of New Jersey District Director John E. Thompson" toID="n50" toText="U.S. Citizenship and Immigration Services" />
+<name_link id="na51" fromID="p59" fromText="New Jersey District Director John E. Thompson" toID="n51" toText="John E. Thompson" />
+<name_link id="na52" fromID="g21" fromText="New Jersey" toID="n52" toText="New Jersey" />
+<name_link id="na53" fromID="p61" fromText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" toID="n53" toText="Ronnell L. Wilson" />
+<name_link id="na54" fromID="g23" fromText="U.S." toID="n54" toText="U.S." />
+<name_link id="na55" fromID="g24" fromText="Newark" toID="n55" toText="Newark" />
+<name_link id="na56" fromID="o17" fromText="the U.S. Attorney's Office Criminal Division in Newark" toID="n56" toText="U.S. Attorney's Office Criminal Division" />
+<relation_link1 id="r0" fromID="lo0" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="p0" toText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" />
+<relation_link1 id="r1" fromID="lo1" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="p0" toText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" />
+<relation_link1 id="r2" fromID="lo2" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="p0" toText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" />
+<relation_link1 id="r3" fromID="C0" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" toID="p1" toText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" />
+<relation_link1 id="r5" fromID="lo4" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" toID="p2" toText="who" />
+<relation_link1 id="r6" fromID="e0" fromText="District of New Jersey U.S. Attorney" toID="p5" toText="District of New Jersey U.S. Attorney" />
+<relation_link1 id="r7" fromID="M0" fromText="District of New Jersey U.S. Attorney" toID="p5" toText="District of New Jersey U.S. Attorney" />
+<relation_link1 id="r8" fromID="lo5" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" toID="p1" toText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" />
+<relation_link1 id="r9" fromID="C1" fromText="Naranjan Patel, 53, formerly of South Plainfield, N.J." toID="p6" toText="Naranjan Patel, 53, formerly of South Plainfield, N.J." />
+<relation_link1 id="r4" fromID="e1" fromText="U.S. District Judge" toID="p14" toText="U.S. District Judge" />
+<relation_link1 id="r10" fromID="M1" fromText="U.S. District Judge" toID="p14" toText="U.S. District Judge" />
+<relation_link1 id="r11" fromID="lo3" fromText="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" toID="p19" toText="Patel" />
+<relation_link1 id="r12" fromID="lo6" fromText="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" toID="p19" toText="Patel" />
+<relation_link1 id="r13" fromID="lo7" fromText="The program allowed aliens to eventually seek permanent residency status if they could demonstrate they had illegally resided in the United States continuously between 1982 and 1988" toID="p29" toText="they" />
+<relation_link1 id="r14" fromID="e2" fromText="her husband's office manager" toID="p56" toText="her husband's office manager" />
+<relation_link1 id="r15" fromID="M2" fromText="New Jersey District Director" toID="p60" toText="New Jersey District Director" />
+<relation_link1 id="r16" fromID="e3" fromText="New Jersey District Director" toID="p60" toText="New Jersey District Director" />
+<relation_link1 id="r17" fromID="e4" fromText="Assistant U.S. Attorney" toID="p62" toText="Assistant U.S. Attorney" />
+<relation_link1 id="r18" fromID="M3" fromText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" toID="p61" toText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" />
+<relation_link2 id="re0" fromID="lo0" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="g0" toText="New Jersey" />
+<relation_link2 id="re1" fromID="lo1" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="g1" toText="U.S." />
+<relation_link2 id="re2" fromID="lo2" fromText="Man convicted in New Jersey of immigration fraud extradited to U.S. from India after fleeing to avoid prison" toID="g2" toText="India" />
+<relation_link2 id="re3" fromID="C0" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction" toID="g5" toText="India" />
+<relation_link2 id="re5" fromID="lo4" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" toID="g6" toText="the United States" />
+<relation_link2 id="re6" fromID="e0" fromText="District of New Jersey U.S. Attorney" toID="g8" toText="U.S." />
+<relation_link2 id="re7" fromID="M0" fromText="District of New Jersey U.S. Attorney" toID="o0" toText="District of New Jersey" />
+<relation_link2 id="re8" fromID="lo5" fromText="A citizen of India who fled the United States to avoid spending more than three years in prison following a federal immigration fraud conviction was extradited from India on Thursday to face the punishment for his crimes, announced District of New Jersey U.S. Attorney Paul Fishman" toID="g7" toText="India" />
+<relation_link2 id="re9" fromID="C1" fromText="Naranjan Patel, 53, formerly of South Plainfield, N.J." toID="g9" toText="South Plainfield, N.J." />
+<relation_link2 id="re4" fromID="e1" fromText="U.S. District Judge" toID="g13" toText="U.S." />
+<relation_link2 id="re10" fromID="M1" fromText="U.S. District Judge" toID="o5" toText="District" />
+<relation_link2 id="re11" fromID="lo3" fromText="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" toID="g14" toText="the United States" />
+<relation_link2 id="re12" fromID="lo6" fromText="Less than a week before his surrender date of Nov. 23, 2007, Patel fled the United States for India" toID="g15" toText="India" />
+<relation_link2 id="re13" fromID="lo7" fromText="The program allowed aliens to eventually seek permanent residency status if they could demonstrate they had illegally resided in the United States continuously between 1982 and 1988" toID="g18" toText="the United States" />
+<relation_link2 id="re14" fromID="e2" fromText="her husband's office manager" toID="o11" toText="office" />
+<relation_link2 id="re15" fromID="M2" fromText="New Jersey District Director" toID="o16" toText="District" />
+<relation_link2 id="re16" fromID="e3" fromText="New Jersey District Director" toID="g21" toText="New Jersey" />
+<relation_link2 id="re17" fromID="e4" fromText="Assistant U.S. Attorney" toID="g23" toText="U.S." />
+<relation_link2 id="re18" fromID="M3" fromText="Assistant U.S. Attorney Ronnell L. Wilson of the U.S. Attorney's Office Criminal Division in Newark" toID="o17" toText="the U.S. Attorney's Office Criminal Division in Newark" />
+</TAGS>
+</KddTask>

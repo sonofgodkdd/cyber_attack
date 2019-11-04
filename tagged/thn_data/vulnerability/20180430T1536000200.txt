@@ -1,0 +1,15 @@
+Faulty Patch for Oracle WebLogic Flaw Opens Updated Servers to Hackers Again
+Swati Khandelwal
+
+Earlier this month, Oracle patched a highly critical Java deserialization remote code execution vulnerability in its WebLogic Server component of Fusion Middleware that could allow attackers to easily gain complete control of a vulnerable server.
+However, a security researcher, who operates through the Twitter handle @pyn3rd and claims to be part of the Alibaba security team, has now found a way using which attackers can bypass the security patch and exploit the WebLogic vulnerability once again.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+WebLogic Server acts as a middle layer between the front end user interface and the backend database of a multi-tier enterprise application. It provides a complete set of services for all components and handles details of the application behavior automatically.
+Initially discovered in November last year by Liao Xinxi of NSFOCUS security team, the Oracle WebLogic Server flaw (CVE-2018-2628) can be exploited with network access over TCP port 7001.
+If exploited successfully, the flaw could allow a remote attacker to completely take over a vulnerable Oracle WebLogic Server. The vulnerability affects versions 10.3.6.0, 12.1.3.0, 12.2.1.2 and 12.2.1.3.
+Since a proof-of-concept (PoC) exploit for the original Oracle WebLogic Server vulnerability has already been made public on Github and someone has just bypassed the patch as well, your up-to-date services are again at risk of being hacked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although @pyn3rd has only released a short GIF (video) as a proof-of-concept (PoC) instead of releasing full bypass code or any technical details, it would hardly take a few hours or days for skilled hackers to figure out a way to achieve same.
+Currently, it is unclear when Oracle would release a new security update to address this issue that has re-opened CVE-2018-2628 flaw.
+In order to be at least one-step safer, it is still advisable to install April patch update released by Oracle, if you haven't yet because attackers have already started scanning the Internet for vulnerable WebLogic servers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

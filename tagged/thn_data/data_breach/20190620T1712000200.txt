@@ -1,0 +1,23 @@
+MongoDB 4.2 Introduces End-to-End Field Level Encryption for Databases
+Swati Khandelwal
+
+At its developer conference held earlier this week in New York, the MongoDB team announced the latest version of its database management software that includes a variety of advanced features, including Field Level Encryption, Distributed Transactions, and Wildcard Indexes.
+The newly introduced Field Level Encryption (FLE), which will be available in the upcoming MongoDB 4.2 release, is an end-to-end encryption feature that encrypts and decrypts sensitive users' data on the client-side, preventing hackers from accessing plaintext data even if the database instance left exposed online or the server itself gets compromised.
+Almost every website, app, and service on the Internet today usually encrypt (particularly "hashing") only users' passwords before storing them into the databases, but unfortunately left other sensitive information unencrypted, including users' online activity data and their personal information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, even if there is an encryption mechanism to store data securely on the server, the private keys to unlock it and decryption operation also remain available on the server, which if get compromised, can be used by hackers to decrypt the data.
+"With the rigor required by compliance to modern legal requirements, there comes the new need to ingest, query and store encrypted data securely in the database without the database having the ability to read it," the company says.
+In other words, the cloud providers or administrators who have access to the database server itself can also access users' data—unencrypted or even server-side encrypted—without requiring any privilege from the clients.
+MongoDB's Client-Side Field Level Encryption
+However, MongoDB's new field-level encryption allows websites to solve this issue quickly as it does not involve performing cryptographic operations or storing encryption keys on the server.
+Instead, FLE is a transparent client-side mechanism that relies on the MongoDB client library to act as a driver and handles the encryption and decryption operations on the users' devices to protect specific fields in a document against everyone except the user.
+That means a specific chunk of encrypted data stored on an application's server can only be decrypted and accessed on the client-side using the right key/password which only belongs to the user.
+"With this option, the server has no knowledge of the fields being encrypted. All the encryption and decryption is done at the driver level," the company said.
+"It's the driver that when it sees an encrypted field is involved in a write or query command, gets appropriate keys from the key manager, encrypts the data, and sends it to the server."
+"The server then only sees ciphertext and has no knowledge of the keys. When results are returned from the server, that ciphertext is sent by the server to the driver, and it's there that the driver, which already has the keys, decrypts it."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For now, MongoDB is only compatible with the AWS Key Management Service (KMS) service to make it easier for users to create and manage their keys to control the use of encryption across a service.
+However, the company will soon make it compatible with Microsoft Azure Key Vault and Google Cloud services as well.
+It should also be noted that MongoDB's field-level encryption doesn't prevent a data breach, but blocks hackers from accessing the sensitive data in plaintext when it is stolen, thus mitigating the risk.
+In worst case scenarios, attackers can access limited data of only those targeted users whose systems somehow get compromised and leak the encryption key to the attackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

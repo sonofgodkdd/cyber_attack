@@ -1,0 +1,27 @@
+Real Identity of Hacker Who Sold LinkedIn, Dropbox Databases Revealed
+Swati Khandelwal
+The real identity of Tessa88—the notorious hacker tied to several high-profile cyber attacks including the LinkedIn, DropBox and MySpace mega breaches—has been revealed as Maksim Vladimirovich Donakov (Максим Владимирович Донаков), a resident of Penza, Russian Federation.
+In early 2016, a hacker with pseudonym Tessa88 emerged online offering stolen databases from some of the biggest social media websites in the world, including LinkedIn, MySpace, VKontakte (vk.com), Dropbox, Rambler, and Twitter, for sale in various underground hacking forums.
+The stolen data, taken years ago from several social media sites, included more than half a billion username and password combinations, which were then used in phishing, account takeover, and other cyber attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though Tessa88's profile was active for a few months between February and May 2016, the OPSEC analysis revealed that the same person was involved in various cybercriminal activities since as early as 2012 under different aliases including "Paranoy777," "tarakan72511," "stervasgoa," "janer93" and "Daykalif."
+Unmasking "Tessa88"
+Researchers with US-based threat intelligence firm Recorded Future's Insikt Group used a combination of their own data, dark web activity, multiple chats and email accounts associated with Tessa88 to find a connection between his other online aliases, and collected information from publicly available sources to unveil his true identity.
+Tarakan72511 → Tessa88 → Donakov
+Researchers identified an online account "tarakan72511" on Imgur, a popular online image sharing service, who posted screenshots of discussions regarding the Yahoo and Equifax breaches. On the same account Tarakan72511 also posted his real picture titled "tessa88" in 2017, which links Donakov with tarakan72511 and tessa88.
+Tessa88 → Donakov with Guy Fawkes mask
+Another member of an underground forum, TraX, shared a photo of Tessa88, showing a man on the car roof with his face hidden behind Guy Fawkes mask, whose body type and hairstyle resemble with the picture of Tessa88 posted by tarakan72511.
+Tarakan72511 → Russian Car with Guy Fawkes mask → Tessa88
+Researchers also identified a YouTube account with a similar username—Tarakan72511 Donakov—who posted a video showing someone feeding stray dogs. The video also revealed a style Guy Fawkes mask (same as worn in the picture posted by TraX) in the boot of a Mitsubishi Lancer car with the registration number K652BO 58.
+All Evidences Leads to Maksim Vladimirovich Donakov
+After exploring several confidential sources, Penza records, and Russian crime database, researchers find Tessa88 as Maksim Vladimirovich Donakov (date of birth: 02/07/1989), whose persona matches with the YouTube username 'Donakov,' Mitsubishi Lancer and person revealed in Imgur picture. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Maksim Vladimirovich Donakov committed several crimes in Russia, including a car accident while driving a Mitsubishi Lancer in 2017. He also served jail time after committing another crime in 2014.
+After the comprehensive investigation, Recorded Future, with a "high degree of confidence, concluded that Donakov is the man behind the sale of the extensive databases, including 32 million Twitter accounts, 360 million Myspace credentials, and 500 million Yahoo accounts.
+It is also believed that Donakov have sold data stolen from VKontakte (vk.com), Mobango, Badoo, QIP, and Rambler on various underground forums.
+At the time of a series of so-called 'mega breaches' in 2016, another online alias that came up was Peace_of_Mind — a separate hacker who was seen selling 117 Million LinkedIn emails and passwords and 200 million Yahoo accounts in 2016 on the currently defunct TheRealDeal Market.
+According to Recorded Future, Tessa88 and Peace_of_Mind made an agreement in May 2016 on sharing some of the stolen databases in a "likely attempt to expedite monetizing the massive amount of data between the two."
+The LinkedIn breach resulted in the arrest of Russian national Yevgeniy Nikulin (Евгений Никулин) in October 2016 by the FBI in the Czech Republic, who was later extradited to the United States. However, until today, no clear evidence links Nikulin to Peace_of_Mind.
+It should be noted that neither Tessa88 nor Peace_of_Mind was the actual hacker who breached the aforementioned companies. Both were involved in the selling of the already stolen databases, but not in performing the actual hacks, though the exact methods used to steal the databases are also unknown.
+Recorded Future hopes that the upcoming criminal case of Nikulin, who is now also a person of "great interest" in the US probe of Russia's meddling in the US presidential election, will shed some light on the gaps in the story.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

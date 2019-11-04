@@ -1,0 +1,25 @@
+Russian Hacker Pleads Guilty to Operating Kelihos Botnet
+Mohit Kumar
+
+The Russian man who was accused of operating the infamous Kelihos botnet has finally pleaded guilty in a U.S. federal court.
+Peter Yuryevich Levashov, 38, of St. Petersburg, Russia, pleaded guilty on Wednesday in U.S. federal court in Connecticut to computer crime, wire fraud, conspiracy and identity theft charges.
+Levashov, also known by many online aliases including Peter Severa, Petr Levashov, Petr Severa and Sergey Astakhov, has admitted of operating several botnets, including the Storm, Waledac and Kelihos botnets, since the late 1990s until he was arrested in April 2017.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Kelihos botnet, dated back to 2010, was a global network of tens of thousands of infected computers that were used to steal login credentials, send bulk spam emails, and infect computers with ransomware and other malware.
+Russian Hacker Infects 50,000 Computers With Kelihos Botnet
+Storm and Waledac botnets also shared Kelihos code, but kelihos was the most notorious botnet of all that alone infected more than 50,000 computers worldwide.
+"Levashov controlled and operated multiple botnets, including the Storm, Waledac and Kelihos botnets, to harvest personal information and means of identification (including email addresses, usernames and logins, and passwords) from infected computers," the DoJ said in a press release.
+All the three botnets reportedly generated hundreds of millions of dollars for cybercriminals.
+As The Hacker News has previously reported, Levashov has also been listed in the World's Top 10 Worst Spammers maintained by anti-spam group Spamhaus, which gave him the 7th position in the list, at that time.
+While initially it was speculated that Levashov was involved in 2016 U.S. election hacking, the DoJ indictment unsealed last year after his arrest in Spain made it clear that the suspect was arrested due to his involvement in the Kelihos botnet and spamming targets for trying and forcing them to buy worthless stock.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Levashov was arrested in Barcelona in 2017 where he was vacationing with his family after an international arrest warrant was issued against him by the United States. Right after his arrest, the Kelihos botnet was shut down by the federal authorities.
+While Russia filed an extradition request in September last year, Spanish authorities extradited Levashov on the United States’ request in February 2018. 
+Since Levashov has previously worked with for Vladimir Putin's United Russia Party for ten years, at the time of his arrest, he feared that the US authorities would torture him for information about his political work if extradited to the U.S. to face charges.
+Levashov on Wednesday pleaded guilty in U.S. District Court in Hartford, Connecticut, to a total of four counts, as follows:
+1 count of causing intentional damage to a protected computer
+1 count of conspiracy
+1 count of aggravated identity theft
+1 count of wire fraud
+Levashov is due to be sentenced on September 6, 2019, and will remain in custody until this date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

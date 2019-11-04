@@ -1,0 +1,18 @@
+VK.com HACKED! 100 Million Clear Text Passwords Leaked Online
+Swati Khandelwal
+
+Another day, another Data Breach! Now, Russia's biggest social networking site VK.com is the latest in the line of historical data breaches targeting social networking websites.
+The same hacker who previously sold data dumps from MySpace, Tumblr, LinkedIn, and Fling.com, is now selling more than 100 Million VK.com records for just 1 Bitcoin (approx. US$580).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The database contains information like full names (first names and last names), email addresses, plain-text passwords, location information, phone numbers and, in some cases, secondary email addresses.
+Yes, plain-text passwords. According to Peace, the passwords were already in plain text when the VK.com was hacked. So, if the site still stores passwords in cleartext today, this could be a real security risk for its users. 
+The data breach has initially been reported by LeakedSource search engine, which received portions of the database from one of the people who bought it.
+The company has already analyzed the contents of the data dump and has added it to its service. So, you can use its search engine to check if you were compromised.
+Russia’s Facebook VK.com is said to be the largest social networking site in Europe with more than 350 Million users. So, the hack is believed to be the biggest hack the site has ever experienced.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The validity of the credentials exposed in the hack is thought to have been stolen in late-2012 or early 2013 when VK.com had just under 190 Million users.
+All the LinkedIn, MySpace, and Tumblr data breaches are also believed to have taken place during the same duration, between 2012 and 2013, when many websites were not practicing appropriate Web security policies, like hashing and salting passwords.
+The hacker, named Peace (or Peace_of_mind), is selling the dataset -- which is over 17 gigabytes in size -- on The Real Deal dark web marketplace for a mere 1 Bitcoin.
+According to LeakedSource, the most common password used by VK.com users was "123456," followed by "qwerty" and "123123," which are incredibly easy to predict. Also, the vast majority of email addresses came from mail.ru.
+Like other data breaches, I strongly suggest you change your password immediately, especially if you use the same password for other websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

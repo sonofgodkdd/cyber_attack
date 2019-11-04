@@ -1,0 +1,18 @@
+Hackers Breach Stack Overflow Q&A Site, Some Users' Data Exposed
+Swati Khandelwal
+
+Note: We have updated this story to reflect new information after Stack Overflow changed its original announcement and shared more details on the security incident.
+ Stack Overflow, one of the largest question and answer site for programmers, revealed today that unknown hackers managed to exploit a bug in its development tier and then almost a week after they gained unauthorized access to its production version.
+Founded by Jeff Atwood and Joel Spolsky in 2008, Stack Overflow is the flagship site of the Stack Exchange Network. With 10 million registered users and over 50 million unique visitors every month, Stack Overflow is very popular among professional and enthusiast programmers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In an older version of the announcement published by Mary Ferguson, VP of Engineering at Stack Overflow, the company confirmed the breach but said it did not find any evidence that hackers accessed customers' accounts or any user data.
+However, the updated announcement now says that after sitting quiet for a week, hackers executed privileged web requests, but were able to gain access to a very small portion of data, including IP address, names, and email address—and that for only a small number of users.
+"Between May 5 and May 11, the intruder contained their activities to exploration. On May 11, the intruder made a change to our system to grant themselves a privileged access on production. This change was quickly identified and we revoked their access network-wide, began investigating the intrusion, and began taking steps to remediate the intrusion."
+"We can now confirm that our investigation suggests the requests in question affected approximately 250 public network users. Affected users will be notified by us," Ferguson said.
+The company also revealed hackers exploited a bug that was introduced in a recently deployed built to the development tier for the Stack Overflow website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Stack Overflow said the company is patching all known vulnerabilities.
+"We discovered and investigated the extent of the access and are addressing all known vulnerabilities," Ferguson said.
+"As part of our security procedures to protect sensitive customer data, we maintain separate infrastructure and networks for clients of our Teams, Business, and Enterprise products and we have found no evidence that those systems or customer data were accessed. Our Advertising and Talent businesses were also not impacted by this intrusion."
+Late last year, another popular question and answer website Quora suffered a massive data breach with hackers gaining access to sensitive information of about 100 million of its users, including their names, email addresses, hashed password, and personal messages.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

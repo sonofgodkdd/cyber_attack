@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Malware Infects US Power Plants through USB Drives
+Mohit Kumar
+
+The US Department of Homeland Security’s Cyber Emergency Response Team has released a report, which stated that two American electrical power plants were compromised late last year and has identified a number of glaring electronic vulnerabilities.
+Some unknown malware infected two power plants control systems using unprotected USB drives as an attack vector. The tainted USB drive came in contact with a handful of machines at the power generation facility and investigators found sophisticated malware on two engineering workstations critical to the operation of the control environment.
+The report did not say if the computers did or did not have up-to-date antivirus software, but it did say that current software would have found the malware. 
+The other infection affected 10 computers in a turbine control system. It was also spread by a USB drive and resulted in downtime for the impacted systems and delayed the plant restart by approximately three weeks.
+ICS-CERT recommended that the power facility adopt new USB use guidelines, including the cleaning of a USB device before each use.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Viruss id="ATTA0" start="334" end="342" text="infected" TYPE="NUG" />
+<ATTACK.Viruss id="ATTA1" start="411" end="417" text="attack" TYPE="TRG" />
+<ATTACK.Viruss id="ATTA2" start="219" end="230" text="compromised" TYPE="NUG" />
+<ATTACK.Viruss id="ATTA3" start="456" end="463" text="contact" TYPE="TRG" />
+<ATTACK.Viruss id="ATTA4" start="835" end="843" text="affected" TYPE="TRG" />
+<ATTACK.Viruss id="ATTA5" start="898" end="904" text="spread" TYPE="NUG" />
+<IMPACT.Disrupt id="IM0" start="936" end="944" text="downtime" TYPE="SUP" />
+<IMPACT.Disrupt id="IM1" start="974" end="981" text="delayed" TYPE="SUP" />
+</TAGS>
+</KddTask>

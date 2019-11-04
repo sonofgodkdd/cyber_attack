@@ -1,0 +1,23 @@
+WikiLeaks Reveals CIA's Grasshopper Windows Hacking Framework
+Swati Khandelwal
+
+As part of its Vault 7 series of leaked documents, whistleblowing website WikiLeaks today released a new cache of 27 documents allegedly belonged to the US Central Intelligence Agency (CIA).
+Named Grasshopper, the latest batch reveals a CLI-based framework developed by the CIA to build "customised malware" payloads for breaking into Microsoft's Windows operating systems and bypassing antivirus protection.
+All the leaked documents are basically a user manual that the agency flagged as "secret" and that are supposed to be only accessed by the members of the agency, WikiLeaks claims.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Grasshopper: Customized Malware Builder Framework
+According to the leaked documents, Grasshopper framework allows the agency members to easily create custom malware, depending upon the technical details, such as what operating system and antivirus the targets are using.
+The Grasshopper framework then automatically puts together several components sufficient for attacking the target, and finally, delivers a Windows installer that the agency members can run on a target's computer and install their custom malware payloads.
+"A Grasshopper executable contains one or more installers. An installer is a stack of one or more installer components," the documentation reads. "Grasshopper invokes each component of the stack in series to operate on a payload. The ultimate purpose of an installer is to persist a payload."
+The whistleblowing website claimed the Grasshopper toolset was allegedly designed to go undetected even from the anti-virus products from the world's leading vendors including Kaspersky Lab, Symantec, and Microsoft.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+CIA's Grasshopper Uses 'Stolen' Russian Malware
+According to WikiLeaks, the CIA created the Grasshopper framework as a modern cyber-espionage solution not only to be as easy to use as possible but also "to maintain persistence over infected Microsoft Windows computers."
+"Grasshopper allows tools to be installed using a variety of persistence mechanisms and modified using a variety of extensions (like encryption)," Wikileaks said in the press release.
+One of the so-called persistence mechanisms linked to Grasshopper is called Stolen Goods (Version 2), which shows how the CIA adapted known malware developed by cyber criminals across the world and modified it for its own uses.
+One such malware is "Carberp," which is a malware rootkit developed by Russian hackers.
+"The persistence method and parts of the installer were taken and modified to fit our needs," the leaked document noted. "A vast majority of the original Carberp code that was used has been heavily modified. Very few pieces of the original code exist unmodified."
+It is not yet clear how recently the CIA has used the hacking tools mentioned in the documentation, but WikiLeaks says the tools were used between 2012 and 2015.
+So far, Wikileaks has revealed the "Year Zero" batch which uncovered CIA hacking exploits for popular hardware and software, the "Dark Matter" batch which focused on exploits and hacking techniques the agency designed to target iPhones and Macs, and the third batch called "Marble."
+Marble revealed the source code of a secret anti-forensic framework, basically an obfuscator or a packer used by the CIA to hide the actual source of its malware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

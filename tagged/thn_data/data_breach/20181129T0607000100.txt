@@ -1,0 +1,13 @@
+Dell Resets All Customers' Passwords After Potential Security Breach
+Mohit Kumar
+
+Multinational computer technology company Dell disclosed Wednesday that its online electronics marketplace experienced a "cybersecurity incident" earlier this month when an unknown group of hackers infiltrated its internal network.
+On November 9, Dell detected and disrupted unauthorized activity on its network attempting to steal customer information, including their names, email addresses and hashed passwords.
+According to the company, the initial investigation found no conclusive evidence that the hackers succeeded to extract any information, but as a countermeasure Dell has reset passwords for all accounts on Dell.com website whether the data had been stolen or not.
+Dell did not share any information on how hackers managed to infiltrate its network at the first place or how many user accounts were affected, but the company did confirm that payment information and Social Security numbers were not targeted.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Credit card and other sensitive customer information were not targeted. The incident did not impact any Dell products or services," Dell says.
+You are affected if you have ever created an account on the Dell website to purchase any of their products or to access the online support.
+"Upon detection of the attempted extraction, Dell immediately implemented countermeasures and initiated an investigation. Dell also retained a digital forensics firm to conduct an independent investigation and has engaged law enforcement," the company said.
+We will update this story as more information becomes available.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

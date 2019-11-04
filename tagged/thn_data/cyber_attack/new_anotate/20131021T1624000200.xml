@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+New Phishing attack targets Italian Postal and Financial service again
+Anonymous
+
+A phishing attack is a complex combination of technology and psychology. There are numerous ways in which people are being made fools and they can be conned by hitting on unsecured website links.
+Sophos experts detected this week an intriguing case of phishing against the Italian postal service Poste Italiane, the scheme attracted the researcher's attention due the reuse of an old social engineering trick.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The brand Poste Italiane includes postal, Financial and payment services in its product portfolio and was considered top brand victims by recent F-Secure Threat report.
+The number of attacks against Poste Italiane is remarkable, the purpose is always to induce its customers into unwittingly submitting their credentials to fake login sites.
+In the recent attack criminals sent the classic email containing an HTML attachment which the recipient is enticed into opening.
+"To activate the "Security web Postepay " you need to:- Download the attachment, open it in the browser and follow the steps requested."
+The message informs the victim that attached file is password protected and provide the passcode in the body of the email: "To protect your personal information, the attached file is protected by a password. Your word is unique: A2345L90"
+When user tries to open the attachment a dialog box is prompted to ask for the password:
+Let's see the source code for the attachment :
+It is a very simple JavaScript that requests the user's password, if the victim inserts the correct one  (A2345L90 in this case), the password provided is used as a key to decode an embedded string and written back to the page. The returned code loads the phish page via the frame, which references a bit.ly shortened URL.
+The smart aspect of this attack is the use of a password protected attachment, a technique already seen in the past by security firms. The use of this technique for phishing attack is probably motivated by following needs:
+To avoid defense mechanism that scans HTML content.
+As a social engineering trick, users could be conditioned by the presence of the password that provides a false sense of security and credibility to the victims.
+Be aware ... Cybercrime never sleeps ;-)
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DISCOVER.Social_Engineering id="DISCOVER.0" start="294" end="302" text="detected" TYPE="TRG" />
+<ATTACK.Web_Compromise id="ATT0" start="243" end="250" text="hitting" TYPE="TRG" />
+<ATTACK.Web_Compromise id="ATT1" start="839" end="849" text="submitting" TYPE="SUP" />
+<ATTACK.Web_Compromise id="ATT2" start="730" end="745" text="attacks against" TYPE="TRG" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,24 @@
+Hacker Arrested after Exposing Flaws in Elections Site
+Mohit Kumar
+
+A security researcher responsibly disclosed vulnerabilities in the poorly secured web domains of a Florida county elections, but he ended up in handcuffs on criminal hacking charges and jailed for six hours Wednesday.
+Security researcher David Michael Levin, 31, of Estero, Florida was charged with three counts of gaining unauthorized access to a computer, network, or electronic instrument.
+On 19 December last year, Levin tested the security of Lee County website and found a critical SQL injection vulnerability in it, which allowed him to access site’s database, including username and password.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Levin was reportedly using a free SQL testing software called Havij for testing SQL vulnerabilities on the state elections website.
+According to Levin, he responsibly reported vulnerabilities to the respective authorities and helped them to patch all loopholes in the elections website.
+Video Demonstration of the Elections Website Hack
+Meanwhile, Levin demonstrates his finding via an interview, but he published that video interview on YouTube in late January when authorities had already patched the reported flaws.
+Levin recorded the video together with Dan Sinclair, detailing how a simple SQL injection launched against the election website led to the theft of data from the Elections' database that had no encryption at all.
+As proof of concept, Levin showed him entering the username and password of Sharon Harrington, the county's Supervisor of Elections, that allowed him to gain control of a content management system (CMS) used to control the official website of Florida's Office of Elections.
+However, this video was misunderstood and used as an evidence by the Florida Department of Law Enforcement officials to backfire Levin.
+Almost two weeks after the video was posted on YouTube, Florida police raided Levin's house and seized his computers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Levin was arrested and charged with allegedly breaking into a couple of elections websites in Florida. He spent six hours in jail last Wednesday before being released on a $15,000 bond, the Florida Department of Law Enforcement officials said.
+Though Florida Police claimed Levin never asked for permission prior to performing his penetration testing on any state-owned server, Sinclair said that Levin was the one who helped the authority fix the security holes in the website.
+"He took usernames and passwords from the Lee County website and gained further access to areas that were password-protected," FDLE Special Agent Larry Long told the Herald Times. "The state statute is pretty clear. You need to have authorization before you can do that."
+However, Sinclair reached out to The Hacker News, revealing that Mr. Levin contacted the authorities while performing his research.
+"The FDLE came to Dave, and then to me about the case," Sinclair said. "We believed they were investigating the holes in the servers and the Gross Negligence. We both gave them the only information they have now that is accurate. While interviewing me, and Agent Chris Tissot kept cutting me off when I answered his questions."
+"I quickly realized Tissot was not investigating any of the claims. His sole goal was to find an obscure law they could hit Dave with, to discredit the information Dave went public with (after he helped them fix the holes)."
+At this point it seems that federal agents are not adequately investigating the matter, rather they are trying to prove Levin culprit in this whole event.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,17 @@
+Gaza Cybergang Returns With New Attacks On Palestinian Authority
+Wang Wei
+
+Security researchers from Check Point Threat Intelligence Team have discovered the comeback of an APT (advanced persistent threat) surveillance group targeting institutions across the Middle East, specifically the Palestinian Authority.
+The attack, dubbed "Big Bang," begins with a phishing email sent to targeted victims that includes an attachment of a self-extracting archive containing two files—a Word document and a malicious executable.
+Posing to be from the Palestinian Political and National Guidance Commission, the Word document serves as a decoy to distract victims while the malware is installed in the background.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malicious executable, which runs in the background, act as the first stage info-stealer malware designed for intelligence gathering to identify potential victims (on the basis of what is unclear as of now), and then it accordingly downloads the second stage malware designed for espionage.
+"While the analysis...discloses the capabilities of the spotted malware, we are pretty sure it is part of a multi-staged attack that targets very specific victims," the researchers said in a blog post. "The malware below is part of the reconnaissance stage and should lead to the main course, whose nature is still unknown."
+The malware is capable of sending a lot of information from the infected machines to the attackers' Command and Control server, including screenshots of the infected computer, a list of documents with file extensions including .doc, .odt, .xls, .ppt, .pdf and more, and logging details about the system.
+Besides this, the malware also includes a few more modules to execute any file it receives from the server, enumerate running processes, terminate a running process by name, as well as send a list of partitions found on the infected machine.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malware also includes modules to self-destruct itself by deleting the payload from the startup folder and deleting the actual file, and reboot the infected system.
+"After reviewing all the malware functionalities, we are confident in saying that the attackers look for victims who answer well-defined characteristics and believe that further stages of the attack are delivered only to those who fit the specific victim profile," the researchers say.
+Researchers believe these attacks could be related to the Gaza Cybergang APT group, an Arabic-language, politically-motivated cybercriminal group, who are operating since 2012 and targeted oil and gas organization the Middle East North African region.
+However, according to the researchers, it is still not yet confirmed exactly which threat group is behind this campaign.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

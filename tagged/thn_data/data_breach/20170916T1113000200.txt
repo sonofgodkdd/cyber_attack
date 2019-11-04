@@ -1,0 +1,19 @@
+Vevo Music Video Service Hacked — 3.12TB of Internal Data Leaked
+Wang Wei
+
+OurMine is in headlines once again—this time for breaching the popular video streaming service Vevo.
+After hunting down social media accounts of HBO and defacing WikiLeaks website, the infamous self-proclaimed group of white hat hackers OurMine have hacked Vevo and leaked about 3.12 TB worth of internal files.
+Vevo is a joint venture between Sony Music Entertainment, Universal Music Group, Abu Dhabi Media, Warner Music Group, and Google's parent company Alphabet Inc.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+OurMine managed to get hold of Vevo's "sensitive" data including its internal office documents, videos and promotional materials after the hacking collective successfully hacked into the Vevo servers.
+The group then posted the stolen documents (approximately 3.12 terabytes) from Vevo on its website on late Thursday, though OurMine removed the stolen information from its website on Vevo's request.
+Although it's not clear what prompted OurMine to hack Vevo, the group noted on its website that it initially tried to alert Vevo of the breach privately, but when one of the Vevo's employees responded, "F*** off, you don't have anything," it went public with the data breach and leaked Vevo files.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to Variety, the stolen files included notes on around 90 artists, including Britney Spears, Jennifer Lopez, Taylor Swift, Justin Bieber, Katy Perry, Madonna, Calvin Harris, Ariana Grande, Florida Georgia Line, One Direction, Sia, The Weeknd, and U2.
+The breach was first reported by Dell Cameron of Gizmodo, who said the leaked Vevo content seems "pretty mild," which contained "weekly music charts, pre-planned social media content, and various details about the artists under the record companies' management."
+It’s not clear for how long the hackers have been accessing the Vevo system, how they managed to gain access to its server, or whether they have held on other additional information, like financial, emails, and passwords.
+Vevo has confirmed the security incident, saying the company "can confirm that Vevo experienced a data breach as a result of a phishing scam via Linkedin. We have addressed the issue and are investigating the extent of exposure."
+The company also confirmed the breach had not impacted the security of its United Kingdom office.
+OurMine is the same group of hackers who are known for hacking high-profile figures and companies, including Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, Twitter CEO Jack Dorsey, Game of Thrones, Sony's PlayStation Network (PSN), Netflix, the WWE, HBO, and the most recently WikiLeaks.
+OurMine is a Saudi Arabian group of self-proclaimed white hat hackers which markets itself by taking over sites and social media accounts of high-profile targets and then encourages them to contact them to buy their IT security service in an effort to protect themselves from future cyber attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

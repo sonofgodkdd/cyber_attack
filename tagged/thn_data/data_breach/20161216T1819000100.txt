@@ -1,0 +1,18 @@
+1-Billion Yahoo Users' Database Reportedly Sold For $300,000 On Dark Web
+Mohit Kumar
+
+Recently Yahoo disclosed a three-year-old massive data breach in its company that exposed personal details associated with more than 1 Billion user accounts, which is said to be the largest data breach of any company ever.
+The new development in Yahoo!'s 2013 data breach is that the hacker sold its over Billion-user database on the Dark Web last August for $300,000, according to Andrew Komarov, Chief Intelligence Officer (CIO) at security firm InfoArmor.
+Komarov told the New York Times that three different buyers, including two "prominent spammers" and the third, is believed to be involved in espionage tactics paid $300,000 to gain control of the entire database.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hacker group that breached Yahoo and sold the database is believed to based in Eastern Europe, but the company still does not know if this information is accurate or not.
+Beside full names, passwords, date of births and phone numbers of 1 Million Yahoo users, the database also includes backup email addresses and, in some cases, unencrypted security questions and answers that could provide quick access to users accounts via password reset option.
+The database is still up for sale, though its price is believed to have dropped substantially after Yahoo went public with the data breach announcement and triggered a password reset. Interested buyers might now have to pay $20,000 for the full Yahoo database.
+Komarov also said his company obtained a copy of the Yahoo database earlier this year, and got in touch with the law enforcement authorities in the United States and other countries in the European Union, Canada, and Australia.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Komarov said his company did not go to Yahoo directly "because the internet giant was dismissive of the security firm when approached by an intermediary," adding that he didn't trust Yahoo to investigate the data breach thoroughly.
+"Personal information and contacts, e-mail messages, objects of interest, calendars and travel plans are key elements for intelligence-gathering in the right hands," Komarov was quoted as saying.
+"The difference of Yahoo hack between any other hack is in that it may really destroy your privacy, and potentially have already destroyed it several years ago without your knowledge."
+Yahoo users are strongly recommended to reset their passwords and invalidate affected security questions as soon as possible.
+Also, in case you are using the same password and answers for security questions somewhere else, change them too urgently.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,23 @@
+CISO Kit — Breach Protection in the Palm of Your Hand
+The Hacker News
+CISOs and CIOs need to know better than anyone the security pulse of their organizations. On the other hand, they cannot be flooded with every changing detail.
+Finding the right balance that enables them to clearly grasp the big picture required in making sound decisions is a task many security executives find challenging. Threat actors do not acknowledge off-hours or weekends, introducing the need for constant vigilance.
+Moreover, CIOs and CISOs are heavily dependent on their team for knowledge and often lack the immediate interaction with the events in real-time. This situation is also far from favorable – after all, who if not the security executive should have the ability to be in-the-know and initiate action at the heart of things? 
+Cynet rises to this challenge with the recently launched Cynet Dashboard application, which provides 24/7 insight into the overall security posture, real-time visibility into newly detected threats, and the ability to take rapid action if the need arises.
+Moreover, any new Cynet customer receives a 'CISO Kit' of iPad and Apple Watch that runs this app, giving instant security on-the-go. (For more details, click here.)
+"It's a problem every CIO and CISO comes to acknowledge sooner or later," said Eyal Gruner, co-Founder of Cynet. "You want to know at any given moment what's happening. What you have in your environment, whether there is something going on, if there any open incidents, and so on. On the other hand, you cannot spend your entire day in front of Cynet's screen."
+"We think it's crucial that every security executive has that immediate visibility, wherever he is, and that's why we've decided to provide our new clients with an Apple Watch and iPad together with the Cynet Dashboard app."
+The Need to Know 
+To address this need, Cynet built the Cynet Dashboard App which continuously  gives CISOs a view into the number of assets in their environment, as well as how many open alerts there are at any given moment, rated by severity (low, medium, high or critical) and type (host, file, user or network).
+"We've talked to hundreds of security stakeholders from organizations of all sizes, and it all converged into a common theme – they want to know what they have in their environment and what security events are currently taking place. Plain and simple," explained Gruner.
+The Need to Report 
+On top of real-time knowledge into what's going on, the Cynet Dashboard App addresses the need for concise communication and reporting.
+Not the fully blown PDFs with graphs and charts, but being able to casually say in a management meeting or over lunch, 'Yes, we had 3 incidents this week. Two were resolved the other day, and one is being handled now.'
+The Need to Control
+"When we founded Cynet, we knew that providing security expertise is not less important than providing the technology," said Gruner.
+"So when prospects purchase Cynet, they also get CyOps – our team of expert security analysts and threat researchers that operate a 24/7 SOC to assist our customers with incident response, in-depth investigation and proactive threat hunting. This is one of the things our customers really love."
+The Cynet Dashboard App enables CISOs to engage CyOps with a simple click, complementing the real-time knowledge and reporting with the ability to act and ensure that incidents get expert treatment.
+Changing the CISO Experience 
+"This is the first time such an experience has been made available to cybersecurity management," said Gruner. "Our app enables the CISO to become truly autonomous. Know the core facts that matter, report to management, and take quick action if needed – all through his Apple Watch or iPad. It's all up to him to take control and determine what to do. It's literally having your security in the palm of your hand."
+Click here to learn more about the Cynet Dashboard app and how you can get your own Cynet CISO Kit.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,18 @@
+Thousands of WordPress Sites Hacked Using Recently Disclosed Vulnerability
+Swati Khandelwal
+
+Last week, we reported about a critical zero-day flaw in WordPress that was silently patched by the company before hackers have had their hands on the nasty bug to exploit millions of WordPress websites.
+To ensure the security of millions of websites and its users, WordPress delayed the vulnerability disclosure for over a week and worked closely with security companies and hosts to install the patch, ensuring that the issue was dealt with in short order before it became public.
+But even after the company's effort to protect its customers, thousands of admins did not bother to update their websites, which are still vulnerable to the critical bug and has already been exploited by hackers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While WordPress includes a default feature that automatically updates unpatched websites, some admins running critical services disable this feature for first testing and then applying patches.
+Even the news blog of one of the famous Linux distribution OpenSUSE (news.opensuse.org) was also hacked, but restored immediately without breach of any other part of openSUSE's infrastructure, CIO reports.
+The vulnerability resided in Wordpress REST API that would lead to the creation of new flaws, allowing an unauthenticated attacker to delete pages or modify all pages on unpatched websites and redirect their visitors to malicious exploits and a large number of attacks.
+The security researcher at Sucuri, who privately disclosed the flaw to WordPress, said they started noticing the attacks leveraging this bug less than 48 hours after disclosure. They noticed at least four different campaigns targeting still unpatched websites.
+In one such campaign, hackers were successful in replacing the content of over 66,000 web pages with "Hacked by" messages. Rest campaigns have targeted roughly 1000 pages in total.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides defacing websites, such attacks appear to be carried out mostly for black hat SEO campaign in order to spread spam and gain ranking in search engine, which is also known as search engine poisoning.
+"What we expect to see is a lot more SEO spam (Search Engine Poisoning) attempts moving forward," explained Daniel Cid, CTO, and founder of Sucuri. 
+"There’s already a few exploit attempts that try to add spam images and content to a post. Due to the monetization possibilities, this will likely be the #1 route to abuse this vulnerability."
+So, site administrators who have not yet updated their websites to the latest WordPress release 4.7.2 are urged to patch them immediately before becoming next target of SEO spammers and hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

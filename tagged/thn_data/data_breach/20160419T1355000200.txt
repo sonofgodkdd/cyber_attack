@@ -1,0 +1,24 @@
+Google makes it mandatory for Chrome Apps to tell Users what Data they collect
+Mohit Kumar
+
+In Brief
+Chrome apps and extensions make things easier, but they can also do terrible things like spy on web users and collect their personal data.
+But, now Google has updated its browser’s User Data Policy requiring all Chrome extension and app developers to disclose what data they collect.
+Furthermore, developers are prohibited from collecting unnecessary browsing data and must also use encryption when handling sensitive information from users.
+Around 40 percent of all Google Chrome users have some kind of browser extensions, plugins or add-ons installed, but how safe are they?
+The company plans to enforce developers starting this summer, to "ensure transparent use of the data in a way that is consistent with the wishes and expectations of users."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Google is making its Chrome Web Store safer for its users by forcing developers to disclose how they handle customers' data.
+Google’s new User Data Policy will now force app developers, who use the Chrome Web Store to distribute their products, to be more transparent about their data collection practices.
+In other words, the company wants its Chrome users to know what's happening when they use third-party apps and services that rely on its browser.
+Also Read: Adware Companies buying popular Chrome extensions to inject Ads and Malware
+According to Google, "Protecting our users is our key priority, and we believe this change will make sure users are better informed and allow them to choose how their user data is handled."
+Here's the list of new requirements for developers:
+Be transparent about the handling of user's data and disclose privacy practices.
+Post a privacy policy as well as use encryption for handling personal or sensitive information of users.
+Ask users to consent to the collection of their personal or sensitive data via a prominent disclosure, when the use of the data is not related to a prominent feature.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, developers are also restricted from collecting user's Web browsing activity that is not at all required for their app's main functionality.
+Google has already started notifying app developers about the change in its privacy policy and is giving them 3 months from now to comply.
+From July 15, 2016, any app or extension that violates any of the requirements mentioned above will be discarded from the Chrome Web Store. So the only way to be restored will be to comply with the new policies.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

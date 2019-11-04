@@ -1,0 +1,19 @@
+Operator of VirusTotal Like Malware-Scanning Service Jailed for 14 Years
+Mohit Kumar
+
+A Latvian hacker behind the development and operation of counter antivirus service "Scan4You" has finally been sentenced to 14 years in prison.
+37-year-old Ruslans Bondars, described as a Latvian "non-citizen" or "citizen of the former USSR who had been residing in Riga, Latvia," was found guilty on May 16 in federal court in Alexandria, during which a co-conspirator revealed he had worked with Russian law enforcement.
+Bondars created and ran Scan4you—a VirusTotal like online multi-engine antivirus scanning service that allowed hackers to run their code by several popular antiviruses to determine if their computer virus or malware would be flagged during routine security scans before launching them into a real-world malware campaign.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While legal scanning services share data about uploaded files with the antivirus firms, Scan4you instead informed its users that they could "upload files anonymously and promised not to share information about the uploaded files with the antivirus community."
+Bondars was one of the two hackers found to have been running Scan4you from 2009 to 2016 and helping other malware authors test and improve the malware they then "used to inflict hundreds of millions of dollars in losses on American companies and consumers."
+Bondars’ partner Jurijs Martisevs, who was also arrested while on a trip to Latvia and extradited to the United States, pleaded guilty to similar charges back in March this year.
+According to the Justice Department press release, Scan4you customers used the service to steal millions of payment cards from retail stores across the world, including the United States, which led to some $20.5 billion in losses.
+For instance, one Scan4you customer used the service to test malware that was subsequently used to steal approximately 40 million credit and debit card numbers, and other personal information from a US retail store, causing $292 million in losses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Another customer used Scan4you to assist the development of "Citadel"—a widely used malware strain that infected over 11 million computers worldwide, including in the United States and resulted in over $500 million in fraud-related losses.
+"Ruslans Bondars helped malware developers attack American businesses," said Assistant Attorney General Benczkowski. "The Department of Justice and its law enforcement partners make no distinction between service providers like Scan4You and the hackers they assist: we will hold them accountable for all of the significant harm they cause and work tirelessly to bring them to justice, wherever they may be located."
+Bondars was convicted of three counts, including conspiracy to violate the Computer Fraud and Abuse Act, conspiracy to commit wire fraud, and computer intrusion with intent to cause damage and was sentenced to 168 months in prison on Friday.
+Although US court never charged Bondars with direct involvement in any hacking, court documents show he used malware to rob online users and trick them into buying antivirus services they did not need.
+Moreover, prosecutors also say Scan4You was an "innovation" in malware that has inspired many copycats, which resulted in such services being readily available on the Internet.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

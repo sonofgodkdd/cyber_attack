@@ -1,0 +1,24 @@
+Warning — Bitcoin Users Could Be Targeted by State-Sponsored Hackers
+Mohit Kumar
+
+Another day, another bad news for Bitcoin users.
+A leading Bitcoin information site is warning users that an upcoming version of the Blockchain consolidation software and Bitcoin wallets could most likely be targeted by "state-sponsored attackers."
+Recently, one of the world's most popular cryptocurrency exchanges, Bitfinex, suffered a major hack that resulted in a loss of around $72 Million worth of Bitcoins.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, Bitcoin.org, the website that hosts downloads for Bitcoin Core, posted a message on its website on Wednesday warning users that the next version of the Bitcoin Core wallet, one of the most popular bitcoin wallets used to store bitcoins, might be replaced with a malicious version of the software offered by government-backed hackers.
+Specifically, Chinese bitcoin users and services are encouraged to be vigilant "due to the origin of the attackers."
+Bitcoin.org doesn't believe it has sufficient resources to defend against the attack. However, the website did not reveal the name of the country planning the attack.
+The Warning Message from the Bitcoin.org site reads:
+"Bitcoin.org has reason to suspect that the binaries for the upcoming Bitcoin Core release will likely be targeted by state-sponsored attackers. As a website, Bitcoin.org does not have the necessary technical resources to guarantee that we can defend ourselves from attackers of this calibre. We ask the Bitcoin community, and in particular the Chinese Bitcoin community to be extra vigilant when downloading binaries from our website."
+"In such a situation, not being careful before you download [the software] could cause you to lose all your coins. This malicious software might also cause your computer to participate in attacks against the Bitcoin network."
+Also Read: Bitcoin Exchange Offers $3.5 Million Reward for Information of Stolen Bitcoins.
+In such cases, it is likely that hackers will try to hijack and replace the official binary files used to run Bitcoin software on mining pools, either:
+By compromising the Bitcoin.org official site
+By conducting a man-in-the-middle attack to fake a cryptographic certificate that would allow hackers to intercept victim’s encrypted HTTPS connection and replace the legitimate download with a malicious one, tricking users into installing a malicious version of the Bitcoin software.
+However, Bitcoin Core developer Eric Lombrozo told The Reg that "there's absolutely nothing in the Bitcoin Core binaries, as built by the Bitcoin Core team, that has been targeted by state-sponsored attackers that we know of at this point."
+"Perhaps certain sites where people download the binaries could end up getting compromised, but let's not unnecessarily spread paranoia about the Bitcoin Core binaries themselves."
+Verify Signatures and Hashes
+As a countermeasure, users are recommended to verify the Signature securely and hashes of Bitcoin Core binaries that are cryptographically signed with a key before running Bitcoin Core binaries to ensure the binaries are legitimate as being created by the Core developers team.
+"We strongly recommend that you download that key, which should have a fingerprint of 01EA5486DE18A882D4C2684590C8019E36C2E964. You should securely verify the signature and hashes before running any Bitcoin Core binaries," the advisory states.
+Moreover, you are advised to download the binaries from the official Bitcoin site only; otherwise, you may end up getting compromised.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

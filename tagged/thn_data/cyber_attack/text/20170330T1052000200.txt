@@ -1,0 +1,22 @@
+Widespread Email Scam Targets Github Developers with Dimnie Trojan
+Swati Khandelwal
+
+Open source developers who use the popular code-sharing site GitHub were put on alert after the discovery of a phishing email campaign that attempts to infect their computers with an advanced malware trojan.
+Dubbed Dimnie, the reconnaissance and espionage trojan has the ability to harvest credentials, download sensitive files, take screenshots, log keystrokes on 32-bit and 64-bit architectures, download additional malware on infected systems, and self-destruct when ordered to.
+The malware has largely flown under the radar for the past three years – Thanks to its stealthy command and control methods.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The threat was discovered in the mid of January this year when it was targeting multiple owners of Github repositories via phishing emails, but cyber-security firm Palo Alto, who reported the campaign on Tuesday, says the attacks started a few weeks before.
+Here's How the Attack Works:
+The attack starts by spamming the email inboxes of active GitHub users with booby-trapped job offers. The messages used in this campaign attempt to trick the victims into running an attached malicious .doc file.
+The doc file contains embedded macro code, which if allowed, executes a PowerShell command to download and install the Dimnie trojan – malware that can be controlled remotely, enabling attackers to hijack infected PCs and install additional malware.
+Dimnie is not new; it first appeared in early 2014, but the use of stealthy command and control (C&C) methods in the new version of the Dimnie malware helped the threat remain unnoticed until this year.
+Dimnie's Stealthy Features let it went Undetected for 3 Years
+This new iteration has the ability to hide its malicious traffic under fake domains and DNS requests. To camouflage its connection, Dimnie uses HTTP Proxy requests that appear to be sent to Google-owned domains, but it's actually talking to an address controlled by the attackers, which has nothing to do with Google.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For more stealthiness, the malware encrypts all of its modules during transit, and once they are received and decrypted on the targeted computer, they are never written to or executed on its hard drive.
+Instead, Dimnie injects them directly into the memory of core Windows processes, which then execute in the OS memory itself, without leaving its traces on the user's disks. This lets Dimnie operators inject their malicious module into the process of any legit application.
+"The global reach of the January 2017 campaign which we analyzed in this post is a marked departure from previous Dimnie targeting tactics. Multiple factors have contributed to Dimnie's relatively long-lived existence," Palo researchers concluded. 
+"By masking upload and download network traffic as innocuous user activity, Dimnie has taken advantage of defenders’ assumptions about what normal traffic looks like. This blending in tactic, combined with a prior penchant for targeting systems used by Russian speakers, likely allowed Dimnie to remain relatively unknown."
+Since the malware hides its communications behind regular traffic and executes in the OS memory, Palo researchers unable to speculate the attackers behind the latest phishing email campaign or their exact motivations to target open-source developers.
+However, gaining access to computers belonging to owners of private GitHub repositories gives attackers a way to access the source code of the application they manage for their organizations, which let the attackers gain access to the internal networks of various organizations.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

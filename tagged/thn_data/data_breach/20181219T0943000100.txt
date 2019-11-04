@@ -1,0 +1,18 @@
+Mayday! NASA Warns Employees of Personal Information Breach
+Mohit Kumar
+
+Another day, another data breach. This time it's the United States National Aeronautics and Space Administration (NASA)
+NASA today confirmed a data breach that may have compromised personal information of some of its current and former employees after at least one of the agency's servers was hacked.
+In an internal memo sent to all employees on Tuesday, NASA said the unknown hackers managed to gain access to one of its servers storing the personally identifiable information (PII), including social security numbers, of current and former employees.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The agency said NASA discovered the breach on October 23 when its cybersecurity personnel began investigating a possible breach of two of its servers holding employee records.
+After discovering the intrusion, NASA has since secured its servers and informed that the agency is working with its federal cybersecurity partners "to examine the servers to determine the scope of the potential data exfiltration and identify potentially affected individuals." However, NASA said this process "will take time."
+It should be noted that no space missions were jeopardized by the cyber incident, the agency said.
+According to the agency, any NASA Civil Service employee who joined, left, or transferred within the agency from July 2006 to October 2018 may have had their personal data compromised. NASA currently employs roughly 17,300 people.
+The agency said all the affected employees would be notified once identified, and offered identity theft protection services and related resources to all affected employees, past and present.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Our entire leadership team takes the protection of personal information very seriously. Information security remains a top priority for NASA," said Bob Gibbs, assistant administrator at NASA's Office of the Chief Human Capital Officer.
+"NASA is continuing its efforts to secure all servers, and is reviewing its processes and procedures to ensure that the latest security practices are being followed throughout the agency."
+This is not the first time when the agency's servers have been compromised. NASA suffered a massive security breach in 2016 when a hacking group released 276GB of sensitive data including flight logs and credentials of thousands of its employees.
+At that time, the hackers even attempted to crash a $222 million drone into the Pacific Ocean by gaining control over the drone by rerouting the flight path.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

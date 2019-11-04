@@ -1,0 +1,17 @@
+Capital One Hacker Also Accused of Hacking 30 More Companies and CryptoJacking
+Wang Wei
+
+Former Amazon employee Paige Thompson, who was arrested last month in relation to the Capital One data breach, has been accused of hacking not only the U.S. credit card issuer, but also more than 30 other companies.
+An indictment unsealed on Wednesday revealed that Thompson not just stole data from  misconfigured servers hosted with a cloud-computing company, but also used the computing power of hacked servers to mine for cryptocurrency, a practice commonly known as "Cryptojacking."
+Thompson, known online as "erratic," was arrested by the FBI on July 29 concerning a massive breach in Capital One Financial Corp that exposed the personal information of more than 100 million credit card applicants in the United States and 6 million in Canada.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen data included approximately 140,000 Social Security numbers and 80,000 bank account numbers linked to United States customers, and 1 million Social Insurance numbers belonged to Canadian citizens, along with some customers' names, addresses, dates of birth, credit scores, credit limits, balances, payment history, and contact information.
+Law enforcement became aware of Thompson's activity after she posted information relating to her theft of Capital One data on her GitHub account.
+However, a federal grand jury yesterday charged Thompson with a total of two counts—one count of wire fraud and one count of computer fraud and abuse—for illicitly accessing data on more than 30 other entities, including Capital One, U.S. Department of Justice (DOJ) said.
+While the indictment [PDF] did not name the involved cloud-computing company, it's highly likely to be Amazon as Thompson previously worked for Amazon Web Services, which provides cloud computing services to Capital One among others.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But it should also be noted that Amazon Web Services was not compromised in any way since Thompson gained access to the cloud server due to Capital One's misconfiguration and not through a vulnerability in Amazon's infrastructure.
+The indictment also did not provide names of the other 30 victims, but it did describe three of the targeted organizations as a state agency outside the State of Washington, a telecommunications conglomerate outside the U.S. and a public research university outside the State of Washington.
+Investigators have found no evidence of Thompson selling or disseminating any of the stolen information.
+The 33-year-old Seattle-based software engineer remains in custody and is scheduled to be arraigned on the indictment in U.S. District Court in Seattle on September 5. She could face up to 25 years in prison if convicted.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

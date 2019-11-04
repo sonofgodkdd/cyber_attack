@@ -1,0 +1,21 @@
+Over 100 Million JustDial Users' Personal Data Found Exposed On the Internet
+Mohit Kumar
+
+An unprotected database belonging to JustDial, India's largest local search service, is leaking personally identifiable information of its every customer in real-time who accessed the service via its website, mobile app, or even by calling on its fancy "88888 88888" customer care number, The Hacker News has learned and independently verified.
+Founded over two decades ago, JustDial (JD) is the oldest and leading local search engine in India that allows users to find relevant nearby providers and vendors of various products and services quickly while helping businesses listed in JD to market their offerings.
+Rajshekhar Rajaharia, an independent security researcher, yesterday contacted The Hacker News and shared details of how an unprotected, publicly accessible API endpoint of JustDial's database can be accessed by anyone to view profile information of over 100 million users associated with their mobile numbers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The leaked data includes JustDial users' name, email, mobile number, address, gender, date of birth, photo, occupation, company name they are working with—basically whatever profile related information a customer ever provided to the company.
+Though the unprotected APIs exist since at least mid-2015, it's not clear if anyone has misused it to gather personal information on JustDial users.
+Justdial is Leaking Personal Details Of All Customers
+After verifying the leaky endpoint, The Hacker News also wanted to verify if the API is fetching results directly from the production server or from a backup database that might not have information belonging to recently signed-up users.
+To find this, I provided Rajshekhar a new phone number that was never before registered with Justdial server, which he confirmed was not listed in the database at that time.
+Instead of installing and using the JD app or its website, I then simply called the customer care number and shared a random name and personal details with the executive to learn a few good restaurants in my city.
+Immediately after completing the call, Rajshekhar sent me the profile details I shared with the JD executive associated with the same phone number that was previously not found in the database, indicating that the unprotected API is fething real-time information of users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the unprotected API is connected to the primary JD database, Rajshekhar revealed that it's an old API endpoint which is not currently being used by the company but left forgotten on the server.
+Rajshekhar told The Hacker News that he discovered this unprotected end-point while pentesting the latest APIs in use, which are apparently protected and using authentication measures.
+Besides this, Rajshekhar also found a few other old unprotected APIs, one of which could allow anyone to trigger OPT request for any registered phone number, which might not be a serious security issue, but could be used for spamming users and costing the company.
+Rajshekhar also claimed that he tried to contact the company to responsibly disclose his findings, but unfortunately failed to find any direct way to contact the company and report the incident.
+The Hacker News has also dropped an email to a few email addresses, linked to the company, we found on the Internet, providing the details of the incident. We will update this report when we hear back. Stay Tuned.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

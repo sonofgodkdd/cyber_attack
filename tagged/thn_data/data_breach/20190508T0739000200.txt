@@ -1,0 +1,19 @@
+Binance Hacked — Hackers Stole Over $40 Million Worth Of Bitcoin
+Mohit Kumar
+
+Binance, one of the largest cryptocurrency exchanges in the world, confirmed today that the company lost nearly $41 million in Bitcoin in what appears to be its largest hack to date.
+In a statement, Binance's CEO Changpeng Zhao said the company discovered a "large scale security breach" earlier on May 7, as a result of which hackers were able to steal roughly 7000 bitcoins, which worth 40.6 million at the time of writing.
+News of the hack comes just hours after Zhao tweeted that Binance has "to perform some unscheduled server maintenance that will impact deposits and withdrawals for a couple of hours."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the company, malicious attackers used a variety of attack techniques, including phishing and computer viruses, to carry out the intrusion and were able to breach a single BTC hot wallet (a cryptocurrency wallet that's connected to the Internet), which contained about 2% of the company's total BTC holdings, and withdraw stolen Bitcoins in a single transaction.
+What's more disturbing is that the company admitted the hackers managed to get their hands on user critical information, such as API keys, two-factor authentication codes, and potentially other information, which is required to log in to a Binance account.
+Zao also warned that "hackers may still control certain user accounts and may use those to influence prices."
+Fortunately, the Binance cold storage—the offline wallets where the majority of funds are kept—remain secure. Also, Internet-connected individual user wallets were not directly affected.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"All of our other wallets are secure and unharmed," the company said in a statement. "The hackers had the patience to wait, and execute well-orchestrated actions through multiple seemingly independent accounts at the most opportune time." 
+"The transaction is structured in a way that passed our existing security checks. It was unfortunate that we were not able to block this withdrawal before it was executed."
+Binance has suspended all deposits and withdrawals on its platform for roughly one week while it thoroughly reviews the security and investigates the incident.
+Binance CEO said the company last year set up an internal insurance mechanism, called Secure Asset Fund for Users (SAFU), which will cover the entire amount of the hack and won't impact users.
+"To protect the future interests of all users, Binance will create a Secure Asset Fund for Users (SAFU)," Zhao said. "Starting from 2018/07/14, we will allocate 10% of all trading fees received into SAFU to offer protection to our users and their funds in extreme cases. This fund will be stored in a separate cold wallet."
+Binance CEO also said he would participate in a previously scheduled Twitter Ask-Me-Anything.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

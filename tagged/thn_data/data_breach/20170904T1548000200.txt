@@ -1,0 +1,36 @@
+Taringa: Over 28 Million Users' Data Exposed in Massive Data Breach
+Mohit Kumar
+
+Exclusive — If you have an account on Taringa, also known as "The Latin American Reddit," your account details may have compromised in a massive data breach that leaked login details of almost all of its over 28 million users.
+Taringa is a popluar social network geared toward Latin American users, who create and share thousands of posts every day on general interest topics like life hacks, tutorials, recipes, reviews, and art.
+The Hacker News has been informed by LeakBase, a breach notification service, who has obtained a copy of the hacked database containing details on 28,722,877 accounts, which includes usernames, email addresses and hashed passwords for Taringa users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hashed passwords use an ageing algorithm called MD5 – which has been considered outdated even before 2012 – that can easily be cracked, making Taringa users open to hackers.
+Wanna know how weak is MD5?, LeakBase team has already cracked 93.79 percent (nearly 27 Million) of hashed passwords successfully within just a few days.
+LeakBase has shared a dump of 4.5 million Taringa users with The Hacker News to help us verify the authenticity of the leaked database.
+Using email addresses in the dump, we contacted a few random Taringa users with their plain text passwords, who acknowledged the authenticity of their credentials.
+The data breach reportedly occurred last month, and the company then alerted its users via a blog post, sharing more information about the incident.
+"It is likely that the attackers have made the database containing nicks, email addresses and encrypted passwords. No phone numbers and access credentials from other social networks have been compromised as well as addresses of bitcoin wallets from the Taringa program! Creators." the post (translated) says.
+"At the moment there is no concrete evidence that the attackers continue to have access to the Taringa code! and our team continues to monitor unusual movements in our infrastructure."
+To protect its users, Taringa is currently sending a password reset link via an email to its users as soon as they access their account with an old password.
+One of the contacted users has also shared a screenshot of the notice with The Hacker News, as shown above.
+"We've made a massive password reset strategy and also increased the encryption of the passwords from MD5 to SHA256. We've also been in contact with our community via our customer support team," a Taringa spokesperson told The Hacker News.
+Leaked Database Analysis
+Here below we have a brief analysis of the leaked database, which suggests that even after countless warnings, most people are continuously using deadly-simple passwords to safeguard their most sensitive data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+As you can see in the image given below, LeakBase team managed to crack 26,939,351 out of 28,722,877 passwords hashed using the MD5 algorithm, out of which over 15 Million were unique passwords.
+The vast majority of the cracked passwords were alpha and lower case alpha and did not contain any special characters or symbols.
+Here below we have the list of most popular/common passwords chosen by Taringa users that also includes top worst passwords such as 123456789, 123456, 1234567890, 000000, 12345, and 12345678.
+The most popular length of the password was six characters long, followed closely by eight characters, nine and ten characters. Expectedly, the percentages drop drastically as you go higher in length.
+Besides the cracked passwords, LeakBase also take a look at the email addresses contained in the leaked data dump, and the most common email domains are as follows:
+But, are Taringa users entirely responsible for choosing weak passwords?
+Not completely. It's also the fault of the company, who failed to enforce a strong password policy on their users, eventually allowing them to sign up with weak passwords.
+After data breaches, the organisations tend to blame the end users for poor password security, but they forget to provide them one.
+So far, it has not been clear who is behind the attack on Taringa, neither how the attackers managed to breach into its servers.
+Meanwhile, in a separate news,we reported about an unknown hacker selling personal details on more than 6 million high-profile Instagram accounts on an online website, Doxagram, after the hacker breached the Facebook-owned photo sharing service using a flaw in its API.
+How to Help Protect Yourself from Data Breaches
+Of course, if you are one of those potentially affected users, you are strongly recommended to change your passwords immediately.
+Also, change passwords for other online accounts for which you are using the same password as for Taringa account.
+Even if any website allows you to create an account with a weak password, you should always choose a complex password. Use a good password manager, if you find following best practices difficult.
+Moreover, avoid clicking on any suspicious link or attachment you received via an email and providing your personal or financial information without verifying the source correctly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

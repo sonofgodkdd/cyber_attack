@@ -1,0 +1,29 @@
+UK Regulator Fines Equifax £500,000 Over 2017 Data Breach
+Swati Khandelwal
+
+Atlanta-based consumer credit reporting agency Equifax has been issued a £500,000 fine by the UK's privacy watchdog for its last year's massive data breach that exposed personal and financial data of hundreds of millions of its customers.
+Yes, £500,000—that's the maximum fine allowed by the UK's Data Protection Act 1998, though the penalty is apparently a small figure for a $16 billion company.
+In July this year, the UK's data protection watchdog issued the maximum allowed fine of £500,000 on Facebook over the Cambridge Analytica scandal, saying the social media giant Facebook failed to prevent its citizens' data from falling into the wrong hands.
+Flashback: The Equifax Data Breach 2017
+Equifax suffered a massive data breach last year between mid-May and the end of July, exposing highly sensitive data of as many as 145 million people globally.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen information included victims' names, dates of birth, phone numbers, driver's license details, addresses, and social security numbers, along with credit card information and personally identifying information (PII) for hundreds of thousands of its consumers.
+The data breach occurred because the company failed to patch a critical Apache Struts 2 vulnerability (CVE-2017-5638) on time, for which patches were already issued by the respected companies.
+Why U.K. Has Fined a US Company?
+The UK's Information Commissioner's Office (ICO), who launched a joint investigation into the breach with the Financial Conduct Authority, has now issued its largest possible monetary penalty under the country's Data Protection Act for the massive data breach—£500,000, which equals to around $665,000.
+The ICO said that although the cyber attack compromised Equifax systems in the United States, the company "failed to take appropriate steps" to protect the personal information of its 15 million UK customers.
+The ICO investigation revealed "multiple failures" at the company like keeping users' personal information longer than necessary, which resulted in:
+19,993 UK customers had their names, dates of birth, telephone numbers and driving license numbers exposed.
+637,430 UK customers had their names, dates of birth and telephone numbers exposed.
+Up to 15 million UK customers had names and dates of birth exposed.
+Some 27,000 Britishers also had their Equifax account email addresses swiped.
+15,000 UK customers also had their names, dates of birth, addresses, account usernames and plaintext passwords, account recovery secret questions, and answers, obscured credit card numbers, and spending amounts stolen by hackers.
+Breach Was Result of Multiple Failures at Equifax
+The ICO said that Equifax had also been warned about a critical Apache Struts 2 vulnerability in its systems by the United States Department of Homeland Security (DHS) in March 2017, but the company did not take appropriate steps to fix the issue.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Initially, it was also reported that the company kept news of the breach hidden for a month after its internal discovery, giving three senior executives at Equifax time to sell almost $2 million worth of its shares, though the company denied such claims.
+Since the data breach happened before the EU's General Data Protection Regulation (GDPR) took effect in May 2018, the maximum fine of £500,000 imposed under the UK's old Data Protection Act 1998 is still lesser.
+The penalty could have been much larger had it fallen under GDPR, wherein a company could face a maximum fine of 20 million euros or 4 percent of its annual global revenue, whichever is higher, for such a privacy breach.
+In response to the ICO’s penalty, Equifax said that the company has fully cooperated with the ICO throughout the investigation that it is "disappointed in the findings and the penalty."
+Equifax received the Monetary Penalty Notice from the ICO on Wednesday and can appeal the penalty.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

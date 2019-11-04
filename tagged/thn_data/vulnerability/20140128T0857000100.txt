@@ -1,0 +1,23 @@
+Foursquare vulnerability that exposes 45 million users' email addresses
+Mohit Kumar
+
+A location based Social Networking platform with 45 million users,'Foursquare' was vulnerable to the primary email address disclosed. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Foursquare is a Smartphone application that gives you details of nearby cafes, bars, shops, parks using GPS location and also tells about your friends nearby. 
+According to a Penetration tester and hacker 'Jamal Eddine',  an attacker can extract email addresses of all 45 million users just by using a few lines of scripting tool.
+Basically the flaw exists in the Invitation system of the Foursquare app. While testing the app, he found that invitation received on the recipient's end actually disclosing the sender's email address, as shown above.
+Invitation URL: 
+https://foursquare.com/mehdi?action=acceptFriendship&expires=1378920415&src=wtbfe&uid=64761059&sig=mmlx96RwGrQ2fJAg4OWZhAWnDvc%3D
+Where 'uid' parameter represents the sender's profile ID. 
+Hacker noticed that the parameter in the Invitation URL can be modified in order to spoof the sender profile i.e. Just by modifying the value of 'uid' parameter, one can see the email ID of the respective user.
+If someone is a good programmer, then dumping the complete database won’t be a difficult task. 
+https://foursquare.com/mehdi?action=acceptFriendship&expires=1378920415&src=wtbfe&uid=35
+https://foursquare.com/mehdi?action=acceptFriendship&expires=1378920415&src=wtbfe&uid=60
+https://foursquare.com/mehdi?action=acceptFriendship&expires=1378920415&src=wtbfe&uid=65
+https://foursquare.com/mehdi?action=acceptFriendship&expires=1378920415&src=wtbfe&uid=4444
+And so forth...
+The same question still persist that what can be done if someone knows my name and my email id? Many of us use same mail account on all of the social networking sites i.e. Primary email address, and if your personal email address gets leaked from any of the website, someone can start sending you spam, malware or phishing attempts. 
+I think you don't want to be phished by any hacking group like Syrian Electronic hacker or this information can easily aid other cyber attacks.
+In July, 2013, Similar vulnerability was reported on Facebook, discloses the primary email address of any Facebook user to hackers and spammers.
+As a responsible bug hunter, he reported the flaw to Foursquare's Security Team, and they have finally fixed the issue.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

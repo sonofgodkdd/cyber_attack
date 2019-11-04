@@ -1,0 +1,26 @@
+Searching for Best Encryption Tools? Hackers are Spreading Malware Through Fake Software
+Swati Khandelwal
+
+Over the past few years, Internet users globally have grown increasingly aware of online privacy and security issues due to mass monitoring and surveillance by government agencies, making them adopt encryption software and services.
+But it turns out that hackers are taking advantage of this opportunity by creating and distributing fake versions of encryption tools in order to infect as many victims as possible.
+Kaspersky Lab has revealed an advanced persistent threat (APT) group, nicknamed StrongPity, which has put a lot of efforts in targeting users of software designed for encrypting data and communications.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The StrongPity APT group has been using watering-hole attacks, infected installers, and malware for many years to target users of encryption software by compromising legitimate sites or setting up their own malicious copycat sites.
+Watering hole attacks are designed to lure specific groups of users to their interest-based sites that typically house malicious files or redirect them to attacker-controlled downloads.
+The StrongPity APT group has managed to infect users in Europe, Northern Africa, and the Middle East and targeted two free encryption utilities in different attacks: WinRAR and TrueCrypt.
+WinRAR and TrueCrypt are long popular within security and privacy conscious users. WinRAR is best known for its archiving capabilities that encrypting files with AES-256 crypto, while TrueCrypt is a full-disk encryption utility that locks all files on a hard drive.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+By setting up fake distribution sites that closely mimic legitimate download sites, StrongPity is able to trick users into downloading malicious versions of these encryption apps in hopes that users encrypt their data using a trojanized version of WinRAR or TrueCrypt apps, allowing attackers to spy on encrypted data before encryption occurred.
+"The problem with people depending on tools like this isn’t the strength of the crypto, but more about how it's distributed," says Kurt Baumgartner, principal security researcher at Kaspersky Lab. "This is that problem that StrongPity is taking advantage of."
+Booby-Trapped WinRAR and TrueCrypt Downloads
+The APT group previously set up TrueCrypt-themed watering holes in late 2015, but their malicious activity surged in end of summer 2016.
+Between July and September, dozens of visitors have redirected from tamindir[.]com to true-crypt[.]com with unsurprisingly almost all of the focus on computer systems in Turkey, with some victims in the Netherlands.
+However, in WinRAR case, instead of redirecting victims to a website controlled by StrongPity, the group hijacked the legitimate winrar.it website to host a malicious version of the file themselves.
+The winrar.it website infected users mostly in Italy, with some victims in countries like Belgium, Algeria, Tunisia, France, Morocco and Cote D'Ivoire, while the attackers controlled site, winrar.be, infected users in Belgium, Algeria, Morocco, the Netherlands, and Canada.
+Top Countries infected with StrongPity APT malware
+According to Kaspersky, more than 1,000 systems infected with StrongPity malware this year. The top five countries affected by the group are Italy, Turkey, Belgium, Algeria and France.
+The StrongPity APT's dropper malware was signed with "unusual digital certificates," but the group didn't re-use its fake digital certificates. It downloaded components include a backdoor, keyloggers, data stealers and other crypto-related software programs, including the putty SSH client, the filezilla FTP client, the Winscp secure file transfer program and remote desktop clients.
+The dropper malware not only provides the hackers control of the system, but also allows them to steal disk contents and download other malware that would steal communication and contact information.
+Therefore, users visiting sites and downloading encryption-enabled software are advised to verify both the validity of the distribution website as well as the integrity of the downloaded file itself.
+Download sites that not use PGP or any strong digital code signing certificate are required to re-examine the necessity of doing so for the benefits of them as well as their own customers, explained Baumgartner.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

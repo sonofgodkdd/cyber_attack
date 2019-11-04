@@ -1,0 +1,16 @@
+France Telecom Orange Hacked Again, Personal Details of 1.3 Million Customers Stolen
+Wang Wei
+
+French leading telecommunications company 'Orange' hit by second major data breach of its kind in a matter of months. Company announced that hackers have stolen personal data of 1.3 million customers of its online portal.
+ORANGE HACKED SECOND TIME IN THREE MONTHS
+Hackers have stolen a “limited amount of personal information concerning clients and future customers”, including their first names, Surnames email addresses, phone numbers for both mobiles and fixed lines, dates of birth as well as the names of clients’ mobile and Internet operators.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The data recovered could be used to contact those concerned by email, SMS or by phone, particularly for phishing purposes," company said in an statement.
+The Incident was detected by the company on April 18, but the company has waited until now to inform customers to determine its full extent and to ensure that the security holes leveraged by the hackers have been patched.
+BEWARE OF PHISHING ATTACKS
+We don't know what the motivations of the Cyber criminals are, it is not known what will actually happen to the Stolen Database. The attackers know the recipients name, so this could potentially lead to e-mail spam and phishing attacks.
+Such attacks are frequently disguised as an email from a company asking the customer to provide sensitive information such as passwords, user names or credit card details.
+"The data collected could be used to contact people involved in e-mail, SMS or telephone, including for phishing" warns Orange.
+In February, Orange revealed a separate security breach, in which more than 800,000 users' emails, passwords, addresses and phone numbers had been stolen from its customer website.
+Orange also reported that it had found the source of the attack and has filed an official police complaint about the data breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

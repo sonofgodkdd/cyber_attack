@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Marfa Sector Border Patrol Agents Nab More than a Ton of Marijuana
+(Monday, January 14, 2008)
+Marfa, Texas  - Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations seized over a ton of marijuana in separate instances on Friday and Saturday.
+On Friday morning at approximately 1 a.m., a Border Patrol K-9 unit alerted to the trailer of an 18-wheeler as it approached the Interstate 10 Border Patrol Traffic Checkpoint. Upon further inspection, Sierra Blanca agents discovered 791 pounds of marijuana, with an estimated value of $632,800, hidden among 15 cardboard boxes within the trailer.
+The driver and passenger of the truck, both U.S. Citizens, were arrested. Both subjects, along with the truck and the marijuana, were turned over to the Drug Enforcement Administration.
+On Saturday evening, Marfa Station agents responded to a suspicious pickup truck traveling north on FM2810 and turning west on Highway 90 in Marfa. Agents, with assistance from the Texas Department of Public Safety (DPS), followed the vehicle about 25 miles west of Marfa. DPS attempted to stop the vehicle for a traffic violation, when the vehicle abruptly turned around and headed back towards Marfa. About ten miles from the city, the Presidio County Sheriff's Department successfully deployed a Controlled Tire Deflation Device. The truck was able to continue into town on its rims before it was stopped with assistance from the Presidio County Sheriff's office and the Marfa Police Department.
+The 2001 Ford pickup contained 1,249 cellophane tape wrapped bundles of marijuana weighing approximately 1,466 pounds, with an estimated value of $1,173,040. The driver, a U.S. Citizen, and the passenger, an illegal alien from Mexico, were both placed under arrest.
+Both subjects, the marijuana and the vehicle were turned over to the Drug Enforcement Administration.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="34" text="Marfa Sector Border Patrol Agents" TYPE="BAR" />
+<person id="p1" start="111" end="193" text="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" TYPE="BAR" />
+<person id="p2" start="473" end="493" text="Sierra Blanca agents" TYPE="BAR" />
+<person id="p3" start="619" end="676" text="The driver and passenger of the truck, both U.S. Citizens" TYPE="NOM" />
+<person id="p4" start="619" end="676" text="The driver and passenger of the truck, both U.S. Citizens" TYPE="NOM" />
+<person id="p6" start="693" end="706" text="Both subjects" TYPE="NOM" />
+<person id="p7" start="826" end="846" text="Marfa Station agents" TYPE="BAR" />
+<person id="p8" start="953" end="959" text="Agents" TYPE="BAR" />
+<person id="p9" start="1239" end="1266" text="the Presidio County Sheriff" TYPE="NOM" />
+<person id="p10" start="1434" end="1461" text="the Presidio County Sheriff" TYPE="NOM" />
+<person id="p11" start="1662" end="1688" text="The driver, a U.S. Citizen" TYPE="APP" />
+<person id="p12" start="1662" end="1672" text="The driver" TYPE="NOM" />
+<person id="p13" start="1674" end="1688" text="a U.S. Citizen" TYPE="NOM" />
+<person id="p14" start="1694" end="1737" text="the passenger, an illegal alien from Mexico" TYPE="APP" />
+<person id="p15" start="1694" end="1707" text="the passenger" TYPE="NOM" />
+<person id="p16" start="1709" end="1737" text="an illegal alien from Mexico" TYPE="NOM" />
+<person id="p17" start="1744" end="1748" text="both" TYPE="HLS" />
+<person id="p18" start="1770" end="1783" text="Both subjects" TYPE="NOM" />
+<person id="p5" start="658" end="676" text="both U.S. Citizens" TYPE="HLS" />
+<person id="p19" start="663" end="676" text="U.S. Citizens" TYPE="BAR" />
+<organization id="o0" start="1" end="27" text="Marfa Sector Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="111" end="137" text="Marfa Sector Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="314" end="338" text="a Border Patrol K-9 unit" TYPE="NOM" />
+<organization id="o3" start="316" end="329" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o4" start="768" end="803" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o5" start="982" end="1024" text="the Texas Department of Public Safety (DPS" TYPE="NAM" />
+<organization id="o6" start="1021" end="1024" text="DPS" TYPE="NAM" />
+<organization id="o7" start="1078" end="1081" text="DPS" TYPE="NAM" />
+<organization id="o9" start="1239" end="1279" text="the Presidio County Sheriff's Department" TYPE="NOM" />
+<organization id="o10" start="1434" end="1470" text="the Presidio County Sheriff's office" TYPE="NOM" />
+<organization id="o11" start="1475" end="1502" text="the Marfa Police Department" TYPE="NAM" />
+<organization id="o12" start="1835" end="1870" text="the Drug Enforcement Administration" TYPE="NAM" />
+<geographical-political id="g0" start="95" end="107" text="Marfa, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="102" end="107" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="663" end="667" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g3" start="946" end="951" text="Marfa" TYPE="NAM" />
+<geographical-political id="g4" start="1071" end="1076" text="Marfa" TYPE="NAM" />
+<geographical-political id="g5" start="1201" end="1206" text="Marfa" TYPE="NAM" />
+<geographical-political id="g6" start="1229" end="1237" text="the city" TYPE="NOM" />
+<geographical-political id="g7" start="1243" end="1258" text="Presidio County" TYPE="NAMPRE" />
+<geographical-political id="g8" start="1374" end="1378" text="town" TYPE="BAR" />
+<geographical-political id="g9" start="1438" end="1453" text="Presidio County" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1676" end="1680" text="U.S." TYPE="NAM" />
+<geographical-political id="g11" start="1731" end="1737" text="Mexico" TYPE="NAM" />
+<geographical-political id="g12" start="473" end="486" text="Sierra Blanca" TYPE="NAMPRE" />
+<falicity id="f0" start="157" end="193" text="the Marfa and Sierra Blanca Stations" TYPE="NAM" />
+<falicity id="f1" start="157" end="193" text="the Marfa and Sierra Blanca Stations" TYPE="NAM" />
+<falicity id="f2" start="396" end="446" text="the Interstate 10 Border Patrol Traffic Checkpoint" TYPE="NAM" />
+<falicity id="f4" start="826" end="839" text="Marfa Station" TYPE="NAMPRE" />
+<falicity id="f5" start="905" end="911" text="FM2810" TYPE="NAM" />
+<falicity id="f6" start="932" end="951" text="Highway 90 in Marfa" TYPE="NAM" />
+<head id="h0" start="28" end="34" text="Agents" />
+<head id="h1" start="1" end="27" text="Marfa Sector Border Patrol" />
+<head id="h2" start="95" end="100" text="Marfa" />
+<head id="h3" start="102" end="107" text="Texas" />
+<head id="h4" start="138" end="144" text="agents" />
+<head id="h5" start="111" end="137" text="Marfa Sector Border Patrol" />
+<head id="h6" start="161" end="166" text="Marfa" />
+<head id="h7" start="171" end="193" text="Sierra Blanca Stations" />
+<head id="h8" start="334" end="338" text="unit" />
+<head id="h9" start="316" end="329" text="Border Patrol" />
+<head id="h10" start="400" end="446" text="Interstate 10 Border Patrol Traffic Checkpoint" />
+<head id="h11" start="487" end="493" text="agents" />
+<head id="h12" start="473" end="486" text="Sierra Blanca" />
+<head id="h13" start="623" end="629" text="driver" />
+<head id="h14" start="634" end="643" text="passenger" />
+<head id="h15" start="668" end="676" text="Citizens" />
+<head id="h16" start="663" end="667" text="U.S." />
+<head id="h17" start="698" end="706" text="subjects" />
+<head id="h18" start="772" end="803" text="Drug Enforcement Administration" />
+<head id="h19" start="840" end="846" text="agents" />
+<head id="h20" start="826" end="839" text="Marfa Station" />
+<head id="h21" start="905" end="911" text="FM2810" />
+<head id="h22" start="932" end="942" text="Highway 90" />
+<head id="h23" start="946" end="951" text="Marfa" />
+<head id="h24" start="953" end="959" text="Agents" />
+<head id="h25" start="986" end="1019" text="Texas Department of Public Safety" />
+<head id="h26" start="1021" end="1024" text="DPS" />
+<head id="h28" start="1071" end="1076" text="Marfa" />
+<head id="h29" start="1078" end="1081" text="DPS" />
+<head id="h30" start="1201" end="1206" text="Marfa" />
+<head id="h31" start="1233" end="1237" text="city" />
+<head id="h32" start="1269" end="1279" text="Department" />
+<head id="h33" start="1259" end="1266" text="Sheriff" />
+<head id="h34" start="1243" end="1258" text="Presidio County" />
+<head id="h35" start="1374" end="1378" text="town" />
+<head id="h36" start="1464" end="1470" text="office" />
+<head id="h37" start="1454" end="1461" text="Sheriff" />
+<head id="h38" start="1438" end="1453" text="Presidio County" />
+<head id="h39" start="1479" end="1502" text="Marfa Police Department" />
+<head id="h40" start="1666" end="1672" text="driver" />
+<head id="h41" start="1681" end="1688" text="Citizen" />
+<head id="h42" start="1698" end="1707" text="passenger" />
+<head id="h43" start="1720" end="1725" text="alien" />
+<head id="h44" start="1676" end="1680" text="U.S." />
+<head id="h45" start="1731" end="1737" text="Mexico" />
+<head id="h46" start="1744" end="1748" text="both" />
+<head id="h47" start="1775" end="1783" text="subjects" />
+<head id="h48" start="1839" end="1870" text="Drug Enforcement Administration" />
+<head id="h27" start="658" end="662" text="both" />
+<name id="n0" start="1" end="27" text="Marfa Sector Border Patrol" />
+<name id="n1" start="95" end="100" text="Marfa" />
+<name id="n2" start="102" end="107" text="Texas" />
+<name id="n3" start="111" end="137" text="Marfa Sector Border Patrol" />
+<name id="n4" start="161" end="166" text="Marfa" />
+<name id="n5" start="171" end="193" text="Sierra Blanca Stations" />
+<name id="n6" start="316" end="329" text="Border Patrol" />
+<name id="n7" start="400" end="446" text="Interstate 10 Border Patrol Traffic Checkpoint" />
+<name id="n8" start="473" end="486" text="Sierra Blanca" />
+<name id="n9" start="663" end="667" text="U.S." />
+<name id="n10" start="772" end="803" text="Drug Enforcement Administration" />
+<name id="n11" start="826" end="839" text="Marfa Station" />
+<name id="n12" start="905" end="911" text="FM2810" />
+<name id="n13" start="932" end="942" text="Highway 90" />
+<name id="n14" start="946" end="951" text="Marfa" />
+<name id="n15" start="986" end="1019" text="Texas Department of Public Safety" />
+<name id="n16" start="1021" end="1024" text="DPS" />
+<name id="n17" start="1071" end="1076" text="Marfa" />
+<name id="n18" start="1078" end="1081" text="DPS" />
+<name id="n19" start="1201" end="1206" text="Marfa" />
+<name id="n20" start="1243" end="1258" text="Presidio County" />
+<name id="n21" start="1438" end="1453" text="Presidio County" />
+<name id="n22" start="1479" end="1502" text="Marfa Police Department" />
+<name id="n23" start="1676" end="1680" text="U.S." />
+<name id="n24" start="1731" end="1737" text="Mexico" />
+<name id="n25" start="1839" end="1870" text="Drug Enforcement Administration" />
+<located-mention id="lo0" start="473" end="493" text="Sierra Blanca agents" TYPE="PreMod" />
+<located-mention id="lo1" start="826" end="846" text="Marfa Station agents" TYPE="PreMod" />
+<located-mention id="lo2" start="111" end="193" text="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" TYPE="Participial" />
+<located-mention id="lo3" start="111" end="193" text="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" TYPE="Participial" />
+<employment-mention id="e2" start="1239" end="1266" text="the Presidio County Sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="1434" end="1461" text="the Presidio County Sheriff" TYPE="PreMod" />
+<CRRE id="C3" start="1674" end="1688" text="a U.S. Citizen" TYPE="PreMod" />
+<CRRE id="C4" start="1709" end="1737" text="an illegal alien from Mexico" TYPE="Preposition" />
+<CRRE id="C0" start="663" end="676" text="U.S. Citizens" TYPE="PreMod" />
+<M id="M0" start="1239" end="1279" text="the Presidio County Sheriff's Department" TYPE="Possessive" />
+<M id="M1" start="1434" end="1470" text="the Presidio County Sheriff's office" TYPE="Possessive" />
+<M id="M2" start="1" end="34" text="Marfa Sector Border Patrol Agents" TYPE="PreMod" />
+<M id="M3" start="111" end="193" text="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" TYPE="PreMod" />
+<entity_link id="en0" fromID="o1" fromText="Marfa Sector Border Patrol" toID="o0" toText="Marfa Sector Border Patrol" />
+<entity_link id="en1" fromID="p1" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="p0" toText="Marfa Sector Border Patrol Agents" />
+<entity_link id="en3" fromID="f4" fromText="Marfa Station" toID="f0" toText="the Marfa and Sierra Blanca Stations" />
+<entity_link id="en4" fromID="p8" fromText="Agents" toID="p7" toText="Marfa Station agents" />
+<entity_link id="en5" fromID="o6" fromText="DPS" toID="o5" toText="the Texas Department of Public Safety (DPS" />
+<entity_link id="en6" fromID="g3" fromText="Marfa" toID="g0" toText="Marfa, Texas" />
+<entity_link id="en7" fromID="g4" fromText="Marfa" toID="g3" toText="Marfa" />
+<entity_link id="en8" fromID="o7" fromText="DPS" toID="o6" toText="DPS" />
+<entity_link id="en9" fromID="g5" fromText="Marfa" toID="g4" toText="Marfa" />
+<entity_link id="en10" fromID="g6" fromText="the city" toID="g5" toText="Marfa" />
+<entity_link id="en11" fromID="g8" fromText="town" toID="g7" toText="Presidio County" />
+<entity_link id="en12" fromID="g9" fromText="Presidio County" toID="g7" toText="Presidio County" />
+<entity_link id="en13" fromID="p10" fromText="the Presidio County Sheriff" toID="p9" toText="the Presidio County Sheriff" />
+<entity_link id="en14" fromID="o10" fromText="the Presidio County Sheriff's office" toID="o9" toText="the Presidio County Sheriff's Department" />
+<entity_link id="en16" fromID="p12" fromText="The driver" toID="p11" toText="The driver, a U.S. Citizen" />
+<entity_link id="en17" fromID="p13" fromText="a U.S. Citizen" toID="p12" toText="The driver" />
+<entity_link id="en18" fromID="p15" fromText="the passenger" toID="p14" toText="the passenger, an illegal alien from Mexico" />
+<entity_link id="en19" fromID="p16" fromText="an illegal alien from Mexico" toID="p15" toText="the passenger" />
+<entity_link id="en20" fromID="g10" fromText="U.S." toID="g2" toText="U.S." />
+<entity_link id="en21" fromID="p18" fromText="Both subjects" toID="p17" toText="both" />
+<entity_link id="en22" fromID="o12" fromText="the Drug Enforcement Administration" toID="o4" toText="the Drug Enforcement Administration" />
+<entity_link id="en23" fromID="p19" fromText="U.S. Citizens" toID="p5" toText="both U.S. Citizens" />
+<entity_link id="en24" fromID="p6" fromText="Both subjects" toID="p5" toText="both U.S. Citizens" />
+<head_link id="he0" fromID="p0" fromText="Marfa Sector Border Patrol Agents" toID="h0" toText="Agents" />
+<head_link id="he1" fromID="o0" fromText="Marfa Sector Border Patrol" toID="h1" toText="Marfa Sector Border Patrol" />
+<head_link id="he2" fromID="g0" fromText="Marfa, Texas" toID="h2" toText="Marfa" />
+<head_link id="he3" fromID="g1" fromText="Texas" toID="h3" toText="Texas" />
+<head_link id="he4" fromID="p1" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="h4" toText="agents" />
+<head_link id="he5" fromID="o1" fromText="Marfa Sector Border Patrol" toID="h5" toText="Marfa Sector Border Patrol" />
+<head_link id="he6" fromID="f0" fromText="the Marfa and Sierra Blanca Stations" toID="h6" toText="Marfa" />
+<head_link id="he7" fromID="f1" fromText="the Marfa and Sierra Blanca Stations" toID="h7" toText="Sierra Blanca Stations" />
+<head_link id="he8" fromID="o2" fromText="a Border Patrol K-9 unit" toID="h8" toText="unit" />
+<head_link id="he9" fromID="o3" fromText="Border Patrol" toID="h9" toText="Border Patrol" />
+<head_link id="he10" fromID="f2" fromText="the Interstate 10 Border Patrol Traffic Checkpoint" toID="h10" toText="Interstate 10 Border Patrol Traffic Checkpoint" />
+<head_link id="he11" fromID="p2" fromText="Sierra Blanca agents" toID="h11" toText="agents" />
+<head_link id="he13" fromID="p3" fromText="The driver and passenger of the truck, both U.S. Citizens" toID="h13" toText="driver" />
+<head_link id="he14" fromID="p4" fromText="The driver and passenger of the truck, both U.S. Citizens" toID="h14" toText="passenger" />
+<head_link id="he16" fromID="g2" fromText="U.S." toID="h16" toText="U.S." />
+<head_link id="he17" fromID="p6" fromText="Both subjects" toID="h17" toText="subjects" />
+<head_link id="he18" fromID="o4" fromText="the Drug Enforcement Administration" toID="h18" toText="Drug Enforcement Administration" />
+<head_link id="he19" fromID="p7" fromText="Marfa Station agents" toID="h19" toText="agents" />
+<head_link id="he20" fromID="f4" fromText="Marfa Station" toID="h20" toText="Marfa Station" />
+<head_link id="he21" fromID="f5" fromText="FM2810" toID="h21" toText="FM2810" />
+<head_link id="he22" fromID="f6" fromText="Highway 90 in Marfa" toID="h22" toText="Highway 90" />
+<head_link id="he23" fromID="g3" fromText="Marfa" toID="h23" toText="Marfa" />
+<head_link id="he24" fromID="p8" fromText="Agents" toID="h24" toText="Agents" />
+<head_link id="he25" fromID="o5" fromText="the Texas Department of Public Safety (DPS" toID="h25" toText="Texas Department of Public Safety" />
+<head_link id="he26" fromID="o6" fromText="DPS" toID="h26" toText="DPS" />
+<head_link id="he28" fromID="g4" fromText="Marfa" toID="h28" toText="Marfa" />
+<head_link id="he29" fromID="o7" fromText="DPS" toID="h29" toText="DPS" />
+<head_link id="he30" fromID="g5" fromText="Marfa" toID="h30" toText="Marfa" />
+<head_link id="he31" fromID="g6" fromText="the city" toID="h31" toText="city" />
+<head_link id="he33" fromID="o9" fromText="the Presidio County Sheriff's Department" toID="h32" toText="Department" />
+<head_link id="he34" fromID="p9" fromText="the Presidio County Sheriff" toID="h33" toText="Sheriff" />
+<head_link id="he35" fromID="g7" fromText="Presidio County" toID="h34" toText="Presidio County" />
+<head_link id="he36" fromID="g8" fromText="town" toID="h35" toText="town" />
+<head_link id="he37" fromID="o10" fromText="the Presidio County Sheriff's office" toID="h36" toText="office" />
+<head_link id="he38" fromID="p10" fromText="the Presidio County Sheriff" toID="h37" toText="Sheriff" />
+<head_link id="he39" fromID="g9" fromText="Presidio County" toID="h38" toText="Presidio County" />
+<head_link id="he40" fromID="o11" fromText="the Marfa Police Department" toID="h39" toText="Marfa Police Department" />
+<head_link id="he41" fromID="p12" fromText="The driver" toID="h40" toText="driver" />
+<head_link id="he42" fromID="p13" fromText="a U.S. Citizen" toID="h41" toText="Citizen" />
+<head_link id="he43" fromID="p15" fromText="the passenger" toID="h42" toText="passenger" />
+<head_link id="he44" fromID="p16" fromText="an illegal alien from Mexico" toID="h43" toText="alien" />
+<head_link id="he45" fromID="g10" fromText="U.S." toID="h44" toText="U.S." />
+<head_link id="he46" fromID="g11" fromText="Mexico" toID="h45" toText="Mexico" />
+<head_link id="he47" fromID="p17" fromText="both" toID="h46" toText="both" />
+<head_link id="he48" fromID="p18" fromText="Both subjects" toID="h47" toText="subjects" />
+<head_link id="he49" fromID="o12" fromText="the Drug Enforcement Administration" toID="h48" toText="Drug Enforcement Administration" />
+<head_link id="he15" fromID="p5" fromText="both U.S. Citizens" toID="h27" toText="both" />
+<head_link id="he27" fromID="p19" fromText="U.S. Citizens" toID="h15" toText="Citizens" />
+<head_link id="he50" fromID="g12" fromText="Sierra Blanca" toID="h12" toText="Sierra Blanca" />
+<name_link id="na0" fromID="o0" fromText="Marfa Sector Border Patrol" toID="n0" toText="Marfa Sector Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="Marfa, Texas" toID="n1" toText="Marfa" />
+<name_link id="na2" fromID="g1" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="o1" fromText="Marfa Sector Border Patrol" toID="n3" toText="Marfa Sector Border Patrol" />
+<name_link id="na4" fromID="f0" fromText="the Marfa and Sierra Blanca Stations" toID="n4" toText="Marfa" />
+<name_link id="na5" fromID="f1" fromText="the Marfa and Sierra Blanca Stations" toID="h7" toText="Sierra Blanca Stations" />
+<name_link id="na6" fromID="o3" fromText="Border Patrol" toID="n6" toText="Border Patrol" />
+<name_link id="na7" fromID="f2" fromText="the Interstate 10 Border Patrol Traffic Checkpoint" toID="n7" toText="Interstate 10 Border Patrol Traffic Checkpoint" />
+<name_link id="na9" fromID="g2" fromText="U.S." toID="n9" toText="U.S." />
+<name_link id="na10" fromID="o4" fromText="the Drug Enforcement Administration" toID="n10" toText="Drug Enforcement Administration" />
+<name_link id="na11" fromID="f4" fromText="Marfa Station" toID="n11" toText="Marfa Station" />
+<name_link id="na12" fromID="f5" fromText="FM2810" toID="n12" toText="FM2810" />
+<name_link id="na13" fromID="f6" fromText="Highway 90 in Marfa" toID="n13" toText="Highway 90" />
+<name_link id="na14" fromID="g3" fromText="Marfa" toID="n14" toText="Marfa" />
+<name_link id="na15" fromID="o5" fromText="the Texas Department of Public Safety (DPS" toID="n15" toText="Texas Department of Public Safety" />
+<name_link id="na16" fromID="o6" fromText="DPS" toID="n16" toText="DPS" />
+<name_link id="na17" fromID="g4" fromText="Marfa" toID="n17" toText="Marfa" />
+<name_link id="na18" fromID="o7" fromText="DPS" toID="n18" toText="DPS" />
+<name_link id="na19" fromID="g5" fromText="Marfa" toID="n19" toText="Marfa" />
+<name_link id="na20" fromID="g7" fromText="Presidio County" toID="n20" toText="Presidio County" />
+<name_link id="na21" fromID="g9" fromText="Presidio County" toID="n21" toText="Presidio County" />
+<name_link id="na22" fromID="o11" fromText="the Marfa Police Department" toID="n22" toText="Marfa Police Department" />
+<name_link id="na23" fromID="g10" fromText="U.S." toID="n23" toText="U.S." />
+<name_link id="na24" fromID="g11" fromText="Mexico" toID="n24" toText="Mexico" />
+<name_link id="na25" fromID="o12" fromText="the Drug Enforcement Administration" toID="n25" toText="Drug Enforcement Administration" />
+<name_link id="na26" fromID="g12" fromText="Sierra Blanca" toID="n8" toText="Sierra Blanca" />
+<relation_link1 id="r2" fromID="lo0" fromText="Sierra Blanca agents" toID="p2" toText="Sierra Blanca agents" />
+<relation_link1 id="r3" fromID="lo1" fromText="Marfa Station agents" toID="p7" toText="Marfa Station agents" />
+<relation_link1 id="r4" fromID="e2" fromText="the Presidio County Sheriff" toID="p9" toText="the Presidio County Sheriff" />
+<relation_link1 id="r5" fromID="e3" fromText="the Presidio County Sheriff" toID="p10" toText="the Presidio County Sheriff" />
+<relation_link1 id="r6" fromID="lo2" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="p1" toText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" />
+<relation_link1 id="r7" fromID="lo3" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="p1" toText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" />
+<relation_link1 id="r10" fromID="C3" fromText="a U.S. Citizen" toID="p13" toText="a U.S. Citizen" />
+<relation_link1 id="r11" fromID="C4" fromText="an illegal alien from Mexico" toID="p16" toText="an illegal alien from Mexico" />
+<relation_link1 id="r12" fromID="C0" fromText="U.S. Citizens" toID="p19" toText="U.S. Citizens" />
+<relation_link1 id="r13" fromID="M0" fromText="the Presidio County Sheriff's Department" toID="p9" toText="the Presidio County Sheriff" />
+<relation_link1 id="r14" fromID="M1" fromText="the Presidio County Sheriff's office" toID="p10" toText="the Presidio County Sheriff" />
+<relation_link1 id="r15" fromID="M2" fromText="Marfa Sector Border Patrol Agents" toID="p0" toText="Marfa Sector Border Patrol Agents" />
+<relation_link1 id="r16" fromID="M3" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="p1" toText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" />
+<relation_link2 id="re3" fromID="lo1" fromText="Marfa Station agents" toID="f4" toText="Marfa Station" />
+<relation_link2 id="re4" fromID="e2" fromText="the Presidio County Sheriff" toID="g7" toText="Presidio County" />
+<relation_link2 id="re5" fromID="e3" fromText="the Presidio County Sheriff" toID="g9" toText="Presidio County" />
+<relation_link2 id="re6" fromID="lo2" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="f0" toText="the Marfa and Sierra Blanca Stations" />
+<relation_link2 id="re7" fromID="lo3" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="f1" toText="the Marfa and Sierra Blanca Stations" />
+<relation_link2 id="re10" fromID="C3" fromText="a U.S. Citizen" toID="g10" toText="U.S." />
+<relation_link2 id="re11" fromID="C4" fromText="an illegal alien from Mexico" toID="g11" toText="Mexico" />
+<relation_link2 id="re12" fromID="C0" fromText="U.S. Citizens" toID="g2" toText="U.S." />
+<relation_link2 id="re13" fromID="lo0" fromText="Sierra Blanca agents" toID="g12" toText="Sierra Blanca" />
+<relation_link2 id="re14" fromID="M0" fromText="the Presidio County Sheriff's Department" toID="o9" toText="the Presidio County Sheriff's Department" />
+<relation_link2 id="re15" fromID="M1" fromText="the Presidio County Sheriff's office" toID="o10" toText="the Presidio County Sheriff's office" />
+<relation_link2 id="re16" fromID="M2" fromText="Marfa Sector Border Patrol Agents" toID="o0" toText="Marfa Sector Border Patrol" />
+<relation_link2 id="re17" fromID="M3" fromText="Marfa Sector Border Patrol agents assigned to the Marfa and Sierra Blanca Stations" toID="o1" toText="Marfa Sector Border Patrol" />
+</TAGS>
+</KddTask>

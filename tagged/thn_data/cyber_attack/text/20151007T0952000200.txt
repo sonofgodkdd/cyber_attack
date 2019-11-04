@@ -1,0 +1,36 @@
+Cisco Takes Down Ransomware Operation Generating $30 Million in Revenue For Hackers
+Swati Khandelwal
+
+This will blow the minds of every single cyber criminal group out there – Researchers have discovered a group of hackers that is making an estimated $30 Million a year from their online criminal operation.
+Yes, $30 MILLLLLLION annually. 
+Researchers from cyber security firm Cisco announced that they discovered a large ransomware campaign connected to the Angler Exploit Kit, one of the most potent exploit kits available in the underground market for hacking into computers.
+Researchers noticed that the large percentage of infected users were connecting to servers belonging to hosting provider Limestone Networks. After digging out more, they estimated that a single hacker or a group of hackers is targeting up to 90,000 end users a day.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here are some estimates by Cisco researchers after investigating the operation: 
+Life of an Angler exploit server is one day
+Around 3600 users are compromised per day by ransomware
+3% of targets paid the average ransom demand of $300 to the hackers
+As a result, the researchers estimated that this particular hacker or a group of hackers is generating an annual revenue of more than $34 Million.
+Remember, it's just a figure estimated by Cisco researchers following the log files retrieved from just one server. The actual number could be even larger than $30 Million annually, but we can not immediately come to any conclusions.
+Researchers from Cisco Systems' Talos Security unit noted that "using simple math [one] can easily determine that this [particular] adversary is making potentially $3 Million a month," but "It is difficult to be 100% accurate with these numbers."
+Hackers Making $60 Million Annually
+The security firm also claims that this hacker or group of hackers is responsible for up to 50% of Angler Exploit Kit activity, which means that the Angler kit might be generating revenue of more than $60M annually for hackers around the world.
+The affected hosting provider Limestone Networks have since shut down the malicious servers after Cisco researchers contacted them.
+Angler Exploit kit, first identified in late 2013, has managed to become one of the most popular exploit kits in the market. Essentially it packages a number of hacking tools that take advantage of vulnerabilities Flash, Java and other browser plugins to break into targets' systems.
+Now cyber criminals are making use of ransomware in their kit that yield them more money per attack.
+"This is a significant blow to the emerging hacker economy," researchers said, "where ransomware and the black market sale of stolen IP, credit card info and personally identifiable information (PII) are generating hundreds of millions of dollars annually." 
+How to Protect Against Ransomware?
+However, there are several ways to help protect your computer against ransomware and other malware threats: 
+Make sure to keep all of the software on your computer up to date.
+Make sure that automatic updating is turned on to get all the latest security updates.
+Use secure connections for sensitive transactions.
+Never open any attachment unless you know who it's from and why they are sending it.
+Use virtual keyboard for internet banking.
+Use strong alphanumeric and symbol passwords.
+Common sense is another useful weapon in the fight against viruses.
+Also Read:
+How to protect your computer from CryptoLocker ransomware malware?
+Free CryptoLocker Ransomware Decryption Tool Released
+CoinVault Ransomware Decryption Tool Released
+'Tox' Offers Free build-your-own Ransomware Malware Toolkit
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

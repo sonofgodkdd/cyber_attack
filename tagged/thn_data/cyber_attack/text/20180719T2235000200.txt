@@ -1,0 +1,18 @@
+Microsoft Says Russia Tried to Hack Three 2018 Midterm Election Candidates
+Swati Khandelwal
+
+Microsoft said it detected and helped the US government to block Russian hacking attempts against at least three congressional candidates this year, a Microsoft executive revealed speaking at the Aspen Security Forum today.
+Although the company refused to name the targets but said, the three candidates were "people who, because of their positions, might have been interesting targets from an espionage standpoint as well as an election disruption standpoint."
+According to the company, the Russian hackers targeted the candidates’ staffers with phishing attacks, redirecting them to a fake Microsoft website, in an attempt to steal their credentials.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Earlier this year, we did discover that a fake Microsoft domain had been established as the landing page for phishing attacks," said Tom Burt, Microsoft's vice president for customer security.
+"And we saw metadata that suggested those phishing attacks were being directed at three candidates who are all standing for election in the midterm elections."
+Immediately after learning of this incident, Microsoft took down the fake domain and worked with the government to "avoid anybody being infected by that particular attack."
+The company also ensured that none of the targeted campaign staffers were infected by the attack.
+Burt specified that the hacking attempts were conducted by a Russian hacking group, though so far the group has been less active compared to 2016, during the U.S. presidential election.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Microsoft "discovered that these [fake domains] were being registered by an activity group that at Microsoft we call Strontium...that's known as Fancy Bear or APT 28," Burt said.
+"The consensus of the threat intelligence community right now is [that] we do not see the same level of activity by the Russian activity groups leading into the mid-year elections that we could see when we look back at them at that 2016 elections," he added.
+For instance, Burt said the hackers are not infiltrating think tanks and targeting academia experts that they did during the 2016 presidential election.
+However, Burt warned that "That does not mean we're not going to see it, there is a lot of time left before the election."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

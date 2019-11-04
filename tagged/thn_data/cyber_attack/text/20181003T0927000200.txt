@@ -1,0 +1,20 @@
+Facebook Finds 'No Evidence' Hackers Accessed Connected Third-Party Apps
+Swati Khandelwal
+
+When Facebook last weekend disclosed a massive data breach—that compromised access tokens for more than 50 million accounts—many feared that the stolen tokens could have been used to access other third-party services, including Instagram and Tinder, through Facebook login.
+Good news is that Facebook found no evidence "so far" that proves such claims.
+In a blog post published Tuesday, Facebook security VP Guy Rosen revealed that investigators "found no evidence" of hackers accessing third-party apps with its "Login with Facebook" feature.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"We have now analyzed our logs for all third-party apps installed or logged in during the attack we discovered last week. That investigation has so far found no evidence that the attackers accessed any apps using Facebook Login," Rosen says.
+This does not mean that the stolen access tokens that had already been revoked by Facebook do not pose any threat to thousands of third-party services using Facebook Login, as the company explains it depends upon how websites validate their users access tokens.
+Many websites that do not use Facebook's official SDKs to regularly validate their users access tokens could still allow attackers to access users' accounts using revoked access tokens.
+In order to help such websites, Facebook is building a tool that will enable developers to "manually identify the users of their apps who may have been affected, so that they can log them out."
+"Any developer using our official Facebook SDKs — and all those that have regularly checked the validity of their users' access tokens – were automatically protected when we reset people's access tokens," Rosen says.
+While announcing its worst-ever data breach last week, Facebook said unknown hackers had exploited a chain of vulnerabilities in its code to steal 50 million accounts tokens—digital keys that keep users logged in, so they don't need to re-enter their credentials every time they use the app.
+The social media giant fixed the issue on Thursday night and forcefully logged 90 million users out of their accounts as a precaution by resetting their access tokens.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Even after Facebook announced that it found no evidence of hackers accessing third-party services that use Facebook's single sign-on in the massive attack, some of those services are taking necessary steps to safeguard their users.
+For example, Uber has precautionarily expired all active Facebook-based login sessions temporarily after the data breach, while the company is still investigating the breach at its end.
+The social media giant has yet to disclose the attackers responsible for the massive attack, their origins, and the data they may have stolen from the affected 50 million Facebook users.
+The Irish Data Protection Commission said that less than 10 percent of the 50 million users (which equals to five million users) attacked in the breach are based in the European Union (EU), where Facebook can be fined up to $1.63 billion under the nation's General Data Protection Regulation (GDPR) if it did not find doing enough to protect the security of users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

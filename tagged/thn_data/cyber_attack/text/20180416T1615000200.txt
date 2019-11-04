@@ -1,0 +1,25 @@
+Cybercriminals Hijack Router DNS to Distribute Android Banking Trojan
+Swati Khandelwal
+
+Security researchers have been warning about an ongoing malware campaign hijacking Internet routers to distribute Android banking malware that steals users' sensitive information, login credentials and the secret code for two-factor authentication.
+In order to trick victims into installing the Android malware, dubbed Roaming Mantis, hackers have been hijacking DNS settings on vulnerable and poorly secured routers.
+DNS hijacking attack allows hackers to intercept traffic, inject rogue ads on web-pages and redirect users to phishing pages designed to trick them into sharing their sensitive information like login credentials, bank account details, and more.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hijacking routers' DNS for a malicious purpose is not new. Previously we reported about widespread DNSChanger and Switcher—both the malware worked by changing the DNS settings of the wireless routers to redirect traffic to malicious websites controlled by attackers.
+Discovered by security researchers at Kaspersky Lab, the new malware campaign has primarily been targeting users in Asian countries, including South Korea, China Bangladesh, and Japan, since February this year.
+Once modified, the rogue DNS settings configured by hackers redirect victims to fake versions of legitimate websites they try to visit and displays a pop-up warning message, which says—"To better experience the browsing, update to the latest chrome version."
+It then downloads the Roaming Mantis malware app masquerading as Chrome browser app for Android, which takes permission to collect device’ account information, manage SMS/MMS and making calls, record audio, control external storage, check packages, work with file systems, draw overlay windows and so on.
+"The redirection led to the installation of Trojanized applications named facebook.apk and chrome.apk that contained Android Trojan-Banker."
+If installed, the malicious app overlays all other windows immediately to show a fake warning message (in broken English), which reads, "Account No.exists risks, use after certification."
+Roaming Mantis then starts a local web server on the device and launches the web browser to open a fake version of Google website, asking users to fill up their names and date of births.
+To convince users into believing that they are handing over this information to Google itself, the fake page displays users' Gmail email ID configured on their infected Android device, as shown in the screenshots.
+"After the user enters their name and date of birth, the browser is redirected to a blank page at http://127.0.0.1:${random_port}/submit," researchers said. "Just like the distribution page, the malware supports four locales: Korean, Traditional Chinese, Japanese and English."
+Since Roaming Mantis malware app has already gained permission to read and write SMS on the device, it allows attackers to steal the secret verification code for the two-factor authentication for victims' accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While analysing the malware code, Researchers found reference to popular South Korean mobile banking and gaming applications, as well as a function that tries to detect if the infected device is rooted.
+"For attackers, this may indicate that a device is owned by an advanced Android user (a signal to stop messing with the device) or, alternatively, a chance to leverage root access to gain access to the whole system," the researchers said.
+What's interesting about this malware is that it uses one of the leading Chinese social media websites (my.tv.sohu.com) as its command-and-control server and sends commands to infected devices just via updating the attacker-controlled user profiles.
+According to Kaspersky's Telemetry data, the Roaming Mantis malware was detected more than 6,000 times, though the reports came from just 150 unique users.
+You are advised to ensure your router is running the latest version of the firmware and protected with a strong password.
+You should also disable router's remote administration feature and hardcode a trusted DNS server into the operating system network settings.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

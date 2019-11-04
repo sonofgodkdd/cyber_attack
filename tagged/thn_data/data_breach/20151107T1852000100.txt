@@ -1,0 +1,20 @@
+Hackers have Hacked into US Arrest Records Database
+Swati Khandelwal
+
+The Group of teenage hackers, which previously hacked into the personal email of the CIA director John Brennan and published a large trove of sensitive data, has now had its hands on even more important and presumably secure target.
+Hackers Accessed Law Enforcement Private Portal
+The hacking group, Crackas With Attitude (CWA), claims it has gained access to a Law Enforcement Portal through which one can access:
+Arrest records
+Tools for sharing information about terrorist events and active shooters
+The system in question is reportedly known as the Joint Automated Booking System (JABS), which is only available to the Federal Bureau of Investigation (FBI) and law enforcement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers Gained Access to FBI's Real-Time Chat System
+Moreover, the hacking group also says it has gained access to another tool that is something like a real-time chat system for the FBI to communicate with other law enforcement agents around the US.
+Two days ago, CWA published a portion of the data it collected to Pastebin and Cryptobin, apparently releasing names, email addresses, and phone numbers of around 3,500 law enforcement and military personnel.
+JABS System Hacked!
+However, the group has been able to have its hands on many law enforcement tools that contain more sensitive information, and Wired verified that a screenshot of JABS shared by CWA was legitimate.
+The CWA hackers told Wired they found a vulnerability that allowed them to gain access to the law enforcement private portal, giving the group access to dozen law enforcement tools, but the hackers didn't reveal anything about the vulnerability.
+This system is noteworthy as it may allow anyone with access to view arrest records – whether the arrests are sealed or aren't available to the public.
+It means, among other things, this system can expose secret informants and others who have been detained but are now working with the law enforcement agencies.
+Although none of the information from these law enforcement tools has been shared publicly, the hacking group could bother government officials by releasing the sensitive information anytime soon.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

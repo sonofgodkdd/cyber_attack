@@ -1,0 +1,20 @@
+Facebook Fined £500,000 for Cambridge Analytica Data Scandal
+Swati Khandelwal
+
+Facebook has finally been slapped with its first fine of £500,000 for allowing political consultancy firm Cambridge Analytica to improperly gather and misuse data of 87 million users.
+The fine has been imposed by the UK's Information Commissioner's Office (ICO) and was calculated using the UK's old Data Protection Act 1998 which can levy a maximum penalty of £500,000 — ironically that’s equals to the amount Facebook earns every 18 minutes.
+The news does not come as a surprise as the U.K.'s data privacy watchdog already notified the social network giant in July this year that the commission was intended to issue the maximum fine.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For those unaware, Facebook has been under scrutiny since earlier this year when it was revealed that the personal data of 87 million users was improperly gathered and misused by political consultancy firm Cambridge Analytica, who reportedly helped Donald Trump win the US presidency in 2016.
+The ICO, who launched an investigation the Cambridge Analytica scandal in March, said that the data from at least 1 million British citizens was "unfairly processed," and that Facebook "failed to take appropriate technical and organisational measures" to prevent the data from falling into the wrong hands.
+"The ICO's investigation found that between 2007 and 2014, Facebook processed the personal information of users unfairly by allowing application developers access to their information without sufficiently clear and informed consent, and allowing access even if users had not downloaded the app, but were simply 'friends' with people who had," the ICO said confirming the fine.
+Besides this, the ICO also stressed that the social network also "failed to make suitable checks on apps and developers using its platform," which eventually expose the personal data of up to 87 million people worldwide, without their knowledge.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the ICO announcement, Facebook noted that the company is reviewing the ICO decision, highlighting its previous admission that Facebook "should have done more" to investigate claims about Cambridge Analytica in 2015.
+"We are grateful that the ICO has acknowledged our full co-operation throughout their investigation and have also confirmed they have found no evidence to suggest UK Facebook users' data was in fact shared with Cambridge Analytica," says a Facebook spokesperson in a statement.
+"Now that their investigation is complete, we are hopeful that the ICO will now let us have access to CA servers so that we are able to audit the data they received."
+However, the £500,000 fine is just a drop in the ocean for a company like Facebook that brought in £31.5 billion in global revenue last year.
+The penalty could have been much larger had it fallen under EU's General Data Protection Regulation (GDPR), wherein a company could face a maximum fine of 20 million euros or 4% of its annual global revenue, whichever is higher, for such a privacy breach.
+Facebook's annual revenue was nearly £31.5 billion in 2017, which could have resulted in a possible fine of £1.26 billion under the GDPR rules. But luckily for Facebook that GDPR came into force in May 2018 after the timing of the Cambridge Analytica scandal.
+Last month, the UK's data protection watchdog also issued the maximum allowed fine of £500,000 on credit reporting agency Equifax for its last year's massive data breach that exposed personal and financial data of hundreds of millions of its customers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

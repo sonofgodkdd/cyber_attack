@@ -1,0 +1,25 @@
+Data Breach Day — Patreon (2.3M), T-Mobile (15M) and Scottrade (4.6M) — HACKED!
+Wang Wei
+
+This week, three high-profile data breaches took place, compromising personal and sensitive details of millions of people.
+Telecommunication giant T-Mobile
+Crowdfunding website Patreon
+US brokerage firm Scottrade
+In T-Mobile's case, its credit application processor Experian was hacked, potentially exposing highly sensitive details of 15 Million people who applied for its service in the past two years.
+The stolen data includes home addresses, birth dates, driver's license number, passport number, military I.D. numbers and – most unfortunately – the Social Security numbers, among other information.
+Patreon Hack Hits 2.3 Million Users
+In Patreon's case, hackers managed to steal almost 15 gigabytes' worth of data including names, shipping addresses and email addresses of 2.3 Million users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a post published late Wednesday, Patreon CEO Jack Conte confirmed that the crowdfunding firm had been hacked and that the personal data of its users had been accessed. 
+According to the company, no credit card or debit card numbers were stolen in the data breach, and also the already accessed, "all passwords, social security numbers, and tax form information" were properly encrypted. 
+However, the company still suggests all its customers to change their passwords as a precaution. 
+The data hacked in the breach has since been circulating in various online locations for anyone to download, though it isn't immediately possible to confirm the authenticity of the dumped data.
+Scottrade Hack Hits 4.6 Million Users
+The last but not the least is the Online discount brokerage Scottrade that had suffered a data breach affecting 4.6 Million of its customers. 
+The company announced on its website that hackers managed to access one of its servers in late 2013 and early 2014, stealing names and street addresses for 4.6 million of their clients.
+Other sensitive information, including email addresses and Social Security numbers, were also stored in the compromised system, but the company believes that this information has not been compromised.
+"We have no reason to believe that Scottrade's trading platforms or any client funds were compromised," the company's statement reads. "Client passwords remained fully encrypted at all times, and we have not seen any indication of fraudulent activity as a result of this incident."
+Scottrade is also offering a year of free identity theft protection services as a precaution to its 4.3 Million affected customers. 
+The news comes just a day after the theft of 15 million T-Mobile customers' data after a massive data breach of its credit reporting vendor Experian.
+Meanwhile, you can do can one thing to prevent further damages from these data breaches: Freeze your credit report. Here's how you can Freeze your Credit Report.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Border Patrol Agents Apprehend Fugitive Wanted in Mexico
+(Friday, April 11, 2008)
+El Paso, Texas -  U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico.
+Mexican authorities contacted the Border Patrol's International Liaison Unit in El Paso to ask for assistance in locating a wanted fugitive from Chihuahua, Mexico. Mexican authorities informed the Border Patrol that a 30-year-old subject was wanted by the Attorney General of Mexico in connection with a homicide. Information that the subject might be hiding in Albuquerque was also provided. Border Patrol agents, with support from the New Mexico State Police, were able to locate and arrest the individual without incident. The Border Patrol was able to determine that subject was in the United States illegally and did, in fact, match the description of the wanted fugitive. The subject was taken into custody and Mexican authorities were contacted. The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico. Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject.
+This latest event exemplifies the efforts of the Border Patrol to continue to develop a strong working relationship with the Mexican government by sharing information and having a level of cooperation that is mutually beneficial to our border communities.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="21" text="Border Patrol Agents" TYPE="BAR" />
+<person id="p1" start="32" end="57" text="Fugitive Wanted in Mexico" TYPE="BAR" />
+<person id="p2" start="101" end="150" text="U.S. Border Patrol agents from the El Paso sector" TYPE="BAR" />
+<person id="p3" start="160" end="178" text="a Mexican National" TYPE="NOM" />
+<person id="p4" start="225" end="244" text="Mexican authorities" TYPE="BAR" />
+<person id="p5" start="269" end="297" text="a fugitive wanted for murder" TYPE="NOM" />
+<person id="p6" start="332" end="351" text="Mexican authorities" TYPE="BAR" />
+<person id="p7" start="454" end="494" text="a wanted fugitive from Chihuahua, Mexico" TYPE="NOM" />
+<person id="p8" start="496" end="515" text="Mexican authorities" TYPE="BAR" />
+<person id="p9" start="548" end="569" text="a 30-year-old subject" TYPE="NOM" />
+<person id="p10" start="663" end="674" text="the subject" TYPE="NOM" />
+<person id="p11" start="725" end="745" text="Border Patrol agents" TYPE="BAR" />
+<person id="p12" start="825" end="839" text="the individual" TYPE="NOM" />
+<person id="p13" start="903" end="910" text="subject" TYPE="BAR" />
+<person id="p14" start="989" end="1008" text="the wanted fugitive" TYPE="NOM" />
+<person id="p15" start="1010" end="1021" text="The subject" TYPE="NOM" />
+<person id="p16" start="1049" end="1068" text="Mexican authorities" TYPE="BAR" />
+<person id="p17" start="1085" end="1096" text="The subject" TYPE="NOM" />
+<person id="p18" start="1206" end="1226" text="Border Patrol agents" TYPE="BAR" />
+<person id="p19" start="1236" end="1247" text="the subject" TYPE="NOM" />
+<person id="p20" start="1307" end="1355" text="authorities from Mexican Immigration and the PGR" TYPE="BAR" />
+<person id="p21" start="1388" end="1399" text="the subject" TYPE="USP" />
+<organization id="o0" start="1" end="14" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="101" end="119" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="132" end="150" text="the El Paso sector" TYPE="NOM" />
+<organization id="o3" start="362" end="419" text="the Border Patrol's International Liaison Unit in El Paso" TYPE="NAM" />
+<organization id="o4" start="366" end="379" text="Border Patrol" TYPE="NAM" />
+<organization id="o5" start="525" end="542" text="the Border Patrol" TYPE="NAM" />
+<organization id="o6" start="584" end="614" text="the Attorney General of Mexico" TYPE="NAM" />
+<organization id="o7" start="765" end="792" text="the New Mexico State Police" TYPE="NOM" />
+<organization id="o8" start="725" end="738" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o9" start="858" end="875" text="The Border Patrol" TYPE="NAM" />
+<organization id="o10" start="1120" end="1133" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o11" start="1206" end="1219" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o12" start="1324" end="1343" text="Mexican Immigration" TYPE="NAM" />
+<organization id="o13" start="1348" end="1355" text="the PGR" TYPE="NAM" />
+<organization id="o14" start="1446" end="1463" text="the Border Patrol" TYPE="NAM" />
+<organization id="o15" start="1522" end="1544" text="the Mexican government" TYPE="NOM" />
+<geographical-political id="g0" start="51" end="57" text="Mexico" TYPE="NAM" />
+<geographical-political id="g1" start="83" end="97" text="El Paso, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="92" end="97" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="162" end="169" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g4" start="182" end="193" text="Albuquerque" TYPE="NAM" />
+<geographical-political id="g5" start="225" end="232" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g6" start="320" end="330" text="New Mexico" TYPE="NAM" />
+<geographical-political id="g7" start="332" end="339" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g8" start="412" end="419" text="El Paso" TYPE="NAM" />
+<geographical-political id="g9" start="477" end="494" text="Chihuahua, Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="488" end="494" text="Mexico" TYPE="NAM" />
+<geographical-political id="g11" start="496" end="503" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g12" start="694" end="705" text="Albuquerque" TYPE="NAM" />
+<geographical-political id="g13" start="769" end="785" text="New Mexico State" TYPE="NAMPRE" />
+<geographical-political id="g14" start="918" end="935" text="the United States" TYPE="NAM" />
+<geographical-political id="g15" start="1049" end="1056" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g16" start="1155" end="1162" text="El Paso" TYPE="NAM" />
+<geographical-political id="g17" start="1198" end="1204" text="Mexico" TYPE="NAM" />
+<geographical-political id="g18" start="1526" end="1533" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g19" start="1633" end="1636" text="our" TYPE="PRO" />
+<location id="l0" start="1251" end="1277" text="the international boundary" TYPE="NOM" />
+<location id="l1" start="1637" end="1643" text="border" TYPE="BAR" />
+<falicity id="f0" start="1116" end="1162" text="the Border Patrol processing center in El Paso" TYPE="NOM" />
+<falicity id="f3" start="1282" end="1399" text="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="NAM" />
+<falicity id="f4" start="1301" end="1306" text="where" TYPE="WHQ" />
+<head id="h0" start="15" end="21" text="Agents" />
+<head id="h1" start="1" end="14" text="Border Patrol" />
+<head id="h2" start="32" end="40" text="Fugitive" />
+<head id="h3" start="51" end="57" text="Mexico" />
+<head id="h4" start="83" end="90" text="El Paso" />
+<head id="h5" start="92" end="97" text="Texas" />
+<head id="h6" start="120" end="126" text="agents" />
+<head id="h7" start="101" end="119" text="U.S. Border Patrol" />
+<head id="h8" start="136" end="150" text="El Paso sector" />
+<head id="h9" start="170" end="178" text="National" />
+<head id="h10" start="162" end="169" text="Mexican" />
+<head id="h11" start="182" end="193" text="Albuquerque" />
+<head id="h12" start="233" end="244" text="authorities" />
+<head id="h13" start="225" end="232" text="Mexican" />
+<head id="h14" start="271" end="279" text="fugitive" />
+<head id="h15" start="320" end="330" text="New Mexico" />
+<head id="h16" start="340" end="351" text="authorities" />
+<head id="h17" start="332" end="339" text="Mexican" />
+<head id="h18" start="382" end="408" text="International Liaison Unit" />
+<head id="h19" start="412" end="419" text="El Paso" />
+<head id="h20" start="366" end="379" text="Border Patrol" />
+<head id="h21" start="463" end="471" text="fugitive" />
+<head id="h22" start="477" end="486" text="Chihuahua" />
+<head id="h23" start="488" end="494" text="Mexico" />
+<head id="h24" start="504" end="515" text="authorities" />
+<head id="h25" start="496" end="503" text="Mexican" />
+<head id="h26" start="529" end="542" text="Border Patrol" />
+<head id="h27" start="562" end="569" text="subject" />
+<head id="h28" start="588" end="614" text="Attorney General of Mexico" />
+<head id="h29" start="667" end="674" text="subject" />
+<head id="h30" start="694" end="705" text="Albuquerque" />
+<head id="h31" start="739" end="745" text="agents" />
+<head id="h32" start="786" end="792" text="Police" />
+<head id="h33" start="769" end="785" text="New Mexico State" />
+<head id="h34" start="725" end="738" text="Border Patrol" />
+<head id="h35" start="829" end="839" text="individual" />
+<head id="h36" start="862" end="875" text="Border Patrol" />
+<head id="h37" start="903" end="910" text="subject" />
+<head id="h38" start="922" end="935" text="United States" />
+<head id="h39" start="1000" end="1008" text="fugitive" />
+<head id="h40" start="1014" end="1021" text="subject" />
+<head id="h41" start="1057" end="1068" text="authorities" />
+<head id="h42" start="1049" end="1056" text="Mexican" />
+<head id="h43" start="1089" end="1096" text="subject" />
+<head id="h44" start="1145" end="1151" text="center" />
+<head id="h45" start="1120" end="1133" text="Border Patrol" />
+<head id="h46" start="1155" end="1162" text="El Paso" />
+<head id="h47" start="1198" end="1204" text="Mexico" />
+<head id="h48" start="1220" end="1226" text="agents" />
+<head id="h49" start="1206" end="1219" text="Border Patrol" />
+<head id="h50" start="1240" end="1247" text="subject" />
+<head id="h51" start="1269" end="1277" text="boundary" />
+<head id="h52" start="1286" end="1300" text="Stanton Bridge" />
+<head id="h53" start="1307" end="1318" text="authorities" />
+<head id="h54" start="1301" end="1306" text="where" />
+<head id="h55" start="1324" end="1343" text="Mexican Immigration" />
+<head id="h56" start="1352" end="1355" text="PGR" />
+<head id="h57" start="1392" end="1399" text="subject" />
+<head id="h58" start="1450" end="1463" text="Border Patrol" />
+<head id="h59" start="1534" end="1544" text="government" />
+<head id="h60" start="1526" end="1533" text="Mexican" />
+<head id="h61" start="1637" end="1643" text="border" />
+<head id="h62" start="1633" end="1636" text="our" />
+<name id="n0" start="1" end="14" text="Border Patrol" />
+<name id="n1" start="51" end="57" text="Mexico" />
+<name id="n2" start="83" end="90" text="El Paso" />
+<name id="n3" start="92" end="97" text="Texas" />
+<name id="n4" start="101" end="119" text="U.S. Border Patrol" />
+<name id="n5" start="136" end="150" text="El Paso sector" />
+<name id="n6" start="162" end="169" text="Mexican" />
+<name id="n7" start="182" end="193" text="Albuquerque" />
+<name id="n8" start="225" end="232" text="Mexican" />
+<name id="n9" start="320" end="330" text="New Mexico" />
+<name id="n10" start="332" end="339" text="Mexican" />
+<name id="n11" start="382" end="408" text="International Liaison Unit" />
+<name id="n12" start="412" end="419" text="El Paso" />
+<name id="n13" start="366" end="379" text="Border Patrol" />
+<name id="n14" start="477" end="486" text="Chihuahua" />
+<name id="n15" start="488" end="494" text="Mexico" />
+<name id="n16" start="496" end="503" text="Mexican" />
+<name id="n17" start="529" end="542" text="Border Patrol" />
+<name id="n18" start="588" end="614" text="Attorney General of Mexico" />
+<name id="n19" start="694" end="705" text="Albuquerque" />
+<name id="n20" start="769" end="785" text="New Mexico State" />
+<name id="n21" start="725" end="738" text="Border Patrol" />
+<name id="n22" start="862" end="875" text="Border Patrol" />
+<name id="n23" start="922" end="935" text="United States" />
+<name id="n24" start="1049" end="1056" text="Mexican" />
+<name id="n25" start="1120" end="1133" text="Border Patrol" />
+<name id="n26" start="1155" end="1162" text="El Paso" />
+<name id="n27" start="1198" end="1204" text="Mexico" />
+<name id="n28" start="1206" end="1219" text="Border Patrol" />
+<name id="n29" start="1286" end="1300" text="Stanton Bridge" />
+<name id="n30" start="1324" end="1343" text="Mexican Immigration" />
+<name id="n31" start="1352" end="1355" text="PGR" />
+<name id="n32" start="1450" end="1463" text="Border Patrol" />
+<name id="n33" start="1526" end="1533" text="Mexican" />
+<located-mention id="lo0" start="101" end="330" text="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" TYPE="Other" />
+<located-mention id="lo1" start="101" end="330" text="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" TYPE="Other" />
+<located-mention id="lo2" start="101" end="330" text="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" TYPE="Verbal" />
+<located-mention id="lo3" start="646" end="723" text="Information that the subject might be hiding in Albuquerque was also provided" TYPE="Verbal" />
+<located-mention id="lo4" start="858" end="1008" text="The Border Patrol was able to determine that subject was in the United States illegally and did, in fact, match the description of the wanted fugitive" TYPE="Verbal" />
+<located-mention id="lo5" start="1085" end="1204" text="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" TYPE="Verbal" />
+<located-mention id="lo6" start="1085" end="1204" text="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" TYPE="Other" />
+<located-mention id="lo7" start="1206" end="1399" text="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="Other" />
+<located-mention id="lo8" start="1206" end="1399" text="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="Other" />
+<located-mention id="lo9" start="1206" end="1399" text="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="Other" />
+<located-mention id="lo10" start="1206" end="1399" text="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="Other" />
+<located-mention id="lo11" start="1206" end="1399" text="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" TYPE="Other" />
+<employment-mention id="e0" start="1" end="21" text="Border Patrol Agents" TYPE="PreMod" />
+<employment-mention id="e1" start="101" end="150" text="U.S. Border Patrol agents from the El Paso sector" TYPE="PreMod" />
+<employment-mention id="e2" start="101" end="150" text="U.S. Border Patrol agents from the El Paso sector" TYPE="Preposition" />
+<employment-mention id="e3" start="225" end="244" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e4" start="332" end="351" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e5" start="496" end="515" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e6" start="725" end="745" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e7" start="1049" end="1068" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e8" start="1206" end="1226" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e9" start="1307" end="1355" text="authorities from Mexican Immigration and the PGR" TYPE="Preposition" />
+<employment-mention id="e10" start="1307" end="1355" text="authorities from Mexican Immigration and the PGR" TYPE="Preposition" />
+<CRRE id="C0" start="160" end="178" text="a Mexican National" TYPE="PreMod" />
+<CRRE id="C1" start="454" end="494" text="a wanted fugitive from Chihuahua, Mexico" TYPE="Preposition" />
+<entity_link id="en0" fromID="p2" fromText="U.S. Border Patrol agents from the El Paso sector" toID="p0" toText="Border Patrol Agents" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Border Patrol" toID="o0" toText="Border Patrol" />
+<entity_link id="en2" fromID="p3" fromText="a Mexican National" toID="p1" toText="Fugitive Wanted in Mexico" />
+<entity_link id="en3" fromID="g3" fromText="Mexican" toID="g0" toText="Mexico" />
+<entity_link id="en4" fromID="g5" fromText="Mexican" toID="g3" toText="Mexican" />
+<entity_link id="en5" fromID="p5" fromText="a fugitive wanted for murder" toID="p3" toText="a Mexican National" />
+<entity_link id="en6" fromID="p6" fromText="Mexican authorities" toID="p4" toText="Mexican authorities" />
+<entity_link id="en7" fromID="g7" fromText="Mexican" toID="g5" toText="Mexican" />
+<entity_link id="en8" fromID="g8" fromText="El Paso" toID="g1" toText="El Paso, Texas" />
+<entity_link id="en9" fromID="o4" fromText="Border Patrol" toID="o1" toText="U.S. Border Patrol" />
+<entity_link id="en10" fromID="p7" fromText="a wanted fugitive from Chihuahua, Mexico" toID="p3" toText="a Mexican National" />
+<entity_link id="en11" fromID="g10" fromText="Mexico" toID="g7" toText="Mexican" />
+<entity_link id="en12" fromID="p8" fromText="Mexican authorities" toID="p6" toText="Mexican authorities" />
+<entity_link id="en13" fromID="g11" fromText="Mexican" toID="g10" toText="Mexico" />
+<entity_link id="en14" fromID="o5" fromText="the Border Patrol" toID="o4" toText="Border Patrol" />
+<entity_link id="en15" fromID="p9" fromText="a 30-year-old subject" toID="p7" toText="a wanted fugitive from Chihuahua, Mexico" />
+<entity_link id="en16" fromID="p10" fromText="the subject" toID="p9" toText="a 30-year-old subject" />
+<entity_link id="en17" fromID="g12" fromText="Albuquerque" toID="g4" toText="Albuquerque" />
+<entity_link id="en18" fromID="p11" fromText="Border Patrol agents" toID="p2" toText="U.S. Border Patrol agents from the El Paso sector" />
+<entity_link id="en19" fromID="g13" fromText="New Mexico State" toID="g6" toText="New Mexico" />
+<entity_link id="en20" fromID="o8" fromText="Border Patrol" toID="o5" toText="the Border Patrol" />
+<entity_link id="en21" fromID="p12" fromText="the individual" toID="p10" toText="the subject" />
+<entity_link id="en22" fromID="o9" fromText="The Border Patrol" toID="o8" toText="Border Patrol" />
+<entity_link id="en23" fromID="p13" fromText="subject" toID="p12" toText="the individual" />
+<entity_link id="en24" fromID="p14" fromText="the wanted fugitive" toID="p13" toText="subject" />
+<entity_link id="en25" fromID="p15" fromText="The subject" toID="p13" toText="subject" />
+<entity_link id="en26" fromID="p16" fromText="Mexican authorities" toID="p8" toText="Mexican authorities" />
+<entity_link id="en27" fromID="g15" fromText="Mexican" toID="g11" toText="Mexican" />
+<entity_link id="en28" fromID="p17" fromText="The subject" toID="p15" toText="The subject" />
+<entity_link id="en29" fromID="o10" fromText="Border Patrol" toID="o9" toText="The Border Patrol" />
+<entity_link id="en30" fromID="g16" fromText="El Paso" toID="g8" toText="El Paso" />
+<entity_link id="en31" fromID="g17" fromText="Mexico" toID="g15" toText="Mexican" />
+<entity_link id="en32" fromID="p18" fromText="Border Patrol agents" toID="p11" toText="Border Patrol agents" />
+<entity_link id="en33" fromID="o11" fromText="Border Patrol" toID="o10" toText="Border Patrol" />
+<entity_link id="en34" fromID="p19" fromText="the subject" toID="p17" toText="The subject" />
+<entity_link id="en35" fromID="f4" fromText="where" toID="f3" toText="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" />
+<entity_link id="en36" fromID="o13" fromText="the PGR" toID="o6" toText="the Attorney General of Mexico" />
+<entity_link id="en37" fromID="p21" fromText="the subject" toID="p19" toText="the subject" />
+<entity_link id="en38" fromID="o14" fromText="the Border Patrol" toID="o11" toText="Border Patrol" />
+<entity_link id="en39" fromID="g18" fromText="Mexican" toID="g17" toText="Mexico" />
+<head_link id="he0" fromID="p0" fromText="Border Patrol Agents" toID="h0" toText="Agents" />
+<head_link id="he1" fromID="o0" fromText="Border Patrol" toID="h1" toText="Border Patrol" />
+<head_link id="he2" fromID="p1" fromText="Fugitive Wanted in Mexico" toID="h2" toText="Fugitive" />
+<head_link id="he3" fromID="g0" fromText="Mexico" toID="h3" toText="Mexico" />
+<head_link id="he4" fromID="g1" fromText="El Paso, Texas" toID="h4" toText="El Paso" />
+<head_link id="he5" fromID="g2" fromText="Texas" toID="h5" toText="Texas" />
+<head_link id="he6" fromID="p2" fromText="U.S. Border Patrol agents from the El Paso sector" toID="h6" toText="agents" />
+<head_link id="he7" fromID="o1" fromText="U.S. Border Patrol" toID="h7" toText="U.S. Border Patrol" />
+<head_link id="he8" fromID="o2" fromText="the El Paso sector" toID="h8" toText="El Paso sector" />
+<head_link id="he9" fromID="p3" fromText="a Mexican National" toID="h9" toText="National" />
+<head_link id="he10" fromID="g3" fromText="Mexican" toID="h10" toText="Mexican" />
+<head_link id="he11" fromID="g4" fromText="Albuquerque" toID="h11" toText="Albuquerque" />
+<head_link id="he12" fromID="p4" fromText="Mexican authorities" toID="h12" toText="authorities" />
+<head_link id="he13" fromID="g5" fromText="Mexican" toID="h13" toText="Mexican" />
+<head_link id="he14" fromID="p5" fromText="a fugitive wanted for murder" toID="h14" toText="fugitive" />
+<head_link id="he15" fromID="g6" fromText="New Mexico" toID="h15" toText="New Mexico" />
+<head_link id="he16" fromID="p6" fromText="Mexican authorities" toID="h16" toText="authorities" />
+<head_link id="he17" fromID="g7" fromText="Mexican" toID="h17" toText="Mexican" />
+<head_link id="he18" fromID="o3" fromText="the Border Patrol's International Liaison Unit in El Paso" toID="h18" toText="International Liaison Unit" />
+<head_link id="he19" fromID="g8" fromText="El Paso" toID="h19" toText="El Paso" />
+<head_link id="he20" fromID="o4" fromText="Border Patrol" toID="h20" toText="Border Patrol" />
+<head_link id="he21" fromID="p7" fromText="a wanted fugitive from Chihuahua, Mexico" toID="h21" toText="fugitive" />
+<head_link id="he22" fromID="g9" fromText="Chihuahua, Mexico" toID="h22" toText="Chihuahua" />
+<head_link id="he23" fromID="g10" fromText="Mexico" toID="h23" toText="Mexico" />
+<head_link id="he24" fromID="p8" fromText="Mexican authorities" toID="h24" toText="authorities" />
+<head_link id="he25" fromID="g11" fromText="Mexican" toID="h25" toText="Mexican" />
+<head_link id="he26" fromID="o5" fromText="the Border Patrol" toID="h26" toText="Border Patrol" />
+<head_link id="he27" fromID="p9" fromText="a 30-year-old subject" toID="h27" toText="subject" />
+<head_link id="he28" fromID="o6" fromText="the Attorney General of Mexico" toID="h28" toText="Attorney General of Mexico" />
+<head_link id="he29" fromID="p10" fromText="the subject" toID="h29" toText="subject" />
+<head_link id="he30" fromID="g12" fromText="Albuquerque" toID="h30" toText="Albuquerque" />
+<head_link id="he31" fromID="p11" fromText="Border Patrol agents" toID="h31" toText="agents" />
+<head_link id="he32" fromID="o7" fromText="the New Mexico State Police" toID="h32" toText="Police" />
+<head_link id="he33" fromID="g13" fromText="New Mexico State" toID="h33" toText="New Mexico State" />
+<head_link id="he34" fromID="o8" fromText="Border Patrol" toID="h34" toText="Border Patrol" />
+<head_link id="he35" fromID="p12" fromText="the individual" toID="h35" toText="individual" />
+<head_link id="he36" fromID="o9" fromText="The Border Patrol" toID="h36" toText="Border Patrol" />
+<head_link id="he37" fromID="p13" fromText="subject" toID="h37" toText="subject" />
+<head_link id="he38" fromID="g14" fromText="the United States" toID="h38" toText="United States" />
+<head_link id="he39" fromID="p14" fromText="the wanted fugitive" toID="h39" toText="fugitive" />
+<head_link id="he40" fromID="p15" fromText="The subject" toID="h40" toText="subject" />
+<head_link id="he41" fromID="p16" fromText="Mexican authorities" toID="h41" toText="authorities" />
+<head_link id="he42" fromID="g15" fromText="Mexican" toID="h42" toText="Mexican" />
+<head_link id="he43" fromID="p17" fromText="The subject" toID="h43" toText="subject" />
+<head_link id="he44" fromID="f0" fromText="the Border Patrol processing center in El Paso" toID="h44" toText="center" />
+<head_link id="he45" fromID="o10" fromText="Border Patrol" toID="h45" toText="Border Patrol" />
+<head_link id="he46" fromID="g16" fromText="El Paso" toID="h46" toText="El Paso" />
+<head_link id="he47" fromID="g17" fromText="Mexico" toID="h47" toText="Mexico" />
+<head_link id="he48" fromID="p18" fromText="Border Patrol agents" toID="h48" toText="agents" />
+<head_link id="he49" fromID="o11" fromText="Border Patrol" toID="h49" toText="Border Patrol" />
+<head_link id="he50" fromID="p19" fromText="the subject" toID="h50" toText="subject" />
+<head_link id="he51" fromID="l0" fromText="the international boundary" toID="h51" toText="boundary" />
+<head_link id="he53" fromID="p20" fromText="authorities from Mexican Immigration and the PGR" toID="h53" toText="authorities" />
+<head_link id="he54" fromID="f3" fromText="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="h52" toText="Stanton Bridge" />
+<head_link id="he55" fromID="f4" fromText="where" toID="h54" toText="where" />
+<head_link id="he56" fromID="o12" fromText="Mexican Immigration" toID="h55" toText="Mexican Immigration" />
+<head_link id="he57" fromID="o13" fromText="the PGR" toID="h56" toText="PGR" />
+<head_link id="he58" fromID="p21" fromText="the subject" toID="h57" toText="subject" />
+<head_link id="he59" fromID="o14" fromText="the Border Patrol" toID="h58" toText="Border Patrol" />
+<head_link id="he60" fromID="o15" fromText="the Mexican government" toID="h59" toText="government" />
+<head_link id="he61" fromID="g18" fromText="Mexican" toID="h60" toText="Mexican" />
+<head_link id="he62" fromID="l1" fromText="border" toID="h61" toText="border" />
+<head_link id="he63" fromID="g19" fromText="our" toID="h62" toText="our" />
+<name_link id="na0" fromID="o0" fromText="Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="Mexico" toID="n1" toText="Mexico" />
+<name_link id="na2" fromID="g1" fromText="El Paso, Texas" toID="n2" toText="El Paso" />
+<name_link id="na3" fromID="g2" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na4" fromID="o1" fromText="U.S. Border Patrol" toID="n4" toText="U.S. Border Patrol" />
+<name_link id="na5" fromID="o2" fromText="the El Paso sector" toID="n5" toText="El Paso sector" />
+<name_link id="na6" fromID="g3" fromText="Mexican" toID="n6" toText="Mexican" />
+<name_link id="na7" fromID="g4" fromText="Albuquerque" toID="n7" toText="Albuquerque" />
+<name_link id="na8" fromID="g5" fromText="Mexican" toID="n8" toText="Mexican" />
+<name_link id="na9" fromID="g6" fromText="New Mexico" toID="n9" toText="New Mexico" />
+<name_link id="na10" fromID="g7" fromText="Mexican" toID="n10" toText="Mexican" />
+<name_link id="na11" fromID="o3" fromText="the Border Patrol's International Liaison Unit in El Paso" toID="n11" toText="International Liaison Unit" />
+<name_link id="na12" fromID="g8" fromText="El Paso" toID="n12" toText="El Paso" />
+<name_link id="na13" fromID="o4" fromText="Border Patrol" toID="n13" toText="Border Patrol" />
+<name_link id="na14" fromID="g9" fromText="Chihuahua, Mexico" toID="n14" toText="Chihuahua" />
+<name_link id="na15" fromID="g10" fromText="Mexico" toID="n15" toText="Mexico" />
+<name_link id="na16" fromID="g11" fromText="Mexican" toID="n16" toText="Mexican" />
+<name_link id="na17" fromID="o5" fromText="the Border Patrol" toID="n17" toText="Border Patrol" />
+<name_link id="na18" fromID="o6" fromText="the Attorney General of Mexico" toID="n18" toText="Attorney General of Mexico" />
+<name_link id="na19" fromID="g12" fromText="Albuquerque" toID="n19" toText="Albuquerque" />
+<name_link id="na20" fromID="g13" fromText="New Mexico State" toID="n20" toText="New Mexico State" />
+<name_link id="na21" fromID="o8" fromText="Border Patrol" toID="n21" toText="Border Patrol" />
+<name_link id="na22" fromID="o9" fromText="The Border Patrol" toID="n22" toText="Border Patrol" />
+<name_link id="na23" fromID="g14" fromText="the United States" toID="n23" toText="United States" />
+<name_link id="na24" fromID="g15" fromText="Mexican" toID="n24" toText="Mexican" />
+<name_link id="na25" fromID="o10" fromText="Border Patrol" toID="n25" toText="Border Patrol" />
+<name_link id="na26" fromID="g16" fromText="El Paso" toID="n26" toText="El Paso" />
+<name_link id="na27" fromID="g17" fromText="Mexico" toID="n27" toText="Mexico" />
+<name_link id="na28" fromID="o11" fromText="Border Patrol" toID="n28" toText="Border Patrol" />
+<name_link id="na30" fromID="f3" fromText="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="n29" toText="Stanton Bridge" />
+<name_link id="na31" fromID="o12" fromText="Mexican Immigration" toID="n30" toText="Mexican Immigration" />
+<name_link id="na32" fromID="o13" fromText="the PGR" toID="n31" toText="PGR" />
+<name_link id="na33" fromID="o14" fromText="the Border Patrol" toID="n32" toText="Border Patrol" />
+<name_link id="na34" fromID="g18" fromText="Mexican" toID="n33" toText="Mexican" />
+<relation_link1 id="r0" fromID="e0" fromText="Border Patrol Agents" toID="p0" toText="Border Patrol Agents" />
+<relation_link1 id="r1" fromID="e1" fromText="U.S. Border Patrol agents from the El Paso sector" toID="p2" toText="U.S. Border Patrol agents from the El Paso sector" />
+<relation_link1 id="r2" fromID="e2" fromText="U.S. Border Patrol agents from the El Paso sector" toID="p2" toText="U.S. Border Patrol agents from the El Paso sector" />
+<relation_link1 id="r3" fromID="lo0" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="p2" toText="U.S. Border Patrol agents from the El Paso sector" />
+<relation_link1 id="r4" fromID="lo1" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="p3" toText="a Mexican National" />
+<relation_link1 id="r5" fromID="e3" fromText="Mexican authorities" toID="p4" toText="Mexican authorities" />
+<relation_link1 id="r6" fromID="e4" fromText="Mexican authorities" toID="p6" toText="Mexican authorities" />
+<relation_link1 id="r7" fromID="e5" fromText="Mexican authorities" toID="p8" toText="Mexican authorities" />
+<relation_link1 id="r8" fromID="lo2" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="p5" toText="a fugitive wanted for murder" />
+<relation_link1 id="r9" fromID="lo3" fromText="Information that the subject might be hiding in Albuquerque was also provided" toID="p10" toText="the subject" />
+<relation_link1 id="r10" fromID="e6" fromText="Border Patrol agents" toID="p11" toText="Border Patrol agents" />
+<relation_link1 id="r11" fromID="lo4" fromText="The Border Patrol was able to determine that subject was in the United States illegally and did, in fact, match the description of the wanted fugitive" toID="p13" toText="subject" />
+<relation_link1 id="r12" fromID="e7" fromText="Mexican authorities" toID="p16" toText="Mexican authorities" />
+<relation_link1 id="r13" fromID="lo5" fromText="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" toID="p17" toText="The subject" />
+<relation_link1 id="r14" fromID="lo6" fromText="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" toID="p17" toText="The subject" />
+<relation_link1 id="r15" fromID="e8" fromText="Border Patrol agents" toID="p18" toText="Border Patrol agents" />
+<relation_link1 id="r16" fromID="lo7" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="p18" toText="Border Patrol agents" />
+<relation_link1 id="r17" fromID="lo8" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="p19" toText="the subject" />
+<relation_link1 id="r18" fromID="lo9" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="p18" toText="Border Patrol agents" />
+<relation_link1 id="r19" fromID="lo10" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="p19" toText="the subject" />
+<relation_link1 id="r20" fromID="lo11" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="p20" toText="authorities from Mexican Immigration and the PGR" />
+<relation_link1 id="r21" fromID="e9" fromText="authorities from Mexican Immigration and the PGR" toID="p20" toText="authorities from Mexican Immigration and the PGR" />
+<relation_link1 id="r22" fromID="e10" fromText="authorities from Mexican Immigration and the PGR" toID="p20" toText="authorities from Mexican Immigration and the PGR" />
+<relation_link1 id="r23" fromID="C0" fromText="a Mexican National" toID="p3" toText="a Mexican National" />
+<relation_link1 id="r24" fromID="C1" fromText="a wanted fugitive from Chihuahua, Mexico" toID="p7" toText="a wanted fugitive from Chihuahua, Mexico" />
+<relation_link2 id="re0" fromID="e0" fromText="Border Patrol Agents" toID="o0" toText="Border Patrol" />
+<relation_link2 id="re1" fromID="e1" fromText="U.S. Border Patrol agents from the El Paso sector" toID="o1" toText="U.S. Border Patrol" />
+<relation_link2 id="re2" fromID="e2" fromText="U.S. Border Patrol agents from the El Paso sector" toID="o2" toText="the El Paso sector" />
+<relation_link2 id="re3" fromID="lo0" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="g4" toText="Albuquerque" />
+<relation_link2 id="re4" fromID="lo1" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="g4" toText="Albuquerque" />
+<relation_link2 id="re5" fromID="e3" fromText="Mexican authorities" toID="g5" toText="Mexican" />
+<relation_link2 id="re6" fromID="e4" fromText="Mexican authorities" toID="g7" toText="Mexican" />
+<relation_link2 id="re7" fromID="e5" fromText="Mexican authorities" toID="g11" toText="Mexican" />
+<relation_link2 id="re8" fromID="lo2" fromText="U.S. Border Patrol agents from the El Paso sector arrested a Mexican National in Albuquerque after getting information from Mexican authorities of the possibility that a fugitive wanted for murder may have absconded to New Mexico" toID="g6" toText="New Mexico" />
+<relation_link2 id="re9" fromID="lo3" fromText="Information that the subject might be hiding in Albuquerque was also provided" toID="g12" toText="Albuquerque" />
+<relation_link2 id="re10" fromID="e6" fromText="Border Patrol agents" toID="o8" toText="Border Patrol" />
+<relation_link2 id="re11" fromID="lo4" fromText="The Border Patrol was able to determine that subject was in the United States illegally and did, in fact, match the description of the wanted fugitive" toID="g14" toText="the United States" />
+<relation_link2 id="re12" fromID="e7" fromText="Mexican authorities" toID="g15" toText="Mexican" />
+<relation_link2 id="re13" fromID="lo5" fromText="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" toID="f0" toText="the Border Patrol processing center in El Paso" />
+<relation_link2 id="re14" fromID="lo6" fromText="The subject was transported to the Border Patrol processing center in El Paso and processed to be repatriated to Mexico" toID="g17" toText="Mexico" />
+<relation_link2 id="re15" fromID="e8" fromText="Border Patrol agents" toID="o11" toText="Border Patrol" />
+<relation_link2 id="re16" fromID="lo7" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="l0" toText="the international boundary" />
+<relation_link2 id="re17" fromID="lo8" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="l0" toText="the international boundary" />
+<relation_link2 id="re18" fromID="lo9" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="f3" toText="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" />
+<relation_link2 id="re19" fromID="lo10" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="f3" toText="the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" />
+<relation_link2 id="re21" fromID="lo11" fromText="Border Patrol agents escorted the subject to the international boundary via the Stanton Bridge where authorities from Mexican Immigration and the PGR were waiting to take custody of the subject" toID="f4" toText="where" />
+<relation_link2 id="re20" fromID="e9" fromText="authorities from Mexican Immigration and the PGR" toID="o12" toText="Mexican Immigration" />
+<relation_link2 id="re22" fromID="e10" fromText="authorities from Mexican Immigration and the PGR" toID="o13" toText="the PGR" />
+<relation_link2 id="re23" fromID="C0" fromText="a Mexican National" toID="g3" toText="Mexican" />
+<relation_link2 id="re24" fromID="C1" fromText="a wanted fugitive from Chihuahua, Mexico" toID="g9" toText="Chihuahua, Mexico" />
+</TAGS>
+</KddTask>

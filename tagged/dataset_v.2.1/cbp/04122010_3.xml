@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+U.S. Customs and Border Protection Officers Seize Nearly $935,000 in Cocaine and Marijuana Arrest.
+Three at Brownsville Port of Entry
+(Monday, April 12, 2010)
+Brownsville, Texas  - U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge this past weekend seized cocaine and marijuana valued at approximately $934,700.
+On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas. The driver was accompanied by a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico. The primary CBP officer referred the vehicle and its passengers to secondary for further inspection. At secondary, CBP officers' examination of the Oldsmobile resulted in the discovery of packages concealed within the Alero. CBP officers removed 10 packages from the vehicle with a combined weight of 11.5 kilograms (25.4 pounds) of cocaine.click for hi-res
+bricks of cocaine found in an Oldsmobile Alero
+In the second case this weekend, CBP officers came in contact with a green 1997 Dodge 1500 pickup driven by a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico. A CBP officer's primary inspection resulted in the Dodge and its driver being referred to secondary for further examination. At secondary, CBP officers discovered 19 packages hidden within the walls of the pickup. CBP officers' inspection of the packages determined 18 packages to contain marijuana with a total weight of 19 kilograms (41.9 pounds) and one of the packages encapsulated 1.15 kilograms (2.5 pounds) of cocaine
+The cocaine and marijuana from these seizures has an estimated street value of approximately $934,700. CBP officers turned the narcotics, the drivers, the passenger and the vehicles over to U.S. Immigration and Customs Enforcement (ICE) special agents for further investigation.
+"This was a busy weekend for CBP officers working the Brownsville port of entry. Our officers continue to stop dangerous narcotics from being brought into the country. I applaud our officers for an outstanding job in stemming the introduction of drugs into our cities," said Michael Freeman, CBP port director, Brownsville port of entry.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="44" text="U.S. Customs and Border Protection Officers" TYPE="BAR" />
+<person id="p1" start="100" end="105" text="Three" TYPE="HLS" />
+<person id="p2" start="182" end="279" text="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" TYPE="BAR" />
+<person id="p3" start="428" end="440" text="CBP officers" TYPE="BAR" />
+<person id="p6" start="487" end="553" text="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" TYPE="NOM" />
+<person id="p8" start="555" end="565" text="The driver" TYPE="NOM" />
+<person id="p9" start="585" end="661" text="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" TYPE="NOM" />
+<person id="p11" start="663" end="686" text="The primary CBP officer" TYPE="NOM" />
+<person id="p12" start="712" end="726" text="its passengers" TYPE="NOM" />
+<person id="p13" start="778" end="790" text="CBP officers" TYPE="BAR" />
+<person id="p14" start="888" end="900" text="CBP officers" TYPE="BAR" />
+<person id="p15" start="1101" end="1113" text="CBP officers" TYPE="BAR" />
+<person id="p16" start="1176" end="1255" text="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" TYPE="NOM" />
+<person id="p17" start="1211" end="1214" text="who" TYPE="WHQ" />
+<person id="p18" start="1257" end="1270" text="A CBP officer" TYPE="NOM" />
+<person id="p19" start="1318" end="1328" text="its driver" TYPE="NOM" />
+<person id="p20" start="1396" end="1408" text="CBP officers" TYPE="BAR" />
+<person id="p21" start="1471" end="1483" text="CBP officers" TYPE="BAR" />
+<person id="p22" start="1785" end="1797" text="CBP officers" TYPE="BAR" />
+<person id="p23" start="1872" end="1933" text="U.S. Immigration and Customs Enforcement (ICE) special agents" TYPE="BAR" />
+<person id="p24" start="1820" end="1831" text="the drivers" TYPE="NOM" />
+<person id="p25" start="1833" end="1846" text="the passenger" TYPE="NOM" />
+<person id="p26" start="1990" end="2040" text="CBP officers working the Brownsville port of entry" TYPE="BAR" />
+<person id="p27" start="2042" end="2054" text="Our officers" TYPE="NOM" />
+<person id="p28" start="2129" end="2130" text="I" TYPE="PRO" />
+<person id="p29" start="2139" end="2151" text="our officers" TYPE="NOM" />
+<person id="p30" start="2236" end="2297" text="Michael Freeman, CBP port director, Brownsville port of entry" TYPE="APP" />
+<person id="p31" start="2236" end="2251" text="Michael Freeman" TYPE="NAM" />
+<person id="p32" start="2253" end="2297" text="CBP port director, Brownsville port of entry" TYPE="BAR" />
+<organization id="o1" start="1" end="35" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="182" end="216" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o3" start="428" end="431" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="778" end="781" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="888" end="891" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1101" end="1104" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="1259" end="1262" text="CBP" TYPE="NAMPRE" />
+<organization id="o8" start="1396" end="1399" text="CBP" TYPE="NAMPRE" />
+<organization id="o9" start="1471" end="1474" text="CBP" TYPE="NAMPRE" />
+<organization id="o10" start="1785" end="1788" text="CBP" TYPE="NAMPRE" />
+<organization id="o11" start="1872" end="1917" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAMPRE" />
+<organization id="o12" start="1914" end="1917" text="ICE" TYPE="NAM" />
+<organization id="o13" start="1990" end="1993" text="CBP" TYPE="NAMPRE" />
+<organization id="o14" start="2042" end="2045" text="Our" TYPE="PRO" />
+<organization id="o15" start="2139" end="2142" text="our" TYPE="PRO" />
+<organization id="o16" start="2253" end="2256" text="CBP" TYPE="NAMPRE" />
+<geographical-political id="g0" start="160" end="178" text="Brownsville, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="173" end="178" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="507" end="514" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g3" start="535" end="553" text="Brownsville, Texas" TYPE="NAM" />
+<geographical-political id="g4" start="548" end="553" text="Texas" TYPE="NAM" />
+<geographical-political id="g5" start="604" end="611" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g6" start="632" end="661" text="Matamoros, Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g7" start="643" end="661" text="Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="655" end="661" text="Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="1195" end="1202" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1226" end="1255" text="Matamoros, Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g12" start="1237" end="1255" text="Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g13" start="1249" end="1255" text="Mexico" TYPE="NAM" />
+<geographical-political id="g15" start="2116" end="2127" text="the country" TYPE="NOM" />
+<geographical-political id="g16" start="2218" end="2228" text="our cities" TYPE="BAR" />
+<geographical-political id="g17" start="2218" end="2221" text="our" TYPE="PRO" />
+<geographical-political id="g9" start="507" end="522" text="Mexican citizen" TYPE="BAR" />
+<geographical-political id="g14" start="604" end="619" text="Mexican citizen" TYPE="BAR" />
+<falicity id="f0" start="109" end="134" text="Brownsville Port of Entry" TYPE="NAM" />
+<falicity id="f1" start="229" end="279" text="the Brownsville and Matamoros International Bridge" TYPE="NAM" />
+<falicity id="f2" start="376" end="426" text="the Brownsville and Matamoros International Bridge" TYPE="NAM" />
+<falicity id="f3" start="2011" end="2040" text="the Brownsville port of entry" TYPE="NAM" />
+<falicity id="f4" start="2257" end="2261" text="port" TYPE="NOMPRE" />
+<falicity id="f5" start="2272" end="2297" text="Brownsville port of entry" TYPE="NAM" />
+<head id="h0" start="36" end="44" text="Officers" />
+<head id="h2" start="1" end="35" text="U.S. Customs and Border Protection" />
+<head id="h3" start="100" end="105" text="Three" />
+<head id="h4" start="109" end="134" text="Brownsville Port of Entry" />
+<head id="h5" start="160" end="171" text="Brownsville" />
+<head id="h6" start="173" end="178" text="Texas" />
+<head id="h7" start="217" end="225" text="officers" />
+<head id="h8" start="182" end="216" text="U.S. Customs and Border Protection" />
+<head id="h9" start="233" end="279" text="Brownsville and Matamoros International Bridge" />
+<head id="h10" start="380" end="426" text="Brownsville and Matamoros International Bridge" />
+<head id="h11" start="432" end="440" text="officers" />
+<head id="h12" start="428" end="431" text="CBP" />
+<head id="h13" start="523" end="531" text="resident" />
+<head id="h14" start="515" end="522" text="citizen" />
+<head id="h15" start="507" end="514" text="Mexican" />
+<head id="h16" start="535" end="546" text="Brownsville" />
+<head id="h17" start="548" end="553" text="Texas" />
+<head id="h18" start="559" end="565" text="driver" />
+<head id="h19" start="620" end="628" text="resident" />
+<head id="h20" start="612" end="619" text="citizen" />
+<head id="h21" start="604" end="611" text="Mexican" />
+<head id="h22" start="632" end="641" text="Matamoros" />
+<head id="h24" start="643" end="653" text="Tamaulipas" />
+<head id="h25" start="655" end="661" text="Mexico" />
+<head id="h26" start="679" end="686" text="officer" />
+<head id="h27" start="716" end="726" text="passengers" />
+<head id="h28" start="782" end="790" text="officers" />
+<head id="h29" start="778" end="781" text="CBP" />
+<head id="h30" start="892" end="900" text="officers" />
+<head id="h31" start="888" end="891" text="CBP" />
+<head id="h32" start="1105" end="1113" text="officers" />
+<head id="h33" start="1101" end="1104" text="CBP" />
+<head id="h34" start="1203" end="1210" text="citizen" />
+<head id="h35" start="1211" end="1214" text="who" />
+<head id="h36" start="1195" end="1202" text="Mexican" />
+<head id="h37" start="1226" end="1235" text="Matamoros" />
+<head id="h38" start="1237" end="1247" text="Tamaulipas" />
+<head id="h39" start="1249" end="1255" text="Mexico" />
+<head id="h40" start="1263" end="1270" text="officer" />
+<head id="h41" start="1259" end="1262" text="CBP" />
+<head id="h42" start="1322" end="1328" text="driver" />
+<head id="h43" start="1400" end="1408" text="officers" />
+<head id="h44" start="1396" end="1399" text="CBP" />
+<head id="h45" start="1475" end="1483" text="officers" />
+<head id="h46" start="1471" end="1474" text="CBP" />
+<head id="h47" start="1789" end="1797" text="officers" />
+<head id="h48" start="1785" end="1788" text="CBP" />
+<head id="h49" start="1927" end="1933" text="agents" />
+<head id="h50" start="1872" end="1912" text="U.S. Immigration and Customs Enforcement" />
+<head id="h51" start="1914" end="1917" text="ICE" />
+<head id="h52" start="1824" end="1831" text="drivers" />
+<head id="h53" start="1837" end="1846" text="passenger" />
+<head id="h54" start="1994" end="2002" text="officers" />
+<head id="h55" start="1990" end="1993" text="CBP" />
+<head id="h56" start="2015" end="2040" text="Brownsville port of entry" />
+<head id="h57" start="2046" end="2054" text="officers" />
+<head id="h58" start="2042" end="2045" text="Our" />
+<head id="h59" start="2120" end="2127" text="country" />
+<head id="h60" start="2129" end="2130" text="I" />
+<head id="h61" start="2143" end="2151" text="officers" />
+<head id="h62" start="2139" end="2142" text="our" />
+<head id="h63" start="2222" end="2228" text="cities" />
+<head id="h64" start="2218" end="2221" text="our" />
+<head id="h65" start="2236" end="2251" text="Michael Freeman" />
+<head id="h66" start="2262" end="2270" text="director" />
+<head id="h67" start="2253" end="2256" text="CBP" />
+<head id="h68" start="2257" end="2261" text="port" />
+<head id="h69" start="2272" end="2297" text="Brownsville port of entry" />
+<name id="n1" start="1" end="35" text="U.S. Customs and Border Protection" />
+<name id="n2" start="109" end="134" text="Brownsville Port of Entry" />
+<name id="n3" start="160" end="171" text="Brownsville" />
+<name id="n4" start="173" end="178" text="Texas" />
+<name id="n5" start="182" end="216" text="U.S. Customs and Border Protection" />
+<name id="n6" start="233" end="279" text="Brownsville and Matamoros International Bridge" />
+<name id="n7" start="380" end="426" text="Brownsville and Matamoros International Bridge" />
+<name id="n8" start="428" end="431" text="CBP" />
+<name id="n9" start="507" end="514" text="Mexican" />
+<name id="n10" start="535" end="546" text="Brownsville" />
+<name id="n11" start="548" end="553" text="Texas" />
+<name id="n12" start="604" end="611" text="Mexican" />
+<name id="n13" start="632" end="641" text="Matamoros" />
+<name id="n14" start="643" end="653" text="Tamaulipas" />
+<name id="n15" start="655" end="661" text="Mexico" />
+<name id="n16" start="778" end="781" text="CBP" />
+<name id="n17" start="888" end="891" text="CBP" />
+<name id="n18" start="1101" end="1104" text="CBP" />
+<name id="n19" start="1195" end="1202" text="Mexican" />
+<name id="n20" start="1226" end="1235" text="Matamoros" />
+<name id="n21" start="1237" end="1247" text="Tamaulipas" />
+<name id="n22" start="1249" end="1255" text="Mexico" />
+<name id="n23" start="1259" end="1262" text="CBP" />
+<name id="n24" start="1396" end="1399" text="CBP" />
+<name id="n25" start="1471" end="1474" text="CBP" />
+<name id="n26" start="1785" end="1788" text="CBP" />
+<name id="n27" start="1872" end="1912" text="U.S. Immigration and Customs Enforcement" />
+<name id="n28" start="1914" end="1917" text="ICE" />
+<name id="n29" start="1990" end="1993" text="CBP" />
+<name id="n30" start="2015" end="2040" text="Brownsville port of entry" />
+<name id="n31" start="2236" end="2251" text="Michael Freeman" />
+<name id="n32" start="2253" end="2256" text="CBP" />
+<name id="n33" start="2272" end="2297" text="Brownsville port of entry" />
+<located-mention id="lo0" start="100" end="134" text="Three at Brownsville Port of Entry" TYPE="Preposition" />
+<located-mention id="lo1" start="182" end="279" text="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" TYPE="Preposition" />
+<located-mention id="lo2" start="361" end="553" text="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" TYPE="Other" />
+<located-mention id="lo3" start="361" end="553" text="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" TYPE="Other" />
+<located-mention id="lo4" start="1990" end="2040" text="CBP officers working the Brownsville port of entry" TYPE="Participial" />
+<located-mention id="lo5" start="2253" end="2297" text="CBP port director, Brownsville port of entry" TYPE="PreMod" />
+<located-mention id="lo6" start="2253" end="2297" text="CBP port director, Brownsville port of entry" TYPE="Formulaic" />
+<CRRE id="C0" start="487" end="553" text="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" TYPE="PreMod" />
+<CRRE id="C1" start="487" end="553" text="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" TYPE="Preposition" />
+<CRRE id="C2" start="585" end="661" text="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" TYPE="PreMod" />
+<CRRE id="C3" start="585" end="661" text="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" TYPE="Preposition" />
+<CRRE id="C4" start="1176" end="1255" text="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" TYPE="PreMod" />
+<CRRE id="C5" start="1211" end="1255" text="who resides in Matamoros, Tamaulipas, Mexico" TYPE="Verbal" />
+<M id="M0" start="1" end="44" text="U.S. Customs and Border Protection Officers" TYPE="PreMod" />
+<M id="M1" start="182" end="279" text="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" TYPE="PreMod" />
+<M id="M2" start="428" end="440" text="CBP officers" TYPE="PreMod" />
+<M id="M3" start="778" end="790" text="CBP officers" TYPE="PreMod" />
+<M id="M4" start="888" end="900" text="CBP officers" TYPE="PreMod" />
+<M id="M5" start="1101" end="1113" text="CBP officers" TYPE="PreMod" />
+<M id="M6" start="1257" end="1270" text="A CBP officer" TYPE="PreMod" />
+<M id="M7" start="1396" end="1408" text="CBP officers" TYPE="PreMod" />
+<M id="M8" start="1471" end="1483" text="CBP officers" TYPE="PreMod" />
+<M id="M9" start="1785" end="1797" text="CBP officers" TYPE="PreMod" />
+<M id="M10" start="1872" end="1933" text="U.S. Immigration and Customs Enforcement (ICE) special agents" TYPE="PreMod" />
+<M id="M11" start="1990" end="2040" text="CBP officers working the Brownsville port of entry" TYPE="PreMod" />
+<M id="M12" start="2042" end="2054" text="Our officers" TYPE="Possessive" />
+<M id="M13" start="2139" end="2151" text="our officers" TYPE="Possessive" />
+<M id="M14" start="2253" end="2297" text="CBP port director, Brownsville port of entry" TYPE="PreMod" />
+<entity_link id="en0" fromID="o2" fromText="U.S. Customs and Border Protection" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en1" fromID="p2" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="p0" toText="U.S. Customs and Border Protection Officers" />
+<entity_link id="en2" fromID="f2" fromText="the Brownsville and Matamoros International Bridge" toID="f1" toText="the Brownsville and Matamoros International Bridge" />
+<entity_link id="en3" fromID="p3" fromText="CBP officers" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" />
+<entity_link id="en4" fromID="o3" fromText="CBP" toID="o2" toText="U.S. Customs and Border Protection" />
+<entity_link id="en6" fromID="g3" fromText="Brownsville, Texas" toID="g0" toText="Brownsville, Texas" />
+<entity_link id="en7" fromID="g4" fromText="Texas" toID="g1" toText="Texas" />
+<entity_link id="en8" fromID="p8" fromText="The driver" toID="p6" toText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" />
+<entity_link id="en10" fromID="g5" fromText="Mexican" toID="g2" toText="Mexican" />
+<entity_link id="en11" fromID="g8" fromText="Mexico" toID="g5" toText="Mexican" />
+<entity_link id="en12" fromID="p13" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<entity_link id="en13" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en14" fromID="p14" fromText="CBP officers" toID="p13" toText="CBP officers" />
+<entity_link id="en15" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en16" fromID="p15" fromText="CBP officers" toID="p14" toText="CBP officers" />
+<entity_link id="en17" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en18" fromID="p17" fromText="who" toID="p16" toText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" />
+<entity_link id="en19" fromID="g10" fromText="Mexican" toID="g8" toText="Mexico" />
+<entity_link id="en20" fromID="g11" fromText="Matamoros, Tamaulipas, Mexico" toID="g6" toText="Matamoros, Tamaulipas, Mexico" />
+<entity_link id="en21" fromID="g12" fromText="Tamaulipas, Mexico" toID="g7" toText="Tamaulipas, Mexico" />
+<entity_link id="en22" fromID="g13" fromText="Mexico" toID="g10" toText="Mexican" />
+<entity_link id="en23" fromID="o7" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en24" fromID="p19" fromText="its driver" toID="p16" toText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" />
+<entity_link id="en25" fromID="p20" fromText="CBP officers" toID="p15" toText="CBP officers" />
+<entity_link id="en27" fromID="o8" fromText="CBP" toID="o7" toText="CBP" />
+<entity_link id="en28" fromID="p21" fromText="CBP officers" toID="p20" toText="CBP officers" />
+<entity_link id="en29" fromID="o9" fromText="CBP" toID="o8" toText="CBP" />
+<entity_link id="en30" fromID="p22" fromText="CBP officers" toID="p21" toText="CBP officers" />
+<entity_link id="en31" fromID="o10" fromText="CBP" toID="o9" toText="CBP" />
+<entity_link id="en32" fromID="o12" fromText="ICE" toID="o11" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en33" fromID="p25" fromText="the passenger" toID="p9" toText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" />
+<entity_link id="en34" fromID="p26" fromText="CBP officers working the Brownsville port of entry" toID="p22" toText="CBP officers" />
+<entity_link id="en35" fromID="o13" fromText="CBP" toID="o10" toText="CBP" />
+<entity_link id="en36" fromID="f3" fromText="the Brownsville port of entry" toID="f0" toText="Brownsville Port of Entry" />
+<entity_link id="en37" fromID="p27" fromText="Our officers" toID="p26" toText="CBP officers working the Brownsville port of entry" />
+<entity_link id="en38" fromID="o14" fromText="Our" toID="o13" toText="CBP" />
+<entity_link id="en39" fromID="p29" fromText="our officers" toID="p27" toText="Our officers" />
+<entity_link id="en40" fromID="o15" fromText="our" toID="o14" toText="Our" />
+<entity_link id="en41" fromID="g17" fromText="our" toID="g15" toText="the country" />
+<entity_link id="en42" fromID="p31" fromText="Michael Freeman" toID="p30" toText="Michael Freeman, CBP port director, Brownsville port of entry" />
+<entity_link id="en43" fromID="p31" fromText="Michael Freeman" toID="p28" toText="I" />
+<entity_link id="en44" fromID="p32" fromText="CBP port director, Brownsville port of entry" toID="p31" toText="Michael Freeman" />
+<entity_link id="en45" fromID="o16" fromText="CBP" toID="o13" toText="CBP" />
+<entity_link id="en46" fromID="f5" fromText="Brownsville port of entry" toID="f3" toText="the Brownsville port of entry" />
+<entity_link id="en26" fromID="g9" fromText="Mexican citizen" toID="g2" toText="Mexican" />
+<entity_link id="en47" fromID="g14" fromText="Mexican citizen" toID="g5" toText="Mexican" />
+<head_link id="he0" fromID="p0" fromText="U.S. Customs and Border Protection Officers" toID="h0" toText="Officers" />
+<head_link id="he2" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h2" toText="U.S. Customs and Border Protection" />
+<head_link id="he3" fromID="p1" fromText="Three" toID="h3" toText="Three" />
+<head_link id="he4" fromID="f0" fromText="Brownsville Port of Entry" toID="h4" toText="Brownsville Port of Entry" />
+<head_link id="he5" fromID="g0" fromText="Brownsville, Texas" toID="h5" toText="Brownsville" />
+<head_link id="he6" fromID="g1" fromText="Texas" toID="h6" toText="Texas" />
+<head_link id="he7" fromID="p2" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="h7" toText="officers" />
+<head_link id="he8" fromID="o2" fromText="U.S. Customs and Border Protection" toID="h8" toText="U.S. Customs and Border Protection" />
+<head_link id="he9" fromID="f1" fromText="the Brownsville and Matamoros International Bridge" toID="h9" toText="Brownsville and Matamoros International Bridge" />
+<head_link id="he10" fromID="f2" fromText="the Brownsville and Matamoros International Bridge" toID="h10" toText="Brownsville and Matamoros International Bridge" />
+<head_link id="he11" fromID="p3" fromText="CBP officers" toID="h11" toText="officers" />
+<head_link id="he12" fromID="o3" fromText="CBP" toID="h12" toText="CBP" />
+<head_link id="he14" fromID="p6" fromText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="h13" toText="resident" />
+<head_link id="he16" fromID="g2" fromText="Mexican" toID="h15" toText="Mexican" />
+<head_link id="he17" fromID="g3" fromText="Brownsville, Texas" toID="h16" toText="Brownsville" />
+<head_link id="he18" fromID="g4" fromText="Texas" toID="h17" toText="Texas" />
+<head_link id="he19" fromID="p8" fromText="The driver" toID="h18" toText="driver" />
+<head_link id="he20" fromID="p9" fromText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" toID="h19" toText="resident" />
+<head_link id="he22" fromID="g5" fromText="Mexican" toID="h21" toText="Mexican" />
+<head_link id="he23" fromID="g6" fromText="Matamoros, Tamaulipas, Mexico" toID="h22" toText="Matamoros" />
+<head_link id="he24" fromID="g7" fromText="Tamaulipas, Mexico" toID="h24" toText="Tamaulipas" />
+<head_link id="he25" fromID="g8" fromText="Mexico" toID="h25" toText="Mexico" />
+<head_link id="he26" fromID="p11" fromText="The primary CBP officer" toID="h26" toText="officer" />
+<head_link id="he27" fromID="p12" fromText="its passengers" toID="h27" toText="passengers" />
+<head_link id="he28" fromID="p13" fromText="CBP officers" toID="h28" toText="officers" />
+<head_link id="he29" fromID="o4" fromText="CBP" toID="h29" toText="CBP" />
+<head_link id="he30" fromID="p14" fromText="CBP officers" toID="h30" toText="officers" />
+<head_link id="he31" fromID="o5" fromText="CBP" toID="h31" toText="CBP" />
+<head_link id="he32" fromID="p15" fromText="CBP officers" toID="h32" toText="officers" />
+<head_link id="he33" fromID="o6" fromText="CBP" toID="h33" toText="CBP" />
+<head_link id="he34" fromID="p16" fromText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" toID="h34" toText="citizen" />
+<head_link id="he35" fromID="p17" fromText="who" toID="h35" toText="who" />
+<head_link id="he36" fromID="g10" fromText="Mexican" toID="h36" toText="Mexican" />
+<head_link id="he37" fromID="g11" fromText="Matamoros, Tamaulipas, Mexico" toID="h37" toText="Matamoros" />
+<head_link id="he38" fromID="g12" fromText="Tamaulipas, Mexico" toID="h38" toText="Tamaulipas" />
+<head_link id="he39" fromID="g13" fromText="Mexico" toID="h39" toText="Mexico" />
+<head_link id="he40" fromID="p18" fromText="A CBP officer" toID="h40" toText="officer" />
+<head_link id="he41" fromID="o7" fromText="CBP" toID="h41" toText="CBP" />
+<head_link id="he42" fromID="p19" fromText="its driver" toID="h42" toText="driver" />
+<head_link id="he43" fromID="p20" fromText="CBP officers" toID="h43" toText="officers" />
+<head_link id="he44" fromID="o8" fromText="CBP" toID="h44" toText="CBP" />
+<head_link id="he45" fromID="p21" fromText="CBP officers" toID="h45" toText="officers" />
+<head_link id="he46" fromID="o9" fromText="CBP" toID="h46" toText="CBP" />
+<head_link id="he47" fromID="p22" fromText="CBP officers" toID="h47" toText="officers" />
+<head_link id="he48" fromID="o10" fromText="CBP" toID="h48" toText="CBP" />
+<head_link id="he49" fromID="p23" fromText="U.S. Immigration and Customs Enforcement (ICE) special agents" toID="h49" toText="agents" />
+<head_link id="he50" fromID="o11" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h50" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he51" fromID="o12" fromText="ICE" toID="h51" toText="ICE" />
+<head_link id="he52" fromID="p24" fromText="the drivers" toID="h52" toText="drivers" />
+<head_link id="he53" fromID="p25" fromText="the passenger" toID="h53" toText="passenger" />
+<head_link id="he54" fromID="p26" fromText="CBP officers working the Brownsville port of entry" toID="h54" toText="officers" />
+<head_link id="he55" fromID="o13" fromText="CBP" toID="h55" toText="CBP" />
+<head_link id="he56" fromID="f3" fromText="the Brownsville port of entry" toID="h56" toText="Brownsville port of entry" />
+<head_link id="he57" fromID="p27" fromText="Our officers" toID="h57" toText="officers" />
+<head_link id="he58" fromID="o14" fromText="Our" toID="h58" toText="Our" />
+<head_link id="he59" fromID="g15" fromText="the country" toID="h59" toText="country" />
+<head_link id="he60" fromID="p28" fromText="I" toID="h60" toText="I" />
+<head_link id="he61" fromID="p29" fromText="our officers" toID="h61" toText="officers" />
+<head_link id="he62" fromID="o15" fromText="our" toID="h62" toText="our" />
+<head_link id="he63" fromID="g16" fromText="our cities" toID="h63" toText="cities" />
+<head_link id="he64" fromID="g17" fromText="our" toID="h64" toText="our" />
+<head_link id="he65" fromID="p31" fromText="Michael Freeman" toID="h65" toText="Michael Freeman" />
+<head_link id="he66" fromID="p32" fromText="CBP port director, Brownsville port of entry" toID="h66" toText="director" />
+<head_link id="he67" fromID="o16" fromText="CBP" toID="h67" toText="CBP" />
+<head_link id="he68" fromID="f4" fromText="port" toID="h68" toText="port" />
+<head_link id="he69" fromID="f5" fromText="Brownsville port of entry" toID="h69" toText="Brownsville port of entry" />
+<head_link id="he1" fromID="g9" fromText="Mexican citizen" toID="h14" toText="citizen" />
+<head_link id="he13" fromID="g14" fromText="Mexican citizen" toID="h20" toText="citizen" />
+<name_link id="na1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n1" toText="U.S. Customs and Border Protection" />
+<name_link id="na2" fromID="f0" fromText="Brownsville Port of Entry" toID="n2" toText="Brownsville Port of Entry" />
+<name_link id="na3" fromID="g0" fromText="Brownsville, Texas" toID="n3" toText="Brownsville" />
+<name_link id="na4" fromID="g1" fromText="Texas" toID="n4" toText="Texas" />
+<name_link id="na5" fromID="o2" fromText="U.S. Customs and Border Protection" toID="n5" toText="U.S. Customs and Border Protection" />
+<name_link id="na6" fromID="f1" fromText="the Brownsville and Matamoros International Bridge" toID="n6" toText="Brownsville and Matamoros International Bridge" />
+<name_link id="na7" fromID="f2" fromText="the Brownsville and Matamoros International Bridge" toID="n7" toText="Brownsville and Matamoros International Bridge" />
+<name_link id="na8" fromID="o3" fromText="CBP" toID="n8" toText="CBP" />
+<name_link id="na9" fromID="g2" fromText="Mexican" toID="n9" toText="Mexican" />
+<name_link id="na10" fromID="g3" fromText="Brownsville, Texas" toID="n10" toText="Brownsville" />
+<name_link id="na11" fromID="g4" fromText="Texas" toID="n11" toText="Texas" />
+<name_link id="na12" fromID="g5" fromText="Mexican" toID="n12" toText="Mexican" />
+<name_link id="na13" fromID="g6" fromText="Matamoros, Tamaulipas, Mexico" toID="n13" toText="Matamoros" />
+<name_link id="na14" fromID="g7" fromText="Tamaulipas, Mexico" toID="n14" toText="Tamaulipas" />
+<name_link id="na15" fromID="g8" fromText="Mexico" toID="n15" toText="Mexico" />
+<name_link id="na16" fromID="o4" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na17" fromID="o5" fromText="CBP" toID="n17" toText="CBP" />
+<name_link id="na18" fromID="o6" fromText="CBP" toID="n18" toText="CBP" />
+<name_link id="na19" fromID="g10" fromText="Mexican" toID="n19" toText="Mexican" />
+<name_link id="na20" fromID="g11" fromText="Matamoros, Tamaulipas, Mexico" toID="n20" toText="Matamoros" />
+<name_link id="na21" fromID="g12" fromText="Tamaulipas, Mexico" toID="n21" toText="Tamaulipas" />
+<name_link id="na22" fromID="g13" fromText="Mexico" toID="n22" toText="Mexico" />
+<name_link id="na23" fromID="o7" fromText="CBP" toID="n23" toText="CBP" />
+<name_link id="na24" fromID="o8" fromText="CBP" toID="n24" toText="CBP" />
+<name_link id="na25" fromID="o9" fromText="CBP" toID="n25" toText="CBP" />
+<name_link id="na26" fromID="o10" fromText="CBP" toID="n26" toText="CBP" />
+<name_link id="na27" fromID="o11" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n27" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na28" fromID="o12" fromText="ICE" toID="n28" toText="ICE" />
+<name_link id="na29" fromID="o13" fromText="CBP" toID="n29" toText="CBP" />
+<name_link id="na30" fromID="f3" fromText="the Brownsville port of entry" toID="n30" toText="Brownsville port of entry" />
+<name_link id="na31" fromID="p31" fromText="Michael Freeman" toID="n31" toText="Michael Freeman" />
+<name_link id="na32" fromID="o16" fromText="CBP" toID="n32" toText="CBP" />
+<name_link id="na33" fromID="f5" fromText="Brownsville port of entry" toID="n33" toText="Brownsville port of entry" />
+<relation_link1 id="r0" fromID="M0" fromText="U.S. Customs and Border Protection Officers" toID="p0" toText="U.S. Customs and Border Protection Officers" />
+<relation_link1 id="r1" fromID="lo0" fromText="Three at Brownsville Port of Entry" toID="p1" toText="Three" />
+<relation_link1 id="r2" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" />
+<relation_link1 id="r3" fromID="M1" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" />
+<relation_link1 id="r4" fromID="M2" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<relation_link1 id="r5" fromID="lo2" fromText="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="p3" toText="CBP officers" />
+<relation_link1 id="r7" fromID="lo3" fromText="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="p6" toText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" />
+<relation_link1 id="r8" fromID="M3" fromText="CBP officers" toID="p13" toText="CBP officers" />
+<relation_link1 id="r9" fromID="M4" fromText="CBP officers" toID="p14" toText="CBP officers" />
+<relation_link1 id="r10" fromID="M5" fromText="CBP officers" toID="p15" toText="CBP officers" />
+<relation_link1 id="r11" fromID="M6" fromText="A CBP officer" toID="p18" toText="A CBP officer" />
+<relation_link1 id="r12" fromID="M7" fromText="CBP officers" toID="p20" toText="CBP officers" />
+<relation_link1 id="r13" fromID="M8" fromText="CBP officers" toID="p21" toText="CBP officers" />
+<relation_link1 id="r14" fromID="M9" fromText="CBP officers" toID="p22" toText="CBP officers" />
+<relation_link1 id="r15" fromID="M10" fromText="U.S. Immigration and Customs Enforcement (ICE) special agents" toID="p23" toText="U.S. Immigration and Customs Enforcement (ICE) special agents" />
+<relation_link1 id="r16" fromID="M11" fromText="CBP officers working the Brownsville port of entry" toID="p26" toText="CBP officers working the Brownsville port of entry" />
+<relation_link1 id="r17" fromID="lo4" fromText="CBP officers working the Brownsville port of entry" toID="p26" toText="CBP officers working the Brownsville port of entry" />
+<relation_link1 id="r18" fromID="M12" fromText="Our officers" toID="p27" toText="Our officers" />
+<relation_link1 id="r19" fromID="M13" fromText="our officers" toID="p29" toText="our officers" />
+<relation_link1 id="r20" fromID="M14" fromText="CBP port director, Brownsville port of entry" toID="p32" toText="CBP port director, Brownsville port of entry" />
+<relation_link1 id="r21" fromID="lo5" fromText="CBP port director, Brownsville port of entry" toID="p32" toText="CBP port director, Brownsville port of entry" />
+<relation_link1 id="r22" fromID="lo6" fromText="CBP port director, Brownsville port of entry" toID="p32" toText="CBP port director, Brownsville port of entry" />
+<relation_link1 id="r6" fromID="C0" fromText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="p6" toText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" />
+<relation_link1 id="r23" fromID="C1" fromText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="p6" toText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" />
+<relation_link1 id="r24" fromID="C2" fromText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" toID="p9" toText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" />
+<relation_link1 id="r25" fromID="C3" fromText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" toID="p9" toText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" />
+<relation_link1 id="r26" fromID="C4" fromText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" toID="p16" toText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" />
+<relation_link1 id="r27" fromID="C5" fromText="who resides in Matamoros, Tamaulipas, Mexico" toID="p17" toText="who" />
+<relation_link2 id="re0" fromID="M0" fromText="U.S. Customs and Border Protection Officers" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re1" fromID="lo0" fromText="Three at Brownsville Port of Entry" toID="f0" toText="Brownsville Port of Entry" />
+<relation_link2 id="re2" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="f1" toText="the Brownsville and Matamoros International Bridge" />
+<relation_link2 id="re3" fromID="M1" fromText="U.S. Customs and Border Protection officers at the Brownsville and Matamoros International Bridge" toID="o2" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re4" fromID="M2" fromText="CBP officers" toID="o3" toText="CBP" />
+<relation_link2 id="re5" fromID="lo2" fromText="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="f2" toText="the Brownsville and Matamoros International Bridge" />
+<relation_link2 id="re6" fromID="lo3" fromText="On Saturday at the Brownsville and Matamoros International Bridge, CBP officers stopped a red 1999 Oldsmobile Alero driven by a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="f2" toText="the Brownsville and Matamoros International Bridge" />
+<relation_link2 id="re7" fromID="M3" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re8" fromID="M4" fromText="CBP officers" toID="o5" toText="CBP" />
+<relation_link2 id="re9" fromID="M5" fromText="CBP officers" toID="o6" toText="CBP" />
+<relation_link2 id="re10" fromID="M6" fromText="A CBP officer" toID="o7" toText="CBP" />
+<relation_link2 id="re11" fromID="M7" fromText="CBP officers" toID="o8" toText="CBP" />
+<relation_link2 id="re12" fromID="M8" fromText="CBP officers" toID="o9" toText="CBP" />
+<relation_link2 id="re13" fromID="M9" fromText="CBP officers" toID="o10" toText="CBP" />
+<relation_link2 id="re14" fromID="M10" fromText="U.S. Immigration and Customs Enforcement (ICE) special agents" toID="o11" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link2 id="re15" fromID="M11" fromText="CBP officers working the Brownsville port of entry" toID="o13" toText="CBP" />
+<relation_link2 id="re16" fromID="lo4" fromText="CBP officers working the Brownsville port of entry" toID="f3" toText="the Brownsville port of entry" />
+<relation_link2 id="re17" fromID="M12" fromText="Our officers" toID="o14" toText="Our" />
+<relation_link2 id="re18" fromID="M13" fromText="our officers" toID="o15" toText="our" />
+<relation_link2 id="re19" fromID="M14" fromText="CBP port director, Brownsville port of entry" toID="o16" toText="CBP" />
+<relation_link2 id="re20" fromID="lo5" fromText="CBP port director, Brownsville port of entry" toID="f4" toText="port" />
+<relation_link2 id="re21" fromID="lo6" fromText="CBP port director, Brownsville port of entry" toID="f5" toText="Brownsville port of entry" />
+<relation_link2 id="re22" fromID="C0" fromText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="g9" toText="Mexican citizen" />
+<relation_link2 id="re23" fromID="C1" fromText="a 34-year-old male, Mexican citizen resident of Brownsville, Texas" toID="g3" toText="Brownsville, Texas" />
+<relation_link2 id="re24" fromID="C2" fromText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" toID="g14" toText="Mexican citizen" />
+<relation_link2 id="re25" fromID="C3" fromText="a 31-year-old male Mexican citizen resident of Matamoros, Tamaulipas, Mexico" toID="g6" toText="Matamoros, Tamaulipas, Mexico" />
+<relation_link2 id="re26" fromID="C4" fromText="a 50-year-old male Mexican citizen who resides in Matamoros, Tamaulipas, Mexico" toID="g10" toText="Mexican" />
+<relation_link2 id="re27" fromID="C5" fromText="who resides in Matamoros, Tamaulipas, Mexico" toID="g11" toText="Matamoros, Tamaulipas, Mexico" />
+</TAGS>
+</KddTask>

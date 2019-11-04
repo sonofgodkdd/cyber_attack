@@ -1,0 +1,20 @@
+How Just Opening A Malicious PowerPoint File Could Compromise Your PC
+Mohit Kumar
+
+A few months back we reported how opening a simple MS Word file could compromise your computer using a critical vulnerability in Microsoft Office.
+The Microsoft Office remote code execution vulnerability (CVE-2017-0199) resided in the Windows Object Linking and Embedding (OLE) interface for which a patch was issued in April this year, but threat actors are still abusing the flaw through the different mediums.
+Security researchers have spotted a new malware campaign that is leveraging the same exploit, but for the first time, hidden behind a specially crafted PowerPoint (PPSX) Presentation file.
+According to the researchers at Trend Micro, who spotted the malware campaign, the targeted attack starts with a convincing spear-phishing email attachment, purportedly from a cable manufacturing provider and mainly targets companies involved in the electronics manufacturing industry.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers believe this attack involves the use of a sender address disguised as a legitimate email sent by a sales and billing department.
+Here's How the Attack Works:
+The complete attack scenario is listed below:
+Step 1: The attack begins with an email that contains a malicious PowerPoint (PPSX) file in the attachment, pretending to be shipping information about an order request.
+Step 2: Once executed, the PPSX file calls an XML file programmed in it to download "logo.doc" file from a remote location and runs it via the PowerPoint Show animations feature.
+Step 3: The malformed Logo.doc file then triggers the CVE-2017-0199 vulnerability, which downloads and executes RATMAN.exe on the targeted system.
+Step 4: RATMAN.exe is a Trojanized version of the Remcos Remote Control tool, which when installed, allows attackers to control infected computers from its command-and-control server remotely.
+Remcos is a legitimate and customizable remote access tool that allows users to control their system from anywhere in the world with some capabilities, like a download and execute the command, a keylogger, a screen logger, and recorders for both webcam and microphone.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since the exploit is used to deliver infected Rich Text File (.RTF) documents, most detection methods for CVE-2017-0199 focuses on the RTF. So, the use of a new PPSX files allows attackers to evade antivirus detection as well.
+The easiest way to prevent yourself completely from this attack is to download and apply patches released by Microsoft in April that will address the CVE-2017-0199 vulnerability.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

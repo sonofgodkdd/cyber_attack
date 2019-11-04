@@ -1,0 +1,46 @@
+These Top 7 Brutal Cyber Attacks Prove 'No One is Immune to Hacking' — Part I
+Khyati Jain
+
+If you believe that your organization is not at real risk of cyber attack, then you are absolutely wrong.
+Incidents of massive data breaches, advanced cyber attacks coming from China, groups like Syrian Electronic Army, Hacking Point of Sale machines at retailers such as Target have splashed across the news in the last one year.
+Whether a Government Agency or Private Company, Small or a Large Tech Company....
+...It’s no secret that No one is Immune to Cyber Attacks.
+This article is the first in a two-part series from The Hacker News, listing first four out of  Top 7 Brutal Cyber Attacks.
+And here we go...
+#1 "Hacking Team" Data Breach
+Hacking Team, the controversial spyware company, recently been hacked by some unidentified hackers that exposed over 400 gigabytes of its internal sensitive data on the Internet.
+Milan (Italy) based IT firm ‘Hacking Team’ sells intrusion and surveillance software solutions to Governments and Law Enforcement agencies worldwide.
+Hacking Team is infamous for its commercial surveillance tool named as Remote Control System (RCS), which is capable of spying activities and remotely accessing target system’s microphone and camera.
+However, sometimes even Hackers get Hacked! So same happened with Hacking Team when hackers not only defaced Hacking Team’s own Twitter account but also leaked:
+Executive Emails
+Source codes for Hacking and Spyware Tools
+Zero-day exploits, including for Flash, Internet Explorer
+Government client list with date of purchase and amount paid
+…Marking the attack as one of the biggest cyber attacks on any Company.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+One of the aspects of the data breach showed the lack of protection implementations within the organization and using weak passwords.
+#2 Ashley Madison Data Breach
+TIP: No website can guarantee privacy of your identity, Credit card details, personal photos or any other information. [Read more]
+Two months ago, Toronto-based Ashley Madison website, popular as an online Married Dating portal for extramarital affairs with the tagline "Life is Short. Have an Affair," was hacked by ‘The Impact Team’.
+Hackers allegedly gained access to millions of its customers information database and posted 10GB of personal data for its tens of Millions of customers, including their names and email addresses.
+Frequently followed by another leak, where hackers released another 20GB of company's internal data, including personal e-mails from the CEO of Ashley Madison parent company Avid Life, Noel Biderman, along with the source code for its website and mobile apps.
+The breach came just two months after an attack on another scandalous site, Adult Friend Finder where again millions of people’s very personal data were left exposed on the Internet.
+The Ashley Madison and Adult Friend Finder hacking cases raise serious questions about what these dating websites are doing to ensure the security of their users' personal information.
+#3 The Sony Pictures Hack
+Remember last year when you were able to download and watch unreleased movies of Sony Pictures Entertainment?
+Annie, Mr. Turner, Still Alice, To Write Love On Her Arms, and Brad Pitt's "Fury”...
+...were leaked online on torrent websites, following a massive cyber attack on Sony Pictures last year by the Guardians of Peace (GOP) hacking group.
+The hack wasn’t limited to unreleased movies — the unknown hackers leaked about 200 gigabytes of confidential data belonging to Sony Pictures from movie scripts to sensitive employees data, celebrity's' phone numbers and their travel aliases, making it the most severe hack in the History.
+The massive cyber attack on the company was in response to the release of "The Interview" — a controversial North Korean-baiting film, where hackers threatened 9/11 Type attack at Theaters showing this movie.
+As a result, Sony had to shut down its services for weeks. However, it struggled to solve the issue by pulling “The Interview” from theaters and eventually putting it up on Netflix.
+But, things have not changed much for Sony. This was the second time Sony was targeted, and the intensity of the attack was such that even after taking the best measures, a subsequent amount of the company’s data was leaked to WikiLeaks.
+#4 'Fappening' and 'Snappening'
+When a surge of Nude Photos of Celebrities were leaked and went viral in August of 2014, the Internet had a meltdown.
+Unknown Hacker was able to break into third-party applications connected to services like Facebook, Twitter, Instagram and Apple’s iCloud that led to a major incident known as “The Fappening”.
+The Fappening mainly attacked female celebrities and leaked very private photographs of them, including Jennifer Lawrence, Kim Kardashian, Kirsten Dunst, Avril Lavigne and many others.
+Within a month of “The Fappening,” another similar incident called “The Snappening” happened that leaked more than 100,000 nude videos and images of the Snapchat users.
+In The Fappening, the Naked Pictures were allegedly retrieved due to a “brute force” security flaw in Apple’s iCloud file storage service. However, Apple denied it.
+In case of The Snappening, Snapchat’s servers were not breached. Instead, the nude pictures of users were compromised due to third-party apps used to send and receive Snaps.
+However, both the incidents marked as the biggest hacks of one of its kind.
+Further Read: Part II — Top 7 Brutal Cyber Attacks Proves that No One is Immune to Hacking.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

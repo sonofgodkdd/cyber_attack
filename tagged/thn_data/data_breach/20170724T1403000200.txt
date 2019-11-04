@@ -1,0 +1,32 @@
+Sweden Accidentally Leaks Personal Details of Nearly All Citizens
+Swati Khandelwal
+
+Another day, Another data breach!
+This time sensitive and personal data of millions of transporters in Sweden, along with the nation's military secrets, have been exposed, putting every individual's as well as national security at risk.
+Who exposed the sensitive data? The Swedish government itself.
+Swedish media is reporting of a massive data breach in the Swedish Transport Agency (Transportstyrelsen) after the agency mishandled an outsourcing deal with IBM, which led to the leak of the private data about every vehicle in the country, including those used by both police and military.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The data breach exposed the names, photos and home addresses of millions of Swedish citizen, including fighter pilots of Swedish air force, members of the military's most secretive units, police suspects, people under the witness relocation programme, the weight capacity of all roads and bridges, and much more.
+The incident is believed to be one of the worst government information security disasters ever.
+Here's what and How it Happened:
+In 2015, the Swedish Transport Agency hand over IBM an IT maintenance contract to manage its databases and networks.
+However, the Swedish Transport Agency uploaded IBM's entire database onto cloud servers, which covered details on every vehicle in the country, including police and military registrations, and individuals on witness protection programs.
+The transport agency then emailed the entire database in messages to marketers that subscribe to it.
+And what’s terrible is that the messages were sent in clear text.
+When the error was discovered, the transport agency merely thought of sending a new list in another email, asking the subscribers to delete the old list themselves.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If you think the scandal ends there, you are wrong. The outsourcing deal gave IBM staff outside Sweden access to the Swedish transport agency's systems without undergoing proper security clearance checks.
+IBM administrators in the Czech Republic were also given full access to all data and logs, according to Swedish newspaper Dagens Nyheter (DN), which analysed the Säpo investigation documents.
+According to Pirate Party founder and now head of privacy at VPN provider Private Internet Access Rick Falkvinge, who brought details of this scandal, the incident "exposed and leaked every conceivable top secret database: fighter pilots, SEAL team operators, police suspects, people under witness relocation."
+Tons of Sensitive Info Exposed about Both Individuals and Nation's Critical Infrastructures
+According to Falkvinge, the leak exposed:
+The weight capacity of all roads as well as bridges (which is crucial for warfare, and gives a lot idea about what roads are intended to be used as wartime airfields).
+Names, photos, and home addresses of fighter pilots in the Air Force.
+Names, photos, and home addresses of everybody in a police register, which are believed to be classified.
+Names, photos, and residential addresses of all operators in the military's most secret units that are equivalent to the SAS or SEAL teams.
+Names, photos, and addresses of everybody in a witness relocation program, who has been given protected identity for some reasons.
+Type, model, weight, and any defects in all government and military vehicles, including their operator, which reveals a much about the structure of military support units.
+Although the data breach happened in 2015, Swedish Secret Service discovered it in 2016 and started investigating the incident, which led to the fire of STA director-general Maria Ågren in January 2017.
+Ågren was also fined half a month's pay (70,000 Swedish krona which equals to $8,500) after finding her guilty of being "careless with secret information," according to the publication.
+What's the worrying part? The leaked database may not be secured until the fall, said the agency's new director-general Jonas Bjelfvenstam. The investigation into the scope of the leak is still ongoing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

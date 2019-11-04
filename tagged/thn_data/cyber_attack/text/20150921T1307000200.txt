@@ -1,0 +1,30 @@
+Warning! Popular Apple Store Apps Infected with Data-Theft Malware
+Swati Khandelwal
+
+Unlike Google Play Store, Apple App Store is well known for not allowing any malformed apps to enter its Apple ecosystem because of its tight security checks.
+But, not anymore. 
+Hundreds of malicious apps managed to get hosted on Apple's official App store and subsequently downloaded by several hundred Million iPad and iPhone owners. Out of them, Palo Alto Networks published a list of 39 malicious yet legitimate apps that made ways to the App Store. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+First Major Malware Attack on Apple's App Store
+Yes, Apple App Store is targeted by a malware attack in which some versions of software used by software developers to build their apps for iOS and OS X were infected with malware, named XcodeGhost.
+XcodeGhost secretly sniffs off data from customer's device and uploads it to the attacker's servers without the user's knowledge, according to security firm Palo Alto Networks. 
+Apps were infected after developers used a malicious version of the Xcode — Apple's developer toolkit used to develop iOS and Mac OS X apps. 
+Xcode is downloaded directly from Apple for free as well as from other sources such as developer forums. Chinese file-sharing service Baidu Yunpan offers some versions of Xcode that contains extra lines of code. 
+These malicious variants of Xcode have been dubbed as XcodeGhost by AliBaba researchers.
+Affected Applications 
+A total of 39 apps, including the popular instant messaging app WeChat, Chinese Uber-like cab service Didi Kuaidi, music streaming service NetEase, photo editor Perfect365 and card scanning tool CamCard, were found to be infected by the malicious Xcode.
+Not just China, Apple users outside China are also affected by the malware. The mainstay WinZip decompression app, Musical.ly, and the Mercury Browser are also among the affected apps.
+The Imapct Of XcodeGhost?
+Once installed, the malicious app contains dangerous XcodeGhost code prompt fake alerts to:
+Phish user credentials
+Hijack URLs
+Read and Write data, such as victims' iCloud passwords
+Infect other apps using iOS
+Researchers believe XcodeGhost is a very harmful and dangerous piece of malware that successfully bypassed Apple's code review as well as made "unprecedented attacks on the iOS ecosystem." 
+The technique used in the malware attack could be exploited by cyber criminals and espionage groups in order to gain access to victims' iOS devices.
+UPDATE
+Apple has removed more than 300 malware-infected apps from its App Store after a counterfeit version of its developer tool kit allowed many Chinese apps to leak users' personal data to hackers.
+"We've removed the apps from the app store that we know have been created with this counterfeit software," Apple spokesperson Christine Monaghan told Guardian. "We are working with the developers to make sure they’re using the proper version of Xcode to rebuild their apps."
+Read More:
+ With Its First Android app, Apple tried to Kill Android Community, But Failed Badly!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

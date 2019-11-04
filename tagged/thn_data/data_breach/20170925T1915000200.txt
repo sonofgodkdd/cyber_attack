@@ -1,0 +1,18 @@
+Deloitte Hacked — Cyber Attack Exposes Clients' Emails
+Unknown
+
+Another day, another data breach. This time one of the world's "big four" accountancy firms has fallen victim to a sophisticated cyber attack.
+Global tax and auditing firm Deloitte has confirmed the company had suffered a cyber attack that resulted in the theft of confidential information, including the private emails and documents of some of its clients.
+Deloitte is one of the largest private accounting firms in the U.S. which offers tax, auditing, operations consulting, cybersecurity advisory, and merger and acquisition assistance services to large banks, government agencies and large Fortune 500 multinationals, among others.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The global accountancy firm said Monday that its system had been accessed via an email platform from October last year through this past March and that "very few" of its clients had been affected, the Guardian reports.
+The firm discovered the cyber attack in March, but it believes the unknown attackers may have had access to its email system since October or November 2016.
+Hackers managed to gain access to the Deloitte's email server through an administrator account that wasn't secured using two-factor authentication (2FA), granting the attacker unrestricted access to Deloitte's Microsoft-hosted email mailboxes.
+Besides emails, hackers also may have had potential access to "usernames, passwords, IP addresses, architectural diagrams for businesses and health information."
+"In response to a cyber incident, Deloitte implemented its comprehensive security protocol and began an intensive and thorough review including mobilising a team of cybersecurity and confidentiality experts inside and outside of Deloitte," a Deloitte spokesperson told the newspaper.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"As part of the review, Deloitte has been in contact with the very few clients impacted and notified governmental authorities and regulators."
+Deloitte's internal investigation into the cyber incident is still ongoing, and the firm has reportedly informed only six of its clients that their information was "impacted" by the breach.
+Deloitte has become the latest of the victim of the high-profile cyber attack. Just last month, Equifax publicly disclosed a breach of its systems that exposed personal data of as many as 143 million US customers.
+Moreover, last week the U.S. Securities and Exchange Commission (SEC) also disclosed that hackers managed to hack its financial document filing system and illegally profited from the stolen information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

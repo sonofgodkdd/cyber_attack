@@ -1,0 +1,31 @@
+Cyber Espionage Group Targets Asian Countries With Bitcoin Mining Malware
+Swati Khandelwal
+
+Security researchers have discovered a custom-built piece of malware that's wreaking havoc in Asia for past several months and is capable of performing nasty tasks, like password stealing, bitcoin mining, and providing hackers complete remote access to compromised systems.
+Dubbed Operation PZChao, the attack campaign discovered by the security researchers at Bitdefender have been targeting organizations in the government, technology, education, and telecommunications sectors in Asia and the United States.
+Researchers believe nature, infrastructure, and payloads, including variants of the Gh0stRAT trojan, used in the PZChao attacks are reminiscent of the notorious Chinese hacker group—Iron Tiger.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, this campaign has evolved its payloads to drop trojan, conduct cyber espionage and mine Bitcoin cryptocurrency.
+The PZChao campaign is attacking targets across Asia and the U.S. by using similar attack tactics as of Iron Tiger, which, according to the researchers, signifies the possible return of the notorious Chinese APT group.
+Since at least July last year, the PZChao campaign has been targeting organizations with a malicious VBS file attachment that delivers via highly-targeted phishing emails.
+If executed, the VBS script downloads additional payloads to an affected Windows machine from a distribution server hosting "down.pzchao.com," which resolved to an IP address (125.7.152.55) in South Korea at the time of the investigation.
+The threat actors behind the attack campaign have control over at least five malicious subdomains of the "pzchao.com" domain, and each one is used to serve specific tasks, like download, upload, RAT related actions, malware DLL delivery.
+The payloads deployed by the threat actors are "diversified and include capabilities to download and execute additional binary files, collect private information and remotely execute commands on the system," researchers noted.
+The first payload dropped on the compromised machines is a Bitcoin miner, disguised as a 'java.exe' file, that mines cryptocurrency every three weeks at 3 AM, when most people are not in front of their systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For password stealing, the malware also deploys one of two versions of the Mimikatz password-scraping utility (depending on the operating architecture of the affected machine) to harvest passwords and upload them to the command and control server.
+PZChao's final payload includes a slightly modified version of Gh0st remote access trojan (RAT) which is designed to act as a backdoor implant and behaves very similar to the versions detected in cyber attacks associated with the Iron Tiger APT group.
+The Gh0st RAT is equipped with massive cyber-espionage capabilities, including:
+Real-time and offline remote keystroke logging
+Listing of all active processes and opened windows
+Listening in on conversations via microphone
+Eavesdropping on webcams' live video feed
+Allowing for remote shutdown and reboot of the system
+Downloading binaries from the Internet to remote host
+Modifying and stealing files and more.
+All of the above capabilities allows a remote attacker to take full control of the compromised system, spy on the victims and exfiltrate confidential data easily.
+While the tools used in the PZChao campaign are a few years old, "they are battle-tested and more than suitable for future attacks," researchers say.
+Active since 2010, Iron Tiger, also known as "Emissary Panda" or "Threat Group-3390," is a Chinese advanced persistent threat (APT) group that was behind previous campaigns resulting in the theft of massive amounts of data from the directors and managers of US-based defense contractors.
+Similar to the PZChao campaign, the group also carried out attacks against entities in China, the Philippines, and Tibet, besides attacking targets in the U.S.
+For further insights, you can read the detailed technical paper [PDF] published by Bitdefender.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

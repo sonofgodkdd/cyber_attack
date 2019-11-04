@@ -1,0 +1,21 @@
+New MacOS Malware linked to Russian Hackers Can Steal Passwords & iPhone Backups
+Mohit Kumar
+
+Security researchers have discovered a new Mac malware allegedly developed by APT28 Russian cyber espionage group who is believed to be responsible for 2016 presidential election hacking scandal.
+A new variant of the X-Agent spyware is now targeting Apple macOS system that has previously been used in cyber attacks against Windows, iOS, Android, and Linux devices.
+The malware is designed to steal web browser passwords, take screenshots of the display, detect system configurations, execute files and exfiltrate iPhone backups stored on the computer.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The X-Agent malware is tied to Russian hacking group known as APT28 — also known as Fancy Bear, Sofacy, Sednit, and Pawn Storm — that has been operating since at least 2007 and is allegedly linked to the Russian government.
+"Our past analysis of samples known to be linked to APT28 group shows a number of similarities between the Sofacy/APT28/Sednit Xagent component for Windows/Linux and the Mac OS binary that currently forms the object of our investigation," Bitdefender reported in a blog post published Tuesday. 
+"For once, there is the presence of similar modules, such as FileSystem, KeyLogger, and RemoteShell, as well as a similar network module called HttpChanel."
+Like variants for other platforms, the Mac version of X-Agent spyware is also act as a backdoor with advanced cyber-espionage capabilities that can be customized depending on the objectives of an attack.
+Moreover, X-Agent is being planted by exploiting a vulnerability in the MacKeeper software installed on the targeted computers and known malware dropper Komplex — a first-stage trojan that APT28 uses to infect machines.
+Abovementioned evidence indicates that the newly discovered Mac version of X-Agent is also created by the same Russian hacking group.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once successfully installed, the backdoor checks for the presence of a debugger and if it finds one, it terminates itself to prevent execution. But if not, the backdoor waits for an Internet connection to communicate with the command-and-control servers.
+"After the communication has been established, the payload starts the modules. Our preliminary analysis shows most of the C&C URLs impersonate Apple domains," Bitdefender researchers said. 
+"Once connected to the C&C, the payload sends a HelloMessage, then spawns two communication threads running in infinite loops. The former uses POST requests to send information to the C&C, while the latter monitors GET requests for commands."
+The Research is still ongoing and Bitdefender security researchers right now only have the Mac malware sample and not a full picture of how an attack works.
+APT28 is one of the two Russian-linked cyber-espionage groups that have been accused of hacking into the U.S. Democratic National Committee's email server last year and interfering with the 2016 presidential election.
+You can read BitDefender's previous analysis on the APT28 hacking group here [PDF].
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

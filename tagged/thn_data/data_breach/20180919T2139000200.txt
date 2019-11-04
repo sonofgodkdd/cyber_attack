@@ -1,0 +1,22 @@
+Hackers Steal Customers' Credit Cards From Newegg Electronics Retailer
+Mohit Kumar
+
+The notorious hacking group behind the Ticketmaster and British Airways data breaches has now victimized popular computer hardware and consumer electronics retailer Newegg.
+Magecart hacking group managed to infiltrate the Newegg website and steal the credit card details of all customers who entered their payment card information between August 14 and September 18, 2018, according to a joint analysis from Volexity and RiskIQ.
+Magecart hackers used what researchers called a digital credit card skimmer wherein they inserted a few lines of malicious Javascript code into the checkout page of Newegg website that captured payment information of customers making purchasing on the site and then send it to a remote server.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Active since at least 2015, the Magecart hacking group registered a domain called neweggstats(dot)com on August 13, similar to Newegg's legitimate domain newegg.com, and acquired an SSL certificate issued for the domain by Comodo for their website.
+A day later, the group inserted the skimmer code into the Newegg website at the payment processing page, so that it would not come into play until or unless the payment page was hit.
+So, when customers add a product in their shopping cart, enter their delivery information during the first step of the check-out, and validate their address, the website takes them to the payment processing page to enter their credit card information.
+As soon as the customer hit submit button after entering their credit card information, the skimmer code immediately sends a copy that data to the attacker's domain, i.e., neweggstats(dot)com without interrupting the checkout process.
+Newegg Hack May Affect Millions of Customers
+The attack affected both desktop and mobile customers, though it is still unclear how many customers were actually hit by this credit card breach.
+However, considering that more than 50 million shoppers visit Newegg every month and that the malicious code was there for over one month, it could be assumed that this Magecart newest card skimming campaign has possibly stolen the payment information on millions of Newegg customers, even if only a fraction of those visitors make purchases.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Earlier this month, the Magecart hacking group breached the British Airways website and its mobile application and managed to walk away with a bounty of sensitive payment card data from 380,000 victims.
+"The skimmer code [used in the Newegg breach] is recognizable from the British Airways incident, with the same basecode," RiskIQ researchers said.
+"All the attackers changed is the name of the form it needs to serialize to obtain payment information and the server to send it to, this time themed with Newegg instead of British Airways."
+In the Newegg case, the hackers used smaller skimmer code of "a tidy 15 lines of script," since it only had to serialize one form.
+If you are one of those Newegg customers who entered their credit card details on the website during the attack period, you should immediately contact your bank, block your payment card, and request for a replacement.
+However, the way Magecart is scooping up payment card data from popular services with relatively little efforts suggests that Newegg probably will not be its last target.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

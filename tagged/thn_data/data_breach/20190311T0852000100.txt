@@ -1,0 +1,19 @@
+Citrix Data Breach – Iranian Hackers Stole 6TB of Sensitive Data
+Swati Khandelwal
+
+Popular enterprise software company Citrix that provides services to the U.S. military, the FBI, many U.S. corporations, and various U.S. government agencies disclosed last weekend a massive data breach of its internal network by "international cyber criminals."
+Citrix said it was warned by the FBI on Wednesday of foreign hackers compromising its IT systems and stealing "business documents," adding that the company does not know precisely which documents the hackers obtained nor how they got in.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the FBI believes that the miscreants likely used a "password spraying" attack where the attackers guessed weak passwords to gain an early foothold in the company's network in order to launch more extensive attacks.
+"While not confirmed, the FBI has advised that the hackers likely used a tactic known as password spraying, a technique that exploits weak passwords. Once they gained a foothold with limited access, they worked to circumvent additional layers of security," Citrix said in a blog post.
+Although Citrix did not disclose many details about the breach, researchers at infosec firm Resecurity shed more light on the incident, claiming it had earlier alerted the Feds and Citrix about the "targeted attack and data breach."
+Resecurity said the Iranian-backed IRIDIUM hacker group hit Citrix in December last year and again on Monday (March 4th) and stole at least 6 terabytes of sensitive internal files, including emails, blueprints, and other documents.
+IRIDIUM is an Iranian-linked hacking group that was also behind recent cyber attacks against more than 200 government agencies worldwide, oil and gas companies, technology companies and other targets.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+IRIDIUM proprietary techniques include bypassing multi-factor authentications for critical applications and services for further unauthorized access to VPN channels and SSO (Single Sign-On).
+The massive data breach at Citrix has been identified as a part of "a sophisticated cyber espionage campaign supported by nation-state due to strong targeting on government, military-industrial complex, energy companies, financial institutions and large enterprises involved in critical areas of the economy," Resecurity said in a blog post.
+"Based our recent analysis, the threat actors leveraged a combination of tools, techniques and procedures (TTPs) allowing them to conduct targeted network intrusion to access at least 6 terabytes of sensitive data stored in the Citrix enterprise network, including e-mail correspondence, files in network shares and other services used for project management and procurement."
+Resecurity President Charles Yoo told NBC news that IRIDIUM broke its way into Citrix's internal network about 10 years ago, and has been lurking inside the company's system ever since.
+The Florida-based company stressed that there was no sign that the hackers compromised any Citrix product or service, and that it launched a "forensic investigation," hired a top cybersecurity company, and took "actions" to secure its internal network.
+Like the OPM breach, the consequences of the Citrix security incident could affect a broader range of targets, as the company holds sensitive data on other companies, including critical infrastructure, government and Enterprises.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

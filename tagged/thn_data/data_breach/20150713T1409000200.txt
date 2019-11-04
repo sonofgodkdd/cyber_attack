@@ -1,0 +1,14 @@
+Bitcoin Cloud Mining Service Hacked; Database On Sale for Just 1 Bitcoin
+Swati Khandelwal
+
+Bitcoin Cloud Mining service Cloudminr.io has been hacked and its whole users database is on sale for 1 Bitcoin.
+The unknown hackers have successfully taken full control of the website's server and defaced the homepage of the website.
+Users visiting the website are greeted with a defaced homepage showing the partial database of around 1000 clients including their usernames and unencrypted passwords in completely plain text format.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This clearly indicates that the company is not following the best security practices to secure their users private data as the passwords were not even hashed before storing into the database.
+Hackers offering around 80,000 users database for 1BTC
+The database of 1000 users shown on the website homepage is just a sample given by the hackers while they have compromised around 80,000 users database in total from the cloud mining service.
+The hackers are offering the entire database of thousands of users for the just 1BTC, which could be a goldmine for cyber-criminals and spammers.
+So far, there is not any details on whether Bitcoin wallets or simply parts of the website server were compromised.
+However, users of Cloudminr.io are recommended to change their passwords at any other service that uses the same combination of username and password as their Cloudminr account.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

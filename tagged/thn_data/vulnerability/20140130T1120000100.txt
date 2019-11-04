@@ -1,0 +1,18 @@
+MediaWiki Remote Code Execution vulnerability leaves Wikipedia open for Cyber attacks
+Anonymous
+
+The Encyclopedia giant WIKIPEDIA has been found vulnerable to remote code execution because of a critical flaw in the MediaWiki software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Wikipedia is a name which has become a major source of information for all of us. It has webpages on almost every topic you need to search.
+This giant is powered by an open source wiki software called MediaWiki. MediaWiki not only empowers Wikipedia, but also a number of other wiki websites. This software is a product of the Wikimedia Foundation and is coded in PHP with a database as backend.
+Cyber Point Software Technologies found a remote code execution vulnerability in MediaWiki, "This vulnerability affects all versions of MediaWiki from 1.8 onwards."
+The vulnerability assigned with ID CVE-2014-1610 allows an attacker to execute shell code remotely via an incorrectly sanitized parameter on the MediaWiki application server. 
+“Shell meta characters can be passed in the page parameter to the thumb.php.” Bug 60339.
+MediaWiki announced Security Releases 1.22.2, 1.21.5 and 1.19.11, "Your MediaWiki installation is affected by a remote code execution vulnerability if you have enabled file upload support for DjVu (natively supported by MediaWiki) or PDF files (in combination with the PdfHandler extension). Neither file type is enabled by default in MediaWiki installations. If you are affected, we strongly urge you to update immediately."
+Key Findings: The vulnerability might have caused Wikipedia’s web servers a malicious content distributor, if left uncovered.
+"Check Point promptly alerted the WikiMedia Foundation to the presence of this vulnerability, and after verifying it the Foundation released a software update to correct the issue."
+An update was released from the Wikimedia Foundation after knowing about the vulnerability from Check Point. This is the 3rd 'remote code execution' vulnerability reported in MediaWiki Platform, since 2006.
+“It only takes a single vulnerability on a widely adopted platform for a hacker to infiltrate and wreak widespread damage,” says Dorit Dor, vice president of products, Check Point Software Technologies. Check Point's Vulnerability Research Group assesses common software to ensure the security of Internet users.
+MediaWiki 's latest version 1.22.2 Stable is fully patched to defend against this flaw, and Wikipedia is now also upgraded to it.
+Since almost all cyber security enthusiasts are putting efforts in finding security loopholes in the products available on the Internet, that has put Open source technology to the highest priority in terms of security testing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

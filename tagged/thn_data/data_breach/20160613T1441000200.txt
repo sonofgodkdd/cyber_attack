@@ -1,0 +1,18 @@
+Over 51 Million Accounts Leaked from iMesh File Sharing Service
+Swati Khandelwal
+
+How many more data dumps does this hacker have with him that has yet to be exposed?
+Well, no one knows the answer, but we were recently made aware of another data breach from Peace – the same Russian hacker who was behind the massive breaches in some of the most popular social media sites including LinkedIn, MySpace, Tumblr, and VK.com.
+The hacker under the nickname "Peace" (or Peace_of_mind) is now selling over 51 Million records obtained from iMesh – now defunct peer-to-peer file sharing service.
+The New York-based iMesh was one of the first and most popular file sharing services that allowed users to share multimedia files with their friends via the peer-to-peer (or P2P) protocol. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Launched in the late 90s, iMesh became the third-largest service in the United States in 2009, but the service was unexpectedly closed down last month.
+LeakedSource, a search engine site that indexes leaked login credentials from data breaches, noted in a blog post that the company has obtained the database containing more than 51 Million accounts from iMesh.
+The same database has also been made available for sale on The Real Deal Dark Web marketplace by the same hacker that also put up for sale data from LinkedIn, Tumblr, MySpace and Twitter.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The LeakedSource's analysis shows the database contains user information, including email addresses, usernames, passwords, IP addresses, location information and other information on users.
+Though iMesh stored all passwords in hashed and salted format, the passwords were salted with the MD5 algorithm that is easy to break nowadays.
+Based on the most recent records in the leaked database, the data breach search engine estimates the hacker breached iMesh on September 22, 2013. 
+The database contains 13.7 Million users from the US, around 4 Million from Turkey, over 3.5 Million from the UK, and remaining from other parts of the world. Most iMesh’s users signed up with Hotmail (14.3 Million) and Yahoo (10.5 million) emails, and almost 1 Million users used 123456 as their password.
+All the data is now up for sale on the dark web for just 0.5 Bitcoin (nearly US$335), so it's high time you changed your passwords for all social media sites immediately, especially if you use the same password for different websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

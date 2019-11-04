@@ -1,0 +1,25 @@
+StatCounter Analytics Code Hijacked to Steal Bitcoins from Cryptocurrency Users
+Mohit Kumar
+
+Late last week an unknown hacker or a group of hackers successfully targeted a cryptocurrency exchange with an aim to steal Bitcoins by compromising the web analytics service it was using.
+ESET malware researcher Matthieu Faou this weekend spotted malicious JavaScript code on up to 700,000 websites that were bundled with the traffic tracking code from the leading web analytics platform StatCounter.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, after analyzing the code, the researchers found that hackers managed to compromise StatCounter and successfully replaced its tracking script with malicious JavaScript code primarily designed to target customers of the Gate.io cryptocurrency exchange.
+Like Google Analytics, StatCounter is also an old, but popular real-time web analytics platform reportedly being used by more than two million websites and generates stats on over 10 billion page views per month.
+Here's How Hackers Tried to Steal Bitcoins from Crypto Exchange
+Though the malicious code was also injected into other hundreds of thousands of websites using the StatCounter service, the script only gets activated when the URL or content of the webpage contained a specific Uniform Resource Identifier (URI): myaccount/withdraw/BTC.
+The "myaccount/withdraw/BTC" URI is exclusively associated with a gate.io webpage that offers users to make Bitcoin withdrawals and transfers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malicious script was intended to replace the destination Bitcoin address of transfers with an address belonging to the hackers.
+"The script automatically replaces the destination Bitcoin address with an address belonging to the attackers, for example, 1JrFLmGVk1ho1UcMPq1WYirHptcCYr2jad," Faou explains in a report released Tuesday.
+"The malicious server generates a new Bitcoin address each time a visitor loads the statconuter[.]com/c.php script. Thus, it is hard to see how many bitcoins have been transferred to the attackers," he adds.
+"As a new Bitcoin address is generated each time the malicious script is sent to the victim, we were not able to see how many bitcoins the attackers have gathered."
+According to the researcher, the malicious script was added to the middle of the legitimate StatCounter's JavaScript, which typically makes the malicious code harder to detect via "casual observation."
+Gate.io Removes StatCounter Following Security Breach
+Attackers successfully breached StatCounter on November 3, and ESET notified the company on November 5 when it discovered the hack, which the security firm labeled as a "supply chain" attack because the malicious script has appeared on the service used by the target.
+"Even if we do not know how many bitcoins have been stolen during this attack, it shows how far attackers go to target one specific website, in particular, a cryptocurrency exchange," the researcher says.
+StatCounter removed the malicious script on November 6, several hours before the Gate.io cryptocurrency exchange platform stopped using the popular analytic service to prevent further damage.
+Gate.io also claimed the company subsequently scanned its website with 56 antivirus products, and "no one reported any suspicious behavior at that time."
+The exchange also reported that its "users' funds are safe," but it did not reveal how many customers who performed transfers between November 3 and 6 had lost their funds, neither promised to reimburse those users.
+Gate.io also urged its customers to maximize the security levels on their accounts by enabling two-factor authentication (2FA) and two-step login protection.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

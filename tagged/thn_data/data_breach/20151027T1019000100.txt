@@ -1,0 +1,24 @@
+15-year-old Boy Arrested in connection with TalkTalk Cyber Attack
+Khyati Jain
+
+The arrest is the first major outcome since TalkTalk – the biggest phone and broadband provider in the UK with more than 4 Million customers – had suffered a serious data breach.
+The Police Service of Northern Ireland (PSNI) and the investigating officers from the Metropolitan police's cyber crime unit (MPCCU) have arrested a 15-year-old boy in connection with the latest cyber attack on TalkTalk.
+The press release issued by the police said the boy was detained in County Antrim at about 4.20pm on Monday on suspicion of committing offences under the Computer Misuse Act.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Computer Misuse Act 1990 is an act of the Parliament of the United Kingdom, according to which any computer misuse offences like:
+Unauthorised access to computer material.
+Unauthorised access with the intent to commit further offences.
+Unauthorised acts with the intent to impair, or with recklessness as to impairing, operation of the computers, and other electronic devices.
+...Are considered as criminal doings and anyone charged under the Computer Misuse Act is liable to get a serious punishment of being imprisoned and payment of a hefty fine.
+"The teenager was arrested on suspicion of offences under the Computer Misuse Act 1990," the police said on the arrest. "He was taken into custody at a County Antrim police station where he will be interviewed. A search of the address is under way and enquiries continue."
+The recent data breach in TalkTalk puts the Bank Details and Personally Identifiable Information (PII) of its 4 Million customers at risk.
+It is also believed that some part of the information retrieved by the hackers was stored in an unencrypted form by TalkTalk group.
+This isn't the first time when TalkTalk suffered a data breach, the telecom company became the target of the hackers the third time since the past one year.
+In the latest hack the alleged hackers also demanded ransom in Bitcoins.
+Security experts believe that the recent data breach may have taken place due to SQL injection (SQLi) attack, a method used to inject SQL commands to breach the database and get access to the users' personal data.
+On learning about the 15-year-old's arrest, TalkTalk group reportedly said, "We know this has been a worrying time for customers and we are grateful for the swift response and hard work of the police. We will continue to assist in the ongoing investigation."
+After being victimised, the Chief Executive of TalkTalk Diana Mary Harding gives a statement stressing on the seriousness of the need of cyber security:
+"This is happening to a huge number of organisations all the time. The awful truth is that every company, every organisation in the UK needs to spend more money and put more focus on cyber security -- it is the crime of our era." 
+"In some ways I would love to say this is just a TalkTalk issue, I'd love to believe this is just us – but it isn't," she added.
+As a prevention measure, the affected TalkTalk customers are highly recommended to change their passwords as soon as possible and keep an eye on their bank accounts over the next few months.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

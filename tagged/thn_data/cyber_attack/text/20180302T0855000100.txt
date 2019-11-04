@@ -1,0 +1,16 @@
+Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website
+Mohit Kumar
+
+On Wednesday, February 28, 2018, GitHub's code hosting website hit with the largest-ever distributed denial of service (DDoS) attack that peaked at record 1.35 Tbps.
+Interestingly, attackers did not use any botnet network, instead weaponized misconfigured Memcached servers to amplify the DDoS attack.
+Earlier this week we published a report detailing how attackers could abuse Memcached, popular open-source and easily deployable distributed caching system, to launch over 51,000 times powerful DDoS attack than its original strength.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed Memcrashed, the amplification DDoS attack works by sending a forged request to the targeted Memcrashed server on port 11211 using a spoofed IP address that matches the victim's IP.
+A few bytes of the request sent to the vulnerable server trigger tens of thousands of times bigger response against the targeted IP address.
+"This attack was the largest attack seen to date by Akamai, more than twice the size of the September 2016 attacks that announced the Mirai botnet and possibly the largest DDoS attack publicly disclosed," said Akamai, a cloud computing company that helped Github to survive the attack.
+In a post on its engineering blog, Github said, "The attack originated from over a thousand different autonomous systems (ASNs) across tens of thousands of unique endpoints. It was an amplification attack using the memcached-based approach described above that peaked at 1.35Tbps via 126.9 million packets per second."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Expect More Record-Breaking DDoS Attacks
+Though amplification attacks are not new, this attack vector evolves thousands of misconfigured Memcached servers, many of which are still exposed on the Internet and could be exploited to launch potentially more massive attacks soon against other targets.
+To prevent Memcached servers from being abused as reflectors, administrators should consider firewalling, blocking or rate-limiting UDP on source port 11211 or completely disable UDP support if not in use.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

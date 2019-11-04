@@ -1,0 +1,20 @@
+Firefox 67.0.4 Released — Mozilla Patches Second 0-Day Flaw This Week
+Mohit Kumar
+
+Okay, folks, it's time to update your Firefox web browser once again—yes, for the second time this week.
+After patching a critical actively-exploited vulnerability in Firefox 67.0.3 earlier this week, Mozilla is now warning millions of its users about a second zero-day vulnerability that attackers have been found exploiting in the wild.
+The newly patched issue (CVE-2019-11708) is a "sandbox escape" vulnerability, which if chained together with the previously patched "type confusion" bug (CVE-2019-11707), allows a remote attacker to execute arbitrary code on victims' computers just by convincing them into visiting a malicious website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Browser sandboxing is a security mechanism that keeps third-party processes isolated and confined to the browser, preventing them from damaging other sensitive parts of a computer's operating system.
+"Insufficient vetting of parameters passed with the Prompt:Open IPC message between child and parent processes can result in the non-sandboxed parent process opening web content chosen by a compromised child process," the advisory explains.
+Firefox 0-Days Found Exploited in the Wild
+Mozilla has already been aware of the first issue since April when a Google Project Zero researcher reported it to the company, but it learned about the second issue and attacks in the wild just last week when attackers started exploiting both the flaws together to target employees from Coinbase platform and users of other cryptocurrency firms.
+Just yesterday, macOS security expert Patrick Wardle also published a report revealing that a separate campaign against cryptocurrency users is also using same Firefox 0-days to install a macOS malware on targeted computers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At this moment it's not clear if attackers independently discovered the first vulnerability just in time when it was already reported to Mozilla or gained classified bug-report information through another way.
+Install Firefox Patches to Prevent Cyber Attacks
+Anyway, the company has now released Firefox version 67.0.4 and Firefox ESR 60.7.2 that address both the issues, preventing attackers from remotely taking control over your systems.
+Though Firefox installs latest available updates automatically, users are still advised to ensure they are running Firefox 67.0.4 or later.
+Besides this, just like the patch for the previous issue, it is also expected that the Tor Project will once again release a new version of its privacy browser very soon to patch the second bug as well.
+Important Update (21/06/2019) ➤ The Tor Project on Friday also released second update (Tor Browser 8.5.3) for its privacy web-browser this week that patches the second vulnerability Firefox patched yesterday.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

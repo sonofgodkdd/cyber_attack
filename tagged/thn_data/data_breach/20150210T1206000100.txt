@@ -1,0 +1,32 @@
+Researcher Publishes 10 Million Usernames and Passwords from Data Breaches
+Swati Khandelwal
+
+A security researcher has publicly released a set of 10 Million usernames and passwords, which he collected from multiple data breaches over the last decade for the purpose of his research.
+These 10 million usernames and passwords are collective of leaked database dumps those were already available publicly on the Internet. However, Mark Burnett, a well-known security consultant who has developed a specialty collecting and researching passwords leaked online, marked his decision to publish the password dump as legally risky, but necessary to help security researchers.
+WHY IS THE RESEARCHER WILLING TO SHARE PASSWORDS ?
+The researcher says the released set of passwords and usernames is like a sample data, which is important for other researchers to analyze and provide great insight into user behavior and is valuable for encouraging password security.
+Also, the researcher was frequently receiving lots of requests from students and other security researchers to submit a copy of his password research data for their own analysis.
+WHAT PANICS HIM OF SHARING HIS RESEARCH ?
+At the time, he typically decline to share the passwords because he was worried that if he do so, it might harm him legally given the recent five-year sentence handed to former Anonymous activist and journalist Barrett Brown, for sharing the hyperlink to an IRC (Internet Relay Chat) channel where Anonymous members were distributing stolen information from the hack.
+However, at the same time, Burnett wanted to share his password research data with the world in order to study the way people choose pass phrases.
+"I think this is completely absurd that I have to write an entire article justifying the release of this data out of fear of prosecution or legal harassment," he wrote in his blog post published Monday. "I had wanted to write an article about the data itself but I will have to do that later because I had to write this lame thing trying to convince the FBI not to raid me."
+FROM WHERE DID THE CREDENTIALS COME ?
+Burnett has collected the data from major data breaches at big companies including Adobe Data Breach and Stratfor hack, all of which have already been publicly available over the Internet, which could be easily found through Web searches.
+According to the researcher, most of the leaked passwords were "dead," meaning they had been changed already, and he has scrubbed other information such as domain names to make it unusable for cyber criminals and malicious hackers. However, usernames or passwords found on the list that are still in use should be changed immediately.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Burnett also explains the fact that he is not supposed to be arrested by the law enforcement agencies.
+A SHORT INTERVIEW WITH MARK BURNETT
+In a quick Interview on an email chat, I personally asked Mark few questions about exposing usernames/passwords publicly, and his answers are as follows:
+Q: Could exposing the passwords publicly cause any threat to Online users?
+A: As I said, "If a hacker needs this list to hack someone, they probably aren't much of a threat." It is important to note that I didn't leak these passwords, they are already out there.
+Q: Have any Law enforcement agencies approached you yet?
+A: Not yet, but its still early.
+Q: Are these Usernames/Passwords include data from Adobe and LinkedIn breaches?
+A: I only included breaches where there was both a username and password so that I could combine data from multiple sites. This would exclude LinkedIn and a few others. I also did not release any passwords that were not already available publicly unencrypted so that would exclude Adobe. Other than that it includes a bit of everything.
+Q: Is there any strong reason behind sharing passwords publicly?
+A: The primary purpose is to get good, clean, and consistent data out in the world so others can find new ways to explore and gain knowledge from it. I am frequently asked for my data but I have always been hesitant to share it due to privacy issues. While not perfect, this is a consistent data set we can all use to help further security.
+'WHY THE FBI SHOULDN'T ARREST ME'
+"Although researchers typically only release passwords, I am releasing usernames with the passwords. Analysis of usernames with passwords is an area that has been greatly neglected and can provide as much insight as studying passwords alone," Burnett wrote.
+"Most researchers are afraid to publish usernames and passwords together because combined they become an authentication feature. If simply linking to already released authentication features in a private IRC channel was considered trafficking, surely the FBI would consider releasing the actual data to the public a crime."
+Almost 10 million passwords released by the researcher, for instance, could help other researchers to determine how often users include all or part of their usernames in their passwords. However, 10 Million is a very big number, but Burnett defended that all of the leaked data was already available online.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

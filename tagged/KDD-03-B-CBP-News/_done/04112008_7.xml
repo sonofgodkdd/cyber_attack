@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Sex Offender Arrested in Tucson
+(Friday, April 11, 2008)
+Tucson, Ariz. -  U.S. Border Patrol agents from the Tucson sector arrested a convicted sex offender.
+As undocumented people continue to enter the U.S. illegally, agents in the Tucson sector continue being vigilant. With the assistance of the Integrated Automated Fingerprint Index System, Border Patrol agents can identify individuals with a past criminal record in the U.S. and allow the CBP to take further action in denying the entry of convicted felons.
+Early Thursday morning, a Wilcox station agent answered to a call in Benson, Ariz., of a possible undocumented individual in the area. The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing. During processing the male subject was identified through IAFIS as having been convicted of a sex offense in California. Record checks through Tucson sector radio verified the IAFIS information.
+The male subject is pending Removal Proceedings and prosecution per Tucson sector guidelines.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="13" text="Sex Offender" TYPE="BAR" />
+<person id="p1" start="75" end="123" text="U.S. Border Patrol agents from the Tucson sector" TYPE="BAR" />
+<person id="p2" start="133" end="157" text="a convicted sex offender" TYPE="NOM" />
+<person id="p3" start="162" end="181" text="undocumented people" TYPE="BAR" />
+<person id="p4" start="220" end="247" text="agents in the Tucson sector" TYPE="BAR" />
+<person id="p5" start="347" end="367" text="Border Patrol agents" TYPE="BAR" />
+<person id="p6" start="381" end="432" text="individuals with a past criminal record in the U.S." TYPE="BAR" />
+<person id="p7" start="498" end="514" text="convicted felons" TYPE="BAR" />
+<person id="p8" start="540" end="562" text="a Wilcox station agent" TYPE="NOM" />
+<person id="p9" start="603" end="649" text="a possible undocumented individual in the area" TYPE="NOM" />
+<person id="p10" start="651" end="660" text="The agent" TYPE="NOM" />
+<person id="p11" start="680" end="694" text="a male subject" TYPE="NOM" />
+<person id="p12" start="716" end="730" text="the individual" TYPE="NOM" />
+<person id="p13" start="787" end="803" text="the male subject" TYPE="NOM" />
+<person id="p14" start="964" end="980" text="The male subject" TYPE="NOM" />
+<organization id="o0" start="75" end="93" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="106" end="123" text="the Tucson sector" TYPE="NAM" />
+<organization id="o2" start="230" end="247" text="the Tucson sector" TYPE="NAM" />
+<organization id="o3" start="347" end="360" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o4" start="443" end="450" text="the CBP" TYPE="NAM" />
+<organization id="o5" start="912" end="925" text="Tucson sector" TYPE="NAMPRE" />
+<organization id="o6" start="1032" end="1045" text="Tucson sector" TYPE="NAMPRE" />
+<geographical-political id="g0" start="26" end="32" text="Tucson" TYPE="NAM" />
+<geographical-political id="g1" start="58" end="71" text="Tucson, Ariz." TYPE="NAM" />
+<geographical-political id="g2" start="66" end="71" text="Ariz." TYPE="NAM" />
+<geographical-political id="g3" start="200" end="208" text="the U.S." TYPE="NAM" />
+<geographical-political id="g4" start="424" end="432" text="the U.S." TYPE="NAM" />
+<geographical-political id="g5" start="585" end="598" text="Benson, Ariz." TYPE="NAM" />
+<geographical-political id="g6" start="593" end="598" text="Ariz." TYPE="NAM" />
+<geographical-political id="g7" start="878" end="888" text="California" TYPE="NAM" />
+<location id="l0" start="641" end="649" text="the area" TYPE="NOM" />
+<falicity id="f1" start="542" end="556" text="Wilcox station" TYPE="NAMPRE" />
+<falicity id="f2" start="734" end="752" text="the Wilcox Station" TYPE="NAM" />
+<head id="h0" start="5" end="13" text="Offender" />
+<head id="h1" start="26" end="32" text="Tucson" />
+<head id="h2" start="58" end="64" text="Tucson" />
+<head id="h3" start="66" end="71" text="Ariz." />
+<head id="h4" start="94" end="100" text="agents" />
+<head id="h5" start="75" end="93" text="U.S. Border Patrol" />
+<head id="h6" start="110" end="123" text="Tucson sector" />
+<head id="h7" start="149" end="157" text="offender" />
+<head id="h8" start="175" end="181" text="people" />
+<head id="h9" start="204" end="208" text="U.S." />
+<head id="h10" start="220" end="226" text="agents" />
+<head id="h11" start="234" end="247" text="Tucson sector" />
+<head id="h12" start="361" end="367" text="agents" />
+<head id="h13" start="347" end="360" text="Border Patrol" />
+<head id="h14" start="381" end="392" text="individuals" />
+<head id="h15" start="428" end="432" text="U.S." />
+<head id="h16" start="447" end="450" text="CBP" />
+<head id="h17" start="508" end="514" text="felons" />
+<head id="h18" start="557" end="562" text="agent" />
+<head id="h19" start="542" end="556" text="Wilcox station" />
+<head id="h20" start="585" end="591" text="Benson" />
+<head id="h21" start="593" end="598" text="Ariz." />
+<head id="h22" start="627" end="637" text="individual" />
+<head id="h23" start="645" end="649" text="area" />
+<head id="h24" start="655" end="660" text="agent" />
+<head id="h25" start="687" end="694" text="subject" />
+<head id="h26" start="720" end="730" text="individual" />
+<head id="h27" start="738" end="752" text="Wilcox Station" />
+<head id="h28" start="796" end="803" text="subject" />
+<head id="h29" start="878" end="888" text="California" />
+<head id="h30" start="912" end="925" text="Tucson sector" />
+<head id="h31" start="973" end="980" text="subject" />
+<head id="h32" start="1032" end="1045" text="Tucson sector" />
+<name id="n0" start="26" end="32" text="Tucson" />
+<name id="n1" start="58" end="64" text="Tucson" />
+<name id="n2" start="66" end="71" text="Ariz." />
+<name id="n3" start="75" end="93" text="U.S. Border Patrol" />
+<name id="n4" start="110" end="123" text="Tucson sector" />
+<name id="n5" start="204" end="208" text="U.S." />
+<name id="n6" start="234" end="247" text="Tucson sector" />
+<name id="n7" start="347" end="360" text="Border Patrol" />
+<name id="n8" start="428" end="432" text="U.S." />
+<name id="n9" start="447" end="450" text="CBP" />
+<name id="n10" start="542" end="556" text="Wilcox station" />
+<name id="n11" start="585" end="591" text="Benson" />
+<name id="n12" start="593" end="598" text="Ariz." />
+<name id="n13" start="738" end="752" text="Wilcox Station" />
+<name id="n15" start="878" end="888" text="California" />
+<name id="n16" start="912" end="925" text="Tucson sector" />
+<name id="n17" start="1032" end="1045" text="Tucson sector" />
+<located-mention id="lo0" start="1" end="32" text="Sex Offender Arrested in Tucson" TYPE="Participial" />
+<located-mention id="lo1" start="159" end="271" text="As undocumented people continue to enter the U.S. illegally, agents in the Tucson sector continue being vigilant" TYPE="Other" />
+<located-mention id="lo2" start="540" end="562" text="a Wilcox station agent" TYPE="PreMod" />
+<located-mention id="lo3" start="651" end="767" text="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" TYPE="Other" />
+<located-mention id="lo4" start="603" end="649" text="a possible undocumented individual in the area" TYPE="Preposition" />
+<located-mention id="lo5" start="651" end="767" text="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" TYPE="Other" />
+<located-mention id="lo6" start="769" end="888" text="During processing the male subject was identified through IAFIS as having been convicted of a sex offense in California" TYPE="Other" />
+<employment-mention id="e2" start="75" end="123" text="U.S. Border Patrol agents from the Tucson sector" TYPE="Preposition" />
+<employment-mention id="e3" start="220" end="247" text="agents in the Tucson sector" TYPE="Preposition" />
+<employment-mention id="e4" start="347" end="367" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e0" start="75" end="123" text="U.S. Border Patrol agents from the Tucson sector" TYPE="PreMod" />
+<entity_link id="en0" fromID="g1" fromText="Tucson, Ariz." toID="g0" toText="Tucson" />
+<entity_link id="en1" fromID="p2" fromText="a convicted sex offender" toID="p0" toText="Sex Offender" />
+<entity_link id="en2" fromID="p4" fromText="agents in the Tucson sector" toID="p1" toText="U.S. Border Patrol agents from the Tucson sector" />
+<entity_link id="en3" fromID="o2" fromText="the Tucson sector" toID="o1" toText="the Tucson sector" />
+<entity_link id="en4" fromID="o3" fromText="Border Patrol" toID="o0" toText="U.S. Border Patrol" />
+<entity_link id="en5" fromID="g4" fromText="the U.S." toID="g3" toText="the U.S." />
+<entity_link id="en6" fromID="g6" fromText="Ariz." toID="g2" toText="Ariz." />
+<entity_link id="en7" fromID="p9" fromText="a possible undocumented individual in the area" toID="p2" toText="a convicted sex offender" />
+<entity_link id="en8" fromID="p10" fromText="The agent" toID="p8" toText="a Wilcox station agent" />
+<entity_link id="en9" fromID="p11" fromText="a male subject" toID="p9" toText="a possible undocumented individual in the area" />
+<entity_link id="en10" fromID="p12" fromText="the individual" toID="p11" toText="a male subject" />
+<entity_link id="en11" fromID="f2" fromText="the Wilcox Station" toID="f1" toText="Wilcox station" />
+<entity_link id="en12" fromID="p13" fromText="the male subject" toID="p12" toText="the individual" />
+<entity_link id="en13" fromID="o5" fromText="Tucson sector" toID="o2" toText="the Tucson sector" />
+<entity_link id="en14" fromID="p14" fromText="The male subject" toID="p13" toText="the male subject" />
+<entity_link id="en15" fromID="o6" fromText="Tucson sector" toID="o5" toText="Tucson sector" />
+<head_link id="he0" fromID="p0" fromText="Sex Offender" toID="h0" toText="Offender" />
+<head_link id="he1" fromID="g0" fromText="Tucson" toID="h1" toText="Tucson" />
+<head_link id="he2" fromID="g1" fromText="Tucson, Ariz." toID="h2" toText="Tucson" />
+<head_link id="he3" fromID="g2" fromText="Ariz." toID="h3" toText="Ariz." />
+<head_link id="he4" fromID="p1" fromText="U.S. Border Patrol agents from the Tucson sector" toID="h4" toText="agents" />
+<head_link id="he5" fromID="o0" fromText="U.S. Border Patrol" toID="h5" toText="U.S. Border Patrol" />
+<head_link id="he6" fromID="o1" fromText="the Tucson sector" toID="h6" toText="Tucson sector" />
+<head_link id="he7" fromID="p2" fromText="a convicted sex offender" toID="h7" toText="offender" />
+<head_link id="he8" fromID="p3" fromText="undocumented people" toID="h8" toText="people" />
+<head_link id="he9" fromID="g3" fromText="the U.S." toID="h9" toText="U.S." />
+<head_link id="he10" fromID="p4" fromText="agents in the Tucson sector" toID="h10" toText="agents" />
+<head_link id="he11" fromID="o2" fromText="the Tucson sector" toID="h11" toText="Tucson sector" />
+<head_link id="he12" fromID="p5" fromText="Border Patrol agents" toID="h12" toText="agents" />
+<head_link id="he13" fromID="o3" fromText="Border Patrol" toID="h13" toText="Border Patrol" />
+<head_link id="he14" fromID="p6" fromText="individuals with a past criminal record in the U.S." toID="h14" toText="individuals" />
+<head_link id="he15" fromID="g4" fromText="the U.S." toID="h15" toText="U.S." />
+<head_link id="he16" fromID="o4" fromText="the CBP" toID="h16" toText="CBP" />
+<head_link id="he17" fromID="p7" fromText="convicted felons" toID="h17" toText="felons" />
+<head_link id="he18" fromID="p8" fromText="a Wilcox station agent" toID="h18" toText="agent" />
+<head_link id="he19" fromID="f1" fromText="Wilcox station" toID="h19" toText="Wilcox station" />
+<head_link id="he20" fromID="g5" fromText="Benson, Ariz." toID="h20" toText="Benson" />
+<head_link id="he21" fromID="g6" fromText="Ariz." toID="h21" toText="Ariz." />
+<head_link id="he22" fromID="p9" fromText="a possible undocumented individual in the area" toID="h22" toText="individual" />
+<head_link id="he23" fromID="l0" fromText="the area" toID="h23" toText="area" />
+<head_link id="he24" fromID="p10" fromText="The agent" toID="h24" toText="agent" />
+<head_link id="he25" fromID="p11" fromText="a male subject" toID="h25" toText="subject" />
+<head_link id="he26" fromID="p12" fromText="the individual" toID="h26" toText="individual" />
+<head_link id="he27" fromID="f2" fromText="the Wilcox Station" toID="h27" toText="Wilcox Station" />
+<head_link id="he28" fromID="p13" fromText="the male subject" toID="h28" toText="subject" />
+<head_link id="he29" fromID="g7" fromText="California" toID="h29" toText="California" />
+<head_link id="he30" fromID="o5" fromText="Tucson sector" toID="h30" toText="Tucson sector" />
+<head_link id="he31" fromID="p14" fromText="The male subject" toID="h31" toText="subject" />
+<head_link id="he32" fromID="o6" fromText="Tucson sector" toID="h32" toText="Tucson sector" />
+<name_link id="na0" fromID="g0" fromText="Tucson" toID="n0" toText="Tucson" />
+<name_link id="na1" fromID="g1" fromText="Tucson, Ariz." toID="n1" toText="Tucson" />
+<name_link id="na2" fromID="g2" fromText="Ariz." toID="n2" toText="Ariz." />
+<name_link id="na3" fromID="o0" fromText="U.S. Border Patrol" toID="n3" toText="U.S. Border Patrol" />
+<name_link id="na4" fromID="o1" fromText="the Tucson sector" toID="n4" toText="Tucson sector" />
+<name_link id="na5" fromID="g3" fromText="the U.S." toID="n5" toText="U.S." />
+<name_link id="na6" fromID="o2" fromText="the Tucson sector" toID="n6" toText="Tucson sector" />
+<name_link id="na7" fromID="o3" fromText="Border Patrol" toID="n7" toText="Border Patrol" />
+<name_link id="na8" fromID="g4" fromText="the U.S." toID="n8" toText="U.S." />
+<name_link id="na9" fromID="o4" fromText="the CBP" toID="n9" toText="CBP" />
+<name_link id="na10" fromID="f1" fromText="Wilcox station" toID="n10" toText="Wilcox station" />
+<name_link id="na11" fromID="g5" fromText="Benson, Ariz." toID="n11" toText="Benson" />
+<name_link id="na12" fromID="g6" fromText="Ariz." toID="n12" toText="Ariz." />
+<name_link id="na13" fromID="f2" fromText="the Wilcox Station" toID="n13" toText="Wilcox Station" />
+<name_link id="na14" fromID="g7" fromText="California" toID="n15" toText="California" />
+<name_link id="na15" fromID="o5" fromText="Tucson sector" toID="n16" toText="Tucson sector" />
+<name_link id="na16" fromID="o6" fromText="Tucson sector" toID="n17" toText="Tucson sector" />
+<relation_link1 id="r0" fromID="lo0" fromText="Sex Offender Arrested in Tucson" toID="p0" toText="Sex Offender" />
+<relation_link1 id="r2" fromID="e2" fromText="U.S. Border Patrol agents from the Tucson sector" toID="p1" toText="U.S. Border Patrol agents from the Tucson sector" />
+<relation_link1 id="r3" fromID="lo1" fromText="As undocumented people continue to enter the U.S. illegally, agents in the Tucson sector continue being vigilant" toID="p3" toText="undocumented people" />
+<relation_link1 id="r4" fromID="e3" fromText="agents in the Tucson sector" toID="p4" toText="agents in the Tucson sector" />
+<relation_link1 id="r5" fromID="e4" fromText="Border Patrol agents" toID="p5" toText="Border Patrol agents" />
+<relation_link1 id="r6" fromID="lo2" fromText="a Wilcox station agent" toID="p8" toText="a Wilcox station agent" />
+<relation_link1 id="r7" fromID="lo3" fromText="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" toID="p12" toText="the individual" />
+<relation_link1 id="r8" fromID="lo4" fromText="a possible undocumented individual in the area" toID="p9" toText="a possible undocumented individual in the area" />
+<relation_link1 id="r9" fromID="lo5" fromText="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" toID="p10" toText="The agent" />
+<relation_link1 id="r10" fromID="lo6" fromText="During processing the male subject was identified through IAFIS as having been convicted of a sex offense in California" toID="p13" toText="the male subject" />
+<relation_link1 id="r11" fromID="e0" fromText="U.S. Border Patrol agents from the Tucson sector" toID="p1" toText="U.S. Border Patrol agents from the Tucson sector" />
+<relation_link2 id="re0" fromID="lo0" fromText="Sex Offender Arrested in Tucson" toID="g0" toText="Tucson" />
+<relation_link2 id="re2" fromID="e2" fromText="U.S. Border Patrol agents from the Tucson sector" toID="o1" toText="the Tucson sector" />
+<relation_link2 id="re3" fromID="lo1" fromText="As undocumented people continue to enter the U.S. illegally, agents in the Tucson sector continue being vigilant" toID="g3" toText="the U.S." />
+<relation_link2 id="re4" fromID="e3" fromText="agents in the Tucson sector" toID="o2" toText="the Tucson sector" />
+<relation_link2 id="re5" fromID="e4" fromText="Border Patrol agents" toID="o3" toText="Border Patrol" />
+<relation_link2 id="re6" fromID="lo2" fromText="a Wilcox station agent" toID="f1" toText="Wilcox station" />
+<relation_link2 id="re7" fromID="lo3" fromText="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" toID="f2" toText="the Wilcox Station" />
+<relation_link2 id="re8" fromID="lo4" fromText="a possible undocumented individual in the area" toID="l0" toText="the area" />
+<relation_link2 id="re9" fromID="lo5" fromText="The agent was able to arrest a male subject and then transported the individual to the Wilcox Station for processing" toID="f2" toText="the Wilcox Station" />
+<relation_link2 id="re10" fromID="lo6" fromText="During processing the male subject was identified through IAFIS as having been convicted of a sex offense in California" toID="g7" toText="California" />
+<relation_link2 id="re11" fromID="e0" fromText="U.S. Border Patrol agents from the Tucson sector" toID="o0" toText="U.S. Border Patrol" />
+</TAGS>
+</KddTask>

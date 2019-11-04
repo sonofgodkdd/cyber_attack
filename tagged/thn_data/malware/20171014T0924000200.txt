@@ -1,0 +1,25 @@
+Ukraine Police Warns of New NotPetya-Style Large Scale CyberAttack
+Swati Khandelwal
+
+Remember NotPetya?
+The Ransomware that shut down thousands of businesses, organisations and banks in Ukraine as well as different parts of Europe in June this year.
+Now, Ukrainian government authorities are once again warning its citizens to brace themselves for next wave of "large-scale" NotPetya-like cyber attack.
+According to a press release published Thursday by the Secret Service of Ukraine (SBU), the next major cyber attack could take place between October 13 and 17 when Ukraine celebrates Defender of Ukraine Day (in Ukrainian: День захисника України, Den' zakhysnyka Ukrayiny).
+Authorities warn the cyber attack can once again be conducted through a malicious software update against state government institutions and private companies.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers of the NotPetya ransomware also used the same tactic—compromising the update mechanism for Ukrainian financial software provider called MeDoc and swapping in a dodgy update including the NotPetya computer virus.
+The virus then knocked computers in Ukrainian government agencies and businesses offline before spreading rapidly via corporate networks of multinational companies with operations or suppliers in eastern Europe.
+Presentation by Alexander Adamov, CEO at NioGuard Security Lab
+The country blamed Russia for the NotPetya attacks, while Russia denied any involvement.
+Not just ransomware and wiper malware, Ukraine has previously been a victim of power grid attacks that knocked its residents out of electricity for hours on two different occasions.
+The latest warning by the Ukrainian secret service told government and businesses to make sure their computers and networks were protected against any intrusion.
+"SBU notifies about preparing for a new wave of large-scale attack against the state institutions and private companies. The basic aim—to violate normal operation of information systems, that may destabilize the situation in the country," the press release reads. 
+"The SBU experts received data that the attack can be conducted with the use of software updating, including public applied software. The mechanism of its realization will be similar to cyber-attack of June 2017."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To protect themselves against the next large-scale cyber attack, the SBU advised businesses to follow some recommendations, which includes:
+Updating signatures of virus protection software on the server and in the workstation computers.
+Conducting redundancy of information, which is processed on the computer equipment.
+Providing daily updating of system software, including Windows operating system of all versions.
+Since the supply chain attacks are not easy to detect and prevent, users are strongly advised to keep regular backups of their important files on a separate drive or storage that are only temporarily connected for worst case scenarios.
+Most importantly, always keep a good antivirus on your system that can detect and block any malware intrusion before it can infect your device, and keep it up-to-date for latest infection-detection.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

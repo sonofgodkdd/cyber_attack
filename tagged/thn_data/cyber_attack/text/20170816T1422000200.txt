@@ -1,0 +1,24 @@
+8 More Chrome Extensions Hijacked to Target 4.8 Million Users
+Swati Khandelwal
+
+Google's Chrome web browser Extensions are under attack with a series of developers being hacked within last one month.
+Almost two weeks ago, we reported how unknown attackers managed to compromise the Chrome Web Store account of a developer team and hijacked Copyfish extension, and then modified it to distribute spam correspondence to users.
+Just two days after that incident, some unknown attackers then hijacked another popular extension 'Web Developer' and then updated it to directly inject advertisements into the web browser of over its 1 million users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After Chris Pederick, the creator of 'Web Developer' Chrome extension that offers various web development tools to its users, reported to Proofpoint that his extension had been compromised, the security vendor analysed the issue and found further add-ons in the Chrome Store that had also been altered.
+According to the latest report published by the researchers at Proofpoint on Monday, the expanded list of compromised Chrome Extensions are as below:
+Chrometana (1.1.3)
+Infinity New Tab (3.12.3)
+CopyFish (2.8.5)
+Web Paint (1.2.1)
+Social Fixer (20.1.1)
+Proofpoint researcher Kafeine also believes Chrome extensions TouchVPN and Betternet VPN were also compromised in the same way at the end of June.
+In all the above cases, some unknown attackers first gained access to the developers' Google web accounts by sending out phishing emails with malicious links to steal account credentials.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once the attackers gained access to the accounts, either they hijacked their respective extensions and then modified them to perform malicious tasks, or they add malicious Javascript code to them in an attempt to hijack traffic and expose users to fake ads and password theft in order to generate revenue.
+In the case of the Copyfish extension, the attackers even moved the whole extension to one of its developers' accounts, preventing the software company from removing the infected extension from the Chrome store, even after being spotted compromised behaviour of the extension.
+"Threat actors continue to look for new ways to drive traffic to affiliate programs and effectively surface malicious advertisements to users," researchers concluded. "In the cases described here, they are leveraging compromised Chrome extensions to hijack traffic and substitute advertisements on victims' browsers." 
+"Once they obtain developer credentials through emailed phishing campaigns, they can publish malicious versions of legitimate extensions."
+At this time, it is unclear who is behind the hijackings of Chrome Web extensions.
+The best way to protect yourself from such attacks is always to be suspicious of uninvited documents sent over a phishing email and never click on links inside those documents unless verifying the source.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

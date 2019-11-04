@@ -1,0 +1,19 @@
+Advanced Malware targeting Internet of the Things and Routers
+Mohit Kumar
+
+Anything connected to the Internet could be hacked and so is the Internet of Things (IoTs). 
+The market fragmentation of IoTs or Internet-connected devices is a security nightmare, due to poor security measures implemented by their vendors.
+Now, the researchers at security firm ESET have discovered a piece of Malware that is targeting embedded devices such as routers, and other connected devices like gateways and wireless access points, rather than computers or smartphones.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed KTN-Remastered or KTN-RM, the malware is a combination of both Tsunami (or Kaiten) as well as Gafgyt.
+Tsunami is a well-known IRC (Internet Relay Chat) bot used by miscreants for launching Distributed Denial of Service (DDoS) attacks while Gafgyt is used for Telnet scanning.
+KTN-RM, which researcher dubbed 'Remaiten,' features an improved spreading mechanism by carrying downloader executable binaries for embedded platforms and other connected devices.
+How Does the Linux Malware Work?
+The malware first performs Telnet scanning to look for routers and smart devices. Once the connection is made, the malware tries to guess the login credentials in an effort to take over weakly-secured devices. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If it successfully logs in, the malware will issue a shell command to download bot executable files for multiple system architectures before running them on the compromised networking kit.
+"This is a simple but noisy way of ensuring that the new victim gets infected because it is likely that one of the binaries is for the current platform," explained ESET Malware Researcher Michal Malík. "It targets mainly those with weak login credentials."
+The malware, version 2.0, also has a welcome message for those who might try to neutralise its threat, containing a reference to the Malware Must Die blog. 
+Perhaps it is a way to take revenge, as Malware Must Die has published extensive details about Gafgyt, Tsunami and other members of this Malware family.
+For more technical details about KTN-RM or Remaiten, you can head on to ESET's official blog post published Wednesday. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

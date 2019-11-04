@@ -1,0 +1,26 @@
+DDoS Attack Takes Down Central Heating System Amidst Winter In Finland
+Mohit Kumar
+
+Just Imaging — What if, you enter into your home from a chilling weather outside, and the heating system fails to work because of a cyber attack, leaving you in the sense of panic?
+The same happened late last month when an attack knocks heating system offline in Finland.
+Last week, a Distributed Denial of Service (DDoS) attack led to the disruption of the heating systems for at least two housing blocks in the city of Lappeenranta, literally leaving their residents in subzero weather.
+Both the apartments are managed by a company called Valtia, a facilities services company headquartered in Lappeenranta.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Valtia CEO Simo Rounela confirmed to English language news outlet Metropolitan.fi that the central heating system and hot water system in both buildings had become a target of DDoS attacks.
+In an attempt to fight back the cyber attacks, which lived for a short time, the automated systems rebooted — and unfortunately got stuck in an endless loop, which restarted repeatedly and eventually shut down heating systems for more than a week.
+Also Read: Someone is Using Mirai Botnet to Shut Down Internet for an Entire Country.
+The incident is extremely worrying because in a location as cold as Finland – where temperatures at this time month are below freezing – taking heating systems offline for over a week could result in death, particularly with old-aged people.
+Fortunately for the buildings' residents, it was not that cold in Lappeenranta.
+The attack started in late October and ended on 3rd November afternoon. Here's what a brief post on the company's website reads:
+"Over 90 percent of the [remote systems] in the area of terraced houses or larger buildings will not send an alarm at the moment, even if the heat is switched off or radiator pressure disappears," as the systems are designed to shut down for safety. "The systems must be actively monitored and adjusted."
+According to another local media outlet, Helsingin Sanomat, Valtia quickly relocated those affected systems and switched the heating systems over to manual, while the company addressed the DDoS attacks and brought the control systems "back into the grid, this time from behind a firewall."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The report attributes the cyber attack to the Mirai botnet – the same infamous IoT botnet that caused vast internet outage over two weeks ago by launching massive DDoS attacks against DNS provider Dyn.
+Dangerous Threats of Massive IoT Botnets
+Mirai botnet malware scans for insecure IoT devices, like security cameras, DVRs, and routers, that uses their default passwords and then enslaves them into a botnet network, which is then used to launch DDoS attacks.
+The latest incident isn't a disastrous situation, but it is enough to make it crystal clear that these Internet-connected systems can cause a significant consequence in our physical world as well.
+Just imagine if these control systems can not be manually adjusted by the people who truly rely on them?
+In this case, any cyber attack that knocks these systems down is potentially dangerous and even deadly in the event of extreme temperatures.
+This incident once again highlights the dangerous threats of massive DDoS attacks, which are now emerging from Millions of insecure Internet of Things (IoT) devices, whereby attackers can simply launch a DDoS to take down any critical service – no need to infect it with malware or viruses.
+So the best way to protect your smart devices from being a part of DDoS botnet is to be more vigilant about the security of your internet-connected devices.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

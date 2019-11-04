@@ -1,0 +1,22 @@
+Data Breach — Oracle's Micros Payment Systems Hacked
+Swati Khandelwal
+
+The risks associated with data breaches continue to grow, impacting a variety of industries, tech firms, and social networking platforms. In the past few months, over 1 Billion credentials were dumped online as a result of mega breaches in popular social networks.
+Now, Oracle is the latest in the list.
+Oracle has confirmed that its MICROS division – which is one of the world's top three point-of-sale (POS) services the company acquired in 2014 – has suffered a security breach.
+Hackers had infected hundreds of computers at Oracle's point-of-sale division, infiltrated the support portal used by customers, and potentially accessed sales registers all over the world.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The software giant came to know about the data breach after its staff discovered malicious code on the MICROS customer support portal and certain legacy MICROS systems. Hackers likely installed malware on the troubleshooting portal in order to capture customers' credentials as they logged in. 
+These usernames and passwords can then be used to access their accounts and remotely control their MICROS point-of-sales terminals.
+In a brief letter sent to MICROS customers, Oracle told businesses to change their MICROS account passwords for the MICROS online support site – particularly passwords that are used by MICROS staff to control on-site payment terminals remotely.
+"Oracle Security has detected and addressed malicious code in certain legacy MICROS systems," said the company. "Oracle's Corporate network and other cloud and service offerings were not impacted by this code." 
+"Payment card data is encrypted both at rest and in transit in the MICROS hosted environment… Consistent with standard security remediation protocols, Oracle [requires] MICROS customers to change the passwords for all MICROS accounts."
+Citing unknown sources, security news site KrebsOnSecurity, reported that the attack possibly came from a Russian crime gang, dubbed Carbanak Gang, that has been accused of stealing more than $1 Billion from banks and retailer stores in past hacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The scope of the data breach is still unknown, but anonymous sources familiar with the breach have told Krebs that the hack may have affected up to 700 systems.
+Since customers payment data is encrypted both at rest and in transit, Oracle said that this information is not at risk.
+Oracle acquired MICROS in 2014 in a $5 Billion acquisition deal. Currently, MICROS devices are deployed at over 330,000 point-of-sale terminals (or cash registers) at food and beverage outlets, retail stores, and hotels across 180 countries.
+The software giant is still investigating the security breach at its payment terminal division.
+Over the past few years, the security breach has hit POS terminals – or "cash registers" – operated by a large number of retailers, food chains, hotels, and other types of merchants. Two of the best-known victims to be hit by POS malware are Target and Home Depot.
+POS terminals have emerged as the favorite target for cybercriminal gangs because when it comes to the cheap and easy way to siphon the vast number of payment cards, breaching a single retailer's internal network could allow criminals to collect Millions of valid payment card numbers in a relatively short amount of time.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

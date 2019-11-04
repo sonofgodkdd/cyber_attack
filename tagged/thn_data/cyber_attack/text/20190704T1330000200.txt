@@ -1,0 +1,17 @@
+DDoS Attacker Who Ruined Gamers' Christmas Gets 27 Months in Prison
+Wang Wei
+
+A 23-year-old hacker from Utah who launched a series of DDoS attacks against multiple online services, websites, and online gaming companies between December 2013 and January 2014 has been sentenced to 27 months in prison.
+Austin Thompson, a.k.a. "DerpTroll," pledged guilty back in November 2018 after he admitted to being a part of DerpTrolling, a hacker group that was behind DDoS attacks against several major online gaming platforms including Electronic Arts' Origin service, Sony PlayStation network, and Valve Software's Steam during Christmas.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Thompson typically used the Twitter account @DerpTrolling to announce that an attack was imminent and then posted "scalps" (screenshots or other photos showing that victims' servers had been taken down) after the attack," the DoJ says.
+According to a U.S. Department of Justice press release published Wednesday, Thompson's actions caused the victim companies at least $95,000 in damages. The defendant was arrested in summer last year.
+In addition to the prison sentence, the DoJ has also ordered the defendant to pay $95,000 in restitution to Daybreak Games, formerly Sony Online Entertainment.
+Thompson is currently free on bond and has been ordered to surrender to authorities on 23rd August 2019 in order to begin his sentence.
+"Denial-of-service attacks cost businesses and individuals millions of dollars annually," US Attorney Robert Brewer said. "We are committed to prosecuting hackers who intentionally disrupt internet access."
+However, it wasn't just DerpTrolling that created chaos in 2014 by disrupting online gaming servers owned by Sony, Microsoft, Riot Games, Nintendo, Valve, and Electronic Arts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Lizard Squad, an infamous hacking group, also made headlines in year 2014 by launching DDoS attacks against Microsoft's Xbox Live and Sony's PlayStation Network and knocking them offline during the Christmas holidays.
+Several teenagers have since been arrested and charged around the world for participating in the Lizard Squad 2014 DDoS attacks.
+Julius Kivimaki, one of the Lizard Squad members who was arrested by Finnish authorities in late 2014, was convicted in Finland in July 2015, receiving a suspended prison sentence of two years for his actions.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

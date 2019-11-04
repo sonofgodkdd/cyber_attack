@@ -1,0 +1,19 @@
+Hackers threaten to take down Xbox Live and PSN on Christmas Day
+Mohit Kumar
+
+Bad news for gamers! 
+It's once again the time when most of you will get new PlayStations and XBoxes that continue to be among the most popular gifts for Christmas, but possibilities are you'll not be able to log into the online gaming console, just like what happens on every Christmas holidays.
+On 2014 Christmas holidays, the notorious hacker group Lizard Squad knocked the PlayStation Network and Xbox Live offline for many gamers by launching massive DDoS attacks against the gaming networks.
+This time a new hacking group, who managed to take down Tumblr this week for almost two hours, has warned gamers of launching another large-scale distributed denial-of-service (DDoS) attack against XBox Live and PlayStation networks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Calling itself R.I.U. Star Patrol, the hacking group, posted a video on YouTube, announcing that they’re planning to take down Sony’s PSN and Microsoft’s Xbox Live on Christmas Day by launching coordinated DDoS attacks.
+"We do it because we can," the group said. "We have not been paid a single dollar for what we do."
+On Wednesday, when R.I.U. Star Patrol took down Tumblr, the group contacted Mashable and explained its reason for attacking: "There is no sinister motive. It’s all for light hearted fun."
+Neither Sony nor Microsoft has yet responded to the hackers' warning.
+However, both Sony and Microsoft previously promised to enhance the protection of their systems to block any attack disrupting their networks, but downtime and short outages happened almost every Christmas time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Knowing the current abilities of hackers to launch DDoS attack that can reach 1 Tbps, it goes without saying that both the companies should be prepared to see DDoS attacks targeting its servers on this Christmas that can go beyond their expectations.
+We saw coordinated DDoS attacks against DNS hosting provider Dyn last fall that broke large portions of the Internet, causing a significant outage to a ton of websites and services, including Twitter, GitHub, PayPal, Amazon, Reddit, Netflix, and Spotify.
+The massive DDoS attack was launched just by a botnet of an estimated 100,000 so-called Internet of Things (IoT) – everyday devices and appliances that are connected to the web – that closed down the Internet for millions of users.
+So, it remains to be seen if gamers would be able to enjoy this Christmas or not.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

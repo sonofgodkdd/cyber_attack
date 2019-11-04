@@ -1,0 +1,21 @@
+Viacom Left Sensitive Data And Secret Access Key On Unsecured Amazon Server
+Wang Wei
+
+Viacom—the popular entertainment and media company that owns Paramount Pictures, Comedy Central, MTV, and hundreds of other properties—has exposed the keys to its kingdom on an unsecured Amazon S3 server.
+A security researcher working for California-based cyber resiliency firm UpGuard has recently discovered a wide-open, public-facing misconfigured Amazon Web Server S3 cloud storage bucket containing roughly a gigabyte's worth of credentials and configuration files for the backend of dozens of Viacom properties.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+These exposed credentials discovered by UpGuard researcher Chris Vickery would have been enough for hackers to take down Viacom's internal IT infrastructure and internet presence, allowing them to access cloud servers belonging to MTV, Paramount Pictures and Nickelodeon.
+Among the data exposed in the leak was Viacom's master key to its Amazon Web Services account, and the credentials required to build and maintain Viacom servers across its many subsidiaries and dozens of brands.
+"Perhaps most damaging among the exposed data are Viacom's secret cloud keys, an exposure that, in the most damaging circumstances, could put the international media conglomerate's cloud-based servers in the hands of hackers," an UpGuard blog post says. 
+"Such a scenario could enable malicious actors to launch a host of damaging attacks, using the IT infrastructure of one of the world's largest broadcast and media companies."
+In other words, the access key and secret key for the company's AWS account would have allowed hackers to compromise Viacom's servers, storage, and databases under the AWS account.
+According to the analysis performed by UpGuard, a number of cloud instances used within the media company's IT toolchain, including Docker, Splunk, New Relic, and Jenkins, could have "thus been compromised in this manner."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In addition to these damaging leaks, the unprotected server also contained GPG decryption keys, which can be used to unlock sensitive data. However, the server did not contain any customer or employee information.
+Although it is unclear whether hackers were able to exploit this information to access important files belonging to Viacom and the firms it owns, the media giant said there's no evidence anyone had abused its data.
+"We have analyzed the data in question and determined there was no material impact," the company said in a statement.
+"Once Viacom became aware that information on a server—including technical information, but no employee or customer information—was publicly accessible, we rectified the issue."
+All the credentials have now been changed after UpGuard contacted Viacom executives privately, and the server was secured shortly afterwards.
+This is not the first time when Vickery has discovered a company's sensitive information stored on an unprotected AWS C3 server.
+Vickery has previously tracked down many exposed datasets on the Internet, including personal details of over 14 million Verizon customers, a cache of 60,000 documents from a US military, information of over 191 Million US voter records, and 13 Million MacKeeper users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Internet Explorer 8 zero-day attack spreads on 9 other sites
+Mohit Kumar
+
+Watering hole Internet Explorer 8 zero-day attack on the US Department of Labor website last week has spread to 9 more global websites over the weekend, including those run by a big European company operating in the aerospace, defense, and security industries as well as non-profit groups and institutes
+Attacks exploiting a previously unknown and currently unpatched vulnerability in Microsoft's Internet Explorer browser have spread to at least. Researchers analyzing the attacks say that the attack tie it to a China-based hacking group known as “DeepPanda”.
+Security firm CrowdStrike said its researchers unearthed evidence suggesting that the campaign began in mid-March. Their analysis of logs from the malicious infrastructure used in the attacks revealed the IP addresses of visitors to the compromised sites.
+  (adsbygoogle = window.adsbygoogle || []).push({}); The logs showed addresses from 37 different countries, with 71 percent of them in the US, 11 percent in South/Southeast Asia, and 10 percent in Europe.
+Microsoft confirmed the remote code-execution vulnerability on Friday night. Versions 6, 7, 9, and 10 of the browser are immune to these attacks. Microsoft has simply suggested IE8 users upgrade to a newer version for now.
+This is just the latest in a series of so-called “watering hole” attacks targeting government workers and political figures within the U.S. government. In January, a compromise at the website of The Council on Foreign Relations was widely seen as an effort to gain access to influential D.C. policymakers and officials. A similar incident affecting the website of The National Journal was reported in March.
+In watering hole attacks, victims are not attacked directly. Rather, attackers compromise a trusted, third-party website that the intended targets are likely to visit, then launch a silent attack when they visit the site.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<arbitrary_code_execution id="a0" start="1219" end="1225" text="immune" TYPE="USP" />
+<arbitrary_code_execution id="a1" start="1808" end="1818" text="compromise" TYPE="USP" />
+<arbitrary_code_execution id="a2" start="1859" end="1867" text="intended" TYPE="USP" />
+<arbitrary_code_execution id="a3" start="1902" end="1908" text="launch" TYPE="USP" />
+</TAGS>
+</KddTask>

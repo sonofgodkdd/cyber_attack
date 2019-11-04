@@ -1,0 +1,17 @@
+20-Year-Old Man Arrested For Carrying Out Germany's Biggest Data Leak
+Mohit Kumar
+
+German federal police have arrested a 20-year-old local student for stealing and publishing a massive trove of personal data of hundreds of politicians, journalists and other public figures last month.
+The young man, whose identity has not been revealed by the police, was arrested after police raided his parent's house in west-central German State of Hesse on Sunday and recovered a computer that the suspect tried to destroy 2 days before the search and a data backup.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The suspect, who believed to have acted alone, has admitted of carrying out the mass hacking of German politicians out of anger at their political statements, BKA Federal Criminal Police revealed.
+"The accused was interrogated on 07.01.2019 by the senior prosecutor and officials of the Federal Criminal Police Office. He comprehensively acknowledged the allegations against him and provided information on his own offenses," the BKA said in a press release.
+"Due to a lack of grounds for detention, the accused was released in the evening hours of 07.01.2019 and the provisional arrest canceled. The evidence seized as part of the search warrant, in particular computers and data carriers, is currently being fully evaluated."
+Despite not being a computer expert, the man managed to access and leak personal data from about 1,000 people, including Chancellor Merkel, journalists, and politicians from parties currently represented in the federal parliament, including the CDU, CSU, SPD, FDP, Left party (Die Linke) and Greens.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Known on Twitter by the name "G0d," the suspect published private data about German politicians, journalists, and celebrities on Twitter, under the username @_0rbit.
+Telephone numbers, private chats, and letters, some credit card data, addresses and copies of identity cards of victims were all exposed in what believed to be one of the country's biggest data breaches in the history.
+Unlike as initially feared, early evidence suggests no involvement of foreign intelligence or activists for far-right Alternative for Germany (AfD), who was not targeted by the attacker, in the incident.
+Besides German politicians, the intrusive hack attacks also affected well-known actor Til Schweiger, two renowned German comedians, Jan Boehmermann and Christian Ehring, as well as dozens of journalists from ZDF and ARD–public-funded German media outlets.
+Germany is still in the process of removing the exposed data from the Internet, but there are no signs that any information was released that would be considered politically explosive or increase security risks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

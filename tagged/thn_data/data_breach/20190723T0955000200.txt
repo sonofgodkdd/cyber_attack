@@ -1,0 +1,22 @@
+Equifax to Pay up to $700 Million in 2017 Data Breach Settlement
+Wang Wei
+
+Equifax, one of the three largest credit-reporting firms in the United States, has to pay up to $700 million in fines to settle a series of state and federal investigations into the massive 2017 data breach that exposed the personal and financial data of nearly 150 million Americans—that's almost half the country.
+According to an official announcement by the U.S. Federal Trade Commission (FTC) today, Equifax has agreed to pay at least $575 million in fines, but this penalty could rise to up to $700 million depending on the amount of compensation people claim.
+Up to $425 million of the fines will go to a fund that will provide credit monitoring services to affected customers and compensate anyone who bought such services from the company and paid other related expenses as a result of the breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Rest $175 million and $100 million will go to civil penalties across 50 states and to the Consumer Financial Protection Bureau (CFPB), respectively.
+Besides the penalty, the company has also been ordered to provide all American consumers with six free credit reports each year for seven years, along with the one free annual credit report, starting from January 2020.
+In September 2017, Equifax suffered a massive data breach that allowed hackers to steal personal information, including names, birth dates, addresses, social security numbers, and, in some cases, driver's license numbers, of as many as 147 million people.
+The breach, which has been called one of the worst in American history, occurred due to failure of the company to patch a critical security vulnerability in its systems it was made aware of in March that year.
+"Equifax failed to patch its network after being alerted in March 2017 to a critical security vulnerability affecting its ACIS database, which handles inquiries from consumers about their personal credit data," the FTC alleges.
+"Even though Equifax's security team ordered that each of the company's vulnerable systems should be patched within 48 hours after receiving the alert, Equifax did not follow up to ensure the order was carried out by the responsible employees."
+In fact, Equifax did not realize of its unpatched database until July 2017, when its security team detected suspicious traffic on its network, an investigation into the matter revealed that multiple hackers managed to exploit the vulnerability to gain entry to Equifax's network.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Gaining access to Equifax's network allowed hackers to access an unsecured file that included administrative credentials stored in plain text, which eventually let them gain access to consumers' personal data and operate undetected on the company's network for months.
+"Equifax failed to take basic steps that may have prevented the breach that affected approximately 147 million consumers," said FTC Chairman Joe Simons.
+"This settlement requires that the company take steps to improve its data security going forward, and will ensure that consumers harmed by this breach can receive help protecting themselves from identity theft and fraud."
+The FTC has set up a dedicated page on its site to provide information to customers who want to make a claim against Equifax.
+The commission has even set up a dedicated email (equifax@ftc.gov), encouraging Equifax employees to mail FTC if they "believe the company is failing to adhere to its data security promises."
+Last year, the UK's Information Commissioner's Office (ICO) also fined Equifax with £500,000 (over $622,000)—that's the maximum fine allowed by the UK's Data Protection Act 1998—for the 2017 data breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

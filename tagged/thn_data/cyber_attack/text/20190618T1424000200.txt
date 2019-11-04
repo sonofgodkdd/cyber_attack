@@ -1,0 +1,28 @@
+5 Keys to Improve Your Cybersecurity
+The Hacker News
+
+Cybersecurity isn't easy. If there was a product or service you could buy that would just magically solve all of your cybersecurity problems, everyone would buy that thing, and we could all rest easy.
+However, that is not the way it works. Technology continues to evolve. Cyber attackers adapt and develop new malicious tools and techniques, and cybersecurity vendors design creative new ways to detect and block those threats. Rinse and repeat.
+Cybersecurity isn't easy, and there is no magic solution, but there are a handful of things you can do that will greatly reduce your exposure to risk and significantly improve your security posture.
+The right platform, intelligence, and expertise can help you avoid the vast majority of threats, and help you detect and respond more quickly to the attacks that get through.
+Challenges of Cybersecurity
+Effective cybersecurity is challenging for a variety of reasons, but the changing perimeter and the confusing variety of solutions don't help.
+Long ago, during a time that is all but a distant memory by tech standards, cybersecurity was built around a concept of inside vs. outside, and us vs. them. The servers, applications, users, and data inside the network were inherently trusted, and everything outside of the network was assumed to be a potential threat.
+The advent of free public Wi-Fi, portable laptops, mobile devices, and cloud computing have eroded the idea that there is any sort of perimeter, and most attacks leverage valid credentials and appear to be legitimate users, so the old model of defending the perimeter is no longer valid.
+Meanwhile, as new platforms and technologies are developed, cybersecurity vendors inevitably create targeted point solutions for each one.
+The result is a confusing mix of tools and services that protect specific facets of the environment, but don't play well with each other and don't provide a holistic view of the whole infrastructure so you can understand your security posture as a whole.
+The constantly expanding and evolving threat landscape doesn't make it any easier, either. Attacks are increasingly complex and harder to identify or detect—like fileless or "Living off the Land" (LotL) attacks.
+The complexity of the IT infrastructure—particularly in a hybrid or multi-cloud environment—leads to misconfiguration and other human error that exposes the network to unnecessary risk. Attackers are also adopting machine learning and artificial intelligence to automate the process of developing customized attacks and evading detection.
+Improve Your Cybersecurity
+All of that sounds daunting—like cybersecurity is an exercise in futility—but there are things you can do. Keep in mind that your goal is not to be impervious to attack—there is no such thing as perfect cybersecurity.
+The goal is to increase the level of difficulty for an attacker to succeed in compromising your network and to improve your chances of quickly detecting and stopping attacks that occur.
+Here are 5 tips to help you do that:
+Assess your business objectives and unique attack surface — Choose a threat detection method that can address your workloads. For instance, cloud servers spin up and spin down constantly. Your detection must follow the provision and deprovision actions of your cloud platform(s) and collect metadata to follow events as they traverse this dynamic environment. Most SIEMs cannot do this.
+Eliminate vulnerabilities before they need threat detection — Use vulnerability assessments to identify and remove weaknesses before they become exploited. Assess your full application stack, including your code, third party code, and code configurations.
+Align data from multiple sources to enhance your use cases and desired outcomes — Collect and inspect all three kinds of data for suspicious activity: web, log, and network. Each data type has unique strengths in identifying certain kinds of threats and together present a whole picture for greater accuracy and actionable context.
+Use analytics to detect today's sophisticated attacks — ensure your threat detection methods look at both real-time events and patterns in historical events across time. Apply machine learning to find what you do not even know to look for. If you use SIEM, enlist machine learning to see what correlation missed and better tune your SIEM rules.
+Align security objectives to your business demands — There is more than one way to improve your security posture and detect threats. While SIEMs are a traditional approach, they are most useful for organizations that have a well-staffed security program. A SIEM alone is not the best solution for security monitoring against today's web applications and cloud environments.
+5 Recommendations to Strengthen Your Security Program
+Jack Danahy, Senior Vice President, Security for Alert Logic, recently presented a webinar titled "Five Recommendations to Strengthen Your Security Program."
+If you want to learn more about the challenges organizations, face today with cybersecurity, and what you can do to improve your security posture, check out the recording of the webinar.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

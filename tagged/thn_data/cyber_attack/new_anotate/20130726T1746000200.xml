@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Cyber attack hits Istanbul Airport passport control system
+Mohit Kumar
+
+The passport control system at Istanbul Ataturk Airport International departure terminal was under cyber attack on Friday, while another airport in the Turkish largest city was also affected.
+Passengers stood in lines for hours and plane departures were delayed, because cyberattack shutdown passport control systems at two facilities. Later Authorities has restored the systems.
+Few local media said that the passport control system at the Sabiha Gokcen International Airport in Istanbul also broke down due to the malfunction of the Istanbul provincial security directorate's Polnet data system.
+They believe that systems were infected using some malwares, But Authorities also investigating if the malware yielded user details from the infected machines or not.
+No claim of responsibility or blame was attributed to the alleged cyberattack. However, this is another malware attacks been reported, targeting vital infrastructure so far. Cybersecurity has emerged as an emerging threat to national security in the digital age.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<IMPACT.Disrupt id="IM0" start="356" end="364" text="shutdown" TYPE="TRG" />
+<IMPACT.Disrupt id="IM1" start="567" end="577" text="broke down" TYPE="TRG" />
+</TAGS>
+</KddTask>

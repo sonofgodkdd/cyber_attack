@@ -1,0 +1,32 @@
+MS Office Built-In Feature Could be Exploited to Create Self-Replicating Malware
+Swati Khandelwal
+
+Earlier this month a cybersecurity researcher shared details of a security loophole with The Hacker News that affects all versions of Microsoft Office, allowing malicious actors to create and spread macro-based self-replicating malware.
+Macro-based self-replicating malware, which basically allows a macro to write more macros, is not new among hackers, but to prevent such threats, Microsoft has already introduced a security mechanism in MS Office that by default limits this functionality.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Lino Antonio Buono, an Italian security researcher who works at InTheCyber, reported a simple technique (detailed below) that could allow anyone to bypass the security control put in place by Microsoft and create self-replicating malware hidden behind innocent-looking MS Word documents.
+What's Worse? Microsoft refused to consider this issue a security loophole when contacted by the researcher in October this year, saying it's a feature intended to work this way only—just like MS Office DDE feature, which is now actively being used by hackers.
+New 'qkG Ransomware' Found Using Same Self-Spreading Technique
+Interestingly, one such malware is on its way to affect you. I know, that was fast—even before its public disclosure.
+Just yesterday, Trend Micro published a report on a new piece of macro-based self-replicating ransomware, dubbed "qkG," which exploits exactly the same MS office feature that Buono described to our team.
+Trend Micro researchers spotted qkG ransomware samples on VirusTotal uploaded by someone from Vietnam, and they said this ransomware looks "more of an experimental project or a proof of concept (PoC) rather than a malware actively used in the wild."
+The qkG ransomware employs Auto Close VBA macro—a technique that allows executing malicious macro when victim closes the document.
+The latest sample of qkG ransomware now includes a Bitcoin address with a small ransom note demanding $300 in BTC as shown.
+It should be noted that the above-mentioned Bitcoin address hasn't received any payment yet, which apparently means that this ransomware has not yet been used to target people.
+Moreover, this ransomware is currently using the same hard-coded password: "I’m QkG@PTM17! by TNA@MHT-TT2" that unlocks affected files.
+Here's How this New Attack Technique Works
+In order to make us understand the complete attack technique, Buono shared a video with The Hacker News that demonstrates how an MS Word document equipped with malicious VBA code could be used to deliver a self-replicating multi-stage malware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If you are unaware, Microsoft has disabled external (or untrusted) macros by default and to restrict default programmatic access to Office VBA project object model, it also offers users to manually enable "Trust access to the VBA project object model," whenever required.
+With "Trust access to the VBA project object model" setting enabled, MS Office trusts all macros and automatically runs any code without showing security warning or requiring user's permission.
+Buono found that this setting can be enabled/disabled just by editing a Windows registry, eventually enabling the macros to write more macros without user's consent and knowledge.
+As shown in the video, a malicious MS Doc file created by Buono does the same—it first edits the Windows registry and then injects same macro payload (VBA code) into every doc file that the victim creates, edits or just opens on his/her system.
+Victims Will be Unknowingly Responsible for Spreading Malware Further
+In other words, if the victim mistakenly allows the malicious doc file to run macros once, his/her system would remain open to macro-based attacks.
+Moreover, the victim will also be unknowingly responsible for spreading the same malicious code to other users by sharing any infected office files from his/her system.
+This attack technique could be more worrisome when you receive a malicious doc file from a trusted contact who have already been infected with such malware, eventually turning you into its next attack vector for others.
+Although this technique is not being exploited in the wild, the researcher believes it could be exploited to spread dangerous self-replicating malware that could be difficult to deal with and put an end.
+Since this is a legitimate feature, most antivirus solutions do not flag any warning or block MS Office documents with VBA code, neither the tech company has any plans of issuing a patch that would restrict this functionality.
+Buono suggests "In order to (partially) mitigate the vulnerability it is possible to move the AccessVBOM registry key from the HKCU hive to the HKLM, making it editable only by the system administrator."
+The best way to protect yourself from such malware is always to be suspicious of any uninvited documents sent via an email and never click on links inside those documents unless adequately verifying the source.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

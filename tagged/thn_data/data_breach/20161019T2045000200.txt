@@ -1,0 +1,18 @@
+Breaking — Russian Hacker Responsible for LinkedIn Data Breach Arrested by FBI
+Swati Khandelwal
+
+The alleged Russian hacker arrested by the FBI in collaboration with the Czech police is none other than the hacker who was allegedly responsible for massive 2012 data breach at LinkedIn, which affected nearly 117 Million user accounts.
+Yevgeniy N, 29-year-old Russian hacker was arrested in Prague on October 5 suspected of participating in conducting cyber-attacks against the United States, according to Reuters.
+Earlier it was suspected that the hacker could be involved in hacking against the Democratic National Committee (DNC), or its presidential candidate Hillary Clinton, intended to influence the presidential election.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the latest statement released by LinkedIn suggests that the arrest was related to a 2012 data breach at the social network that exposed emails and hashed password of nearly 117 Million users.
+"We are thankful for the hard work and dedication of the FBI in its efforts to locate and capture the parties believed to be responsible for this criminal activity," LinkedIn said in a statement. 
+"Following the 2012 breach of LinkedIn member information, we have remained actively involved with the FBI's case to pursue those responsible."
+Earlier this year, a hacker under the nickname "Peace" put on sale what claimed to be the database of 167 Million emails and hashed passwords, including 117 Million already cracked passwords, belonging to LinkedIn users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But, it is still unclear if the arrested hacker is the same one who was selling LinkedIn data dump on the Dark Web market a few months ago.
+Watch Video of Hacker's Arrest:
+But if it turns out to be the same one, then it would be a jackpot for the FBI because 'Peace' is the hacker who was also responsible for selling data dumps for MySpace, Tumblr, VK.com, and Yahoo! on the dark web marketplace.
+Czech police said that a court would take the decision on the hacker's extradition to the U.S., where he is facing charges for his hacking-related crimes.
+We will update the story as soon as we get official confirmation from the U.S. feds.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

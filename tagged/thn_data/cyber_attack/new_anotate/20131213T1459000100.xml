@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Chinese Hackers spied on European Diplomats during recent G20 meetings
+Mohit Kumar
+Security firm FireEye has released a new report detailing cyber espionage attacks on European Ministries of Foreign Affairs (MFA) during recent G20 meetings by Chinese Hackers.  (adsbygoogle = window.adsbygoogle || []).push({}); According to FireEye's researcher Nart Villeneuve, hackers infiltrated the computer networks of five European foreign ministries by sending emails containing malware files to staff and gained access to their systems to steal credentials and high-value information."We believe that the Ke3chang attackers are operating out of China and have been active since at least 2010,"The cyber espionage campaign named as “Operation Ke3chang” and if the victim will download & open the malware file which disguised itself as files detailing a possible intervention in Syria (US_military_options_in_Syria.pdf.zip), it gets installed on the victim's computer with a backdoor.
+"They have also leveraged a Java zero-day vulnerability (CVE-2012-4681), as well as older, reliable exploits for Microsoft Word (CVE-2010-3333) and Adobe PDF Reader (CVE-2010-2883)." report said.
+Once a compromised system connects to the CnC server, the Ke3chang attackers follow a predetermined script to gather information about the local computer and the network to which it is connected.
+There were almost 23 Command and Control servers used in the Ke3chang campaign, FireEye "gained visibility into one of 23 known command-and-control servers operated by the Ke3chang actor for about a week. During this time, we discovered 21 compromised machines connecting to the CnC server."
+FireEye said:"Large-scale cyber espionage campaigns have demonstrated that government agencies around the world, including embassies, are vulnerable to targeted cyber attacks." Security firm FireEye had been following the hackers behind the Syria-related attack for several years. The complete FireEye report is available on their website, you can read it for detailed information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Spyware id="ATTAC0" start="148" end="165" text="espionage attacks" TYPE="NUG" />
+<ATTACK.Spyware id="ATTAC1" start="372" end="383" text="infiltrated" TYPE="TRG" />
+<ATTACK.Spyware id="ATTAC2" start="445" end="452" text="sending" TYPE="TRG" />
+<ATTACK.Spyware id="ATTAC3" start="498" end="511" text="gained access" TYPE="SUP" />
+<ATTACK.Spyware id="ATTAC5" start="924" end="933" text="installed" TYPE="TRG" />
+<ATTACK.Spyware id="ATTAC6" start="992" end="1002" text="leveraged " TYPE="TRG" />
+<ATTACK.Spyware id="ATTAC7" start="1076" end="1084" text="exploits" TYPE="TRG" />
+<ATTACK.Spyware id="ATTAC8" start="1249" end="1255" text="follow" TYPE="SUP" />
+<ATTACK.Spyware id="ATTAC9" start="1686" end="1711" text="cyber espionage campaigns" TYPE="NUG" />
+<ATTACK.Spyware id="ATTAC10" start="690" end="714" text="cyber espionage campaign" TYPE="NUG" />
+<ATTACK.Spyware id="ATTAC11" start="1812" end="1820" text="targeted" TYPE="TRG" />
+<IMPACT.Breach id="IMPA0" start="532" end="537" text="steal" TYPE="TRG" />
+<IMPACT.Breach id="IMPA1" start="1282" end="1288" text="gather" TYPE="TRG" />
+</TAGS>
+</KddTask>

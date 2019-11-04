@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+February 9, 2012
+Jury convicts Mexican national on cocaine charges
+BROWNSVILLE, Texas - A federal jury has convicted a Mexican national of conspiracy to possess with intent to distribute, possession with intent to distribute, conspiracy to import, as well as importation of cocaine, announced U. S. Attorney Kenneth Magidson on Thursday. The investigation was conducted by U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI).
+Omar Quezada-Alcala, 35, of Matamoros, was found guilty on all four drug counts. At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&M International Bridge Port of Entry in Brownsville, Texas. After meeting with the driver of the loaded vehicle, a controlled delivery of the cocaine was attempted to identify other individuals involved in the conspiracy.
+The controlled delivery was initially attempted at two different locations in Brownsville. At both locations special agents spotted individuals involved in counter-surveillance activities. Eventually, the drop off was set to occur in the K-Mart parking lot near the Sunrise Mall in Brownsville. The cooperating driver made telephone contact with an individual who said he would be picking up the car, and that individual described his clothes. Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened.
+Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot. There, Alcala drove through the rows until he arrived at the vehicle containing the cocaine, where he was arrested by special agents.
+After his arrest, Alcala initially claimed to be a mechanic working on the car, but the van he arrived in had no mechanic's tools in it. Alcala then admitted to working for individuals involved in the drug trade and admitted that he did not know what was in the car; he suspected it contained narcotics, cocaine or weapons. Alcala admitted that he was going to be paid to pick up the car and deliver it to an unknown location and that he had done it before. At the trial, Alcala took the stand and claimed that he was coming to inspect the car and perform necessary mechanic work. Alcala further denied making any statements to HSI special agents.
+Alcala has been in custody since his arrest and will remain in custody pending his sentencing scheduled for May 14. Alcala faces a minimum of 10 years and up to life in prison, a fine of up to $10 million, and up to five years of supervised release.
+Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas, prosecuted the case.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="18" end="22" text="Jury" TYPE="BAR" />
+<person id="p1" start="32" end="48" text="Mexican national" TYPE="BAR" />
+<person id="p2" start="89" end="103" text="A federal jury" TYPE="NOM" />
+<person id="p3" start="118" end="136" text="a Mexican national" TYPE="NOM" />
+<person id="p4" start="294" end="325" text="U. S. Attorney Kenneth Magidson" TYPE="NAM" />
+<person id="p5" start="294" end="308" text="U. S. Attorney" TYPE="NOMPRE" />
+<person id="p6" start="463" end="500" text="Omar Quezada-Alcala, 35, of Matamoros" TYPE="NAM" />
+<person id="p7" start="558" end="564" text="jurors" TYPE="BAR" />
+<person id="p8" start="597" end="615" text="HSI special agents" TYPE="BAR" />
+<person id="p9" start="628" end="767" text="an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" TYPE="NOM" />
+<person id="p10" start="788" end="820" text="the driver of the loaded vehicle" TYPE="NOM" />
+<person id="p11" start="885" end="929" text="other individuals involved in the conspiracy" TYPE="NOM" />
+<person id="p12" start="1063" end="1118" text="individuals involved in counter-surveillance activities" TYPE="BAR" />
+<person id="p13" start="1226" end="1248" text="The cooperating driver" TYPE="NOM" />
+<person id="p14" start="1040" end="1054" text="special agents" TYPE="BAR" />
+<person id="p16" start="1291" end="1294" text="who" TYPE="WHQ" />
+<person id="p17" start="1300" end="1302" text="he" TYPE="PRO" />
+<person id="p18" start="1277" end="1330" text="an individual who said he would be picking up the car" TYPE="NOM" />
+<person id="p19" start="1336" end="1351" text="that individual" TYPE="NOM" />
+<person id="p20" start="1362" end="1365" text="his" TYPE="PRO" />
+<person id="p21" start="1395" end="1405" text="the driver" TYPE="NOM" />
+<person id="p22" start="1415" end="1421" text="Alcala" TYPE="NAM" />
+<person id="p23" start="1468" end="1474" text="Alcala" TYPE="NAM" />
+<person id="p24" start="1602" end="1608" text="Alcala" TYPE="NAM" />
+<person id="p25" start="1638" end="1640" text="he" TYPE="PRO" />
+<person id="p26" start="1694" end="1696" text="he" TYPE="PRO" />
+<person id="p27" start="1713" end="1727" text="special agents" TYPE="BAR" />
+<person id="p15" start="1735" end="1738" text="his" TYPE="PRO" />
+<person id="p28" start="1747" end="1753" text="Alcala" TYPE="NAM" />
+<person id="p29" start="1778" end="1807" text="a mechanic working on the car" TYPE="NOM" />
+<person id="p30" start="1821" end="1823" text="he" TYPE="PRO" />
+<person id="p31" start="1842" end="1850" text="mechanic" TYPE="BAR" />
+<person id="p32" start="1866" end="1872" text="Alcala" TYPE="NAM" />
+<person id="p33" start="1902" end="1940" text="individuals involved in the drug trade" TYPE="BAR" />
+<person id="p34" start="1959" end="1961" text="he" TYPE="PRO" />
+<person id="p35" start="1996" end="1998" text="he" TYPE="PRO" />
+<person id="p36" start="2053" end="2059" text="Alcala" TYPE="NAM" />
+<person id="p37" start="2074" end="2076" text="he" TYPE="PRO" />
+<person id="p38" start="2164" end="2166" text="he" TYPE="PRO" />
+<person id="p39" start="2201" end="2207" text="Alcala" TYPE="NAM" />
+<person id="p40" start="2240" end="2242" text="he" TYPE="PRO" />
+<person id="p41" start="2310" end="2316" text="Alcala" TYPE="NAM" />
+<person id="p42" start="2357" end="2375" text="HSI special agents" TYPE="BAR" />
+<person id="p43" start="2377" end="2383" text="Alcala" TYPE="NAM" />
+<person id="p44" start="2410" end="2413" text="his" TYPE="PRO" />
+<person id="p45" start="2456" end="2459" text="his" TYPE="PRO" />
+<person id="p46" start="2493" end="2499" text="Alcala" TYPE="NAM" />
+<person id="p47" start="2627" end="2716" text="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" TYPE="NAM" />
+<person id="p48" start="2627" end="2716" text="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" TYPE="NAM" />
+<person id="p49" start="2627" end="2652" text="Assistant U. S. Attorneys" TYPE="NOMPRE" />
+<organization id="o0" start="374" end="460" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o1" start="457" end="460" text="HSI" TYPE="NAM" />
+<organization id="o2" start="374" end="421" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o3" start="418" end="421" text="ICE" TYPE="NAM" />
+<organization id="o4" start="597" end="600" text="HSI" TYPE="NAMPRE" />
+<organization id="o5" start="2357" end="2360" text="HSI" TYPE="NAMPRE" />
+<organization id="o6" start="2690" end="2716" text="Southern District of Texas" TYPE="NAM" />
+<geographical-political id="g0" start="32" end="39" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g1" start="68" end="86" text="BROWNSVILLE, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="81" end="86" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="120" end="127" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g4" start="294" end="299" text="U. S." TYPE="NAMPRE" />
+<geographical-political id="g5" start="491" end="500" text="Matamoros" TYPE="NAM" />
+<geographical-political id="g6" start="677" end="694" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="749" end="767" text="Brownsville, Texas" TYPE="NAM" />
+<geographical-political id="g8" start="762" end="767" text="Texas" TYPE="NAM" />
+<geographical-political id="g9" start="1213" end="1224" text="Brownsville" TYPE="NAM" />
+<geographical-political id="g10" start="1009" end="1020" text="Brownsville" TYPE="NAM" />
+<geographical-political id="g11" start="2637" end="2642" text="U. S." TYPE="NAMPRE" />
+<falicity id="f0" start="703" end="767" text="the B&amp;M International Bridge Port of Entry in Brownsville, Texas" TYPE="NAM" />
+<falicity id="f1" start="1193" end="1224" text="the Sunrise Mall in Brownsville" TYPE="NAM" />
+<falicity id="f2" start="1425" end="1466" text="the mall, where the key exchange happened" TYPE="NOM" />
+<falicity id="f3" start="1435" end="1440" text="where" TYPE="WHQ" />
+<falicity id="f4" start="1480" end="1488" text="the mall" TYPE="NOM" />
+<falicity id="f5" start="2546" end="2552" text="prison" TYPE="BAR" />
+<falicity id="f6" start="1165" end="1224" text="the K-Mart parking lot near the Sunrise Mall in Brownsville" TYPE="NOM" />
+<falicity id="f7" start="1506" end="1521" text="the parking lot" TYPE="NOM" />
+<falicity id="f8" start="1571" end="1593" text="the K-Mart parking lot" TYPE="NOM" />
+<falicity id="f9" start="1595" end="1600" text="There" TYPE="PRO" />
+<head id="h0" start="18" end="22" text="Jury" />
+<head id="h1" start="40" end="48" text="national" />
+<head id="h2" start="32" end="39" text="Mexican" />
+<head id="h3" start="68" end="79" text="BROWNSVILLE" />
+<head id="h4" start="81" end="86" text="Texas" />
+<head id="h5" start="99" end="103" text="jury" />
+<head id="h6" start="128" end="136" text="national" />
+<head id="h7" start="120" end="127" text="Mexican" />
+<head id="h8" start="309" end="325" text="Kenneth Magidson" />
+<head id="h9" start="300" end="308" text="Attorney" />
+<head id="h10" start="294" end="299" text="U. S." />
+<head id="h11" start="423" end="455" text="Homeland Security Investigations" />
+<head id="h12" start="457" end="460" text="HSI" />
+<head id="h13" start="374" end="414" text="U.S. Immigration and Customs Enforcement" />
+<head id="h14" start="418" end="421" text="ICE" />
+<head id="h15" start="463" end="482" text="Omar Quezada-Alcala" />
+<head id="h16" start="491" end="500" text="Matamoros" />
+<head id="h17" start="558" end="564" text="jurors" />
+<head id="h18" start="609" end="615" text="agents" />
+<head id="h19" start="597" end="600" text="HSI" />
+<head id="h20" start="631" end="641" text="individual" />
+<head id="h21" start="681" end="694" text="United States" />
+<head id="h22" start="707" end="745" text="B&amp;M International Bridge Port of Entry" />
+<head id="h23" start="749" end="760" text="Brownsville" />
+<head id="h24" start="762" end="767" text="Texas" />
+<head id="h25" start="792" end="798" text="driver" />
+<head id="h26" start="891" end="902" text="individuals" />
+<head id="h27" start="1063" end="1074" text="individuals" />
+<head id="h28" start="1184" end="1187" text="lot" />
+<head id="h29" start="1197" end="1209" text="Sunrise Mall" />
+<head id="h30" start="1213" end="1224" text="Brownsville" />
+<head id="h31" start="1242" end="1248" text="driver" />
+<head id="h32" start="1009" end="1020" text="Brownsville" />
+<head id="h33" start="1048" end="1054" text="agents" />
+<head id="h34" start="1280" end="1290" text="individual" />
+<head id="h35" start="1291" end="1294" text="who" />
+<head id="h36" start="1300" end="1302" text="he" />
+<head id="h37" start="1341" end="1351" text="individual" />
+<head id="h38" start="1362" end="1365" text="his" />
+<head id="h39" start="1399" end="1405" text="driver" />
+<head id="h40" start="1415" end="1421" text="Alcala" />
+<head id="h41" start="1429" end="1433" text="mall" />
+<head id="h42" start="1435" end="1440" text="where" />
+<head id="h43" start="1468" end="1474" text="Alcala" />
+<head id="h44" start="1484" end="1488" text="mall" />
+<head id="h45" start="1518" end="1521" text="lot" />
+<head id="h46" start="1590" end="1593" text="lot" />
+<head id="h47" start="1595" end="1600" text="There" />
+<head id="h48" start="1602" end="1608" text="Alcala" />
+<head id="h49" start="1638" end="1640" text="he" />
+<head id="h50" start="1694" end="1696" text="he" />
+<head id="h51" start="1721" end="1727" text="agents" />
+<head id="h52" start="1735" end="1738" text="his" />
+<head id="h53" start="1747" end="1753" text="Alcala" />
+<head id="h54" start="1780" end="1788" text="mechanic" />
+<head id="h55" start="1821" end="1823" text="he" />
+<head id="h56" start="1842" end="1850" text="mechanic" />
+<head id="h57" start="1866" end="1872" text="Alcala" />
+<head id="h58" start="1902" end="1913" text="individuals" />
+<head id="h59" start="1959" end="1961" text="he" />
+<head id="h60" start="1996" end="1998" text="he" />
+<head id="h61" start="2053" end="2059" text="Alcala" />
+<head id="h62" start="2074" end="2076" text="he" />
+<head id="h63" start="2164" end="2166" text="he" />
+<head id="h64" start="2201" end="2207" text="Alcala" />
+<head id="h65" start="2240" end="2242" text="he" />
+<head id="h66" start="2310" end="2316" text="Alcala" />
+<head id="h67" start="2369" end="2375" text="agents" />
+<head id="h68" start="2357" end="2360" text="HSI" />
+<head id="h69" start="2377" end="2383" text="Alcala" />
+<head id="h70" start="2410" end="2413" text="his" />
+<head id="h71" start="2456" end="2459" text="his" />
+<head id="h72" start="2493" end="2499" text="Alcala" />
+<head id="h73" start="2546" end="2552" text="prison" />
+<head id="h74" start="2653" end="2667" text="Joseph Leonard" />
+<head id="h75" start="2672" end="2688" text="David Lindenmuth" />
+<head id="h76" start="2643" end="2652" text="Attorneys" />
+<head id="h77" start="2637" end="2642" text="U. S." />
+<head id="h78" start="2690" end="2716" text="Southern District of Texas" />
+<name id="n0" start="32" end="39" text="Mexican" />
+<name id="n1" start="68" end="79" text="BROWNSVILLE" />
+<name id="n2" start="81" end="86" text="Texas" />
+<name id="n3" start="120" end="127" text="Mexican" />
+<name id="n4" start="309" end="325" text="Kenneth Magidson" />
+<name id="n5" start="294" end="299" text="U. S." />
+<name id="n6" start="423" end="455" text="Homeland Security Investigations" />
+<name id="n7" start="457" end="460" text="HSI" />
+<name id="n8" start="374" end="414" text="U.S. Immigration and Customs Enforcement" />
+<name id="n9" start="418" end="421" text="ICE" />
+<name id="n10" start="463" end="482" text="Omar Quezada-Alcala" />
+<name id="n11" start="491" end="500" text="Matamoros" />
+<name id="n12" start="597" end="600" text="HSI" />
+<name id="n13" start="681" end="694" text="United States" />
+<name id="n14" start="707" end="745" text="B&amp;M International Bridge Port of Entry" />
+<name id="n15" start="749" end="760" text="Brownsville" />
+<name id="n16" start="762" end="767" text="Texas" />
+<name id="n17" start="1197" end="1209" text="Sunrise Mall" />
+<name id="n18" start="1213" end="1224" text="Brownsville" />
+<name id="n19" start="1009" end="1020" text="Brownsville" />
+<name id="n20" start="1415" end="1421" text="Alcala" />
+<name id="n21" start="1468" end="1474" text="Alcala" />
+<name id="n22" start="1602" end="1608" text="Alcala" />
+<name id="n23" start="1747" end="1753" text="Alcala" />
+<name id="n24" start="1866" end="1872" text="Alcala" />
+<name id="n25" start="2053" end="2059" text="Alcala" />
+<name id="n26" start="2201" end="2207" text="Alcala" />
+<name id="n27" start="2310" end="2316" text="Alcala" />
+<name id="n28" start="2357" end="2360" text="HSI" />
+<name id="n29" start="2377" end="2383" text="Alcala" />
+<name id="n30" start="2493" end="2499" text="Alcala" />
+<name id="n31" start="2653" end="2667" text="Joseph Leonard" />
+<name id="n32" start="2672" end="2688" text="David Lindenmuth" />
+<name id="n33" start="2637" end="2642" text="U. S." />
+<name id="n34" start="2690" end="2716" text="Southern District of Texas" />
+<located-mention id="lo2" start="544" end="767" text="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" TYPE="Other" />
+<located-mention id="lo3" start="544" end="767" text="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" TYPE="Other" />
+<located-mention id="lo4" start="1375" end="1466" text="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" TYPE="Other" />
+<located-mention id="lo5" start="1375" end="1466" text="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" TYPE="Other" />
+<located-mention id="lo6" start="1468" end="1593" text="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" TYPE="Verbal" />
+<located-mention id="lo7" start="1468" end="1593" text="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" TYPE="Other" />
+<located-mention id="lo8" start="1595" end="1727" text="There, Alcala drove through the rows until he arrived at the vehicle containing the cocaine, where he was arrested by special agents" TYPE="Other" />
+<employment-mention id="e0" start="294" end="308" text="U. S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="2627" end="2652" text="Assistant U. S. Attorneys" TYPE="PreMod" />
+<CRRE id="C0" start="32" end="48" text="Mexican national" TYPE="PreMod" />
+<CRRE id="C1" start="118" end="136" text="a Mexican national" TYPE="PreMod" />
+<CRRE id="C2" start="463" end="500" text="Omar Quezada-Alcala, 35, of Matamoros" TYPE="Preposition" />
+<M id="M0" start="597" end="615" text="HSI special agents" TYPE="PreMod" />
+<M id="M1" start="2357" end="2375" text="HSI special agents" TYPE="PreMod" />
+<M id="M2" start="2627" end="2716" text="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" TYPE="Formulaic" />
+<M id="M3" start="2627" end="2716" text="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" TYPE="Formulaic" />
+<entity_link id="en0" fromID="p2" fromText="A federal jury" toID="p0" toText="Jury" />
+<entity_link id="en1" fromID="p3" fromText="a Mexican national" toID="p1" toText="Mexican national" />
+<entity_link id="en2" fromID="g3" fromText="Mexican" toID="g0" toText="Mexican" />
+<entity_link id="en3" fromID="p5" fromText="U. S. Attorney" toID="p4" toText="U. S. Attorney Kenneth Magidson" />
+<entity_link id="en4" fromID="o1" fromText="HSI" toID="o0" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en5" fromID="o3" fromText="ICE" toID="o2" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en6" fromID="p6" fromText="Omar Quezada-Alcala, 35, of Matamoros" toID="p3" toText="a Mexican national" />
+<entity_link id="en7" fromID="o4" fromText="HSI" toID="o1" toText="HSI" />
+<entity_link id="en9" fromID="g7" fromText="Brownsville, Texas" toID="g1" toText="BROWNSVILLE, Texas" />
+<entity_link id="en10" fromID="g8" fromText="Texas" toID="g2" toText="Texas" />
+<entity_link id="en11" fromID="g9" fromText="Brownsville" toID="g7" toText="Brownsville, Texas" />
+<entity_link id="en12" fromID="p13" fromText="The cooperating driver" toID="p10" toText="the driver of the loaded vehicle" />
+<entity_link id="en13" fromID="p10" fromText="the driver of the loaded vehicle" toID="p9" toText="an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" />
+<entity_link id="en14" fromID="g10" fromText="Brownsville" toID="g7" toText="Brownsville, Texas" />
+<entity_link id="en15" fromID="p14" fromText="special agents" toID="p8" toText="HSI special agents" />
+<entity_link id="en18" fromID="p16" fromText="who" toID="p18" toText="an individual who said he would be picking up the car" />
+<entity_link id="en19" fromID="p17" fromText="he" toID="p18" toText="an individual who said he would be picking up the car" />
+<entity_link id="en20" fromID="p19" fromText="that individual" toID="p18" toText="an individual who said he would be picking up the car" />
+<entity_link id="en21" fromID="p20" fromText="his" toID="p19" toText="that individual" />
+<entity_link id="en22" fromID="p18" fromText="an individual who said he would be picking up the car" toID="p6" toText="Omar Quezada-Alcala, 35, of Matamoros" />
+<entity_link id="en23" fromID="p21" fromText="the driver" toID="p13" toText="The cooperating driver" />
+<entity_link id="en24" fromID="p22" fromText="Alcala" toID="p18" toText="an individual who said he would be picking up the car" />
+<entity_link id="en25" fromID="f2" fromText="the mall, where the key exchange happened" toID="f1" toText="the Sunrise Mall in Brownsville" />
+<entity_link id="en26" fromID="f3" fromText="where" toID="f2" toText="the mall, where the key exchange happened" />
+<entity_link id="en27" fromID="p23" fromText="Alcala" toID="p22" toText="Alcala" />
+<entity_link id="en28" fromID="f4" fromText="the mall" toID="f2" toText="the mall, where the key exchange happened" />
+<entity_link id="en29" fromID="f7" fromText="the parking lot" toID="f6" toText="the K-Mart parking lot near the Sunrise Mall in Brownsville" />
+<entity_link id="en30" fromID="f8" fromText="the K-Mart parking lot" toID="f7" toText="the parking lot" />
+<entity_link id="en31" fromID="f9" fromText="There" toID="f8" toText="the K-Mart parking lot" />
+<entity_link id="en32" fromID="p24" fromText="Alcala" toID="p23" toText="Alcala" />
+<entity_link id="en33" fromID="p25" fromText="he" toID="p24" toText="Alcala" />
+<entity_link id="en34" fromID="p26" fromText="he" toID="p24" toText="Alcala" />
+<entity_link id="en35" fromID="p27" fromText="special agents" toID="p14" toText="special agents" />
+<entity_link id="en8" fromID="p28" fromText="Alcala" toID="p24" toText="Alcala" />
+<entity_link id="en16" fromID="p15" fromText="his" toID="p28" toText="Alcala" />
+<entity_link id="en17" fromID="p29" fromText="a mechanic working on the car" toID="p28" toText="Alcala" />
+<entity_link id="en36" fromID="p30" fromText="he" toID="p28" toText="Alcala" />
+<entity_link id="en37" fromID="p32" fromText="Alcala" toID="p28" toText="Alcala" />
+<entity_link id="en38" fromID="p34" fromText="he" toID="p32" toText="Alcala" />
+<entity_link id="en39" fromID="p35" fromText="he" toID="p32" toText="Alcala" />
+<entity_link id="en40" fromID="p36" fromText="Alcala" toID="p32" toText="Alcala" />
+<entity_link id="en41" fromID="p37" fromText="he" toID="p36" toText="Alcala" />
+<entity_link id="en42" fromID="p38" fromText="he" toID="p36" toText="Alcala" />
+<entity_link id="en43" fromID="p39" fromText="Alcala" toID="p36" toText="Alcala" />
+<entity_link id="en44" fromID="p40" fromText="he" toID="p39" toText="Alcala" />
+<entity_link id="en45" fromID="p41" fromText="Alcala" toID="p39" toText="Alcala" />
+<entity_link id="en46" fromID="p42" fromText="HSI special agents" toID="p8" toText="HSI special agents" />
+<entity_link id="en47" fromID="o5" fromText="HSI" toID="o4" toText="HSI" />
+<entity_link id="en48" fromID="p43" fromText="Alcala" toID="p41" toText="Alcala" />
+<entity_link id="en49" fromID="p44" fromText="his" toID="p43" toText="Alcala" />
+<entity_link id="en50" fromID="p45" fromText="his" toID="p43" toText="Alcala" />
+<entity_link id="en51" fromID="p46" fromText="Alcala" toID="p43" toText="Alcala" />
+<entity_link id="en52" fromID="g6" fromText="the United States" toID="g4" toText="U. S." />
+<entity_link id="en53" fromID="g11" fromText="U. S." toID="g6" toText="the United States" />
+<head_link id="he0" fromID="p0" fromText="Jury" toID="h0" toText="Jury" />
+<head_link id="he1" fromID="p1" fromText="Mexican national" toID="h1" toText="national" />
+<head_link id="he2" fromID="g0" fromText="Mexican" toID="h2" toText="Mexican" />
+<head_link id="he3" fromID="g1" fromText="BROWNSVILLE, Texas" toID="h3" toText="BROWNSVILLE" />
+<head_link id="he4" fromID="g2" fromText="Texas" toID="h4" toText="Texas" />
+<head_link id="he5" fromID="p2" fromText="A federal jury" toID="h5" toText="jury" />
+<head_link id="he6" fromID="p3" fromText="a Mexican national" toID="h6" toText="national" />
+<head_link id="he7" fromID="g3" fromText="Mexican" toID="h7" toText="Mexican" />
+<head_link id="he8" fromID="p4" fromText="U. S. Attorney Kenneth Magidson" toID="h8" toText="Kenneth Magidson" />
+<head_link id="he9" fromID="p5" fromText="U. S. Attorney" toID="h9" toText="Attorney" />
+<head_link id="he10" fromID="g4" fromText="U. S." toID="h10" toText="U. S." />
+<head_link id="he11" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h11" toText="Homeland Security Investigations" />
+<head_link id="he12" fromID="o1" fromText="HSI" toID="h12" toText="HSI" />
+<head_link id="he13" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h13" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he14" fromID="o3" fromText="ICE" toID="h14" toText="ICE" />
+<head_link id="he15" fromID="p6" fromText="Omar Quezada-Alcala, 35, of Matamoros" toID="h15" toText="Omar Quezada-Alcala" />
+<head_link id="he16" fromID="g5" fromText="Matamoros" toID="h16" toText="Matamoros" />
+<head_link id="he17" fromID="p7" fromText="jurors" toID="h17" toText="jurors" />
+<head_link id="he18" fromID="p8" fromText="HSI special agents" toID="h18" toText="agents" />
+<head_link id="he19" fromID="o4" fromText="HSI" toID="h19" toText="HSI" />
+<head_link id="he20" fromID="p9" fromText="an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="h20" toText="individual" />
+<head_link id="he21" fromID="g6" fromText="the United States" toID="h21" toText="United States" />
+<head_link id="he22" fromID="f0" fromText="the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="h22" toText="B&amp;M International Bridge Port of Entry" />
+<head_link id="he23" fromID="g7" fromText="Brownsville, Texas" toID="h23" toText="Brownsville" />
+<head_link id="he24" fromID="g8" fromText="Texas" toID="h24" toText="Texas" />
+<head_link id="he25" fromID="p10" fromText="the driver of the loaded vehicle" toID="h25" toText="driver" />
+<head_link id="he26" fromID="p11" fromText="other individuals involved in the conspiracy" toID="h26" toText="individuals" />
+<head_link id="he27" fromID="p12" fromText="individuals involved in counter-surveillance activities" toID="h27" toText="individuals" />
+<head_link id="he28" fromID="f6" fromText="the K-Mart parking lot near the Sunrise Mall in Brownsville" toID="h28" toText="lot" />
+<head_link id="he29" fromID="f1" fromText="the Sunrise Mall in Brownsville" toID="h29" toText="Sunrise Mall" />
+<head_link id="he30" fromID="g9" fromText="Brownsville" toID="h30" toText="Brownsville" />
+<head_link id="he31" fromID="p13" fromText="The cooperating driver" toID="h31" toText="driver" />
+<head_link id="he32" fromID="g10" fromText="Brownsville" toID="h32" toText="Brownsville" />
+<head_link id="he33" fromID="p14" fromText="special agents" toID="h33" toText="agents" />
+<head_link id="he35" fromID="p16" fromText="who" toID="h35" toText="who" />
+<head_link id="he36" fromID="p17" fromText="he" toID="h36" toText="he" />
+<head_link id="he37" fromID="p18" fromText="an individual who said he would be picking up the car" toID="h34" toText="individual" />
+<head_link id="he38" fromID="p19" fromText="that individual" toID="h37" toText="individual" />
+<head_link id="he39" fromID="p20" fromText="his" toID="h38" toText="his" />
+<head_link id="he40" fromID="p21" fromText="the driver" toID="h39" toText="driver" />
+<head_link id="he41" fromID="p22" fromText="Alcala" toID="h40" toText="Alcala" />
+<head_link id="he42" fromID="f2" fromText="the mall, where the key exchange happened" toID="h41" toText="mall" />
+<head_link id="he43" fromID="f3" fromText="where" toID="h42" toText="where" />
+<head_link id="he44" fromID="p23" fromText="Alcala" toID="h43" toText="Alcala" />
+<head_link id="he45" fromID="f4" fromText="the mall" toID="h44" toText="mall" />
+<head_link id="he46" fromID="f7" fromText="the parking lot" toID="h45" toText="lot" />
+<head_link id="he47" fromID="f8" fromText="the K-Mart parking lot" toID="h46" toText="lot" />
+<head_link id="he48" fromID="f9" fromText="There" toID="h47" toText="There" />
+<head_link id="he49" fromID="p24" fromText="Alcala" toID="h48" toText="Alcala" />
+<head_link id="he50" fromID="p25" fromText="he" toID="h49" toText="he" />
+<head_link id="he51" fromID="p26" fromText="he" toID="h50" toText="he" />
+<head_link id="he52" fromID="p27" fromText="special agents" toID="h51" toText="agents" />
+<head_link id="he34" fromID="p15" fromText="his" toID="h52" toText="his" />
+<head_link id="he53" fromID="p28" fromText="Alcala" toID="h53" toText="Alcala" />
+<head_link id="he54" fromID="p29" fromText="a mechanic working on the car" toID="h54" toText="mechanic" />
+<head_link id="he55" fromID="p30" fromText="he" toID="h55" toText="he" />
+<head_link id="he56" fromID="p31" fromText="mechanic" toID="h56" toText="mechanic" />
+<head_link id="he57" fromID="p32" fromText="Alcala" toID="h57" toText="Alcala" />
+<head_link id="he58" fromID="p33" fromText="individuals involved in the drug trade" toID="h58" toText="individuals" />
+<head_link id="he59" fromID="p34" fromText="he" toID="h59" toText="he" />
+<head_link id="he60" fromID="p35" fromText="he" toID="h60" toText="he" />
+<head_link id="he61" fromID="p36" fromText="Alcala" toID="h61" toText="Alcala" />
+<head_link id="he62" fromID="p37" fromText="he" toID="h62" toText="he" />
+<head_link id="he63" fromID="p38" fromText="he" toID="h63" toText="he" />
+<head_link id="he64" fromID="p39" fromText="Alcala" toID="h64" toText="Alcala" />
+<head_link id="he65" fromID="p40" fromText="he" toID="h65" toText="he" />
+<head_link id="he66" fromID="p41" fromText="Alcala" toID="h66" toText="Alcala" />
+<head_link id="he67" fromID="p42" fromText="HSI special agents" toID="h67" toText="agents" />
+<head_link id="he68" fromID="o5" fromText="HSI" toID="h68" toText="HSI" />
+<head_link id="he69" fromID="p43" fromText="Alcala" toID="h69" toText="Alcala" />
+<head_link id="he70" fromID="p44" fromText="his" toID="h70" toText="his" />
+<head_link id="he71" fromID="p45" fromText="his" toID="h71" toText="his" />
+<head_link id="he72" fromID="p46" fromText="Alcala" toID="h72" toText="Alcala" />
+<head_link id="he73" fromID="f5" fromText="prison" toID="h73" toText="prison" />
+<head_link id="he74" fromID="p47" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="h74" toText="Joseph Leonard" />
+<head_link id="he75" fromID="p48" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="h75" toText="David Lindenmuth" />
+<head_link id="he76" fromID="p49" fromText="Assistant U. S. Attorneys" toID="h76" toText="Attorneys" />
+<head_link id="he77" fromID="g11" fromText="U. S." toID="h77" toText="U. S." />
+<head_link id="he78" fromID="o6" fromText="Southern District of Texas" toID="h78" toText="Southern District of Texas" />
+<name_link id="na0" fromID="g0" fromText="Mexican" toID="n0" toText="Mexican" />
+<name_link id="na1" fromID="g1" fromText="BROWNSVILLE, Texas" toID="n1" toText="BROWNSVILLE" />
+<name_link id="na2" fromID="g2" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="g3" fromText="Mexican" toID="n3" toText="Mexican" />
+<name_link id="na4" fromID="p4" fromText="U. S. Attorney Kenneth Magidson" toID="n4" toText="Kenneth Magidson" />
+<name_link id="na5" fromID="g4" fromText="U. S." toID="n5" toText="U. S." />
+<name_link id="na6" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n6" toText="Homeland Security Investigations" />
+<name_link id="na7" fromID="o1" fromText="HSI" toID="n7" toText="HSI" />
+<name_link id="na8" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n8" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na9" fromID="o3" fromText="ICE" toID="n9" toText="ICE" />
+<name_link id="na10" fromID="p6" fromText="Omar Quezada-Alcala, 35, of Matamoros" toID="n10" toText="Omar Quezada-Alcala" />
+<name_link id="na11" fromID="g5" fromText="Matamoros" toID="n11" toText="Matamoros" />
+<name_link id="na12" fromID="o4" fromText="HSI" toID="n12" toText="HSI" />
+<name_link id="na13" fromID="g6" fromText="the United States" toID="n13" toText="United States" />
+<name_link id="na14" fromID="f0" fromText="the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="n14" toText="B&amp;M International Bridge Port of Entry" />
+<name_link id="na15" fromID="g7" fromText="Brownsville, Texas" toID="n15" toText="Brownsville" />
+<name_link id="na16" fromID="g8" fromText="Texas" toID="n16" toText="Texas" />
+<name_link id="na17" fromID="f1" fromText="the Sunrise Mall in Brownsville" toID="n17" toText="Sunrise Mall" />
+<name_link id="na18" fromID="g9" fromText="Brownsville" toID="n18" toText="Brownsville" />
+<name_link id="na19" fromID="g10" fromText="Brownsville" toID="n19" toText="Brownsville" />
+<name_link id="na20" fromID="p22" fromText="Alcala" toID="n20" toText="Alcala" />
+<name_link id="na21" fromID="p23" fromText="Alcala" toID="n21" toText="Alcala" />
+<name_link id="na22" fromID="p24" fromText="Alcala" toID="n22" toText="Alcala" />
+<name_link id="na23" fromID="p28" fromText="Alcala" toID="n23" toText="Alcala" />
+<name_link id="na24" fromID="p32" fromText="Alcala" toID="n24" toText="Alcala" />
+<name_link id="na25" fromID="p36" fromText="Alcala" toID="n25" toText="Alcala" />
+<name_link id="na26" fromID="p39" fromText="Alcala" toID="n26" toText="Alcala" />
+<name_link id="na27" fromID="p41" fromText="Alcala" toID="n27" toText="Alcala" />
+<name_link id="na28" fromID="o5" fromText="HSI" toID="n28" toText="HSI" />
+<name_link id="na29" fromID="p43" fromText="Alcala" toID="n29" toText="Alcala" />
+<name_link id="na30" fromID="p46" fromText="Alcala" toID="n30" toText="Alcala" />
+<name_link id="na31" fromID="p47" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="n31" toText="Joseph Leonard" />
+<name_link id="na32" fromID="p48" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="n32" toText="David Lindenmuth" />
+<name_link id="na33" fromID="g11" fromText="U. S." toID="n33" toText="U. S." />
+<name_link id="na34" fromID="o6" fromText="Southern District of Texas" toID="n34" toText="Southern District of Texas" />
+<relation_link1 id="r0" fromID="C0" fromText="Mexican national" toID="p1" toText="Mexican national" />
+<relation_link1 id="r1" fromID="C1" fromText="a Mexican national" toID="p3" toText="a Mexican national" />
+<relation_link1 id="r2" fromID="e0" fromText="U. S. Attorney" toID="p5" toText="U. S. Attorney" />
+<relation_link1 id="r3" fromID="C2" fromText="Omar Quezada-Alcala, 35, of Matamoros" toID="p6" toText="Omar Quezada-Alcala, 35, of Matamoros" />
+<relation_link1 id="r4" fromID="M0" fromText="HSI special agents" toID="p8" toText="HSI special agents" />
+<relation_link1 id="r5" fromID="lo2" fromText="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="p9" toText="an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" />
+<relation_link1 id="r6" fromID="lo3" fromText="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="p9" toText="an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" />
+<relation_link1 id="r7" fromID="lo4" fromText="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" toID="p21" toText="the driver" />
+<relation_link1 id="r8" fromID="lo5" fromText="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" toID="p22" toText="Alcala" />
+<relation_link1 id="r9" fromID="lo6" fromText="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" toID="p23" toText="Alcala" />
+<relation_link1 id="r10" fromID="lo7" fromText="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" toID="p23" toText="Alcala" />
+<relation_link1 id="r11" fromID="lo8" fromText="There, Alcala drove through the rows until he arrived at the vehicle containing the cocaine, where he was arrested by special agents" toID="p24" toText="Alcala" />
+<relation_link1 id="r12" fromID="M1" fromText="HSI special agents" toID="p42" toText="HSI special agents" />
+<relation_link1 id="r13" fromID="e1" fromText="Assistant U. S. Attorneys" toID="p49" toText="Assistant U. S. Attorneys" />
+<relation_link1 id="r14" fromID="M2" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="p47" toText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" />
+<relation_link1 id="r15" fromID="M3" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="p48" toText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" />
+<relation_link2 id="re0" fromID="C0" fromText="Mexican national" toID="g0" toText="Mexican" />
+<relation_link2 id="re1" fromID="C1" fromText="a Mexican national" toID="g3" toText="Mexican" />
+<relation_link2 id="re2" fromID="e0" fromText="U. S. Attorney" toID="g4" toText="U. S." />
+<relation_link2 id="re3" fromID="C2" fromText="Omar Quezada-Alcala, 35, of Matamoros" toID="g5" toText="Matamoros" />
+<relation_link2 id="re4" fromID="M0" fromText="HSI special agents" toID="o4" toText="HSI" />
+<relation_link2 id="re5" fromID="lo2" fromText="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="g6" toText="the United States" />
+<relation_link2 id="re6" fromID="lo3" fromText="At the trial, jurors heard testimony that on May 13, HSI special agents encountered an individual attempting to smuggle cocaine into the United States through the B&amp;M International Bridge Port of Entry in Brownsville, Texas" toID="f0" toText="the B&amp;M International Bridge Port of Entry in Brownsville, Texas" />
+<relation_link2 id="re7" fromID="lo4" fromText="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" toID="f2" toText="the mall, where the key exchange happened" />
+<relation_link2 id="re8" fromID="lo5" fromText="Shortly afterwards, the driver met with Alcala at the mall, where the key exchange happened" toID="f2" toText="the mall, where the key exchange happened" />
+<relation_link2 id="re9" fromID="lo6" fromText="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" toID="f4" toText="the mall" />
+<relation_link2 id="re10" fromID="lo7" fromText="Alcala left the mall and drove around the parking lot, headed south, and then turned north to drive to the K-Mart parking lot" toID="f8" toText="the K-Mart parking lot" />
+<relation_link2 id="re11" fromID="lo8" fromText="There, Alcala drove through the rows until he arrived at the vehicle containing the cocaine, where he was arrested by special agents" toID="f9" toText="There" />
+<relation_link2 id="re12" fromID="M1" fromText="HSI special agents" toID="o5" toText="HSI" />
+<relation_link2 id="re13" fromID="e1" fromText="Assistant U. S. Attorneys" toID="g11" toText="U. S." />
+<relation_link2 id="re14" fromID="M2" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="o6" toText="Southern District of Texas" />
+<relation_link2 id="re15" fromID="M3" fromText="Assistant U. S. Attorneys Joseph Leonard and David Lindenmuth, Southern District of Texas" toID="o6" toText="Southern District of Texas" />
+</TAGS>
+</KddTask>

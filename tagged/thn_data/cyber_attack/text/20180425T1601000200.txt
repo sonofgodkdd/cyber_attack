@@ -1,0 +1,18 @@
+Police Shut Down World's Biggest 'DDoS-for-Hire' Service–Admins Arrested
+Mohit Kumar
+
+In a major hit against international cybercriminals, the Dutch police have taken down the world's biggest DDoS-for-hire service that helped cyber criminals launch over 4 million attacks and arrested its administrators.
+An operation led by the UK's National Crime Agency (NCA) and the Dutch Police, dubbed "Power Off," with the support of Europol and a dozen other law enforcement agencies, resulted in the arrest of 6 members of the group behind the "webstresser.org" website in Scotland, Croatia, Canada and Serbia on Tuesday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+With over 136,000 registered users, Webstresser website lets its customers rent the service for about £10 to launch Distributed Denial of Service (DDoS) attacks against their targets with little or no technical knowledge.
+"With webstresser.org, any registered user could pay a nominal fee using online payment systems or cryptocurrencies to rent out the use of stressers and booters," Europol said.
+The service was also responsible for cyber attacks against seven of the UK's biggest banks in November last year, as well as government institutions and gaming industry.
+"It's a growing problem, and one we take very seriously. Criminals are very good at collaborating, victimizing millions of users in a moment from anywhere in the world," said Steven Wilson, Head of Europol’s European Cybercrime Centre (EC3).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Webstresser site has now been shut down, and its infrastructure has been seized in the Netherlands, Germany, and the United States. The site has been replaced with a page announcing that law enforcement authorities had taken the service offline.
+"As part of the operational activity, an address was identified and searched in Bradford and a number of items seized," NCA said.
+Moreover, the authorities have also taken against the top users of this marketplace in the Netherlands, Italy, Spain, Croatia, the United Kingdom, Australia, Canada and Hong Kong, Europol announced.
+The Dutch police said the Operation Power Off should send a clear warning to users of sites like webstresser.
+"Don't do it," Gert Ras, head of the Dutch police's High Tech Crime unit, said. "By tracking down the DDoS service you use, we strip you of your anonymity, hand you a criminal record and put your victims in a position to claim back damages from you."
+The police also reminded people that DDoSing is a crime, for which the "penalties can be severe." If you conduct a DDoS attack, or make, supply or obtain stresser or booter services, you could end up in prison, and fine or both.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

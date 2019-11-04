@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry
+(Tuesday, May 05, 2009)
+Laredo, Texas  - U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend encountered some detergent boxes that were "green"-not for their low environmental impact, but for their hidden contents-$302,875 in undeclared currency.
+$302,875 in undeclared currency was seized in a joint effort between officers and agents.
+The seizure occurred shortly after 3 p.m. on Saturday, May 2, at the Lincoln-Juarez Bridge. Border Patrol agents and CBP officers conducting southbound inspections referred a 2001 Chevy Suburban driven by a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico, for a secondary examination. The driver gave a negative declaration for currency in excess of $10,000, weapons or ammunition. During an inspection of groceries in the vehicle, CBP Currency Canine, Aras, alerted to the odor of currency emanating from three boxes of detergent. A non-intrusive imaging system scan indicated anomalies within the three boxes. A closer visual inspection of the boxes revealed 12 bags of U.S. currency. The bags contained a total of $302,875 in undeclared U.S. currency. No immediate arrest was made, but an investigation by U.S. Immigration and Customs Enforcement special agents continues. CBP officers seized the vehicle.
+"The coordinated work of CBP officers and Border Patrol agents in this significant seizure shows the true impact that these enhanced outbound inspection operations can and continue to have," said Gene Garza, CBP Port Director, Laredo. "So far this fiscal year, more than $10 million in undeclared currency has been seized at the Laredo Port of Entry compared to about $3.2 million at the same time last year."
+Individuals are permitted to carry any amount of currency or monetary instruments into or out of the U.S. However, if the quantity is $10,000 or higher, they must formally report the currency to CBP. Failure to declare may result in seizure of the currency and
+or arrest. An individual may petition for the return of currency seized by CBP officers, but the petitioner must prove that the source and intended use of the currency was legitimate.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="13" text="CBP Officers" TYPE="BAR" />
+<person id="p1" start="15" end="35" text="Border Patrol Agents" TYPE="BAR" />
+<person id="p4" start="165" end="277" text="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" TYPE="BAR" />
+<person id="p5" start="165" end="277" text="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" TYPE="BAR" />
+<person id="p6" start="501" end="509" text="officers" TYPE="BAR" />
+<person id="p7" start="514" end="520" text="agents" TYPE="BAR" />
+<person id="p8" start="614" end="685" text="Border Patrol agents and CBP officers conducting southbound inspections" TYPE="BAR" />
+<person id="p9" start="614" end="685" text="Border Patrol agents and CBP officers conducting southbound inspections" TYPE="BAR" />
+<person id="p10" start="727" end="795" text="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" TYPE="NOM" />
+<person id="p11" start="826" end="836" text="The driver" TYPE="NOM" />
+<person id="p12" start="1350" end="1405" text="U.S. Immigration and Customs Enforcement special agents" TYPE="BAR" />
+<person id="p13" start="1417" end="1429" text="CBP officers" TYPE="BAR" />
+<person id="p14" start="1475" end="1487" text="CBP officers" TYPE="BAR" />
+<person id="p2" start="1492" end="1512" text="Border Patrol agents" TYPE="BAR" />
+<person id="p3" start="1646" end="1683" text="Gene Garza, CBP Port Director, Laredo" TYPE="APP" />
+<person id="p15" start="1646" end="1656" text="Gene Garza" TYPE="NAM" />
+<person id="p16" start="1658" end="1683" text="CBP Port Director, Laredo" TYPE="BAR" />
+<person id="p17" start="1860" end="1871" text="Individuals" TYPE="BAR" />
+<person id="p18" start="2013" end="2017" text="they" TYPE="PRO" />
+<person id="p19" start="2132" end="2145" text="An individual" TYPE="NOM" />
+<person id="p20" start="2196" end="2208" text="CBP officers" TYPE="BAR" />
+<person id="p21" start="2214" end="2228" text="the petitioner" TYPE="NOM" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="15" end="28" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="165" end="199" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o3" start="213" end="226" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o4" start="614" end="627" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o5" start="639" end="642" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="973" end="976" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="1350" end="1390" text="U.S. Immigration and Customs Enforcement" TYPE="NAMPRE" />
+<organization id="o8" start="1417" end="1420" text="CBP" TYPE="NAMPRE" />
+<organization id="o9" start="1475" end="1478" text="CBP" TYPE="NAMPRE" />
+<organization id="o10" start="1492" end="1505" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o11" start="1658" end="1661" text="CBP" TYPE="NAMPRE" />
+<organization id="o12" start="2055" end="2058" text="CBP" TYPE="NAM" />
+<organization id="o13" start="2196" end="2199" text="CBP" TYPE="NAMPRE" />
+<geographical-political id="g0" start="148" end="161" text="Laredo, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="156" end="161" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="741" end="748" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g3" start="763" end="795" text="Nuevo Laredo, Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g4" start="777" end="795" text="Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="789" end="795" text="Mexico" TYPE="NAM" />
+<geographical-political id="g6" start="1213" end="1217" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g7" start="1281" end="1285" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g8" start="1677" end="1683" text="Laredo" TYPE="NAM" />
+<geographical-political id="g9" start="1957" end="1964" text="the U.S" TYPE="NAM" />
+<falicity id="f0" start="103" end="123" text="Laredo Port of Entry" TYPE="NAM" />
+<falicity id="f1" start="587" end="612" text="the Lincoln-Juarez Bridge" TYPE="NAM" />
+<falicity id="f2" start="1662" end="1666" text="Port" TYPE="BAR" />
+<falicity id="f3" start="1775" end="1799" text="the Laredo Port of Entry" TYPE="NAM" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="29" end="35" text="Agents" />
+<head id="h3" start="15" end="28" text="Border Patrol" />
+<head id="h4" start="103" end="123" text="Laredo Port of Entry" />
+<head id="h5" start="148" end="154" text="Laredo" />
+<head id="h6" start="156" end="161" text="Texas" />
+<head id="h7" start="200" end="208" text="officers" />
+<head id="h8" start="165" end="199" text="U.S. Customs and Border Protection" />
+<head id="h9" start="227" end="233" text="agents" />
+<head id="h10" start="213" end="226" text="Border Patrol" />
+<head id="h11" start="501" end="509" text="officers" />
+<head id="h12" start="514" end="520" text="agents" />
+<head id="h13" start="591" end="612" text="Lincoln-Juarez Bridge" />
+<head id="h14" start="628" end="634" text="agents" />
+<head id="h15" start="643" end="651" text="officers" />
+<head id="h16" start="614" end="627" text="Border Patrol" />
+<head id="h17" start="639" end="642" text="CBP" />
+<head id="h18" start="749" end="757" text="national" />
+<head id="h19" start="741" end="748" text="Mexican" />
+<head id="h20" start="763" end="775" text="Nuevo Laredo" />
+<head id="h21" start="777" end="787" text="Tamaulipas" />
+<head id="h22" start="789" end="795" text="Mexico" />
+<head id="h23" start="830" end="836" text="driver" />
+<head id="h24" start="973" end="976" text="CBP" />
+<head id="h25" start="1213" end="1217" text="U.S." />
+<head id="h26" start="1281" end="1285" text="U.S." />
+<head id="h27" start="1399" end="1405" text="agents" />
+<head id="h28" start="1350" end="1390" text="U.S. Immigration and Customs Enforcement" />
+<head id="h29" start="1421" end="1429" text="officers" />
+<head id="h30" start="1417" end="1420" text="CBP" />
+<head id="h31" start="1479" end="1487" text="officers" />
+<head id="h32" start="1475" end="1478" text="CBP" />
+<head id="h33" start="1506" end="1512" text="agents" />
+<head id="h34" start="1492" end="1505" text="Border Patrol" />
+<head id="h35" start="1646" end="1656" text="Gene Garza" />
+<head id="h36" start="1667" end="1675" text="Director" />
+<head id="h37" start="1658" end="1661" text="CBP" />
+<head id="h38" start="1662" end="1666" text="Port" />
+<head id="h39" start="1677" end="1683" text="Laredo" />
+<head id="h40" start="1779" end="1799" text="Laredo Port of Entry" />
+<head id="h41" start="1860" end="1871" text="Individuals" />
+<head id="h42" start="1961" end="1964" text="U.S" />
+<head id="h43" start="2013" end="2017" text="they" />
+<head id="h44" start="2055" end="2058" text="CBP" />
+<head id="h45" start="2135" end="2145" text="individual" />
+<head id="h46" start="2200" end="2208" text="officers" />
+<head id="h47" start="2196" end="2199" text="CBP" />
+<head id="h48" start="2218" end="2228" text="petitioner" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n2" start="15" end="28" text="Border Patrol" />
+<name id="n3" start="103" end="123" text="Laredo Port of Entry" />
+<name id="n4" start="148" end="154" text="Laredo" />
+<name id="n5" start="156" end="161" text="Texas" />
+<name id="n6" start="165" end="199" text="U.S. Customs and Border Protection" />
+<name id="n7" start="213" end="226" text="Border Patrol" />
+<name id="n8" start="591" end="612" text="Lincoln-Juarez Bridge" />
+<name id="n9" start="614" end="627" text="Border Patrol" />
+<name id="n10" start="639" end="642" text="CBP" />
+<name id="n11" start="741" end="748" text="Mexican" />
+<name id="n12" start="763" end="775" text="Nuevo Laredo" />
+<name id="n13" start="777" end="787" text="Tamaulipas" />
+<name id="n14" start="789" end="795" text="Mexico" />
+<name id="n15" start="973" end="976" text="CBP" />
+<name id="n16" start="1213" end="1217" text="U.S." />
+<name id="n17" start="1281" end="1285" text="U.S." />
+<name id="n18" start="1350" end="1390" text="U.S. Immigration and Customs Enforcement" />
+<name id="n19" start="1417" end="1420" text="CBP" />
+<name id="n20" start="1475" end="1478" text="CBP" />
+<name id="n1" start="1492" end="1505" text="Border Patrol" />
+<name id="n21" start="1646" end="1656" text="Gene Garza" />
+<name id="n22" start="1658" end="1661" text="CBP" />
+<name id="n23" start="1677" end="1683" text="Laredo" />
+<name id="n24" start="1779" end="1799" text="Laredo Port of Entry" />
+<name id="n25" start="1961" end="1964" text="U.S" />
+<name id="n26" start="2055" end="2058" text="CBP" />
+<name id="n27" start="2196" end="2199" text="CBP" />
+<located-mention id="lo0" start="1" end="123" text="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" TYPE="Other" />
+<located-mention id="lo1" start="1" end="123" text="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" TYPE="Other" />
+<located-mention id="lo2" start="1658" end="1683" text="CBP Port Director, Laredo" TYPE="PreMod" />
+<located-mention id="lo3" start="1658" end="1683" text="CBP Port Director, Laredo" TYPE="Formulaic" />
+<employment-mention id="e0" start="1" end="13" text="CBP Officers" TYPE="PreMod" />
+<employment-mention id="e1" start="15" end="35" text="Border Patrol Agents" TYPE="PreMod" />
+<employment-mention id="e4" start="165" end="277" text="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" TYPE="PreMod" />
+<employment-mention id="e5" start="165" end="277" text="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" TYPE="PreMod" />
+<employment-mention id="e6" start="614" end="685" text="Border Patrol agents and CBP officers conducting southbound inspections" TYPE="PreMod" />
+<employment-mention id="e7" start="614" end="685" text="Border Patrol agents and CBP officers conducting southbound inspections" TYPE="PreMod" />
+<employment-mention id="e8" start="1350" end="1405" text="U.S. Immigration and Customs Enforcement special agents" TYPE="PreMod" />
+<employment-mention id="e9" start="1417" end="1429" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e10" start="1475" end="1487" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e2" start="1492" end="1512" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e3" start="1658" end="1683" text="CBP Port Director, Laredo" TYPE="PreMod" />
+<employment-mention id="e12" start="2196" end="2208" text="CBP officers" TYPE="PreMod" />
+<CRRE id="C0" start="727" end="795" text="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" TYPE="PreMod" />
+<CRRE id="C1" start="727" end="795" text="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" TYPE="Preposition" />
+<entity_link id="en1" fromID="o2" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en3" fromID="o3" fromText="Border Patrol" toID="o1" toText="Border Patrol" />
+<entity_link id="en4" fromID="p4" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="p0" toText="CBP Officers" />
+<entity_link id="en5" fromID="p5" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="p1" toText="Border Patrol Agents" />
+<entity_link id="en6" fromID="p6" fromText="officers" toID="p4" toText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" />
+<entity_link id="en7" fromID="p7" fromText="agents" toID="p5" toText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" />
+<entity_link id="en10" fromID="p8" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="p7" toText="agents" />
+<entity_link id="en11" fromID="p9" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="p6" toText="officers" />
+<entity_link id="en12" fromID="o4" fromText="Border Patrol" toID="o3" toText="Border Patrol" />
+<entity_link id="en13" fromID="o5" fromText="CBP" toID="o2" toText="U.S. Customs and Border Protection" />
+<entity_link id="en14" fromID="g5" fromText="Mexico" toID="g2" toText="Mexican" />
+<entity_link id="en15" fromID="p11" fromText="The driver" toID="p10" toText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" />
+<entity_link id="en16" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en17" fromID="g7" fromText="U.S." toID="g6" toText="U.S." />
+<entity_link id="en18" fromID="p13" fromText="CBP officers" toID="p9" toText="Border Patrol agents and CBP officers conducting southbound inspections" />
+<entity_link id="en19" fromID="o8" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en20" fromID="p14" fromText="CBP officers" toID="p13" toText="CBP officers" />
+<entity_link id="en21" fromID="o9" fromText="CBP" toID="o8" toText="CBP" />
+<entity_link id="en0" fromID="p2" fromText="Border Patrol agents" toID="p8" toText="Border Patrol agents and CBP officers conducting southbound inspections" />
+<entity_link id="en2" fromID="o10" fromText="Border Patrol" toID="o4" toText="Border Patrol" />
+<entity_link id="en8" fromID="p15" fromText="Gene Garza" toID="p3" toText="Gene Garza, CBP Port Director, Laredo" />
+<entity_link id="en9" fromID="p16" fromText="CBP Port Director, Laredo" toID="p15" toText="Gene Garza" />
+<entity_link id="en22" fromID="o11" fromText="CBP" toID="o9" toText="CBP" />
+<entity_link id="en23" fromID="g8" fromText="Laredo" toID="g0" toText="Laredo, Texas" />
+<entity_link id="en24" fromID="f3" fromText="the Laredo Port of Entry" toID="f0" toText="Laredo Port of Entry" />
+<entity_link id="en25" fromID="g9" fromText="the U.S" toID="g7" toText="U.S." />
+<entity_link id="en26" fromID="p18" fromText="they" toID="p17" toText="Individuals" />
+<entity_link id="en27" fromID="o12" fromText="CBP" toID="o11" toText="CBP" />
+<entity_link id="en28" fromID="o13" fromText="CBP" toID="o12" toText="CBP" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="p1" fromText="Border Patrol Agents" toID="h2" toText="Agents" />
+<head_link id="he3" fromID="o1" fromText="Border Patrol" toID="h3" toText="Border Patrol" />
+<head_link id="he4" fromID="f0" fromText="Laredo Port of Entry" toID="h4" toText="Laredo Port of Entry" />
+<head_link id="he5" fromID="g0" fromText="Laredo, Texas" toID="h5" toText="Laredo" />
+<head_link id="he6" fromID="g1" fromText="Texas" toID="h6" toText="Texas" />
+<head_link id="he8" fromID="o2" fromText="U.S. Customs and Border Protection" toID="h8" toText="U.S. Customs and Border Protection" />
+<head_link id="he10" fromID="o3" fromText="Border Patrol" toID="h10" toText="Border Patrol" />
+<head_link id="he11" fromID="p4" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="h7" toText="officers" />
+<head_link id="he12" fromID="p5" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="h9" toText="agents" />
+<head_link id="he13" fromID="p6" fromText="officers" toID="h11" toText="officers" />
+<head_link id="he14" fromID="p7" fromText="agents" toID="h12" toText="agents" />
+<head_link id="he15" fromID="f1" fromText="the Lincoln-Juarez Bridge" toID="h13" toText="Lincoln-Juarez Bridge" />
+<head_link id="he16" fromID="p8" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="h14" toText="agents" />
+<head_link id="he17" fromID="p9" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="h15" toText="officers" />
+<head_link id="he18" fromID="o4" fromText="Border Patrol" toID="h16" toText="Border Patrol" />
+<head_link id="he19" fromID="o5" fromText="CBP" toID="h17" toText="CBP" />
+<head_link id="he20" fromID="p10" fromText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" toID="h18" toText="national" />
+<head_link id="he21" fromID="g2" fromText="Mexican" toID="h19" toText="Mexican" />
+<head_link id="he22" fromID="g3" fromText="Nuevo Laredo, Tamaulipas, Mexico" toID="h20" toText="Nuevo Laredo" />
+<head_link id="he23" fromID="g4" fromText="Tamaulipas, Mexico" toID="h21" toText="Tamaulipas" />
+<head_link id="he24" fromID="g5" fromText="Mexico" toID="h22" toText="Mexico" />
+<head_link id="he25" fromID="p11" fromText="The driver" toID="h23" toText="driver" />
+<head_link id="he26" fromID="o6" fromText="CBP" toID="h24" toText="CBP" />
+<head_link id="he27" fromID="g6" fromText="U.S." toID="h25" toText="U.S." />
+<head_link id="he28" fromID="g7" fromText="U.S." toID="h26" toText="U.S." />
+<head_link id="he29" fromID="p12" fromText="U.S. Immigration and Customs Enforcement special agents" toID="h27" toText="agents" />
+<head_link id="he30" fromID="o7" fromText="U.S. Immigration and Customs Enforcement" toID="h28" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he31" fromID="o8" fromText="CBP" toID="h30" toText="CBP" />
+<head_link id="he32" fromID="p14" fromText="CBP officers" toID="h31" toText="officers" />
+<head_link id="he33" fromID="o9" fromText="CBP" toID="h32" toText="CBP" />
+<head_link id="he7" fromID="p2" fromText="Border Patrol agents" toID="h33" toText="agents" />
+<head_link id="he9" fromID="o10" fromText="Border Patrol" toID="h34" toText="Border Patrol" />
+<head_link id="he34" fromID="p15" fromText="Gene Garza" toID="h35" toText="Gene Garza" />
+<head_link id="he35" fromID="p16" fromText="CBP Port Director, Laredo" toID="h36" toText="Director" />
+<head_link id="he36" fromID="o11" fromText="CBP" toID="h37" toText="CBP" />
+<head_link id="he37" fromID="f2" fromText="Port" toID="h38" toText="Port" />
+<head_link id="he38" fromID="g8" fromText="Laredo" toID="h39" toText="Laredo" />
+<head_link id="he39" fromID="f3" fromText="the Laredo Port of Entry" toID="h40" toText="Laredo Port of Entry" />
+<head_link id="he40" fromID="p17" fromText="Individuals" toID="h41" toText="Individuals" />
+<head_link id="he41" fromID="g9" fromText="the U.S" toID="h42" toText="U.S" />
+<head_link id="he42" fromID="p18" fromText="they" toID="h43" toText="they" />
+<head_link id="he43" fromID="o12" fromText="CBP" toID="h44" toText="CBP" />
+<head_link id="he44" fromID="p19" fromText="An individual" toID="h45" toText="individual" />
+<head_link id="he45" fromID="p20" fromText="CBP officers" toID="h46" toText="officers" />
+<head_link id="he46" fromID="o13" fromText="CBP" toID="h47" toText="CBP" />
+<head_link id="he47" fromID="p21" fromText="the petitioner" toID="h48" toText="petitioner" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="o1" fromText="Border Patrol" toID="n2" toText="Border Patrol" />
+<name_link id="na2" fromID="f0" fromText="Laredo Port of Entry" toID="n3" toText="Laredo Port of Entry" />
+<name_link id="na3" fromID="g0" fromText="Laredo, Texas" toID="n4" toText="Laredo" />
+<name_link id="na4" fromID="g1" fromText="Texas" toID="n5" toText="Texas" />
+<name_link id="na5" fromID="o2" fromText="U.S. Customs and Border Protection" toID="n6" toText="U.S. Customs and Border Protection" />
+<name_link id="na6" fromID="o3" fromText="Border Patrol" toID="n7" toText="Border Patrol" />
+<name_link id="na7" fromID="f1" fromText="the Lincoln-Juarez Bridge" toID="n8" toText="Lincoln-Juarez Bridge" />
+<name_link id="na8" fromID="o4" fromText="Border Patrol" toID="n9" toText="Border Patrol" />
+<name_link id="na9" fromID="o5" fromText="CBP" toID="n10" toText="CBP" />
+<name_link id="na10" fromID="g2" fromText="Mexican" toID="n11" toText="Mexican" />
+<name_link id="na11" fromID="g3" fromText="Nuevo Laredo, Tamaulipas, Mexico" toID="n12" toText="Nuevo Laredo" />
+<name_link id="na12" fromID="g4" fromText="Tamaulipas, Mexico" toID="n13" toText="Tamaulipas" />
+<name_link id="na13" fromID="g5" fromText="Mexico" toID="n14" toText="Mexico" />
+<name_link id="na14" fromID="o6" fromText="CBP" toID="n15" toText="CBP" />
+<name_link id="na15" fromID="g6" fromText="U.S." toID="n16" toText="U.S." />
+<name_link id="na16" fromID="g7" fromText="U.S." toID="n17" toText="U.S." />
+<name_link id="na17" fromID="o7" fromText="U.S. Immigration and Customs Enforcement" toID="n18" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na18" fromID="o8" fromText="CBP" toID="n19" toText="CBP" />
+<name_link id="na19" fromID="o9" fromText="CBP" toID="n20" toText="CBP" />
+<name_link id="na20" fromID="o10" fromText="Border Patrol" toID="n1" toText="Border Patrol" />
+<name_link id="na21" fromID="p15" fromText="Gene Garza" toID="n21" toText="Gene Garza" />
+<name_link id="na22" fromID="o11" fromText="CBP" toID="n22" toText="CBP" />
+<name_link id="na23" fromID="g8" fromText="Laredo" toID="n23" toText="Laredo" />
+<name_link id="na24" fromID="f3" fromText="the Laredo Port of Entry" toID="n24" toText="Laredo Port of Entry" />
+<name_link id="na25" fromID="g9" fromText="the U.S" toID="n25" toText="U.S" />
+<name_link id="na26" fromID="o12" fromText="CBP" toID="n26" toText="CBP" />
+<name_link id="na27" fromID="o13" fromText="CBP" toID="n27" toText="CBP" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers" toID="p0" toText="CBP Officers" />
+<relation_link1 id="r1" fromID="e1" fromText="Border Patrol Agents" toID="p1" toText="Border Patrol Agents" />
+<relation_link1 id="r2" fromID="lo0" fromText="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" toID="p0" toText="CBP Officers" />
+<relation_link1 id="r3" fromID="lo1" fromText="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" toID="p1" toText="Border Patrol Agents" />
+<relation_link1 id="r6" fromID="e4" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="p4" toText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" />
+<relation_link1 id="r7" fromID="e5" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="p5" toText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" />
+<relation_link1 id="r8" fromID="e6" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="p8" toText="Border Patrol agents and CBP officers conducting southbound inspections" />
+<relation_link1 id="r9" fromID="e7" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="p9" toText="Border Patrol agents and CBP officers conducting southbound inspections" />
+<relation_link1 id="r10" fromID="e8" fromText="U.S. Immigration and Customs Enforcement special agents" toID="p12" toText="U.S. Immigration and Customs Enforcement special agents" />
+<relation_link1 id="r11" fromID="e9" fromText="CBP officers" toID="p13" toText="CBP officers" />
+<relation_link1 id="r12" fromID="e10" fromText="CBP officers" toID="p14" toText="CBP officers" />
+<relation_link1 id="r4" fromID="e2" fromText="Border Patrol agents" toID="p2" toText="Border Patrol agents" />
+<relation_link1 id="r5" fromID="e3" fromText="CBP Port Director, Laredo" toID="p16" toText="CBP Port Director, Laredo" />
+<relation_link1 id="r14" fromID="lo2" fromText="CBP Port Director, Laredo" toID="p16" toText="CBP Port Director, Laredo" />
+<relation_link1 id="r15" fromID="lo3" fromText="CBP Port Director, Laredo" toID="p16" toText="CBP Port Director, Laredo" />
+<relation_link1 id="r16" fromID="e12" fromText="CBP officers" toID="p20" toText="CBP officers" />
+<relation_link1 id="r13" fromID="C0" fromText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" toID="p10" toText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" />
+<relation_link1 id="r17" fromID="C1" fromText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" toID="p10" toText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="e1" fromText="Border Patrol Agents" toID="o1" toText="Border Patrol" />
+<relation_link2 id="re2" fromID="lo0" fromText="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" toID="f0" toText="Laredo Port of Entry" />
+<relation_link2 id="re3" fromID="lo1" fromText="CBP Officers, Border Patrol Agents Seize $302,875 in Undeclared Currency Hidden in Detergent Boxes at Laredo Port of Entry" toID="f0" toText="Laredo Port of Entry" />
+<relation_link2 id="re6" fromID="e4" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="o2" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re7" fromID="e5" fromText="U.S. Customs and Border Protection officers and Border Patrol agents conducting outbound operations this weekend" toID="o3" toText="Border Patrol" />
+<relation_link2 id="re8" fromID="e6" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="o4" toText="Border Patrol" />
+<relation_link2 id="re10" fromID="e7" fromText="Border Patrol agents and CBP officers conducting southbound inspections" toID="o5" toText="CBP" />
+<relation_link2 id="re11" fromID="e8" fromText="U.S. Immigration and Customs Enforcement special agents" toID="o7" toText="U.S. Immigration and Customs Enforcement" />
+<relation_link2 id="re12" fromID="e9" fromText="CBP officers" toID="o8" toText="CBP" />
+<relation_link2 id="re13" fromID="e10" fromText="CBP officers" toID="o9" toText="CBP" />
+<relation_link2 id="re4" fromID="e2" fromText="Border Patrol agents" toID="o10" toText="Border Patrol" />
+<relation_link2 id="re5" fromID="e3" fromText="CBP Port Director, Laredo" toID="o11" toText="CBP" />
+<relation_link2 id="re9" fromID="lo2" fromText="CBP Port Director, Laredo" toID="f2" toText="Port" />
+<relation_link2 id="re14" fromID="lo3" fromText="CBP Port Director, Laredo" toID="g8" toText="Laredo" />
+<relation_link2 id="re15" fromID="e12" fromText="CBP officers" toID="o13" toText="CBP" />
+<relation_link2 id="re16" fromID="C0" fromText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" toID="g2" toText="Mexican" />
+<relation_link2 id="re17" fromID="C1" fromText="a 28-year-old Mexican national from Nuevo Laredo, Tamaulipas, Mexico" toID="g3" toText="Nuevo Laredo, Tamaulipas, Mexico" />
+</TAGS>
+</KddTask>

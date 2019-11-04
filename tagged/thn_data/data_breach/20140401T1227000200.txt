@@ -1,0 +1,16 @@
+Ukrainian Hacker falsely claimed theft of 800 million Credit Card
+Wang Wei
+
+800 Million US based Credit and Debit cards compromised! Really it’s a big number and till now it has not been sized by the cyber security officials but a hacker group claims that they had stolen data on hundreds of millions of U.S. card accounts.
+Last week, the hacker group called itself Anonymous Ukraine (Op_Ukraine), said it has seized information pertained to 800 million U.S. credit and debit card accounts, including the cards’ data belong to U.S. President Obama and other political figures. The group says the intention behind this data theft is to harm the U.S. economy.
+The messages posted on March 24 shows clearly that they were by anti-American. The first message read, "After the USA showed its true face when she unilaterally decides which of the peoples to live independently and who under the yoke of the Federal Reserve, we decided to show the world who is behind the future collapse of the American banking system. We own all the financial information of the Fed. And even more than you think."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The post was linked with four text files including the data sets of seven million card account that were from all the four card brands, Visa, MasterCard, Discover and American Express. On this, the four card companies didn’t comment until now, AmericanBanker.com reported.
+On March 26, Anonymous Ukraine tweeted that it had released account details for five million more credit cards, and the very next day, it posted the details of 20 million more card accounts. Investigators working for Battelle counted a total of 10.2 million card accounts details in these batches.
+"I would continue watching posts from the group, and checking their data dumps for validity," says Ernest Hampson, technical director for Battelle's cyber intelligence and counterintelligence group.
+"It's really important to keep an eye on your enemy, find out what they're interested in, what their motivation is, what their capabilities are. You have to have somebody out there watching the adversarial groups, watching inside these forums where they gather, and discuss and trade research back and forth, and discover where they're going next before they get there."
+The financial data breach has been investigated by two companies, the security provider Risk Based Security and the world’s largest nonprofit research and development organization, Battelle. The companies reported that the records produced as evidence of the breach by the group are incomplete, out of date or are fraudulent.
+The investigators were also unable to verify the 800 million accounts that the group claimed to have compromised, including those of the VIPs and political figures.
+Till now, the data threat doesn't appear to be as serious as the Target breach that occurred during the last Christmas holidays in which hackers were successfully able to obtain 40 million valid current credit cards’ details. 
+But, yet the claims and any further releases of information by the hacker group is need to be revised and investigated, because these kind of claims serve as a reminder for the financial firms of the constant vigilance and collaboration.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

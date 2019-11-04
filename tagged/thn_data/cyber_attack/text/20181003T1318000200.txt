@@ -1,0 +1,28 @@
+Bank Servers Hacked to Trick ATMs into Spitting Out Millions in Cash
+Swati Khandelwal
+
+The US-CERT has released a joint technical alert from the DHS, the FBI, and Treasury warning about a new ATM scheme being used by the prolific North Korean APT hacking group known as Hidden Cobra.
+Hidden Cobra, also known as Lazarus Group and Guardians of Peace, is believed to be backed by the North Korean government and has previously launched attacks against a number of media organizations, aerospace, financial and critical infrastructure sectors across the world.
+The group had also reportedly been associated with the WannaCry ransomware menace that last year shut down hospitals and big businesses worldwide, the SWIFT Banking attack in 2016, as well as the Sony Pictures hack in 2014.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, the FBI, the Department of Homeland Security (DHS), and the Department of the Treasury have released details about a new cyber attack, dubbed "FASTCash," that Hidden Cobra has been using since at least 2016 to cash out ATMs by compromising the bank server.
+FASTCash Hack Fools ATMs into Spitting Out Cash
+The investigators analyzed 10 malware samples associated with FASTCash cyber attacks and found that attackers remotely compromise payment "switch application servers" within the targeted banks to facilitate fraudulent transactions.
+Switch application server is an essential component of ATMs and Point-of-Sale infrastructures that communicates with the core banking system to validate user's bank account details for a requested transaction.
+Whenever you use your payment card in an ATM or a PoS machine in a retailer shop, the software asks (in ISO 8583 messages formats) the bank's switch application server to validate the transaction—accept or decline, depending upon the available amount in your bank account.
+However, Hidden Cobra attackers managed to compromise the switch application servers at different banks, where they had accounts (and their payment cards) with minimal activity or zero balances.
+The malware installed on the compromised switch application servers then intercepts transaction request associated with the attackers’ payment cards and responds with fake but legitimate-looking affirmative response without actually validating their available balance with the core banking systems, eventually fooling ATMs to spit out a large number of cash without even notifying the bank.
+"According to a trusted partner's estimation, HIDDEN COBRA actors have stolen tens of millions of dollars," the reports says.
+"In one incident in 2017, HIDDEN COBRA actors enabled cash to be simultaneously withdrawn from ATMs located in over 30 different countries. In another incident in 2018, HIDDEN COBRA actors enabled cash to be simultaneously withdrawn from ATMs in 23 different countries."
+Hidden Cobra threat actors are using the FASTCash scheme to target banks in Africa and Asia, though the U.S. authorities are still investigating the FASTCash incidents to confirm whether the attack targets banks in the United States.
+How Attackers Managed to Compromise Banks’ Switch Application Servers
+Though the initial infection vector used to compromise Bank networks is unknown, the U.S. authorities believe that the APT threat actors used spear-phishing emails, containing malicious Windows executable, against employees in different banks.
+Once opened, the executable infected bank employees' computers with Windows-based malware, allowing hackers to move laterally through a bank’s network using legitimate credentials and deploy malware onto the payment switch application server.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though most compromised switch application servers were found running unsupported IBM Advanced Interactive eXecutive (AIX) operating system versions, investigators found no evidence that attackers exploited any vulnerability in AIX operating system.
+US-CERT recommended banks to make two-factor authentication mandatory before any user can access the switch application server, and use best practices to protect their networks.
+US-CERT has also provided a downloadable copy of IOCs (indicators of compromise), to help you block them and enable network defenses to reduce exposure to any malicious cyber activity by the Hidden Cobra hacking group.
+In May 2018, the US-CERT also published an advisory alerting users of two different malware—Remote Access Trojan (RAT) known as Joanap and Server Message Block (SMB) worm called Brambul—linked to Hidden Cobra.
+Last year, the DHS and the FBI also issued an alert describing Hidden Cobra malware Delta Charlie—a DDoS tool that they believed North Korea uses to launch distributed denial-of-service attacks against its targets.
+Other malware linked to Hidden Cobra in the past includes Destover, Wild Positron or Duuzer, and Hangman with sophisticated capabilities, like DDoS botnets, keyloggers, remote access tools (RATs), and wiper malware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,48 @@
+Password Manager Pro — Easiest Way to Keep Enterprises Secure
+Swati Khandelwal
+
+Recent corporate breaches have taught us something important — the average enterprise user is spectacularly bad at choosing good passwords.
+As modern enterprise is becoming a hybrid organization with infrastructure spread across on-premises data centers as well as in the cloud, security of information, applications, and assets has become a paramount concern.
+Cyber security is no longer an optional strategy for businesses, where limited visibility into the password practices of employees and ineffective monitoring of privileged credentials could end up an organization with a serious security breach and identity theft.
+The first line of defense for any organization or company is passwords, but most organizations grossly underestimate the need to comply with corporate password policies and meet IT regulatory requirements.
+Large enterprises have a policy in place that requires end users to choose strong passwords that can withstand dictionary and brute-force attacks, but it comes out to be non-effective, as there are still possibilities that users will go against the policy and pick a simple password.
+Even if an organization's IT department forces their employees to choose strong passwords, those strong passwords are stored in text-based files like spreadsheets, or even worse, Word documents.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Not to mention how secure these files are and how able they are to restrict who can access which passwords.
+We know that Ignorance is Bliss, but in this case, ignorance can place your enterprise and its data at risk.
+In addition to the issues related to creating strong, unique passwords and securely storing them, large enterprises face another important issue - sharing the impersonal administrative accounts among the team members, which can be very challenging. For example, a particular 'administrator' account on Windows will be used by multiple users and all of them will be using the same log in credentials.
+The Solution? Password Manager for Enterprise:
+Password Manager not only forces one to have strong, unique passwords, but also remembers on your behalf, determines when those passwords have to change, and includes an admin console for controlling all passwords and access to critical services within the enterprise.
+I'm impressed with ManageEngine's privileged password management solution — Password Manager Pro that already has VMWare, Walmart, EMC2, and NASA on its customer list.
+Password Manager Pro (PMP) is specially designed for enterprise teams and provides a complete solution to control, manage, monitor, and audit the entire lifecycle of privileged access, helping them detect suspicious events in real-time.
+Password Manager Pro encrypts and stores all your sensitive data in a centralized vault, including passwords, documents, and digital identities, which are then retrieved through a Web interface.
+Administrators can consolidate all the passwords, create an inventory, define password policy, set password expiration, and share passwords among authorized users by granting them exclusive privileges or temporary access.
+Deploying Password Manager Pro is easy, as it only takes a few minutes for the web-based management software to install its database and web-server, which is available for Windows and Linux.
+However, users can access their portal through mobile apps or browser extensions from any device, including Android, iOS, and Windows.
+In a single package, Password Manager Pro offers three solutions:
+1. Privileged Account Management
+Once deployed, Password Manager Pro automatically discovers all IT assets in your network and lists all the privileged accounts associated with them, which enables administrators to quickly secure all the privileged identities by enforcing password management best practices.
+This includes the use of strong passwords, securing sensitive data and passwords with AES 256-bit strong encryption, and securely sharing administrative passwords across your organization based on need, with granular access restrictions.
+Most importantly, the Password Manager Pro is also designed to automate the password reset and synchronization process across the entire enterprise for a broad range of target systems.
+This centralized and enterprise-wide 'Automated Password Resets' feature helps IT administrators get rid of unchanged passwords and protect all sensitive resources from unauthorized access.
+In other words, Password Manager Pro allows IT administrator to reset passwords when required or automatically randomizes through scheduled tasks in order to ensure usage of strong passwords and periodic resets by creating and enforcing strict password policies.
+2. Remote Access Management
+One of the outstanding features of Password Manager Pro is its ability to help administrators launch a direct connection with all remote devices, including those in remote data centers, with just one click from the product's GUI.
+With its secure gateways, Password Manager Pro helps you provide remote access to your IT resources to employees and third-party contractors without even disclosing the passwords in plain-text. In other words, PMP enables remote login to devices without sharing passwords at all!
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+From its web-interface, authorized users can directly launch RDP, SSH, Telnet, and SQL console sessions, wherein all connections will be tunneled through Password Manager Pro's server and require no direct connectivity between the user device and remote host.
+This feature has obvious advantages like saving time that usually used to copy/paste passwords from the document, and increasing accountability as PasswordManager Pro tracks access and usage of passwords.
+3. Privileged Session Management
+The remote connections to devices launched from Password Manager Pro's GUI can be closely monitored through PMP's Privileged Session Manager. All actions done by the users during the privileged session are video recorded and stored for forensic audits. The video records can be played back anytime, to trace actions to users.
+Password Manager Pro also includes a session shadowing feature that offers session recording capabilities to real-time monitoring of sensitive privileged sessions launched by other users.
+If any suspicious activity is discovered, administrators can immediately terminate sessions in real time, giving admins complete control over privileged sessions.
+One can also enable two-factor authentication (2FA) and mobile access for authorized users or groups.
+How to Get Password Manager Pro?
+Password Manager Pro supports several different user access roles including super admin, admin, and regular password users. An online demo of Password Manager Pro is available here, in case you want to have a quick look to the application.
+Besides this, ManageEngine Password Manager Pro is now available in MSP edition as well, which is specially designed for the Managed Service Providers who manages the IT and network infrastructure of their customers.
+ManageEngine's Password Manager Pro MSP Edition allows businesses to manage administrative passwords of their clients separately from a single management console or offer Password Management Service to them.
+So, if ManageEngine Password Manager Pro fits for your organization, you can give it a try. Pricing depends on the level, number of administrators and language.
+The cost varies widely, from the annual subscription of $495 for Standard edition, Single-language, and 2-admin (the number of users is unlimited) to $19,995 for an Enterprise edition, Multi-language, 200-admin, perpetual license.
+All editions of ManageEngine Password Manager Pro can be downloaded (Windows/Linux) directly from the ManageEngine official website.
+To understand how Password Manager Pro helps mitigate security risks related to privileged access, you can simply download the eBook for free.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

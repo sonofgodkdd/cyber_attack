@@ -1,0 +1,25 @@
+Dirty COW — Critical Linux Kernel Flaw Being Exploited in the Wild
+Swati Khandelwal
+
+A nine-year-old critical vulnerability has been discovered in virtually all versions of the Linux operating system and is actively being exploited in the wild.
+Dubbed "Dirty COW," the Linux kernel security flaw (CVE-2016-5195) is a mere privilege-escalation vulnerability, but researchers are taking it extremely seriously due to many reasons.
+First, it's very easy to develop exploits that work reliably. Secondly, the Dirty COW flaw exists in a section of the Linux kernel, which is a part of virtually every distro of the open-source operating system, including RedHat, Debian, and Ubuntu, released for almost a decade.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+And most importantly, the researchers have discovered attack code that indicates the Dirty COW vulnerability is being actively exploited in the wild.
+Dirty COW potentially allows any installed malicious app to gain administrative (root-level) access to a device and completely hijack it within just 5 seconds.
+Earlier this week, Linus Torvalds admitted that 11 years ago he first spotted this issue and also tried to fix it, but then he left it unpatched because at the time it was hard to trigger.
+Why is the Flaw called Dirty COW?
+The bug, marked as "High" priority, gets its name from the copy-on-write (COW) mechanism in the Linux kernel, which is so broken that any application or malicious program can tamper with read-only root-owned executable files and setuid executables.
+"A race condition was found in the way the Linux kernel's memory subsystem handled the copy-on-write (COW) breakage of private read-only memory mappings," reads the website dedicated to Dirty COW. 
+"An unprivileged local user could use this flaw to gain write access to otherwise read-only memory mappings and thus increase their privileges on the system."
+The Dirty COW vulnerability has been present in the Linux kernel since version 2.6.22 in 2007, and is also believed to be present in Android, which is powered by the Linux kernel.
+Patch Your Linux-powered Systems Immediately
+According to the website, the Linux kernel has been patched, and major vendors such as RedHat, Ubuntu and Debian have already rolled out fixes for their respective Linux distributions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Organizations and individuals have been urged to install a patch for their Linux-powered systems, phones and gadgets as soon as possible and risk falling victim in order to kill off the Linux kernel-level security flaw affecting nearly every distro of the open-source OS.
+The vulnerability was discovered by security researcher Phil Oester, who fund at least one in-the-wild attack exploiting this particular vulnerability. He found the exploit using an HTTP packet capture.
+The vulnerability disclosure followed the tradition of branding high-profile security vulnerabilities like Heartbleed, Poodle, FREAK, and GHOST.
+The Dirty COW website states:
+"It would have been fantastic to eschew this ridiculousness because we all make fun of branded vulnerabilities too, but this was not the right time to make that stand. So we created a website, an online shop, a Twitter account, and used a logo that a professional designer created."
+You can find more technical details about the Dirty COW vulnerability and exploit on the bug's official website, RedHat site, and GitHub page.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

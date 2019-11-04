@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing
+(Thursday, February 18, 2010)
+Grand Portage, Minn. -  U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday.
+John Sexton was taken into custody by CBP officers upon his entry into the United States after a check of his identification revealed that he was the subject of a National Crime Information Center felony warrant for desertion. U.S. Marine Corps officials confirmed his status as a deserter; Sexton was then transported by the Cook County Sheriff's office to the Cook County jail for extradition back to the custody of the U.S. Marine Corps.
+This arrest was the third made by CBP officers in the Pembina service area this past weekend. The Pembina service area consists of all the land border ports of entry along the North Dakota and Minnesota borders with Canada.
+"Our vigilance and diligence are resulting in the apprehension of more fugitives attempting entry into the United States," said Area Port Director Mary Delaquis. "I am very proud of the enforcement efforts of our officers in Grand Portage."
+The National Crime Information Center is a centralized automated data base that shares information among law enforcement agencies, including outstanding warrants for a wide range of offenses.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="13" text="CBP Officers" TYPE="BAR" />
+<person id="p1" start="21" end="47" text="U.S. Marine Corps Deserter" TYPE="BAR" />
+<person id="p2" start="121" end="164" text="U.S. Customs and Border Protection officers" TYPE="BAR" />
+<person id="p3" start="174" end="211" text="a deserter from the U.S. Marine Corps" TYPE="NOM" />
+<person id="p4" start="261" end="272" text="John Sexton" TYPE="NAM" />
+<person id="p5" start="299" end="311" text="CBP officers" TYPE="BAR" />
+<person id="p6" start="317" end="320" text="his" TYPE="PRO" />
+<person id="p7" start="367" end="370" text="his" TYPE="PRO" />
+<person id="p8" start="400" end="402" text="he" TYPE="PRO" />
+<person id="p10" start="407" end="486" text="the subject of a National Crime Information Center felony warrant for desertion" TYPE="NOM" />
+<person id="p11" start="488" end="515" text="U.S. Marine Corps officials" TYPE="BAR" />
+<person id="p12" start="526" end="529" text="his" TYPE="PRO" />
+<person id="p13" start="540" end="550" text="a deserter" TYPE="NOM" />
+<person id="p14" start="552" end="558" text="Sexton" TYPE="NAM" />
+<person id="p15" start="583" end="606" text="the Cook County Sheriff" TYPE="NOM" />
+<person id="p17" start="736" end="776" text="CBP officers in the Pembina service area" TYPE="BAR" />
+<person id="p18" start="992" end="1046" text="more fugitives attempting entry into the United States" TYPE="NOM" />
+<person id="p19" start="1054" end="1086" text="Area Port Director Mary Delaquis" TYPE="NAM" />
+<person id="p20" start="1054" end="1072" text="Area Port Director" TYPE="NOMPRE" />
+<person id="p21" start="1089" end="1090" text="I" TYPE="PRO" />
+<person id="p23" start="1135" end="1164" text="our officers in Grand Portage" TYPE="NOM" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="21" end="38" text="U.S. Marine Corps" TYPE="NAMPRE" />
+<organization id="o2" start="121" end="155" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o3" start="190" end="211" text="the U.S. Marine Corps" TYPE="NAM" />
+<organization id="o4" start="299" end="302" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="424" end="457" text="National Crime Information Center" TYPE="NAMPRE" />
+<organization id="o6" start="488" end="505" text="U.S. Marine Corps" TYPE="NAMPRE" />
+<organization id="o7" start="583" end="615" text="the Cook County Sheriff's office" TYPE="NOM" />
+<organization id="o8" start="679" end="700" text="the U.S. Marine Corps" TYPE="NAM" />
+<organization id="o9" start="736" end="739" text="CBP" TYPE="NAMPRE" />
+<organization id="o10" start="927" end="930" text="Our" TYPE="PRO" />
+<organization id="o11" start="1135" end="1138" text="our" TYPE="PRO" />
+<organization id="o12" start="1167" end="1204" text="The National Crime Information Center" TYPE="NAM" />
+<organization id="o13" start="1272" end="1296" text="law enforcement agencies" TYPE="BAR" />
+<organization id="o14" start="1208" end="1357" text="a centralized automated data base that shares information among law enforcement agencies, including outstanding warrants for a wide range of offenses" TYPE="NOM" />
+<organization id="o15" start="1242" end="1246" text="that" TYPE="PRO" />
+<geographical-political id="g0" start="97" end="116" text="Grand Portage, Minn" TYPE="NAM" />
+<geographical-political id="g1" start="112" end="116" text="Minn" TYPE="NAM" />
+<geographical-political id="g2" start="332" end="349" text="the United States" TYPE="NAM" />
+<geographical-political id="g3" start="587" end="598" text="Cook County" TYPE="NAMPRE" />
+<geographical-political id="g4" start="756" end="763" text="Pembina" TYPE="NAMPRE" />
+<geographical-political id="g5" start="800" end="807" text="Pembina" TYPE="NAMPRE" />
+<geographical-political id="g6" start="878" end="890" text="North Dakota" TYPE="NAMPRE" />
+<geographical-political id="g7" start="895" end="904" text="Minnesota" TYPE="NAMPRE" />
+<geographical-political id="g8" start="918" end="924" text="Canada" TYPE="NAM" />
+<geographical-political id="g9" start="1029" end="1046" text="the United States" TYPE="NAM" />
+<geographical-political id="g10" start="1151" end="1164" text="Grand Portage" TYPE="NAM" />
+<location id="l0" start="752" end="776" text="the Pembina service area" TYPE="NOM" />
+<location id="l1" start="796" end="820" text="The Pembina service area" TYPE="NOM" />
+<location id="l2" start="841" end="852" text="land border" TYPE="NOMPRE" />
+<location id="l3" start="874" end="924" text="the North Dakota and Minnesota borders with Canada" TYPE="NOM" />
+<falicity id="f1" start="216" end="247" text="the Grand Portage port of entry" TYPE="NAM" />
+<falicity id="f3" start="619" end="639" text="the Cook County jail" TYPE="NAM" />
+<falicity id="f5" start="833" end="924" text="all the land border ports of entry along the North Dakota and Minnesota borders with Canada" TYPE="NOM" />
+<falicity id="f2" start="1054" end="1063" text="Area Port" TYPE="NOMPRE" />
+<falicity id="f0" start="51" end="66" text="Border Crossing" TYPE="BAR" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="39" end="47" text="Deserter" />
+<head id="h3" start="21" end="38" text="U.S. Marine Corps" />
+<head id="h5" start="97" end="110" text="Grand Portage" />
+<head id="h6" start="112" end="116" text="Minn" />
+<head id="h7" start="156" end="164" text="officers" />
+<head id="h8" start="121" end="155" text="U.S. Customs and Border Protection" />
+<head id="h9" start="176" end="184" text="deserter" />
+<head id="h10" start="194" end="211" text="U.S. Marine Corps" />
+<head id="h13" start="261" end="272" text="John Sexton" />
+<head id="h14" start="303" end="311" text="officers" />
+<head id="h15" start="299" end="302" text="CBP" />
+<head id="h16" start="317" end="320" text="his" />
+<head id="h17" start="336" end="349" text="United States" />
+<head id="h18" start="367" end="370" text="his" />
+<head id="h19" start="400" end="402" text="he" />
+<head id="h20" start="411" end="418" text="subject" />
+<head id="h21" start="424" end="457" text="National Crime Information Center" />
+<head id="h22" start="506" end="515" text="officials" />
+<head id="h23" start="488" end="505" text="U.S. Marine Corps" />
+<head id="h24" start="526" end="529" text="his" />
+<head id="h25" start="542" end="550" text="deserter" />
+<head id="h26" start="552" end="558" text="Sexton" />
+<head id="h27" start="609" end="615" text="office" />
+<head id="h28" start="599" end="606" text="Sheriff" />
+<head id="h29" start="587" end="598" text="Cook County" />
+<head id="h30" start="623" end="639" text="Cook County jail" />
+<head id="h31" start="683" end="700" text="U.S. Marine Corps" />
+<head id="h32" start="740" end="748" text="officers" />
+<head id="h33" start="736" end="739" text="CBP" />
+<head id="h34" start="772" end="776" text="area" />
+<head id="h35" start="756" end="763" text="Pembina" />
+<head id="h36" start="816" end="820" text="area" />
+<head id="h37" start="800" end="807" text="Pembina" />
+<head id="h38" start="853" end="858" text="ports" />
+<head id="h39" start="846" end="852" text="border" />
+<head id="h40" start="905" end="912" text="borders" />
+<head id="h41" start="878" end="890" text="North Dakota" />
+<head id="h42" start="895" end="904" text="Minnesota" />
+<head id="h43" start="918" end="924" text="Canada" />
+<head id="h44" start="927" end="930" text="Our" />
+<head id="h45" start="997" end="1006" text="fugitives" />
+<head id="h46" start="1033" end="1046" text="United States" />
+<head id="h47" start="1073" end="1086" text="Mary Delaquis" />
+<head id="h48" start="1064" end="1072" text="Director" />
+<head id="h50" start="1089" end="1090" text="I" />
+<head id="h51" start="1139" end="1147" text="officers" />
+<head id="h52" start="1135" end="1138" text="our" />
+<head id="h53" start="1151" end="1164" text="Grand Portage" />
+<head id="h54" start="1171" end="1204" text="National Crime Information Center" />
+<head id="h55" start="1288" end="1296" text="agencies" />
+<head id="h56" start="1232" end="1241" text="data base" />
+<head id="h57" start="1242" end="1246" text="that" />
+<head id="h11" start="220" end="247" text="Grand Portage port of entry" />
+<head id="h12" start="1059" end="1063" text="Port" />
+<head id="h4" start="51" end="66" text="Border Crossing" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="21" end="38" text="U.S. Marine Corps" />
+<name id="n2" start="97" end="110" text="Grand Portage" />
+<name id="n3" start="112" end="116" text="Minn" />
+<name id="n4" start="121" end="155" text="U.S. Customs and Border Protection" />
+<name id="n5" start="194" end="211" text="U.S. Marine Corps" />
+<name id="n7" start="261" end="272" text="John Sexton" />
+<name id="n8" start="299" end="302" text="CBP" />
+<name id="n9" start="336" end="349" text="United States" />
+<name id="n10" start="424" end="457" text="National Crime Information Center" />
+<name id="n11" start="488" end="505" text="U.S. Marine Corps" />
+<name id="n12" start="552" end="558" text="Sexton" />
+<name id="n13" start="587" end="598" text="Cook County" />
+<name id="n14" start="623" end="639" text="Cook County jail" />
+<name id="n15" start="683" end="700" text="U.S. Marine Corps" />
+<name id="n16" start="736" end="739" text="CBP" />
+<name id="n17" start="756" end="763" text="Pembina" />
+<name id="n18" start="800" end="807" text="Pembina" />
+<name id="n19" start="878" end="890" text="North Dakota" />
+<name id="n20" start="895" end="904" text="Minnesota" />
+<name id="n21" start="918" end="924" text="Canada" />
+<name id="n22" start="1033" end="1046" text="United States" />
+<name id="n23" start="1073" end="1086" text="Mary Delaquis" />
+<name id="n24" start="1151" end="1164" text="Grand Portage" />
+<name id="n25" start="1171" end="1204" text="National Crime Information Center" />
+<name id="n6" start="220" end="247" text="Grand Portage port of entry" />
+<located-mention id="lo2" start="121" end="259" text="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" TYPE="Other" />
+<located-mention id="lo3" start="121" end="259" text="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" TYPE="Other" />
+<located-mention id="lo5" start="552" end="700" text="Sexton was then transported by the Cook County Sheriff's office to the Cook County jail for extradition back to the custody of the U.S. Marine Corps" TYPE="Other" />
+<located-mention id="lo7" start="736" end="776" text="CBP officers in the Pembina service area" TYPE="Preposition" />
+<located-mention id="lo9" start="1135" end="1164" text="our officers in Grand Portage" TYPE="Preposition" />
+<located-mention id="lo6" start="1054" end="1072" text="Area Port Director" TYPE="PreMod" />
+<located-mention id="lo1" start="926" end="1086" text="'Our vigilance and diligence are resulting in the apprehension of more fugitives attempting entry into the United States,' said Area Port Director Mary Delaquis" TYPE="Other" />
+<located-mention id="lo8" start="1" end="66" text="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" TYPE="Other" />
+<located-mention id="lo10" start="1" end="66" text="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" TYPE="Other" />
+<located-mention id="lo0" start="261" end="486" text="John Sexton was taken into custody by CBP officers upon his entry into the United States after a check of his identification revealed that he was the subject of a National Crime Information Center felony warrant for desertion" TYPE="Other" />
+<employment-mention id="e4" start="583" end="606" text="the Cook County Sheriff" TYPE="PreMod" />
+<M id="M0" start="583" end="615" text="the Cook County Sheriff's office" TYPE="Possessive" />
+<M id="M1" start="21" end="47" text="U.S. Marine Corps Deserter" TYPE="PreMod" />
+<M id="M2" start="174" end="211" text="a deserter from the U.S. Marine Corps" TYPE="Preposition" />
+<M id="M3" start="1" end="13" text="CBP Officers" TYPE="PreMod" />
+<M id="M4" start="121" end="164" text="U.S. Customs and Border Protection officers" TYPE="PreMod" />
+<M id="M5" start="299" end="311" text="CBP officers" TYPE="PreMod" />
+<M id="M6" start="488" end="515" text="U.S. Marine Corps officials" TYPE="PreMod" />
+<M id="M7" start="736" end="776" text="CBP officers in the Pembina service area" TYPE="PreMod" />
+<M id="M8" start="1135" end="1164" text="our officers in Grand Portage" TYPE="Possessive" />
+<entity_link id="en0" fromID="p2" fromText="U.S. Customs and Border Protection officers" toID="p0" toText="CBP Officers" />
+<entity_link id="en1" fromID="o2" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="p3" fromText="a deserter from the U.S. Marine Corps" toID="p1" toText="U.S. Marine Corps Deserter" />
+<entity_link id="en3" fromID="o3" fromText="the U.S. Marine Corps" toID="o1" toText="U.S. Marine Corps" />
+<entity_link id="en5" fromID="p5" fromText="CBP officers" toID="p2" toText="U.S. Customs and Border Protection officers" />
+<entity_link id="en6" fromID="o4" fromText="CBP" toID="o2" toText="U.S. Customs and Border Protection" />
+<entity_link id="en7" fromID="p6" fromText="his" toID="p4" toText="John Sexton" />
+<entity_link id="en8" fromID="p7" fromText="his" toID="p6" toText="his" />
+<entity_link id="en9" fromID="p8" fromText="he" toID="p7" toText="his" />
+<entity_link id="en11" fromID="p10" fromText="the subject of a National Crime Information Center felony warrant for desertion" toID="p8" toText="he" />
+<entity_link id="en12" fromID="o6" fromText="U.S. Marine Corps" toID="o3" toText="the U.S. Marine Corps" />
+<entity_link id="en13" fromID="p12" fromText="his" toID="p4" toText="John Sexton" />
+<entity_link id="en14" fromID="p13" fromText="a deserter" toID="p12" toText="his" />
+<entity_link id="en15" fromID="p14" fromText="Sexton" toID="p4" toText="John Sexton" />
+<entity_link id="en16" fromID="o8" fromText="the U.S. Marine Corps" toID="o6" toText="U.S. Marine Corps" />
+<entity_link id="en18" fromID="o9" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en19" fromID="l1" fromText="The Pembina service area" toID="l0" toText="the Pembina service area" />
+<entity_link id="en20" fromID="g5" fromText="Pembina" toID="g4" toText="Pembina" />
+<entity_link id="en21" fromID="g7" fromText="Minnesota" toID="g1" toText="Minn" />
+<entity_link id="en22" fromID="o10" fromText="Our" toID="o9" toText="CBP" />
+<entity_link id="en23" fromID="g9" fromText="the United States" toID="g2" toText="the United States" />
+<entity_link id="en24" fromID="p20" fromText="Area Port Director" toID="p19" toText="Area Port Director Mary Delaquis" />
+<entity_link id="en25" fromID="p21" fromText="I" toID="p19" toText="Area Port Director Mary Delaquis" />
+<entity_link id="en26" fromID="o11" fromText="our" toID="o10" toText="Our" />
+<entity_link id="en27" fromID="g10" fromText="Grand Portage" toID="g0" toText="Grand Portage, Minn" />
+<entity_link id="en28" fromID="o12" fromText="The National Crime Information Center" toID="o5" toText="National Crime Information Center" />
+<entity_link id="en29" fromID="o14" fromText="a centralized automated data base that shares information among law enforcement agencies, including outstanding warrants for a wide range of offenses" toID="o12" toText="The National Crime Information Center" />
+<entity_link id="en30" fromID="o15" fromText="that" toID="o14" toText="a centralized automated data base that shares information among law enforcement agencies, including outstanding warrants for a wide range of offenses" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers" toID="h0" toText="Officers" />
+<head_link id="he2" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he3" fromID="p1" fromText="U.S. Marine Corps Deserter" toID="h2" toText="Deserter" />
+<head_link id="he4" fromID="o1" fromText="U.S. Marine Corps" toID="h3" toText="U.S. Marine Corps" />
+<head_link id="he6" fromID="g0" fromText="Grand Portage, Minn" toID="h5" toText="Grand Portage" />
+<head_link id="he7" fromID="g1" fromText="Minn" toID="h6" toText="Minn" />
+<head_link id="he8" fromID="p2" fromText="U.S. Customs and Border Protection officers" toID="h7" toText="officers" />
+<head_link id="he9" fromID="o2" fromText="U.S. Customs and Border Protection" toID="h8" toText="U.S. Customs and Border Protection" />
+<head_link id="he11" fromID="p3" fromText="a deserter from the U.S. Marine Corps" toID="h9" toText="deserter" />
+<head_link id="he12" fromID="o3" fromText="the U.S. Marine Corps" toID="h10" toText="U.S. Marine Corps" />
+<head_link id="he15" fromID="p4" fromText="John Sexton" toID="h13" toText="John Sexton" />
+<head_link id="he16" fromID="p5" fromText="CBP officers" toID="h14" toText="officers" />
+<head_link id="he17" fromID="o4" fromText="CBP" toID="h15" toText="CBP" />
+<head_link id="he18" fromID="p6" fromText="his" toID="h16" toText="his" />
+<head_link id="he19" fromID="g2" fromText="the United States" toID="h17" toText="United States" />
+<head_link id="he20" fromID="p7" fromText="his" toID="h18" toText="his" />
+<head_link id="he21" fromID="p8" fromText="he" toID="h19" toText="he" />
+<head_link id="he23" fromID="p10" fromText="the subject of a National Crime Information Center felony warrant for desertion" toID="h20" toText="subject" />
+<head_link id="he24" fromID="o5" fromText="National Crime Information Center" toID="h21" toText="National Crime Information Center" />
+<head_link id="he25" fromID="p11" fromText="U.S. Marine Corps officials" toID="h22" toText="officials" />
+<head_link id="he26" fromID="o6" fromText="U.S. Marine Corps" toID="h23" toText="U.S. Marine Corps" />
+<head_link id="he27" fromID="p12" fromText="his" toID="h24" toText="his" />
+<head_link id="he28" fromID="p13" fromText="a deserter" toID="h25" toText="deserter" />
+<head_link id="he29" fromID="p14" fromText="Sexton" toID="h26" toText="Sexton" />
+<head_link id="he30" fromID="o7" fromText="the Cook County Sheriff's office" toID="h27" toText="office" />
+<head_link id="he31" fromID="p15" fromText="the Cook County Sheriff" toID="h28" toText="Sheriff" />
+<head_link id="he32" fromID="g3" fromText="Cook County" toID="h29" toText="Cook County" />
+<head_link id="he33" fromID="f3" fromText="the Cook County jail" toID="h30" toText="Cook County jail" />
+<head_link id="he34" fromID="o8" fromText="the U.S. Marine Corps" toID="h31" toText="U.S. Marine Corps" />
+<head_link id="he36" fromID="o9" fromText="CBP" toID="h33" toText="CBP" />
+<head_link id="he37" fromID="l0" fromText="the Pembina service area" toID="h34" toText="area" />
+<head_link id="he38" fromID="g4" fromText="Pembina" toID="h35" toText="Pembina" />
+<head_link id="he39" fromID="l1" fromText="The Pembina service area" toID="h36" toText="area" />
+<head_link id="he40" fromID="g5" fromText="Pembina" toID="h37" toText="Pembina" />
+<head_link id="he41" fromID="p17" fromText="CBP officers in the Pembina service area" toID="h32" toText="officers" />
+<head_link id="he42" fromID="f5" fromText="all the land border ports of entry along the North Dakota and Minnesota borders with Canada" toID="h38" toText="ports" />
+<head_link id="he43" fromID="l2" fromText="land border" toID="h39" toText="border" />
+<head_link id="he44" fromID="l3" fromText="the North Dakota and Minnesota borders with Canada" toID="h40" toText="borders" />
+<head_link id="he45" fromID="g6" fromText="North Dakota" toID="h41" toText="North Dakota" />
+<head_link id="he46" fromID="g7" fromText="Minnesota" toID="h42" toText="Minnesota" />
+<head_link id="he47" fromID="g8" fromText="Canada" toID="h43" toText="Canada" />
+<head_link id="he48" fromID="o10" fromText="Our" toID="h44" toText="Our" />
+<head_link id="he49" fromID="p18" fromText="more fugitives attempting entry into the United States" toID="h45" toText="fugitives" />
+<head_link id="he50" fromID="g9" fromText="the United States" toID="h46" toText="United States" />
+<head_link id="he51" fromID="p19" fromText="Area Port Director Mary Delaquis" toID="h47" toText="Mary Delaquis" />
+<head_link id="he52" fromID="p20" fromText="Area Port Director" toID="h48" toText="Director" />
+<head_link id="he54" fromID="p21" fromText="I" toID="h50" toText="I" />
+<head_link id="he56" fromID="o11" fromText="our" toID="h52" toText="our" />
+<head_link id="he57" fromID="p23" fromText="our officers in Grand Portage" toID="h51" toText="officers" />
+<head_link id="he58" fromID="g10" fromText="Grand Portage" toID="h53" toText="Grand Portage" />
+<head_link id="he59" fromID="o12" fromText="The National Crime Information Center" toID="h54" toText="National Crime Information Center" />
+<head_link id="he60" fromID="o13" fromText="law enforcement agencies" toID="h55" toText="agencies" />
+<head_link id="he61" fromID="o14" fromText="a centralized automated data base that shares information among law enforcement agencies, including outstanding warrants for a wide range of offenses" toID="h56" toText="data base" />
+<head_link id="he62" fromID="o15" fromText="that" toID="h57" toText="that" />
+<head_link id="he1" fromID="f1" fromText="the Grand Portage port of entry" toID="h11" toText="Grand Portage port of entry" />
+<head_link id="he10" fromID="f2" fromText="Area Port" toID="h12" toText="Port" />
+<head_link id="he13" fromID="f0" fromText="Border Crossing" toID="h4" toText="Border Crossing" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="o1" fromText="U.S. Marine Corps" toID="n1" toText="U.S. Marine Corps" />
+<name_link id="na2" fromID="g0" fromText="Grand Portage, Minn" toID="n2" toText="Grand Portage" />
+<name_link id="na3" fromID="g1" fromText="Minn" toID="n3" toText="Minn" />
+<name_link id="na4" fromID="o2" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="o3" fromText="the U.S. Marine Corps" toID="n5" toText="U.S. Marine Corps" />
+<name_link id="na7" fromID="p4" fromText="John Sexton" toID="n7" toText="John Sexton" />
+<name_link id="na8" fromID="o4" fromText="CBP" toID="n8" toText="CBP" />
+<name_link id="na9" fromID="g2" fromText="the United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="o5" fromText="National Crime Information Center" toID="n10" toText="National Crime Information Center" />
+<name_link id="na11" fromID="o6" fromText="U.S. Marine Corps" toID="n11" toText="U.S. Marine Corps" />
+<name_link id="na12" fromID="p14" fromText="Sexton" toID="n12" toText="Sexton" />
+<name_link id="na13" fromID="g3" fromText="Cook County" toID="n13" toText="Cook County" />
+<name_link id="na14" fromID="f3" fromText="the Cook County jail" toID="n14" toText="Cook County jail" />
+<name_link id="na15" fromID="o8" fromText="the U.S. Marine Corps" toID="n15" toText="U.S. Marine Corps" />
+<name_link id="na16" fromID="o9" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na17" fromID="g4" fromText="Pembina" toID="n17" toText="Pembina" />
+<name_link id="na18" fromID="g5" fromText="Pembina" toID="n18" toText="Pembina" />
+<name_link id="na19" fromID="g6" fromText="North Dakota" toID="n19" toText="North Dakota" />
+<name_link id="na20" fromID="g7" fromText="Minnesota" toID="n20" toText="Minnesota" />
+<name_link id="na21" fromID="g8" fromText="Canada" toID="n21" toText="Canada" />
+<name_link id="na22" fromID="g9" fromText="the United States" toID="n22" toText="United States" />
+<name_link id="na23" fromID="p19" fromText="Area Port Director Mary Delaquis" toID="n23" toText="Mary Delaquis" />
+<name_link id="na24" fromID="g10" fromText="Grand Portage" toID="n24" toText="Grand Portage" />
+<name_link id="na25" fromID="o12" fromText="The National Crime Information Center" toID="n25" toText="National Crime Information Center" />
+<name_link id="na26" fromID="f1" fromText="the Grand Portage port of entry" toID="n6" toText="Grand Portage port of entry" />
+<relation_link1 id="r0" fromID="M3" fromText="CBP Officers" toID="p0" toText="CBP Officers" />
+<relation_link1 id="r3" fromID="M4" fromText="U.S. Customs and Border Protection officers" toID="p2" toText="U.S. Customs and Border Protection officers" />
+<relation_link1 id="r4" fromID="lo2" fromText="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" toID="p2" toText="U.S. Customs and Border Protection officers" />
+<relation_link1 id="r5" fromID="lo3" fromText="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" toID="p3" toText="a deserter from the U.S. Marine Corps" />
+<relation_link1 id="r6" fromID="M5" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<relation_link1 id="r8" fromID="M6" fromText="U.S. Marine Corps officials" toID="p11" toText="U.S. Marine Corps officials" />
+<relation_link1 id="r9" fromID="e4" fromText="the Cook County Sheriff" toID="p15" toText="the Cook County Sheriff" />
+<relation_link1 id="r10" fromID="lo5" fromText="Sexton was then transported by the Cook County Sheriff's office to the Cook County jail for extradition back to the custody of the U.S. Marine Corps" toID="p14" toText="Sexton" />
+<relation_link1 id="r13" fromID="M7" fromText="CBP officers in the Pembina service area" toID="p17" toText="CBP officers in the Pembina service area" />
+<relation_link1 id="r14" fromID="lo7" fromText="CBP officers in the Pembina service area" toID="p17" toText="CBP officers in the Pembina service area" />
+<relation_link1 id="r17" fromID="M8" fromText="our officers in Grand Portage" toID="p23" toText="our officers in Grand Portage" />
+<relation_link1 id="r18" fromID="lo9" fromText="our officers in Grand Portage" toID="p23" toText="our officers in Grand Portage" />
+<relation_link1 id="r11" fromID="lo6" fromText="Area Port Director" toID="p20" toText="Area Port Director" />
+<relation_link1 id="r15" fromID="M0" fromText="the Cook County Sheriff's office" toID="p15" toText="the Cook County Sheriff" />
+<relation_link1 id="r16" fromID="lo1" fromText="'Our vigilance and diligence are resulting in the apprehension of more fugitives attempting entry into the United States,' said Area Port Director Mary Delaquis" toID="p18" toText="more fugitives attempting entry into the United States" />
+<relation_link1 id="r19" fromID="M1" fromText="U.S. Marine Corps Deserter" toID="p1" toText="U.S. Marine Corps Deserter" />
+<relation_link1 id="r20" fromID="M2" fromText="a deserter from the U.S. Marine Corps" toID="p3" toText="a deserter from the U.S. Marine Corps" />
+<relation_link1 id="r21" fromID="lo8" fromText="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" toID="p0" toText="CBP Officers" />
+<relation_link1 id="r22" fromID="lo10" fromText="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" toID="p1" toText="U.S. Marine Corps Deserter" />
+<relation_link1 id="r1" fromID="lo0" fromText="John Sexton was taken into custody by CBP officers upon his entry into the United States after a check of his identification revealed that he was the subject of a National Crime Information Center felony warrant for desertion" toID="p6" toText="his" />
+<relation_link2 id="re0" fromID="M3" fromText="CBP Officers" toID="o0" toText="CBP" />
+<relation_link2 id="re3" fromID="M4" fromText="U.S. Customs and Border Protection officers" toID="o2" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re4" fromID="lo2" fromText="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" toID="f1" toText="the Grand Portage port of entry" />
+<relation_link2 id="re5" fromID="lo3" fromText="U.S. Customs and Border Protection officers arrested a deserter from the U.S. Marine Corps, at the Grand Portage port of entry on Saturday" toID="f1" toText="the Grand Portage port of entry" />
+<relation_link2 id="re6" fromID="M5" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re8" fromID="M6" fromText="U.S. Marine Corps officials" toID="o6" toText="U.S. Marine Corps" />
+<relation_link2 id="re9" fromID="e4" fromText="the Cook County Sheriff" toID="g3" toText="Cook County" />
+<relation_link2 id="re10" fromID="lo5" fromText="Sexton was then transported by the Cook County Sheriff's office to the Cook County jail for extradition back to the custody of the U.S. Marine Corps" toID="f3" toText="the Cook County jail" />
+<relation_link2 id="re13" fromID="M7" fromText="CBP officers in the Pembina service area" toID="o9" toText="CBP" />
+<relation_link2 id="re14" fromID="lo7" fromText="CBP officers in the Pembina service area" toID="l0" toText="the Pembina service area" />
+<relation_link2 id="re17" fromID="M8" fromText="our officers in Grand Portage" toID="o11" toText="our" />
+<relation_link2 id="re18" fromID="lo9" fromText="our officers in Grand Portage" toID="g10" toText="Grand Portage" />
+<relation_link2 id="re11" fromID="lo6" fromText="Area Port Director" toID="f2" toText="Area Port" />
+<relation_link2 id="re12" fromID="M0" fromText="the Cook County Sheriff's office" toID="o7" toText="the Cook County Sheriff's office" />
+<relation_link2 id="re15" fromID="lo1" fromText="'Our vigilance and diligence are resulting in the apprehension of more fugitives attempting entry into the United States,' said Area Port Director Mary Delaquis" toID="g9" toText="the United States" />
+<relation_link2 id="re16" fromID="M1" fromText="U.S. Marine Corps Deserter" toID="o1" toText="U.S. Marine Corps" />
+<relation_link2 id="re19" fromID="M2" fromText="a deserter from the U.S. Marine Corps" toID="o3" toText="the U.S. Marine Corps" />
+<relation_link2 id="re20" fromID="lo8" fromText="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" toID="f0" toText="Border Crossing" />
+<relation_link2 id="re21" fromID="lo10" fromText="CBP Officers Arrest U.S. Marine Corps Deserter at Border Crossing" toID="f0" toText="Border Crossing" />
+<relation_link2 id="re1" fromID="lo0" fromText="John Sexton was taken into custody by CBP officers upon his entry into the United States after a check of his identification revealed that he was the subject of a National Crime Information Center felony warrant for desertion" toID="g2" toText="the United States" />
+</TAGS>
+</KddTask>

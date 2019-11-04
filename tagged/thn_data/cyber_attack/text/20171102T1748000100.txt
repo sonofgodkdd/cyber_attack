@@ -1,0 +1,18 @@
+'LeakTheAnalyst' Hacker Who Claimed to Have Hacked FireEye Arrested
+Wang Wei
+Remember the hacker who claimed to have breached FireEye late July this year?
+That alleged hacker has been arrested and taken into custody Thursday by international law enforcement, FireEye CEO Kevin Mandia informed the media.
+Late July, the hacker, whose name has not yet been disclosed, managed to hack the personal online accounts of a ‎Senior Threat Intelligence Analyst at Mandiant—a Virginia-based cybersecurity firm owned by the FireEye—and leaked nearly 32 megabytes of data belonging to Peretz.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At that time, the hacker claimed that he had started #LeakTheAnalyst operation that aimed at doxing the security analysts who hunt hackers. The hacker also claimed to have had complete access to the company's internal networks since 2016.
+"Let's trash their reputation in the field," the hacker said. "It was fun to be inside a giant company named “Mandiant” we enjoyed watching how they try to protect their clients and how their dumb analysts are trying to reverse engineer malware and stuff."
+"This leak was just a glimpse of how deep we breached into Mandiant, we might publish more critical data in the future."
+Later in August, FireEye announced that it found no evidence the company's corporate network were compromised, saying the attacker merely managed to compromise social media accounts of just one of its employees.
+The attacker did so by re-using credentials for the employee's social media and email accounts that were previously exposed in publicly-disclosed third-party data breach.
+FireEye CEO announced the hacker's arrest at the company's Q3 Earnings Results Conference Call on Wednesday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"These attackers rarely, if ever get caught...Over my career, I have found it frustrating how little risk or repercussions exist for the attackers, who hide behind the anonymity of the internet to cause harm to good, well-intentioned people," Mandia said.
+"Therefore, I am pleased that, in this case, we were able to impose repercussions for the attacker and achieve a small victory for the good guys."
+Mandia also told CRN that FireEye had to spend a "tremendous" amount of its time and effort into investigating the hacker's July claims, which costs the company a lot, both in efforts and money.
+So far, neither the law enforcement officials nor FireEye have reveal the real name of the hacker and the location from where he was arrested.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

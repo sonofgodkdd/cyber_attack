@@ -1,0 +1,32 @@
+DocuSign Data Breach Led to Targeted Email Malware Campaign
+Swati Khandelwal
+
+While we all were busy in the WannaCry ransomware menace, two separate data breaches have been reported, one in DocuSign, a major provider of electronic signature technology, and another in BELL, Canada’s largest telecommunications company.
+In a notice on its website on Tuesday, DocuSign confirmed a breach at one of its email systems when investigating the cause of an increase in DocuSign-impersonating phishing emails.
+"A malicious third party had gained temporary access to a separate, non-core system that allows us to communicate service-related announcements to users via email," DocuSign said in the announcement.
+What Happened?
+An unknown hacker or group of hackers managed to breach one of the electronic signature technology provider's email systems and steal a database containing the email addresses of DocuSign customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers then used the stolen data to conduct an extensive phishing campaign to target the DocuSign's users over the past week.
+The phishing email masqueraded as documents sent from another company with the subject line "Completed *company name* – Accounting Invoice *number* Document Ready for Signature," needing a digital signature from the recipient.
+The emails, sent from domains including dse@docus.com, included a downloadable Microsoft Word document, which when clicked, installs "macro-enabled-malware" on the victim's computers.
+What type of information?
+The company said only email addresses of its customers had been accessed in the breach.
+However, DocuSign assured its customers that no names, physical addresses, passwords, social security numbers, credit card information or any other information had been accessed by the attackers.
+"No content or any customer documents sent through DocuSign's eSignature system was accessed; and DocuSign's core eSignature service, envelopes and customer documents, and data remain secure," the company stressed.
+How many victims?
+The number of victims affected by the phishing campaign has not been confirmed, but DocuSign encourages its customers to use the DocuSign Trust Center to help them protect themselves and their employees from phishing attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Right now we are still acting on the results of our ongoing investigation and cannot comment on those details," the company said.
+What is DocuSign doing?
+In an attempt to protect its customers, DocuSign has immediately restricted unauthorized access to its system and placed further security controls in place to hardened the security of its systems.
+The company is also actively working with law enforcement authorities on the investigation of this matter.
+What should DocuSign customers do? 
+DocuSign recommended its users to delete any email with the following subject line:
+Completed: [domain name] – Wire transfer for recipient-name Document Ready for Signature
+Completed: [domain name/email address] – Accounting Invoice [Number] Document Ready for Signature.
+If you receive any suspicious email, you should forward it to the company's spam address, advised DocuSign.
+Also, if the email looks like it has come from DocuSign, just do not respond to that email or click on any link provided in the message.
+Instead, access your documents directly by visiting DocuSign official website, and entering the unique security code provided at the bottom of every legit DocuSign email.
+The company also informed its users that DocuSign never asks recipients to open any PDF, Office document or ZIP file in an email. Last but not the least, always make sure your antivirus software is up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+TSMC Chip Maker Blames WannaCry Malware for Production Halt
+Mohit Kumar
+
+Taiwan Semiconductor Manufacturing Company (TSMC)—the world's largest makers of semiconductors and processors—was forced to shut down several of its chip-fabrication factories over the weekend after being hit by a computer virus.
+Now, it turns out that the computer virus outbreak at Taiwan chipmaker was the result of a variant of WannaCry—a massive ransomware attack that wreaked havoc across the world by shutting down hospitals, telecom providers, and many businesses in May 2017.
+TSMC shut down an entire day of production this weekend after several of its factories systems were halted by a computer virus in the middle of the ramp-up for chips to be used by Apple's future lines of iPhones, which could impact revenue by approx $256 million.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the semiconductor manufacturer, its computer systems were not direct attacked by any hacker, but instead, were exposed to the malware "when a supplier installed tainted software without a virus scan" to TSMC's network.
+The virus then quickly spread to more than 10,000 machines in some of the company's most advanced facilities, including Tainan, Hsinchu, and Taichung—home to some of the cutting-edge fabrication plants that produce semiconductors for Apple.
+Although unnamed in its official statement, TSMC reportedly blamed a variant of the 2017 WannaCry ransomware attack for the infection.
+"We are surprised and shocked," TSMC CEO C.C. Wei said, "We have installed tens of thousands of tools before, and this is the first time this happened."
+Claimed to be developed and spread by North Korea, the WannaCry ransomware shut down hospitals, telecom providers, and many businesses worldwide, infecting hundreds of thousands of computers in over 150 countries within just 72 hours in May 2017.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The WannaCry victims included big names like Boeing, Renault, Honda, FedEx and the UK's National Health Service.
+The WannaCry worm was leveraging an NSA's Windows SMB exploit, known as EternalBlue, leaked by the infamous hacking group Shadow Brokers in its April data dump, along with other Windows exploits.
+TSMC assured its customers that no confidential information was stolen, and said the company has resumed full operations at its facilities, but shipment delays are expected.
+However, the chipmaker declined to discuss the implications for Apple, which is said to be ramping up production of 3 new iPhone models for this fall.
+Besides being Apple's sole supplier of SoC components for iPhones and iPads, TSMC also manufactures processors and other silicon chips for many of the industry's biggest tech companies, including AMD, NVIDIA, Qualcomm, and others.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

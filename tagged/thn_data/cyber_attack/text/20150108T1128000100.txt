@@ -1,0 +1,14 @@
+FBI Director says 'Sloppy' Sony Hackers Left Clues that Point to North Korea
+Swati Khandelwal
+
+The hackers group responsible for the last year’s largest hacking attack on Sony Pictures Entertainment left many clues which proves that the Sony's hackers, who called themselves Guardians of Peace (GOP), linked to North Korea, as claimed by the Federal Bureau of Investigation (FBI).
+Speaking at the International Conference on Cyber Security (ICCS) at Fordham University in New York on Wednesday, the director of the FBI defended his bureau's claim and said that the North Korean government was involved in the massive cyber attack against Sony Pictures – saying skeptics "don't have the facts that I have."
+"There's not much I have high confidence about," James Comey said, as reported by the FBI New York field office's official Twitter feed. "I have very high confidence... on North Korea."
+According to Comey, the hackers usually relied on proxy connections to hide their real IP address each time they sent threatening emails and made other statements; but unfortunately on some occasions they failed to follow precaution. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+During those occasions, the hackers "got sloppy" and forgot to route their connection, revealing their own IP addresses, which were used exclusively by North Korean government. This clearly indicates that the North-Koreans are behind the cyber attack on Sony Pictures.
+Previously when the FBI linked the Sony Pictures incident to North Korea, it didn’t provide exact evidence. But on Wednesday, the FBI boss offered the most detailed explanation about the cyber attack yet of the government's reasoning, giving law enforcement a "very clear indication of who was doing this."
+Previously the hacker group also gave hint when it demanded Sony to cancel the release of "The Interview" — the Seth Rogen and James Franco-starring comedy centered around a TV host and his producer assassinating North Korean dictator Kim Jong Un, citing terror threats against movie theatres.
+So far, it is unclear how the attackers penetrated Sony Pictures' network. However, Comey said that FBI was still investigating how the hackers got the way into the network that helped them to fetch huge amount of confidential data, but he also noted that the company had been targeted by "spear phishing" campaigns—including one that occurred in September.
+The FBI director also reaffirmed his concerns about the widely use of encryption on mobile devices, which would indirectly allow every individuals to "go dark" and avoid law enforcement surveillance. This would made it impossible for law enforcement to find out bad actors. "There are significant public safety issues here (and) we need to talk about it," Comey said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

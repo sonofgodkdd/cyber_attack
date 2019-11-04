@@ -1,0 +1,19 @@
+Man Who Hacked Jail Systems to Release His Friend Early Gets 7-Years in Prison
+Mohit Kumar
+
+Remember a young hacker who hacked jail systems in an attempt to release his prison inmate early?
+Well, that hacker will now be joining his inmate behind bars.
+Konrads Voits of Ypsilanti, Michigan, has been sentenced to seven years and three months in prison for attempting to hack the Washtenaw County Jail computer system and modifying prison records to get his friend released early.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides spending 87 months in prison, Voits has also been ordered to pay $235,488 in fine to Washtenaw County for the cost accrued in investigating and cleaning up the infiltration that resulted in the compromise of personal information of around 1,600 employees, the US Justice Department announced last week.
+Between January 24th, 2017 and March 10th, 2017, Voits successfully tricked IT staff at Washtenaw County Jail into visiting a phony website at "ewashtenavv.org," which mimics the official URL, "ewashtenaw.org."
+The malicious website then installed malware on the IT staff computer that eventually gave Voits complete control over the Jail's network, allowing him to steal search warrant affidavits and personal details of over 1,600 employees, including names, email addresses, and passwords.
+Besides this, Voits also accessed the Washtenaw County Jail records and altered the electronic records of at least one inmate for early release.
+However, things did not work as Voits wanted them to.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+An IT employee cross-checked the release date of the inmate with hand-kept records and detected changes in the records. He alerted the FBI, who arrested Voits a month later.
+"Thanks to the quick response of the IT employees at Washtenaw County, and to the careful review of records by employees at the Washtenaw County Jail, nobody was released early," the DoJ said last week.
+"Washtenaw County spent thousands of dollars and numerous extra work hours responding to and investigating the breach, resulting in a loss of at least $235,488."
+The 27-year-old Michigan man pleaded guilty to one federal charge of damaging a protected computer in December last year and has now been jailed for seven years and three months behind bars, alongside up to 3 years of supervised release.
+Voits has also agreed to surrender his belongings he used during the attack, including his laptop, four mobile phones (using which he called prison staff), $385.49 worth of Bitcoin, and one "Green Integrated Circuit Component, Serial No. Y21A2123."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

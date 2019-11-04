@@ -1,0 +1,18 @@
+North Korean Hackers Steal thousands of Military files from S. Korea
+Mohit Kumar
+
+Hackers aligned with North Korea have always been accused of attacking and targeting South Korean organizations, financial institutions, banks and media outlets.
+Recent reports indicate that North Korean hackers have hacked into more than 140,000 computers of at least 160 South Korean government agencies and companies, and allegedly injected malware in the systems.
+The cyber attack was designed to lay for a long term period against its rival, authorities in Seoul said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The South Korean police were on high alert against cyberattacks by the North Korean hackers, especially after North Korea successfully tested a miniaturized hydrogen bomb in January and a long-range rocket launch in February, Reuters reports.
+According to the police, the hacking attack began in 2014 but was detected only in February this year, after North Korea managed to steal information from two companies: the SK and Hanjin Group.
+The documents stolen from the two companies included blueprints for the wings of F-15 fighter jets, an official at the South Korea cyber investigation unit confirmed.
+The investigation unit said, "There is a high possibility that the North aimed to cause confusion on a national scale by launching a simultaneous attack after securing many targets of cyber terror, or intended to continuously steal industrial and military secrets."
+More than 42,000 materials were stolen in the hack, of which more than 40,000 materials were defense-related.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although a South Korean defense ministry official said that the stolen documents were not secret and that there wasn’t any security breach, a spokesperson from SK Holdings stated that 4 group affiliates were affected by the cyber attack.
+The cyber attack originated from an IP address traced down to the North Korea and was intended to target the network management software used by 160 companies and government agencies in South Korea.
+The police declined to identify the malicious software, though the IP address from where the hack was originated was identical to one used in a 2013 cyberattack against banks and TV broadcasters in South Korea.
+The South Korean police were then teamed up with companies and other government agencies to disable the malware and prevent the malicious code from further spreading, in what could lead to a massive cyber attack.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers in Naco Seize $51,000 in Marijuana from Center Console
+(Monday, January 11, 2010)
+Naco, Ariz.  - U.S. Customs and Border Protection officers stopped a marijuana smuggling attempt when they seized $51,000 of marijuana concealed in the center console of a vehicle.
+On January 7 at about 7 a.m. CBP officers became suspicious of a 2007 Tahoe that was being driven by a 22-year-old man. The man was identified as a United States citizen and resident of Naco, Ariz. CBP officers searched the vehicle and discovered that the center console was filled with approximately 32 pounds of marijuana. The marijuana had an estimated street value of $51,000.
+CBP officers seized the vehicle and marijuana. The man was turned over to the custody of Immigration and Customs Enforcement for further investigation and prosecution.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="21" text="CBP Officers in Naco" TYPE="BAR" />
+<person id="p1" start="111" end="154" text="U.S. Customs and Border Protection officers" TYPE="BAR" />
+<person id="p2" start="198" end="202" text="they" TYPE="PRO" />
+<person id="p3" start="306" end="318" text="CBP officers" TYPE="BAR" />
+<person id="p4" start="378" end="395" text="a 22-year-old man" TYPE="NOM" />
+<person id="p5" start="397" end="404" text="The man" TYPE="NOM" />
+<person id="p7" start="423" end="473" text="a United States citizen and resident of Naco, Ariz" TYPE="NOM" />
+<person id="p8" start="423" end="473" text="a United States citizen and resident of Naco, Ariz" TYPE="NOM" />
+<person id="p9" start="475" end="487" text="CBP officers" TYPE="BAR" />
+<person id="p10" start="658" end="670" text="CBP officers" TYPE="BAR" />
+<person id="p11" start="705" end="712" text="The man" TYPE="USP" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="111" end="145" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="306" end="309" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="475" end="478" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="658" end="661" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="747" end="782" text="Immigration and Customs Enforcement" TYPE="NAM" />
+<geographical-political id="g0" start="17" end="21" text="Naco" TYPE="NAM" />
+<geographical-political id="g1" start="96" end="106" text="Naco, Ariz" TYPE="NAM" />
+<geographical-political id="g2" start="102" end="106" text="Ariz" TYPE="NAM" />
+<geographical-political id="g3" start="111" end="115" text="U.S." TYPE="NAM" />
+<geographical-political id="g4" start="425" end="438" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="463" end="473" text="Naco, Ariz" TYPE="NAM" />
+<geographical-political id="g6" start="469" end="473" text="Ariz" TYPE="NAM" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="17" end="21" text="Naco" />
+<head id="h3" start="96" end="100" text="Naco" />
+<head id="h4" start="102" end="106" text="Ariz" />
+<head id="h5" start="146" end="154" text="officers" />
+<head id="h7" start="111" end="145" text="U.S. Customs and Border Protection" />
+<head id="h8" start="111" end="115" text="U.S." />
+<head id="h9" start="198" end="202" text="they" />
+<head id="h10" start="310" end="318" text="officers" />
+<head id="h11" start="306" end="309" text="CBP" />
+<head id="h12" start="392" end="395" text="man" />
+<head id="h13" start="401" end="404" text="man" />
+<head id="h14" start="439" end="446" text="citizen" />
+<head id="h15" start="425" end="438" text="United States" />
+<head id="h17" start="451" end="459" text="resident" />
+<head id="h18" start="463" end="467" text="Naco" />
+<head id="h19" start="469" end="473" text="Ariz" />
+<head id="h20" start="479" end="487" text="officers" />
+<head id="h21" start="475" end="478" text="CBP" />
+<head id="h22" start="662" end="670" text="officers" />
+<head id="h23" start="658" end="661" text="CBP" />
+<head id="h24" start="709" end="712" text="man" />
+<head id="h25" start="747" end="782" text="Immigration and Customs Enforcement" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="17" end="21" text="Naco" />
+<name id="n2" start="96" end="100" text="Naco" />
+<name id="n3" start="102" end="106" text="Ariz" />
+<name id="n5" start="111" end="145" text="U.S. Customs and Border Protection" />
+<name id="n6" start="111" end="115" text="U.S." />
+<name id="n7" start="306" end="309" text="CBP" />
+<name id="n8" start="425" end="438" text="United States" />
+<name id="n9" start="463" end="467" text="Naco" />
+<name id="n10" start="469" end="473" text="Ariz" />
+<name id="n11" start="475" end="478" text="CBP" />
+<name id="n12" start="658" end="661" text="CBP" />
+<name id="n13" start="747" end="782" text="Immigration and Customs Enforcement" />
+<located-mention id="lo0" start="1" end="21" text="CBP Officers in Naco" TYPE="Preposition" />
+<employment-mention id="e0" start="1" end="21" text="CBP Officers in Naco" TYPE="PreMod" />
+<employment-mention id="e1" start="111" end="154" text="U.S. Customs and Border Protection officers" TYPE="PreMod" />
+<employment-mention id="e2" start="306" end="318" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e3" start="475" end="487" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e4" start="658" end="670" text="CBP officers" TYPE="PreMod" />
+<CRRE id="C0" start="423" end="473" text="a United States citizen and resident of Naco, Ariz" TYPE="PreMod" />
+<CRRE id="C1" start="423" end="473" text="a United States citizen and resident of Naco, Ariz" TYPE="Preposition" />
+<entity_link id="en0" fromID="p1" fromText="U.S. Customs and Border Protection officers" toID="p0" toText="CBP Officers in Naco" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="p2" fromText="they" toID="p1" toText="U.S. Customs and Border Protection officers" />
+<entity_link id="en3" fromID="p5" fromText="The man" toID="p4" toText="a 22-year-old man" />
+<entity_link id="en5" fromID="g4" fromText="United States" toID="g3" toText="U.S." />
+<entity_link id="en6" fromID="p7" fromText="a United States citizen and resident of Naco, Ariz" toID="p5" toText="The man" />
+<entity_link id="en7" fromID="p8" fromText="a United States citizen and resident of Naco, Ariz" toID="p7" toText="a United States citizen and resident of Naco, Ariz" />
+<entity_link id="en8" fromID="g5" fromText="Naco, Ariz" toID="g1" toText="Naco, Ariz" />
+<entity_link id="en9" fromID="g1" fromText="Naco, Ariz" toID="g0" toText="Naco" />
+<entity_link id="en10" fromID="g6" fromText="Ariz" toID="g2" toText="Ariz" />
+<entity_link id="en11" fromID="p9" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<entity_link id="en12" fromID="o3" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en13" fromID="p10" fromText="CBP officers" toID="p9" toText="CBP officers" />
+<entity_link id="en14" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en15" fromID="p11" fromText="The man" toID="p8" toText="a United States citizen and resident of Naco, Ariz" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers in Naco" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="g0" fromText="Naco" toID="h2" toText="Naco" />
+<head_link id="he3" fromID="g1" fromText="Naco, Ariz" toID="h3" toText="Naco" />
+<head_link id="he4" fromID="p1" fromText="U.S. Customs and Border Protection officers" toID="h5" toText="officers" />
+<head_link id="he5" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h7" toText="U.S. Customs and Border Protection" />
+<head_link id="he6" fromID="g3" fromText="U.S." toID="h8" toText="U.S." />
+<head_link id="he7" fromID="p2" fromText="they" toID="h9" toText="they" />
+<head_link id="he8" fromID="p3" fromText="CBP officers" toID="h10" toText="officers" />
+<head_link id="he9" fromID="o2" fromText="CBP" toID="h11" toText="CBP" />
+<head_link id="he10" fromID="p4" fromText="a 22-year-old man" toID="h12" toText="man" />
+<head_link id="he11" fromID="p5" fromText="The man" toID="h13" toText="man" />
+<head_link id="he13" fromID="g4" fromText="United States" toID="h15" toText="United States" />
+<head_link id="he14" fromID="p7" fromText="a United States citizen and resident of Naco, Ariz" toID="h14" toText="citizen" />
+<head_link id="he15" fromID="p7" fromText="a United States citizen and resident of Naco, Ariz" toID="h17" toText="resident" />
+<head_link id="he16" fromID="g5" fromText="Naco, Ariz" toID="h18" toText="Naco" />
+<head_link id="he17" fromID="g6" fromText="Ariz" toID="h19" toText="Ariz" />
+<head_link id="he18" fromID="p9" fromText="CBP officers" toID="h20" toText="officers" />
+<head_link id="he19" fromID="o3" fromText="CBP" toID="h21" toText="CBP" />
+<head_link id="he20" fromID="p10" fromText="CBP officers" toID="h22" toText="officers" />
+<head_link id="he21" fromID="o4" fromText="CBP" toID="h23" toText="CBP" />
+<head_link id="he22" fromID="p11" fromText="The man" toID="h24" toText="man" />
+<head_link id="he23" fromID="o5" fromText="Immigration and Customs Enforcement" toID="h25" toText="Immigration and Customs Enforcement" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Naco" toID="n1" toText="Naco" />
+<name_link id="na2" fromID="g1" fromText="Naco, Ariz" toID="n2" toText="Naco" />
+<name_link id="na3" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n5" toText="U.S. Customs and Border Protection" />
+<name_link id="na4" fromID="g3" fromText="U.S." toID="n6" toText="U.S." />
+<name_link id="na5" fromID="o2" fromText="CBP" toID="n7" toText="CBP" />
+<name_link id="na6" fromID="g4" fromText="United States" toID="n8" toText="United States" />
+<name_link id="na7" fromID="g5" fromText="Naco, Ariz" toID="n9" toText="Naco" />
+<name_link id="na8" fromID="g6" fromText="Ariz" toID="n10" toText="Ariz" />
+<name_link id="na9" fromID="o3" fromText="CBP" toID="n11" toText="CBP" />
+<name_link id="na10" fromID="o4" fromText="CBP" toID="n12" toText="CBP" />
+<name_link id="na11" fromID="o5" fromText="Immigration and Customs Enforcement" toID="n13" toText="Immigration and Customs Enforcement" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers in Naco" toID="p0" toText="CBP Officers in Naco" />
+<relation_link1 id="r1" fromID="e1" fromText="U.S. Customs and Border Protection officers" toID="p1" toText="U.S. Customs and Border Protection officers" />
+<relation_link1 id="r2" fromID="e2" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<relation_link1 id="r3" fromID="lo0" fromText="CBP Officers in Naco" toID="p0" toText="CBP Officers in Naco" />
+<relation_link1 id="r4" fromID="e3" fromText="CBP officers" toID="p9" toText="CBP officers" />
+<relation_link1 id="r5" fromID="e4" fromText="CBP officers" toID="p10" toText="CBP officers" />
+<relation_link1 id="r6" fromID="C0" fromText="a United States citizen and resident of Naco, Ariz" toID="p7" toText="a United States citizen and resident of Naco, Ariz" />
+<relation_link1 id="r7" fromID="C1" fromText="a United States citizen and resident of Naco, Ariz" toID="p8" toText="a United States citizen and resident of Naco, Ariz" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers in Naco" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="e1" fromText="U.S. Customs and Border Protection officers" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re2" fromID="e2" fromText="CBP officers" toID="o2" toText="CBP" />
+<relation_link2 id="re3" fromID="lo0" fromText="CBP Officers in Naco" toID="g0" toText="Naco" />
+<relation_link2 id="re4" fromID="e3" fromText="CBP officers" toID="o3" toText="CBP" />
+<relation_link2 id="re5" fromID="e4" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re6" fromID="C0" fromText="a United States citizen and resident of Naco, Ariz" toID="g4" toText="United States" />
+<relation_link2 id="re7" fromID="C1" fromText="a United States citizen and resident of Naco, Ariz" toID="g5" toText="Naco, Ariz" />
+</TAGS>
+</KddTask>

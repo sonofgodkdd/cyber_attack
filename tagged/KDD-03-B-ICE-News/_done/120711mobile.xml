@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+July 11, 2012
+Texas drug trafficker sentenced to life in prison
+MOBILE, Ala. - A Texas man was sentenced to life in prison Tuesday for his participation in a conspiracy to distribute cocaine in Alabama, following an investigation by U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI) and the Mobile County Sheriff's Office.
+Frank James Abston, 40, of Houston, Texas, was sentenced to life imprisonment in federal court after he entered a guilty plea to the charges in November 2011. Judge Callie V. S. Granade imposed the life sentence after conducting a hearing to determine the advisory guideline range applicable to Abston's case. Six witnesses testified to their extensive drug transactions with Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County.
+"With Mr. Abston's previous criminal history, he should have known that severe consequences were in store for him should he continue to violate the law," said Raymond R. Parmer Jr., special agent in charge of HSI New Orleans. "HSI has had no better partners than the Mobile County Sheriff's Office and the U.S. Attorney's Office for the Southern District of Alabama in identifying and arresting significant drug traffickers in our area of operations. This significant sentence should put Mr. Abston's former colleagues on notice that they will either reform their ways or share his fate." Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee.
+According to the testimony, most of the drug transactions occurred in south Mobile County, in the Grand Bay area. Abston's co-defendant, Walter Lee Hodges, testified that Abston hired him to transport cocaine on the bus two days before they were arrested by Mobile County sheriff's deputies. Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile. When they were stopped in a vehicle off Interstate 10 in Mobile, they had approximately 500 grams of cocaine in the car. Hodges testified that Abston sold the rest of the cocaine the night they arrived and the next morning.
+Abston testified at the hearing in his own behalf, and he claimed that he was only minimally involved in selling drugs and that his former defense attorney misled him about the terms of his guilty plea. After the testimony was concluded, Judge Granade found that Abston occupied a position of leadership in the conspiracy, that he was accountable for at least 127 kilograms of cocaine and 1.4 kilograms of crack cocaine (both figures she characterized as very conservative), and that Abston was not entitled to any mitigation in the guideline calculations because he had not been truthful in his testimony before the court. Judge Granade found that his advisory guideline range was life imprisonment, and that because of his prior drug convictions, the federal enhancement statute also called for a life sentence.
+The case was prosecuted by Assistant United States Attorney Gloria Bedwell.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="15" end="64" text="Texas drug trafficker sentenced to life in prison" TYPE="BAR" />
+<person id="p1" start="80" end="91" text="A Texas man" TYPE="NOM" />
+<person id="p2" start="136" end="139" text="his" TYPE="PRO" />
+<person id="p3" start="326" end="351" text="the Mobile County Sheriff" TYPE="NOM" />
+<person id="p4" start="362" end="403" text="Frank James Abston, 40, of Houston, Texas" TYPE="NAM" />
+<person id="p5" start="463" end="465" text="he" TYPE="PRO" />
+<person id="p6" start="521" end="547" text="Judge Callie V. S. Granade" TYPE="NAM" />
+<person id="p7" start="521" end="526" text="Judge" TYPE="NOMPRE" />
+<person id="p8" start="657" end="663" text="Abston" TYPE="NAM" />
+<person id="p9" start="672" end="685" text="Six witnesses" TYPE="NOM" />
+<person id="p10" start="699" end="704" text="their" TYPE="PRO" />
+<person id="p11" start="738" end="833" text="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" TYPE="NAM" />
+<person id="p12" start="746" end="749" text="who" TYPE="WHQ" />
+<person id="p13" start="771" end="833" text="a major supplier of cocaine and crack cocaine in Mobile County" TYPE="NOM" />
+<person id="p14" start="841" end="851" text="Mr. Abston" TYPE="NAM" />
+<person id="p15" start="841" end="843" text="Mr" TYPE="NOMPRE" />
+<person id="p16" start="881" end="883" text="he" TYPE="PRO" />
+<person id="p17" start="945" end="948" text="him" TYPE="PRO" />
+<person id="p18" start="956" end="958" text="he" TYPE="PRO" />
+<person id="p19" start="994" end="1059" text="Raymond R. Parmer Jr., special agent in charge of HSI New Orleans" TYPE="APP" />
+<person id="p20" start="994" end="1014" text="Raymond R. Parmer Jr" TYPE="NAM" />
+<person id="p21" start="1017" end="1059" text="special agent in charge of HSI New Orleans" TYPE="BAR" />
+<person id="p22" start="1098" end="1123" text="the Mobile County Sheriff" TYPE="NOM" />
+<person id="p24" start="1230" end="1284" text="significant drug traffickers in our area of operations" TYPE="BAR" />
+<person id="p25" start="1323" end="1353" text="Mr. Abston's former colleagues" TYPE="NOM" />
+<person id="p26" start="1323" end="1333" text="Mr. Abston" TYPE="NAM" />
+<person id="p27" start="1323" end="1325" text="Mr" TYPE="NOMPRE" />
+<person id="p28" start="1369" end="1373" text="they" TYPE="PRO" />
+<person id="p29" start="1393" end="1398" text="their" TYPE="PRO" />
+<person id="p30" start="1413" end="1416" text="his" TYPE="PRO" />
+<person id="p31" start="1424" end="1430" text="Parmer" TYPE="NAM" />
+<person id="p32" start="1629" end="1669" text="Abston's co-defendant, Walter Lee Hodges" TYPE="NOM" />
+<person id="p33" start="1652" end="1669" text="Walter Lee Hodges" TYPE="NAM" />
+<person id="p34" start="1629" end="1635" text="Abston" TYPE="NAM" />
+<person id="p35" start="1686" end="1692" text="Abston" TYPE="NAM" />
+<person id="p36" start="1699" end="1702" text="him" TYPE="PRO" />
+<person id="p38" start="1773" end="1805" text="Mobile County sheriff's deputies" TYPE="NOM" />
+<person id="p39" start="1773" end="1794" text="Mobile County sheriff" TYPE="BAR" />
+<person id="p40" start="1807" end="1813" text="Hodges" TYPE="NAM" />
+<person id="p41" start="1829" end="1831" text="he" TYPE="PRO" />
+<person id="p23" start="1836" end="1855" text="Abston's girlfriend" TYPE="NOM" />
+<person id="p37" start="1836" end="1842" text="Abston" TYPE="NAM" />
+<person id="p42" start="1856" end="1860" text="each" TYPE="HLS" />
+<person id="p43" start="1931" end="1935" text="they" TYPE="PRO" />
+<person id="p44" start="1991" end="1995" text="they" TYPE="PRO" />
+<person id="p45" start="2047" end="2053" text="Hodges" TYPE="NAM" />
+<person id="p46" start="2069" end="2075" text="Abston" TYPE="NAM" />
+<person id="p47" start="2115" end="2119" text="they" TYPE="PRO" />
+<person id="p48" start="2150" end="2156" text="Abston" TYPE="NAM" />
+<person id="p49" start="2185" end="2188" text="his" TYPE="PRO" />
+<person id="p50" start="2205" end="2207" text="he" TYPE="PRO" />
+<person id="p51" start="2221" end="2223" text="he" TYPE="PRO" />
+<person id="p52" start="2278" end="2305" text="his former defense attorney" TYPE="NOM" />
+<person id="p53" start="2278" end="2281" text="his" TYPE="PRO" />
+<person id="p54" start="2313" end="2316" text="him" TYPE="PRO" />
+<person id="p55" start="2336" end="2339" text="his" TYPE="PRO" />
+<person id="p56" start="2388" end="2401" text="Judge Granade" TYPE="NAM" />
+<person id="p57" start="2388" end="2393" text="Judge" TYPE="NOMPRE" />
+<person id="p58" start="2413" end="2419" text="Abston" TYPE="NAM" />
+<person id="p59" start="2478" end="2480" text="he" TYPE="PRO" />
+<person id="p60" start="2584" end="2587" text="she" TYPE="PRO" />
+<person id="p61" start="2634" end="2640" text="Abston" TYPE="NAM" />
+<person id="p62" start="2714" end="2716" text="he" TYPE="PRO" />
+<person id="p63" start="2742" end="2745" text="his" TYPE="PRO" />
+<person id="p64" start="2774" end="2787" text="Judge Granade" TYPE="NAM" />
+<person id="p65" start="2774" end="2779" text="Judge" TYPE="NOMPRE" />
+<person id="p66" start="2799" end="2802" text="his" TYPE="PRO" />
+<person id="p67" start="2871" end="2874" text="his" TYPE="PRO" />
+<person id="p68" start="2991" end="3038" text="Assistant United States Attorney Gloria Bedwell" TYPE="NAM" />
+<person id="p69" start="2991" end="3023" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="234" end="320" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o1" start="317" end="320" text="HSI" TYPE="NAM" />
+<organization id="o2" start="234" end="281" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o3" start="278" end="281" text="ICE" TYPE="NAM" />
+<organization id="o4" start="326" end="360" text="the Mobile County Sheriff's Office" TYPE="NOM" />
+<organization id="o5" start="443" end="456" text="federal court" TYPE="BAR" />
+<organization id="o6" start="1044" end="1059" text="HSI New Orleans" TYPE="NAM" />
+<organization id="o7" start="1062" end="1065" text="HSI" TYPE="NAM" />
+<organization id="o8" start="1077" end="1284" text="better partners than the Mobile County Sheriff's Office and the U.S. Attorney's Office for the Southern District of Alabama in identifying and arresting significant drug traffickers in our area of operations" TYPE="BAR" />
+<organization id="o9" start="1098" end="1132" text="the Mobile County Sheriff's Office" TYPE="NOM" />
+<organization id="o11" start="1137" end="1200" text="the U.S. Attorney's Office for the Southern District of Alabama" TYPE="NOM" />
+<organization id="o12" start="1262" end="1265" text="our" TYPE="PRO" />
+<organization id="o13" start="1440" end="1443" text="HSI" TYPE="NAMPRE" />
+<organization id="o10" start="2763" end="2772" text="the court" TYPE="NOM" />
+<geographical-political id="g0" start="15" end="20" text="Texas" TYPE="NAMPRE" />
+<geographical-political id="g1" start="65" end="76" text="MOBILE, Ala" TYPE="NAM" />
+<geographical-political id="g2" start="73" end="76" text="Ala" TYPE="NAM" />
+<geographical-political id="g3" start="82" end="87" text="Texas" TYPE="NAMPRE" />
+<geographical-political id="g4" start="195" end="202" text="Alabama" TYPE="NAM" />
+<geographical-political id="g5" start="330" end="343" text="Mobile County" TYPE="NAMPRE" />
+<geographical-political id="g6" start="389" end="403" text="Houston, Texas" TYPE="NAM" />
+<geographical-political id="g7" start="398" end="403" text="Texas" TYPE="NAM" />
+<geographical-political id="g8" start="820" end="833" text="Mobile County" TYPE="NAM" />
+<geographical-political id="g9" start="1102" end="1115" text="Mobile County" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1458" end="1465" text="Alabama" TYPE="NAM" />
+<geographical-political id="g12" start="1467" end="1476" text="Louisiana" TYPE="NAM" />
+<geographical-political id="g13" start="1478" end="1486" text="Arkansas" TYPE="NAM" />
+<geographical-political id="g14" start="1488" end="1499" text="Mississippi" TYPE="NAM" />
+<geographical-political id="g15" start="1504" end="1513" text="Tennessee" TYPE="NAM" />
+<geographical-political id="g16" start="1613" end="1622" text="Grand Bay" TYPE="NAMPRE" />
+<geographical-political id="g17" start="1773" end="1786" text="Mobile County" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1907" end="1914" text="Houston" TYPE="NAM" />
+<geographical-political id="g18" start="1918" end="1924" text="Mobile" TYPE="NAM" />
+<geographical-political id="g19" start="1983" end="1989" text="Mobile" TYPE="NAM" />
+<geographical-political id="g20" start="3001" end="3014" text="United States" TYPE="NAMPRE" />
+<location id="l0" start="1585" end="1604" text="south Mobile County" TYPE="BAR" />
+<location id="l1" start="1609" end="1627" text="the Grand Bay area" TYPE="NOM" />
+<falicity id="f0" start="58" end="64" text="prison" TYPE="BAR" />
+<falicity id="f1" start="117" end="123" text="prison" TYPE="BAR" />
+<falicity id="f2" start="1966" end="1989" text="Interstate 10 in Mobile" TYPE="NAM" />
+<head id="h0" start="26" end="36" text="trafficker" />
+<head id="h1" start="15" end="20" text="Texas" />
+<head id="h2" start="58" end="64" text="prison" />
+<head id="h3" start="65" end="71" text="MOBILE" />
+<head id="h4" start="73" end="76" text="Ala" />
+<head id="h5" start="88" end="91" text="man" />
+<head id="h6" start="82" end="87" text="Texas" />
+<head id="h7" start="117" end="123" text="prison" />
+<head id="h8" start="136" end="139" text="his" />
+<head id="h9" start="195" end="202" text="Alabama" />
+<head id="h10" start="283" end="315" text="Homeland Security Investigations" />
+<head id="h11" start="317" end="320" text="HSI" />
+<head id="h12" start="234" end="274" text="U.S. Immigration and Customs Enforcement" />
+<head id="h13" start="278" end="281" text="ICE" />
+<head id="h14" start="354" end="360" text="Office" />
+<head id="h15" start="344" end="351" text="Sheriff" />
+<head id="h16" start="330" end="343" text="Mobile County" />
+<head id="h17" start="362" end="380" text="Frank James Abston" />
+<head id="h18" start="389" end="396" text="Houston" />
+<head id="h19" start="398" end="403" text="Texas" />
+<head id="h20" start="451" end="456" text="court" />
+<head id="h21" start="463" end="465" text="he" />
+<head id="h22" start="527" end="547" text="Callie V. S. Granade" />
+<head id="h23" start="521" end="526" text="Judge" />
+<head id="h24" start="657" end="663" text="Abston" />
+<head id="h25" start="676" end="685" text="witnesses" />
+<head id="h26" start="699" end="704" text="their" />
+<head id="h27" start="738" end="744" text="Abston" />
+<head id="h28" start="746" end="749" text="who" />
+<head id="h29" start="779" end="787" text="supplier" />
+<head id="h30" start="820" end="833" text="Mobile County" />
+<head id="h31" start="845" end="851" text="Abston" />
+<head id="h32" start="841" end="843" text="Mr" />
+<head id="h33" start="881" end="883" text="he" />
+<head id="h34" start="945" end="948" text="him" />
+<head id="h35" start="956" end="958" text="he" />
+<head id="h36" start="994" end="1014" text="Raymond R. Parmer Jr" />
+<head id="h37" start="1025" end="1030" text="agent" />
+<head id="h38" start="1044" end="1059" text="HSI New Orleans" />
+<head id="h39" start="1062" end="1065" text="HSI" />
+<head id="h40" start="1084" end="1092" text="partners" />
+<head id="h41" start="1126" end="1132" text="Office" />
+<head id="h42" start="1116" end="1123" text="Sheriff" />
+<head id="h43" start="1102" end="1115" text="Mobile County" />
+<head id="h47" start="1141" end="1200" text="U.S. Attorney's Office for the Southern District of Alabama" />
+<head id="h48" start="1247" end="1258" text="traffickers" />
+<head id="h49" start="1262" end="1265" text="our" />
+<head id="h50" start="1343" end="1353" text="colleagues" />
+<head id="h51" start="1327" end="1333" text="Abston" />
+<head id="h52" start="1323" end="1325" text="Mr" />
+<head id="h53" start="1369" end="1373" text="they" />
+<head id="h54" start="1393" end="1398" text="their" />
+<head id="h55" start="1413" end="1416" text="his" />
+<head id="h56" start="1424" end="1430" text="Parmer" />
+<head id="h57" start="1440" end="1443" text="HSI" />
+<head id="h58" start="1458" end="1465" text="Alabama" />
+<head id="h59" start="1467" end="1476" text="Louisiana" />
+<head id="h60" start="1478" end="1486" text="Arkansas" />
+<head id="h61" start="1488" end="1499" text="Mississippi" />
+<head id="h62" start="1504" end="1513" text="Tennessee" />
+<head id="h63" start="1591" end="1604" text="Mobile County" />
+<head id="h64" start="1623" end="1627" text="area" />
+<head id="h65" start="1613" end="1622" text="Grand Bay" />
+<head id="h66" start="1638" end="1650" text="co-defendant" />
+<head id="h67" start="1652" end="1669" text="Walter Lee Hodges" />
+<head id="h68" start="1629" end="1635" text="Abston" />
+<head id="h69" start="1686" end="1692" text="Abston" />
+<head id="h70" start="1699" end="1702" text="him" />
+<head id="h72" start="1797" end="1805" text="deputies" />
+<head id="h73" start="1787" end="1794" text="sheriff" />
+<head id="h74" start="1773" end="1786" text="Mobile County" />
+<head id="h75" start="1807" end="1813" text="Hodges" />
+<head id="h76" start="1829" end="1831" text="he" />
+<head id="h44" start="1845" end="1855" text="girlfriend" />
+<head id="h45" start="1836" end="1842" text="Abston" />
+<head id="h46" start="1856" end="1860" text="each" />
+<head id="h71" start="1907" end="1914" text="Houston" />
+<head id="h77" start="1918" end="1924" text="Mobile" />
+<head id="h78" start="1931" end="1935" text="they" />
+<head id="h79" start="1966" end="1979" text="Interstate 10" />
+<head id="h80" start="1983" end="1989" text="Mobile" />
+<head id="h81" start="1991" end="1995" text="they" />
+<head id="h82" start="2047" end="2053" text="Hodges" />
+<head id="h83" start="2069" end="2075" text="Abston" />
+<head id="h84" start="2115" end="2119" text="they" />
+<head id="h85" start="2150" end="2156" text="Abston" />
+<head id="h86" start="2185" end="2188" text="his" />
+<head id="h87" start="2205" end="2207" text="he" />
+<head id="h88" start="2221" end="2223" text="he" />
+<head id="h89" start="2297" end="2305" text="attorney" />
+<head id="h90" start="2278" end="2281" text="his" />
+<head id="h91" start="2313" end="2316" text="him" />
+<head id="h92" start="2336" end="2339" text="his" />
+<head id="h93" start="2394" end="2401" text="Granade" />
+<head id="h94" start="2388" end="2393" text="Judge" />
+<head id="h95" start="2413" end="2419" text="Abston" />
+<head id="h96" start="2478" end="2480" text="he" />
+<head id="h97" start="2584" end="2587" text="she" />
+<head id="h98" start="2634" end="2640" text="Abston" />
+<head id="h99" start="2714" end="2716" text="he" />
+<head id="h100" start="2742" end="2745" text="his" />
+<head id="h101" start="2767" end="2772" text="court" />
+<head id="h102" start="2780" end="2787" text="Granade" />
+<head id="h103" start="2774" end="2779" text="Judge" />
+<head id="h104" start="2799" end="2802" text="his" />
+<head id="h105" start="2871" end="2874" text="his" />
+<head id="h106" start="3024" end="3038" text="Gloria Bedwell" />
+<head id="h107" start="3015" end="3023" text="Attorney" />
+<head id="h108" start="3001" end="3014" text="United States" />
+<name id="n0" start="15" end="20" text="Texas" />
+<name id="n1" start="65" end="71" text="MOBILE" />
+<name id="n2" start="73" end="76" text="Ala" />
+<name id="n3" start="82" end="87" text="Texas" />
+<name id="n4" start="195" end="202" text="Alabama" />
+<name id="n5" start="283" end="315" text="Homeland Security Investigations" />
+<name id="n6" start="317" end="320" text="HSI" />
+<name id="n7" start="234" end="274" text="U.S. Immigration and Customs Enforcement" />
+<name id="n8" start="278" end="281" text="ICE" />
+<name id="n9" start="330" end="343" text="Mobile County" />
+<name id="n10" start="362" end="380" text="Frank James Abston" />
+<name id="n11" start="389" end="396" text="Houston" />
+<name id="n12" start="398" end="403" text="Texas" />
+<name id="n13" start="527" end="547" text="Callie V. S. Granade" />
+<name id="n14" start="657" end="663" text="Abston" />
+<name id="n15" start="738" end="744" text="Abston" />
+<name id="n16" start="820" end="833" text="Mobile County" />
+<name id="n17" start="845" end="851" text="Abston" />
+<name id="n18" start="994" end="1014" text="Raymond R. Parmer Jr" />
+<name id="n19" start="1044" end="1059" text="HSI New Orleans" />
+<name id="n20" start="1062" end="1065" text="HSI" />
+<name id="n21" start="1102" end="1115" text="Mobile County" />
+<name id="n23" start="1141" end="1200" text="U.S. Attorney's Office for the Southern District of Alabama" />
+<name id="n24" start="1327" end="1333" text="Abston" />
+<name id="n25" start="1424" end="1430" text="Parmer" />
+<name id="n26" start="1440" end="1443" text="HSI" />
+<name id="n27" start="1458" end="1465" text="Alabama" />
+<name id="n28" start="1467" end="1476" text="Louisiana" />
+<name id="n29" start="1478" end="1486" text="Arkansas" />
+<name id="n30" start="1488" end="1499" text="Mississippi" />
+<name id="n31" start="1504" end="1513" text="Tennessee" />
+<name id="n32" start="1613" end="1622" text="Grand Bay" />
+<name id="n33" start="1652" end="1669" text="Walter Lee Hodges" />
+<name id="n34" start="1629" end="1635" text="Abston" />
+<name id="n35" start="1686" end="1692" text="Abston" />
+<name id="n36" start="1773" end="1786" text="Mobile County" />
+<name id="n37" start="1807" end="1813" text="Hodges" />
+<name id="n22" start="1836" end="1842" text="Abston" />
+<name id="n38" start="1907" end="1914" text="Houston" />
+<name id="n39" start="1918" end="1924" text="Mobile" />
+<name id="n40" start="1966" end="1979" text="Interstate 10" />
+<name id="n41" start="1983" end="1989" text="Mobile" />
+<name id="n42" start="2047" end="2053" text="Hodges" />
+<name id="n43" start="2069" end="2075" text="Abston" />
+<name id="n44" start="2150" end="2156" text="Abston" />
+<name id="n45" start="2394" end="2401" text="Granade" />
+<name id="n46" start="2413" end="2419" text="Abston" />
+<name id="n47" start="2634" end="2640" text="Abston" />
+<name id="n48" start="2780" end="2787" text="Granade" />
+<name id="n49" start="3024" end="3038" text="Gloria Bedwell" />
+<name id="n50" start="3001" end="3014" text="United States" />
+<located-mention id="lo0" start="771" end="833" text="a major supplier of cocaine and crack cocaine in Mobile County" TYPE="Preposition" />
+<located-mention id="lo1" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<located-mention id="lo2" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<located-mention id="lo3" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<located-mention id="lo4" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<located-mention id="lo5" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<located-mention id="lo6" start="1807" end="1924" text="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" TYPE="Other" />
+<located-mention id="lo7" start="1807" end="1924" text="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" TYPE="Other" />
+<located-mention id="lo8" start="1926" end="2045" text="When they were stopped in a vehicle off Interstate 10 in Mobile, they had approximately 500 grams of cocaine in the car" TYPE="Other" />
+<employment-mention id="e0" start="326" end="351" text="the Mobile County Sheriff" TYPE="PreMod" />
+<employment-mention id="e1" start="1098" end="1123" text="the Mobile County Sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="1773" end="1794" text="Mobile County sheriff" TYPE="PreMod" />
+<employment-mention id="e2" start="2991" end="3023" text="Assistant United States Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="15" end="64" text="Texas drug trafficker sentenced to life in prison" TYPE="PreMod" />
+<CRRE id="C1" start="80" end="91" text="A Texas man" TYPE="PreMod" />
+<CRRE id="C2" start="362" end="403" text="Frank James Abston, 40, of Houston, Texas" TYPE="Preposition" />
+<M id="M0" start="326" end="360" text="the Mobile County Sheriff's Office" TYPE="Possessive" />
+<M id="M1" start="1017" end="1059" text="special agent in charge of HSI New Orleans" TYPE="Preposition" />
+<M id="M2" start="1098" end="1132" text="the Mobile County Sheriff's Office" TYPE="Possessive" />
+<M id="M4" start="1424" end="1513" text="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" TYPE="Other" />
+<entity_link id="en0" fromID="p1" fromText="A Texas man" toID="p0" toText="Texas drug trafficker sentenced to life in prison" />
+<entity_link id="en1" fromID="g3" fromText="Texas" toID="g0" toText="Texas" />
+<entity_link id="en2" fromID="f1" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en3" fromID="p2" fromText="his" toID="p1" toText="A Texas man" />
+<entity_link id="en4" fromID="o1" fromText="HSI" toID="o0" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en5" fromID="o3" fromText="ICE" toID="o2" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en6" fromID="g4" fromText="Alabama" toID="g2" toText="Ala" />
+<entity_link id="en7" fromID="p4" fromText="Frank James Abston, 40, of Houston, Texas" toID="p1" toText="A Texas man" />
+<entity_link id="en8" fromID="g5" fromText="Mobile County" toID="g1" toText="MOBILE, Ala" />
+<entity_link id="en9" fromID="g7" fromText="Texas" toID="g3" toText="Texas" />
+<entity_link id="en10" fromID="p5" fromText="he" toID="p4" toText="Frank James Abston, 40, of Houston, Texas" />
+<entity_link id="en11" fromID="p7" fromText="Judge" toID="p6" toText="Judge Callie V. S. Granade" />
+<entity_link id="en12" fromID="p8" fromText="Abston" toID="p4" toText="Frank James Abston, 40, of Houston, Texas" />
+<entity_link id="en13" fromID="p10" fromText="their" toID="p9" toText="Six witnesses" />
+<entity_link id="en14" fromID="p11" fromText="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" toID="p8" toText="Abston" />
+<entity_link id="en15" fromID="p12" fromText="who" toID="p11" toText="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" />
+<entity_link id="en16" fromID="p13" fromText="a major supplier of cocaine and crack cocaine in Mobile County" toID="p11" toText="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" />
+<entity_link id="en17" fromID="g8" fromText="Mobile County" toID="g5" toText="Mobile County" />
+<entity_link id="en18" fromID="p14" fromText="Mr. Abston" toID="p8" toText="Abston" />
+<entity_link id="en19" fromID="p15" fromText="Mr" toID="p14" toText="Mr. Abston" />
+<entity_link id="en20" fromID="p16" fromText="he" toID="p14" toText="Mr. Abston" />
+<entity_link id="en21" fromID="p17" fromText="him" toID="p16" toText="he" />
+<entity_link id="en22" fromID="p18" fromText="he" toID="p17" toText="him" />
+<entity_link id="en23" fromID="p20" fromText="Raymond R. Parmer Jr" toID="p19" toText="Raymond R. Parmer Jr., special agent in charge of HSI New Orleans" />
+<entity_link id="en24" fromID="p21" fromText="special agent in charge of HSI New Orleans" toID="p20" toText="Raymond R. Parmer Jr" />
+<entity_link id="en25" fromID="o7" fromText="HSI" toID="o1" toText="HSI" />
+<entity_link id="en26" fromID="o9" fromText="the Mobile County Sheriff's Office" toID="o4" toText="the Mobile County Sheriff's Office" />
+<entity_link id="en27" fromID="p22" fromText="the Mobile County Sheriff" toID="p3" toText="the Mobile County Sheriff" />
+<entity_link id="en28" fromID="g9" fromText="Mobile County" toID="g5" toText="Mobile County" />
+<entity_link id="en29" fromID="o12" fromText="our" toID="o6" toText="HSI New Orleans" />
+<entity_link id="en30" fromID="p26" fromText="Mr. Abston" toID="p14" toText="Mr. Abston" />
+<entity_link id="en31" fromID="p27" fromText="Mr" toID="p26" toText="Mr. Abston" />
+<entity_link id="en32" fromID="p28" fromText="they" toID="p25" toText="Mr. Abston's former colleagues" />
+<entity_link id="en33" fromID="p29" fromText="their" toID="p28" toText="they" />
+<entity_link id="en34" fromID="p30" fromText="his" toID="p26" toText="Mr. Abston" />
+<entity_link id="en35" fromID="p31" fromText="Parmer" toID="p20" toText="Raymond R. Parmer Jr" />
+<entity_link id="en36" fromID="o13" fromText="HSI" toID="o7" toText="HSI" />
+<entity_link id="en37" fromID="g11" fromText="Alabama" toID="g4" toText="Alabama" />
+<entity_link id="en38" fromID="p33" fromText="Walter Lee Hodges" toID="p32" toText="Abston's co-defendant, Walter Lee Hodges" />
+<entity_link id="en39" fromID="p34" fromText="Abston" toID="p26" toText="Mr. Abston" />
+<entity_link id="en40" fromID="p35" fromText="Abston" toID="p34" toText="Abston" />
+<entity_link id="en41" fromID="p36" fromText="him" toID="p33" toText="Walter Lee Hodges" />
+<entity_link id="en42" fromID="p39" fromText="Mobile County sheriff" toID="p22" toText="the Mobile County Sheriff" />
+<entity_link id="en43" fromID="g17" fromText="Mobile County" toID="g9" toText="Mobile County" />
+<entity_link id="en44" fromID="p40" fromText="Hodges" toID="p33" toText="Walter Lee Hodges" />
+<entity_link id="en45" fromID="p41" fromText="he" toID="p40" toText="Hodges" />
+<entity_link id="en46" fromID="p37" fromText="Abston" toID="p35" toText="Abston" />
+<entity_link id="en47" fromID="g18" fromText="Mobile" toID="g17" toText="Mobile County" />
+<entity_link id="en48" fromID="g19" fromText="Mobile" toID="g18" toText="Mobile" />
+<entity_link id="en49" fromID="p44" fromText="they" toID="p43" toText="they" />
+<entity_link id="en50" fromID="p45" fromText="Hodges" toID="p40" toText="Hodges" />
+<entity_link id="en51" fromID="p46" fromText="Abston" toID="p37" toText="Abston" />
+<entity_link id="en52" fromID="p47" fromText="they" toID="p44" toText="they" />
+<entity_link id="en53" fromID="p48" fromText="Abston" toID="p46" toText="Abston" />
+<entity_link id="en54" fromID="p49" fromText="his" toID="p48" toText="Abston" />
+<entity_link id="en55" fromID="p50" fromText="he" toID="p48" toText="Abston" />
+<entity_link id="en56" fromID="p51" fromText="he" toID="p48" toText="Abston" />
+<entity_link id="en57" fromID="p53" fromText="his" toID="p48" toText="Abston" />
+<entity_link id="en58" fromID="p54" fromText="him" toID="p48" toText="Abston" />
+<entity_link id="en59" fromID="p55" fromText="his" toID="p48" toText="Abston" />
+<entity_link id="en60" fromID="p56" fromText="Judge Granade" toID="p6" toText="Judge Callie V. S. Granade" />
+<entity_link id="en61" fromID="p57" fromText="Judge" toID="p56" toText="Judge Granade" />
+<entity_link id="en62" fromID="p58" fromText="Abston" toID="p48" toText="Abston" />
+<entity_link id="en63" fromID="p59" fromText="he" toID="p58" toText="Abston" />
+<entity_link id="en64" fromID="p60" fromText="she" toID="p56" toText="Judge Granade" />
+<entity_link id="en65" fromID="p61" fromText="Abston" toID="p58" toText="Abston" />
+<entity_link id="en66" fromID="p62" fromText="he" toID="p61" toText="Abston" />
+<entity_link id="en67" fromID="p63" fromText="his" toID="p61" toText="Abston" />
+<entity_link id="en68" fromID="p64" fromText="Judge Granade" toID="p56" toText="Judge Granade" />
+<entity_link id="en69" fromID="p65" fromText="Judge" toID="p64" toText="Judge Granade" />
+<entity_link id="en70" fromID="p66" fromText="his" toID="p61" toText="Abston" />
+<entity_link id="en71" fromID="p67" fromText="his" toID="p61" toText="Abston" />
+<entity_link id="en72" fromID="p69" fromText="Assistant United States Attorney" toID="p68" toText="Assistant United States Attorney Gloria Bedwell" />
+<head_link id="he0" fromID="p0" fromText="Texas drug trafficker sentenced to life in prison" toID="h0" toText="trafficker" />
+<head_link id="he1" fromID="g0" fromText="Texas" toID="h1" toText="Texas" />
+<head_link id="he2" fromID="f0" fromText="prison" toID="h2" toText="prison" />
+<head_link id="he3" fromID="g1" fromText="MOBILE, Ala" toID="h3" toText="MOBILE" />
+<head_link id="he4" fromID="g2" fromText="Ala" toID="h4" toText="Ala" />
+<head_link id="he5" fromID="p1" fromText="A Texas man" toID="h5" toText="man" />
+<head_link id="he6" fromID="g3" fromText="Texas" toID="h6" toText="Texas" />
+<head_link id="he7" fromID="f1" fromText="prison" toID="h7" toText="prison" />
+<head_link id="he8" fromID="p2" fromText="his" toID="h8" toText="his" />
+<head_link id="he9" fromID="g4" fromText="Alabama" toID="h9" toText="Alabama" />
+<head_link id="he10" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h10" toText="Homeland Security Investigations" />
+<head_link id="he11" fromID="o1" fromText="HSI" toID="h11" toText="HSI" />
+<head_link id="he12" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h12" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he13" fromID="o3" fromText="ICE" toID="h13" toText="ICE" />
+<head_link id="he14" fromID="o4" fromText="the Mobile County Sheriff's Office" toID="h14" toText="Office" />
+<head_link id="he15" fromID="p3" fromText="the Mobile County Sheriff" toID="h15" toText="Sheriff" />
+<head_link id="he16" fromID="g5" fromText="Mobile County" toID="h16" toText="Mobile County" />
+<head_link id="he17" fromID="p4" fromText="Frank James Abston, 40, of Houston, Texas" toID="h17" toText="Frank James Abston" />
+<head_link id="he18" fromID="g6" fromText="Houston, Texas" toID="h18" toText="Houston" />
+<head_link id="he19" fromID="g7" fromText="Texas" toID="h19" toText="Texas" />
+<head_link id="he20" fromID="o5" fromText="federal court" toID="h20" toText="court" />
+<head_link id="he21" fromID="p5" fromText="he" toID="h21" toText="he" />
+<head_link id="he22" fromID="p6" fromText="Judge Callie V. S. Granade" toID="h22" toText="Callie V. S. Granade" />
+<head_link id="he23" fromID="p7" fromText="Judge" toID="h23" toText="Judge" />
+<head_link id="he24" fromID="p8" fromText="Abston" toID="h24" toText="Abston" />
+<head_link id="he25" fromID="p9" fromText="Six witnesses" toID="h25" toText="witnesses" />
+<head_link id="he26" fromID="p10" fromText="their" toID="h26" toText="their" />
+<head_link id="he27" fromID="p11" fromText="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" toID="h27" toText="Abston" />
+<head_link id="he28" fromID="p12" fromText="who" toID="h28" toText="who" />
+<head_link id="he29" fromID="p13" fromText="a major supplier of cocaine and crack cocaine in Mobile County" toID="h29" toText="supplier" />
+<head_link id="he30" fromID="g8" fromText="Mobile County" toID="h30" toText="Mobile County" />
+<head_link id="he31" fromID="p14" fromText="Mr. Abston" toID="h31" toText="Abston" />
+<head_link id="he32" fromID="p15" fromText="Mr" toID="h32" toText="Mr" />
+<head_link id="he33" fromID="p16" fromText="he" toID="h33" toText="he" />
+<head_link id="he34" fromID="p17" fromText="him" toID="h34" toText="him" />
+<head_link id="he35" fromID="p18" fromText="he" toID="h35" toText="he" />
+<head_link id="he36" fromID="p20" fromText="Raymond R. Parmer Jr" toID="h36" toText="Raymond R. Parmer Jr" />
+<head_link id="he37" fromID="p21" fromText="special agent in charge of HSI New Orleans" toID="h37" toText="agent" />
+<head_link id="he38" fromID="o6" fromText="HSI New Orleans" toID="h38" toText="HSI New Orleans" />
+<head_link id="he39" fromID="o7" fromText="HSI" toID="h39" toText="HSI" />
+<head_link id="he40" fromID="o8" fromText="better partners than the Mobile County Sheriff's Office and the U.S. Attorney's Office for the Southern District of Alabama in identifying and arresting significant drug traffickers in our area of operations" toID="h40" toText="partners" />
+<head_link id="he41" fromID="o9" fromText="the Mobile County Sheriff's Office" toID="h41" toText="Office" />
+<head_link id="he42" fromID="p22" fromText="the Mobile County Sheriff" toID="h42" toText="Sheriff" />
+<head_link id="he43" fromID="g9" fromText="Mobile County" toID="h43" toText="Mobile County" />
+<head_link id="he47" fromID="o11" fromText="the U.S. Attorney's Office for the Southern District of Alabama" toID="h47" toText="U.S. Attorney's Office for the Southern District of Alabama" />
+<head_link id="he48" fromID="p24" fromText="significant drug traffickers in our area of operations" toID="h48" toText="traffickers" />
+<head_link id="he49" fromID="o12" fromText="our" toID="h49" toText="our" />
+<head_link id="he50" fromID="p25" fromText="Mr. Abston's former colleagues" toID="h50" toText="colleagues" />
+<head_link id="he51" fromID="p26" fromText="Mr. Abston" toID="h51" toText="Abston" />
+<head_link id="he52" fromID="p27" fromText="Mr" toID="h52" toText="Mr" />
+<head_link id="he53" fromID="p28" fromText="they" toID="h53" toText="they" />
+<head_link id="he54" fromID="p29" fromText="their" toID="h54" toText="their" />
+<head_link id="he55" fromID="p30" fromText="his" toID="h55" toText="his" />
+<head_link id="he56" fromID="p31" fromText="Parmer" toID="h56" toText="Parmer" />
+<head_link id="he57" fromID="o13" fromText="HSI" toID="h57" toText="HSI" />
+<head_link id="he58" fromID="g11" fromText="Alabama" toID="h58" toText="Alabama" />
+<head_link id="he59" fromID="g12" fromText="Louisiana" toID="h59" toText="Louisiana" />
+<head_link id="he60" fromID="g13" fromText="Arkansas" toID="h60" toText="Arkansas" />
+<head_link id="he61" fromID="g14" fromText="Mississippi" toID="h61" toText="Mississippi" />
+<head_link id="he62" fromID="g15" fromText="Tennessee" toID="h62" toText="Tennessee" />
+<head_link id="he63" fromID="l0" fromText="south Mobile County" toID="h63" toText="Mobile County" />
+<head_link id="he64" fromID="l1" fromText="the Grand Bay area" toID="h64" toText="area" />
+<head_link id="he65" fromID="g16" fromText="Grand Bay" toID="h65" toText="Grand Bay" />
+<head_link id="he66" fromID="p32" fromText="Abston's co-defendant, Walter Lee Hodges" toID="h66" toText="co-defendant" />
+<head_link id="he67" fromID="p33" fromText="Walter Lee Hodges" toID="h67" toText="Walter Lee Hodges" />
+<head_link id="he68" fromID="p34" fromText="Abston" toID="h68" toText="Abston" />
+<head_link id="he69" fromID="p35" fromText="Abston" toID="h69" toText="Abston" />
+<head_link id="he70" fromID="p36" fromText="him" toID="h70" toText="him" />
+<head_link id="he71" fromID="p38" fromText="Mobile County sheriff's deputies" toID="h72" toText="deputies" />
+<head_link id="he72" fromID="p39" fromText="Mobile County sheriff" toID="h73" toText="sheriff" />
+<head_link id="he73" fromID="g17" fromText="Mobile County" toID="h74" toText="Mobile County" />
+<head_link id="he74" fromID="p40" fromText="Hodges" toID="h75" toText="Hodges" />
+<head_link id="he75" fromID="p41" fromText="he" toID="h76" toText="he" />
+<head_link id="he44" fromID="p23" fromText="Abston's girlfriend" toID="h44" toText="girlfriend" />
+<head_link id="he45" fromID="p37" fromText="Abston" toID="h45" toText="Abston" />
+<head_link id="he46" fromID="p42" fromText="each" toID="h46" toText="each" />
+<head_link id="he76" fromID="g10" fromText="Houston" toID="h71" toText="Houston" />
+<head_link id="he77" fromID="g18" fromText="Mobile" toID="h77" toText="Mobile" />
+<head_link id="he78" fromID="p43" fromText="they" toID="h78" toText="they" />
+<head_link id="he79" fromID="f2" fromText="Interstate 10 in Mobile" toID="h79" toText="Interstate 10" />
+<head_link id="he80" fromID="g19" fromText="Mobile" toID="h80" toText="Mobile" />
+<head_link id="he81" fromID="p44" fromText="they" toID="h81" toText="they" />
+<head_link id="he82" fromID="p45" fromText="Hodges" toID="h82" toText="Hodges" />
+<head_link id="he83" fromID="p46" fromText="Abston" toID="h83" toText="Abston" />
+<head_link id="he84" fromID="p47" fromText="they" toID="h84" toText="they" />
+<head_link id="he85" fromID="p48" fromText="Abston" toID="h85" toText="Abston" />
+<head_link id="he86" fromID="p49" fromText="his" toID="h86" toText="his" />
+<head_link id="he87" fromID="p50" fromText="he" toID="h87" toText="he" />
+<head_link id="he88" fromID="p51" fromText="he" toID="h88" toText="he" />
+<head_link id="he89" fromID="p52" fromText="his former defense attorney" toID="h89" toText="attorney" />
+<head_link id="he90" fromID="p53" fromText="his" toID="h90" toText="his" />
+<head_link id="he91" fromID="p54" fromText="him" toID="h91" toText="him" />
+<head_link id="he92" fromID="p55" fromText="his" toID="h92" toText="his" />
+<head_link id="he93" fromID="p56" fromText="Judge Granade" toID="h93" toText="Granade" />
+<head_link id="he94" fromID="p57" fromText="Judge" toID="h94" toText="Judge" />
+<head_link id="he95" fromID="p58" fromText="Abston" toID="h95" toText="Abston" />
+<head_link id="he96" fromID="p59" fromText="he" toID="h96" toText="he" />
+<head_link id="he97" fromID="p60" fromText="she" toID="h97" toText="she" />
+<head_link id="he98" fromID="p61" fromText="Abston" toID="h98" toText="Abston" />
+<head_link id="he99" fromID="p62" fromText="he" toID="h99" toText="he" />
+<head_link id="he100" fromID="p63" fromText="his" toID="h100" toText="his" />
+<head_link id="he101" fromID="o10" fromText="the court" toID="h101" toText="court" />
+<head_link id="he102" fromID="p64" fromText="Judge Granade" toID="h102" toText="Granade" />
+<head_link id="he103" fromID="p65" fromText="Judge" toID="h103" toText="Judge" />
+<head_link id="he104" fromID="p66" fromText="his" toID="h104" toText="his" />
+<head_link id="he105" fromID="p67" fromText="his" toID="h105" toText="his" />
+<head_link id="he106" fromID="p68" fromText="Assistant United States Attorney Gloria Bedwell" toID="h106" toText="Gloria Bedwell" />
+<head_link id="he107" fromID="p69" fromText="Assistant United States Attorney" toID="h107" toText="Attorney" />
+<head_link id="he108" fromID="g20" fromText="United States" toID="h108" toText="United States" />
+<name_link id="na0" fromID="g0" fromText="Texas" toID="n0" toText="Texas" />
+<name_link id="na1" fromID="g1" fromText="MOBILE, Ala" toID="n1" toText="MOBILE" />
+<name_link id="na2" fromID="g2" fromText="Ala" toID="n2" toText="Ala" />
+<name_link id="na3" fromID="g3" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na4" fromID="g4" fromText="Alabama" toID="n4" toText="Alabama" />
+<name_link id="na5" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n5" toText="Homeland Security Investigations" />
+<name_link id="na6" fromID="o1" fromText="HSI" toID="n6" toText="HSI" />
+<name_link id="na7" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n7" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na8" fromID="o3" fromText="ICE" toID="n8" toText="ICE" />
+<name_link id="na9" fromID="g5" fromText="Mobile County" toID="n9" toText="Mobile County" />
+<name_link id="na10" fromID="p4" fromText="Frank James Abston, 40, of Houston, Texas" toID="n10" toText="Frank James Abston" />
+<name_link id="na11" fromID="g6" fromText="Houston, Texas" toID="n11" toText="Houston" />
+<name_link id="na12" fromID="g7" fromText="Texas" toID="n12" toText="Texas" />
+<name_link id="na13" fromID="p6" fromText="Judge Callie V. S. Granade" toID="n13" toText="Callie V. S. Granade" />
+<name_link id="na14" fromID="p8" fromText="Abston" toID="n14" toText="Abston" />
+<name_link id="na15" fromID="p11" fromText="Abston, who was characterized as a major supplier of cocaine and crack cocaine in Mobile County" toID="n15" toText="Abston" />
+<name_link id="na16" fromID="g8" fromText="Mobile County" toID="n16" toText="Mobile County" />
+<name_link id="na17" fromID="p14" fromText="Mr. Abston" toID="n17" toText="Abston" />
+<name_link id="na18" fromID="p20" fromText="Raymond R. Parmer Jr" toID="n18" toText="Raymond R. Parmer Jr" />
+<name_link id="na19" fromID="o6" fromText="HSI New Orleans" toID="n19" toText="HSI New Orleans" />
+<name_link id="na20" fromID="o7" fromText="HSI" toID="n20" toText="HSI" />
+<name_link id="na21" fromID="g9" fromText="Mobile County" toID="n21" toText="Mobile County" />
+<name_link id="na23" fromID="o11" fromText="the U.S. Attorney's Office for the Southern District of Alabama" toID="n23" toText="U.S. Attorney's Office for the Southern District of Alabama" />
+<name_link id="na24" fromID="p26" fromText="Mr. Abston" toID="n24" toText="Abston" />
+<name_link id="na25" fromID="p31" fromText="Parmer" toID="n25" toText="Parmer" />
+<name_link id="na26" fromID="o13" fromText="HSI" toID="n26" toText="HSI" />
+<name_link id="na27" fromID="g11" fromText="Alabama" toID="n27" toText="Alabama" />
+<name_link id="na28" fromID="g12" fromText="Louisiana" toID="n28" toText="Louisiana" />
+<name_link id="na29" fromID="g13" fromText="Arkansas" toID="n29" toText="Arkansas" />
+<name_link id="na30" fromID="g14" fromText="Mississippi" toID="n30" toText="Mississippi" />
+<name_link id="na31" fromID="g15" fromText="Tennessee" toID="n31" toText="Tennessee" />
+<name_link id="na32" fromID="g16" fromText="Grand Bay" toID="n32" toText="Grand Bay" />
+<name_link id="na33" fromID="p33" fromText="Walter Lee Hodges" toID="n33" toText="Walter Lee Hodges" />
+<name_link id="na34" fromID="p34" fromText="Abston" toID="n34" toText="Abston" />
+<name_link id="na35" fromID="p35" fromText="Abston" toID="n35" toText="Abston" />
+<name_link id="na36" fromID="g17" fromText="Mobile County" toID="n36" toText="Mobile County" />
+<name_link id="na37" fromID="p40" fromText="Hodges" toID="n37" toText="Hodges" />
+<name_link id="na22" fromID="p37" fromText="Abston" toID="n22" toText="Abston" />
+<name_link id="na38" fromID="g10" fromText="Houston" toID="n38" toText="Houston" />
+<name_link id="na39" fromID="g18" fromText="Mobile" toID="n39" toText="Mobile" />
+<name_link id="na40" fromID="f2" fromText="Interstate 10 in Mobile" toID="n40" toText="Interstate 10" />
+<name_link id="na41" fromID="g19" fromText="Mobile" toID="n41" toText="Mobile" />
+<name_link id="na42" fromID="p45" fromText="Hodges" toID="n42" toText="Hodges" />
+<name_link id="na43" fromID="p46" fromText="Abston" toID="n43" toText="Abston" />
+<name_link id="na44" fromID="p48" fromText="Abston" toID="n44" toText="Abston" />
+<name_link id="na45" fromID="p56" fromText="Judge Granade" toID="n45" toText="Granade" />
+<name_link id="na46" fromID="p58" fromText="Abston" toID="n46" toText="Abston" />
+<name_link id="na47" fromID="p61" fromText="Abston" toID="n47" toText="Abston" />
+<name_link id="na48" fromID="p64" fromText="Judge Granade" toID="n48" toText="Granade" />
+<name_link id="na49" fromID="p68" fromText="Assistant United States Attorney Gloria Bedwell" toID="n49" toText="Gloria Bedwell" />
+<name_link id="na50" fromID="g20" fromText="United States" toID="n50" toText="United States" />
+<relation_link1 id="r0" fromID="C0" fromText="Texas drug trafficker sentenced to life in prison" toID="p0" toText="Texas drug trafficker sentenced to life in prison" />
+<relation_link1 id="r1" fromID="C1" fromText="A Texas man" toID="p1" toText="A Texas man" />
+<relation_link1 id="r2" fromID="e0" fromText="the Mobile County Sheriff" toID="p3" toText="the Mobile County Sheriff" />
+<relation_link1 id="r3" fromID="M0" fromText="the Mobile County Sheriff's Office" toID="p3" toText="the Mobile County Sheriff" />
+<relation_link1 id="r4" fromID="C2" fromText="Frank James Abston, 40, of Houston, Texas" toID="p4" toText="Frank James Abston, 40, of Houston, Texas" />
+<relation_link1 id="r5" fromID="lo0" fromText="a major supplier of cocaine and crack cocaine in Mobile County" toID="p13" toText="a major supplier of cocaine and crack cocaine in Mobile County" />
+<relation_link1 id="r6" fromID="M1" fromText="special agent in charge of HSI New Orleans" toID="p21" toText="special agent in charge of HSI New Orleans" />
+<relation_link1 id="r7" fromID="e1" fromText="the Mobile County Sheriff" toID="p22" toText="the Mobile County Sheriff" />
+<relation_link1 id="r8" fromID="M2" fromText="the Mobile County Sheriff's Office" toID="p22" toText="the Mobile County Sheriff" />
+<relation_link1 id="r11" fromID="M4" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r12" fromID="lo1" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r13" fromID="lo2" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r14" fromID="lo3" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r15" fromID="lo4" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r16" fromID="lo5" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="p31" toText="Parmer" />
+<relation_link1 id="r17" fromID="e3" fromText="Mobile County sheriff" toID="p39" toText="Mobile County sheriff" />
+<relation_link1 id="r9" fromID="lo6" fromText="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" toID="p42" toText="each" />
+<relation_link1 id="r10" fromID="lo7" fromText="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" toID="p42" toText="each" />
+<relation_link1 id="r18" fromID="lo8" fromText="When they were stopped in a vehicle off Interstate 10 in Mobile, they had approximately 500 grams of cocaine in the car" toID="p43" toText="they" />
+<relation_link1 id="r19" fromID="e2" fromText="Assistant United States Attorney" toID="p69" toText="Assistant United States Attorney" />
+<relation_link2 id="re0" fromID="C0" fromText="Texas drug trafficker sentenced to life in prison" toID="g0" toText="Texas" />
+<relation_link2 id="re1" fromID="C1" fromText="A Texas man" toID="g3" toText="Texas" />
+<relation_link2 id="re2" fromID="e0" fromText="the Mobile County Sheriff" toID="g5" toText="Mobile County" />
+<relation_link2 id="re3" fromID="M0" fromText="the Mobile County Sheriff's Office" toID="o4" toText="the Mobile County Sheriff's Office" />
+<relation_link2 id="re4" fromID="C2" fromText="Frank James Abston, 40, of Houston, Texas" toID="g6" toText="Houston, Texas" />
+<relation_link2 id="re5" fromID="lo0" fromText="a major supplier of cocaine and crack cocaine in Mobile County" toID="g8" toText="Mobile County" />
+<relation_link2 id="re6" fromID="M1" fromText="special agent in charge of HSI New Orleans" toID="o6" toText="HSI New Orleans" />
+<relation_link2 id="re7" fromID="e1" fromText="the Mobile County Sheriff" toID="g9" toText="Mobile County" />
+<relation_link2 id="re8" fromID="M2" fromText="the Mobile County Sheriff's Office" toID="o9" toText="the Mobile County Sheriff's Office" />
+<relation_link2 id="re11" fromID="M4" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="o13" toText="HSI" />
+<relation_link2 id="re12" fromID="lo1" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="g11" toText="Alabama" />
+<relation_link2 id="re13" fromID="lo2" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="g12" toText="Louisiana" />
+<relation_link2 id="re14" fromID="lo3" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="g13" toText="Arkansas" />
+<relation_link2 id="re15" fromID="lo4" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="g14" toText="Mississippi" />
+<relation_link2 id="re16" fromID="lo5" fromText="Parmer oversees HSI activities in Alabama, Louisiana, Arkansas, Mississippi and Tennessee" toID="g15" toText="Tennessee" />
+<relation_link2 id="re17" fromID="e3" fromText="Mobile County sheriff" toID="g17" toText="Mobile County" />
+<relation_link2 id="re9" fromID="lo6" fromText="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" toID="g10" toText="Houston" />
+<relation_link2 id="re10" fromID="lo7" fromText="Hodges testified that he and Abston's girlfriend each brought a kilogram of cocaine on the bus from Houston to Mobile" toID="g18" toText="Mobile" />
+<relation_link2 id="re18" fromID="lo8" fromText="When they were stopped in a vehicle off Interstate 10 in Mobile, they had approximately 500 grams of cocaine in the car" toID="f2" toText="Interstate 10 in Mobile" />
+<relation_link2 id="re19" fromID="e2" fromText="Assistant United States Attorney" toID="g20" toText="United States" />
+</TAGS>
+</KddTask>

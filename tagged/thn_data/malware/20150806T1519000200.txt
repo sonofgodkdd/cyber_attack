@@ -1,0 +1,19 @@
+This Antenna Can Remotely Steal Data From Devices using Sound Waves
+Swati Khandelwal
+
+Remember the previously demonstrated technique to Hack into air-gapped computers using Heat waves?
+What if the same was possible to hack computers to steal data using Sound waves? 
+Imagine, If a remote hacker could steal classified information from a targeted computer without having to physically and Internet access to it.
+A team of security researchers has demonstrated exactly the same by developing a new hacking technique called Funtenna that uses sound and radio waves to siphon data from computers even without Internet access.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a lead researcher Ang Cui of Red Balloon Security, the Funtenna radio signal hack has the potential to turn Internet-connected devices (printer, washing machine and air conditioner) – popularly known as the Internet of Things – into bugs that can transmit data out of a network using sound waves that can not be heard by a human ear.
+How Funtenna Works?
+The attacker only needs to install malware on a target's device such as a printer, office phone, or a computer.
+The malware overtakes the control of the electronic circuit of the device (general-purpose input/output circuits) and vibrates them at a frequency (which transmits radio signal) of the attacker's preference.
+An attacker then can pick up these signals using an AM radio antenna (Funtenna) from a short distance away.
+"You have network detection, firewalls… but this transmits data in a way that none of those things are monitoring, this fundamentally challenges how certain we can be of our network security," said Cui.
+Here, the hacked devices are themselves acting as transmitters. Therefore, the new Funtenna technique bypasses all conventional network security methodologies.
+You can also watch a video demonstration of how Funtenna works below:
+Funtenna is actually using a technique known as "Hardware Agnostic," which is generally available to operate with all modern computer systems and embedded devices.
+The team showcased its new technique in action at the Black Hat security summit in Las Vegas on Wednesday. It will also release a "proof-of-concept" code for researchers and hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

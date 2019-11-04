@@ -1,0 +1,17 @@
+Hacker is Selling 272 Million Email Passwords for Just $1
+Wang Wei
+
+A massive database of 272 million emails and passwords for popular email services, including Gmail, Microsoft, and Yahoo, are being offered for sale on the Dark Web for less than $1, media reports.
+An anonymous Russian hacker, who goes by the moniker "the Collector," was first spotted by cybersecurity firm Hold Security advertising 1.17 Billion user records for email accounts on a dark web forum.
+The stolen credentials apparently came from some of the world’s biggest email providers, including Gmail, Yahoo, Microsoft and Russia’s Mail.ru.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+When security analysts at Hold Security reached out to the hacker and began negotiating for the dataset to verify the authenticity of those records, the hacker only asked for 50 Rubles (less than a buck) in return of the complete dump.
+However, it seems that there is actually nothing to worry about.
+Hold Security CEO Alex Holden said that a large number of those 1.17 Billion accounts credentials turned out to be duplicate and that only 272 Million records were unique.
+According to the report, the mostly compromised credentials, 57 Million, belong to Russia’s leading email provider Mail.ru, followed by 40 Million Yahoo accounts, Microsoft 33 Million Hotmail accounts and 24 million Gmail accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Of those 272 Million records analyzed by Hold Security, around 42.5 Million were credentials that the company has not seen traded on the Dark Web before.
+In fact, the initial checks by Mail.ru found no active combinations of user names and passwords that match their existing email accounts, a Mail.ru spokesperson told Reuters.
+Just last week, PwnedList, a website with the largest database of stolen credentials that allows users to check if a data breach had compromised their emails account, has been hit by hackers.
+More than 866 million account credentials collected and indexed from 101,000 data breaches were leaked online due to a vulnerability on PwnedList's website.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

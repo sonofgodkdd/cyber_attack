@@ -1,0 +1,25 @@
+Experts Unveil Cyber Espionage Attacks by CopyKittens Hackers
+Mohit Kumar
+
+Security researchers have discovered a new, massive cyber espionage campaign that mainly targets people working in government, defence and academic organisations in various countries.
+The campaign is being conducted by an Iran-linked threat group, whose activities, attack methods, and targets have been released in a joint, detailed report published by researchers at Trend Micro and Israeli firm ClearSky.
+Dubbed by researchers CopyKittens (aka Rocket Kittens), the cyber espionage group has been active since at least 2013 and has targeted organisations and individuals, including diplomats and researchers, in Israel, Saudi Arabia, Turkey, the United States, Jordan and Germany.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The targeted organisations include government institutions like Ministry of Foreign Affairs, defence companies, large IT companies, academic institutions, subcontractors of the Ministry of Defense, and municipal authorities, along with employees of the United Nations.
+The latest report [PDF], dubbed "Operation Wilted Tulip," details an active espionage campaign conducted by the CopyKittens hackers, a vast range of tools and tactics they used, its command and control infrastructure, and the group's modus operandi.
+How CopyKittens Infects Its Targets
+The group used different tactics to infiltrate their targets, which includes watering hole attacks — wherein JavaScript code is inserted into compromised websites to distribute malicious exploits.
+The news media and organisations whose websites were abused as watering hole attacks include The Jerusalem Post, for which even German Federal Office for Information Security (BSI) issued an alert, Maariv news and IDF Disabled Veterans Organization.
+Besides water hole attacks, CopyKittens also used other methods to deliver malware, including:
+Emailed links to malicious websites controlled by attackers.
+Weaponized Office documents exploiting recently discovered flaw (CVE-2017-0199).
+Web servers exploitation using vulnerability scanner and SQLi tools like Havij, sqlmap, and Acunetix.
+Fake social media entities to build trust with targets and potentially spread malicious links.
+"The group uses a combination of these methods to persistently target the same victim over multiple platforms until they succeed in establishing an initial beachhead of infection – before pivoting to higher value targets on the network," Trend Micro writes in a blog post.
+In order to infect its targets, CopyKittens makes use of its own custom malware tools in combination with existing, commercial tools, like Red Team software Cobalt Strike, Metasploit, post-exploitation agent Empire, TDTESS backdoor, and credential dumping tool Mimikatz.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed Matryoshka, the remote access trojan is the group's self-developed malware which uses DNS for command and control (C&C) communication and has the ability to steal passwords, capture screenshots, record keystrokes, collect and upload files, and give the attackers Meterpreter shell access.
+"Matryoshka is spread through spear phishing with a document attached to it. The document has either a malicious macro that the victim is asked to enable or an embedded executable the victim is asked to open," Clear Sky says in a blog post.
+The initial version of the malware was analysed in 2015 and seen in the wild from July 2016 until January 2017, though the group also developed and used Matryoshka version 2.
+Users are recommended to enable two-factor authentication in order to protect their webmail accounts from being compromised, which is a treasure trove of information for hackers, and an "extremely strong initial beachhead" for pivoting into other targets.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

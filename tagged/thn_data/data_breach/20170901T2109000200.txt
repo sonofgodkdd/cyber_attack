@@ -1,0 +1,19 @@
+Instagram Hacker Puts 6 Million Celebrities Personal Data Up For Sale On DoxaGram
+Mohit Kumar
+
+It's now official, Instagram has suffered a massive data breach, and reportedly an unknown hacker has stolen personal details of more than 6 million Instagram accounts.
+Just yesterday, we reported that Instagram had patched a critical API vulnerability that allowed the attacker to access phone numbers and email addresses for high-profile verified accounts.
+However, Instagram hack now appears to be more serious than initially reported. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Not just a few thousands of high-profile users—it's more than 6 million Instagram users, including politicians, sports stars, and media companies, who have had their Instagram profile information, including email addresses and phone numbers, available for sale on a website, called Doxagram.
+The suspected Instagram hacker has launched Doxagram, an Instagram lookup service, where anyone can search for stolen information only for $10 per account.
+A security researcher from Kaspersky Labs, who also found the same vulnerability and reported it to Instagram, told The Hacker News that the issue actually resided in the Instagram's mobile API, specifically in the password reset option, which apparently exposed mobile numbers and email addresses of the users in the JSON response—but not passwords.
+Instagram has not confirmed the hacker's claims yet, but the company said Friday it is investigating the data breach.
+The news comes three days after an unknown hacker hijacked most-followed-account on Instagram belonged to Selena Gomez—with over 125 Million followers—and posted her ex-boyfriend Justin Bieber's full-frontal nude photographs.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Instagram did not confirm if the recent data breach was related to Selena's hacked account.
+The company had already notified all of its verified users of the issue via emails and also encouraged them to be cautious if they receive any suspicious or unrecognised phone call, text message, or email.
+With email addresses and phone numbers in hand, the hacker's next step could be used the stolen info in tandem with social engineering techniques to gain access to verified Instagram accounts and post on their behalves in order to embarrass them.
+Instagram users are also highly recommended to enable two-factor authentication on their accounts and always secure them with a robust and different password.
+Additionally, avoid clicking on suspicious links and attachments you receive in an email and providing your personal or financial details without verifying the source properly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,16 @@
+Dutch Hacker Who Almost Broke The Internet Escapes Jail
+Mohit Kumar
+
+The Dutch hacker, who in 2013 was accused of launching the biggest cyberattack to date against the anti-spam group Spamhaus, escaped prison Monday even after he was sentenced to nearly 8 months in jail because most of his term was suspended.
+Sven Olaf Kamphuis, 39, was arrested in April 2013 by Spanish authorities in Barcelona based on a European arrest warrant for launching massive distributed denial of service (DDoS) attack against Spamhaus that peaked at over 300 Gbps.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Spamhaus is a non-profit group based in Geneva and London that tracks spam and cyber-related threats, creates blacklists of those sites and then sells them to Internet Service Providers.
+However, the DDoS attacks on the company were so sustained that put "the proper functioning of the Internet at risk and thus the interests of many individuals, businesses and institutions," said the court.
+Kamphuis was initially sentenced to a total of 240 days, but he has already served 55 days in on remand after his extradition from Spain in 2013 to the Netherlands. Therefore, the judges suspended his remaining 185 days sentence, Dutch news reports.
+So, Kamphuis is not going to spend any time behind bars.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Kamphuis was sentenced for not only carrying out DDoS attack against Spamhaus but also its partners in the United States, U.K., and the Netherlands. Besides this, he even hacked into an IP address as well as taking part in a criminal organization.
+Kamphuis was eventually extradited to the Netherlands where he was in custody for two months in May 2013.
+Kamphuis' lawyers said the British teenager, who used the hacker alias "Narko," was the only one responsible for the attack.
+At the time, Spamhaus blamed the Dutch hosting company called CyberBunker for the 2013 DDoS attack, which came just after the company blacklisted CyberBunker.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

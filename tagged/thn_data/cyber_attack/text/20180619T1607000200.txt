@@ -1,0 +1,25 @@
+Hackers Who Hit Winter Olympics 2018 Are Still Alive and Kicking
+Swati Khandelwal
+
+Remember the 'Olympic Destroyer' cyber attack?
+The group behind it is still alive, kicking and has now been found targeting biological and chemical threat prevention laboratories in Europe and Ukraine, and a few financial organisation in Russia.
+Earlier this year, an unknown group of notorious hackers targeted Winter Olympic Games 2018, held in South Korea, using a destructive malware that purposely planted sophisticated false flags to trick researchers into mis-attributing the campaign.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Unfortunately, the destructive malware was successful to some extent, at least for a next few days, as immediately after the attack various security researchers postmortem the Olympic Destroyer malware and started attributing the attack to different nation-state hacking groups from North Korea, Russia, and China.
+Later researchers from Russian antivirus vendor Kaspersky Labs uncovered more details about the attack, including the evidence of false attribution artifacts, and concluded that the whole attack was a masterful operation in deception.
+Now according to a new report published today by Kaspersky Labs, the same group of hackers, which is still unattributed, has been found targeting organisations in Russia, Ukraine, and several European countries in May and June 2018, specifically those organizations that respond to and protect against biological and chemical threats.
+New Attack Shares Similarities With Olympic Destroyer
+During their investigation, researchers found that the exploitation and deception tactics used by the newly discovered campaign share many similarities with the Olympic Destroyer attack.
+"In May-June 2018 we discovered new spear-phishing documents that closely resembled weaponized documents used by Olympic Destroyer in the past," the researchers said. "They continue to use a non-binary executable infection vector and obfuscated scripts to evade detection."
+Just like Olympic Destroyer, the new attack also targets users affiliated with specific organisations using spear-phishing emails that appear as coming from an acquaintance, with an attached document.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If the victims open the malicious document, it leverages macros to download and execute multiple PowerShell scripts in the background and install the final 3rd-stage payload to take remote control over the victims' system.
+Researchers found that the technique used to obfuscate and decrypt the malicious code is same as used in the original Olympic Destroyer spear-phishing campaign.
+The second-stage script disables Powershell script logging to avoid leaving traces and then downloads the final "Powershell Empire agent" payload, which allows fileless control of the compromised systems over an encrypted communication channel.
+Hackers Target Biological and Chemical Threat Prevention Laboratories
+According to the researchers, the group has attempted to gain access to computers in countries, including France, Germany, Switzerland, Russia, and Ukraine.
+Researchers found evidence of hackers primarily targeting people affiliated with an upcoming biochemical threat conference, called Spiez Convergence, held in Switzerland and organized by Spiez Laboratory.
+Spiez Laboratory played an essential role in investigating the poisoning in March of a former Russian spy in the UK. The U.K. and the U.S. both said Russia was behind the poisoning and expelled dozens of Russian diplomats.
+Another document targeted Ministry of Health in Ukraine.
+It is not yet known that who behind these attacks, but Kaspersky advises all biochemical threat prevention and research organizations to strengthen their IT security and run unscheduled security audits.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

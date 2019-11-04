@@ -1,0 +1,17 @@
+Marriott Faces $123 Million GDPR Fine Over Starwood Data Breach
+Wang Wei
+
+After fining British Airways with a record fine of £183 million earlier this week, the UK's data privacy regulator is now planning to slap world's biggest hotel chain Marriott International with a £99 million ($123 million) fine under GDPR over 2014 data breach.
+This is the second major penalty notice in the last two days that hit companies for failing to protect its customers' personal and financial information compromised and implement adequate security measures.
+In November 2018, Marriott discovered that unknown hackers compromised their guest reservation database through its Starwood hotels subsidiary and walked away with personal details of approximately 339 million guests.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The compromised database leaked guests' names, mailing addresses, phone numbers, email addresses, dates of birth, gender, arrival and departure information, reservation date, and communication preferences.
+The breach, which likely happened in 2014, also exposed unencrypted passport numbers for at least 5 million users and credit card records of eight million customers.
+According to the Information Commissioner's Office (ICO), nearly 30 million residents of 31 countries in the European and 7 million UK residents were impacted by the Marriott data breach.
+The ICO's investigation found that Marriott failed to undertake sufficient due diligence when it bought Starwood and should also have done more to secure its systems.
+Last year, the General Data Protection Regulation (GDPR) was introduced in Europe that forces companies to make sure the way they collect, process, and store data are safe.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The GDPR makes it clear that organizations must be accountable for the personal data they hold. This can include carrying out proper due diligence when making a corporate acquisition, and putting in place proper accountability measures to assess not only what personal data has been acquired, but also how it is protected," Information Commissioner Elizabeth Denham said.
+"Personal data has real value so organizations have a legal duty to ensure its security, just like they would do with any other asset. If that doesn't happen, we will not hesitate to take strong action when necessary to protect the rights of the public."
+Marriott International's president Arne Sorenson said the company was "disappointed" with the ICO's announcement and would contest the fine.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

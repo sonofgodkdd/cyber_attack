@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+November 1, 2010
+Van Buren man sentenced on federal drug charges
+BANGOR, Maine - U.S. Attorney Thomas E. Delahanty II announced that Allen Gagnon, 48, of Van Buren, Maine, was sentenced today in U.S. District Court in Bangor by Chief Judge John A. Woodcock to 60 months imprisonment, 3 years supervised release, a special assessment of $300, and a $2,000 fine. Gagnon pled guilty on June 25, 2010 to two counts of distribution of marijuana and one count of importation of marijuana after an investigation by the U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations (HSI), the U.S. Border Patrol, the Van Buren Police Department and the Maine Drug Enforcement Agency.
+"Drug traffickers destroy lives and ruin communities," said Bruce M. Foucart, special agent in charge of ICE HSI in Boston. Foucart oversees ICE HSI throughout New England. "This case demonstrates that even quiet communities in Maine can be directly impacted by the illicit narcotics trade. ICE HSI is committed to working with our law enforcement partners to deter the smuggling of contraband across our border whether by air, land or sea."
+According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine. Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river. He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana. Gagnon subsequently delivered an additional quantity of marijuana to another customer in Caribou, Maine. Gagnon's movements were observed by law enforcement and he was arrested the next day. In addition to the quantity of marijuana that he smuggled into the country and distributed immediately prior to his arrest, the court found that the defendant had imported and distributed additional quantities of marijuana between 2008 and his arrest.
+U.S. Attorney Delahanty praised the cooperative efforts of the federal, state and local law enforcement agencies.
+The case was prosecuted by Assistant U.S Attorney Joel B. Casey.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="18" end="65" text="Van Buren man sentenced on federal drug charges" TYPE="BAR" />
+<person id="p1" start="82" end="118" text="U.S. Attorney Thomas E. Delahanty II" TYPE="NAM" />
+<person id="p2" start="82" end="95" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p3" start="134" end="171" text="Allen Gagnon, 48, of Van Buren, Maine" TYPE="NAM" />
+<person id="p4" start="229" end="257" text="Chief Judge John A. Woodcock" TYPE="NAM" />
+<person id="p5" start="229" end="240" text="Chief Judge" TYPE="NOMPRE" />
+<person id="p6" start="362" end="368" text="Gagnon" TYPE="NAM" />
+<person id="p7" start="706" end="722" text="Drug traffickers" TYPE="BAR" />
+<person id="p8" start="765" end="827" text="Bruce M. Foucart, special agent in charge of ICE HSI in Boston" TYPE="APP" />
+<person id="p9" start="765" end="781" text="Bruce M. Foucart" TYPE="NAM" />
+<person id="p10" start="783" end="827" text="special agent in charge of ICE HSI in Boston" TYPE="BAR" />
+<person id="p11" start="829" end="836" text="Foucart" TYPE="NAM" />
+<person id="p12" start="1208" end="1214" text="Gagnon" TYPE="NAM" />
+<person id="p13" start="1234" end="1236" text="he" TYPE="PRO" />
+<person id="p16" start="1336" end="1377" text="Gagnon, wearing a white camouflage outfit" TYPE="NAM" />
+<person id="p17" start="1512" end="1514" text="He" TYPE="PRO" />
+<person id="p18" start="1532" end="1535" text="his" TYPE="PRO" />
+<person id="p19" start="1557" end="1611" text="one customer who purchased a quantity of the marijuana" TYPE="NOM" />
+<person id="p20" start="1570" end="1573" text="who" TYPE="WHQ" />
+<person id="p21" start="1613" end="1619" text="Gagnon" TYPE="NAM" />
+<person id="p22" start="1306" end="1334" text="two buyers in northern Maine" TYPE="NOM" />
+<person id="p23" start="1682" end="1716" text="another customer in Caribou, Maine" TYPE="NOM" />
+<person id="p24" start="1718" end="1724" text="Gagnon" TYPE="NAM" />
+<person id="p25" start="1774" end="1776" text="he" TYPE="PRO" />
+<person id="p26" start="1850" end="1852" text="he" TYPE="PRO" />
+<person id="p27" start="1916" end="1919" text="his" TYPE="PRO" />
+<person id="p28" start="1949" end="1962" text="the defendant" TYPE="NOM" />
+<person id="p29" start="2044" end="2047" text="his" TYPE="PRO" />
+<person id="p30" start="2056" end="2079" text="U.S. Attorney Delahanty" TYPE="NAM" />
+<person id="p31" start="2056" end="2069" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p32" start="2197" end="2233" text="Assistant U.S Attorney Joel B. Casey" TYPE="NAM" />
+<person id="p33" start="2197" end="2219" text="Assistant U.S Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="196" end="225" text="U.S. District Court in Bangor" TYPE="NAM" />
+<organization id="o1" start="509" end="607" text="the U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="604" end="607" text="HSI" TYPE="NAM" />
+<organization id="o3" start="610" end="632" text="the U.S. Border Patrol" TYPE="NAM" />
+<organization id="o4" start="634" end="665" text="the Van Buren Police Department" TYPE="NAM" />
+<organization id="o5" start="670" end="703" text="the Maine Drug Enforcement Agency" TYPE="NAM" />
+<organization id="o6" start="810" end="827" text="ICE HSI in Boston" TYPE="NAM" />
+<organization id="o7" start="846" end="853" text="ICE HSI" TYPE="NAM" />
+<organization id="o8" start="996" end="1003" text="ICE HSI" TYPE="NAM" />
+<organization id="o9" start="1033" end="1036" text="our" TYPE="PRO" />
+<organization id="o10" start="1033" end="1061" text="our law enforcement partners" TYPE="BAR" />
+<organization id="o11" start="1160" end="1165" text="court" TYPE="NOMPRE" />
+<organization id="o12" start="1928" end="1937" text="the court" TYPE="NOM" />
+<organization id="o13" start="2119" end="2168" text="federal, state and local law enforcement agencies" TYPE="BAR" />
+<organization id="o14" start="2128" end="2133" text="state" TYPE="NOMPRE" />
+<geographical-political id="g0" start="18" end="27" text="Van Buren" TYPE="NAMPRE" />
+<geographical-political id="g1" start="66" end="79" text="BANGOR, Maine" TYPE="NAM" />
+<geographical-political id="g2" start="74" end="79" text="Maine" TYPE="NAM" />
+<geographical-political id="g3" start="82" end="85" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g4" start="155" end="171" text="Van Buren, Maine" TYPE="NAM" />
+<geographical-political id="g5" start="166" end="171" text="Maine" TYPE="NAM" />
+<geographical-political id="g6" start="219" end="225" text="Bangor" TYPE="NAM" />
+<geographical-political id="g7" start="746" end="757" text="communities" TYPE="BAR" />
+<geographical-political id="g8" start="821" end="827" text="Boston" TYPE="NAM" />
+<geographical-political id="g9" start="865" end="876" text="New England" TYPE="NAM" />
+<geographical-political id="g10" start="912" end="938" text="quiet communities in Maine" TYPE="NOM" />
+<geographical-political id="g11" start="933" end="938" text="Maine" TYPE="NAM" />
+<geographical-political id="g12" start="1106" end="1109" text="our" TYPE="PRO" />
+<geographical-political id="g13" start="1261" end="1278" text="the United States" TYPE="NAM" />
+<geographical-political id="g14" start="1284" end="1290" text="Canada" TYPE="NAM" />
+<geographical-political id="g15" start="1424" end="1430" text="Canada" TYPE="NAM" />
+<geographical-political id="g16" start="1544" end="1553" text="Van Buren" TYPE="NAM" />
+<geographical-political id="g17" start="1702" end="1716" text="Caribou, Maine" TYPE="NAM" />
+<geographical-political id="g18" start="1711" end="1716" text="Maine" TYPE="NAM" />
+<geographical-political id="g19" start="1867" end="1878" text="the country" TYPE="NOM" />
+<geographical-political id="g20" start="2056" end="2059" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g21" start="2207" end="2210" text="U.S" TYPE="NAMPRE" />
+<location id="l0" start="1106" end="1116" text="our border" TYPE="NOM" />
+<location id="l1" start="1320" end="1334" text="northern Maine" TYPE="BAR" />
+<location id="l2" start="1393" end="1418" text="the frozen St. John River" TYPE="NAM" />
+<location id="l3" start="1501" end="1510" text="the river" TYPE="NOM" />
+<falicity id="f0" start="1532" end="1553" text="his home in Van Buren" TYPE="NOM" />
+<head id="h0" start="28" end="31" text="man" />
+<head id="h1" start="18" end="27" text="Van Buren" />
+<head id="h2" start="66" end="72" text="BANGOR" />
+<head id="h3" start="74" end="79" text="Maine" />
+<head id="h4" start="96" end="115" text="Thomas E. Delahanty" />
+<head id="h5" start="87" end="95" text="Attorney" />
+<head id="h6" start="82" end="85" text="U.S" />
+<head id="h7" start="134" end="146" text="Allen Gagnon" />
+<head id="h8" start="155" end="164" text="Van Buren" />
+<head id="h9" start="166" end="171" text="Maine" />
+<head id="h10" start="196" end="215" text="U.S. District Court" />
+<head id="h11" start="219" end="225" text="Bangor" />
+<head id="h12" start="241" end="257" text="John A. Woodcock" />
+<head id="h13" start="235" end="240" text="Judge" />
+<head id="h14" start="362" end="368" text="Gagnon" />
+<head id="h15" start="513" end="602" text="U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations" />
+<head id="h16" start="604" end="607" text="HSI" />
+<head id="h17" start="614" end="632" text="U.S. Border Patrol" />
+<head id="h18" start="638" end="665" text="Van Buren Police Department" />
+<head id="h19" start="674" end="703" text="Maine Drug Enforcement Agency" />
+<head id="h20" start="711" end="722" text="traffickers" />
+<head id="h21" start="746" end="757" text="communities" />
+<head id="h22" start="765" end="781" text="Bruce M. Foucart" />
+<head id="h23" start="791" end="796" text="agent" />
+<head id="h24" start="810" end="817" text="ICE HSI" />
+<head id="h25" start="821" end="827" text="Boston" />
+<head id="h26" start="829" end="836" text="Foucart" />
+<head id="h27" start="846" end="853" text="ICE HSI" />
+<head id="h28" start="865" end="876" text="New England" />
+<head id="h29" start="918" end="929" text="communities" />
+<head id="h30" start="933" end="938" text="Maine" />
+<head id="h31" start="996" end="1003" text="ICE HSI" />
+<head id="h32" start="1033" end="1036" text="our" />
+<head id="h33" start="1053" end="1061" text="partners" />
+<head id="h34" start="1110" end="1116" text="border" />
+<head id="h35" start="1106" end="1109" text="our" />
+<head id="h36" start="1160" end="1165" text="court" />
+<head id="h37" start="1208" end="1214" text="Gagnon" />
+<head id="h38" start="1234" end="1236" text="he" />
+<head id="h39" start="1265" end="1278" text="United States" />
+<head id="h40" start="1284" end="1290" text="Canada" />
+<head id="h41" start="1310" end="1316" text="buyers" />
+<head id="h42" start="1329" end="1334" text="Maine" />
+<head id="h43" start="1336" end="1342" text="Gagnon" />
+<head id="h44" start="1404" end="1418" text="St. John River" />
+<head id="h45" start="1424" end="1430" text="Canada" />
+<head id="h46" start="1505" end="1510" text="river" />
+<head id="h47" start="1512" end="1514" text="He" />
+<head id="h48" start="1536" end="1540" text="home" />
+<head id="h49" start="1532" end="1535" text="his" />
+<head id="h50" start="1544" end="1553" text="Van Buren" />
+<head id="h51" start="1561" end="1569" text="customer" />
+<head id="h52" start="1570" end="1573" text="who" />
+<head id="h53" start="1613" end="1619" text="Gagnon" />
+<head id="h54" start="1690" end="1698" text="customer" />
+<head id="h55" start="1702" end="1709" text="Caribou" />
+<head id="h56" start="1711" end="1716" text="Maine" />
+<head id="h57" start="1718" end="1724" text="Gagnon" />
+<head id="h58" start="1774" end="1776" text="he" />
+<head id="h59" start="1850" end="1852" text="he" />
+<head id="h60" start="1871" end="1878" text="country" />
+<head id="h61" start="1916" end="1919" text="his" />
+<head id="h62" start="1932" end="1937" text="court" />
+<head id="h63" start="1953" end="1962" text="defendant" />
+<head id="h64" start="2044" end="2047" text="his" />
+<head id="h65" start="2070" end="2079" text="Delahanty" />
+<head id="h66" start="2061" end="2069" text="Attorney" />
+<head id="h67" start="2056" end="2059" text="U.S" />
+<head id="h68" start="2160" end="2168" text="agencies" />
+<head id="h69" start="2128" end="2133" text="state" />
+<head id="h70" start="2220" end="2233" text="Joel B. Casey" />
+<head id="h71" start="2211" end="2219" text="Attorney" />
+<head id="h72" start="2207" end="2210" text="U.S" />
+<name id="n0" start="18" end="27" text="Van Buren" />
+<name id="n1" start="66" end="72" text="BANGOR" />
+<name id="n2" start="74" end="79" text="Maine" />
+<name id="n3" start="96" end="115" text="Thomas E. Delahanty" />
+<name id="n4" start="82" end="85" text="U.S" />
+<name id="n5" start="134" end="146" text="Allen Gagnon" />
+<name id="n6" start="155" end="164" text="Van Buren" />
+<name id="n7" start="166" end="171" text="Maine" />
+<name id="n8" start="196" end="215" text="U.S. District Court" />
+<name id="n9" start="219" end="225" text="Bangor" />
+<name id="n10" start="241" end="257" text="John A. Woodcock" />
+<name id="n11" start="362" end="368" text="Gagnon" />
+<name id="n12" start="513" end="602" text="U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations" />
+<name id="n13" start="604" end="607" text="HSI" />
+<name id="n14" start="614" end="632" text="U.S. Border Patrol" />
+<name id="n15" start="638" end="665" text="Van Buren Police Department" />
+<name id="n16" start="674" end="703" text="Maine Drug Enforcement Agency" />
+<name id="n17" start="765" end="781" text="Bruce M. Foucart" />
+<name id="n18" start="810" end="817" text="ICE HSI" />
+<name id="n19" start="821" end="827" text="Boston" />
+<name id="n20" start="829" end="836" text="Foucart" />
+<name id="n21" start="846" end="853" text="ICE HSI" />
+<name id="n22" start="865" end="876" text="New England" />
+<name id="n23" start="933" end="938" text="Maine" />
+<name id="n24" start="996" end="1003" text="ICE HSI" />
+<name id="n25" start="1208" end="1214" text="Gagnon" />
+<name id="n26" start="1265" end="1278" text="United States" />
+<name id="n27" start="1284" end="1290" text="Canada" />
+<name id="n28" start="1336" end="1342" text="Gagnon" />
+<name id="n29" start="1404" end="1418" text="St. John River" />
+<name id="n30" start="1424" end="1430" text="Canada" />
+<name id="n31" start="1544" end="1553" text="Van Buren" />
+<name id="n32" start="1613" end="1619" text="Gagnon" />
+<name id="n33" start="1702" end="1709" text="Caribou" />
+<name id="n34" start="1711" end="1716" text="Maine" />
+<name id="n35" start="1718" end="1724" text="Gagnon" />
+<name id="n36" start="2070" end="2079" text="Delahanty" />
+<name id="n37" start="2056" end="2059" text="U.S" />
+<name id="n38" start="2220" end="2233" text="Joel B. Casey" />
+<name id="n39" start="2207" end="2210" text="U.S" />
+<located-mention id="lo0" start="829" end="876" text="Foucart oversees ICE HSI throughout New England" TYPE="Other" />
+<located-mention id="lo1" start="1147" end="1334" text="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" TYPE="Other" />
+<located-mention id="lo2" start="1147" end="1334" text="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" TYPE="Other" />
+<located-mention id="lo5" start="1336" end="1510" text="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" TYPE="Verbal" />
+<located-mention id="lo6" start="1336" end="1510" text="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" TYPE="Verbal" />
+<located-mention id="lo7" start="1336" end="1510" text="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" TYPE="Other" />
+<located-mention id="lo8" start="1512" end="1611" text="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" TYPE="Verbal" />
+<located-mention id="lo9" start="1512" end="1611" text="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" TYPE="Other" />
+<located-mention id="lo10" start="1804" end="2054" text="In addition to the quantity of marijuana that he smuggled into the country and distributed immediately prior to his arrest, the court found that the defendant had imported and distributed additional quantities of marijuana between 2008 and his arrest" TYPE="Verbal" />
+<employment-mention id="e0" start="82" end="95" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="2056" end="2069" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="2197" end="2219" text="Assistant U.S Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="18" end="65" text="Van Buren man sentenced on federal drug charges" TYPE="PreMod" />
+<CRRE id="C1" start="134" end="171" text="Allen Gagnon, 48, of Van Buren, Maine" TYPE="Preposition" />
+<CRRE id="C2" start="1306" end="1334" text="two buyers in northern Maine" TYPE="Preposition" />
+<CRRE id="C3" start="1682" end="1716" text="another customer in Caribou, Maine" TYPE="Preposition" />
+<M id="M0" start="783" end="827" text="special agent in charge of ICE HSI in Boston" TYPE="Preposition" />
+<M id="M1" start="829" end="876" text="Foucart oversees ICE HSI throughout New England" TYPE="Verbal" />
+<entity_link id="en0" fromID="p2" fromText="U.S. Attorney" toID="p1" toText="U.S. Attorney Thomas E. Delahanty II" />
+<entity_link id="en1" fromID="p3" fromText="Allen Gagnon, 48, of Van Buren, Maine" toID="p0" toText="Van Buren man sentenced on federal drug charges" />
+<entity_link id="en2" fromID="g4" fromText="Van Buren, Maine" toID="g0" toText="Van Buren" />
+<entity_link id="en3" fromID="g5" fromText="Maine" toID="g2" toText="Maine" />
+<entity_link id="en4" fromID="g6" fromText="Bangor" toID="g1" toText="BANGOR, Maine" />
+<entity_link id="en5" fromID="p5" fromText="Chief Judge" toID="p4" toText="Chief Judge John A. Woodcock" />
+<entity_link id="en6" fromID="p6" fromText="Gagnon" toID="p3" toText="Allen Gagnon, 48, of Van Buren, Maine" />
+<entity_link id="en7" fromID="p9" fromText="Bruce M. Foucart" toID="p8" toText="Bruce M. Foucart, special agent in charge of ICE HSI in Boston" />
+<entity_link id="en8" fromID="p10" fromText="special agent in charge of ICE HSI in Boston" toID="p9" toText="Bruce M. Foucart" />
+<entity_link id="en9" fromID="p11" fromText="Foucart" toID="p9" toText="Bruce M. Foucart" />
+<entity_link id="en10" fromID="o7" fromText="ICE HSI" toID="o1" toText="the U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations (HSI" />
+<entity_link id="en11" fromID="g11" fromText="Maine" toID="g5" toText="Maine" />
+<entity_link id="en12" fromID="o8" fromText="ICE HSI" toID="o7" toText="ICE HSI" />
+<entity_link id="en13" fromID="o9" fromText="our" toID="o8" toText="ICE HSI" />
+<entity_link id="en14" fromID="g12" fromText="our" toID="g3" toText="U.S" />
+<entity_link id="en15" fromID="p12" fromText="Gagnon" toID="p6" toText="Gagnon" />
+<entity_link id="en16" fromID="p13" fromText="he" toID="p12" toText="Gagnon" />
+<entity_link id="en17" fromID="g13" fromText="the United States" toID="g3" toText="U.S" />
+<entity_link id="en19" fromID="p16" fromText="Gagnon, wearing a white camouflage outfit" toID="p12" toText="Gagnon" />
+<entity_link id="en20" fromID="g15" fromText="Canada" toID="g14" toText="Canada" />
+<entity_link id="en21" fromID="l3" fromText="the river" toID="l2" toText="the frozen St. John River" />
+<entity_link id="en22" fromID="p17" fromText="He" toID="p16" toText="Gagnon, wearing a white camouflage outfit" />
+<entity_link id="en23" fromID="p18" fromText="his" toID="p17" toText="He" />
+<entity_link id="en24" fromID="g16" fromText="Van Buren" toID="g4" toText="Van Buren, Maine" />
+<entity_link id="en25" fromID="p20" fromText="who" toID="p19" toText="one customer who purchased a quantity of the marijuana" />
+<entity_link id="en26" fromID="p21" fromText="Gagnon" toID="p16" toText="Gagnon, wearing a white camouflage outfit" />
+<entity_link id="en27" fromID="p24" fromText="Gagnon" toID="p21" toText="Gagnon" />
+<entity_link id="en28" fromID="p25" fromText="he" toID="p24" toText="Gagnon" />
+<entity_link id="en29" fromID="p26" fromText="he" toID="p24" toText="Gagnon" />
+<entity_link id="en30" fromID="g19" fromText="the country" toID="g13" toText="the United States" />
+<entity_link id="en31" fromID="p27" fromText="his" toID="p26" toText="he" />
+<entity_link id="en32" fromID="p28" fromText="the defendant" toID="p24" toText="Gagnon" />
+<entity_link id="en33" fromID="p29" fromText="his" toID="p28" toText="the defendant" />
+<entity_link id="en34" fromID="p30" fromText="U.S. Attorney Delahanty" toID="p1" toText="U.S. Attorney Thomas E. Delahanty II" />
+<entity_link id="en35" fromID="p31" fromText="U.S. Attorney" toID="p30" toText="U.S. Attorney Delahanty" />
+<entity_link id="en36" fromID="g20" fromText="U.S" toID="g13" toText="the United States" />
+<entity_link id="en37" fromID="p33" fromText="Assistant U.S Attorney" toID="p32" toText="Assistant U.S Attorney Joel B. Casey" />
+<entity_link id="en38" fromID="g21" fromText="U.S" toID="g20" toText="U.S" />
+<head_link id="he0" fromID="p0" fromText="Van Buren man sentenced on federal drug charges" toID="h0" toText="man" />
+<head_link id="he1" fromID="g0" fromText="Van Buren" toID="h1" toText="Van Buren" />
+<head_link id="he2" fromID="g1" fromText="BANGOR, Maine" toID="h2" toText="BANGOR" />
+<head_link id="he3" fromID="g2" fromText="Maine" toID="h3" toText="Maine" />
+<head_link id="he4" fromID="p1" fromText="U.S. Attorney Thomas E. Delahanty II" toID="h4" toText="Thomas E. Delahanty" />
+<head_link id="he5" fromID="p2" fromText="U.S. Attorney" toID="h5" toText="Attorney" />
+<head_link id="he6" fromID="g3" fromText="U.S" toID="h6" toText="U.S" />
+<head_link id="he7" fromID="p3" fromText="Allen Gagnon, 48, of Van Buren, Maine" toID="h7" toText="Allen Gagnon" />
+<head_link id="he8" fromID="g4" fromText="Van Buren, Maine" toID="h8" toText="Van Buren" />
+<head_link id="he9" fromID="g5" fromText="Maine" toID="h9" toText="Maine" />
+<head_link id="he10" fromID="o0" fromText="U.S. District Court in Bangor" toID="h10" toText="U.S. District Court" />
+<head_link id="he11" fromID="g6" fromText="Bangor" toID="h11" toText="Bangor" />
+<head_link id="he12" fromID="p4" fromText="Chief Judge John A. Woodcock" toID="h12" toText="John A. Woodcock" />
+<head_link id="he13" fromID="p5" fromText="Chief Judge" toID="h13" toText="Judge" />
+<head_link id="he15" fromID="p6" fromText="Gagnon" toID="h14" toText="Gagnon" />
+<head_link id="he16" fromID="o1" fromText="the U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations (HSI" toID="h15" toText="U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations" />
+<head_link id="he17" fromID="o2" fromText="HSI" toID="h16" toText="HSI" />
+<head_link id="he18" fromID="o3" fromText="the U.S. Border Patrol" toID="h17" toText="U.S. Border Patrol" />
+<head_link id="he19" fromID="o4" fromText="the Van Buren Police Department" toID="h18" toText="Van Buren Police Department" />
+<head_link id="he20" fromID="o5" fromText="the Maine Drug Enforcement Agency" toID="h19" toText="Maine Drug Enforcement Agency" />
+<head_link id="he21" fromID="p7" fromText="Drug traffickers" toID="h20" toText="traffickers" />
+<head_link id="he22" fromID="g7" fromText="communities" toID="h21" toText="communities" />
+<head_link id="he23" fromID="p9" fromText="Bruce M. Foucart" toID="h22" toText="Bruce M. Foucart" />
+<head_link id="he24" fromID="p10" fromText="special agent in charge of ICE HSI in Boston" toID="h23" toText="agent" />
+<head_link id="he25" fromID="o6" fromText="ICE HSI in Boston" toID="h24" toText="ICE HSI" />
+<head_link id="he26" fromID="g8" fromText="Boston" toID="h25" toText="Boston" />
+<head_link id="he27" fromID="p11" fromText="Foucart" toID="h26" toText="Foucart" />
+<head_link id="he28" fromID="o7" fromText="ICE HSI" toID="h27" toText="ICE HSI" />
+<head_link id="he29" fromID="g9" fromText="New England" toID="h28" toText="New England" />
+<head_link id="he30" fromID="g10" fromText="quiet communities in Maine" toID="h29" toText="communities" />
+<head_link id="he31" fromID="g11" fromText="Maine" toID="h30" toText="Maine" />
+<head_link id="he32" fromID="o8" fromText="ICE HSI" toID="h31" toText="ICE HSI" />
+<head_link id="he33" fromID="o9" fromText="our" toID="h32" toText="our" />
+<head_link id="he34" fromID="o10" fromText="our law enforcement partners" toID="h33" toText="partners" />
+<head_link id="he35" fromID="l0" fromText="our border" toID="h34" toText="border" />
+<head_link id="he36" fromID="g12" fromText="our" toID="h35" toText="our" />
+<head_link id="he37" fromID="o11" fromText="court" toID="h36" toText="court" />
+<head_link id="he38" fromID="p12" fromText="Gagnon" toID="h37" toText="Gagnon" />
+<head_link id="he39" fromID="p13" fromText="he" toID="h38" toText="he" />
+<head_link id="he40" fromID="g13" fromText="the United States" toID="h39" toText="United States" />
+<head_link id="he41" fromID="g14" fromText="Canada" toID="h40" toText="Canada" />
+<head_link id="he14" fromID="l1" fromText="northern Maine" toID="h42" toText="Maine" />
+<head_link id="he44" fromID="p16" fromText="Gagnon, wearing a white camouflage outfit" toID="h43" toText="Gagnon" />
+<head_link id="he45" fromID="l2" fromText="the frozen St. John River" toID="h44" toText="St. John River" />
+<head_link id="he46" fromID="g15" fromText="Canada" toID="h45" toText="Canada" />
+<head_link id="he47" fromID="l3" fromText="the river" toID="h46" toText="river" />
+<head_link id="he48" fromID="p17" fromText="He" toID="h47" toText="He" />
+<head_link id="he49" fromID="f0" fromText="his home in Van Buren" toID="h48" toText="home" />
+<head_link id="he50" fromID="p18" fromText="his" toID="h49" toText="his" />
+<head_link id="he51" fromID="g16" fromText="Van Buren" toID="h50" toText="Van Buren" />
+<head_link id="he52" fromID="p19" fromText="one customer who purchased a quantity of the marijuana" toID="h51" toText="customer" />
+<head_link id="he53" fromID="p20" fromText="who" toID="h52" toText="who" />
+<head_link id="he54" fromID="p21" fromText="Gagnon" toID="h53" toText="Gagnon" />
+<head_link id="he55" fromID="p22" fromText="two buyers in northern Maine" toID="h41" toText="buyers" />
+<head_link id="he56" fromID="p23" fromText="another customer in Caribou, Maine" toID="h54" toText="customer" />
+<head_link id="he57" fromID="g17" fromText="Caribou, Maine" toID="h55" toText="Caribou" />
+<head_link id="he58" fromID="g18" fromText="Maine" toID="h56" toText="Maine" />
+<head_link id="he59" fromID="p24" fromText="Gagnon" toID="h57" toText="Gagnon" />
+<head_link id="he60" fromID="p25" fromText="he" toID="h58" toText="he" />
+<head_link id="he61" fromID="p26" fromText="he" toID="h59" toText="he" />
+<head_link id="he62" fromID="g19" fromText="the country" toID="h60" toText="country" />
+<head_link id="he63" fromID="p27" fromText="his" toID="h61" toText="his" />
+<head_link id="he64" fromID="o12" fromText="the court" toID="h62" toText="court" />
+<head_link id="he65" fromID="p28" fromText="the defendant" toID="h63" toText="defendant" />
+<head_link id="he66" fromID="p29" fromText="his" toID="h64" toText="his" />
+<head_link id="he67" fromID="p30" fromText="U.S. Attorney Delahanty" toID="h65" toText="Delahanty" />
+<head_link id="he68" fromID="p31" fromText="U.S. Attorney" toID="h66" toText="Attorney" />
+<head_link id="he69" fromID="g20" fromText="U.S" toID="h67" toText="U.S" />
+<head_link id="he70" fromID="o13" fromText="federal, state and local law enforcement agencies" toID="h68" toText="agencies" />
+<head_link id="he71" fromID="o14" fromText="state" toID="h69" toText="state" />
+<head_link id="he72" fromID="p32" fromText="Assistant U.S Attorney Joel B. Casey" toID="h70" toText="Joel B. Casey" />
+<head_link id="he73" fromID="p33" fromText="Assistant U.S Attorney" toID="h71" toText="Attorney" />
+<head_link id="he74" fromID="g21" fromText="U.S" toID="h72" toText="U.S" />
+<name_link id="na0" fromID="g0" fromText="Van Buren" toID="n0" toText="Van Buren" />
+<name_link id="na1" fromID="g1" fromText="BANGOR, Maine" toID="n1" toText="BANGOR" />
+<name_link id="na2" fromID="g2" fromText="Maine" toID="n2" toText="Maine" />
+<name_link id="na3" fromID="p1" fromText="U.S. Attorney Thomas E. Delahanty II" toID="n3" toText="Thomas E. Delahanty" />
+<name_link id="na4" fromID="g3" fromText="U.S" toID="n4" toText="U.S" />
+<name_link id="na5" fromID="p3" fromText="Allen Gagnon, 48, of Van Buren, Maine" toID="n5" toText="Allen Gagnon" />
+<name_link id="na6" fromID="g4" fromText="Van Buren, Maine" toID="n6" toText="Van Buren" />
+<name_link id="na7" fromID="g5" fromText="Maine" toID="n7" toText="Maine" />
+<name_link id="na8" fromID="o0" fromText="U.S. District Court in Bangor" toID="n8" toText="U.S. District Court" />
+<name_link id="na9" fromID="g6" fromText="Bangor" toID="n9" toText="Bangor" />
+<name_link id="na10" fromID="p4" fromText="Chief Judge John A. Woodcock" toID="n10" toText="John A. Woodcock" />
+<name_link id="na11" fromID="p6" fromText="Gagnon" toID="n11" toText="Gagnon" />
+<name_link id="na12" fromID="o1" fromText="the U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations (HSI" toID="n12" toText="U.S. Immigration and Customs Enforcement (ICE) Office of Homeland Security Investigations" />
+<name_link id="na13" fromID="o2" fromText="HSI" toID="n13" toText="HSI" />
+<name_link id="na14" fromID="o3" fromText="the U.S. Border Patrol" toID="n14" toText="U.S. Border Patrol" />
+<name_link id="na15" fromID="o4" fromText="the Van Buren Police Department" toID="n15" toText="Van Buren Police Department" />
+<name_link id="na16" fromID="o5" fromText="the Maine Drug Enforcement Agency" toID="n16" toText="Maine Drug Enforcement Agency" />
+<name_link id="na17" fromID="p9" fromText="Bruce M. Foucart" toID="n17" toText="Bruce M. Foucart" />
+<name_link id="na18" fromID="o6" fromText="ICE HSI in Boston" toID="n18" toText="ICE HSI" />
+<name_link id="na19" fromID="g8" fromText="Boston" toID="n19" toText="Boston" />
+<name_link id="na20" fromID="p11" fromText="Foucart" toID="n20" toText="Foucart" />
+<name_link id="na21" fromID="o7" fromText="ICE HSI" toID="n21" toText="ICE HSI" />
+<name_link id="na22" fromID="g9" fromText="New England" toID="n22" toText="New England" />
+<name_link id="na23" fromID="g11" fromText="Maine" toID="n23" toText="Maine" />
+<name_link id="na24" fromID="o8" fromText="ICE HSI" toID="n24" toText="ICE HSI" />
+<name_link id="na25" fromID="p12" fromText="Gagnon" toID="n25" toText="Gagnon" />
+<name_link id="na26" fromID="g13" fromText="the United States" toID="n26" toText="United States" />
+<name_link id="na27" fromID="g14" fromText="Canada" toID="n27" toText="Canada" />
+<name_link id="na29" fromID="p16" fromText="Gagnon, wearing a white camouflage outfit" toID="n28" toText="Gagnon" />
+<name_link id="na30" fromID="l2" fromText="the frozen St. John River" toID="n29" toText="St. John River" />
+<name_link id="na31" fromID="g15" fromText="Canada" toID="n30" toText="Canada" />
+<name_link id="na32" fromID="g16" fromText="Van Buren" toID="n31" toText="Van Buren" />
+<name_link id="na33" fromID="p21" fromText="Gagnon" toID="n32" toText="Gagnon" />
+<name_link id="na34" fromID="g17" fromText="Caribou, Maine" toID="n33" toText="Caribou" />
+<name_link id="na35" fromID="g18" fromText="Maine" toID="n34" toText="Maine" />
+<name_link id="na36" fromID="p24" fromText="Gagnon" toID="n35" toText="Gagnon" />
+<name_link id="na37" fromID="p30" fromText="U.S. Attorney Delahanty" toID="n36" toText="Delahanty" />
+<name_link id="na38" fromID="g20" fromText="U.S" toID="n37" toText="U.S" />
+<name_link id="na39" fromID="p32" fromText="Assistant U.S Attorney Joel B. Casey" toID="n38" toText="Joel B. Casey" />
+<name_link id="na40" fromID="g21" fromText="U.S" toID="n39" toText="U.S" />
+<relation_link1 id="r0" fromID="C0" fromText="Van Buren man sentenced on federal drug charges" toID="p0" toText="Van Buren man sentenced on federal drug charges" />
+<relation_link1 id="r1" fromID="e0" fromText="U.S. Attorney" toID="p2" toText="U.S. Attorney" />
+<relation_link1 id="r2" fromID="C1" fromText="Allen Gagnon, 48, of Van Buren, Maine" toID="p3" toText="Allen Gagnon, 48, of Van Buren, Maine" />
+<relation_link1 id="r3" fromID="M0" fromText="special agent in charge of ICE HSI in Boston" toID="p10" toText="special agent in charge of ICE HSI in Boston" />
+<relation_link1 id="r4" fromID="M1" fromText="Foucart oversees ICE HSI throughout New England" toID="p11" toText="Foucart" />
+<relation_link1 id="r5" fromID="lo0" fromText="Foucart oversees ICE HSI throughout New England" toID="p11" toText="Foucart" />
+<relation_link1 id="r6" fromID="lo1" fromText="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" toID="p13" toText="he" />
+<relation_link1 id="r7" fromID="lo2" fromText="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" toID="p13" toText="he" />
+<relation_link1 id="r10" fromID="lo5" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="p16" toText="Gagnon, wearing a white camouflage outfit" />
+<relation_link1 id="r11" fromID="lo6" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="p16" toText="Gagnon, wearing a white camouflage outfit" />
+<relation_link1 id="r12" fromID="lo7" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="p16" toText="Gagnon, wearing a white camouflage outfit" />
+<relation_link1 id="r13" fromID="lo8" fromText="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" toID="p17" toText="He" />
+<relation_link1 id="r14" fromID="lo9" fromText="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" toID="p19" toText="one customer who purchased a quantity of the marijuana" />
+<relation_link1 id="r15" fromID="C2" fromText="two buyers in northern Maine" toID="p22" toText="two buyers in northern Maine" />
+<relation_link1 id="r16" fromID="C3" fromText="another customer in Caribou, Maine" toID="p23" toText="another customer in Caribou, Maine" />
+<relation_link1 id="r17" fromID="lo10" fromText="In addition to the quantity of marijuana that he smuggled into the country and distributed immediately prior to his arrest, the court found that the defendant had imported and distributed additional quantities of marijuana between 2008 and his arrest" toID="p26" toText="he" />
+<relation_link1 id="r18" fromID="e1" fromText="U.S. Attorney" toID="p31" toText="U.S. Attorney" />
+<relation_link1 id="r19" fromID="e2" fromText="Assistant U.S Attorney" toID="p33" toText="Assistant U.S Attorney" />
+<relation_link2 id="re0" fromID="C0" fromText="Van Buren man sentenced on federal drug charges" toID="g0" toText="Van Buren" />
+<relation_link2 id="re1" fromID="e0" fromText="U.S. Attorney" toID="g3" toText="U.S" />
+<relation_link2 id="re2" fromID="C1" fromText="Allen Gagnon, 48, of Van Buren, Maine" toID="g4" toText="Van Buren, Maine" />
+<relation_link2 id="re3" fromID="M0" fromText="special agent in charge of ICE HSI in Boston" toID="o6" toText="ICE HSI in Boston" />
+<relation_link2 id="re4" fromID="M1" fromText="Foucart oversees ICE HSI throughout New England" toID="o7" toText="ICE HSI" />
+<relation_link2 id="re5" fromID="lo0" fromText="Foucart oversees ICE HSI throughout New England" toID="g9" toText="New England" />
+<relation_link2 id="re6" fromID="lo1" fromText="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" toID="g13" toText="the United States" />
+<relation_link2 id="re7" fromID="lo2" fromText="According to court records, on the evening of Feb. 24, 2010, Gagnon was arrested after he smuggled marijuana into the United States from Canada and sold it to two buyers in northern Maine" toID="g14" toText="Canada" />
+<relation_link2 id="re10" fromID="lo5" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="l2" toText="the frozen St. John River" />
+<relation_link2 id="re11" fromID="lo6" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="g15" toText="Canada" />
+<relation_link2 id="re12" fromID="lo7" fromText="Gagnon, wearing a white camouflage outfit, walked across the frozen St. John River into Canada, picked up trash bags containing marijuana and brought it back across the river" toID="l3" toText="the river" />
+<relation_link2 id="re13" fromID="lo8" fromText="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" toID="f0" toText="his home in Van Buren" />
+<relation_link2 id="re14" fromID="lo9" fromText="He was met later at his home in Van Buren by one customer who purchased a quantity of the marijuana" toID="f0" toText="his home in Van Buren" />
+<relation_link2 id="re15" fromID="C2" fromText="two buyers in northern Maine" toID="l1" toText="northern Maine" />
+<relation_link2 id="re16" fromID="C3" fromText="another customer in Caribou, Maine" toID="g17" toText="Caribou, Maine" />
+<relation_link2 id="re17" fromID="lo10" fromText="In addition to the quantity of marijuana that he smuggled into the country and distributed immediately prior to his arrest, the court found that the defendant had imported and distributed additional quantities of marijuana between 2008 and his arrest" toID="g19" toText="the country" />
+<relation_link2 id="re18" fromID="e1" fromText="U.S. Attorney" toID="g20" toText="U.S" />
+<relation_link2 id="re19" fromID="e2" fromText="Assistant U.S Attorney" toID="g21" toText="U.S" />
+</TAGS>
+</KddTask>

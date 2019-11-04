@@ -1,0 +1,21 @@
+324,000 Financial Records with CVV Numbers Stolen From A Payment Gateway
+Swati Khandelwal
+
+Around 324,000 users have likely had their payment records stolen either from payment processor BlueSnap or its customer Regpack; however, neither of the company has admitted a data breach.
+BlueSnap is a payment provider which allows websites to take payments from customers by offering merchant facilities, whereas RegPack is a global online enrollment platform that uses BlueSnap to process the financial transactions for its online enrollments.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The data breach was initially reported on July 10, when a hacker published a link on Twitter, pointing to a file containing roughly 324,000 records allegedly stolen from Waltham, Massachusetts-based BlueSnap.
+The tweet has since been deleted, but Australian security expert Troy Hunt took a copy of it for later review to analyze the data and after analyzing, he discovered that the leaked payment records are most likely legitimate.
+Payment Card Data Including CVV Codes Leaked
+The data contains users' details registred between 10 March 2014 to 20 May 2016 and includes names, email addresses, physical addresses, phone numbers, IP addresses, last four digits of credit card numbers, even CVV codes, and invoice data containing details of purchases.
+According to Hunt, who owns 'Have I Been Pwned' breach notification service, some evidence like file names containing 'BlueSnap' and 'Plimus' in it suggests that the data comes from BlueSnap.
+Plimus is the original name of BlueSnap, which was rebranded after private equity firm Great Hill Partners acquired it for $115Million in 2011.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, since April 2013, Regpack has been using BlueSnap's payment platform, it could be possible that the stolen data has come from Regpack.
+"We have got 899 totally separate consumers of the Regpack service...who send their data direct to Regpack who pass payment data onto BlueSnap for processing," Hunt explained in a blog post. 
+"Unless I am missing a fundamental piece of the workflow... it looks like accountability almost certainly lies with one of these two parties."
+Whatever the source is, but the primary concern here is that more than 320,000 stolen users financial information is floating around the web.
+Although the payment data does not contain full credit card numbers, as Hunt stressed, cyber criminals can still misuse the compromised information, particularly the CVV codes that are highly valuable payment data, which can be used to conduct "card not present" transactions.
+Also, the last four digit of any user's credit card number can also be used for identity verification that's very useful in conducting social engineering attacks.
+Hunt contacted BlueSnap as well as Regpack, but they both denied suffering a data breach. He has also loaded as many as 105,000 email addresses into Have I Been Pwned, so you can search for your address on the site to check whether you are impacted by the breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

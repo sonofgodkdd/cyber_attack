@@ -1,0 +1,27 @@
+Over 300 Million AdultFriendFinder Accounts Exposed in Massive Data Breach
+Mohit Kumar
+
+Adult Friend Finder, a casual dating website with the tagline "hookup, find sex or meet someone hot now," has suffered another massive data breach, but this time it is much worse than the last year.
+Over 300 Million AdultFriendFinder accounts have reportedly been exposed in a massive data breach that hit adult dating and entertainment company Friend Finder Network.
+Friend Finder Network is the world's largest sex and swinger community that has a number of assets and the hack reportedly exposed the information from more than 412 Million accounts across its corporate holdings, which include AdultFriendFinder, Cams, Penthouse, and Stripshow.
+412,214,295 User's Accounts on SALE!
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Breach notification site LeakedSource broke the story, reporting that nearly 339 Million accounts from sex hookup site AdultFriendFinder, over 60 Million accounts from Cams.com, 7 Million from Penthouse and a handful of accounts from Stripshow and iCams were compromised, for a total of 412,214,295 affected users.
+"Over 400 million accounts representing 20 years of customer data was compromised, which makes it by far the largest breach we have ever seen," said LeakedSource.
+Poor Or No Encryption for Passwords
+According to the breach notification service, the database containing email addresses, easily crackable (or in some cases, unprotected) passwords, usernames, IP addresses and browser information, of over 412 Million users has been made available to online criminal marketplaces.
+LeakedSource further reveals that Friend Finder Network did not properly encrypt its users’ data. The company stored user passwords in plainly visible format, or with the very poor Secure Hash Algorithm 1 (SHA1) hash function, which is not regarded as secure.
+Talking about passwords, here are some common passwords that were used by Friend Finder Network users to log in to the websites: 123456, 123456789, password, qwerty, and pussy, fuckme, fuckyou and iloveyou.
+Millions Of Deleted User Accounts Also Exposed
+What's worse? If you are feeling relieved and thanking God that you already deleted your account on the adult website in the past and you are on the safer side, I am sorry to say that you too are in great trouble.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The leaked database also includes details of over 15 Million users who already had "deleted" their accounts, as well as users for assets the company no longer owned, like Penthouse.
+In terms of cheating partners, the hack, which took place last month, is not as bad as last year’s data breach that exposed secret sexual fantasies of over 3.5 Million cheating people.
+On the other hand, the Ashley Madison data breach exposed the previous year also more sensitive than the latest one because the breach exposed confidential information like sexual preferences, fantasies, fetishes and others such data of around 32 Million users.
+Here's How the Adult Network possibly got Hacked:
+According to CSO Online, a security researcher using the online moniker, Revolver discovered Local File Inclusion vulnerabilities on the AdultFriendFinder website last month. The researcher believed that the same flaw was exploited to hack the adult network.
+Friend Finder Network said the company was aware of the security incident and was looking into the matter to determine whether or not the claims were valid.
+"We are aware of reports of a security incident, and we are currently investigating to determine the validity of the reports," Diana Lynn Ballou, Friend Finder Network's Vice President and Senior Counsel of Corporate Compliance & Litigation told CSO Online. "If we confirm that a security incident did occur, we will work to address any issues and notify any customers that may be affected."
+So, the company neither confirmed nor denied the hack against its network, though admitted the company had recently received several reports of security problems.
+Friend Finder Network has yet to offer additional details on the hack and why the company was still storing information of user’s accounts deleted long ago.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+September 4, 2009
+Mexican national sentenced to 20 years for methamphetamine trafficking
+Defendant had four prior convictions in King County
+TACOMA, Wash. - A Seattle-area resident with a history of drug trafficking was sentenced today in federal court to 20 years in prison and 10 years of supervised release for possessing methamphetamine with intent to distribute, following an investigation by U.S. Immigration and Customs Enforcement (ICE).
+Andres Hernandez-Vargas, 50, was convicted by a federal jury in May 2009. According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington.
+In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night. A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit.
+Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally. Later, a K-9 officer detected something and officers recovered a pound of methamphetamine hidden in a compartment below the windshield wipers.
+Hernandez-Vargas uses several aliases including Jorge Barrajas-Sandoval and Jesus Lopez-Sandoval. He has four previous felony drug convictions for heroin and cocaine in King County Superior Court dating back to 1988.
+"Methamphetamine is a dangerous drug that can lead to violence and it has no place in our communities," said Brad Bench, acting special agent in charge of ICE's Office of Investigations in Seattle. "ICE will continue to work with our law enforcement partners to investigate this illegal activity."
+At sentencing, U.S. District Court Judge Ronald Leighton noted that the methamphetamine in this case was 99 percent pure, adding that it "was acquired directly from or close to the sourceIt is poison and it is harmful always."
+ICE was joined in this investigation by the Drug Enforcement Administration and the King County Sheriff's Office.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="19" end="89" text="Mexican national sentenced to 20 years for methamphetamine trafficking" TYPE="BAR" />
+<person id="p1" start="90" end="99" text="Defendant" TYPE="BAR" />
+<person id="p2" start="158" end="216" text="A Seattle-area resident with a history of drug trafficking" TYPE="NOM" />
+<person id="p3" start="447" end="474" text="Andres Hernandez-Vargas, 50" TYPE="NAM" />
+<person id="p4" start="493" end="507" text="a federal jury" TYPE="NOM" />
+<person id="p5" start="590" end="592" text="he" TYPE="PRO" />
+<person id="p6" start="674" end="690" text="Hernandez-Vargas" TYPE="NAM" />
+<person id="p7" start="813" end="854" text="A King County, Wash., sheriff's detective" TYPE="NOM" />
+<person id="p9" start="863" end="866" text="him" TYPE="PRO" />
+<person id="p10" start="917" end="933" text="Hernandez-Vargas" TYPE="NAM" />
+<person id="p11" start="1007" end="1009" text="he" TYPE="PRO" />
+<person id="p12" start="1047" end="1060" text="a K-9 officer" TYPE="NOM" />
+<person id="p13" start="1084" end="1092" text="officers" TYPE="BAR" />
+<person id="p14" start="1183" end="1199" text="Hernandez-Vargas" TYPE="NAM" />
+<person id="p15" start="1231" end="1254" text="Jorge Barrajas-Sandoval" TYPE="NAM" />
+<person id="p16" start="1259" end="1279" text="Jesus Lopez-Sandoval" TYPE="NAM" />
+<person id="p17" start="1281" end="1283" text="He" TYPE="PRO" />
+<person id="p18" start="1509" end="1596" text="Brad Bench, acting special agent in charge of ICE's Office of Investigations in Seattle" TYPE="APP" />
+<person id="p19" start="1509" end="1519" text="Brad Bench" TYPE="NAM" />
+<person id="p20" start="1521" end="1596" text="acting special agent in charge of ICE's Office of Investigations in Seattle" TYPE="BAR" />
+<person id="p21" start="1713" end="1754" text="U.S. District Court Judge Ronald Leighton" TYPE="NAM" />
+<person id="p22" start="1713" end="1738" text="U.S. District Court Judge" TYPE="NOMPRE" />
+<person id="p23" start="2005" end="2028" text="the King County Sheriff" TYPE="NOM" />
+<person id="p24" start="815" end="842" text="King County, Wash., sheriff" TYPE="BAR" />
+<organization id="o0" start="240" end="253" text="federal court" TYPE="BAR" />
+<organization id="o1" start="399" end="444" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="441" end="444" text="ICE" TYPE="NAM" />
+<organization id="o3" start="561" end="566" text="court" TYPE="NOMPRE" />
+<organization id="o4" start="1352" end="1378" text="King County Superior Court" TYPE="NAM" />
+<organization id="o5" start="1555" end="1596" text="ICE's Office of Investigations in Seattle" TYPE="NAM" />
+<organization id="o6" start="1555" end="1558" text="ICE" TYPE="NAM" />
+<organization id="o7" start="1599" end="1602" text="ICE" TYPE="NAM" />
+<organization id="o8" start="1630" end="1658" text="our law enforcement partners" TYPE="NOM" />
+<organization id="o9" start="1630" end="1633" text="our" TYPE="PRO" />
+<organization id="o10" start="1718" end="1732" text="District Court" TYPE="NOMPRE" />
+<organization id="o11" start="1718" end="1726" text="District" TYPE="NOMPRE" />
+<organization id="o12" start="1925" end="1928" text="ICE" TYPE="NAM" />
+<organization id="o13" start="1965" end="2000" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o14" start="2005" end="2037" text="the King County Sheriff's Office" TYPE="NOM" />
+<geographical-political id="g0" start="19" end="26" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g1" start="130" end="141" text="King County" TYPE="NAM" />
+<geographical-political id="g2" start="142" end="154" text="TACOMA, Wash" TYPE="NAM" />
+<geographical-political id="g3" start="150" end="154" text="Wash" TYPE="NAM" />
+<geographical-political id="g4" start="160" end="167" text="Seattle" TYPE="NAMPRE" />
+<geographical-political id="g5" start="631" end="641" text="California" TYPE="NAM" />
+<geographical-political id="g6" start="645" end="655" text="Washington" TYPE="NAM" />
+<geographical-political id="g7" start="702" end="709" text="Seattle" TYPE="NAM" />
+<geographical-political id="g8" start="713" end="730" text="Sacramento, Calif" TYPE="NAM" />
+<geographical-political id="g9" start="725" end="730" text="Calif" TYPE="NAM" />
+<geographical-political id="g10" start="777" end="784" text="Seattle" TYPE="NAM" />
+<geographical-political id="g11" start="815" end="832" text="King County, Wash" TYPE="NAM" />
+<geographical-political id="g12" start="828" end="832" text="Wash" TYPE="NAM" />
+<geographical-political id="g13" start="950" end="961" text="King County" TYPE="NAM" />
+<geographical-political id="g14" start="1017" end="1028" text="the country" TYPE="NOM" />
+<geographical-political id="g15" start="1486" end="1501" text="our communities" TYPE="NOM" />
+<geographical-political id="g16" start="1486" end="1489" text="our" TYPE="PRO" />
+<geographical-political id="g17" start="1589" end="1596" text="Seattle" TYPE="NAM" />
+<geographical-political id="g18" start="1713" end="1716" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g19" start="2009" end="2020" text="King County" TYPE="NAMPRE" />
+<location id="l0" start="160" end="172" text="Seattle-area" TYPE="NOMPRE" />
+<falicity id="f0" start="269" end="275" text="prison" TYPE="BAR" />
+<falicity id="f1" start="736" end="748" text="Interstate 5" TYPE="NAM" />
+<falicity id="f2" start="873" end="885" text="Interstate 5" TYPE="USP" />
+<head id="h0" start="27" end="35" text="national" />
+<head id="h1" start="19" end="26" text="Mexican" />
+<head id="h2" start="90" end="99" text="Defendant" />
+<head id="h3" start="130" end="141" text="King County" />
+<head id="h4" start="142" end="148" text="TACOMA" />
+<head id="h5" start="150" end="154" text="Wash" />
+<head id="h6" start="173" end="181" text="resident" />
+<head id="h7" start="168" end="172" text="area" />
+<head id="h8" start="160" end="167" text="Seattle" />
+<head id="h9" start="248" end="253" text="court" />
+<head id="h10" start="269" end="275" text="prison" />
+<head id="h11" start="399" end="439" text="U.S. Immigration and Customs Enforcement" />
+<head id="h12" start="441" end="444" text="ICE" />
+<head id="h13" start="447" end="470" text="Andres Hernandez-Vargas" />
+<head id="h14" start="503" end="507" text="jury" />
+<head id="h15" start="561" end="566" text="court" />
+<head id="h16" start="590" end="592" text="he" />
+<head id="h17" start="631" end="641" text="California" />
+<head id="h18" start="645" end="655" text="Washington" />
+<head id="h19" start="674" end="690" text="Hernandez-Vargas" />
+<head id="h20" start="702" end="709" text="Seattle" />
+<head id="h21" start="713" end="723" text="Sacramento" />
+<head id="h22" start="725" end="730" text="Calif" />
+<head id="h23" start="736" end="748" text="Interstate 5" />
+<head id="h24" start="777" end="784" text="Seattle" />
+<head id="h25" start="845" end="854" text="detective" />
+<head id="h26" start="835" end="842" text="sheriff" />
+<head id="h27" start="815" end="826" text="King County" />
+<head id="h28" start="828" end="832" text="Wash" />
+<head id="h29" start="863" end="866" text="him" />
+<head id="h30" start="873" end="885" text="Interstate 5" />
+<head id="h31" start="917" end="933" text="Hernandez-Vargas" />
+<head id="h32" start="950" end="961" text="King County" />
+<head id="h33" start="1007" end="1009" text="he" />
+<head id="h34" start="1021" end="1028" text="country" />
+<head id="h35" start="1053" end="1060" text="officer" />
+<head id="h36" start="1084" end="1092" text="officers" />
+<head id="h37" start="1183" end="1199" text="Hernandez-Vargas" />
+<head id="h38" start="1231" end="1254" text="Jorge Barrajas-Sandoval" />
+<head id="h39" start="1259" end="1279" text="Jesus Lopez-Sandoval" />
+<head id="h40" start="1281" end="1283" text="He" />
+<head id="h41" start="1352" end="1378" text="King County Superior Court" />
+<head id="h42" start="1490" end="1501" text="communities" />
+<head id="h43" start="1486" end="1489" text="our" />
+<head id="h44" start="1509" end="1519" text="Brad Bench" />
+<head id="h45" start="1536" end="1541" text="agent" />
+<head id="h46" start="1561" end="1585" text="Office of Investigations" />
+<head id="h47" start="1555" end="1558" text="ICE" />
+<head id="h48" start="1589" end="1596" text="Seattle" />
+<head id="h49" start="1599" end="1602" text="ICE" />
+<head id="h50" start="1650" end="1658" text="partners" />
+<head id="h51" start="1630" end="1633" text="our" />
+<head id="h52" start="1739" end="1754" text="Ronald Leighton" />
+<head id="h53" start="1733" end="1738" text="Judge" />
+<head id="h54" start="1727" end="1732" text="Court" />
+<head id="h55" start="1718" end="1726" text="District" />
+<head id="h56" start="1713" end="1716" text="U.S" />
+<head id="h57" start="1925" end="1928" text="ICE" />
+<head id="h58" start="1969" end="2000" text="Drug Enforcement Administration" />
+<head id="h59" start="2031" end="2037" text="Office" />
+<head id="h60" start="2021" end="2028" text="Sheriff" />
+<head id="h61" start="2009" end="2020" text="King County" />
+<name id="n0" start="19" end="26" text="Mexican" />
+<name id="n1" start="130" end="141" text="King County" />
+<name id="n2" start="142" end="148" text="TACOMA" />
+<name id="n3" start="150" end="154" text="Wash" />
+<name id="n4" start="160" end="167" text="Seattle" />
+<name id="n5" start="399" end="439" text="U.S. Immigration and Customs Enforcement" />
+<name id="n6" start="441" end="444" text="ICE" />
+<name id="n7" start="447" end="470" text="Andres Hernandez-Vargas" />
+<name id="n8" start="631" end="641" text="California" />
+<name id="n9" start="645" end="655" text="Washington" />
+<name id="n10" start="674" end="690" text="Hernandez-Vargas" />
+<name id="n11" start="702" end="709" text="Seattle" />
+<name id="n12" start="713" end="723" text="Sacramento" />
+<name id="n13" start="725" end="730" text="Calif" />
+<name id="n14" start="736" end="748" text="Interstate 5" />
+<name id="n15" start="777" end="784" text="Seattle" />
+<name id="n16" start="815" end="826" text="King County" />
+<name id="n17" start="828" end="832" text="Wash" />
+<name id="n18" start="873" end="885" text="Interstate 5" />
+<name id="n19" start="917" end="933" text="Hernandez-Vargas" />
+<name id="n20" start="950" end="961" text="King County" />
+<name id="n21" start="1183" end="1199" text="Hernandez-Vargas" />
+<name id="n22" start="1231" end="1254" text="Jorge Barrajas-Sandoval" />
+<name id="n23" start="1259" end="1279" text="Jesus Lopez-Sandoval" />
+<name id="n24" start="1352" end="1378" text="King County Superior Court" />
+<name id="n25" start="1509" end="1519" text="Brad Bench" />
+<name id="n26" start="1561" end="1585" text="Office of Investigations" />
+<name id="n27" start="1555" end="1558" text="ICE" />
+<name id="n28" start="1589" end="1596" text="Seattle" />
+<name id="n29" start="1599" end="1602" text="ICE" />
+<name id="n30" start="1739" end="1754" text="Ronald Leighton" />
+<name id="n31" start="1713" end="1716" text="U.S" />
+<name id="n32" start="1925" end="1928" text="ICE" />
+<name id="n33" start="1969" end="2000" text="Drug Enforcement Administration" />
+<name id="n34" start="2009" end="2020" text="King County" />
+<located-mention id="lo0" start="521" end="655" text="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" TYPE="Other" />
+<located-mention id="lo1" start="521" end="655" text="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" TYPE="Other" />
+<located-mention id="lo2" start="657" end="811" text="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" TYPE="Other" />
+<located-mention id="lo3" start="657" end="811" text="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" TYPE="Other" />
+<located-mention id="lo4" start="657" end="811" text="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" TYPE="Other" />
+<located-mention id="lo5" start="657" end="811" text="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" TYPE="Other" />
+<located-mention id="lo6" start="813" end="915" text="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" TYPE="Other" />
+<located-mention id="lo7" start="813" end="915" text="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" TYPE="Other" />
+<located-mention id="lo8" start="917" end="1038" text="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" TYPE="Other" />
+<located-mention id="lo9" start="917" end="1038" text="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" TYPE="Other" />
+<employment-mention id="e1" start="1713" end="1738" text="U.S. District Court Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="815" end="842" text="King County, Wash., sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="2005" end="2028" text="the King County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="19" end="89" text="Mexican national sentenced to 20 years for methamphetamine trafficking" TYPE="PreMod" />
+<CRRE id="C1" start="158" end="216" text="A Seattle-area resident with a history of drug trafficking" TYPE="PreMod" />
+<M id="M0" start="1521" end="1596" text="acting special agent in charge of ICE's Office of Investigations in Seattle" TYPE="Preposition" />
+<M id="M1" start="1713" end="1738" text="U.S. District Court Judge" TYPE="PreMod" />
+<entity_link id="en0" fromID="p1" fromText="Defendant" toID="p0" toText="Mexican national sentenced to 20 years for methamphetamine trafficking" />
+<entity_link id="en1" fromID="p2" fromText="A Seattle-area resident with a history of drug trafficking" toID="p0" toText="Mexican national sentenced to 20 years for methamphetamine trafficking" />
+<entity_link id="en2" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en3" fromID="p3" fromText="Andres Hernandez-Vargas, 50" toID="p2" toText="A Seattle-area resident with a history of drug trafficking" />
+<entity_link id="en4" fromID="p5" fromText="he" toID="p3" toText="Andres Hernandez-Vargas, 50" />
+<entity_link id="en5" fromID="p6" fromText="Hernandez-Vargas" toID="p3" toText="Andres Hernandez-Vargas, 50" />
+<entity_link id="en6" fromID="g6" fromText="Washington" toID="g3" toText="Wash" />
+<entity_link id="en7" fromID="g7" fromText="Seattle" toID="g4" toText="Seattle" />
+<entity_link id="en8" fromID="g9" fromText="Calif" toID="g5" toText="California" />
+<entity_link id="en9" fromID="g10" fromText="Seattle" toID="g7" toText="Seattle" />
+<entity_link id="en11" fromID="g11" fromText="King County, Wash" toID="g1" toText="King County" />
+<entity_link id="en12" fromID="g12" fromText="Wash" toID="g6" toText="Washington" />
+<entity_link id="en13" fromID="p9" fromText="him" toID="p6" toText="Hernandez-Vargas" />
+<entity_link id="en14" fromID="f2" fromText="Interstate 5" toID="f1" toText="Interstate 5" />
+<entity_link id="en15" fromID="p10" fromText="Hernandez-Vargas" toID="p3" toText="Andres Hernandez-Vargas, 50" />
+<entity_link id="en16" fromID="g13" fromText="King County" toID="g11" toText="King County, Wash" />
+<entity_link id="en10" fromID="p11" fromText="he" toID="p10" toText="Hernandez-Vargas" />
+<entity_link id="en17" fromID="p14" fromText="Hernandez-Vargas" toID="p10" toText="Hernandez-Vargas" />
+<entity_link id="en18" fromID="p15" fromText="Jorge Barrajas-Sandoval" toID="p14" toText="Hernandez-Vargas" />
+<entity_link id="en19" fromID="p16" fromText="Jesus Lopez-Sandoval" toID="p14" toText="Hernandez-Vargas" />
+<entity_link id="en20" fromID="p17" fromText="He" toID="p14" toText="Hernandez-Vargas" />
+<entity_link id="en21" fromID="g15" fromText="our communities" toID="g14" toText="the country" />
+<entity_link id="en22" fromID="g16" fromText="our" toID="g14" toText="the country" />
+<entity_link id="en23" fromID="p19" fromText="Brad Bench" toID="p18" toText="Brad Bench, acting special agent in charge of ICE's Office of Investigations in Seattle" />
+<entity_link id="en24" fromID="p20" fromText="acting special agent in charge of ICE's Office of Investigations in Seattle" toID="p19" toText="Brad Bench" />
+<entity_link id="en25" fromID="o6" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en26" fromID="g17" fromText="Seattle" toID="g10" toText="Seattle" />
+<entity_link id="en27" fromID="o7" fromText="ICE" toID="o6" toText="ICE" />
+<entity_link id="en28" fromID="o9" fromText="our" toID="o7" toText="ICE" />
+<entity_link id="en29" fromID="p22" fromText="U.S. District Court Judge" toID="p21" toText="U.S. District Court Judge Ronald Leighton" />
+<entity_link id="en30" fromID="g18" fromText="U.S" toID="g14" toText="the country" />
+<entity_link id="en31" fromID="o12" fromText="ICE" toID="o7" toText="ICE" />
+<entity_link id="en33" fromID="p23" fromText="the King County Sheriff" toID="p24" toText="King County, Wash., sheriff" />
+<entity_link id="en34" fromID="g19" fromText="King County" toID="g13" toText="King County" />
+<head_link id="he0" fromID="p0" fromText="Mexican national sentenced to 20 years for methamphetamine trafficking" toID="h0" toText="national" />
+<head_link id="he1" fromID="g0" fromText="Mexican" toID="h1" toText="Mexican" />
+<head_link id="he2" fromID="p1" fromText="Defendant" toID="h2" toText="Defendant" />
+<head_link id="he3" fromID="g1" fromText="King County" toID="h3" toText="King County" />
+<head_link id="he4" fromID="g2" fromText="TACOMA, Wash" toID="h4" toText="TACOMA" />
+<head_link id="he5" fromID="g3" fromText="Wash" toID="h5" toText="Wash" />
+<head_link id="he6" fromID="p2" fromText="A Seattle-area resident with a history of drug trafficking" toID="h6" toText="resident" />
+<head_link id="he7" fromID="l0" fromText="Seattle-area" toID="h7" toText="area" />
+<head_link id="he8" fromID="g4" fromText="Seattle" toID="h8" toText="Seattle" />
+<head_link id="he9" fromID="o0" fromText="federal court" toID="h9" toText="court" />
+<head_link id="he10" fromID="f0" fromText="prison" toID="h10" toText="prison" />
+<head_link id="he11" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h11" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he12" fromID="o2" fromText="ICE" toID="h12" toText="ICE" />
+<head_link id="he13" fromID="p3" fromText="Andres Hernandez-Vargas, 50" toID="h13" toText="Andres Hernandez-Vargas" />
+<head_link id="he14" fromID="p4" fromText="a federal jury" toID="h14" toText="jury" />
+<head_link id="he15" fromID="o3" fromText="court" toID="h15" toText="court" />
+<head_link id="he16" fromID="p5" fromText="he" toID="h16" toText="he" />
+<head_link id="he17" fromID="g5" fromText="California" toID="h17" toText="California" />
+<head_link id="he19" fromID="g6" fromText="Washington" toID="h18" toText="Washington" />
+<head_link id="he20" fromID="p6" fromText="Hernandez-Vargas" toID="h19" toText="Hernandez-Vargas" />
+<head_link id="he21" fromID="g7" fromText="Seattle" toID="h20" toText="Seattle" />
+<head_link id="he22" fromID="g8" fromText="Sacramento, Calif" toID="h21" toText="Sacramento" />
+<head_link id="he23" fromID="g9" fromText="Calif" toID="h22" toText="Calif" />
+<head_link id="he24" fromID="f1" fromText="Interstate 5" toID="h23" toText="Interstate 5" />
+<head_link id="he25" fromID="g10" fromText="Seattle" toID="h24" toText="Seattle" />
+<head_link id="he26" fromID="p7" fromText="A King County, Wash., sheriff's detective" toID="h25" toText="detective" />
+<head_link id="he28" fromID="g11" fromText="King County, Wash" toID="h27" toText="King County" />
+<head_link id="he29" fromID="g12" fromText="Wash" toID="h28" toText="Wash" />
+<head_link id="he30" fromID="p9" fromText="him" toID="h29" toText="him" />
+<head_link id="he31" fromID="f2" fromText="Interstate 5" toID="h30" toText="Interstate 5" />
+<head_link id="he32" fromID="p10" fromText="Hernandez-Vargas" toID="h31" toText="Hernandez-Vargas" />
+<head_link id="he33" fromID="g13" fromText="King County" toID="h32" toText="King County" />
+<head_link id="he18" fromID="p11" fromText="he" toID="h33" toText="he" />
+<head_link id="he34" fromID="g14" fromText="the country" toID="h34" toText="country" />
+<head_link id="he35" fromID="p12" fromText="a K-9 officer" toID="h35" toText="officer" />
+<head_link id="he36" fromID="p13" fromText="officers" toID="h36" toText="officers" />
+<head_link id="he37" fromID="p14" fromText="Hernandez-Vargas" toID="h37" toText="Hernandez-Vargas" />
+<head_link id="he38" fromID="p15" fromText="Jorge Barrajas-Sandoval" toID="h38" toText="Jorge Barrajas-Sandoval" />
+<head_link id="he39" fromID="p16" fromText="Jesus Lopez-Sandoval" toID="h39" toText="Jesus Lopez-Sandoval" />
+<head_link id="he40" fromID="p17" fromText="He" toID="h40" toText="He" />
+<head_link id="he41" fromID="o4" fromText="King County Superior Court" toID="h41" toText="King County Superior Court" />
+<head_link id="he42" fromID="g15" fromText="our communities" toID="h42" toText="communities" />
+<head_link id="he43" fromID="g16" fromText="our" toID="h43" toText="our" />
+<head_link id="he44" fromID="p19" fromText="Brad Bench" toID="h44" toText="Brad Bench" />
+<head_link id="he45" fromID="p20" fromText="acting special agent in charge of ICE's Office of Investigations in Seattle" toID="h45" toText="agent" />
+<head_link id="he46" fromID="o5" fromText="ICE's Office of Investigations in Seattle" toID="h46" toText="Office of Investigations" />
+<head_link id="he47" fromID="o6" fromText="ICE" toID="h47" toText="ICE" />
+<head_link id="he48" fromID="g17" fromText="Seattle" toID="h48" toText="Seattle" />
+<head_link id="he49" fromID="o7" fromText="ICE" toID="h49" toText="ICE" />
+<head_link id="he50" fromID="o8" fromText="our law enforcement partners" toID="h50" toText="partners" />
+<head_link id="he51" fromID="o9" fromText="our" toID="h51" toText="our" />
+<head_link id="he52" fromID="p21" fromText="U.S. District Court Judge Ronald Leighton" toID="h52" toText="Ronald Leighton" />
+<head_link id="he53" fromID="p22" fromText="U.S. District Court Judge" toID="h53" toText="Judge" />
+<head_link id="he54" fromID="o10" fromText="District Court" toID="h54" toText="Court" />
+<head_link id="he55" fromID="o11" fromText="District" toID="h55" toText="District" />
+<head_link id="he56" fromID="g18" fromText="U.S" toID="h56" toText="U.S" />
+<head_link id="he57" fromID="o12" fromText="ICE" toID="h57" toText="ICE" />
+<head_link id="he58" fromID="o13" fromText="the Drug Enforcement Administration" toID="h58" toText="Drug Enforcement Administration" />
+<head_link id="he59" fromID="o14" fromText="the King County Sheriff's Office" toID="h59" toText="Office" />
+<head_link id="he60" fromID="p23" fromText="the King County Sheriff" toID="h60" toText="Sheriff" />
+<head_link id="he61" fromID="p24" fromText="King County, Wash., sheriff" toID="h26" toText="sheriff" />
+<head_link id="he62" fromID="g19" fromText="King County" toID="h61" toText="King County" />
+<name_link id="na0" fromID="g0" fromText="Mexican" toID="n0" toText="Mexican" />
+<name_link id="na1" fromID="g1" fromText="King County" toID="n1" toText="King County" />
+<name_link id="na2" fromID="g2" fromText="TACOMA, Wash" toID="n2" toText="TACOMA" />
+<name_link id="na3" fromID="g3" fromText="Wash" toID="n3" toText="Wash" />
+<name_link id="na4" fromID="g4" fromText="Seattle" toID="n4" toText="Seattle" />
+<name_link id="na5" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n5" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na6" fromID="o2" fromText="ICE" toID="n6" toText="ICE" />
+<name_link id="na7" fromID="p3" fromText="Andres Hernandez-Vargas, 50" toID="n7" toText="Andres Hernandez-Vargas" />
+<name_link id="na8" fromID="g6" fromText="Washington" toID="n9" toText="Washington" />
+<name_link id="na9" fromID="p6" fromText="Hernandez-Vargas" toID="n10" toText="Hernandez-Vargas" />
+<name_link id="na10" fromID="g7" fromText="Seattle" toID="n11" toText="Seattle" />
+<name_link id="na11" fromID="g5" fromText="California" toID="n8" toText="California" />
+<name_link id="na12" fromID="g8" fromText="Sacramento, Calif" toID="n12" toText="Sacramento" />
+<name_link id="na13" fromID="g9" fromText="Calif" toID="n13" toText="Calif" />
+<name_link id="na14" fromID="f1" fromText="Interstate 5" toID="n14" toText="Interstate 5" />
+<name_link id="na15" fromID="g10" fromText="Seattle" toID="n15" toText="Seattle" />
+<name_link id="na16" fromID="g11" fromText="King County, Wash" toID="n16" toText="King County" />
+<name_link id="na17" fromID="g12" fromText="Wash" toID="n17" toText="Wash" />
+<name_link id="na18" fromID="f2" fromText="Interstate 5" toID="n18" toText="Interstate 5" />
+<name_link id="na19" fromID="p10" fromText="Hernandez-Vargas" toID="n19" toText="Hernandez-Vargas" />
+<name_link id="na20" fromID="g13" fromText="King County" toID="n20" toText="King County" />
+<name_link id="na21" fromID="p14" fromText="Hernandez-Vargas" toID="n21" toText="Hernandez-Vargas" />
+<name_link id="na22" fromID="p15" fromText="Jorge Barrajas-Sandoval" toID="n22" toText="Jorge Barrajas-Sandoval" />
+<name_link id="na23" fromID="p16" fromText="Jesus Lopez-Sandoval" toID="n23" toText="Jesus Lopez-Sandoval" />
+<name_link id="na24" fromID="o4" fromText="King County Superior Court" toID="n24" toText="King County Superior Court" />
+<name_link id="na25" fromID="p19" fromText="Brad Bench" toID="n25" toText="Brad Bench" />
+<name_link id="na26" fromID="o5" fromText="ICE's Office of Investigations in Seattle" toID="n26" toText="Office of Investigations" />
+<name_link id="na27" fromID="o6" fromText="ICE" toID="n27" toText="ICE" />
+<name_link id="na28" fromID="g17" fromText="Seattle" toID="n28" toText="Seattle" />
+<name_link id="na29" fromID="o7" fromText="ICE" toID="n29" toText="ICE" />
+<name_link id="na30" fromID="p21" fromText="U.S. District Court Judge Ronald Leighton" toID="n30" toText="Ronald Leighton" />
+<name_link id="na31" fromID="g18" fromText="U.S" toID="n31" toText="U.S" />
+<name_link id="na32" fromID="o12" fromText="ICE" toID="n32" toText="ICE" />
+<name_link id="na33" fromID="o13" fromText="the Drug Enforcement Administration" toID="n33" toText="Drug Enforcement Administration" />
+<name_link id="na34" fromID="g19" fromText="King County" toID="n34" toText="King County" />
+<relation_link1 id="r0" fromID="C0" fromText="Mexican national sentenced to 20 years for methamphetamine trafficking" toID="p0" toText="Mexican national sentenced to 20 years for methamphetamine trafficking" />
+<relation_link1 id="r1" fromID="C1" fromText="A Seattle-area resident with a history of drug trafficking" toID="p2" toText="A Seattle-area resident with a history of drug trafficking" />
+<relation_link1 id="r2" fromID="lo0" fromText="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" toID="p5" toText="he" />
+<relation_link1 id="r3" fromID="lo1" fromText="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" toID="p5" toText="he" />
+<relation_link1 id="r4" fromID="lo2" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="p6" toText="Hernandez-Vargas" />
+<relation_link1 id="r5" fromID="lo3" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="p6" toText="Hernandez-Vargas" />
+<relation_link1 id="r6" fromID="lo4" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="p6" toText="Hernandez-Vargas" />
+<relation_link1 id="r7" fromID="lo5" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="p6" toText="Hernandez-Vargas" />
+<relation_link1 id="r9" fromID="lo6" fromText="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" toID="p7" toText="A King County, Wash., sheriff's detective" />
+<relation_link1 id="r10" fromID="lo7" fromText="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" toID="p9" toText="him" />
+<relation_link1 id="r11" fromID="lo8" fromText="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" toID="p10" toText="Hernandez-Vargas" />
+<relation_link1 id="r12" fromID="lo9" fromText="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" toID="p11" toText="he" />
+<relation_link1 id="r13" fromID="M0" fromText="acting special agent in charge of ICE's Office of Investigations in Seattle" toID="p20" toText="acting special agent in charge of ICE's Office of Investigations in Seattle" />
+<relation_link1 id="r14" fromID="M1" fromText="U.S. District Court Judge" toID="p22" toText="U.S. District Court Judge" />
+<relation_link1 id="r15" fromID="e1" fromText="U.S. District Court Judge" toID="p22" toText="U.S. District Court Judge" />
+<relation_link1 id="r16" fromID="e2" fromText="King County, Wash., sheriff" toID="p24" toText="King County, Wash., sheriff" />
+<relation_link1 id="r17" fromID="e3" fromText="the King County Sheriff" toID="p23" toText="the King County Sheriff" />
+<relation_link2 id="re0" fromID="C0" fromText="Mexican national sentenced to 20 years for methamphetamine trafficking" toID="g0" toText="Mexican" />
+<relation_link2 id="re1" fromID="C1" fromText="A Seattle-area resident with a history of drug trafficking" toID="l0" toText="Seattle-area" />
+<relation_link2 id="re2" fromID="lo0" fromText="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" toID="g5" toText="California" />
+<relation_link2 id="re3" fromID="lo1" fromText="According to testimony at the trial and court documents in the case, he was moving methamphetamine north from California to Washington" toID="g6" toText="Washington" />
+<relation_link2 id="re4" fromID="lo2" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="g7" toText="Seattle" />
+<relation_link2 id="re5" fromID="lo3" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="g8" toText="Sacramento, Calif" />
+<relation_link2 id="re6" fromID="lo5" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="g10" toText="Seattle" />
+<relation_link2 id="re7" fromID="lo4" fromText="In October 2008, Hernandez-Vargas drove from Seattle to Sacramento, Calif., on Interstate 5 and immediately returned to Seattle, driving through the night" toID="f1" toText="Interstate 5" />
+<relation_link2 id="re9" fromID="lo6" fromText="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" toID="f2" toText="Interstate 5" />
+<relation_link2 id="re10" fromID="lo7" fromText="A King County, Wash., sheriff's detective stopped him along Interstate 5 for exceeding the speed limit" toID="f2" toText="Interstate 5" />
+<relation_link2 id="re11" fromID="lo8" fromText="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" toID="g13" toText="King County" />
+<relation_link2 id="re12" fromID="lo9" fromText="Hernandez-Vargas was arrested by King County when a check of immigration records revealed he was in the country illegally" toID="g14" toText="the country" />
+<relation_link2 id="re13" fromID="M0" fromText="acting special agent in charge of ICE's Office of Investigations in Seattle" toID="o5" toText="ICE's Office of Investigations in Seattle" />
+<relation_link2 id="re14" fromID="M1" fromText="U.S. District Court Judge" toID="o10" toText="District Court" />
+<relation_link2 id="re15" fromID="e1" fromText="U.S. District Court Judge" toID="g18" toText="U.S" />
+<relation_link2 id="re16" fromID="e2" fromText="King County, Wash., sheriff" toID="g11" toText="King County, Wash" />
+<relation_link2 id="re17" fromID="e3" fromText="the King County Sheriff" toID="g19" toText="King County" />
+</TAGS>
+</KddTask>

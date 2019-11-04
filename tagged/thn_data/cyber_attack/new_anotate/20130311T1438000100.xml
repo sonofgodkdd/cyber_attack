@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Pakistan Government servers messed up after security breach
+Mohit Kumar
+
+Today a cyber attack on Pakistan Government servers crash many Government departments's official websites including Ministry of Information Technology, Ministry of Railways, Ministry of Economic Affairs & Statistics, Ministry of Interior, Ministry of Religious Affairs, Ministry of Science and Technology, Ministry of Environment and many more.
+Indian Hacker 'Godzilla' continue to strike Pakistan Government because of their support to terrorism activities. Hacker said,"all network owned including switches because they deserve it, I have not touched any innocent website because target is only Government"
+While Pakistani official are already aware about the risk from the newest viruses, worms and cyber attacks, so they having their servers running through a proxy server located at http://202.83.164.6/ ,but flawed cyber security practices once again results to messed up whole setup and hacker successfully breach into centralized local server located at 192.168.70.103 b/w website hosting server & proxy server at machine.
+Hacker claimed to breach this centralized IBM server with Layer 2-3 Gigabit Ethernet Switch Module for IBM eServer, BladeCenter. This IBM server further connected to 22 local machines that were used to build the proxy server, that was securing the digital cyber space of Pakistan.
+"They are running it through a local system 192.168.70.103 which is been shut down as we have access of the switch" he said.
+After attack, shutdown of above server
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Websites under attack:
+www.moitt.gov.pk
+www.railways.gov.pk
+www.ead.gov.pk
+www.interior.gov.pk
+www.ipc.gov.pk
+www.mora.gov.pk
+www.establishment.gov.pk
+www.housing.gov.pk
+www.mosp.gov.pk
+www.planningcommission.gov.pk
+www.minorities.gov.pk
+www.lgrd.gov.pk
+www.moenv.gov.pk
+More than 24 hours, the Gateway of Pakistan website (http://www.pakistan.gov.pk/) was also down because of same security breach, but official managed to recover that server after removing routing that one via same targeted proxy server.
+Hacker also claimed to have access to File server of Pakistan Government. Network and server admins are working hardly to fix the issue generated after security breach, at the time of reporting this news,above listed all sites are down.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Root_Compromise id="AT0" start="2132" end="2146" text="to have access" TYPE="TRG" />
+<IMPACT.Disrupt id="IM0" start="126" end="131" text="crash" TYPE="TRG" />
+<IMPACT.Disrupt id="IM1" start="1525" end="1533" text="shutdown" TYPE="TRG" />
+<IMPACT.Disrupt id="IM2" start="1966" end="1970" text="down" TYPE="TRG" />
+<IMPACT.Disrupt id="IM3" start="2343" end="2347" text="down" TYPE="TRG" />
+</TAGS>
+</KddTask>

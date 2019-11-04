@@ -1,0 +1,27 @@
+New Rapidly-Growing IoT Botnet Threatens to Take Down the Internet
+Wang Wei
+
+Just a year after Mirai—biggest IoT-based malware that caused vast Internet outages by launching massive DDoS attacks—completed its first anniversary, security researchers are now warning of a brand new rapidly growing IoT botnet.
+Dubbed 'IoT_reaper,' first spotted in September by researchers at firm Qihoo 360, the new malware no longer depends on cracking weak passwords; instead, it exploits vulnerabilities in various IoT devices and enslaves them into a botnet network.
+IoT_reaper malware currently includes exploits for nine previously disclosed vulnerabilities in IoT devices from following manufactures:
+Dlink (routers)
+Netgear (routers)
+Linksys (routers)
+Goahead (cameras)
+JAWS (cameras)
+AVTECH (cameras)
+Vacron (NVR)
+Researchers believe IoT_reaper malware has already infected nearly two million devices and growing continuously at an extraordinary rate of 10,000 new devices per day.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This is extremely worrying because it took only 100,000 infected devices for Mirai to took down DNS provider Dyn last year using a massive DDoS attack.
+Besides this, researchers noted that the malware also includes more than 100 DNS open resolvers, enabling it to launch DNS amplification attacks.
+"Currently, this botnet is still in its early stages of expansion. But the author is actively modifying the code, which deserves our vigilance." Qihoo 360 researchers say.
+Meanwhile, researchers at CheckPoint are also warning of probably same IoT botnet, named "IoTroop," that has already infected hundreds of thousands of organisations.
+"It is too early to guess the intentions of the threat actors behind it, but with previous Botnet DDoS attacks essentially taking down the Internet, it is vital that organisations make proper preparations and defence mechanisms are put in place before attack strikes." researchers said.
+According to CheckPoint, IoTroop malware also exploits vulnerabilities in Wireless IP Camera devices from GoAhead, D-Link, TP-Link, AVTECH, Linksys, Synology and others.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At this time it is not known who created this and why, but the DDoS threat landscape is skyrocketing and could reach tens of terabits-per-second in size.
+"Our research suggests we are now experiencing the calm before an even more powerful storm. The next cyber hurricane is about to come." CheckPoint researchers warned.
+You need to be more vigilant about the security of your smart devices. In our previous article, we have provided some essential, somewhat practical, solutions to protect your IoT devices.
+Also Read: How Drones Can Find and Hack Internet-of-Things Devices From the Sky.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

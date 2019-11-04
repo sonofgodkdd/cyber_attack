@@ -1,0 +1,19 @@
+Hacker Steals $8.4 Million in Ethereum (4th Heist In A Month)
+Swati Khandelwal
+
+More Ethereum Stolen!
+An unknown hacker has just stolen nearly $8.4 Million worth of Ethereum – one of the most popular and increasingly valuable cryptocurrencies – in yet another Ethereum hack that hit Veritaseum's Initial Coin Offering (ICO).
+This incident marks as the fourth Ethereum hack this month and second cyber attack on an ICO, following a theft of $7 Million worth of Ether tokens during the hack of Israeli startup CoinDash's initial coin offering last week. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A few days ago, a hacker also stole nearly $32 Million worth of Ethereum from wallet accounts by exploiting a critical vulnerability in Parity's Ethereum Wallet software, which followed a $1 Million worth of Ether and Bitcoins heist in crypto currency exchange Bithumb earlier this month.
+Now, Veritaseum has confirmed that a hacker stole $8.4 Million in Ether (ETH) from its ICO this Sunday, July 23.
+"We were hacked, possibly by a group. The hack seemed to be very sophisticated, but there's at least one corporate partner that may have dropped the ball and be liable. We will let the lawyers sort that out if it goes that far," Veritaseum founder Reggie Middleton confirmed the theft on the BitcoinTalk forum.
+Middleton has called the recent Ethereum hack "inconsequential," saying some of his partners (unnamed corporate third party services) may be responsible for the attack.
+Middleton said that due to the high demand of the VERI tokens during the ICO held over the weekend, the hacker first managed to steal those tokens and then immediately sold them to other buyers "within a few hours" for the cryptocurrency.
+The hacker made off an estimated $8.4 million in ETH during that a relatively short period of time. The stolen funds were first dumped into two separate Ethereum wallets and then were moved to other accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It looks like around 37,000 VERI tokens were stolen out of 100 Million in the recent theft, though the good news is that the Ethereum theft does not affect actual ICO investors, as Middleton says the stolen tokens belonged to him and his team members.
+"There are 100M tokens issued; the hackers stole about 37k. As I said, it is quite disconcerting, but it is not the end [of] the world. In the scheme of things, this is small," Middleton says. 
+"The tokens were stolen from me, not the token buyers. I am not downplaying the seriousness of the heist either, but I am looking at the heist for what it is. A company that we use was compromised, the vulnerability was closed, and we are investigating whether we should move against that company or not."
+At the moment, Middleton did not disclose the attack vector that was exploited to sweep out $8.4 Million in ETH, though he assured users that his team had taken necessary measures to prevent the attack from happening in the future.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

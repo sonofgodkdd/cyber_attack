@@ -1,0 +1,18 @@
+Insider Breach: T-Mobile Czech Employee Steals and Sells 1.5 Million Users Data
+Wang Wei
+
+T-Mobile is the latest in the list of recent high-profile data breaches, though this time the breach is not carried out by "Peace" - the Russian hacker who was behind the massive breaches in some popular social media sites including LinkedIn, MySpace, Tumblr, and VK.com.
+Instead, one of the T-Mobile's employees stole more than 1.5 Million customer records at the T-Mobile Czech Republic in order to sell it on for a profit, according to local media, MF DNES.
+Yes, the customer service staff member tried to sell the T-Mobile customer marketing database, though it is not clear that how much of names, e-mail addresses, account numbers and other personal data of over 1.5 Million customers the database contained.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The T-Mobile Czech Republic has also refused to provide any "additional specific information" about what data was leaked, due to an ongoing police investigation.
+Although the company assured its customers that the stolen database did not contain any sensitive information such as location, traffic or other sensitive data like passwords, rather the stolen data was only used for marketing purposes.
+Milan Vasina, the Managing Director at the T-Mobile Czech Republic, said there was "no actual data leak" and that customer "data are safe."
+"Although we found no system failure during a thorough check, we'll check the whole system again and consider the introduction of other precautionary measures if necessary," Vasina said in a statement.
+Insider Threat
+The Czech media is speculating that the data leak is massive that probably involves more than 1.5 Million T-Mobile customers, which makes it the largest known breach ever happened in the Czech Republic.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The investigation into the issue has been handed over to the Czech Police's Unit for Combating Organized Crime, though the company said the data breach is not due to a signal failure or a failure of system or procedures.
+Instead, the data was stolen by one of its employees who was part of a "small team" that "worked with customer data" and who was caught while attempting to sell the database.
+T-Mobile said it would inform its customers of any further developments in the investigation.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

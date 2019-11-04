@@ -1,0 +1,53 @@
+Most Vulnerable Smart Cities to Cyber Attack on Internet of Things (IoT)
+Khyati Jain
+
+Imagine…
+You drive to work in your Smart-Car connected to the GPS automatically, but a hacker breaks into your car's network, takes control of the steering wheel, crashes you into a tree, and BOOM!
+Believe it or not, such cyber attacks on smart devices are becoming reality.
+Car Hacking was recently demonstrated by a pair of security researchers who controlled a Jeep Cherokee remotely from miles away, which shows a rather severe threat to the growing market of the Internet of Things (IoT).
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+Internet of Things (IoT) — A technology that connects objects to a network or the Internet, and enables interaction among varied devices such as:
+Smart Cars
+Smart TVs
+Refrigerators
+Wearables
+Routers
+Other embedded computing as well as non-computing devices.
+Few days back, I had read about Smart Dustbins that are the latest smart objects to become Wi-Fi-enabled.
+Internet of Things to make Cities Smart or Dumb?
+Cities around the world are becoming increasingly smarter and more connected to the Internet in an attempt to add convenience and ease to daily activities.
+By 2020, there will be more than 50 Billion Internet-connected devices that will transform the way we live and work.
+However, every new technology and innovation bring new challenges and problems. In this article, I am focusing on cyber security related issues that are currently affecting or will affect our smart life in the near future.
+We all know that everything connected to the Internet is vulnerable and can be supposedly compromised, and as the number of Internet-connected devices is increasing, the potential security challenges of IoT devices can no longer be ignored.
+Top 7 Smart Cities Prone to Cyber Attacks
+Below is the list of Top 7 developed smart cities around the world, but also labelled as the most vulnerable Cities to Cyber threats:
+Santander, Spain
+New York City, USA
+Aguas De Sao Pedro, Brazil
+Songdo, South Korea
+Tokyo, Japan
+Hong Kong
+Arlington County, Virginia, USA
+These Cities become smarter by deploying new technologies like:
+Smart street lights: Centrally managed and can adapt to weather conditions, report problems, or be automated by time of the day.
+Smart Public Transportation and Traffic control Systems adjust traffic lights based on current traffic conditions.
+Smart parking application to find available parking slots.
+Smart Water and Energy Management, provides information regarding the quality of air, water needs.
+Sadly these cities are implementing new technologies without first testing cyber security.
+In case if a cyber attack on these smart cities causes an inadequate supply of electricity or water, dark streets, or/and no cameras. Then how would citizens respond to it?
+I guess such attack would cause a lot of chaos in the city.
+People residing in such a city might face a panic attack when they are made slaves of their "cyber masters/criminals."
+As hackers may bring more sophisticated viruses to you that a day comes when you plan to go to a movie on a Friday night, all set to go, but your house keys are in the hands of your master sitting in some other country!
+Smart IoT devices create huge attack surfaces for potential cyber attacks, making the future of smart cities more vulnerable than today's computers and smartphones.
+Cyber Attacks Leverages Internet of Things
+Smart devices such as traffic and surveillance cameras, meters, street lights, traffic lights, smart pipes, and sensors are easy to implement, but are even easier to hack due to lack of stringent security measures and insecure encryption mechanisms.
+Last year, we saw a real cyber attack scenario involving IoTs in which hackers compromised more than 100,000 Smart TVs, Refrigerator, and other smart household appliances to send out millions of malicious spam emails.
+In a separate case, researchers discovered a Linux worm 'Linux.Darlloz' that hijacked a number of smart home appliances including Home Routers, Set-top boxes, Security Cameras and printers, to mine Cryptocurrencies like Bitcoin.
+Modus Operandi of a Cyber Criminal
+A vulnerability in the technology, when comes in the sight of a person with malicious intent, poses as a threat and as the threat/risk associated with the system (to be compromised) is bypassed takes the form of an attack.
+With the technological shift in the lives of the people from desktop PCs to mobiles, wearables and now to IoT devices, cyber criminals are also focusing on all sorts of threats to compromise them.
+In one of our introductory articles to IoT we discussed about the desktop viruses coming our way through refrigerators and home appliances, therefore, emphasis is to be paid on the type of threats that can affect our digital appliances, including Ransomware, Spyware, DDoS attacks, and many more.
+So, in such a scenario where every single object is dependent on the network and making our lives comfortable can be of a kind where sooner or later we are going to become "Digitally Handicapped."
+No doubt, the IoT devices are said to be the next evolutionary step in our connected world and will incredibly grow, but it is very much possible to see cyber-criminals exploiting and compromising them.
+By saying this, we are not making your lives more vulnerable; rather a secure one.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

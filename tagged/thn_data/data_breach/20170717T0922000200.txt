@@ -1,0 +1,21 @@
+Ashley Madison to Pay $11.2 Million to Data Breach Victims
+Swati Khandelwal
+
+Ashley Madison, an American most prominent dating website that helps people cheat on their spouses has been hacked, has agreed to an $11.2 Million settlement for roughly 37 million users whose personal details were exposed in a massive data breach two years ago.
+Though the parent company of Ashley Madison, Ruby Corp., denies any wrongdoing, the company has pledged to pay around $3,500 to each of the hack's victims for the settlement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The settlement has to be reviewed by a federal judge in St. Louis.
+Ashley Madison marketed itself as a means to help people cheat on their spouses, with a tagline "Life is short. Have an affair."
+The site was breached in July 2015 and hackers dumped nearly 100 gigabytes' worth of sensitive data belonging to 37 million users of the casual sex and marriage affair website onto the dark web.
+The leaked data included victims' usernames, first and last names, email addresses, passwords, credit card data information, street names, phone numbers, and transactions records, which led to blackmails and even suicides.
+The 2015 data breach cost Ruby Corp, formerly known as Avid Life, over a quarter of its revenue and forced the Toronto-based company to spend millions of dollars to boost security and user privacy.
+Ruby Corp was already forced to pay $1.66 Million to settle charges from Federal Trade Commission (FTC) and 13 states, alleging that the service misled its consumers about its privacy policy and didn't do enough to protect their information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, the company also agreed to 20 years' worth of the FTC overseeing its network security to ensure that its user data is being protected. This includes:
+Performing a risk assessment to protect customer data.
+Implementing new data security protocols.
+Upgrading systems based on the assessments.
+Offering periodic security risk assessment (both internal and third-party).
+Requiring "reasonable safeguards" against any potential cyber attacks from their service providers.
+Now, according to Reuters, the company has to pay $11.2 million to users who were affected by the breach – users with valid claims can get up to $3,500 depending on their losses attributable to the breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

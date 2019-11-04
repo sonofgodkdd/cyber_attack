@@ -1,0 +1,26 @@
+13 Million MacKeeper Users Hacked — 21 GB of Data Exposed
+Mohit Kumar
+
+MacKeeper anti-virus company is making headlines today for its lax security that exposed the database of 13 Million Mac users' records including names, email addresses, usernames, password hashes, IP addresses, phone numbers, and system information.
+MacKeeper is a suite of software that claims to make Apple Macs more secure and stable, but today the anti-virus itself need some extra protection after a data breach exposed the personal and sensitive information for Millions of its customers.
+The data breach was discovered by Chris Vickery, a white hat hacker who was able to download 13 Million customer records by simply entering a selection of IP addresses, with no username or password required to access the data.
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+21 GB Trove of MacKeeper Customer Data Leaked
+31-year-old Vickery said he uncovered the 21 GB trove of MacKeeper customer data in a moment of boredom while searching for openly accessible databases on Shodan – a specialized search engine that looks for virtually anything connected to the Internet – that require no authentication.
+"The search engine at Shodan.io had indexed their IPs as running publicly accessible MongoDB instances (as some have already guessed)," Vickery said in a Reddit post. "I had never even heard of MacKeeper or Kromtech until last night. I just happened upon it after being bored and doing a random "port:27017" search on Shodan."
+As a result, four IP addresses took him straight to a MongoDB database, containing a range of personal information, including:
+Customer Names
+Email addresses
+Usernames
+Password hashes
+Mobile phone numbers
+IP addresses
+System information
+Software licenses and activation codes
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security Product Using Weak Algorithm to Hash Passwords
+Although the passwords were encrypted, Vickery believes that MacKeeper was using weak MD5 hashes to protect its customer passwords, allowing anyone to crack the passwords in seconds using MD5 cracking tools.
+The company responded to the issue after Vickery posted it on Reddit, saying that the company had no evidence the data was accessed by malicious parties.
+"Analysis of our data storage system shows only one individual gained access performed by the security researcher himself," Kromtech, the maker of MacKeeper, said in a statement. "We have been in communication with Chris, and he has not shared or used the data inappropriately."
+Though the company claims Vickery was the only person to access the MacKeeper users’'information; you should still change your MacKeeper passwords and passwords on websites that use the same password.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

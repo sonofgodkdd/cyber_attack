@@ -1,0 +1,22 @@
+Over 14 Million Verizon Customers' Data Exposed On Unprotected AWS Server
+Mohit Kumar
+
+Verizon, the major telecommunications provider, has suffered a data security breach with over 14 million US customers' personal details exposed on the Internet after NICE Systems, a third-party vendor, mistakenly left the sensitive users’ details open on a server.
+Chris Vickery, researcher and director of cyber risk research at security firm UpGuard, discovered the exposed data on an unprotected Amazon S3 cloud server that was fully downloadable and configured to allow public access.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The exposed data includes sensitive information of millions of customers, including their names, phone numbers, and account PINs (personal identification numbers), which is enough for anyone to access an individual's account, even if the account is protected by two-factor authentication.
+"The exposure of Verizon account PIN codes used to verify customers, listed alongside their associated phone numbers, is particularly concerning," explained UpGuard's Dan O'Sullivan in a blog post.
+NICE Systems is an Israel-based company that is known for offering wide-range of solutions for intelligence agencies, including telephone voice recording, data security, and surveillance.
+According to the researcher, it is unknown that why Verizon has allowed a 3rd party company to collect call details of its users, however, it appears that NICE Systems monitors the efficiency of its call-center operators for Verizon.
+The exposed data contained records of customers who called the Verizon's customer services in the past 6 months, which are recorded, obtained and analyzed by NICE.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Interestingly, the leaked data on the server also indicates that NICE Systems has a partnership with Paris-based popular telecommunication company "Orange," for which it also collects customer details across Europe and Africa.
+"Finally, this exposure is a potent example of the risks of third-party vendors handling sensitive data," O'Sullivan said. 
+"NICE Systems' history of supplying technology for use in intrusive, state-sponsored surveillance is an unsettling indicator of the severity of this breach of privacy."
+Vickery had privately informed Verizon team about the exposure in late June, and the data was then secured within a week.
+Vickery is a reputed researcher, who has previously tracked down many exposed datasets on the Internet.
+Just last month, he discovered an unsecured Amazon S3 server owned by data analytics firm Deep Root Analytics (DRA), which exposed information of more than 198 Million United States citizens, that's over 60% of the US population.
+In March this year, Vickery discovered a cache of 60,000 documents from a US military project for the National Geospatial-Intelligence Agency (NGA) which was also left unsecured on Amazon cloud storage server for anyone to access.
+In the same month, the researcher also discovered an unsecured and publicly exposed database, containing nearly 1.4 Billion user records, linked to River City Media (RCM).
+In 2015, Vickery also reported a huge cache of more than 191 Million US voter records and details of as many as 13 Million MacKeeper users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

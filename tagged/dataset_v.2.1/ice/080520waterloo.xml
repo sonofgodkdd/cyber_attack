@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+May 20, 2008
+85 sentenced for criminal offenses in one day following ICE operation in Iowa
+WATERLOO, Iowa - U.S. Attorney Matt M. Dummermuth announced today that 85 defendants pleaded guilty and were sentenced Monday on federal felony charges. They were among the 389 illegal aliens arrested by U.S. Immigration and Customs Enforcement (ICE) May 12 at Agriprocessors Inc. in Postville, Iowa.
+Criminal proceedings began at 8 a.m. Monday and concluded about 8:30 p.m.
+"This is the greatest number of defendants ever to plead guilty and be sentenced in one day in the Northern District of Iowa," said Dummermuth. "Because of a special early disposition program approved by the Department of Justice, we have been able to handle this large volume of cases in a relatively short period of time."
+"Close collaboration with the U.S. Attorney's office and our partner law enforcement agencies resulted in a highly successful operation," said Claude Arnold, special agent in charge of the ICE Office of Investigations in Bloomington, Minn. "To maintain the integrity of our legal immigration system, ICE is committed to enforcing the nation's immigration laws in the workplace."
+Seventy-seven defendants were sentenced to prison after pleading guilty to using a false identification document to obtain employment and admitted they fraudulently used the identity of an actual person. The other eight defendants were sentenced to probation after pleading guilty to using a false identification document to obtain employment but the identity did not belong to an actual person. All 85 admitted they were in the United States illegally. Those sentenced to prison received five months in prison, three years of supervised release, and face deportation following their release from prison. The other eight were sentence to five years probation and face deportation.
+According to a U.S. District Court website, additional hearings are scheduled through Thursday (http://www.iand.uscourts.gov/cvjschdule.nsf/by+date). Those sentenced to prison terms are being held in the custody of the U.S. Marshals Service. Those sentenced to probation will be turned over to ICE's Office of Detention and Removal Operations and placed in removal proceedings.
+This was an ICE-led investigation. Other agencies assisting include: the U.S. Postal Inspection Service, the Iowa Department of Public Safety, the Iowa Department of Transportation, the FBI, the Internal Revenue Service's Criminal Investigations, and the U.S. Department of Labor.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="14" end="91" text="85 sentenced for criminal offenses in one day following ICE operation in Iowa" TYPE="HLS" />
+<person id="p1" start="109" end="141" text="U.S. Attorney Matt M. Dummermuth" TYPE="NAM" />
+<person id="p2" start="109" end="122" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p3" start="163" end="176" text="85 defendants" TYPE="NOM" />
+<person id="p4" start="245" end="249" text="They" TYPE="PRO" />
+<person id="p5" start="261" end="391" text="the 389 illegal aliens arrested by U.S. Immigration and Customs Enforcement (ICE) May 12 at Agriprocessors Inc. in Postville, Iowa" TYPE="NOM" />
+<person id="p6" start="499" end="509" text="defendants" TYPE="BAR" />
+<person id="p7" start="599" end="609" text="Dummermuth" TYPE="NAM" />
+<person id="p8" start="818" end="835" text="the U.S. Attorney" TYPE="NOM" />
+<person id="p9" start="935" end="1030" text="Claude Arnold, special agent in charge of the ICE Office of Investigations in Bloomington, Minn" TYPE="APP" />
+<person id="p10" start="935" end="948" text="Claude Arnold" TYPE="NAM" />
+<person id="p11" start="950" end="1030" text="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" TYPE="BAR" />
+<person id="p12" start="1171" end="1195" text="Seventy-seven defendants" TYPE="NOM" />
+<person id="p13" start="1318" end="1322" text="they" TYPE="PRO" />
+<person id="p14" start="1357" end="1373" text="an actual person" TYPE="NOM" />
+<person id="p15" start="1375" end="1401" text="The other eight defendants" TYPE="NOM" />
+<person id="p16" start="1549" end="1565" text="an actual person" TYPE="NOM" />
+<person id="p17" start="1567" end="1573" text="All 85" TYPE="HLS" />
+<person id="p18" start="1583" end="1587" text="they" TYPE="PRO" />
+<person id="p19" start="1625" end="1650" text="Those sentenced to prison" TYPE="HLS" />
+<person id="p20" start="1749" end="1754" text="their" TYPE="PRO" />
+<person id="p21" start="1776" end="1791" text="The other eight" TYPE="HLS" />
+<person id="p22" start="2002" end="2033" text="Those sentenced to prison terms" TYPE="HLS" />
+<person id="p23" start="2094" end="2122" text="Those sentenced to probation" TYPE="HLS" />
+<organization id="o0" start="70" end="73" text="ICE" TYPE="NAMPRE" />
+<organization id="o1" start="296" end="341" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="338" end="341" text="ICE" TYPE="NAM" />
+<organization id="o3" start="353" end="391" text="Agriprocessors Inc. in Postville, Iowa" TYPE="NAM" />
+<organization id="o4" start="562" end="591" text="the Northern District of Iowa" TYPE="NAM" />
+<organization id="o5" start="671" end="696" text="the Department of Justice" TYPE="NAM" />
+<organization id="o6" start="698" end="700" text="we" TYPE="PRO" />
+<organization id="o7" start="818" end="844" text="the U.S. Attorney's office" TYPE="NOM" />
+<organization id="o8" start="849" end="885" text="our partner law enforcement agencies" TYPE="NOM" />
+<organization id="o9" start="849" end="852" text="our" TYPE="PRO" />
+<organization id="o10" start="977" end="1030" text="the ICE Office of Investigations in Bloomington, Minn" TYPE="NAM" />
+<organization id="o12" start="1092" end="1095" text="ICE" TYPE="NAM" />
+<organization id="o11" start="1867" end="1886" text="U.S. District Court" TYPE="NAMPRE" />
+<organization id="o13" start="2067" end="2092" text="the U.S. Marshals Service" TYPE="NAM" />
+<organization id="o14" start="2146" end="2194" text="ICE's Office of Detention and Removal Operations" TYPE="NAM" />
+<organization id="o15" start="2146" end="2149" text="ICE" TYPE="NAM" />
+<organization id="o16" start="2242" end="2245" text="ICE" TYPE="NAM" />
+<organization id="o17" start="2265" end="2289" text="Other agencies assisting" TYPE="NOM" />
+<organization id="o18" start="2299" end="2333" text="the U.S. Postal Inspection Service" TYPE="NAM" />
+<organization id="o19" start="2335" end="2371" text="the Iowa Department of Public Safety" TYPE="NAM" />
+<organization id="o20" start="2373" end="2410" text="the Iowa Department of Transportation" TYPE="NAM" />
+<organization id="o21" start="2412" end="2419" text="the FBI" TYPE="NAM" />
+<organization id="o22" start="2421" end="2475" text="the Internal Revenue Service's Criminal Investigations" TYPE="NAM" />
+<organization id="o23" start="2421" end="2449" text="the Internal Revenue Service" TYPE="NAM" />
+<organization id="o24" start="2481" end="2509" text="the U.S. Department of Labor" TYPE="NAM" />
+<geographical-political id="g0" start="87" end="91" text="Iowa" TYPE="NAM" />
+<geographical-political id="g1" start="92" end="106" text="WATERLOO, Iowa" TYPE="NAM" />
+<geographical-political id="g2" start="102" end="106" text="Iowa" TYPE="NAM" />
+<geographical-political id="g3" start="109" end="113" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g4" start="376" end="391" text="Postville, Iowa" TYPE="NAM" />
+<geographical-political id="g5" start="387" end="391" text="Iowa" TYPE="NAM" />
+<geographical-political id="g6" start="822" end="826" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g7" start="1013" end="1030" text="Bloomington, Minn" TYPE="NAM" />
+<geographical-political id="g8" start="1026" end="1030" text="Minn" TYPE="NAM" />
+<geographical-political id="g9" start="1062" end="1065" text="our" TYPE="PRO" />
+<geographical-political id="g10" start="1122" end="1132" text="the nation" TYPE="NOM" />
+<geographical-political id="g11" start="1596" end="1613" text="the United States" TYPE="NAM" />
+<falicity id="f0" start="1214" end="1220" text="prison" TYPE="BAR" />
+<falicity id="f1" start="1675" end="1681" text="prison" TYPE="BAR" />
+<falicity id="f2" start="1768" end="1774" text="prison" TYPE="BAR" />
+<falicity id="f3" start="2021" end="2027" text="prison" TYPE="BAR" />
+<falicity id="f4" start="1644" end="1650" text="prison" TYPE="BAR" />
+<head id="h0" start="14" end="16" text="85" />
+<head id="h1" start="70" end="73" text="ICE" />
+<head id="h2" start="87" end="91" text="Iowa" />
+<head id="h3" start="92" end="100" text="WATERLOO" />
+<head id="h4" start="102" end="106" text="Iowa" />
+<head id="h5" start="123" end="141" text="Matt M. Dummermuth" />
+<head id="h6" start="114" end="122" text="Attorney" />
+<head id="h7" start="109" end="113" text="U.S." />
+<head id="h8" start="166" end="176" text="defendants" />
+<head id="h9" start="245" end="249" text="They" />
+<head id="h10" start="277" end="283" text="aliens" />
+<head id="h11" start="296" end="336" text="U.S. Immigration and Customs Enforcement" />
+<head id="h12" start="338" end="341" text="ICE" />
+<head id="h14" start="353" end="372" text="Agriprocessors Inc." />
+<head id="h15" start="376" end="385" text="Postville" />
+<head id="h16" start="387" end="391" text="Iowa" />
+<head id="h17" start="499" end="509" text="defendants" />
+<head id="h18" start="566" end="591" text="Northern District of Iowa" />
+<head id="h19" start="599" end="609" text="Dummermuth" />
+<head id="h20" start="675" end="696" text="Department of Justice" />
+<head id="h21" start="698" end="700" text="we" />
+<head id="h22" start="838" end="844" text="office" />
+<head id="h23" start="827" end="835" text="Attorney" />
+<head id="h24" start="822" end="826" text="U.S." />
+<head id="h25" start="877" end="885" text="agencies" />
+<head id="h26" start="849" end="852" text="our" />
+<head id="h27" start="935" end="948" text="Claude Arnold" />
+<head id="h28" start="958" end="963" text="agent" />
+<head id="h29" start="981" end="1009" text="ICE Office of Investigations" />
+<head id="h30" start="1013" end="1024" text="Bloomington" />
+<head id="h31" start="1026" end="1030" text="Minn" />
+<head id="h32" start="1062" end="1065" text="our" />
+<head id="h33" start="1092" end="1095" text="ICE" />
+<head id="h34" start="1126" end="1132" text="nation" />
+<head id="h35" start="1185" end="1195" text="defendants" />
+<head id="h36" start="1214" end="1220" text="prison" />
+<head id="h37" start="1318" end="1322" text="they" />
+<head id="h38" start="1367" end="1373" text="person" />
+<head id="h39" start="1391" end="1401" text="defendants" />
+<head id="h40" start="1559" end="1565" text="person" />
+<head id="h41" start="1571" end="1573" text="85" />
+<head id="h42" start="1583" end="1587" text="they" />
+<head id="h13" start="1600" end="1613" text="United States" />
+<head id="h43" start="1625" end="1630" text="Those" />
+<head id="h44" start="1675" end="1681" text="prison" />
+<head id="h45" start="1749" end="1754" text="their" />
+<head id="h46" start="1768" end="1774" text="prison" />
+<head id="h47" start="1786" end="1791" text="eight" />
+<head id="h48" start="1867" end="1886" text="U.S. District Court" />
+<head id="h49" start="2002" end="2007" text="Those" />
+<head id="h50" start="2021" end="2027" text="prison" />
+<head id="h51" start="1644" end="1650" text="prison" />
+<head id="h52" start="2071" end="2092" text="U.S. Marshals Service" />
+<head id="h53" start="2094" end="2099" text="Those" />
+<head id="h54" start="2152" end="2194" text="Office of Detention and Removal Operations" />
+<head id="h55" start="2146" end="2149" text="ICE" />
+<head id="h56" start="2242" end="2245" text="ICE" />
+<head id="h57" start="2271" end="2279" text="agencies" />
+<head id="h58" start="2303" end="2333" text="U.S. Postal Inspection Service" />
+<head id="h59" start="2339" end="2371" text="Iowa Department of Public Safety" />
+<head id="h60" start="2377" end="2410" text="Iowa Department of Transportation" />
+<head id="h61" start="2416" end="2419" text="FBI" />
+<head id="h62" start="2452" end="2475" text="Criminal Investigations" />
+<head id="h63" start="2425" end="2449" text="Internal Revenue Service" />
+<head id="h64" start="2485" end="2509" text="U.S. Department of Labor" />
+<name id="n0" start="70" end="73" text="ICE" />
+<name id="n1" start="87" end="91" text="Iowa" />
+<name id="n2" start="92" end="100" text="WATERLOO" />
+<name id="n3" start="102" end="106" text="Iowa" />
+<name id="n4" start="123" end="141" text="Matt M. Dummermuth" />
+<name id="n5" start="109" end="113" text="U.S." />
+<name id="n6" start="296" end="336" text="U.S. Immigration and Customs Enforcement" />
+<name id="n7" start="338" end="341" text="ICE" />
+<name id="n9" start="353" end="372" text="Agriprocessors Inc." />
+<name id="n10" start="376" end="385" text="Postville" />
+<name id="n11" start="387" end="391" text="Iowa" />
+<name id="n12" start="566" end="591" text="Northern District of Iowa" />
+<name id="n13" start="599" end="609" text="Dummermuth" />
+<name id="n14" start="675" end="696" text="Department of Justice" />
+<name id="n15" start="822" end="826" text="U.S." />
+<name id="n16" start="935" end="948" text="Claude Arnold" />
+<name id="n17" start="981" end="1009" text="ICE Office of Investigations" />
+<name id="n18" start="1013" end="1024" text="Bloomington" />
+<name id="n19" start="1026" end="1030" text="Minn" />
+<name id="n20" start="1092" end="1095" text="ICE" />
+<name id="n8" start="1600" end="1613" text="United States" />
+<name id="n21" start="1867" end="1886" text="U.S. District Court" />
+<name id="n22" start="2071" end="2092" text="U.S. Marshals Service" />
+<name id="n23" start="2152" end="2194" text="Office of Detention and Removal Operations" />
+<name id="n24" start="2146" end="2149" text="ICE" />
+<name id="n25" start="2242" end="2245" text="ICE" />
+<name id="n26" start="2303" end="2333" text="U.S. Postal Inspection Service" />
+<name id="n27" start="2339" end="2371" text="Iowa Department of Public Safety" />
+<name id="n28" start="2377" end="2410" text="Iowa Department of Transportation" />
+<name id="n29" start="2416" end="2419" text="FBI" />
+<name id="n30" start="2452" end="2475" text="Criminal Investigations" />
+<name id="n31" start="2425" end="2449" text="Internal Revenue Service" />
+<name id="n32" start="2485" end="2509" text="U.S. Department of Labor" />
+<located-mention id="lo0" start="14" end="91" text="85 sentenced for criminal offenses in one day following ICE operation in Iowa" TYPE="Other" />
+<located-mention id="lo1" start="1567" end="1623" text="All 85 admitted they were in the United States illegally" TYPE="Verbal" />
+<employment-mention id="e0" start="109" end="122" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="818" end="835" text="the U.S. Attorney" TYPE="PreMod" />
+<M id="M0" start="950" end="1030" text="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" TYPE="Preposition" />
+<M id="M1" start="818" end="844" text="the U.S. Attorney's office" TYPE="Possessive" />
+<entity_link id="en0" fromID="g2" fromText="Iowa" toID="g0" toText="Iowa" />
+<entity_link id="en1" fromID="p2" fromText="U.S. Attorney" toID="p1" toText="U.S. Attorney Matt M. Dummermuth" />
+<entity_link id="en2" fromID="p3" fromText="85 defendants" toID="p0" toText="85 sentenced for criminal offenses in one day following ICE operation in Iowa" />
+<entity_link id="en3" fromID="p4" fromText="They" toID="p3" toText="85 defendants" />
+<entity_link id="en4" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en5" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="o0" toText="ICE" />
+<entity_link id="en6" fromID="g5" fromText="Iowa" toID="g2" toText="Iowa" />
+<entity_link id="en7" fromID="p7" fromText="Dummermuth" toID="p1" toText="U.S. Attorney Matt M. Dummermuth" />
+<entity_link id="en8" fromID="o6" fromText="we" toID="o4" toText="the Northern District of Iowa" />
+<entity_link id="en9" fromID="g6" fromText="U.S." toID="g3" toText="U.S." />
+<entity_link id="en10" fromID="p10" fromText="Claude Arnold" toID="p9" toText="Claude Arnold, special agent in charge of the ICE Office of Investigations in Bloomington, Minn" />
+<entity_link id="en11" fromID="p11" fromText="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" toID="p10" toText="Claude Arnold" />
+<entity_link id="en12" fromID="o9" fromText="our" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en13" fromID="g9" fromText="our" toID="g6" toText="U.S." />
+<entity_link id="en14" fromID="o12" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en15" fromID="g10" fromText="the nation" toID="g6" toText="U.S." />
+<entity_link id="en16" fromID="p13" fromText="they" toID="p12" toText="Seventy-seven defendants" />
+<entity_link id="en17" fromID="p16" fromText="an actual person" toID="p14" toText="an actual person" />
+<entity_link id="en18" fromID="p17" fromText="All 85" toID="p3" toText="85 defendants" />
+<entity_link id="en19" fromID="p18" fromText="they" toID="p17" toText="All 85" />
+<entity_link id="en20" fromID="g11" fromText="the United States" toID="g6" toText="U.S." />
+<entity_link id="en21" fromID="p19" fromText="Those sentenced to prison" toID="p12" toText="Seventy-seven defendants" />
+<entity_link id="en22" fromID="f1" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en23" fromID="p20" fromText="their" toID="p19" toText="Those sentenced to prison" />
+<entity_link id="en24" fromID="f2" fromText="prison" toID="f1" toText="prison" />
+<entity_link id="en25" fromID="p21" fromText="The other eight" toID="p15" toText="The other eight defendants" />
+<entity_link id="en26" fromID="p22" fromText="Those sentenced to prison terms" toID="p19" toText="Those sentenced to prison" />
+<entity_link id="en27" fromID="f4" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en28" fromID="f3" fromText="prison" toID="f2" toText="prison" />
+<entity_link id="en29" fromID="p23" fromText="Those sentenced to probation" toID="p21" toText="The other eight" />
+<entity_link id="en30" fromID="o15" fromText="ICE" toID="o12" toText="ICE" />
+<entity_link id="en31" fromID="o16" fromText="ICE" toID="o15" toText="ICE" />
+<head_link id="he0" fromID="p0" fromText="85 sentenced for criminal offenses in one day following ICE operation in Iowa" toID="h0" toText="85" />
+<head_link id="he1" fromID="o0" fromText="ICE" toID="h1" toText="ICE" />
+<head_link id="he2" fromID="g0" fromText="Iowa" toID="h2" toText="Iowa" />
+<head_link id="he3" fromID="g1" fromText="WATERLOO, Iowa" toID="h3" toText="WATERLOO" />
+<head_link id="he4" fromID="g2" fromText="Iowa" toID="h4" toText="Iowa" />
+<head_link id="he5" fromID="p1" fromText="U.S. Attorney Matt M. Dummermuth" toID="h5" toText="Matt M. Dummermuth" />
+<head_link id="he6" fromID="p2" fromText="U.S. Attorney" toID="h6" toText="Attorney" />
+<head_link id="he7" fromID="g3" fromText="U.S." toID="h7" toText="U.S." />
+<head_link id="he8" fromID="p3" fromText="85 defendants" toID="h8" toText="defendants" />
+<head_link id="he9" fromID="p4" fromText="They" toID="h9" toText="They" />
+<head_link id="he10" fromID="p5" fromText="the 389 illegal aliens arrested by U.S. Immigration and Customs Enforcement (ICE) May 12 at Agriprocessors Inc. in Postville, Iowa" toID="h10" toText="aliens" />
+<head_link id="he11" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h11" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he12" fromID="o2" fromText="ICE" toID="h12" toText="ICE" />
+<head_link id="he14" fromID="o3" fromText="Agriprocessors Inc. in Postville, Iowa" toID="h14" toText="Agriprocessors Inc." />
+<head_link id="he15" fromID="g4" fromText="Postville, Iowa" toID="h15" toText="Postville" />
+<head_link id="he16" fromID="g5" fromText="Iowa" toID="h16" toText="Iowa" />
+<head_link id="he17" fromID="p6" fromText="defendants" toID="h17" toText="defendants" />
+<head_link id="he18" fromID="o4" fromText="the Northern District of Iowa" toID="h18" toText="Northern District of Iowa" />
+<head_link id="he19" fromID="p7" fromText="Dummermuth" toID="h19" toText="Dummermuth" />
+<head_link id="he20" fromID="o5" fromText="the Department of Justice" toID="h20" toText="Department of Justice" />
+<head_link id="he21" fromID="o6" fromText="we" toID="h21" toText="we" />
+<head_link id="he22" fromID="o7" fromText="the U.S. Attorney's office" toID="h22" toText="office" />
+<head_link id="he23" fromID="p8" fromText="the U.S. Attorney" toID="h23" toText="Attorney" />
+<head_link id="he24" fromID="g6" fromText="U.S." toID="h24" toText="U.S." />
+<head_link id="he25" fromID="o8" fromText="our partner law enforcement agencies" toID="h25" toText="agencies" />
+<head_link id="he26" fromID="o9" fromText="our" toID="h26" toText="our" />
+<head_link id="he27" fromID="p10" fromText="Claude Arnold" toID="h27" toText="Claude Arnold" />
+<head_link id="he28" fromID="p11" fromText="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" toID="h28" toText="agent" />
+<head_link id="he29" fromID="o10" fromText="the ICE Office of Investigations in Bloomington, Minn" toID="h29" toText="ICE Office of Investigations" />
+<head_link id="he30" fromID="g7" fromText="Bloomington, Minn" toID="h30" toText="Bloomington" />
+<head_link id="he31" fromID="g8" fromText="Minn" toID="h31" toText="Minn" />
+<head_link id="he33" fromID="g9" fromText="our" toID="h32" toText="our" />
+<head_link id="he34" fromID="o12" fromText="ICE" toID="h33" toText="ICE" />
+<head_link id="he35" fromID="g10" fromText="the nation" toID="h34" toText="nation" />
+<head_link id="he36" fromID="p12" fromText="Seventy-seven defendants" toID="h35" toText="defendants" />
+<head_link id="he37" fromID="f0" fromText="prison" toID="h36" toText="prison" />
+<head_link id="he38" fromID="p13" fromText="they" toID="h37" toText="they" />
+<head_link id="he39" fromID="p14" fromText="an actual person" toID="h38" toText="person" />
+<head_link id="he40" fromID="p15" fromText="The other eight defendants" toID="h39" toText="defendants" />
+<head_link id="he41" fromID="p16" fromText="an actual person" toID="h40" toText="person" />
+<head_link id="he42" fromID="p17" fromText="All 85" toID="h41" toText="85" />
+<head_link id="he43" fromID="p18" fromText="they" toID="h42" toText="they" />
+<head_link id="he13" fromID="g11" fromText="the United States" toID="h13" toText="United States" />
+<head_link id="he32" fromID="p19" fromText="Those sentenced to prison" toID="h43" toText="Those" />
+<head_link id="he44" fromID="f1" fromText="prison" toID="h44" toText="prison" />
+<head_link id="he45" fromID="p20" fromText="their" toID="h45" toText="their" />
+<head_link id="he46" fromID="f2" fromText="prison" toID="h46" toText="prison" />
+<head_link id="he47" fromID="p21" fromText="The other eight" toID="h47" toText="eight" />
+<head_link id="he48" fromID="o11" fromText="U.S. District Court" toID="h48" toText="U.S. District Court" />
+<head_link id="he49" fromID="p22" fromText="Those sentenced to prison terms" toID="h49" toText="Those" />
+<head_link id="he50" fromID="f3" fromText="prison" toID="h50" toText="prison" />
+<head_link id="he51" fromID="f4" fromText="prison" toID="h51" toText="prison" />
+<head_link id="he52" fromID="o13" fromText="the U.S. Marshals Service" toID="h52" toText="U.S. Marshals Service" />
+<head_link id="he53" fromID="p23" fromText="Those sentenced to probation" toID="h53" toText="Those" />
+<head_link id="he54" fromID="o14" fromText="ICE's Office of Detention and Removal Operations" toID="h54" toText="Office of Detention and Removal Operations" />
+<head_link id="he55" fromID="o15" fromText="ICE" toID="h55" toText="ICE" />
+<head_link id="he56" fromID="o16" fromText="ICE" toID="h56" toText="ICE" />
+<head_link id="he57" fromID="o17" fromText="Other agencies assisting" toID="h57" toText="agencies" />
+<head_link id="he58" fromID="o18" fromText="the U.S. Postal Inspection Service" toID="h58" toText="U.S. Postal Inspection Service" />
+<head_link id="he59" fromID="o19" fromText="the Iowa Department of Public Safety" toID="h59" toText="Iowa Department of Public Safety" />
+<head_link id="he60" fromID="o20" fromText="the Iowa Department of Transportation" toID="h60" toText="Iowa Department of Transportation" />
+<head_link id="he61" fromID="o21" fromText="the FBI" toID="h61" toText="FBI" />
+<head_link id="he62" fromID="o22" fromText="the Internal Revenue Service's Criminal Investigations" toID="h62" toText="Criminal Investigations" />
+<head_link id="he63" fromID="o23" fromText="the Internal Revenue Service" toID="h63" toText="Internal Revenue Service" />
+<head_link id="he64" fromID="o24" fromText="the U.S. Department of Labor" toID="h64" toText="U.S. Department of Labor" />
+<name_link id="na0" fromID="o0" fromText="ICE" toID="n0" toText="ICE" />
+<name_link id="na1" fromID="g0" fromText="Iowa" toID="n1" toText="Iowa" />
+<name_link id="na2" fromID="g1" fromText="WATERLOO, Iowa" toID="n2" toText="WATERLOO" />
+<name_link id="na3" fromID="g2" fromText="Iowa" toID="n3" toText="Iowa" />
+<name_link id="na4" fromID="p1" fromText="U.S. Attorney Matt M. Dummermuth" toID="n4" toText="Matt M. Dummermuth" />
+<name_link id="na5" fromID="g3" fromText="U.S." toID="n5" toText="U.S." />
+<name_link id="na6" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n6" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na7" fromID="o2" fromText="ICE" toID="n7" toText="ICE" />
+<name_link id="na9" fromID="o3" fromText="Agriprocessors Inc. in Postville, Iowa" toID="n9" toText="Agriprocessors Inc." />
+<name_link id="na10" fromID="g4" fromText="Postville, Iowa" toID="n10" toText="Postville" />
+<name_link id="na11" fromID="g5" fromText="Iowa" toID="n11" toText="Iowa" />
+<name_link id="na12" fromID="o4" fromText="the Northern District of Iowa" toID="n12" toText="Northern District of Iowa" />
+<name_link id="na13" fromID="p7" fromText="Dummermuth" toID="n13" toText="Dummermuth" />
+<name_link id="na14" fromID="o5" fromText="the Department of Justice" toID="n14" toText="Department of Justice" />
+<name_link id="na15" fromID="g6" fromText="U.S." toID="n15" toText="U.S." />
+<name_link id="na16" fromID="p10" fromText="Claude Arnold" toID="n16" toText="Claude Arnold" />
+<name_link id="na17" fromID="o10" fromText="the ICE Office of Investigations in Bloomington, Minn" toID="n17" toText="ICE Office of Investigations" />
+<name_link id="na18" fromID="g7" fromText="Bloomington, Minn" toID="n18" toText="Bloomington" />
+<name_link id="na19" fromID="g8" fromText="Minn" toID="n19" toText="Minn" />
+<name_link id="na20" fromID="o12" fromText="ICE" toID="n20" toText="ICE" />
+<name_link id="na8" fromID="g11" fromText="the United States" toID="n8" toText="United States" />
+<name_link id="na21" fromID="o11" fromText="U.S. District Court" toID="n21" toText="U.S. District Court" />
+<name_link id="na22" fromID="o13" fromText="the U.S. Marshals Service" toID="n22" toText="U.S. Marshals Service" />
+<name_link id="na23" fromID="o14" fromText="ICE's Office of Detention and Removal Operations" toID="n23" toText="Office of Detention and Removal Operations" />
+<name_link id="na24" fromID="o15" fromText="ICE" toID="n24" toText="ICE" />
+<name_link id="na25" fromID="o16" fromText="ICE" toID="n25" toText="ICE" />
+<name_link id="na26" fromID="o18" fromText="the U.S. Postal Inspection Service" toID="n26" toText="U.S. Postal Inspection Service" />
+<name_link id="na27" fromID="o19" fromText="the Iowa Department of Public Safety" toID="n27" toText="Iowa Department of Public Safety" />
+<name_link id="na28" fromID="o20" fromText="the Iowa Department of Transportation" toID="n28" toText="Iowa Department of Transportation" />
+<name_link id="na29" fromID="o21" fromText="the FBI" toID="n29" toText="FBI" />
+<name_link id="na30" fromID="o22" fromText="the Internal Revenue Service's Criminal Investigations" toID="n30" toText="Criminal Investigations" />
+<name_link id="na31" fromID="o23" fromText="the Internal Revenue Service" toID="n31" toText="Internal Revenue Service" />
+<name_link id="na32" fromID="o24" fromText="the U.S. Department of Labor" toID="n32" toText="U.S. Department of Labor" />
+<relation_link1 id="r0" fromID="lo0" fromText="85 sentenced for criminal offenses in one day following ICE operation in Iowa" toID="p0" toText="85 sentenced for criminal offenses in one day following ICE operation in Iowa" />
+<relation_link1 id="r1" fromID="e0" fromText="U.S. Attorney" toID="p2" toText="U.S. Attorney" />
+<relation_link1 id="r2" fromID="e1" fromText="the U.S. Attorney" toID="p8" toText="the U.S. Attorney" />
+<relation_link1 id="r3" fromID="M0" fromText="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" toID="p11" toText="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" />
+<relation_link1 id="r4" fromID="lo1" fromText="All 85 admitted they were in the United States illegally" toID="p18" toText="they" />
+<relation_link1 id="r5" fromID="M1" fromText="the U.S. Attorney's office" toID="p8" toText="the U.S. Attorney" />
+<relation_link2 id="re0" fromID="lo0" fromText="85 sentenced for criminal offenses in one day following ICE operation in Iowa" toID="g0" toText="Iowa" />
+<relation_link2 id="re1" fromID="e0" fromText="U.S. Attorney" toID="g3" toText="U.S." />
+<relation_link2 id="re2" fromID="e1" fromText="the U.S. Attorney" toID="g6" toText="U.S." />
+<relation_link2 id="re3" fromID="M0" fromText="special agent in charge of the ICE Office of Investigations in Bloomington, Minn" toID="o10" toText="the ICE Office of Investigations in Bloomington, Minn" />
+<relation_link2 id="re4" fromID="lo1" fromText="All 85 admitted they were in the United States illegally" toID="g11" toText="the United States" />
+<relation_link2 id="re5" fromID="M1" fromText="the U.S. Attorney's office" toID="o7" toText="the U.S. Attorney's office" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,16 @@
+Email Phishers Using A Simple Way to Bypass MS Office 365 Protection
+Swati Khandelwal
+
+Security researchers have been warning about a simple technique that cyber criminals and email scammers are using in the wild to bypass most AI-powered phishing detection mechanisms implemented by widely used email services and web security scanners.
+Dubbed ZeroFont, the technique involves inserting hidden words with a font size of zero within the actual content of a phishing email, keeping its visual appearance same, but at the same time, making it non-malicious in the eyes of email security scanners.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to cloud security company Avanan, Microsoft Office 365 also fails to detect such emails as malicious crafted using ZeroFont technique.
+Like Microsoft Office 365, many emails and web security services use natural language processing and other artificial intelligence-based machine learning techniques to identify malicious or phishing emails faster.
+The technology helps security companies to analyze, understand and derive meaning from unstructured text embedded in an email or web page by identifying text-based indicators, like email scams mimicking a popular company, phrases used to request for payments or password resets, and more.
+However, by adding random zero font-size characters between the indicator texts present in a phishing email, cybercriminals can transform these indicators into an unstructured garbage text, hiding them from the natural language processing engine.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Therefore, the email looks normal to a human eye, but Microsoft reads the entire garbage text, even if some words are displayed with a font size of "0."
+"Microsoft can not identify this as a spoofing email because it cannot see the word 'Microsoft' in the un-emulated version," reads Avanan's blog post. "Essentially, the ZeroFont attack makes it possible to display one message to the anti-phishing filters and another to the end user."
+Besides the ZeroFont technique, Avanan also detected hackers using other similar tricks that involve Punycode, Unicode, or Hexadecimal Escape Characters in their phishing attacks.
+Last month, researchers from the same company reported that cybercriminals had been splitting up the malicious URL in a way that the Safe Links security feature in Office 365 fails to identify and replace the partial hyperlink, eventually redirecting victims to the phishing site.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,20 @@
+'Karkoff' Is the New 'DNSpionage' With Selective Targeting Strategy
+Swati Khandelwal
+
+The cybercriminal group behind the infamous DNSpionage malware campaign has been found running a new sophisticated operation that infects selected victims with a new variant of the DNSpionage malware.
+First uncovered in November last year, the DNSpionage attacks used compromised sites and crafted malicious documents to infect victims' computers with DNSpionage—a custom remote administrative tool that uses HTTP and DNS communication to communicate with the attacker-controlled command and control server.
+According to a new report published by Cisco's Talos threat research team, the group has adopted some new tactics, techniques and procedures to improve the efficacy of their operations, making their cyber attacks more targeted, organised and sophisticated in nature.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Unlike previous campaigns, attackers have now started performing reconnaissance on its victims before infecting them with a new piece of malware, dubbed Karkoff, allowing them to selectively choose which targets to infect in order to remain undetected.
+"We identified infrastructure overlaps in the DNSpionage and the Karkoff cases," the researchers say.
+During Reconnaissance phase, attackers gather system information related to the workstation environment, operating system, domain, and list of running processes on the victims' machine.
+"The malware searches for two specific anti-virus platforms: Avira and Avast. If one of these security products is installed on the system and identified during the reconnaissance phase, a specific flag will be set, and some options from the configuration file will be ignored," the researchers say.
+Developed in .NET, Karkoff allows attackers to execute arbitrary code on compromised hosts remotely from their C&C server. Cisco Talos identified Karkoff as undocumented malware earlier this month.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's interesting is that the Karkoff malware generates a log file on the victims’ systems which contains a list of all commands it has executed with a timestamp.
+"This log file can be easily used to create a timeline of the command execution which can be extremely useful when responding to this type of threat," the researchers explain.
+"With this in mind, an organisation compromised with this malware would have the opportunity to review the log file and identify the commands carried out against them."
+Like the last DNSpionage campaign, the recently discovered attacks also target the Middle Eastern region, including Lebanon and the United Arab Emirates (UAE).
+Besides disabling macros and using reliable antivirus software, you should most importantly stay vigilant and keep yourself informed about social engineering techniques in order to reduce the risk of becoming a victim of such attacks.
+Due to several public reports of DNS hijacking attacks, the U.S. Department of Homeland Security (DHS) earlier this year issued an "emergency directive" to all federal agencies ordering IT staff to audit DNS records for their respective website domains, or other agency-managed domains.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

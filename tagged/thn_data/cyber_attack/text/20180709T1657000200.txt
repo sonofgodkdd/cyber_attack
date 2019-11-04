@@ -1,0 +1,19 @@
+Stolen D-Link Certificate Used to Digitally Sign Spying Malware
+Swati Khandelwal
+
+Digitally signed malware has become much more common in recent years to mask malicious intentions.
+Security researchers have discovered a new malware campaign misusing stolen valid digital certificates from Taiwanese tech-companies, including D-Link, to sign their malware and making them look like legitimate applications.
+As you may know, digital certificates issued by a trusted certificate authority (CA) are used to cryptographically sign computer applications and software and are trusted by your computer for execution of those programs without any warning messages.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, malware author and hackers who are always in search of advanced techniques to bypass security solutions have seen been abusing trusted digital certificates in recent years.
+Hackers use compromised code signing certificates associated with trusted software vendors in order to sign their malicious code, reducing the possibility of their malware being detected on targeted enterprise networks and consumer devices.
+Security researchers from ESET have recently identified two malware families, previously associated with cyberespionage group BlackTech, that have been signed using valid digital certificates belonging to D-Link networking equipment manufacturer and another Taiwanese security company called Changing Information Technology.
+The first malware, dubbed Plead, is a remotely controlled backdoor designed to steal confidential documents and spy on users.
+The second malware is also a related password stealer designed to collect saved passwords from Google Chrome, Microsoft Internet Explorer, Microsoft Outlook, and Mozilla Firefox.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers notified both D-link and Changing Information Technology about the issue, and the companies revoked the compromised digital certificates on July 3 and July 4, 2018, respectively.
+Since most antivirus software fails to check the certificate's validity even when companies revoke the signatures of their certificates, the BlackTech hackers are still using the same certificates to sign their malicious tools.
+"The ability to compromise several Taiwan-based technology companies and reuse their code-signing certificates in future attacks shows that this group is highly skilled and focused on that region," the researchers said.
+It is not the first time when hackers have used valid certificates to sign their malware. The infamous Stuxnet worm that targeted Iranian nuclear processing facilities in 2003 also used valid digital certificates.
+Also, the 2017 CCleaner hack, wherein hackers replaced the original CCleaner software with the tainted downloads, was made possible due to digitally-signed software update.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

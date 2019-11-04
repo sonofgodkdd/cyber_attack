@@ -1,0 +1,26 @@
+Apache Struts 2 Flaws Affect Multiple Cisco Products
+Swati Khandelwal
+
+After Equifax massive data breach that was believed to be caused due to a vulnerability in Apache Struts, Cisco has initiated an investigation into its products that incorporate a version of the popular Apache Struts2 web application framework.
+Apache Struts is a free, open-source MVC framework for developing web applications in the Java programming language, and used by 65 percent of the Fortune 100 companies, including Lockheed Martin, Vodafone, Virgin Atlantic, and the IRS.
+However, the popular open-source software package was recently found affected by multiple vulnerabilities, including two remote code execution vulnerabilities—one discovered earlier this month, and another in March—one of which is believed to be used to breach personal data of over 143 million Equifax users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Some of Cisco products including its Digital Media Manager, MXE 3500 Series Media Experience Engines, Network Performance Analysis, Hosted Collaboration Solution for Contact Center, and Unified Contact Center Enterprise have been found vulnerable to multiple Apache Struts flaws.
+Cisco Launches Apache Struts Vulnerability Hunting
+Cisco is also testing rest of its products against four newly discovered security vulnerability in Apache Struts2, including the one (CVE-2017-9805) we reported on September 5 and the remaining three also disclosed last week.
+However, the remote code execution bug (CVE-2017-5638) that was actively exploited back in March this year is not included by the company in its recent security audit.
+The three vulnerabilities—CVE-2017-9793, CVE-2017-9804 and CVE-2017-9805—included in the Cisco security audit was released by the Apache Software Foundation on 5th September with the release of Apache Struts 2.5.13 which patched the issues.
+The fourth vulnerability (CVE-2017-12611) that is being investigated by Cisco was released on 7th September with the release of Apache Struts 2.3.34 that fixed the flaw that resided in the Freemarker tag functionality of the Apache Struts2 package and could allow an unauthenticated, remote attacker to execute malicious code on an affected system.
+Apache Struts Flaw Actively Exploited to Hack Servers & Deliver Malware
+Coming on to the most severe of all, CVE-2017-9805 (assigned as critical) is a programming bug that manifests due to the way Struts REST plugin handles XML payloads while deserializing them.
+This could allow a remote, unauthenticated attacker to achieve remote code execution on a host running a vulnerable version of Apache Struts2, and Cisco's Threat intelligence firm Talos has observed that this flaw is under active exploitation to find vulnerable servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security researchers from data centre security vendor Imperva recently detected and blocked thousands of attacks attempting to exploit this Apache Struts2 vulnerability (CVE-2017-9805), with roughly 80 percent of them tried to deliver a malicious payload.
+The majority of attacks originated from China with a single Chinese IP address registered to a Chinese e-commerce company sending out more than 40% of all the requests. Attacks also came from Australia, the U.S., Brazil, Canada, Russia and various parts of Europe.
+Out of the two remaining flaws, one (CVE-2017-9793) is again a vulnerability in the REST plug-in for Apache Struts that manifests due to "insufficient validation of user-supplied input by the XStream library in the REST plug-in for the affected application."
+This flaw has been given a Medium severity and could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on targeted systems.
+The last flaw (CVE-2017-9804) also allows an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected system but resides in the URLValidator feature of Apache Struts.
+Cisco is testing its products against these vulnerabilities including its WebEx Meetings Server, the Data Center Network Manager, Identity Services Engine (ISE), MXE 3500 Series Media Experience Engines, several Cisco Prime products, some products for voice and unified communications, as well as video and streaming services.
+At the current, there are no software patches to address the vulnerabilities in Cisco products, but the company promised to release updates for affected software which will soon be accessible through the Cisco Bug Search Tool.
+Since the framework is being widely used by a majority of top 100 fortune companies, they should also check their infrastructures against these vulnerabilities that incorporate a version of Apache Struts2.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

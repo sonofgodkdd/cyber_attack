@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+March 28, 2012
+Guatemalan sentenced to 2 years in federal prison for illegally re-entering the US
+HARTFORD, Conn. - A Guatemalan national who last resided in Stamford, Conn., was sentenced to 24 months in federal prison for illegally re-entering the United States after deportation. This investigation was conducted by U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO).
+Jorge Roberto Rodriguez Lopez, 27, was sentenced by U.S. District Judge Vanessa L. Bryant. He will begin serving the sentence upon his completion of a 54-month state sentence that he is currently serving.
+According to court documents and statements made in court, Lopez entered the United States illegally in 1998. In March 2004, Lopez was deported to his native Guatemala following a 2003 conviction in Connecticut Superior Court of sexual assault in the second degree of a victim 13 to 15 years of age and illegal sexual contact.
+In August 2005, Lopez was convicted in U.S. District Court, District of New Mexico, of illegal re-entry after deportation. He was again deported in July 2006.
+On January 3, 2011, Lopez was apprehended in Stamford and subsequently convicted in Connecticut Superior Court of failure to register as a sex offender, forgery in the second degree and disorderly conduct. On April 4, 2011, Lopez was convicted of the charges and sentenced to 54 months of imprisonment. On January 6, 2012, Lopez pleaded guilty in U.S. District Court to illegal re-entry after deportation.
+The case was prosecuted by Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="16" end="26" text="Guatemalan" TYPE="HLS" />
+<person id="p1" start="117" end="173" text="A Guatemalan national who last resided in Stamford, Conn" TYPE="NOM" />
+<person id="p2" start="139" end="142" text="who" TYPE="WHQ" />
+<person id="p3" start="411" end="444" text="Jorge Roberto Rodriguez Lopez, 27" TYPE="NAM" />
+<person id="p4" start="463" end="500" text="U.S. District Judge Vanessa L. Bryant" TYPE="NAM" />
+<person id="p5" start="463" end="482" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p6" start="502" end="504" text="He" TYPE="PRO" />
+<person id="p7" start="542" end="545" text="his" TYPE="PRO" />
+<person id="p8" start="591" end="593" text="he" TYPE="PRO" />
+<person id="p9" start="675" end="680" text="Lopez" TYPE="NAM" />
+<person id="p10" start="741" end="746" text="Lopez" TYPE="NAM" />
+<person id="p11" start="763" end="766" text="his" TYPE="PRO" />
+<person id="p12" start="884" end="914" text="a victim 13 to 15 years of age" TYPE="NOM" />
+<person id="p13" start="959" end="964" text="Lopez" TYPE="NAM" />
+<person id="p14" start="1066" end="1068" text="He" TYPE="PRO" />
+<person id="p15" start="1122" end="1127" text="Lopez" TYPE="NAM" />
+<person id="p16" start="1239" end="1253" text="a sex offender" TYPE="NOM" />
+<person id="p17" start="1326" end="1331" text="Lopez" TYPE="NAM" />
+<person id="p18" start="1425" end="1430" text="Lopez" TYPE="NAM" />
+<person id="p19" start="1535" end="1600" text="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" TYPE="NAM" />
+<person id="p20" start="1535" end="1558" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="320" end="408" text="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="NAM" />
+<organization id="o1" start="405" end="408" text="ERO" TYPE="NAM" />
+<organization id="o2" start="320" end="367" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o3" start="364" end="367" text="ICE" TYPE="NAM" />
+<organization id="o4" start="468" end="476" text="District" TYPE="NOMPRE" />
+<organization id="o5" start="571" end="576" text="state" TYPE="NOMPRE" />
+<organization id="o6" start="629" end="634" text="court" TYPE="NOMPRE" />
+<organization id="o7" start="668" end="673" text="court" TYPE="BAR" />
+<organization id="o8" start="815" end="841" text="Connecticut Superior Court" TYPE="NAM" />
+<organization id="o9" start="982" end="1025" text="U.S. District Court, District of New Mexico" TYPE="NAM" />
+<organization id="o10" start="982" end="1001" text="U.S. District Court" TYPE="NAM" />
+<organization id="o11" start="1186" end="1212" text="Connecticut Superior Court" TYPE="NAM" />
+<organization id="o12" start="1449" end="1468" text="U.S. District Court" TYPE="NAM" />
+<organization id="o13" start="1577" end="1600" text="District of Connecticut" TYPE="NAM" />
+<geographical-political id="g0" start="92" end="98" text="the US" TYPE="NAM" />
+<geographical-political id="g1" start="99" end="113" text="HARTFORD, Conn" TYPE="NAM" />
+<geographical-political id="g2" start="109" end="113" text="Conn" TYPE="NAM" />
+<geographical-political id="g3" start="119" end="129" text="Guatemalan" TYPE="NAMPRE" />
+<geographical-political id="g4" start="159" end="173" text="Stamford, Conn" TYPE="NAM" />
+<geographical-political id="g5" start="169" end="173" text="Conn" TYPE="NAM" />
+<geographical-political id="g6" start="247" end="264" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="463" end="466" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g8" start="689" end="706" text="the United States" TYPE="NAM" />
+<geographical-political id="g9" start="763" end="783" text="his native Guatemala" TYPE="NAM" />
+<geographical-political id="g10" start="1147" end="1155" text="Stamford" TYPE="NAM" />
+<geographical-political id="g11" start="1545" end="1548" text="U.S" TYPE="NAMPRE" />
+<falicity id="f0" start="51" end="65" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="206" end="220" text="federal prison" TYPE="BAR" />
+<head id="h0" start="16" end="26" text="Guatemalan" />
+<head id="h1" start="59" end="65" text="prison" />
+<head id="h2" start="96" end="98" text="US" />
+<head id="h3" start="99" end="107" text="HARTFORD" />
+<head id="h4" start="109" end="113" text="Conn" />
+<head id="h5" start="130" end="138" text="national" />
+<head id="h6" start="139" end="142" text="who" />
+<head id="h7" start="119" end="129" text="Guatemalan" />
+<head id="h8" start="159" end="167" text="Stamford" />
+<head id="h9" start="169" end="173" text="Conn" />
+<head id="h10" start="214" end="220" text="prison" />
+<head id="h11" start="251" end="264" text="United States" />
+<head id="h12" start="369" end="403" text="Enforcement and Removal Operations" />
+<head id="h13" start="405" end="408" text="ERO" />
+<head id="h14" start="320" end="360" text="U.S. Immigration and Customs Enforcement" />
+<head id="h15" start="364" end="367" text="ICE" />
+<head id="h16" start="411" end="440" text="Jorge Roberto Rodriguez Lopez" />
+<head id="h17" start="483" end="500" text="Vanessa L. Bryant" />
+<head id="h18" start="477" end="482" text="Judge" />
+<head id="h19" start="463" end="466" text="U.S" />
+<head id="h20" start="468" end="476" text="District" />
+<head id="h21" start="502" end="504" text="He" />
+<head id="h22" start="542" end="545" text="his" />
+<head id="h23" start="591" end="593" text="he" />
+<head id="h24" start="571" end="576" text="state" />
+<head id="h25" start="629" end="634" text="court" />
+<head id="h26" start="668" end="673" text="court" />
+<head id="h27" start="675" end="680" text="Lopez" />
+<head id="h28" start="693" end="706" text="United States" />
+<head id="h29" start="741" end="746" text="Lopez" />
+<head id="h30" start="774" end="783" text="Guatemala" />
+<head id="h31" start="763" end="766" text="his" />
+<head id="h32" start="815" end="841" text="Connecticut Superior Court" />
+<head id="h33" start="886" end="892" text="victim" />
+<head id="h34" start="959" end="964" text="Lopez" />
+<head id="h35" start="1003" end="1025" text="District of New Mexico" />
+<head id="h36" start="982" end="1001" text="U.S. District Court" />
+<head id="h37" start="1066" end="1068" text="He" />
+<head id="h38" start="1122" end="1127" text="Lopez" />
+<head id="h39" start="1147" end="1155" text="Stamford" />
+<head id="h40" start="1186" end="1212" text="Connecticut Superior Court" />
+<head id="h41" start="1245" end="1253" text="offender" />
+<head id="h42" start="1326" end="1331" text="Lopez" />
+<head id="h43" start="1425" end="1430" text="Lopez" />
+<head id="h44" start="1449" end="1468" text="U.S. District Court" />
+<head id="h45" start="1559" end="1575" text="Carolyn A. Ikari" />
+<head id="h46" start="1550" end="1558" text="Attorney" />
+<head id="h47" start="1545" end="1548" text="U.S" />
+<head id="h48" start="1577" end="1600" text="District of Connecticut" />
+<name id="n0" start="96" end="98" text="US" />
+<name id="n1" start="99" end="107" text="HARTFORD" />
+<name id="n2" start="109" end="113" text="Conn" />
+<name id="n3" start="119" end="129" text="Guatemalan" />
+<name id="n4" start="159" end="167" text="Stamford" />
+<name id="n5" start="169" end="173" text="Conn" />
+<name id="n6" start="251" end="264" text="United States" />
+<name id="n7" start="369" end="403" text="Enforcement and Removal Operations" />
+<name id="n8" start="405" end="408" text="ERO" />
+<name id="n9" start="320" end="360" text="U.S. Immigration and Customs Enforcement" />
+<name id="n10" start="364" end="367" text="ICE" />
+<name id="n11" start="411" end="440" text="Jorge Roberto Rodriguez Lopez" />
+<name id="n12" start="483" end="500" text="Vanessa L. Bryant" />
+<name id="n13" start="463" end="466" text="U.S" />
+<name id="n14" start="675" end="680" text="Lopez" />
+<name id="n15" start="693" end="706" text="United States" />
+<name id="n16" start="741" end="746" text="Lopez" />
+<name id="n17" start="774" end="783" text="Guatemala" />
+<name id="n18" start="815" end="841" text="Connecticut Superior Court" />
+<name id="n19" start="959" end="964" text="Lopez" />
+<name id="n20" start="1003" end="1025" text="District of New Mexico" />
+<name id="n21" start="982" end="1001" text="U.S. District Court" />
+<name id="n22" start="1122" end="1127" text="Lopez" />
+<name id="n23" start="1147" end="1155" text="Stamford" />
+<name id="n24" start="1186" end="1212" text="Connecticut Superior Court" />
+<name id="n25" start="1326" end="1331" text="Lopez" />
+<name id="n26" start="1425" end="1430" text="Lopez" />
+<name id="n27" start="1449" end="1468" text="U.S. District Court" />
+<name id="n28" start="1559" end="1575" text="Carolyn A. Ikari" />
+<name id="n29" start="1545" end="1548" text="U.S" />
+<name id="n30" start="1577" end="1600" text="District of Connecticut" />
+<located-mention id="lo0" start="616" end="724" text="According to court documents and statements made in court, Lopez entered the United States illegally in 1998" TYPE="Verbal" />
+<located-mention id="lo1" start="726" end="941" text="In March 2004, Lopez was deported to his native Guatemala following a 2003 conviction in Connecticut Superior Court of sexual assault in the second degree of a victim 13 to 15 years of age and illegal sexual contact" TYPE="Verbal" />
+<located-mention id="lo2" start="1102" end="1306" text="On January 3, 2011, Lopez was apprehended in Stamford and subsequently convicted in Connecticut Superior Court of failure to register as a sex offender, forgery in the second degree and disorderly conduct" TYPE="Verbal" />
+<employment-mention id="e0" start="463" end="482" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e1" start="1535" end="1558" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="117" end="173" text="A Guatemalan national who last resided in Stamford, Conn" TYPE="PreMod" />
+<CRRE id="C2" start="117" end="282" text="A Guatemalan national who last resided in Stamford, Conn., was sentenced to 24 months in federal prison for illegally re-entering the United States after deportation" TYPE="Verbal" />
+<CRRE id="C3" start="763" end="783" text="his native Guatemala" TYPE="Possessive" />
+<M id="M0" start="463" end="482" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M1" start="1535" end="1600" text="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" TYPE="Formulaic" />
+<entity_link id="en0" fromID="p1" fromText="A Guatemalan national who last resided in Stamford, Conn" toID="p0" toText="Guatemalan" />
+<entity_link id="en1" fromID="p2" fromText="who" toID="p1" toText="A Guatemalan national who last resided in Stamford, Conn" />
+<entity_link id="en2" fromID="g5" fromText="Conn" toID="g2" toText="Conn" />
+<entity_link id="en3" fromID="f1" fromText="federal prison" toID="f0" toText="federal prison" />
+<entity_link id="en4" fromID="g6" fromText="the United States" toID="g0" toText="the US" />
+<entity_link id="en5" fromID="o1" fromText="ERO" toID="o0" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<entity_link id="en6" fromID="o3" fromText="ICE" toID="o2" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en7" fromID="p3" fromText="Jorge Roberto Rodriguez Lopez, 27" toID="p1" toText="A Guatemalan national who last resided in Stamford, Conn" />
+<entity_link id="en8" fromID="p5" fromText="U.S. District Judge" toID="p4" toText="U.S. District Judge Vanessa L. Bryant" />
+<entity_link id="en9" fromID="g7" fromText="U.S" toID="g6" toText="the United States" />
+<entity_link id="en10" fromID="p6" fromText="He" toID="p3" toText="Jorge Roberto Rodriguez Lopez, 27" />
+<entity_link id="en11" fromID="p7" fromText="his" toID="p6" toText="He" />
+<entity_link id="en12" fromID="p8" fromText="he" toID="p6" toText="He" />
+<entity_link id="en13" fromID="o7" fromText="court" toID="o6" toText="court" />
+<entity_link id="en14" fromID="p9" fromText="Lopez" toID="p3" toText="Jorge Roberto Rodriguez Lopez, 27" />
+<entity_link id="en15" fromID="g8" fromText="the United States" toID="g6" toText="the United States" />
+<entity_link id="en16" fromID="p10" fromText="Lopez" toID="p9" toText="Lopez" />
+<entity_link id="en17" fromID="g9" fromText="his native Guatemala" toID="g3" toText="Guatemalan" />
+<entity_link id="en18" fromID="p11" fromText="his" toID="p10" toText="Lopez" />
+<entity_link id="en19" fromID="p13" fromText="Lopez" toID="p10" toText="Lopez" />
+<entity_link id="en20" fromID="p14" fromText="He" toID="p13" toText="Lopez" />
+<entity_link id="en21" fromID="p15" fromText="Lopez" toID="p13" toText="Lopez" />
+<entity_link id="en22" fromID="g10" fromText="Stamford" toID="g4" toText="Stamford, Conn" />
+<entity_link id="en23" fromID="o11" fromText="Connecticut Superior Court" toID="o8" toText="Connecticut Superior Court" />
+<entity_link id="en24" fromID="p17" fromText="Lopez" toID="p15" toText="Lopez" />
+<entity_link id="en25" fromID="p18" fromText="Lopez" toID="p17" toText="Lopez" />
+<entity_link id="en26" fromID="o12" fromText="U.S. District Court" toID="o10" toText="U.S. District Court" />
+<entity_link id="en27" fromID="p20" fromText="Assistant U.S. Attorney" toID="p19" toText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" />
+<entity_link id="en28" fromID="g11" fromText="U.S" toID="g8" toText="the United States" />
+<head_link id="he0" fromID="p0" fromText="Guatemalan" toID="h0" toText="Guatemalan" />
+<head_link id="he1" fromID="f0" fromText="federal prison" toID="h1" toText="prison" />
+<head_link id="he2" fromID="g0" fromText="the US" toID="h2" toText="US" />
+<head_link id="he3" fromID="g1" fromText="HARTFORD, Conn" toID="h3" toText="HARTFORD" />
+<head_link id="he4" fromID="g2" fromText="Conn" toID="h4" toText="Conn" />
+<head_link id="he5" fromID="p1" fromText="A Guatemalan national who last resided in Stamford, Conn" toID="h5" toText="national" />
+<head_link id="he6" fromID="p2" fromText="who" toID="h6" toText="who" />
+<head_link id="he7" fromID="g3" fromText="Guatemalan" toID="h7" toText="Guatemalan" />
+<head_link id="he8" fromID="g4" fromText="Stamford, Conn" toID="h8" toText="Stamford" />
+<head_link id="he9" fromID="g5" fromText="Conn" toID="h9" toText="Conn" />
+<head_link id="he10" fromID="f1" fromText="federal prison" toID="h10" toText="prison" />
+<head_link id="he11" fromID="g6" fromText="the United States" toID="h11" toText="United States" />
+<head_link id="he12" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="h12" toText="Enforcement and Removal Operations" />
+<head_link id="he13" fromID="o1" fromText="ERO" toID="h13" toText="ERO" />
+<head_link id="he14" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h14" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he15" fromID="o3" fromText="ICE" toID="h15" toText="ICE" />
+<head_link id="he16" fromID="p3" fromText="Jorge Roberto Rodriguez Lopez, 27" toID="h16" toText="Jorge Roberto Rodriguez Lopez" />
+<head_link id="he17" fromID="p4" fromText="U.S. District Judge Vanessa L. Bryant" toID="h17" toText="Vanessa L. Bryant" />
+<head_link id="he18" fromID="p5" fromText="U.S. District Judge" toID="h18" toText="Judge" />
+<head_link id="he19" fromID="g7" fromText="U.S" toID="h19" toText="U.S" />
+<head_link id="he20" fromID="o4" fromText="District" toID="h20" toText="District" />
+<head_link id="he21" fromID="p6" fromText="He" toID="h21" toText="He" />
+<head_link id="he22" fromID="p7" fromText="his" toID="h22" toText="his" />
+<head_link id="he23" fromID="p8" fromText="he" toID="h23" toText="he" />
+<head_link id="he24" fromID="o5" fromText="state" toID="h24" toText="state" />
+<head_link id="he25" fromID="o6" fromText="court" toID="h25" toText="court" />
+<head_link id="he26" fromID="o7" fromText="court" toID="h26" toText="court" />
+<head_link id="he27" fromID="p9" fromText="Lopez" toID="h27" toText="Lopez" />
+<head_link id="he28" fromID="g8" fromText="the United States" toID="h28" toText="United States" />
+<head_link id="he29" fromID="p10" fromText="Lopez" toID="h29" toText="Lopez" />
+<head_link id="he30" fromID="g9" fromText="his native Guatemala" toID="h30" toText="Guatemala" />
+<head_link id="he31" fromID="p11" fromText="his" toID="h31" toText="his" />
+<head_link id="he32" fromID="o8" fromText="Connecticut Superior Court" toID="h32" toText="Connecticut Superior Court" />
+<head_link id="he33" fromID="p12" fromText="a victim 13 to 15 years of age" toID="h33" toText="victim" />
+<head_link id="he34" fromID="p13" fromText="Lopez" toID="h34" toText="Lopez" />
+<head_link id="he35" fromID="o9" fromText="U.S. District Court, District of New Mexico" toID="h35" toText="District of New Mexico" />
+<head_link id="he36" fromID="o10" fromText="U.S. District Court" toID="h36" toText="U.S. District Court" />
+<head_link id="he37" fromID="p14" fromText="He" toID="h37" toText="He" />
+<head_link id="he38" fromID="p15" fromText="Lopez" toID="h38" toText="Lopez" />
+<head_link id="he39" fromID="g10" fromText="Stamford" toID="h39" toText="Stamford" />
+<head_link id="he40" fromID="o11" fromText="Connecticut Superior Court" toID="h40" toText="Connecticut Superior Court" />
+<head_link id="he41" fromID="p16" fromText="a sex offender" toID="h41" toText="offender" />
+<head_link id="he42" fromID="p17" fromText="Lopez" toID="h42" toText="Lopez" />
+<head_link id="he43" fromID="p18" fromText="Lopez" toID="h43" toText="Lopez" />
+<head_link id="he44" fromID="o12" fromText="U.S. District Court" toID="h44" toText="U.S. District Court" />
+<head_link id="he45" fromID="p19" fromText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" toID="h45" toText="Carolyn A. Ikari" />
+<head_link id="he46" fromID="p20" fromText="Assistant U.S. Attorney" toID="h46" toText="Attorney" />
+<head_link id="he47" fromID="g11" fromText="U.S" toID="h47" toText="U.S" />
+<head_link id="he48" fromID="o13" fromText="District of Connecticut" toID="h48" toText="District of Connecticut" />
+<name_link id="na0" fromID="g0" fromText="the US" toID="n0" toText="US" />
+<name_link id="na1" fromID="g1" fromText="HARTFORD, Conn" toID="n1" toText="HARTFORD" />
+<name_link id="na2" fromID="g2" fromText="Conn" toID="n2" toText="Conn" />
+<name_link id="na3" fromID="g3" fromText="Guatemalan" toID="n3" toText="Guatemalan" />
+<name_link id="na4" fromID="g4" fromText="Stamford, Conn" toID="n4" toText="Stamford" />
+<name_link id="na5" fromID="g5" fromText="Conn" toID="n5" toText="Conn" />
+<name_link id="na6" fromID="g6" fromText="the United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="o0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="n7" toText="Enforcement and Removal Operations" />
+<name_link id="na8" fromID="o1" fromText="ERO" toID="n8" toText="ERO" />
+<name_link id="na9" fromID="o2" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n9" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na10" fromID="o3" fromText="ICE" toID="n10" toText="ICE" />
+<name_link id="na11" fromID="p3" fromText="Jorge Roberto Rodriguez Lopez, 27" toID="n11" toText="Jorge Roberto Rodriguez Lopez" />
+<name_link id="na12" fromID="p4" fromText="U.S. District Judge Vanessa L. Bryant" toID="n12" toText="Vanessa L. Bryant" />
+<name_link id="na13" fromID="g7" fromText="U.S" toID="n13" toText="U.S" />
+<name_link id="na14" fromID="p9" fromText="Lopez" toID="n14" toText="Lopez" />
+<name_link id="na15" fromID="g8" fromText="the United States" toID="n15" toText="United States" />
+<name_link id="na16" fromID="p10" fromText="Lopez" toID="n16" toText="Lopez" />
+<name_link id="na17" fromID="g9" fromText="his native Guatemala" toID="n17" toText="Guatemala" />
+<name_link id="na18" fromID="o8" fromText="Connecticut Superior Court" toID="n18" toText="Connecticut Superior Court" />
+<name_link id="na19" fromID="p13" fromText="Lopez" toID="n19" toText="Lopez" />
+<name_link id="na20" fromID="o9" fromText="U.S. District Court, District of New Mexico" toID="n20" toText="District of New Mexico" />
+<name_link id="na21" fromID="o10" fromText="U.S. District Court" toID="n21" toText="U.S. District Court" />
+<name_link id="na22" fromID="p15" fromText="Lopez" toID="n22" toText="Lopez" />
+<name_link id="na23" fromID="g10" fromText="Stamford" toID="n23" toText="Stamford" />
+<name_link id="na24" fromID="o11" fromText="Connecticut Superior Court" toID="n24" toText="Connecticut Superior Court" />
+<name_link id="na25" fromID="p17" fromText="Lopez" toID="n25" toText="Lopez" />
+<name_link id="na26" fromID="p18" fromText="Lopez" toID="n26" toText="Lopez" />
+<name_link id="na27" fromID="o12" fromText="U.S. District Court" toID="n27" toText="U.S. District Court" />
+<name_link id="na28" fromID="p19" fromText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" toID="n28" toText="Carolyn A. Ikari" />
+<name_link id="na29" fromID="g11" fromText="U.S" toID="n29" toText="U.S" />
+<name_link id="na30" fromID="o13" fromText="District of Connecticut" toID="n30" toText="District of Connecticut" />
+<relation_link1 id="r0" fromID="C0" fromText="A Guatemalan national who last resided in Stamford, Conn" toID="p1" toText="A Guatemalan national who last resided in Stamford, Conn" />
+<relation_link1 id="r1" fromID="C2" fromText="A Guatemalan national who last resided in Stamford, Conn., was sentenced to 24 months in federal prison for illegally re-entering the United States after deportation" toID="p2" toText="who" />
+<relation_link1 id="r2" fromID="e0" fromText="U.S. District Judge" toID="p5" toText="U.S. District Judge" />
+<relation_link1 id="r3" fromID="M0" fromText="U.S. District Judge" toID="p5" toText="U.S. District Judge" />
+<relation_link1 id="r4" fromID="lo0" fromText="According to court documents and statements made in court, Lopez entered the United States illegally in 1998" toID="p9" toText="Lopez" />
+<relation_link1 id="r5" fromID="C3" fromText="his native Guatemala" toID="p11" toText="his" />
+<relation_link1 id="r6" fromID="lo1" fromText="In March 2004, Lopez was deported to his native Guatemala following a 2003 conviction in Connecticut Superior Court of sexual assault in the second degree of a victim 13 to 15 years of age and illegal sexual contact" toID="p10" toText="Lopez" />
+<relation_link1 id="r7" fromID="lo2" fromText="On January 3, 2011, Lopez was apprehended in Stamford and subsequently convicted in Connecticut Superior Court of failure to register as a sex offender, forgery in the second degree and disorderly conduct" toID="p15" toText="Lopez" />
+<relation_link1 id="r8" fromID="e1" fromText="Assistant U.S. Attorney" toID="p20" toText="Assistant U.S. Attorney" />
+<relation_link1 id="r9" fromID="M1" fromText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" toID="p19" toText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" />
+<relation_link2 id="re0" fromID="C0" fromText="A Guatemalan national who last resided in Stamford, Conn" toID="g3" toText="Guatemalan" />
+<relation_link2 id="re1" fromID="C2" fromText="A Guatemalan national who last resided in Stamford, Conn., was sentenced to 24 months in federal prison for illegally re-entering the United States after deportation" toID="g4" toText="Stamford, Conn" />
+<relation_link2 id="re2" fromID="e0" fromText="U.S. District Judge" toID="g7" toText="U.S" />
+<relation_link2 id="re3" fromID="M0" fromText="U.S. District Judge" toID="o4" toText="District" />
+<relation_link2 id="re4" fromID="lo0" fromText="According to court documents and statements made in court, Lopez entered the United States illegally in 1998" toID="g8" toText="the United States" />
+<relation_link2 id="re5" fromID="C3" fromText="his native Guatemala" toID="g9" toText="his native Guatemala" />
+<relation_link2 id="re6" fromID="lo1" fromText="In March 2004, Lopez was deported to his native Guatemala following a 2003 conviction in Connecticut Superior Court of sexual assault in the second degree of a victim 13 to 15 years of age and illegal sexual contact" toID="g9" toText="his native Guatemala" />
+<relation_link2 id="re7" fromID="lo2" fromText="On January 3, 2011, Lopez was apprehended in Stamford and subsequently convicted in Connecticut Superior Court of failure to register as a sex offender, forgery in the second degree and disorderly conduct" toID="g10" toText="Stamford" />
+<relation_link2 id="re8" fromID="e1" fromText="Assistant U.S. Attorney" toID="g11" toText="U.S" />
+<relation_link2 id="re9" fromID="M1" fromText="Assistant U.S. Attorney Carolyn A. Ikari, District of Connecticut" toID="o13" toText="District of Connecticut" />
+</TAGS>
+</KddTask>

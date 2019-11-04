@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+LulzSec hacker Jeremy Hammond pleads guilty to Stratfor attack, could face 10 years in prison
+Wang Wei
+
+A computer hacker linked to the group known as Anonymous and LulzSec pleaded guilty on Tuesday to breaking into Stratfor, a global intelligence company. 
+Hammond, 28, was arrested last March and charged with hacking into the computers of Stratfor. Jeremy Hammond and other members of AntiSec, stole confidential information, defaced websites and temporarily put some victims out of business. Authorities say their crimes affected more than 1 million people.
+Hammond was charged under the controversial 1984 Computer Fraud and Abuse Act, the same law used to charge the late Aaron Swartz and other cyber-activists.
+The plea agreement could carry a sentence of as much as 10 years in prison, as well as millions of dollars in restitution payments, though Hammond’s official sentence won’t be handed down until September.
+Beyond Stratfor, Hammond took responsibility for eight other hacks, all of which involved either law enforcement, intelligence firms or defense contractor websites. 
+From June 2011 to February 2012, Hammond obtained unauthorized information from the Arizona Department of Public Safety, the FBI virtual academy, a marketing firm that builds websites for law enforcement called Brooks Jeffreys, Special Forces Gear, Vanguard Defense Industries, the Jefferson County sheriffs department, the Boston Police Patrolman's Institute and a Pennsylvania firm called Combined Systems that makes tear gas.
+Before his arrest last year, Mr. Hammond had already served 24 months in prison for hacking into a political group’s computer server and stealing credit card numbers in 2006.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<user_compromise id="u0" start="1603" end="1610" text="hacking" TYPE="USP" />
+<user_compromise id="u1" start="1656" end="1664" text="stealing" TYPE="SUP" />
+<root_compromise id="r0" start="313" end="320" text="hacking" TYPE="USP" />
+<root_compromise id="r1" start="398" end="403" text="stole" TYPE="SUP" />
+<root_compromise id="r2" start="430" end="437" text="defaced" TYPE="SUP" />
+<root_compromise id="r3" start="463" end="466" text="put" TYPE="SUP" />
+<root_compromise id="r4" start="1140" end="1152" text="unauthorized" TYPE="USP" />
+</TAGS>
+</KddTask>

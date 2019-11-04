@@ -1,0 +1,24 @@
+Lessons We Learned From Ashley Madison Data Breach
+Swati Khandelwal
+
+Do you use your Real Identity online and think about being private? If yes, then you are insane.
+Ashley Madison, the popular online dating website with tagline "Life is short. Have an affair", recently got hacked, reportedly exposing a sample of its users' account information and other personal data online.
+The hacker group, called itself 'The Impact Team', is also threatening to release the real names and all associated data of its 37 Million cheating customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+There are also rumors that the team could sell the stolen data for lots of money, instead of revealing it all for free. 
+This isn't first time when the customers of online hooking site are scared of being exposed, two months ago the sex life of almost 4 Million users of Adult Friend Finder was made available on underground market for sale for 70 Bitcoins ($16,800).
+Lesson we Learned from These Hacks
+The Ashley Madison hack raises serious questions about what these companies are doing to ensure the security of their users' and employees' personal information.
+Just go in flashback, OPM (Office of Personnel Management), Sony Pictures Entertainment, Target, Anthem, Home Depot, Neiman Marcus, and many in the list – they all were compromised and lost the very protected users' sensitive data.
+This indicates nothing is completely secure online.
+No website can guarantee privacy of your name, credit card number, photo or any other information. One of the company's computer gets hacked, and every secret is out.
+That is the reality! And you should accept it.
+One thing these hacks teaches us – Never share your real name and sensitive details online, because your digital footprints are bigger than you think.
+Many websites don't use encryption, indirectly inviting hackers to get into their systems and expose its users data.
+Some websites use encryption that are either outdated or easily crackable. 
+If in case any website uses strong encryption to protect their customers data, buggy software such as Adobe Flash and Internet Explorer fills the gap, leaving the doors widely open to hackers.
+Something similar was happened in the case of Ashley Madison Hack.
+A privacy flaw on Ashley Madison's Password Reset form allows anyone who knows your email address to easily check whether you had registered an account on the site. Use of the site could also come back to hurt consumers in say, divorce or custody proceedings.
+"If you want a presence on sites that you don’t want anyone else knowing about, use an email alias not traceable back to yourself or an entirely different account altogether." Security reseacher Troy Hunt suggested.
+So, avoid giving your real identity online, because The Internet is not secure and Security is just an Illusion.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

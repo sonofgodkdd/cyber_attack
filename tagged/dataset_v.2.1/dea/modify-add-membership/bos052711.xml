@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+NEW ENGLAND NEWS
+May 27, 2011
+Contact: SA Tony Pettigrew
+New England Division
+617-557-2138
+Hartford Man Sentenced to 21 Months
+in Federal Prison for Distributing Cocaine
+HARTFORD, CT.  - Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as "Toto," 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring.
+This matter stems from a 10-month Drug Enforcement Administration Task Force investigation dubbed "Operation Slow Play." The investigation, which included the participation of the New Britain Police Department and several other local police departments, revealed that Steve Velez, of New Britain, was trafficking in kilogram quantities of cocaine and multi-ounce quantities of crack cocaine. According to court documents and statements made in court, RIVAS was intercepted over a court-authorized wiretap ordering cocaine from Velez. RIVAS then sold the cocaine in smaller quantities to his own customers.
+This investigation has resulted in federal charges against 20 defendants, including Velez and RIVAS, and the seizure of approximately 26 kilograms of cocaine, two kilograms of crack cocaine, $650,000 in cash, one firearm, and several vehicles.
+On January 11, 2011, RIVAS pleaded guilty to one count of conspiracy to possess with intent to distribute cocaine.
+On February 1, 2011, Velez pleaded guilty to one count of conspiracy to possess with intent to distribute five kilograms or more of cocaine. On May 9, 2011, he was sentenced to 144 months of imprisonment.
+This matter has been investigated by the Drug Enforcement Administration and the New Britain, Newington, Windsor, Wethersfield, Wallingford, Manchester and Hartford Police Departments. Additional assistance has been provided by the United States Marshals Service and the State of Connecticut Office of Parole.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="40" end="57" text="SA Tony Pettigrew" TYPE="NAM" />
+<person id="p1" start="92" end="104" text="Hartford Man" TYPE="BAR" />
+<person id="p2" start="188" end="282" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="APP" />
+<person id="p3" start="188" end="202" text="Steven W. Derr" TYPE="NAM" />
+<person id="p4" start="204" end="282" text="Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="BAR" />
+<person id="p5" start="287" end="356" text="David B. Fein, United States Attorney for the District of Connecticut" TYPE="APP" />
+<person id="p6" start="287" end="300" text="David B. Fein" TYPE="NAM" />
+<person id="p7" start="302" end="356" text="United States Attorney for the District of Connecticut" TYPE="BAR" />
+<person id="p8" start="373" end="422" text="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" TYPE="NAM" />
+<person id="p9" start="400" end="404" text="Toto" TYPE="NAM" />
+<person id="p10" start="447" end="495" text="United States District Judge Janet Bond Arterton" TYPE="NAM" />
+<person id="p11" start="447" end="475" text="United States District Judge" TYPE="NOMPRE" />
+<person id="p12" start="590" end="593" text="his" TYPE="PRO" />
+<person id="p13" start="947" end="974" text="Steve Velez, of New Britain" TYPE="NAM" />
+<person id="p14" start="1130" end="1135" text="RIVAS" TYPE="NAM" />
+<person id="p15" start="1206" end="1211" text="Velez" TYPE="NAM" />
+<person id="p16" start="1213" end="1218" text="RIVAS" TYPE="NAM" />
+<person id="p17" start="1266" end="1283" text="his own customers" TYPE="NOM" />
+<person id="p18" start="1266" end="1269" text="his" TYPE="PRO" />
+<person id="p19" start="1344" end="1384" text="20 defendants, including Velez and RIVAS" TYPE="NOM" />
+<person id="p20" start="1369" end="1374" text="Velez" TYPE="NAM" />
+<person id="p21" start="1379" end="1384" text="RIVAS" TYPE="NAM" />
+<person id="p22" start="1550" end="1555" text="RIVAS" TYPE="NAM" />
+<person id="p23" start="1665" end="1670" text="Velez" TYPE="NAM" />
+<person id="p24" start="1801" end="1803" text="he" TYPE="PRO" />
+<person id="p25" start="40" end="42" text="SA" TYPE="NOMPRE" />
+<organization id="o0" start="58" end="78" text="New England Division" TYPE="NAM" />
+<organization id="o1" start="231" end="282" text="the Drug Enforcement Administration for New England" TYPE="NAM" />
+<organization id="o2" start="329" end="356" text="the District of Connecticut" TYPE="NAM" />
+<organization id="o3" start="461" end="469" text="District" TYPE="NOMPRE" />
+<organization id="o4" start="602" end="677" text="a New Britain and Hartford-area cocaine and crack cocaine distribution ring" TYPE="NOM" />
+<organization id="o5" start="713" end="755" text="Drug Enforcement Administration Task Force" TYPE="NAMPRE" />
+<organization id="o6" start="855" end="888" text="the New Britain Police Department" TYPE="NAM" />
+<organization id="o7" start="893" end="931" text="several other local police departments" TYPE="BAR" />
+<organization id="o9" start="1084" end="1089" text="court" TYPE="NOMPRE" />
+<organization id="o10" start="1123" end="1128" text="court" TYPE="BAR" />
+<organization id="o11" start="1159" end="1164" text="court" TYPE="NOMPRE" />
+<organization id="o12" start="1886" end="1921" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o13" start="1926" end="2032" text="the New Britain, Newington, Windsor, Wethersfield, Wallingford, Manchester and Hartford Police Departments" TYPE="NOM" />
+<organization id="o15" start="2077" end="2111" text="the United States Marshals Service" TYPE="NAM" />
+<organization id="o16" start="2116" end="2157" text="the State of Connecticut Office of Parole" TYPE="NAM" />
+<geographical-political id="g0" start="1" end="12" text="NEW ENGLAND" TYPE="NAMPRE" />
+<geographical-political id="g1" start="92" end="100" text="Hartford" TYPE="NAMPRE" />
+<geographical-political id="g2" start="171" end="183" text="HARTFORD, CT" TYPE="NAM" />
+<geographical-political id="g3" start="181" end="183" text="CT" TYPE="NAM" />
+<geographical-political id="g4" start="302" end="315" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="414" end="422" text="Hartford" TYPE="NAM" />
+<geographical-political id="g7" start="447" end="460" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g8" start="499" end="508" text="New Haven" TYPE="NAM" />
+<geographical-political id="g9" start="604" end="615" text="New Britain" TYPE="NAMPRE" />
+<geographical-political id="g10" start="620" end="628" text="Hartford" TYPE="NAMPRE" />
+<geographical-political id="g11" start="963" end="974" text="New Britain" TYPE="NAM" />
+<geographical-political id="g12" start="1930" end="1941" text="New Britain" TYPE="NAMPRE" />
+<geographical-political id="g13" start="1943" end="1952" text="Newington" TYPE="NAMPRE" />
+<geographical-political id="g14" start="1954" end="1961" text="Windsor" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1963" end="1975" text="Wethersfield" TYPE="NAMPRE" />
+<geographical-political id="g16" start="1977" end="1988" text="Wallingford" TYPE="NAMPRE" />
+<geographical-political id="g17" start="1990" end="2000" text="Manchester" TYPE="NAMPRE" />
+<geographical-political id="g18" start="2005" end="2013" text="Hartford" TYPE="NAMPRE" />
+<location id="l0" start="604" end="633" text="New Britain and Hartford-area" TYPE="NOMPRE" />
+<falicity id="f0" start="131" end="145" text="Federal Prison" TYPE="BAR" />
+<head id="h0" start="1" end="12" text="NEW ENGLAND" />
+<head id="h2" start="58" end="78" text="New England Division" />
+<head id="h3" start="101" end="104" text="Man" />
+<head id="h4" start="92" end="100" text="Hartford" />
+<head id="h5" start="139" end="145" text="Prison" />
+<head id="h6" start="171" end="179" text="HARTFORD" />
+<head id="h7" start="181" end="183" text="CT" />
+<head id="h8" start="188" end="202" text="Steven W. Derr" />
+<head id="h9" start="212" end="217" text="Agent" />
+<head id="h10" start="235" end="282" text="Drug Enforcement Administration for New England" />
+<head id="h11" start="287" end="300" text="David B. Fein" />
+<head id="h12" start="316" end="324" text="Attorney" />
+<head id="h13" start="302" end="315" text="United States" />
+<head id="h15" start="373" end="383" text="JUAN RIVAS" />
+<head id="h16" start="400" end="404" text="Toto" />
+<head id="h17" start="414" end="422" text="Hartford" />
+<head id="h20" start="476" end="495" text="Janet Bond Arterton" />
+<head id="h21" start="470" end="475" text="Judge" />
+<head id="h14" start="461" end="469" text="District" />
+<head id="h22" start="447" end="460" text="United States" />
+<head id="h23" start="499" end="508" text="New Haven" />
+<head id="h24" start="590" end="593" text="his" />
+<head id="h25" start="673" end="677" text="ring" />
+<head id="h26" start="629" end="633" text="area" />
+<head id="h27" start="604" end="615" text="New Britain" />
+<head id="h28" start="620" end="628" text="Hartford" />
+<head id="h29" start="713" end="755" text="Drug Enforcement Administration Task Force" />
+<head id="h30" start="859" end="888" text="New Britain Police Department" />
+<head id="h31" start="920" end="931" text="departments" />
+<head id="h33" start="947" end="958" text="Steve Velez" />
+<head id="h34" start="963" end="974" text="New Britain" />
+<head id="h35" start="1084" end="1089" text="court" />
+<head id="h36" start="1123" end="1128" text="court" />
+<head id="h37" start="1130" end="1135" text="RIVAS" />
+<head id="h38" start="1159" end="1164" text="court" />
+<head id="h39" start="1206" end="1211" text="Velez" />
+<head id="h40" start="1213" end="1218" text="RIVAS" />
+<head id="h41" start="1274" end="1283" text="customers" />
+<head id="h42" start="1266" end="1269" text="his" />
+<head id="h43" start="1347" end="1357" text="defendants" />
+<head id="h44" start="1369" end="1374" text="Velez" />
+<head id="h45" start="1379" end="1384" text="RIVAS" />
+<head id="h46" start="1550" end="1555" text="RIVAS" />
+<head id="h47" start="1665" end="1670" text="Velez" />
+<head id="h48" start="1801" end="1803" text="he" />
+<head id="h49" start="1890" end="1921" text="Drug Enforcement Administration" />
+<head id="h50" start="2021" end="2032" text="Departments" />
+<head id="h52" start="1930" end="1941" text="New Britain" />
+<head id="h53" start="1943" end="1952" text="Newington" />
+<head id="h54" start="1954" end="1961" text="Windsor" />
+<head id="h55" start="1963" end="1975" text="Wethersfield" />
+<head id="h56" start="1977" end="1988" text="Wallingford" />
+<head id="h57" start="1990" end="2000" text="Manchester" />
+<head id="h58" start="2005" end="2013" text="Hartford" />
+<head id="h60" start="2081" end="2111" text="United States Marshals Service" />
+<head id="h61" start="2120" end="2157" text="State of Connecticut Office of Parole" />
+<head id="h1" start="43" end="57" text="Tony Pettigrew" />
+<head id="h59" start="40" end="42" text="SA" />
+<head id="h18" start="333" end="356" text="District of Connecticut" />
+<name id="n0" start="1" end="12" text="NEW ENGLAND" />
+<name id="n2" start="58" end="78" text="New England Division" />
+<name id="n3" start="92" end="100" text="Hartford" />
+<name id="n4" start="171" end="179" text="HARTFORD" />
+<name id="n5" start="181" end="183" text="CT" />
+<name id="n6" start="188" end="202" text="Steven W. Derr" />
+<name id="n7" start="235" end="282" text="Drug Enforcement Administration for New England" />
+<name id="n8" start="287" end="300" text="David B. Fein" />
+<name id="n9" start="302" end="315" text="United States" />
+<name id="n11" start="373" end="383" text="JUAN RIVAS" />
+<name id="n12" start="400" end="404" text="Toto" />
+<name id="n13" start="414" end="422" text="Hartford" />
+<name id="n15" start="476" end="495" text="Janet Bond Arterton" />
+<name id="n10" start="447" end="460" text="United States" />
+<name id="n16" start="499" end="508" text="New Haven" />
+<name id="n17" start="604" end="615" text="New Britain" />
+<name id="n18" start="620" end="628" text="Hartford" />
+<name id="n19" start="713" end="755" text="Drug Enforcement Administration Task Force" />
+<name id="n20" start="859" end="888" text="New Britain Police Department" />
+<name id="n21" start="947" end="958" text="Steve Velez" />
+<name id="n22" start="963" end="974" text="New Britain" />
+<name id="n23" start="1130" end="1135" text="RIVAS" />
+<name id="n24" start="1206" end="1211" text="Velez" />
+<name id="n25" start="1213" end="1218" text="RIVAS" />
+<name id="n26" start="1369" end="1374" text="Velez" />
+<name id="n27" start="1379" end="1384" text="RIVAS" />
+<name id="n28" start="1550" end="1555" text="RIVAS" />
+<name id="n29" start="1665" end="1670" text="Velez" />
+<name id="n30" start="1890" end="1921" text="Drug Enforcement Administration" />
+<name id="n31" start="1930" end="1941" text="New Britain" />
+<name id="n32" start="1943" end="1952" text="Newington" />
+<name id="n33" start="1954" end="1961" text="Windsor" />
+<name id="n34" start="1963" end="1975" text="Wethersfield" />
+<name id="n35" start="1977" end="1988" text="Wallingford" />
+<name id="n36" start="1990" end="2000" text="Manchester" />
+<name id="n37" start="2005" end="2013" text="Hartford" />
+<name id="n39" start="2081" end="2111" text="United States Marshals Service" />
+<name id="n40" start="2120" end="2157" text="State of Connecticut Office of Parole" />
+<name id="n1" start="43" end="57" text="Tony Pettigrew" />
+<name id="n14" start="333" end="356" text="District of Connecticut" />
+<located-mention id="lo0" start="188" end="677" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" TYPE="Other" />
+<located-mention id="lo1" start="188" end="677" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" TYPE="Other" />
+<employment-mention id="e1" start="302" end="356" text="United States Attorney for the District of Connecticut" TYPE="PreMod" />
+<employment-mention id="e4" start="447" end="475" text="United States District Judge" TYPE="PreMod" />
+<CRRE id="C0" start="373" end="422" text="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" TYPE="Preposition" />
+<CRRE id="C1" start="947" end="974" text="Steve Velez, of New Britain" TYPE="Preposition" />
+<M id="M0" start="188" end="677" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" TYPE="Other" />
+<M id="M1" start="204" end="282" text="Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="Preposition" />
+<M id="M2" start="302" end="356" text="United States Attorney for the District of Connecticut" TYPE="Preposition" />
+<M id="M3" start="447" end="475" text="United States District Judge" TYPE="PreMod" />
+<entity_link id="en0" fromID="g2" fromText="HARTFORD, CT" toID="g1" toText="Hartford" />
+<entity_link id="en1" fromID="p3" fromText="Steven W. Derr" toID="p2" toText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" />
+<entity_link id="en2" fromID="p4" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="p3" toText="Steven W. Derr" />
+<entity_link id="en3" fromID="p6" fromText="David B. Fein" toID="p5" toText="David B. Fein, United States Attorney for the District of Connecticut" />
+<entity_link id="en4" fromID="p7" fromText="United States Attorney for the District of Connecticut" toID="p6" toText="David B. Fein" />
+<entity_link id="en5" fromID="p9" fromText="Toto" toID="p8" toText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" />
+<entity_link id="en6" fromID="g5" fromText="Hartford" toID="g2" toText="HARTFORD, CT" />
+<entity_link id="en7" fromID="p8" fromText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" toID="p1" toText="Hartford Man" />
+<entity_link id="en9" fromID="p11" fromText="United States District Judge" toID="p10" toText="United States District Judge Janet Bond Arterton" />
+<entity_link id="en10" fromID="g7" fromText="United States" toID="g4" toText="United States" />
+<entity_link id="en11" fromID="p12" fromText="his" toID="p8" toText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" />
+<entity_link id="en12" fromID="g10" fromText="Hartford" toID="g5" toText="Hartford" />
+<entity_link id="en13" fromID="g11" fromText="New Britain" toID="g9" toText="New Britain" />
+<entity_link id="en14" fromID="o10" fromText="court" toID="o9" toText="court" />
+<entity_link id="en15" fromID="p14" fromText="RIVAS" toID="p8" toText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" />
+<entity_link id="en16" fromID="o11" fromText="court" toID="o10" toText="court" />
+<entity_link id="en17" fromID="p15" fromText="Velez" toID="p13" toText="Steve Velez, of New Britain" />
+<entity_link id="en18" fromID="p16" fromText="RIVAS" toID="p14" toText="RIVAS" />
+<entity_link id="en19" fromID="p18" fromText="his" toID="p16" toText="RIVAS" />
+<entity_link id="en20" fromID="p20" fromText="Velez" toID="p15" toText="Velez" />
+<entity_link id="en21" fromID="p21" fromText="RIVAS" toID="p16" toText="RIVAS" />
+<entity_link id="en22" fromID="p22" fromText="RIVAS" toID="p21" toText="RIVAS" />
+<entity_link id="en23" fromID="p23" fromText="Velez" toID="p20" toText="Velez" />
+<entity_link id="en24" fromID="p24" fromText="he" toID="p23" toText="Velez" />
+<entity_link id="en25" fromID="g12" fromText="New Britain" toID="g11" toText="New Britain" />
+<entity_link id="en26" fromID="g18" fromText="Hartford" toID="g10" toText="Hartford" />
+<entity_link id="en27" fromID="p25" fromText="SA" toID="p0" toText="SA Tony Pettigrew" />
+<head_link id="he0" fromID="g0" fromText="NEW ENGLAND" toID="h0" toText="NEW ENGLAND" />
+<head_link id="he2" fromID="o0" fromText="New England Division" toID="h2" toText="New England Division" />
+<head_link id="he3" fromID="p1" fromText="Hartford Man" toID="h3" toText="Man" />
+<head_link id="he4" fromID="g1" fromText="Hartford" toID="h4" toText="Hartford" />
+<head_link id="he5" fromID="f0" fromText="Federal Prison" toID="h5" toText="Prison" />
+<head_link id="he6" fromID="g2" fromText="HARTFORD, CT" toID="h6" toText="HARTFORD" />
+<head_link id="he7" fromID="g3" fromText="CT" toID="h7" toText="CT" />
+<head_link id="he8" fromID="p2" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" toID="h8" toText="Steven W. Derr" />
+<head_link id="he9" fromID="p4" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="h9" toText="Agent" />
+<head_link id="he10" fromID="o1" fromText="the Drug Enforcement Administration for New England" toID="h10" toText="Drug Enforcement Administration for New England" />
+<head_link id="he11" fromID="p6" fromText="David B. Fein" toID="h11" toText="David B. Fein" />
+<head_link id="he12" fromID="p7" fromText="United States Attorney for the District of Connecticut" toID="h12" toText="Attorney" />
+<head_link id="he13" fromID="g4" fromText="United States" toID="h13" toText="United States" />
+<head_link id="he15" fromID="p8" fromText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" toID="h15" toText="JUAN RIVAS" />
+<head_link id="he16" fromID="p9" fromText="Toto" toID="h16" toText="Toto" />
+<head_link id="he17" fromID="g5" fromText="Hartford" toID="h17" toText="Hartford" />
+<head_link id="he20" fromID="p10" fromText="United States District Judge Janet Bond Arterton" toID="h20" toText="Janet Bond Arterton" />
+<head_link id="he21" fromID="p11" fromText="United States District Judge" toID="h21" toText="Judge" />
+<head_link id="he14" fromID="o3" fromText="District" toID="h14" toText="District" />
+<head_link id="he22" fromID="g7" fromText="United States" toID="h22" toText="United States" />
+<head_link id="he23" fromID="g8" fromText="New Haven" toID="h23" toText="New Haven" />
+<head_link id="he24" fromID="p12" fromText="his" toID="h24" toText="his" />
+<head_link id="he25" fromID="o4" fromText="a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="h25" toText="ring" />
+<head_link id="he26" fromID="l0" fromText="New Britain and Hartford-area" toID="h26" toText="area" />
+<head_link id="he27" fromID="g9" fromText="New Britain" toID="h27" toText="New Britain" />
+<head_link id="he28" fromID="g10" fromText="Hartford" toID="h28" toText="Hartford" />
+<head_link id="he29" fromID="o5" fromText="Drug Enforcement Administration Task Force" toID="h29" toText="Drug Enforcement Administration Task Force" />
+<head_link id="he30" fromID="o6" fromText="the New Britain Police Department" toID="h30" toText="New Britain Police Department" />
+<head_link id="he31" fromID="o7" fromText="several other local police departments" toID="h31" toText="departments" />
+<head_link id="he33" fromID="p13" fromText="Steve Velez, of New Britain" toID="h33" toText="Steve Velez" />
+<head_link id="he34" fromID="g11" fromText="New Britain" toID="h34" toText="New Britain" />
+<head_link id="he35" fromID="o9" fromText="court" toID="h35" toText="court" />
+<head_link id="he36" fromID="o10" fromText="court" toID="h36" toText="court" />
+<head_link id="he37" fromID="p14" fromText="RIVAS" toID="h37" toText="RIVAS" />
+<head_link id="he38" fromID="o11" fromText="court" toID="h38" toText="court" />
+<head_link id="he39" fromID="p15" fromText="Velez" toID="h39" toText="Velez" />
+<head_link id="he40" fromID="p16" fromText="RIVAS" toID="h40" toText="RIVAS" />
+<head_link id="he41" fromID="p17" fromText="his own customers" toID="h41" toText="customers" />
+<head_link id="he42" fromID="p18" fromText="his" toID="h42" toText="his" />
+<head_link id="he43" fromID="p19" fromText="20 defendants, including Velez and RIVAS" toID="h43" toText="defendants" />
+<head_link id="he44" fromID="p20" fromText="Velez" toID="h44" toText="Velez" />
+<head_link id="he45" fromID="p21" fromText="RIVAS" toID="h45" toText="RIVAS" />
+<head_link id="he46" fromID="p22" fromText="RIVAS" toID="h46" toText="RIVAS" />
+<head_link id="he47" fromID="p23" fromText="Velez" toID="h47" toText="Velez" />
+<head_link id="he48" fromID="p24" fromText="he" toID="h48" toText="he" />
+<head_link id="he49" fromID="o12" fromText="the Drug Enforcement Administration" toID="h49" toText="Drug Enforcement Administration" />
+<head_link id="he50" fromID="o13" fromText="the New Britain, Newington, Windsor, Wethersfield, Wallingford, Manchester and Hartford Police Departments" toID="h50" toText="Departments" />
+<head_link id="he52" fromID="g12" fromText="New Britain" toID="h52" toText="New Britain" />
+<head_link id="he53" fromID="g13" fromText="Newington" toID="h53" toText="Newington" />
+<head_link id="he54" fromID="g14" fromText="Windsor" toID="h54" toText="Windsor" />
+<head_link id="he55" fromID="g15" fromText="Wethersfield" toID="h55" toText="Wethersfield" />
+<head_link id="he56" fromID="g16" fromText="Wallingford" toID="h56" toText="Wallingford" />
+<head_link id="he57" fromID="g17" fromText="Manchester" toID="h57" toText="Manchester" />
+<head_link id="he58" fromID="g18" fromText="Hartford" toID="h58" toText="Hartford" />
+<head_link id="he59" fromID="o15" fromText="the United States Marshals Service" toID="h60" toText="United States Marshals Service" />
+<head_link id="he60" fromID="o16" fromText="the State of Connecticut Office of Parole" toID="h61" toText="State of Connecticut Office of Parole" />
+<head_link id="he61" fromID="p0" fromText="SA Tony Pettigrew" toID="h1" toText="Tony Pettigrew" />
+<head_link id="he62" fromID="p25" fromText="SA" toID="h59" toText="SA" />
+<head_link id="he1" fromID="o2" fromText="the District of Connecticut" toID="h18" toText="District of Connecticut" />
+<name_link id="na0" fromID="g0" fromText="NEW ENGLAND" toID="n0" toText="NEW ENGLAND" />
+<name_link id="na2" fromID="o0" fromText="New England Division" toID="n2" toText="New England Division" />
+<name_link id="na3" fromID="g1" fromText="Hartford" toID="n3" toText="Hartford" />
+<name_link id="na4" fromID="g2" fromText="HARTFORD, CT" toID="n4" toText="HARTFORD" />
+<name_link id="na5" fromID="g3" fromText="CT" toID="n5" toText="CT" />
+<name_link id="na6" fromID="p2" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" toID="n6" toText="Steven W. Derr" />
+<name_link id="na7" fromID="o1" fromText="the Drug Enforcement Administration for New England" toID="n7" toText="Drug Enforcement Administration for New England" />
+<name_link id="na8" fromID="p6" fromText="David B. Fein" toID="n8" toText="David B. Fein" />
+<name_link id="na9" fromID="g4" fromText="United States" toID="n9" toText="United States" />
+<name_link id="na11" fromID="p8" fromText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" toID="n11" toText="JUAN RIVAS" />
+<name_link id="na12" fromID="p9" fromText="Toto" toID="n12" toText="Toto" />
+<name_link id="na13" fromID="g5" fromText="Hartford" toID="n13" toText="Hartford" />
+<name_link id="na15" fromID="p10" fromText="United States District Judge Janet Bond Arterton" toID="n15" toText="Janet Bond Arterton" />
+<name_link id="na10" fromID="g7" fromText="United States" toID="n10" toText="United States" />
+<name_link id="na16" fromID="g8" fromText="New Haven" toID="n16" toText="New Haven" />
+<name_link id="na17" fromID="g9" fromText="New Britain" toID="n17" toText="New Britain" />
+<name_link id="na18" fromID="g10" fromText="Hartford" toID="n18" toText="Hartford" />
+<name_link id="na19" fromID="o5" fromText="Drug Enforcement Administration Task Force" toID="n19" toText="Drug Enforcement Administration Task Force" />
+<name_link id="na20" fromID="o6" fromText="the New Britain Police Department" toID="n20" toText="New Britain Police Department" />
+<name_link id="na21" fromID="p13" fromText="Steve Velez, of New Britain" toID="n21" toText="Steve Velez" />
+<name_link id="na22" fromID="g11" fromText="New Britain" toID="n22" toText="New Britain" />
+<name_link id="na23" fromID="p14" fromText="RIVAS" toID="n23" toText="RIVAS" />
+<name_link id="na24" fromID="p15" fromText="Velez" toID="n24" toText="Velez" />
+<name_link id="na25" fromID="p16" fromText="RIVAS" toID="n25" toText="RIVAS" />
+<name_link id="na26" fromID="p20" fromText="Velez" toID="n26" toText="Velez" />
+<name_link id="na27" fromID="p21" fromText="RIVAS" toID="n27" toText="RIVAS" />
+<name_link id="na28" fromID="p22" fromText="RIVAS" toID="n28" toText="RIVAS" />
+<name_link id="na29" fromID="p23" fromText="Velez" toID="n29" toText="Velez" />
+<name_link id="na30" fromID="o12" fromText="the Drug Enforcement Administration" toID="n30" toText="Drug Enforcement Administration" />
+<name_link id="na31" fromID="g12" fromText="New Britain" toID="n31" toText="New Britain" />
+<name_link id="na32" fromID="g13" fromText="Newington" toID="n32" toText="Newington" />
+<name_link id="na33" fromID="g14" fromText="Windsor" toID="n33" toText="Windsor" />
+<name_link id="na34" fromID="g15" fromText="Wethersfield" toID="n34" toText="Wethersfield" />
+<name_link id="na35" fromID="g16" fromText="Wallingford" toID="n35" toText="Wallingford" />
+<name_link id="na36" fromID="g17" fromText="Manchester" toID="n36" toText="Manchester" />
+<name_link id="na37" fromID="g18" fromText="Hartford" toID="n37" toText="Hartford" />
+<name_link id="na38" fromID="o15" fromText="the United States Marshals Service" toID="n39" toText="United States Marshals Service" />
+<name_link id="na39" fromID="o16" fromText="the State of Connecticut Office of Parole" toID="n40" toText="State of Connecticut Office of Parole" />
+<name_link id="na40" fromID="p0" fromText="SA Tony Pettigrew" toID="n1" toText="Tony Pettigrew" />
+<name_link id="na1" fromID="o2" fromText="the District of Connecticut" toID="n14" toText="District of Connecticut" />
+<relation_link1 id="r0" fromID="M1" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="p4" toText="Special Agent in Charge of the Drug Enforcement Administration for New England" />
+<relation_link1 id="r1" fromID="e1" fromText="United States Attorney for the District of Connecticut" toID="p7" toText="United States Attorney for the District of Connecticut" />
+<relation_link1 id="r2" fromID="M2" fromText="United States Attorney for the District of Connecticut" toID="p7" toText="United States Attorney for the District of Connecticut" />
+<relation_link1 id="r3" fromID="C0" fromText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" toID="p8" toText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" />
+<relation_link1 id="r4" fromID="M3" fromText="United States District Judge" toID="p11" toText="United States District Judge" />
+<relation_link1 id="r5" fromID="e4" fromText="United States District Judge" toID="p11" toText="United States District Judge" />
+<relation_link1 id="r6" fromID="lo0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="p8" toText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" />
+<relation_link1 id="r7" fromID="lo1" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="p10" toText="United States District Judge Janet Bond Arterton" />
+<relation_link1 id="r9" fromID="C1" fromText="Steve Velez, of New Britain" toID="p13" toText="Steve Velez, of New Britain" />
+<relation_link1 id="r10" fromID="M0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="p12" toText="his" />
+<relation_link2 id="re0" fromID="M1" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="o1" toText="the Drug Enforcement Administration for New England" />
+<relation_link2 id="re1" fromID="e1" fromText="United States Attorney for the District of Connecticut" toID="g4" toText="United States" />
+<relation_link2 id="re2" fromID="M2" fromText="United States Attorney for the District of Connecticut" toID="o2" toText="the District of Connecticut" />
+<relation_link2 id="re3" fromID="C0" fromText="JUAN RIVAS, also known as 'Toto,' 30, of Hartford" toID="g5" toText="Hartford" />
+<relation_link2 id="re4" fromID="M3" fromText="United States District Judge" toID="o3" toText="District" />
+<relation_link2 id="re5" fromID="e4" fromText="United States District Judge" toID="g7" toText="United States" />
+<relation_link2 id="re6" fromID="lo0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="g8" toText="New Haven" />
+<relation_link2 id="re7" fromID="lo1" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="g8" toText="New Haven" />
+<relation_link2 id="re9" fromID="C1" fromText="Steve Velez, of New Britain" toID="g11" toText="New Britain" />
+<relation_link2 id="re10" fromID="M0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and David B. Fein, United States Attorney for the District of Connecticut, announced that JUAN RIVAS, also known as 'Toto,' 30, of Hartford, was sentenced today by United States District Judge Janet Bond Arterton in New Haven to 21 months of imprisonment, followed by three years of supervised release, for his role in a New Britain and Hartford-area cocaine and crack cocaine distribution ring" toID="o4" toText="a New Britain and Hartford-area cocaine and crack cocaine distribution ring" />
+</TAGS>
+</KddTask>

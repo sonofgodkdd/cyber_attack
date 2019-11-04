@@ -1,0 +1,18 @@
+Hackers Stole 50 Million Facebook Users' Access Tokens Using Zero-Day Flaw
+Swati Khandelwal
+Logged out from your Facebook account automatically? Well you're not alone…
+Facebook just admitted that an unknown hacker or a group of hackers exploited a zero-day vulnerability in its social media platform that allowed them to steal secret access tokens for more than 50 million accounts.
+UPDATE:  10 Important Updates You Need To Know About the Latest Facebook Hacking Incident.
+In a brief blog post published Friday, Facebook revealed that its security team discovered the attack three days ago (on 25 September) and they are still investigating the security incident.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The vulnerability, whose technical details has yet not been disclosed and now patched by Facebook, resided in the "View As" feature—an option that allows users to find out what other Facebook users would see if they visit your profile.
+According to the social media giant, the vulnerability allowed hackers to steal secret access tokens that could then be used to directly access users' private information without requiring their original account password or validating two-factor authentication code.
+Secret access tokens "are the equivalent of digital keys that keep people logged in to Facebook, so they don't need to re-enter their password every time they use the app." 
+To prevent its users' accounts, Facebook has already reset access tokens for nearly 50 million affected Facebook accounts and an additional 40 million accounts, as a precaution.
+"We're taking this incredibly seriously and wanted to let everyone know what's happened and the immediate action we've taken to protect people's security," Facebook said."As a result, around 90 million people will now have to log back in to Facebook, or any of their apps that use Facebook Login. After they have logged back in, people will get a notification at the top of their News Feed explaining what happened."The "View as" feature has also temporarily been disabled, at the time of writing. Facebook has also notified law enforcement officials of the security breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since the investigation is still in the early stages, Facebook has yet to determine whether the attackers misused the stolen access tokens for 50 million accounts or if any information was accessed.
+Facebook is already under heavy fire since the revelation that consultancy firm Cambridge Analytica had misused data of 87 million Facebook users to help Donald Trump win the US presidency in 2016.
+The Cambridge Analytica scandal led to public outcry for lawmakers to hold Facebook accountable for its data-management practices, raising questions about whether Facebook can be trusted to protect the personal data of its 2 billion users.
+And now, the recent revelation has once again underlines the failure of the social-media giant to protect its users’ information while generating billions of dollars in revenue from the same information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,14 @@
+That's A Clever Hack! How anyone could make Money from Google and Microsoft
+Mohit Kumar
+Smart hackers could exploit a loophole that could allow them to steal a significant amount of cash from Google, Microsoft and Instagram using a Premium rate phone number.
+Security researcher Arne Swinnen from Belgium has discovered an ingenious way to steal money from big tech companies like Google, Microsoft, and Instagram using their two-factor authentication (2FA) voice-based token distribution systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Swinnen argues that any attacker with malicious intent could create fake Google, Microsoft or Instagram accounts, as well as premium phone services, and then link them together. 
+The attacker could then request 2FA voice-based tokens for all fake accounts using an automated scripts, placing legitimate phone calls to his service to earn him quite a nice profit.
+Swinnen created accounts on Google, Microsoft Office 365 and Instagram and then tied them to a premium phone number instead of a regular one.
+As a result, whenever one of these three services would call the account's phone number to send the user their account access code, the premium number would register an incoming call and bill the companies.
+"They all offer services to supply users with a token via a computer-voiced phone call, but neglected to properly verify whether supplied phone numbers were legitimate non-premium numbers," Swinnen says in his blog.   (adsbygoogle = window.adsbygoogle || []).push({}); 
+"This allowed a dedicated attacker to steal thousands of EUR/USD/GBP/... Microsoft was exceptionally vulnerable to mass exploitation by supporting virtually unlimited concurrent calls to one premium number."Although the Swinnen reported the loophole to all the three companies, he calculated that he could have stolen €432,000 per year from Google, €669,000 per year from Microsoft and €2,066,000 per year from Instagram.
+You can learn more technical details about the hack in Swinnen's blog post.
+Although no customer data was being put at risk through his hack, Facebook (who owns Instagram) and Microsoft rewarded Swinnen with $2000 and $500 via their bug bounty programs, while Google mentioned his name in the company's Hall of Fame.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

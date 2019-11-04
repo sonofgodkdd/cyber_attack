@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+June 25, 2010
+Contact: Dawn Dearden
+Number: 202-307-7977
+Christopher Michael Coke Arrives in United States to Face Narcotics and Firearms Trafficking Charges in Manhattan Federal Court
+JUN 25  -- (Manhattan, NY) New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride, PREET BHARARA, the United States Attorney for the Southern District of New York and, Special Agent in Charge of DEA's Caribbean Division JAVIER F. PEA, announced that CHRISTOPHER MICHAEL COKE, a/k/a "Michael Christopher Coke," a/k/a "Paul Christopher Scott," a/k/a "Presi," a/k/a "General," a/k/a "President," a/k/a "Duddus," a/k/a "Shortman," arrived last night, June 24, 2010 in the Southern District of New York to face charges of conspiracy to distribute marijuana and cocaine and conspiracy to illegally traffic in firearms. COKE was arrested by Jamaican authorities on June 22, 2010, near Kingston, Jamaica, after a five-week pursuit by local authorities. COKE waived his right to judicial extradition proceedings in Jamaica and subsequently was transferred to the custody of the DEA and U.S. Marshals Service for transport to the United States. COKE is expected to be arraigned in Manhattan federal court today, June 25, 2010.
+According to the Superseding Indictment filed in Manhattan federal court:
+Since the early 1990s, COKE has led an international criminal organization known as the "Shower Posse," with members in Jamaica, the United States, and other countries. At COKE's direction and under his protection, members of his criminal organization sold marijuana and crack cocaine in the New York area and elsewhere, and sent the narcotics proceeds back to COKE and his co-conspirators. COKE and his co-conspirators also armed their organization with illegally trafficked firearms. COKE has been named by the U.S. Department of Justice to the list of Consolidated Priority Organization Targets ("CPOTs"). The CPOT list includes the world's most dangerous narcotics kingpins.
+COKE, 40, is charged with conspiracy to distribute cocaine and marijuana and conspiracy to illegally traffic in firearms. If convicted on the narcotics charge, he faces a maximum sentence of life in prison and a mandatory minimum sentence of 10 years in prison, as well as a fine of up to $4 million or twice the pecuniary gain from the offense. He also faces a maximum sentence of five years in prison on the firearms trafficking charge, and a fine of up to $250,000 or twice the pecuniary gain. This case has been assigned to U.S. District Judge ROBERT P. PATTERSON.
+Mr. BHARARA praised the investigative work of the DEA's New York Field Division and Caribbean Division's Jamaica Country Office. Mr. BHARARA also thanked the U.S. Department of Justice Office of International Affairs for their significant assistance in this case, as well as the U.S. Embassy in Kingston and the Office of the Legal Adviser at the Department of State.
+DEA New York Special Agent-in-Charge JOHN P. GILBRIDE stated: "The arrest of Christopher Michael Coke takes one of the world's most dangerous narcotics kingpins off the streets. The case against Coke, built over the last three years, is a direct result of DEA New York Field Division's collaboration with its law enforcement partners, both domestically and internationally. This partnership is a testament to our unwavering dedication to clean up our communities and track down drug traffickers, wherever they hide. This arrest and extradition to face charges are the next steps in ensuring Coke and his 'Shower Posse' drug organization are brought to justice. I'd also like to commend the United States Attorney's Office for the Southern District of New York, the Jamaican authorities and DEA Caribbean Division's Kingston, Jamaica Country Office for their diligent work on this case."
+U.S. Attorney PREET BHARARA stated: "As charged in the indictment pending against Coke in Manhattan federal court, drugs and guns were the bread and butter of Coke's 'Shower Posse.' We are relieved that Coke's arrest and transfer to New York was not marked by the violence that had gripped the streets of Jamaica for so many days. We look forward to presenting our case to a jury in a Manhattan courtroom and bringing Coke to justice."
+Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH are in charge of the prosecution, which is being handled by the Office's International Narcotics Trafficking Unit.
+The charges contained in the Indictment are merely accusations and the defendant is presumed innocent unless and until proven guilty.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="24" end="36" text="Dawn Dearden" TYPE="NAM" />
+<person id="p1" start="58" end="82" text="Christopher Michael Coke" TYPE="NAM" />
+<person id="p2" start="213" end="314" text="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride" TYPE="NAM" />
+<person id="p3" start="213" end="296" text="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" TYPE="NOMPRE" />
+<person id="p4" start="316" end="395" text="PREET BHARARA, the United States Attorney for the Southern District of New York" TYPE="APP" />
+<person id="p5" start="316" end="329" text="PREET BHARARA" TYPE="NAM" />
+<person id="p6" start="331" end="395" text="the United States Attorney for the Southern District of New York" TYPE="NOM" />
+<person id="p7" start="401" end="466" text="Special Agent in Charge of DEA's Caribbean Division JAVIER F. PEA" TYPE="NAM" />
+<person id="p8" start="401" end="452" text="Special Agent in Charge of DEA's Caribbean Division" TYPE="NOMPRE" />
+<person id="p9" start="483" end="657" text="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" TYPE="NAM" />
+<person id="p10" start="516" end="540" text="Michael Christopher Coke" TYPE="NAM" />
+<person id="p11" start="550" end="572" text="Paul Christopher Scott" TYPE="NAM" />
+<person id="p12" start="582" end="587" text="Presi" TYPE="NAM" />
+<person id="p13" start="597" end="604" text="General" TYPE="NAM" />
+<person id="p14" start="614" end="623" text="President" TYPE="NAM" />
+<person id="p15" start="633" end="639" text="Duddus" TYPE="NAM" />
+<person id="p16" start="649" end="657" text="Shortman" TYPE="NAM" />
+<person id="p17" start="846" end="850" text="COKE" TYPE="NAM" />
+<person id="p18" start="867" end="887" text="Jamaican authorities" TYPE="BAR" />
+<person id="p19" start="959" end="976" text="local authorities" TYPE="BAR" />
+<person id="p20" start="978" end="982" text="COKE" TYPE="NAM" />
+<person id="p21" start="990" end="993" text="his" TYPE="PRO" />
+<person id="p22" start="1168" end="1172" text="COKE" TYPE="NAM" />
+<person id="p23" start="1347" end="1351" text="COKE" TYPE="NAM" />
+<person id="p24" start="1433" end="1491" text="members in Jamaica, the United States, and other countries" TYPE="BAR" />
+<person id="p25" start="1496" end="1500" text="COKE" TYPE="NAM" />
+<person id="p26" start="1523" end="1526" text="his" TYPE="PRO" />
+<person id="p27" start="1539" end="1575" text="members of his criminal organization" TYPE="BAR" />
+<person id="p28" start="1550" end="1553" text="his" TYPE="PRO" />
+<person id="p29" start="1685" end="1689" text="COKE" TYPE="NAM" />
+<person id="p30" start="1694" end="1713" text="his co-conspirators" TYPE="BAR" />
+<person id="p31" start="1694" end="1697" text="his" TYPE="PRO" />
+<person id="p32" start="1715" end="1719" text="COKE" TYPE="NAM" />
+<person id="p33" start="1724" end="1743" text="his co-conspirators" TYPE="BAR" />
+<person id="p34" start="1724" end="1727" text="his" TYPE="PRO" />
+<person id="p35" start="1755" end="1760" text="their" TYPE="PRO" />
+<person id="p36" start="1810" end="1814" text="COKE" TYPE="NAM" />
+<person id="p37" start="1956" end="2001" text="the world's most dangerous narcotics kingpins" TYPE="NOM" />
+<person id="p38" start="2003" end="2011" text="COKE, 40" TYPE="NAM" />
+<person id="p39" start="2163" end="2165" text="he" TYPE="PRO" />
+<person id="p40" start="2349" end="2351" text="He" TYPE="PRO" />
+<person id="p41" start="2531" end="2570" text="U.S. District Judge ROBERT P. PATTERSON" TYPE="NAM" />
+<person id="p42" start="2531" end="2550" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p43" start="2572" end="2583" text="Mr. BHARARA" TYPE="NAM" />
+<person id="p44" start="2572" end="2575" text="Mr." TYPE="NOMPRE" />
+<person id="p45" start="2701" end="2712" text="Mr. BHARARA" TYPE="NAM" />
+<person id="p46" start="2701" end="2704" text="Mr." TYPE="NOMPRE" />
+<person id="p47" start="2940" end="2993" text="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" TYPE="NAM" />
+<person id="p48" start="2940" end="2976" text="DEA New York Special Agent-in-Charge" TYPE="NOMPRE" />
+<person id="p49" start="3017" end="3041" text="Christopher Michael Coke" TYPE="NAM" />
+<person id="p50" start="3048" end="3100" text="one of the world's most dangerous narcotics kingpins" TYPE="PTV" />
+<person id="p51" start="3055" end="3100" text="the world's most dangerous narcotics kingpins" TYPE="NOM" />
+<person id="p52" start="3135" end="3139" text="Coke" TYPE="NAM" />
+<person id="p55" start="3418" end="3434" text="drug traffickers" TYPE="BAR" />
+<person id="p56" start="3445" end="3449" text="they" TYPE="PRO" />
+<person id="p57" start="3531" end="3535" text="Coke" TYPE="NAM" />
+<person id="p58" start="3540" end="3543" text="his" TYPE="PRO" />
+<person id="p59" start="3601" end="3602" text="I" TYPE="PRO" />
+<person id="p60" start="3626" end="3652" text="the United States Attorney" TYPE="NOM" />
+<person id="p61" start="3701" end="3725" text="the Jamaican authorities" TYPE="NOM" />
+<person id="p53" start="3827" end="3854" text="U.S. Attorney PREET BHARARA" TYPE="NAM" />
+<person id="p54" start="3827" end="3840" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p62" start="3909" end="3913" text="Coke" TYPE="NAM" />
+<person id="p63" start="3986" end="3990" text="Coke" TYPE="NAM" />
+<person id="p64" start="4030" end="4034" text="Coke" TYPE="NAM" />
+<person id="p65" start="4200" end="4231" text="a jury in a Manhattan courtroom" TYPE="NOM" />
+<person id="p66" start="4245" end="4249" text="Coke" TYPE="NAM" />
+<person id="p67" start="4263" end="4327" text="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" TYPE="NAM" />
+<person id="p68" start="4263" end="4327" text="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" TYPE="NAM" />
+<person id="p69" start="4263" end="4296" text="Assistant United States Attorneys" TYPE="NOMPRE" />
+<person id="p70" start="4510" end="4523" text="the defendant" TYPE="NOM" />
+<organization id="o0" start="162" end="185" text="Manhattan Federal Court" TYPE="BAR" />
+<organization id="o1" start="251" end="296" text="the U.S. Drug Enforcement Administration (DEA" TYPE="NAM" />
+<organization id="o2" start="293" end="296" text="DEA" TYPE="NAM" />
+<organization id="o3" start="362" end="395" text="the Southern District of New York" TYPE="NAM" />
+<organization id="o4" start="428" end="452" text="DEA's Caribbean Division" TYPE="NAM" />
+<organization id="o5" start="428" end="431" text="DEA" TYPE="NAM" />
+<organization id="o6" start="697" end="730" text="the Southern District of New York" TYPE="NAM" />
+<organization id="o7" start="1098" end="1105" text="the DEA" TYPE="NAM" />
+<organization id="o8" start="1110" end="1131" text="U.S. Marshals Service" TYPE="NAM" />
+<organization id="o9" start="1204" end="1227" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o10" start="1299" end="1322" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o11" start="1360" end="1491" text="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" TYPE="NOM" />
+<organization id="o12" start="1413" end="1425" text="Shower Posse" TYPE="NAM" />
+<organization id="o13" start="1550" end="1575" text="his criminal organization" TYPE="BAR" />
+<organization id="o14" start="1755" end="1773" text="their organization" TYPE="BAR" />
+<organization id="o15" start="1833" end="1863" text="the U.S. Department of Justice" TYPE="NAM" />
+<organization id="o16" start="2536" end="2544" text="District" TYPE="NOMPRE" />
+<organization id="o17" start="2618" end="2651" text="the DEA's New York Field Division" TYPE="NAM" />
+<organization id="o18" start="2618" end="2625" text="the DEA" TYPE="NAM" />
+<organization id="o19" start="2656" end="2699" text="Caribbean Division's Jamaica Country Office" TYPE="NAM" />
+<organization id="o20" start="2656" end="2674" text="Caribbean Division" TYPE="NAM" />
+<organization id="o21" start="2726" end="2788" text="the U.S. Department of Justice Office of International Affairs" TYPE="NAM" />
+<organization id="o22" start="2793" end="2798" text="their" TYPE="PRO" />
+<organization id="o23" start="2847" end="2875" text="the U.S. Embassy in Kingston" TYPE="NAM" />
+<organization id="o24" start="2880" end="2938" text="the Office of the Legal Adviser at the Department of State" TYPE="NAM" />
+<organization id="o25" start="2940" end="2943" text="DEA" TYPE="NAMPRE" />
+<organization id="o26" start="3196" end="3223" text="DEA New York Field Division" TYPE="NAM" />
+<organization id="o28" start="3245" end="3273" text="its law enforcement partners" TYPE="BAR" />
+<organization id="o29" start="3245" end="3248" text="its" TYPE="PRO" />
+<organization id="o30" start="3349" end="3352" text="our" TYPE="PRO" />
+<organization id="o31" start="3540" end="3576" text="his 'Shower Posse' drug organization" TYPE="BAR" />
+<organization id="o32" start="3545" end="3557" text="Shower Posse" TYPE="NAMPRE" />
+<organization id="o33" start="3626" end="3699" text="the United States Attorney's Office for the Southern District of New York" TYPE="NOM" />
+<organization id="o34" start="3666" end="3699" text="the Southern District of New York" TYPE="NAM" />
+<organization id="o27" start="3730" end="3752" text="DEA Caribbean Division" TYPE="NAM" />
+<organization id="o35" start="3765" end="3787" text="Jamaica Country Office" TYPE="NAM" />
+<organization id="o36" start="3792" end="3797" text="their" TYPE="PRO" />
+<organization id="o37" start="3917" end="3940" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o38" start="3986" end="4006" text="Coke's 'Shower Posse" TYPE="NAM" />
+<organization id="o39" start="4009" end="4011" text="We" TYPE="PRO" />
+<organization id="o40" start="4158" end="4160" text="We" TYPE="PRO" />
+<organization id="o41" start="4188" end="4191" text="our" TYPE="PRO" />
+<organization id="o42" start="4388" end="4441" text="the Office's International Narcotics Trafficking Unit" TYPE="NAM" />
+<organization id="o43" start="4388" end="4398" text="the Office" TYPE="NOM" />
+<geographical-political id="g0" start="94" end="107" text="United States" TYPE="NAM" />
+<geographical-political id="g1" start="162" end="171" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g2" start="198" end="211" text="Manhattan, NY" TYPE="NAM" />
+<geographical-political id="g3" start="209" end="211" text="NY" TYPE="NAM" />
+<geographical-political id="g4" start="213" end="221" text="New York" TYPE="NAMPRE" />
+<geographical-political id="g5" start="335" end="348" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g6" start="867" end="875" text="Jamaican" TYPE="NAMPRE" />
+<geographical-political id="g8" start="911" end="928" text="Kingston, Jamaica" TYPE="NAM" />
+<geographical-political id="g9" start="921" end="928" text="Jamaica" TYPE="NAM" />
+<geographical-political id="g10" start="1039" end="1046" text="Jamaica" TYPE="NAM" />
+<geographical-political id="g11" start="1149" end="1166" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="1204" end="1213" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g12" start="1299" end="1308" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g13" start="1444" end="1451" text="Jamaica" TYPE="NAM" />
+<geographical-political id="g14" start="1453" end="1470" text="the United States" TYPE="NAM" />
+<geographical-political id="g15" start="1476" end="1491" text="other countries" TYPE="BAR" />
+<geographical-political id="g16" start="1616" end="1624" text="New York" TYPE="NAMPRE" />
+<geographical-political id="g17" start="2531" end="2535" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g18" start="2867" end="2875" text="Kingston" TYPE="NAM" />
+<geographical-political id="g19" start="2944" end="2952" text="New York" TYPE="NAMPRE" />
+<geographical-political id="g20" start="3387" end="3402" text="our communities" TYPE="NOM" />
+<geographical-political id="g21" start="3387" end="3390" text="our" TYPE="PRO" />
+<geographical-political id="g22" start="3630" end="3643" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g23" start="3705" end="3713" text="Jamaican" TYPE="NAMPRE" />
+<geographical-political id="g24" start="3755" end="3763" text="Kingston" TYPE="NAM" />
+<geographical-political id="g25" start="3827" end="3831" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g26" start="4060" end="4068" text="New York" TYPE="NAM" />
+<geographical-political id="g27" start="4132" end="4139" text="Jamaica" TYPE="NAM" />
+<geographical-political id="g28" start="4212" end="4221" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g29" start="4273" end="4286" text="United States" TYPE="NAMPRE" />
+<location id="l0" start="1612" end="1629" text="the New York area" TYPE="NOM" />
+<location id="l1" start="1956" end="1965" text="the world" TYPE="NOM" />
+<location id="l2" start="3055" end="3064" text="the world" TYPE="NOM" />
+<falicity id="f0" start="2202" end="2208" text="prison" TYPE="BAR" />
+<falicity id="f1" start="2257" end="2263" text="prison" TYPE="BAR" />
+<falicity id="f2" start="2399" end="2405" text="prison" TYPE="BAR" />
+<falicity id="f3" start="3105" end="3116" text="the streets" TYPE="BAR" />
+<falicity id="f4" start="4117" end="4139" text="the streets of Jamaica" TYPE="NOM" />
+<falicity id="f5" start="4210" end="4231" text="a Manhattan courtroom" TYPE="NOM" />
+<head id="h0" start="24" end="36" text="Dawn Dearden" />
+<head id="h1" start="58" end="82" text="Christopher Michael Coke" />
+<head id="h2" start="94" end="107" text="United States" />
+<head id="h3" start="180" end="185" text="Court" />
+<head id="h4" start="162" end="171" text="Manhattan" />
+<head id="h5" start="198" end="207" text="Manhattan" />
+<head id="h6" start="209" end="211" text="NY" />
+<head id="h7" start="298" end="314" text="John P. Gilbride" />
+<head id="h8" start="232" end="237" text="Agent" />
+<head id="h9" start="255" end="291" text="U.S. Drug Enforcement Administration" />
+<head id="h10" start="293" end="296" text="DEA" />
+<head id="h11" start="213" end="221" text="New York" />
+<head id="h12" start="316" end="329" text="PREET BHARARA" />
+<head id="h13" start="349" end="357" text="Attorney" />
+<head id="h14" start="335" end="348" text="United States" />
+<head id="h15" start="366" end="395" text="Southern District of New York" />
+<head id="h16" start="453" end="466" text="JAVIER F. PEA" />
+<head id="h17" start="409" end="414" text="Agent" />
+<head id="h18" start="434" end="452" text="Caribbean Division" />
+<head id="h19" start="428" end="431" text="DEA" />
+<head id="h20" start="483" end="507" text="CHRISTOPHER MICHAEL COKE" />
+<head id="h21" start="516" end="540" text="Michael Christopher Coke" />
+<head id="h22" start="550" end="572" text="Paul Christopher Scott" />
+<head id="h23" start="582" end="587" text="Presi" />
+<head id="h24" start="597" end="604" text="General" />
+<head id="h25" start="614" end="623" text="President" />
+<head id="h26" start="633" end="639" text="Duddus" />
+<head id="h27" start="649" end="657" text="Shortman" />
+<head id="h28" start="701" end="730" text="Southern District of New York" />
+<head id="h29" start="846" end="850" text="COKE" />
+<head id="h30" start="876" end="887" text="authorities" />
+<head id="h31" start="867" end="875" text="Jamaican" />
+<head id="h32" start="911" end="919" text="Kingston" />
+<head id="h33" start="921" end="928" text="Jamaica" />
+<head id="h34" start="965" end="976" text="authorities" />
+<head id="h35" start="978" end="982" text="COKE" />
+<head id="h36" start="990" end="993" text="his" />
+<head id="h37" start="1039" end="1046" text="Jamaica" />
+<head id="h38" start="1102" end="1105" text="DEA" />
+<head id="h39" start="1110" end="1131" text="U.S. Marshals Service" />
+<head id="h40" start="1153" end="1166" text="United States" />
+<head id="h41" start="1168" end="1172" text="COKE" />
+<head id="h42" start="1222" end="1227" text="court" />
+<head id="h43" start="1204" end="1213" text="Manhattan" />
+<head id="h44" start="1317" end="1322" text="court" />
+<head id="h45" start="1299" end="1308" text="Manhattan" />
+<head id="h46" start="1347" end="1351" text="COKE" />
+<head id="h47" start="1386" end="1398" text="organization" />
+<head id="h48" start="1413" end="1425" text="Shower Posse" />
+<head id="h49" start="1433" end="1440" text="members" />
+<head id="h50" start="1444" end="1451" text="Jamaica" />
+<head id="h51" start="1457" end="1470" text="United States" />
+<head id="h52" start="1482" end="1491" text="countries" />
+<head id="h53" start="1496" end="1500" text="COKE" />
+<head id="h54" start="1523" end="1526" text="his" />
+<head id="h55" start="1539" end="1546" text="members" />
+<head id="h56" start="1563" end="1575" text="organization" />
+<head id="h57" start="1550" end="1553" text="his" />
+<head id="h58" start="1625" end="1629" text="area" />
+<head id="h59" start="1616" end="1624" text="New York" />
+<head id="h60" start="1685" end="1689" text="COKE" />
+<head id="h61" start="1698" end="1713" text="co-conspirators" />
+<head id="h62" start="1694" end="1697" text="his" />
+<head id="h63" start="1715" end="1719" text="COKE" />
+<head id="h64" start="1728" end="1743" text="co-conspirators" />
+<head id="h65" start="1724" end="1727" text="his" />
+<head id="h66" start="1761" end="1773" text="organization" />
+<head id="h67" start="1755" end="1760" text="their" />
+<head id="h68" start="1810" end="1814" text="COKE" />
+<head id="h69" start="1837" end="1863" text="U.S. Department of Justice" />
+<head id="h70" start="1993" end="2001" text="kingpins" />
+<head id="h71" start="1960" end="1965" text="world" />
+<head id="h72" start="2003" end="2007" text="COKE" />
+<head id="h73" start="2163" end="2165" text="he" />
+<head id="h74" start="2202" end="2208" text="prison" />
+<head id="h75" start="2257" end="2263" text="prison" />
+<head id="h76" start="2349" end="2351" text="He" />
+<head id="h77" start="2399" end="2405" text="prison" />
+<head id="h78" start="2551" end="2570" text="ROBERT P. PATTERSON" />
+<head id="h79" start="2545" end="2550" text="Judge" />
+<head id="h80" start="2536" end="2544" text="District" />
+<head id="h81" start="2531" end="2535" text="U.S." />
+<head id="h82" start="2576" end="2583" text="BHARARA" />
+<head id="h83" start="2572" end="2575" text="Mr." />
+<head id="h84" start="2628" end="2651" text="New York Field Division" />
+<head id="h85" start="2622" end="2625" text="DEA" />
+<head id="h86" start="2677" end="2699" text="Jamaica Country Office" />
+<head id="h87" start="2656" end="2674" text="Caribbean Division" />
+<head id="h88" start="2705" end="2712" text="BHARARA" />
+<head id="h89" start="2701" end="2704" text="Mr." />
+<head id="h90" start="2730" end="2788" text="U.S. Department of Justice Office of International Affairs" />
+<head id="h91" start="2793" end="2798" text="their" />
+<head id="h92" start="2851" end="2863" text="U.S. Embassy" />
+<head id="h93" start="2867" end="2875" text="Kingston" />
+<head id="h94" start="2884" end="2938" text="Office of the Legal Adviser at the Department of State" />
+<head id="h95" start="2977" end="2993" text="JOHN P. GILBRIDE" />
+<head id="h96" start="2961" end="2966" text="Agent" />
+<head id="h97" start="2944" end="2952" text="New York" />
+<head id="h98" start="2940" end="2943" text="DEA" />
+<head id="h99" start="3017" end="3041" text="Christopher Michael Coke" />
+<head id="h100" start="3048" end="3051" text="one" />
+<head id="h101" start="3092" end="3100" text="kingpins" />
+<head id="h102" start="3059" end="3064" text="world" />
+<head id="h103" start="3109" end="3116" text="streets" />
+<head id="h104" start="3135" end="3139" text="Coke" />
+<head id="h105" start="3196" end="3223" text="DEA New York Field Division" />
+<head id="h106" start="3265" end="3273" text="partners" />
+<head id="h107" start="3245" end="3248" text="its" />
+<head id="h108" start="3349" end="3352" text="our" />
+<head id="h109" start="3391" end="3402" text="communities" />
+<head id="h110" start="3387" end="3390" text="our" />
+<head id="h111" start="3423" end="3434" text="traffickers" />
+<head id="h112" start="3445" end="3449" text="they" />
+<head id="h113" start="3531" end="3535" text="Coke" />
+<head id="h114" start="3564" end="3576" text="organization" />
+<head id="h115" start="3540" end="3543" text="his" />
+<head id="h116" start="3545" end="3557" text="Shower Posse" />
+<head id="h117" start="3601" end="3602" text="I" />
+<head id="h118" start="3655" end="3661" text="Office" />
+<head id="h119" start="3644" end="3652" text="Attorney" />
+<head id="h120" start="3630" end="3643" text="United States" />
+<head id="h121" start="3670" end="3699" text="Southern District of New York" />
+<head id="h122" start="3714" end="3725" text="authorities" />
+<head id="h123" start="3705" end="3713" text="Jamaican" />
+<head id="h124" start="3730" end="3752" text="DEA Caribbean Division" />
+<head id="h125" start="3755" end="3763" text="Kingston" />
+<head id="h126" start="3765" end="3787" text="Jamaica Country Office" />
+<head id="h127" start="3792" end="3797" text="their" />
+<head id="h128" start="3841" end="3854" text="PREET BHARARA" />
+<head id="h129" start="3832" end="3840" text="Attorney" />
+<head id="h130" start="3827" end="3831" text="U.S." />
+<head id="h131" start="3909" end="3913" text="Coke" />
+<head id="h132" start="3935" end="3940" text="court" />
+<head id="h133" start="3994" end="4006" text="Shower Posse" />
+<head id="h134" start="3986" end="3990" text="Coke" />
+<head id="h135" start="4009" end="4011" text="We" />
+<head id="h136" start="4030" end="4034" text="Coke" />
+<head id="h137" start="4060" end="4068" text="New York" />
+<head id="h138" start="4121" end="4128" text="streets" />
+<head id="h139" start="4132" end="4139" text="Jamaica" />
+<head id="h140" start="4158" end="4160" text="We" />
+<head id="h141" start="4188" end="4191" text="our" />
+<head id="h142" start="4202" end="4206" text="jury" />
+<head id="h143" start="4212" end="4221" text="Manhattan" />
+<head id="h144" start="4222" end="4231" text="courtroom" />
+<head id="h145" start="4245" end="4249" text="Coke" />
+<head id="h146" start="4297" end="4313" text="JOCELYN STRAUBER" />
+<head id="h147" start="4318" end="4327" text="JOHN ZACH" />
+<head id="h148" start="4287" end="4296" text="Attorneys" />
+<head id="h149" start="4273" end="4286" text="United States" />
+<head id="h150" start="4401" end="4441" text="International Narcotics Trafficking Unit" />
+<head id="h151" start="4392" end="4398" text="Office" />
+<head id="h152" start="4514" end="4523" text="defendant" />
+<name id="n0" start="24" end="36" text="Dawn Dearden" />
+<name id="n1" start="58" end="82" text="Christopher Michael Coke" />
+<name id="n2" start="94" end="107" text="United States" />
+<name id="n3" start="162" end="171" text="Manhattan" />
+<name id="n4" start="198" end="207" text="Manhattan" />
+<name id="n5" start="209" end="211" text="NY" />
+<name id="n6" start="298" end="314" text="John P. Gilbride" />
+<name id="n7" start="255" end="291" text="U.S. Drug Enforcement Administration" />
+<name id="n8" start="293" end="296" text="DEA" />
+<name id="n9" start="213" end="221" text="New York" />
+<name id="n10" start="316" end="329" text="PREET BHARARA" />
+<name id="n11" start="335" end="348" text="United States" />
+<name id="n12" start="366" end="395" text="Southern District of New York" />
+<name id="n13" start="453" end="466" text="JAVIER F. PEA" />
+<name id="n14" start="434" end="452" text="Caribbean Division" />
+<name id="n15" start="428" end="431" text="DEA" />
+<name id="n16" start="483" end="507" text="CHRISTOPHER MICHAEL COKE" />
+<name id="n17" start="516" end="540" text="Michael Christopher Coke" />
+<name id="n18" start="550" end="572" text="Paul Christopher Scott" />
+<name id="n19" start="582" end="587" text="Presi" />
+<name id="n20" start="597" end="604" text="General" />
+<name id="n21" start="614" end="623" text="President" />
+<name id="n22" start="633" end="639" text="Duddus" />
+<name id="n23" start="649" end="657" text="Shortman" />
+<name id="n24" start="701" end="730" text="Southern District of New York" />
+<name id="n25" start="846" end="850" text="COKE" />
+<name id="n26" start="867" end="875" text="Jamaican" />
+<name id="n27" start="911" end="919" text="Kingston" />
+<name id="n28" start="921" end="928" text="Jamaica" />
+<name id="n29" start="978" end="982" text="COKE" />
+<name id="n30" start="1039" end="1046" text="Jamaica" />
+<name id="n31" start="1102" end="1105" text="DEA" />
+<name id="n32" start="1110" end="1131" text="U.S. Marshals Service" />
+<name id="n33" start="1153" end="1166" text="United States" />
+<name id="n34" start="1168" end="1172" text="COKE" />
+<name id="n35" start="1204" end="1213" text="Manhattan" />
+<name id="n36" start="1299" end="1308" text="Manhattan" />
+<name id="n37" start="1347" end="1351" text="COKE" />
+<name id="n38" start="1413" end="1425" text="Shower Posse" />
+<name id="n39" start="1444" end="1451" text="Jamaica" />
+<name id="n40" start="1457" end="1470" text="United States" />
+<name id="n41" start="1496" end="1500" text="COKE" />
+<name id="n42" start="1616" end="1624" text="New York" />
+<name id="n43" start="1685" end="1689" text="COKE" />
+<name id="n44" start="1715" end="1719" text="COKE" />
+<name id="n45" start="1810" end="1814" text="COKE" />
+<name id="n46" start="1837" end="1863" text="U.S. Department of Justice" />
+<name id="n47" start="2003" end="2007" text="COKE" />
+<name id="n48" start="2551" end="2570" text="ROBERT P. PATTERSON" />
+<name id="n50" start="2531" end="2535" text="U.S." />
+<name id="n51" start="2576" end="2583" text="BHARARA" />
+<name id="n52" start="2628" end="2651" text="New York Field Division" />
+<name id="n53" start="2622" end="2625" text="DEA" />
+<name id="n54" start="2677" end="2699" text="Jamaica Country Office" />
+<name id="n55" start="2656" end="2674" text="Caribbean Division" />
+<name id="n56" start="2705" end="2712" text="BHARARA" />
+<name id="n57" start="2730" end="2788" text="U.S. Department of Justice Office of International Affairs" />
+<name id="n58" start="2851" end="2863" text="U.S. Embassy" />
+<name id="n59" start="2867" end="2875" text="Kingston" />
+<name id="n60" start="2884" end="2938" text="Office of the Legal Adviser at the Department of State" />
+<name id="n61" start="2977" end="2993" text="JOHN P. GILBRIDE" />
+<name id="n62" start="2944" end="2952" text="New York" />
+<name id="n63" start="2940" end="2943" text="DEA" />
+<name id="n64" start="3017" end="3041" text="Christopher Michael Coke" />
+<name id="n65" start="3135" end="3139" text="Coke" />
+<name id="n66" start="3196" end="3223" text="DEA New York Field Division" />
+<name id="n67" start="3531" end="3535" text="Coke" />
+<name id="n68" start="3545" end="3557" text="Shower Posse" />
+<name id="n69" start="3630" end="3643" text="United States" />
+<name id="n70" start="3670" end="3699" text="Southern District of New York" />
+<name id="n71" start="3705" end="3713" text="Jamaican" />
+<name id="n49" start="3730" end="3752" text="DEA Caribbean Division" />
+<name id="n72" start="3755" end="3763" text="Kingston" />
+<name id="n73" start="3765" end="3787" text="Jamaica Country Office" />
+<name id="n74" start="3841" end="3854" text="PREET BHARARA" />
+<name id="n75" start="3827" end="3831" text="U.S." />
+<name id="n76" start="3909" end="3913" text="Coke" />
+<name id="n77" start="3994" end="4006" text="Shower Posse" />
+<name id="n78" start="3986" end="3990" text="Coke" />
+<name id="n79" start="4030" end="4034" text="Coke" />
+<name id="n80" start="4060" end="4068" text="New York" />
+<name id="n81" start="4132" end="4139" text="Jamaica" />
+<name id="n82" start="4212" end="4221" text="Manhattan" />
+<name id="n83" start="4245" end="4249" text="Coke" />
+<name id="n84" start="4297" end="4313" text="JOCELYN STRAUBER" />
+<name id="n85" start="4318" end="4327" text="JOHN ZACH" />
+<name id="n86" start="4273" end="4286" text="United States" />
+<name id="n87" start="4401" end="4441" text="International Narcotics Trafficking Unit" />
+<located-mention id="lo0" start="58" end="185" text="Christopher Michael Coke Arrives in United States to Face Narcotics and Firearms Trafficking Charges in Manhattan Federal Court" TYPE="Verbal" />
+<located-mention id="lo1" start="1433" end="1491" text="members in Jamaica, the United States, and other countries" TYPE="Preposition" />
+<located-mention id="lo2" start="1433" end="1491" text="members in Jamaica, the United States, and other countries" TYPE="Preposition" />
+<located-mention id="lo3" start="1433" end="1491" text="members in Jamaica, the United States, and other countries" TYPE="Preposition" />
+<located-mention id="lo4" start="1493" end="1713" text="At COKE's direction and under his protection, members of his criminal organization sold marijuana and crack cocaine in the New York area and elsewhere, and sent the narcotics proceeds back to COKE and his co-conspirators" TYPE="Other" />
+<located-mention id="lo5" start="213" end="296" text="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" TYPE="PreMod" />
+<located-mention id="lo6" start="2940" end="2976" text="DEA New York Special Agent-in-Charge" TYPE="PreMod" />
+<located-mention id="lo7" start="4009" end="4156" text="We are relieved that Coke's arrest and transfer to New York was not marked by the violence that had gripped the streets of Jamaica for so many days" TYPE="Other" />
+<located-mention id="lo8" start="4200" end="4231" text="a jury in a Manhattan courtroom" TYPE="Preposition" />
+<employment-mention id="e1" start="331" end="395" text="the United States Attorney for the Southern District of New York" TYPE="PreMod" />
+<employment-mention id="e2" start="867" end="887" text="Jamaican authorities" TYPE="PreMod" />
+<employment-mention id="e3" start="2531" end="2550" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e4" start="3626" end="3652" text="the United States Attorney" TYPE="PreMod" />
+<employment-mention id="e5" start="3701" end="3725" text="the Jamaican authorities" TYPE="PreMod" />
+<employment-mention id="e0" start="3827" end="3840" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e6" start="4263" end="4296" text="Assistant United States Attorneys" TYPE="PreMod" />
+<M id="M0" start="213" end="296" text="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" TYPE="Preposition" />
+<M id="M1" start="331" end="395" text="the United States Attorney for the Southern District of New York" TYPE="Preposition" />
+<M id="M2" start="401" end="452" text="Special Agent in Charge of DEA's Caribbean Division" TYPE="Preposition" />
+<M id="M3" start="1360" end="1491" text="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" TYPE="Preposition" />
+<M id="M4" start="1324" end="1491" text="Since the early 1990s, COKE has led an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" TYPE="Verbal" />
+<M id="M5" start="1539" end="1575" text="members of his criminal organization" TYPE="Preposition" />
+<M id="M6" start="1550" end="1575" text="his criminal organization" TYPE="PreMod" />
+<M id="M7" start="1755" end="1773" text="their organization" TYPE="PreMod" />
+<M id="M8" start="2531" end="2550" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M9" start="2940" end="2976" text="DEA New York Special Agent-in-Charge" TYPE="PreMod" />
+<M id="M10" start="3540" end="3576" text="his 'Shower Posse' drug organization" TYPE="PreMod" />
+<M id="M11" start="3986" end="4006" text="Coke's 'Shower Posse" TYPE="Possessive" />
+<entity_link id="en0" fromID="g2" fromText="Manhattan, NY" toID="g1" toText="Manhattan" />
+<entity_link id="en1" fromID="p3" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="p2" toText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride" />
+<entity_link id="en2" fromID="o2" fromText="DEA" toID="o1" toText="the U.S. Drug Enforcement Administration (DEA" />
+<entity_link id="en3" fromID="g4" fromText="New York" toID="g3" toText="NY" />
+<entity_link id="en4" fromID="p5" fromText="PREET BHARARA" toID="p4" toText="PREET BHARARA, the United States Attorney for the Southern District of New York" />
+<entity_link id="en5" fromID="p6" fromText="the United States Attorney for the Southern District of New York" toID="p5" toText="PREET BHARARA" />
+<entity_link id="en6" fromID="g5" fromText="United States" toID="g0" toText="United States" />
+<entity_link id="en7" fromID="p8" fromText="Special Agent in Charge of DEA's Caribbean Division" toID="p7" toText="Special Agent in Charge of DEA's Caribbean Division JAVIER F. PEA" />
+<entity_link id="en8" fromID="o5" fromText="DEA" toID="o1" toText="the U.S. Drug Enforcement Administration (DEA" />
+<entity_link id="en9" fromID="p10" fromText="Michael Christopher Coke" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en10" fromID="p11" fromText="Paul Christopher Scott" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en11" fromID="p12" fromText="Presi" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en12" fromID="p13" fromText="General" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en13" fromID="p14" fromText="President" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en14" fromID="p15" fromText="Duddus" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en15" fromID="p16" fromText="Shortman" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en16" fromID="o6" fromText="the Southern District of New York" toID="o3" toText="the Southern District of New York" />
+<entity_link id="en17" fromID="p17" fromText="COKE" toID="p9" toText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" />
+<entity_link id="en18" fromID="g9" fromText="Jamaica" toID="g6" toText="Jamaican" />
+<entity_link id="en19" fromID="p20" fromText="COKE" toID="p17" toText="COKE" />
+<entity_link id="en20" fromID="p21" fromText="his" toID="p20" toText="COKE" />
+<entity_link id="en21" fromID="g10" fromText="Jamaica" toID="g9" toText="Jamaica" />
+<entity_link id="en22" fromID="o7" fromText="the DEA" toID="o5" toText="DEA" />
+<entity_link id="en23" fromID="g11" fromText="the United States" toID="g5" toText="United States" />
+<entity_link id="en24" fromID="p22" fromText="COKE" toID="p20" toText="COKE" />
+<entity_link id="en25" fromID="o9" fromText="Manhattan federal court" toID="o0" toText="Manhattan Federal Court" />
+<entity_link id="en26" fromID="g7" fromText="Manhattan" toID="g2" toText="Manhattan, NY" />
+<entity_link id="en27" fromID="o10" fromText="Manhattan federal court" toID="o9" toText="Manhattan federal court" />
+<entity_link id="en28" fromID="g12" fromText="Manhattan" toID="g7" toText="Manhattan" />
+<entity_link id="en29" fromID="p23" fromText="COKE" toID="p22" toText="COKE" />
+<entity_link id="en30" fromID="o12" fromText="Shower Posse" toID="o11" toText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" />
+<entity_link id="en31" fromID="g13" fromText="Jamaica" toID="g10" toText="Jamaica" />
+<entity_link id="en32" fromID="g14" fromText="the United States" toID="g11" toText="the United States" />
+<entity_link id="en33" fromID="p25" fromText="COKE" toID="p23" toText="COKE" />
+<entity_link id="en34" fromID="p26" fromText="his" toID="p25" toText="COKE" />
+<entity_link id="en35" fromID="p27" fromText="members of his criminal organization" toID="p24" toText="members in Jamaica, the United States, and other countries" />
+<entity_link id="en36" fromID="o13" fromText="his criminal organization" toID="o11" toText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" />
+<entity_link id="en37" fromID="p28" fromText="his" toID="p25" toText="COKE" />
+<entity_link id="en38" fromID="g16" fromText="New York" toID="g3" toText="NY" />
+<entity_link id="en39" fromID="p29" fromText="COKE" toID="p25" toText="COKE" />
+<entity_link id="en40" fromID="p31" fromText="his" toID="p29" toText="COKE" />
+<entity_link id="en41" fromID="p32" fromText="COKE" toID="p29" toText="COKE" />
+<entity_link id="en42" fromID="p33" fromText="his co-conspirators" toID="p30" toText="his co-conspirators" />
+<entity_link id="en43" fromID="p34" fromText="his" toID="p32" toText="COKE" />
+<entity_link id="en44" fromID="o14" fromText="their organization" toID="o13" toText="his criminal organization" />
+<entity_link id="en45" fromID="p36" fromText="COKE" toID="p32" toText="COKE" />
+<entity_link id="en46" fromID="p38" fromText="COKE, 40" toID="p36" toText="COKE" />
+<entity_link id="en47" fromID="p39" fromText="he" toID="p38" toText="COKE, 40" />
+<entity_link id="en48" fromID="f1" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en49" fromID="p40" fromText="He" toID="p38" toText="COKE, 40" />
+<entity_link id="en50" fromID="f2" fromText="prison" toID="f1" toText="prison" />
+<entity_link id="en51" fromID="p42" fromText="U.S. District Judge" toID="p41" toText="U.S. District Judge ROBERT P. PATTERSON" />
+<entity_link id="en52" fromID="g17" fromText="U.S." toID="g14" toText="the United States" />
+<entity_link id="en53" fromID="p43" fromText="Mr. BHARARA" toID="p5" toText="PREET BHARARA" />
+<entity_link id="en54" fromID="p44" fromText="Mr." toID="p43" toText="Mr. BHARARA" />
+<entity_link id="en55" fromID="o18" fromText="the DEA" toID="o7" toText="the DEA" />
+<entity_link id="en56" fromID="p45" fromText="Mr. BHARARA" toID="p43" toText="Mr. BHARARA" />
+<entity_link id="en57" fromID="p46" fromText="Mr." toID="p45" toText="Mr. BHARARA" />
+<entity_link id="en58" fromID="o22" fromText="their" toID="o21" toText="the U.S. Department of Justice Office of International Affairs" />
+<entity_link id="en59" fromID="g18" fromText="Kingston" toID="g8" toText="Kingston, Jamaica" />
+<entity_link id="en60" fromID="p47" fromText="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" toID="p2" toText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride" />
+<entity_link id="en61" fromID="p48" fromText="DEA New York Special Agent-in-Charge" toID="p47" toText="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" />
+<entity_link id="en62" fromID="g19" fromText="New York" toID="g16" toText="New York" />
+<entity_link id="en63" fromID="o25" fromText="DEA" toID="o18" toText="the DEA" />
+<entity_link id="en64" fromID="p49" fromText="Christopher Michael Coke" toID="p38" toText="COKE, 40" />
+<entity_link id="en65" fromID="p50" fromText="one of the world's most dangerous narcotics kingpins" toID="p49" toText="Christopher Michael Coke" />
+<entity_link id="en66" fromID="p51" fromText="the world's most dangerous narcotics kingpins" toID="p37" toText="the world's most dangerous narcotics kingpins" />
+<entity_link id="en67" fromID="l2" fromText="the world" toID="l1" toText="the world" />
+<entity_link id="en68" fromID="p52" fromText="Coke" toID="p49" toText="Christopher Michael Coke" />
+<entity_link id="en69" fromID="o26" fromText="DEA New York Field Division" toID="o17" toText="the DEA's New York Field Division" />
+<entity_link id="en70" fromID="o29" fromText="its" toID="o26" toText="DEA New York Field Division" />
+<entity_link id="en71" fromID="o30" fromText="our" toID="o26" toText="DEA New York Field Division" />
+<entity_link id="en72" fromID="g20" fromText="our communities" toID="g14" toText="the United States" />
+<entity_link id="en73" fromID="g21" fromText="our" toID="g20" toText="our communities" />
+<entity_link id="en74" fromID="p56" fromText="they" toID="p55" toText="drug traffickers" />
+<entity_link id="en75" fromID="p57" fromText="Coke" toID="p52" toText="Coke" />
+<entity_link id="en76" fromID="o31" fromText="his 'Shower Posse' drug organization" toID="o11" toText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" />
+<entity_link id="en77" fromID="p58" fromText="his" toID="p57" toText="Coke" />
+<entity_link id="en78" fromID="o32" fromText="Shower Posse" toID="o31" toText="his 'Shower Posse' drug organization" />
+<entity_link id="en79" fromID="p59" fromText="I" toID="p47" toText="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" />
+<entity_link id="en80" fromID="g22" fromText="United States" toID="g14" toText="the United States" />
+<entity_link id="en81" fromID="o34" fromText="the Southern District of New York" toID="o6" toText="the Southern District of New York" />
+<entity_link id="en82" fromID="g23" fromText="Jamaican" toID="g13" toText="Jamaica" />
+<entity_link id="en83" fromID="o27" fromText="DEA Caribbean Division" toID="o4" toText="DEA's Caribbean Division" />
+<entity_link id="en84" fromID="g24" fromText="Kingston" toID="g18" toText="Kingston" />
+<entity_link id="en85" fromID="p53" fromText="U.S. Attorney PREET BHARARA" toID="p45" toText="Mr. BHARARA" />
+<entity_link id="en86" fromID="p54" fromText="U.S. Attorney" toID="p53" toText="U.S. Attorney PREET BHARARA" />
+<entity_link id="en87" fromID="g25" fromText="U.S." toID="g22" toText="United States" />
+<entity_link id="en88" fromID="p62" fromText="Coke" toID="p57" toText="Coke" />
+<entity_link id="en89" fromID="o37" fromText="Manhattan federal court" toID="o10" toText="Manhattan federal court" />
+<entity_link id="en90" fromID="o38" fromText="Coke's 'Shower Posse" toID="o32" toText="Shower Posse" />
+<entity_link id="en91" fromID="p63" fromText="Coke" toID="p62" toText="Coke" />
+<entity_link id="en92" fromID="p61" fromText="the Jamaican authorities" toID="p18" toText="Jamaican authorities" />
+<entity_link id="en93" fromID="o39" fromText="We" toID="o3" toText="the Southern District of New York" />
+<entity_link id="en94" fromID="p64" fromText="Coke" toID="p63" toText="Coke" />
+<entity_link id="en95" fromID="g26" fromText="New York" toID="g19" toText="New York" />
+<entity_link id="en96" fromID="g27" fromText="Jamaica" toID="g13" toText="Jamaica" />
+<entity_link id="en97" fromID="o40" fromText="We" toID="o39" toText="We" />
+<entity_link id="en98" fromID="o41" fromText="our" toID="o40" toText="We" />
+<entity_link id="en99" fromID="g28" fromText="Manhattan" toID="g12" toText="Manhattan" />
+<entity_link id="en100" fromID="p66" fromText="Coke" toID="p64" toText="Coke" />
+<entity_link id="en101" fromID="g29" fromText="United States" toID="g22" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Dawn Dearden" toID="h0" toText="Dawn Dearden" />
+<head_link id="he1" fromID="p1" fromText="Christopher Michael Coke" toID="h1" toText="Christopher Michael Coke" />
+<head_link id="he2" fromID="g0" fromText="United States" toID="h2" toText="United States" />
+<head_link id="he3" fromID="o0" fromText="Manhattan Federal Court" toID="h3" toText="Court" />
+<head_link id="he4" fromID="g1" fromText="Manhattan" toID="h4" toText="Manhattan" />
+<head_link id="he5" fromID="g2" fromText="Manhattan, NY" toID="h5" toText="Manhattan" />
+<head_link id="he6" fromID="g3" fromText="NY" toID="h6" toText="NY" />
+<head_link id="he7" fromID="p2" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride" toID="h7" toText="John P. Gilbride" />
+<head_link id="he8" fromID="p3" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="h8" toText="Agent" />
+<head_link id="he9" fromID="o1" fromText="the U.S. Drug Enforcement Administration (DEA" toID="h9" toText="U.S. Drug Enforcement Administration" />
+<head_link id="he10" fromID="o2" fromText="DEA" toID="h10" toText="DEA" />
+<head_link id="he11" fromID="g4" fromText="New York" toID="h11" toText="New York" />
+<head_link id="he12" fromID="p5" fromText="PREET BHARARA" toID="h12" toText="PREET BHARARA" />
+<head_link id="he13" fromID="p6" fromText="the United States Attorney for the Southern District of New York" toID="h13" toText="Attorney" />
+<head_link id="he14" fromID="g5" fromText="United States" toID="h14" toText="United States" />
+<head_link id="he15" fromID="o3" fromText="the Southern District of New York" toID="h15" toText="Southern District of New York" />
+<head_link id="he16" fromID="p7" fromText="Special Agent in Charge of DEA's Caribbean Division JAVIER F. PEA" toID="h16" toText="JAVIER F. PEA" />
+<head_link id="he17" fromID="p8" fromText="Special Agent in Charge of DEA's Caribbean Division" toID="h17" toText="Agent" />
+<head_link id="he18" fromID="o4" fromText="DEA's Caribbean Division" toID="h18" toText="Caribbean Division" />
+<head_link id="he19" fromID="o5" fromText="DEA" toID="h19" toText="DEA" />
+<head_link id="he20" fromID="p9" fromText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" toID="h20" toText="CHRISTOPHER MICHAEL COKE" />
+<head_link id="he21" fromID="p10" fromText="Michael Christopher Coke" toID="h21" toText="Michael Christopher Coke" />
+<head_link id="he22" fromID="p11" fromText="Paul Christopher Scott" toID="h22" toText="Paul Christopher Scott" />
+<head_link id="he23" fromID="p12" fromText="Presi" toID="h23" toText="Presi" />
+<head_link id="he24" fromID="p13" fromText="General" toID="h24" toText="General" />
+<head_link id="he25" fromID="p14" fromText="President" toID="h25" toText="President" />
+<head_link id="he26" fromID="p15" fromText="Duddus" toID="h26" toText="Duddus" />
+<head_link id="he27" fromID="p16" fromText="Shortman" toID="h27" toText="Shortman" />
+<head_link id="he28" fromID="o6" fromText="the Southern District of New York" toID="h28" toText="Southern District of New York" />
+<head_link id="he29" fromID="p17" fromText="COKE" toID="h29" toText="COKE" />
+<head_link id="he30" fromID="p18" fromText="Jamaican authorities" toID="h30" toText="authorities" />
+<head_link id="he31" fromID="g6" fromText="Jamaican" toID="h31" toText="Jamaican" />
+<head_link id="he32" fromID="g8" fromText="Kingston, Jamaica" toID="h32" toText="Kingston" />
+<head_link id="he33" fromID="g9" fromText="Jamaica" toID="h33" toText="Jamaica" />
+<head_link id="he34" fromID="p19" fromText="local authorities" toID="h34" toText="authorities" />
+<head_link id="he35" fromID="p20" fromText="COKE" toID="h35" toText="COKE" />
+<head_link id="he36" fromID="p21" fromText="his" toID="h36" toText="his" />
+<head_link id="he37" fromID="g10" fromText="Jamaica" toID="h37" toText="Jamaica" />
+<head_link id="he38" fromID="o7" fromText="the DEA" toID="h38" toText="DEA" />
+<head_link id="he39" fromID="o8" fromText="U.S. Marshals Service" toID="h39" toText="U.S. Marshals Service" />
+<head_link id="he40" fromID="g11" fromText="the United States" toID="h40" toText="United States" />
+<head_link id="he41" fromID="p22" fromText="COKE" toID="h41" toText="COKE" />
+<head_link id="he42" fromID="o9" fromText="Manhattan federal court" toID="h42" toText="court" />
+<head_link id="he43" fromID="g7" fromText="Manhattan" toID="h43" toText="Manhattan" />
+<head_link id="he44" fromID="o10" fromText="Manhattan federal court" toID="h44" toText="court" />
+<head_link id="he45" fromID="g12" fromText="Manhattan" toID="h45" toText="Manhattan" />
+<head_link id="he46" fromID="p23" fromText="COKE" toID="h46" toText="COKE" />
+<head_link id="he47" fromID="o11" fromText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" toID="h47" toText="organization" />
+<head_link id="he48" fromID="o12" fromText="Shower Posse" toID="h48" toText="Shower Posse" />
+<head_link id="he49" fromID="p24" fromText="members in Jamaica, the United States, and other countries" toID="h49" toText="members" />
+<head_link id="he50" fromID="g13" fromText="Jamaica" toID="h50" toText="Jamaica" />
+<head_link id="he51" fromID="g14" fromText="the United States" toID="h51" toText="United States" />
+<head_link id="he52" fromID="g15" fromText="other countries" toID="h52" toText="countries" />
+<head_link id="he53" fromID="p25" fromText="COKE" toID="h53" toText="COKE" />
+<head_link id="he54" fromID="p26" fromText="his" toID="h54" toText="his" />
+<head_link id="he55" fromID="p27" fromText="members of his criminal organization" toID="h55" toText="members" />
+<head_link id="he56" fromID="o13" fromText="his criminal organization" toID="h56" toText="organization" />
+<head_link id="he57" fromID="p28" fromText="his" toID="h57" toText="his" />
+<head_link id="he58" fromID="l0" fromText="the New York area" toID="h58" toText="area" />
+<head_link id="he59" fromID="g16" fromText="New York" toID="h59" toText="New York" />
+<head_link id="he60" fromID="p29" fromText="COKE" toID="h60" toText="COKE" />
+<head_link id="he61" fromID="p30" fromText="his co-conspirators" toID="h61" toText="co-conspirators" />
+<head_link id="he62" fromID="p31" fromText="his" toID="h62" toText="his" />
+<head_link id="he63" fromID="p32" fromText="COKE" toID="h63" toText="COKE" />
+<head_link id="he64" fromID="p33" fromText="his co-conspirators" toID="h64" toText="co-conspirators" />
+<head_link id="he65" fromID="p34" fromText="his" toID="h65" toText="his" />
+<head_link id="he66" fromID="o14" fromText="their organization" toID="h66" toText="organization" />
+<head_link id="he67" fromID="p35" fromText="their" toID="h67" toText="their" />
+<head_link id="he68" fromID="p36" fromText="COKE" toID="h68" toText="COKE" />
+<head_link id="he69" fromID="o15" fromText="the U.S. Department of Justice" toID="h69" toText="U.S. Department of Justice" />
+<head_link id="he70" fromID="p37" fromText="the world's most dangerous narcotics kingpins" toID="h70" toText="kingpins" />
+<head_link id="he71" fromID="l1" fromText="the world" toID="h71" toText="world" />
+<head_link id="he72" fromID="p38" fromText="COKE, 40" toID="h72" toText="COKE" />
+<head_link id="he73" fromID="p39" fromText="he" toID="h73" toText="he" />
+<head_link id="he74" fromID="f0" fromText="prison" toID="h74" toText="prison" />
+<head_link id="he75" fromID="f1" fromText="prison" toID="h75" toText="prison" />
+<head_link id="he76" fromID="p40" fromText="He" toID="h76" toText="He" />
+<head_link id="he77" fromID="f2" fromText="prison" toID="h77" toText="prison" />
+<head_link id="he78" fromID="p41" fromText="U.S. District Judge ROBERT P. PATTERSON" toID="h78" toText="ROBERT P. PATTERSON" />
+<head_link id="he79" fromID="p42" fromText="U.S. District Judge" toID="h79" toText="Judge" />
+<head_link id="he80" fromID="o16" fromText="District" toID="h80" toText="District" />
+<head_link id="he81" fromID="g17" fromText="U.S." toID="h81" toText="U.S." />
+<head_link id="he82" fromID="p43" fromText="Mr. BHARARA" toID="h82" toText="BHARARA" />
+<head_link id="he83" fromID="p44" fromText="Mr." toID="h83" toText="Mr." />
+<head_link id="he84" fromID="o17" fromText="the DEA's New York Field Division" toID="h84" toText="New York Field Division" />
+<head_link id="he85" fromID="o18" fromText="the DEA" toID="h85" toText="DEA" />
+<head_link id="he86" fromID="o19" fromText="Caribbean Division's Jamaica Country Office" toID="h86" toText="Jamaica Country Office" />
+<head_link id="he87" fromID="o20" fromText="Caribbean Division" toID="h87" toText="Caribbean Division" />
+<head_link id="he88" fromID="p45" fromText="Mr. BHARARA" toID="h88" toText="BHARARA" />
+<head_link id="he89" fromID="p46" fromText="Mr." toID="h89" toText="Mr." />
+<head_link id="he90" fromID="o21" fromText="the U.S. Department of Justice Office of International Affairs" toID="h90" toText="U.S. Department of Justice Office of International Affairs" />
+<head_link id="he91" fromID="o22" fromText="their" toID="h91" toText="their" />
+<head_link id="he92" fromID="o23" fromText="the U.S. Embassy in Kingston" toID="h92" toText="U.S. Embassy" />
+<head_link id="he93" fromID="g18" fromText="Kingston" toID="h93" toText="Kingston" />
+<head_link id="he94" fromID="o24" fromText="the Office of the Legal Adviser at the Department of State" toID="h94" toText="Office of the Legal Adviser at the Department of State" />
+<head_link id="he95" fromID="p47" fromText="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" toID="h95" toText="JOHN P. GILBRIDE" />
+<head_link id="he96" fromID="p48" fromText="DEA New York Special Agent-in-Charge" toID="h96" toText="Agent" />
+<head_link id="he97" fromID="g19" fromText="New York" toID="h97" toText="New York" />
+<head_link id="he98" fromID="o25" fromText="DEA" toID="h98" toText="DEA" />
+<head_link id="he99" fromID="p49" fromText="Christopher Michael Coke" toID="h99" toText="Christopher Michael Coke" />
+<head_link id="he100" fromID="p50" fromText="one of the world's most dangerous narcotics kingpins" toID="h100" toText="one" />
+<head_link id="he101" fromID="p51" fromText="the world's most dangerous narcotics kingpins" toID="h101" toText="kingpins" />
+<head_link id="he102" fromID="l2" fromText="the world" toID="h102" toText="world" />
+<head_link id="he103" fromID="f3" fromText="the streets" toID="h103" toText="streets" />
+<head_link id="he104" fromID="p52" fromText="Coke" toID="h104" toText="Coke" />
+<head_link id="he105" fromID="o26" fromText="DEA New York Field Division" toID="h105" toText="DEA New York Field Division" />
+<head_link id="he106" fromID="o28" fromText="its law enforcement partners" toID="h106" toText="partners" />
+<head_link id="he107" fromID="o29" fromText="its" toID="h107" toText="its" />
+<head_link id="he108" fromID="o30" fromText="our" toID="h108" toText="our" />
+<head_link id="he109" fromID="g20" fromText="our communities" toID="h109" toText="communities" />
+<head_link id="he110" fromID="g21" fromText="our" toID="h110" toText="our" />
+<head_link id="he111" fromID="p55" fromText="drug traffickers" toID="h111" toText="traffickers" />
+<head_link id="he112" fromID="p56" fromText="they" toID="h112" toText="they" />
+<head_link id="he113" fromID="p57" fromText="Coke" toID="h113" toText="Coke" />
+<head_link id="he114" fromID="o31" fromText="his 'Shower Posse' drug organization" toID="h114" toText="organization" />
+<head_link id="he115" fromID="p58" fromText="his" toID="h115" toText="his" />
+<head_link id="he117" fromID="o32" fromText="Shower Posse" toID="h116" toText="Shower Posse" />
+<head_link id="he118" fromID="p59" fromText="I" toID="h117" toText="I" />
+<head_link id="he119" fromID="o33" fromText="the United States Attorney's Office for the Southern District of New York" toID="h118" toText="Office" />
+<head_link id="he120" fromID="p60" fromText="the United States Attorney" toID="h119" toText="Attorney" />
+<head_link id="he121" fromID="g22" fromText="United States" toID="h120" toText="United States" />
+<head_link id="he122" fromID="o34" fromText="the Southern District of New York" toID="h121" toText="Southern District of New York" />
+<head_link id="he123" fromID="p61" fromText="the Jamaican authorities" toID="h122" toText="authorities" />
+<head_link id="he124" fromID="g23" fromText="Jamaican" toID="h123" toText="Jamaican" />
+<head_link id="he116" fromID="o27" fromText="DEA Caribbean Division" toID="h124" toText="DEA Caribbean Division" />
+<head_link id="he125" fromID="g24" fromText="Kingston" toID="h125" toText="Kingston" />
+<head_link id="he126" fromID="o35" fromText="Jamaica Country Office" toID="h126" toText="Jamaica Country Office" />
+<head_link id="he127" fromID="o36" fromText="their" toID="h127" toText="their" />
+<head_link id="he128" fromID="p53" fromText="U.S. Attorney PREET BHARARA" toID="h128" toText="PREET BHARARA" />
+<head_link id="he129" fromID="p54" fromText="U.S. Attorney" toID="h129" toText="Attorney" />
+<head_link id="he130" fromID="g25" fromText="U.S." toID="h130" toText="U.S." />
+<head_link id="he131" fromID="p62" fromText="Coke" toID="h131" toText="Coke" />
+<head_link id="he132" fromID="o37" fromText="Manhattan federal court" toID="h132" toText="court" />
+<head_link id="he133" fromID="o38" fromText="Coke's 'Shower Posse" toID="h133" toText="Shower Posse" />
+<head_link id="he134" fromID="p63" fromText="Coke" toID="h134" toText="Coke" />
+<head_link id="he135" fromID="o39" fromText="We" toID="h135" toText="We" />
+<head_link id="he136" fromID="p64" fromText="Coke" toID="h136" toText="Coke" />
+<head_link id="he137" fromID="g26" fromText="New York" toID="h137" toText="New York" />
+<head_link id="he138" fromID="f4" fromText="the streets of Jamaica" toID="h138" toText="streets" />
+<head_link id="he139" fromID="g27" fromText="Jamaica" toID="h139" toText="Jamaica" />
+<head_link id="he140" fromID="o40" fromText="We" toID="h140" toText="We" />
+<head_link id="he141" fromID="o41" fromText="our" toID="h141" toText="our" />
+<head_link id="he142" fromID="p65" fromText="a jury in a Manhattan courtroom" toID="h142" toText="jury" />
+<head_link id="he143" fromID="g28" fromText="Manhattan" toID="h143" toText="Manhattan" />
+<head_link id="he144" fromID="f5" fromText="a Manhattan courtroom" toID="h144" toText="courtroom" />
+<head_link id="he145" fromID="p66" fromText="Coke" toID="h145" toText="Coke" />
+<head_link id="he146" fromID="p67" fromText="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" toID="h146" toText="JOCELYN STRAUBER" />
+<head_link id="he147" fromID="p68" fromText="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" toID="h147" toText="JOHN ZACH" />
+<head_link id="he148" fromID="p69" fromText="Assistant United States Attorneys" toID="h148" toText="Attorneys" />
+<head_link id="he149" fromID="g29" fromText="United States" toID="h149" toText="United States" />
+<head_link id="he150" fromID="o42" fromText="the Office's International Narcotics Trafficking Unit" toID="h150" toText="International Narcotics Trafficking Unit" />
+<head_link id="he151" fromID="o43" fromText="the Office" toID="h151" toText="Office" />
+<head_link id="he152" fromID="p70" fromText="the defendant" toID="h152" toText="defendant" />
+<name_link id="na0" fromID="p0" fromText="Dawn Dearden" toID="n0" toText="Dawn Dearden" />
+<name_link id="na1" fromID="p1" fromText="Christopher Michael Coke" toID="n1" toText="Christopher Michael Coke" />
+<name_link id="na2" fromID="g0" fromText="United States" toID="n2" toText="United States" />
+<name_link id="na3" fromID="g1" fromText="Manhattan" toID="n3" toText="Manhattan" />
+<name_link id="na4" fromID="g2" fromText="Manhattan, NY" toID="n4" toText="Manhattan" />
+<name_link id="na5" fromID="g3" fromText="NY" toID="n5" toText="NY" />
+<name_link id="na6" fromID="p2" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA) John P. Gilbride" toID="n6" toText="John P. Gilbride" />
+<name_link id="na7" fromID="o1" fromText="the U.S. Drug Enforcement Administration (DEA" toID="n7" toText="U.S. Drug Enforcement Administration" />
+<name_link id="na8" fromID="o2" fromText="DEA" toID="n8" toText="DEA" />
+<name_link id="na9" fromID="g4" fromText="New York" toID="n9" toText="New York" />
+<name_link id="na10" fromID="p5" fromText="PREET BHARARA" toID="n10" toText="PREET BHARARA" />
+<name_link id="na11" fromID="g5" fromText="United States" toID="n11" toText="United States" />
+<name_link id="na12" fromID="o3" fromText="the Southern District of New York" toID="n12" toText="Southern District of New York" />
+<name_link id="na13" fromID="p7" fromText="Special Agent in Charge of DEA's Caribbean Division JAVIER F. PEA" toID="n13" toText="JAVIER F. PEA" />
+<name_link id="na14" fromID="o4" fromText="DEA's Caribbean Division" toID="n14" toText="Caribbean Division" />
+<name_link id="na15" fromID="o5" fromText="DEA" toID="n15" toText="DEA" />
+<name_link id="na16" fromID="p9" fromText="CHRISTOPHER MICHAEL COKE, a/k/a 'Michael Christopher Coke,' a/k/a 'Paul Christopher Scott,' a/k/a 'Presi,' a/k/a 'General,' a/k/a 'President,' a/k/a 'Duddus,' a/k/a 'Shortman" toID="n16" toText="CHRISTOPHER MICHAEL COKE" />
+<name_link id="na17" fromID="p10" fromText="Michael Christopher Coke" toID="n17" toText="Michael Christopher Coke" />
+<name_link id="na18" fromID="p11" fromText="Paul Christopher Scott" toID="n18" toText="Paul Christopher Scott" />
+<name_link id="na19" fromID="p12" fromText="Presi" toID="n19" toText="Presi" />
+<name_link id="na20" fromID="p13" fromText="General" toID="n20" toText="General" />
+<name_link id="na21" fromID="p14" fromText="President" toID="n21" toText="President" />
+<name_link id="na22" fromID="p15" fromText="Duddus" toID="n22" toText="Duddus" />
+<name_link id="na23" fromID="p16" fromText="Shortman" toID="n23" toText="Shortman" />
+<name_link id="na24" fromID="o6" fromText="the Southern District of New York" toID="n24" toText="Southern District of New York" />
+<name_link id="na25" fromID="p17" fromText="COKE" toID="n25" toText="COKE" />
+<name_link id="na26" fromID="g6" fromText="Jamaican" toID="h31" toText="Jamaican" />
+<name_link id="na27" fromID="g8" fromText="Kingston, Jamaica" toID="n27" toText="Kingston" />
+<name_link id="na28" fromID="g9" fromText="Jamaica" toID="n28" toText="Jamaica" />
+<name_link id="na29" fromID="p20" fromText="COKE" toID="n29" toText="COKE" />
+<name_link id="na30" fromID="g10" fromText="Jamaica" toID="n30" toText="Jamaica" />
+<name_link id="na31" fromID="o7" fromText="the DEA" toID="n31" toText="DEA" />
+<name_link id="na32" fromID="o8" fromText="U.S. Marshals Service" toID="n32" toText="U.S. Marshals Service" />
+<name_link id="na33" fromID="g11" fromText="the United States" toID="n33" toText="United States" />
+<name_link id="na34" fromID="p22" fromText="COKE" toID="n34" toText="COKE" />
+<name_link id="na35" fromID="g7" fromText="Manhattan" toID="n35" toText="Manhattan" />
+<name_link id="na36" fromID="g12" fromText="Manhattan" toID="n36" toText="Manhattan" />
+<name_link id="na37" fromID="p23" fromText="COKE" toID="n37" toText="COKE" />
+<name_link id="na38" fromID="o12" fromText="Shower Posse" toID="n38" toText="Shower Posse" />
+<name_link id="na39" fromID="g13" fromText="Jamaica" toID="n39" toText="Jamaica" />
+<name_link id="na40" fromID="g14" fromText="the United States" toID="n40" toText="United States" />
+<name_link id="na41" fromID="p25" fromText="COKE" toID="n41" toText="COKE" />
+<name_link id="na42" fromID="g16" fromText="New York" toID="n42" toText="New York" />
+<name_link id="na43" fromID="p29" fromText="COKE" toID="n43" toText="COKE" />
+<name_link id="na44" fromID="p32" fromText="COKE" toID="n44" toText="COKE" />
+<name_link id="na45" fromID="p36" fromText="COKE" toID="n45" toText="COKE" />
+<name_link id="na46" fromID="o15" fromText="the U.S. Department of Justice" toID="n46" toText="U.S. Department of Justice" />
+<name_link id="na47" fromID="p38" fromText="COKE, 40" toID="n47" toText="COKE" />
+<name_link id="na48" fromID="p41" fromText="U.S. District Judge ROBERT P. PATTERSON" toID="n48" toText="ROBERT P. PATTERSON" />
+<name_link id="na49" fromID="g17" fromText="U.S." toID="n50" toText="U.S." />
+<name_link id="na50" fromID="p43" fromText="Mr. BHARARA" toID="n51" toText="BHARARA" />
+<name_link id="na51" fromID="o17" fromText="the DEA's New York Field Division" toID="n52" toText="New York Field Division" />
+<name_link id="na52" fromID="o18" fromText="the DEA" toID="n53" toText="DEA" />
+<name_link id="na53" fromID="o19" fromText="Caribbean Division's Jamaica Country Office" toID="n54" toText="Jamaica Country Office" />
+<name_link id="na54" fromID="o20" fromText="Caribbean Division" toID="n55" toText="Caribbean Division" />
+<name_link id="na55" fromID="p45" fromText="Mr. BHARARA" toID="n56" toText="BHARARA" />
+<name_link id="na56" fromID="o21" fromText="the U.S. Department of Justice Office of International Affairs" toID="n57" toText="U.S. Department of Justice Office of International Affairs" />
+<name_link id="na57" fromID="o23" fromText="the U.S. Embassy in Kingston" toID="n58" toText="U.S. Embassy" />
+<name_link id="na58" fromID="g18" fromText="Kingston" toID="n59" toText="Kingston" />
+<name_link id="na59" fromID="o24" fromText="the Office of the Legal Adviser at the Department of State" toID="n60" toText="Office of the Legal Adviser at the Department of State" />
+<name_link id="na60" fromID="p47" fromText="DEA New York Special Agent-in-Charge JOHN P. GILBRIDE" toID="n61" toText="JOHN P. GILBRIDE" />
+<name_link id="na61" fromID="g19" fromText="New York" toID="n62" toText="New York" />
+<name_link id="na62" fromID="o25" fromText="DEA" toID="n63" toText="DEA" />
+<name_link id="na63" fromID="p49" fromText="Christopher Michael Coke" toID="n64" toText="Christopher Michael Coke" />
+<name_link id="na64" fromID="p52" fromText="Coke" toID="n65" toText="Coke" />
+<name_link id="na65" fromID="o26" fromText="DEA New York Field Division" toID="n66" toText="DEA New York Field Division" />
+<name_link id="na66" fromID="p57" fromText="Coke" toID="n67" toText="Coke" />
+<name_link id="na67" fromID="o32" fromText="Shower Posse" toID="n68" toText="Shower Posse" />
+<name_link id="na68" fromID="g22" fromText="United States" toID="n69" toText="United States" />
+<name_link id="na69" fromID="o34" fromText="the Southern District of New York" toID="n70" toText="Southern District of New York" />
+<name_link id="na70" fromID="g23" fromText="Jamaican" toID="n71" toText="Jamaican" />
+<name_link id="na71" fromID="o27" fromText="DEA Caribbean Division" toID="n49" toText="DEA Caribbean Division" />
+<name_link id="na72" fromID="g24" fromText="Kingston" toID="n72" toText="Kingston" />
+<name_link id="na73" fromID="o35" fromText="Jamaica Country Office" toID="n73" toText="Jamaica Country Office" />
+<name_link id="na74" fromID="p53" fromText="U.S. Attorney PREET BHARARA" toID="n74" toText="PREET BHARARA" />
+<name_link id="na75" fromID="g25" fromText="U.S." toID="n75" toText="U.S." />
+<name_link id="na76" fromID="p62" fromText="Coke" toID="n76" toText="Coke" />
+<name_link id="na77" fromID="o38" fromText="Coke's 'Shower Posse" toID="n77" toText="Shower Posse" />
+<name_link id="na78" fromID="p63" fromText="Coke" toID="n78" toText="Coke" />
+<name_link id="na79" fromID="p64" fromText="Coke" toID="n79" toText="Coke" />
+<name_link id="na80" fromID="g26" fromText="New York" toID="n80" toText="New York" />
+<name_link id="na81" fromID="g27" fromText="Jamaica" toID="n81" toText="Jamaica" />
+<name_link id="na82" fromID="g28" fromText="Manhattan" toID="n82" toText="Manhattan" />
+<name_link id="na83" fromID="p66" fromText="Coke" toID="n83" toText="Coke" />
+<name_link id="na84" fromID="p67" fromText="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" toID="n84" toText="JOCELYN STRAUBER" />
+<name_link id="na85" fromID="p68" fromText="Assistant United States Attorneys JOCELYN STRAUBER and JOHN ZACH" toID="n85" toText="JOHN ZACH" />
+<name_link id="na86" fromID="g29" fromText="United States" toID="n86" toText="United States" />
+<name_link id="na87" fromID="o42" fromText="the Office's International Narcotics Trafficking Unit" toID="n87" toText="International Narcotics Trafficking Unit" />
+<relation_link1 id="r0" fromID="M0" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="p3" toText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" />
+<relation_link1 id="r1" fromID="lo0" fromText="Christopher Michael Coke Arrives in United States to Face Narcotics and Firearms Trafficking Charges in Manhattan Federal Court" toID="p1" toText="Christopher Michael Coke" />
+<relation_link1 id="r3" fromID="e1" fromText="the United States Attorney for the Southern District of New York" toID="p6" toText="the United States Attorney for the Southern District of New York" />
+<relation_link1 id="r4" fromID="M1" fromText="the United States Attorney for the Southern District of New York" toID="p6" toText="the United States Attorney for the Southern District of New York" />
+<relation_link1 id="r5" fromID="M2" fromText="Special Agent in Charge of DEA's Caribbean Division" toID="p8" toText="Special Agent in Charge of DEA's Caribbean Division" />
+<relation_link1 id="r6" fromID="e2" fromText="Jamaican authorities" toID="p18" toText="Jamaican authorities" />
+<relation_link1 id="r7" fromID="lo1" fromText="members in Jamaica, the United States, and other countries" toID="p24" toText="members in Jamaica, the United States, and other countries" />
+<relation_link1 id="r8" fromID="lo2" fromText="members in Jamaica, the United States, and other countries" toID="p24" toText="members in Jamaica, the United States, and other countries" />
+<relation_link1 id="r9" fromID="lo3" fromText="members in Jamaica, the United States, and other countries" toID="p24" toText="members in Jamaica, the United States, and other countries" />
+<relation_link1 id="r10" fromID="M3" fromText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" toID="p24" toText="members in Jamaica, the United States, and other countries" />
+<relation_link1 id="r11" fromID="M4" fromText="Since the early 1990s, COKE has led an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" toID="p23" toText="COKE" />
+<relation_link1 id="r12" fromID="M5" fromText="members of his criminal organization" toID="p27" toText="members of his criminal organization" />
+<relation_link1 id="r13" fromID="M6" fromText="his criminal organization" toID="p28" toText="his" />
+<relation_link1 id="r14" fromID="lo4" fromText="At COKE's direction and under his protection, members of his criminal organization sold marijuana and crack cocaine in the New York area and elsewhere, and sent the narcotics proceeds back to COKE and his co-conspirators" toID="p27" toText="members of his criminal organization" />
+<relation_link1 id="r15" fromID="M7" fromText="their organization" toID="p35" toText="their" />
+<relation_link1 id="r16" fromID="e3" fromText="U.S. District Judge" toID="p42" toText="U.S. District Judge" />
+<relation_link1 id="r17" fromID="M8" fromText="U.S. District Judge" toID="p42" toText="U.S. District Judge" />
+<relation_link1 id="r18" fromID="M9" fromText="DEA New York Special Agent-in-Charge" toID="p48" toText="DEA New York Special Agent-in-Charge" />
+<relation_link1 id="r19" fromID="lo5" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="p3" toText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" />
+<relation_link1 id="r20" fromID="lo6" fromText="DEA New York Special Agent-in-Charge" toID="p48" toText="DEA New York Special Agent-in-Charge" />
+<relation_link1 id="r21" fromID="M10" fromText="his 'Shower Posse' drug organization" toID="p58" toText="his" />
+<relation_link1 id="r22" fromID="e4" fromText="the United States Attorney" toID="p60" toText="the United States Attorney" />
+<relation_link1 id="r23" fromID="e5" fromText="the Jamaican authorities" toID="p61" toText="the Jamaican authorities" />
+<relation_link1 id="r2" fromID="e0" fromText="U.S. Attorney" toID="p54" toText="U.S. Attorney" />
+<relation_link1 id="r24" fromID="M11" fromText="Coke's 'Shower Posse" toID="p63" toText="Coke" />
+<relation_link1 id="r25" fromID="lo7" fromText="We are relieved that Coke's arrest and transfer to New York was not marked by the violence that had gripped the streets of Jamaica for so many days" toID="p64" toText="Coke" />
+<relation_link1 id="r26" fromID="lo8" fromText="a jury in a Manhattan courtroom" toID="p65" toText="a jury in a Manhattan courtroom" />
+<relation_link1 id="r27" fromID="e6" fromText="Assistant United States Attorneys" toID="p69" toText="Assistant United States Attorneys" />
+<relation_link2 id="re0" fromID="M0" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="o1" toText="the U.S. Drug Enforcement Administration (DEA" />
+<relation_link2 id="re1" fromID="lo0" fromText="Christopher Michael Coke Arrives in United States to Face Narcotics and Firearms Trafficking Charges in Manhattan Federal Court" toID="g0" toText="United States" />
+<relation_link2 id="re3" fromID="e1" fromText="the United States Attorney for the Southern District of New York" toID="g5" toText="United States" />
+<relation_link2 id="re4" fromID="M1" fromText="the United States Attorney for the Southern District of New York" toID="o3" toText="the Southern District of New York" />
+<relation_link2 id="re5" fromID="M2" fromText="Special Agent in Charge of DEA's Caribbean Division" toID="o4" toText="DEA's Caribbean Division" />
+<relation_link2 id="re6" fromID="e2" fromText="Jamaican authorities" toID="g6" toText="Jamaican" />
+<relation_link2 id="re7" fromID="lo1" fromText="members in Jamaica, the United States, and other countries" toID="g13" toText="Jamaica" />
+<relation_link2 id="re8" fromID="lo2" fromText="members in Jamaica, the United States, and other countries" toID="g14" toText="the United States" />
+<relation_link2 id="re9" fromID="lo3" fromText="members in Jamaica, the United States, and other countries" toID="g15" toText="other countries" />
+<relation_link2 id="re10" fromID="M3" fromText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" toID="o11" toText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" />
+<relation_link2 id="re11" fromID="M4" fromText="Since the early 1990s, COKE has led an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" toID="o11" toText="an international criminal organization known as the 'Shower Posse,' with members in Jamaica, the United States, and other countries" />
+<relation_link2 id="re12" fromID="M5" fromText="members of his criminal organization" toID="o13" toText="his criminal organization" />
+<relation_link2 id="re13" fromID="M6" fromText="his criminal organization" toID="o13" toText="his criminal organization" />
+<relation_link2 id="re14" fromID="lo4" fromText="At COKE's direction and under his protection, members of his criminal organization sold marijuana and crack cocaine in the New York area and elsewhere, and sent the narcotics proceeds back to COKE and his co-conspirators" toID="l0" toText="the New York area" />
+<relation_link2 id="re15" fromID="M7" fromText="their organization" toID="o14" toText="their organization" />
+<relation_link2 id="re16" fromID="e3" fromText="U.S. District Judge" toID="g17" toText="U.S." />
+<relation_link2 id="re17" fromID="M8" fromText="U.S. District Judge" toID="o16" toText="District" />
+<relation_link2 id="re18" fromID="M9" fromText="DEA New York Special Agent-in-Charge" toID="o25" toText="DEA" />
+<relation_link2 id="re19" fromID="lo5" fromText="New York , Special Agent in Charge of the U.S. Drug Enforcement Administration (DEA" toID="g4" toText="New York" />
+<relation_link2 id="re20" fromID="lo6" fromText="DEA New York Special Agent-in-Charge" toID="g19" toText="New York" />
+<relation_link2 id="re21" fromID="M10" fromText="his 'Shower Posse' drug organization" toID="o31" toText="his 'Shower Posse' drug organization" />
+<relation_link2 id="re22" fromID="e4" fromText="the United States Attorney" toID="g22" toText="United States" />
+<relation_link2 id="re23" fromID="e5" fromText="the Jamaican authorities" toID="g23" toText="Jamaican" />
+<relation_link2 id="re2" fromID="e0" fromText="U.S. Attorney" toID="g25" toText="U.S." />
+<relation_link2 id="re24" fromID="M11" fromText="Coke's 'Shower Posse" toID="o38" toText="Coke's 'Shower Posse" />
+<relation_link2 id="re25" fromID="lo7" fromText="We are relieved that Coke's arrest and transfer to New York was not marked by the violence that had gripped the streets of Jamaica for so many days" toID="g26" toText="New York" />
+<relation_link2 id="re26" fromID="lo8" fromText="a jury in a Manhattan courtroom" toID="f5" toText="a Manhattan courtroom" />
+<relation_link2 id="re27" fromID="e6" fromText="Assistant United States Attorneys" toID="g29" toText="United States" />
+</TAGS>
+</KddTask>

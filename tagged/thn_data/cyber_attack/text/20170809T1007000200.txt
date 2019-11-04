@@ -1,0 +1,28 @@
+Companies Could Face $22 Million Fine If They Fail to Protect Against Hackers
+Swati Khandelwal
+
+Over the past few years, massive data breaches have become more frequent and so common that pretty much every week we heard about some organisation being hacked or hacker dumping tens of millions of users records.
+But even after this wide range of data breach incidents, many organisations fail to grasp the importance of data protection, leaving its users' sensitive data vulnerable to hackers and cyber criminals.
+Not now! At least for organisations in Britain, as the UK government has committed to updating and strengthening its data protection laws through a new Data Protection Bill.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The British government has warned businesses that if they fail to take measures to protect themselves adequately from cyber attacks, they could face fines of up to £17 Million (more than $22 Million), or 4% of their global turnover—whichever amount is higher.
+However, the financial penalties would be a last resort, and will not be applied to those organisations taking proper security measures and assessing the risks adequately, but unfortunately become a victim of cyber attack.
+The penalties would be issued by the data protection regulator, the Information Commissioner's Office (ICO).
+"Our measures are designed to support businesses in their use of data and give consumers the confidence that their data is protected and those who misuse it will be held to account," Digital Minister Matt Hancock said in a government press release.
+Hancock said this newly-proposed Data Protection Bill would:
+Make it easier and simpler to withdraw consent for the use of personal data
+Allow people to ask for their personal information held by organisations to be erased
+Enable parents to give consent for their child's data to be used
+Require "explicit" consent to be necessary for processing user's sensitive data
+Expand the definition of "personal data" to include IP addresses, DNA and internet cookies
+Strengthen and update Data Protection Law to reflect the changing nature and scope of the country's digital economy
+Make it easier and free for users to require companies to disclose the personal data they hold on them
+Make it easier for users to move data between service providers
+The proposal is being considered as part of a government consultation launched on Tuesday by the Department for Digital, Culture, Media and Sport for deciding how to implement the Network and Information Systems (NIS) Directive from next May.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This is separate from the General Data Protection Regulations (GDPR) that are aimed at protecting data rather than services.
+The GDPR will replace the British Data Protection Act 1998 from 25 May 2018 and the government have confirmed that Brexit will not change this.
+This new proposal is mainly focused on ensuring critical infrastructures, like transport, health, energy, and water are protected from cyber attacks that could result in major disruption to services, as was seen in Ukraine last year.
+The proposal will also cover other cyber threats affecting IT infrastructures such as power failures, hardware failures and environmental hazards.
+The move comes after the British NHS ( National Health Service) became the highest-profile victim of the recent WannaCry ransomware attack, which resulted in the shutdown of hospitals and operations, patient records being made unavailable and ambulances being diverted.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

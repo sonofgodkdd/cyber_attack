@@ -1,0 +1,19 @@
+AntiVirus Firm BitDefender Hacked; Turns Out Stored Passwords Are UnEncrypted
+Mohit Kumar
+
+Forget about Financial services and Online shopping websites, but at least we expect from Security Firms and Antivirus vendors to keep our personal and Sensitive data Encrypted and Secured.
+One of the most popular and much-respected Antivirus and computer security firms 'BitDefender' has recently been hacked and has had a portion of its customer data leaked.
+The Data Breach in BitDefender is incredibly embarrassing for the security firm, not because the company failed to prevent its customers data from hackers, but because the Security company failed to encrypt its customers’ most sensitive data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, this is something really not expected from a reputed Security Firm.
+It appears that the hacker, who uses the online alias DetoxRansome, was able to break into a Bitdefender server that hosted the cloud-based management dashboards for its small and medium-sized business clients, and pilfer usernames and passwords belonged to them.
+They Forget to Encrypt Customers' Passwords
+The most worrisome part of the BitDefender Hack – the login details were in pure unencrypted format.
+The Romanian security company admitted its system was breached and said that the attack on its system didn’t penetrate the server, but a security hole "potentially enabled exposure of a few user accounts and passwords", which could be the SQL injection vulnerability.
+Hacker Demands Ransom Money....
+The hackers made off with a "very limited" number of credentials of its customer, following rumours that they are threatening to release the leaked data publicly unless the ransom of $15,000 is paid by BitDefender.
+Over the weekend, the hacker online exposed a list of usernames and passwords for more than 250 BitDefender accounts, as noted by HackerFilm.
+However, the security firm has refused the demand to pay ransom to the hacker and is currently working with law enforcement to investigate the issue.
+"The issue was immediately resolved, and additional security measures have been put in place to prevent its reoccurrence," the company’s spokesperson said in a statement. "Our investigation revealed no other server or services were impacted."
+While it is quite a good news that the BitDefender data breach is limited in scope, affecting less than one percent of its customers. However, it’s really disappointing that an anti-virus company dedicated to our computer security was failed to implement necessary security measures to protect its customers data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

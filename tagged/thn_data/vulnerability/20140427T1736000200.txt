@@ -1,0 +1,25 @@
+New Zero-Day Vulnerability CVE-2014-1776 Affects all Versions of Internet Explorer Browser
+Mohit Kumar
+
+Microsoft confirmed a new Zero Day critical vulnerability in its browser Internet Explorer. Flaw affects all versions of Internet Explorer, starting with IE version 6 and including IE version 11.
+In a Security Advisory (2963983) released yesterday, Microsoft acknowledges a zero-day Internet Explorer vulnerability (CVE-2014-1776) is being used in targeted attacks by APT groups, but the currently active attack campaigns are targeting IE9, IE10 and IE11.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+INTERNET EXPLORER 0-DAY VULNERABILITY (CVE-2014-1776)
+According to Advisory, Internet Explorer is vulnerable to Remote Code Execution, which resides 'in the way that Internet Explorer accesses an object in memory that has been deleted or has not been properly allocated.' Microsoft said.
+Microsoft Investigation team is currently working with FireEye Security experts, and dubbed the ongoing targeted campaign as "Operation Clandestine Fox".
+In a blogpost, FireEye explained that an attacker could trigger the zero-day IE exploit through a malicious webpage that the targeted user has to access with one of the affected Internet Explorer browser.  Successful exploitation of this vulnerability allows an attacker to execute arbitrary code within the browser in order to gain the same user rights as the current user.
+CULPRIT: ADOBE FLASH PLUGIN
+But, Internet Explorer zero-day exploit depends upon the loading of a Flash SWF file that calls for a Javascript in vulnerable version Internet Explorer to trigger the flaw, and which also allows the exploit to bypass Windows’ ASLR and DEP protections on the target system by exploiting the Adobe Flash plugin. 
+According to the advisory, there is currently no security patch available for this vulnerability. "Collectively, in 2013, the vulnerable versions of IE accounted for 26.25% of the browser market." FireEye said.
+MITIGATION - HOW TO PROTECT YOUR COMPUTER FROM ZERO-DAY IE EXPLOIT?
+Microsoft is working on a security patch for Internet Explorer vulnerability, could be available from the Next Patch Tuesday update (13th May, 2014). However, you can still migrate the zero-day threat by following below given methods:
+Install Enhanced Mitigation Experience Toolkit (EMET 4.1), a free utility that helps prevent vulnerabilities in software from being successfully exploited.
+You can protect against exploitation by changing your settings for the Internet security zone to block ActiveX controls and Active Scripting.
+Tools > Internet Options > Security > Internet > Custom Level > Under Scripting Settings > Disable Active Scripting
+Under Local intranet's Custom Level Settings > Disable Active Scripting
+If you are using Internet Explorer 10 or the higher version, enable Enhanced Protected Mode to prevent your browser from Zero-Day Attack.
+IE Exploit will not work without Adobe Flash. So Users are advised to disable the Adobe Flash plugin within IE.
+De-Register VGX.dll (VML parser) file, which is responsible for rendering of VML (Vector Markup Language) code in web pages, in order to prevent exploitation. Run following command:
+regsvr32 -u "%CommonProgramFiles%\Microsoft Shared\VGX\vgx.dll"
+Stay Safe!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

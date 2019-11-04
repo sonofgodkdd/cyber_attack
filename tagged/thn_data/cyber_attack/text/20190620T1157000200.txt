@@ -1,0 +1,15 @@
+Tor Browser 8.5.2 Released — Update to Fix Critical Firefox Vulnerability
+Mohit Kumar
+
+Important Update (21 June 2019) ➤ The Tor Project on Friday released second update (Tor Browser 8.5.3) for its privacy web-browser that patches the another Firefox zero-day vulnerability patched this week.
+Following the latest critical update for Firefox, the Tor Project today released an updated version of its anonymity and privacy browser to patch the same Firefox vulnerability in its bundle.
+Earlier this week, Mozilla released Firefox 67.0.3 and Firefox ESR 60.7.1 versions to patch a critical actively-exploited vulnerability (CVE-2019-11707) that could allow attackers to remotely take full control over systems running the vulnerable browser versions.
+Besides updating Firefox, the latest Tor Browser 8.5.2 for desktops also includes updated NoScript version 10.6.3 that fixes a few known issues.
+According to the Tor Project Team, if you are already using Tor browser with "safer" and "safest" security levels, the flaw doesn't affect you.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For some reason, the team hasn't yet released an updated Tor version for Android users, which should be available anytime soon in the next few days. However, Android users have been advised to switch on "safer" or "safest" security levels in order to mitigate the issue until a patched app becomes available.
+"The security level on Android can be changed by going in the menu on the right of the URL bar and selecting Security Settings," Nicolas Vigier, the Lead Automation Engineer at Tor Project said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Google security researcher who discovered this flaw also revealed that it could be abused to launch universal cross-site scripting (UXSS) attacks as well, allowing malicious websites to bypass same-origin policy on the victim's web browser and steal sensitive information.
+Since Tor is primarily being used by privacy-conscious users who can't afford to get compromised at any cost, it's highly recommended for them to install the latest version of the anonymity software immediately.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

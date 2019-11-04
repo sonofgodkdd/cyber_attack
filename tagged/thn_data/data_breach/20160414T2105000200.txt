@@ -1,0 +1,18 @@
+Microsoft Sues US Govt Over Unconstitutional Secret Data Requests
+Mohit Kumar
+
+Microsoft is suing the Department of Justice (DoJ) to protest the gag order that prevents technology companies from telling their customers when their cloud data is handed over to authorities.
+In layman's terms, the Electronic Communications Privacy Act (ECPA) allows the government to issue gag orders saying that the people or companies involved in a legal case cannot talk about the case or anything related to it in public.
+So, the government is continuously forcing tech companies to hand over their customers’ emails or personal records stored in the cloud servers without their clients' knowledge.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Microsoft has filed a lawsuit [PDF] against the DoJ, arguing that it is "unconstitutional" and violates constitutional protection of free speech to force the tech companies for not informing their customers when their stored data has been shared with authorities.
+“We believe these actions violate two of the fundamental rights that have been part of this country since its founding. These lengthy and even permanent secrecy orders violate the Fourth Amendment, which gives people and businesses the right to know if the government searches or seizes their property.” Brad Smith, Chief counsel at Microsoft, said in a blog post.
+“They also violate the First Amendment, which guarantees our right to talk to customers about how government action is affecting their data.”
+According to Microsoft, the company has received nearly 2,600 gag orders in the past 18 months. Though the issue is not with the concept of government searches, but with the indefinite period of those orders. 
+Actually, the gag orders come with a definite time after which the company can reveal their customers if any police or FBI agent has checked or inspected their emails or files stored in the cloud. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But Microsoft said about 70 percent of all gag orders received by the company had no fixed end date, which means the company can never tell its users, even after the completion of the investigation.
+“While today’s lawsuit is important, we believe there’s an opportunity for the Department of Justice to adopt a new policy that sets reasonable limitations on the use of these types of secrecy orders,” Brad said.
+The gag orders are meant to protect nation investigations, but the US government is misusing it to carry out unconstitutional secret data searches without ever telling people.
+Just like Apple, it is important for Microsoft to fight and win this battle for protecting users’ privacy, as well as their reputation.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

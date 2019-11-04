@@ -1,0 +1,28 @@
+DHS Orders U.S. Federal Agencies to Audit DNS Security for Their Domains
+Swati Khandelwal
+
+The U.S. Department of Homeland Security (DHS) has today issued an "emergency directive" to all federal agencies ordering IT staff to audit DNS records for their respective website domains, or other agency-managed domains, within next 10 business days.
+The emergency security alert came in the wake of a series of recent incidents involving DNS hijacking, which security researchers with "moderate confidence" believe originated from Iran.
+Domain Name System (DNS) is a key function of the Internet that works as an Internet's directory where your device looks up for the server IP addresses after you enter a human-readable web address (e.g., thehackernews.com).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What is DNS Hijacking Attack?
+DNS hijacking involves changing DNS settings of a domain, redirecting victims to an entirely different attacker-controlled server with a fake version of the websites they are trying to visit, often with an objective to steal users' data.
+"The attacker alters DNS records, like Address (A), Mail Exchanger (MX), or Name Server (NS) records, replacing the legitimate address of a service with an address the attacker controls," the DHS advisory reads.
+The threat actors have been able to do so by capturing credentials for admin accounts that can make changes to DNS records. Since the attackers obtain valid certificates for the hijacked domain names, having HTTPS enabled will not protect users.
+"Because the attacker can set DNS record values, they can also obtain valid encryption certificates for an organization's domain names. This allows the redirected traffic to be decrypted, exposing any user-submitted data," the directive reads.
+Recent DNS Hijacking Attacks Against Government Websites
+Earlier this month, security researchers from Mandiant FireEye reported a series of DNS hijacking incidents against dozens of domains belonging to the government, internet infrastructure, and telecommunications entities across the Middle East and North Africa, Europe and North America.
+The DHS advisory also states that the "CISA is aware of multiple executive branch agency domains that were impacted by the tampering campaign and has notified the agencies that maintain them."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the end of last year, researchers at Cisco Talos also published a report of a sophisticated malware attack that compromised domain registrar accounts for several Lebanon and the United Arab Emirates (UAE) government and public sector websites.
+DHS Orders Federal Agencies to Audit DNS Security for Their Domains
+The DHS orders federal agencies to:
+audit public DNS records and secondary DNS servers for unauthorized edits,
+update their passwords for all accounts on systems that can be used to tamper DNS records,
+enable multi-factor authentication to prevent any unauthorized change to their domains, and
+monitor certificate transparency logs.
+For those unaware, Certificate Transparency (CT) is a public service that allows individuals and companies to monitor how many digital certificates have been issued by any certificate authority secretly for their domains.
+The Cyber Hygiene service of the DHS's Cybersecurity and Infrastructure Security Agency (CISA) will also begin a regular delivery of newly added certificates to CT log for US federal agency domains.
+Once the CISA starts distributing these logs, government agencies are required to immediately begin monitoring their CT log data for issued certificates that they did not request. If any agency found any unauthorized certificate, it must be reported to the issuing certificate authority and the CISA.
+Agencies, except the Department of Defense, the Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence, have 10 days to implement the directives.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

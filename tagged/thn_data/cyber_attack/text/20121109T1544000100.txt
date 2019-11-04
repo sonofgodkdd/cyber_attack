@@ -1,0 +1,13 @@
+Stuxnet virus also infected Chevron's IT network
+Mohit Kumar
+
+Stuxnet, a sophisticated computer virus created by the United States and Israel, to spy on and attack Iran’s nuclear enrichment facilities in Natanz also infected Chevron ’s network in 2010, immediately after it spread into the wild. This Government created virus Now Infecting Corporations also.
+Chevron oil giant found the virus in its systems after the malware's existence was first reported in a blog post in July 2010, according to Mark Koelmel, general manager of the earth-sciences department at the big U.S. oil company. The U.S. government has never officially acknowledged the Stuxnet program.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Stuxnet which was designed to attack computer systems designed by German industrial giant Siemens for managing water supplies, oil rigs, power plants and other critical infrastructure has turned up in other countries.
+According to the Wall Street Journal, Chevron's experience with Stuxnet appears to be the result of the malware's unintentional release into cyberspace, much like an experimental virus escaping from a medical lab.
+"Two years ago, our security systems identified the Stuxnet virus. We immediately addressed the issue without incident," a Chevron representative said.
+Even though Stuxnet targeted industrial facilities, it also infected regular PCs and as a result was discovered in June 2010, about a year after the earliest known version was believed to be created.
+On other hand, U.S. officials have blamed Iran for creating the Shamoon virus, which was responsible for a cyber attack that infected more than 30,000 computers at Saudi Arabian oil company Saudi Aramco and Qatar's natural gas firm Rasgas in mid-August.
+"I think the downside of what they did is going to be far worse than what they actually accomplished,"  Chevron .
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

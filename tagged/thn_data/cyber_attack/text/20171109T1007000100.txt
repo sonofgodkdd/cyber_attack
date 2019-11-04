@@ -1,0 +1,32 @@
+Russian 'Fancy Bear' Hackers Using (Unpatched) Microsoft Office DDE Exploit
+Swati Khandelwal
+
+Cybercriminals, including state-sponsored hackers, have started actively exploiting a newly discovered Microsoft Office vulnerability that Microsoft does not consider as a security issue and has already denied to patch it.
+Last month, we reported how hackers could leverage a built-in feature of Microsoft Office feature, called Dynamic Data Exchange (DDE), to perform code execution on the targeted device without requiring Macros enabled or memory corruption.
+DDE protocol is one of the several methods that Microsoft uses to allow two running applications to share the same data.
+The protocol is being used by thousands of apps, including MS Excel, MS Word, Quattro Pro, and Visual Basic for one-time data transfers and for continuous exchanges for sending updates to one another.
+Soon after the details of DDE attack went public, several reports emerged about various widespread attack campaigns abusing this technique in the wild to target several organisations with malware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, for the first time, this DDE attack technique has been found leveraging by an Advanced Persistent Threat (APT) hacking group—APT28, which is well known as Fancy Bear and is widely believed to be backed by the Russian government.
+Russian Hackers Using New York Terror Attack to Lure Victims
+While analyzing a new spear phishing campaign, security researchers discovered that the Fancy Bear hackers have been leveraging the DDE vulnerability since late October, according to a recent report published Tuesday by McAfee researchers.
+The campaign involved documents referencing the recent terrorist attack in New York City in an attempt to trick victims into clicking on the malicious documents, which eventually infects their systems with malware.
+Since DDE is a Microsoft's legitimate feature, most antivirus solutions don't flag any warning or block the documents with DDE fields.
+Therefore, anyone who clicks on the malicious attachment (with names like SabreGuard2017.docx or IsisAttackInNewYork.docx) inadvertently runs malicious code on his/her computer without any restriction or detection.
+Once opened, the document runs contacts a command-and-control server to install the first stage of the malware called Seduploader on victims' machines using PowerShell commands.
+Seduploader then profiles prospective victims by pulling basic host information from the infected system to the hackers. If the system is of interest, the attackers later install a more fully featured piece of spyware—X-Agent and Sedreco.
+"APT28 is a resourceful threat actor that not only capitalizes on recent events to trick potential victims into infections but can also rapidly incorporate new exploitation techniques to increase its success," Mcafee researchers concluded. 
+"Given the publicity the Cy Con U.S campaign received in the press, it is possible APT28 actors moved away from using the VBA script employed in past actions and chose to incorporate the DDE technique to bypass network defenses."
+This is not first malware campaign that has been spotted abusing the DDE attack technique.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Soon after the details of DDE attack technique went public, Cisco's Talos threat research group uncovered an attack campaign that was actively exploiting this attack technique to target several organisations with a fileless remote access trojan called DNSMessenger.
+Late last month, researchers discovered a campaign that spread Locky ransomware and TrickBot banking trojan via Word documents that leveraged the DDE technique.
+Another separate malware spam campaign discovered by security researchers also found distributing Hancitor malware (also known as Chanitor and Tordal) using Microsoft Office DDE exploit.
+Protection Against DDE Malware Attacks
+Since Microsoft does not provide any protection against such attacks, you can easily prevent yourself from falling victim to any malicious document abusing the Microsoft's DDE feature by disabling it entirely.
+If you use Microsoft Word 2016 or Microsoft Excel 2016, go to Options → Advanced, and then remove the checkmark from "Update automatic links at open" which is listed under the general group on the page.
+In MS Excel, you can also consider checking "Ignore other applications that use Dynamic Data Exchange (DDE)."
+Moreover, Disable DDEAuto is a Registry file maintained on GitHub that disables the "update links" as well as "embedded files" functionality in MS Office documents when run.
+You can detect Office documents abusing the DDE feature via a set of YARA rules in Office Open XML files published by the researchers at NVISO Labs.
+However, the best way to protect yourself from such malware attacks is always to be suspicious of uninvited documents sent via emails and never click on links inside those documents unless adequately verifying the source.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

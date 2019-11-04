@@ -1,0 +1,14 @@
+Airbus Suffers Data Breach, Some Employees' Data Exposed
+Mohit Kumar
+
+European airplane maker Airbus admitted yesterday a data breach of its "Commercial Aircraft business" information systems that allowed intruders to gain access to some of its employees' personal information.
+Though the company did not elaborate on the nature of the hack, it claimed that the security breach did not affect its commercial operations. So, there's no impact on aircraft production.
+Airbus confirmed that the attackers unauthorized accessed some data earlier this month, which the plane manufacturer claimed was "mostly professional contact and IT identification details of some Airbus employees in Europe."
+"Investigations are ongoing to understand if any specific data was targeted; however we do know some personal data was accessed," Airbus said in its press release published on Wednesday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After detecting the security breach, the plan manufacturer started an investigation to determine the origin of the hack and to understand the full scope of the data breach and if any specific data was targeted.
+The company has begun taking "immediate and appropriate actions to reinforce existing security measures," which were not enough to keep the hackers out of their systems, "and to mitigate its potential impact" so that it can prevent similar incidents from happening in the future.
+The company has also instructed its employees to "take all necessary precautions going forward," to strengthen their security defenses.
+Airbus also said it was in contact with the relevant regulatory authorities and the data protection authorities pursuant to the European Union's new GDPR (General Data Protection Regulation) rules.
+Airbus is the world's second-largest manufacturers of commercial airplanes, after Boeing which was also hit by a cyber attack (a variant of the infamous WannaCry ransomware) in March last year that "affected a small number of systems" with no impact on production.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

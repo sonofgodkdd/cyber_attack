@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+October 30, 2008
+ICE arrests 6 U.S. servicemen for stealing sensitive military equipment
+Defendants attempted to sell stolen goods on eBay
+HONOLULU - Six United States Marines appeared in federal court yesterday to face charges stemming from a scheme to steal sensitive military equipment from the Marine Corps Base Hawaii, Kaneohe Bay to sell on the open market for personal profit.
+The six active duty Marines - all United States citizens -- were arrested Tuesday by U.S. Immigration and Customs Enforcement (ICE) agents, following the execution of search warrants at two of the defendants' residences. Charged with conspiracy to smuggle goods out of the United States are: Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu.
+The investigation began in July when ICE agents received information that Lance Corporal Carper was selling PVS-14 Generation 3 night vision devices on the eBay Internet auction website, possibly overseas, in violation of International Traffic in Arms Regulations (ITAR). The highly sophisticated Generation 3 scopes, which are used by all branches of the military, allow soldiers to see at long distances in low light conditions.
+In September, ICE agents purchased the PVS-14s from Carper through e-Bay, and discovered that additional scopes were being sold on e-Bay by Mathers. When contacted by ICE agents, Mathers agreed to sell the agents 8 PVS-14s for $20,000. Agents estimate the value of the Generation 3 scopes at more than $3,000 each.
+The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service assisted with the investigation and in Tuesday's searches, where agents seized eight PVS Generation 3 night vision devices allegedly stolen from the Navy, as well as seven earlier models of the device. The searches were conducted at Carver's residence in Honolulu, and at Mathers' apartment in Waipahu.
+"Stealing, selling, and exporting sensitive military technology are serious violations of federal law," said Wayne Wills, special agent in charge of the ICE Office of Investigations in Honolulu. "ICE continues to work closely with its law enforcement partners to investigate this type of activity to ensure that our nation's security is not jeopardized by sensitive technology falling into the wrong hands."
+United States Attorney Edward Kubo said "I am shocked that members of our American Armed Forces would even consider of selling such sensitive military equipment to others outside our country. If they were successful, this hi-tech equipment might be used by our enemies against fellow U.S. Marines, or any other American military service member defending our country abroad. These are serious allegations which demand swift, immediate and a strong reaction from the Justice Department, and there also needs to be a strong review of inventory accountability for such sensitive equipment by our military."
+This case is being prosecuted by the United States Attorney's Office for the District of Hawaii. If convicted, the defendants face a statutory maximum penalty of 10 years imprisonment, in addition to being subject to discipline from the military.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="30" end="47" text="6 U.S. servicemen" TYPE="NOM" />
+<person id="p1" start="90" end="100" text="Defendants" TYPE="BAR" />
+<person id="p2" start="151" end="176" text="Six United States Marines" TYPE="NOM" />
+<person id="p3" start="385" end="441" text="The six active duty Marines - all United States citizens" TYPE="NOM" />
+<person id="p4" start="415" end="418" text="all" TYPE="HLS" />
+<person id="p5" start="419" end="441" text="United States citizens" TYPE="BAR" />
+<person id="p6" start="470" end="523" text="U.S. Immigration and Customs Enforcement (ICE) agents" TYPE="BAR" />
+<person id="p7" start="571" end="592" text="two of the defendants" TYPE="PTV" />
+<person id="p8" start="578" end="592" text="the defendants" TYPE="NOM" />
+<person id="p9" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p10" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p11" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p12" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p13" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p14" start="677" end="826" text="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" TYPE="NAM" />
+<person id="p15" start="792" end="826" text="all residing on the island of Oahu" TYPE="HLS" />
+<person id="p16" start="865" end="875" text="ICE agents" TYPE="BAR" />
+<person id="p17" start="902" end="923" text="Lance Corporal Carper" TYPE="NAM" />
+<person id="p18" start="1200" end="1208" text="soldiers" TYPE="BAR" />
+<person id="p19" start="1273" end="1283" text="ICE agents" TYPE="BAR" />
+<person id="p20" start="1311" end="1317" text="Carper" TYPE="NAM" />
+<person id="p21" start="1399" end="1406" text="Mathers" TYPE="NAM" />
+<person id="p22" start="1426" end="1436" text="ICE agents" TYPE="BAR" />
+<person id="p23" start="1438" end="1445" text="Mathers" TYPE="NAM" />
+<person id="p24" start="1461" end="1471" text="the agents" TYPE="BAR" />
+<person id="p25" start="1495" end="1501" text="Agents" TYPE="BAR" />
+<person id="p26" start="1745" end="1751" text="agents" TYPE="BAR" />
+<person id="p27" start="1913" end="1919" text="Carver" TYPE="NAM" />
+<person id="p28" start="1952" end="1959" text="Mathers" TYPE="NAM" />
+<person id="p29" start="2092" end="2176" text="Wayne Wills, special agent in charge of the ICE Office of Investigations in Honolulu" TYPE="APP" />
+<person id="p30" start="2092" end="2103" text="Wayne Wills" TYPE="NAM" />
+<person id="p31" start="2105" end="2176" text="special agent in charge of the ICE Office of Investigations in Honolulu" TYPE="BAR" />
+<person id="p32" start="2391" end="2425" text="United States Attorney Edward Kubo" TYPE="NAM" />
+<person id="p33" start="2391" end="2413" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p34" start="2432" end="2433" text="I" TYPE="PRO" />
+<person id="p35" start="2450" end="2486" text="members of our American Armed Forces" TYPE="BAR" />
+<person id="p36" start="2555" end="2581" text="others outside our country" TYPE="HLS" />
+<person id="p37" start="2586" end="2590" text="they" TYPE="PRO" />
+<person id="p38" start="2648" end="2659" text="our enemies" TYPE="NOM" />
+<person id="p39" start="2668" end="2687" text="fellow U.S. Marines" TYPE="BAR" />
+<person id="p40" start="2668" end="2674" text="fellow" TYPE="NOMPRE" />
+<person id="p41" start="2692" end="2763" text="any other American military service member defending our country abroad" TYPE="NOM" />
+<person id="p42" start="3027" end="3053" text="the United States Attorney" TYPE="NOM" />
+<person id="p43" start="3105" end="3119" text="the defendants" TYPE="NOM" />
+<organization id="o0" start="18" end="21" text="ICE" TYPE="NAM" />
+<organization id="o1" start="71" end="79" text="military" TYPE="NOMPRE" />
+<organization id="o2" start="189" end="202" text="federal court" TYPE="BAR" />
+<organization id="o3" start="271" end="279" text="military" TYPE="NOMPRE" />
+<organization id="o4" start="470" end="515" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAMPRE" />
+<organization id="o5" start="512" end="515" text="ICE" TYPE="NAM" />
+<organization id="o6" start="865" end="868" text="ICE" TYPE="NAMPRE" />
+<organization id="o7" start="1180" end="1192" text="the military" TYPE="NOM" />
+<organization id="o8" start="1164" end="1192" text="all branches of the military" TYPE="NOM" />
+<organization id="o9" start="1273" end="1276" text="ICE" TYPE="NAMPRE" />
+<organization id="o10" start="1426" end="1429" text="ICE" TYPE="NAMPRE" />
+<organization id="o11" start="1574" end="1679" text="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" TYPE="NAM" />
+<organization id="o12" start="1574" end="1679" text="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" TYPE="NAM" />
+<organization id="o13" start="1574" end="1679" text="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" TYPE="NAM" />
+<organization id="o14" start="1825" end="1833" text="the Navy" TYPE="NOM" />
+<organization id="o15" start="2027" end="2035" text="military" TYPE="NOMPRE" />
+<organization id="o16" start="2132" end="2176" text="the ICE Office of Investigations in Honolulu" TYPE="NAM" />
+<organization id="o17" start="2179" end="2182" text="ICE" TYPE="NAM" />
+<organization id="o18" start="2214" end="2242" text="its law enforcement partners" TYPE="NOM" />
+<organization id="o19" start="2214" end="2217" text="its" TYPE="PRO" />
+<organization id="o20" start="2461" end="2486" text="our American Armed Forces" TYPE="NOM" />
+<organization id="o21" start="2533" end="2541" text="military" TYPE="NOMPRE" />
+<organization id="o22" start="2711" end="2719" text="military" TYPE="NOMPRE" />
+<organization id="o23" start="1326" end="1331" text="e-Bay" TYPE="NAM" />
+<organization id="o24" start="1390" end="1395" text="e-Bay" TYPE="NAM" />
+<organization id="o25" start="2711" end="2727" text="military service" TYPE="NOMPRE" />
+<organization id="o26" start="2852" end="2874" text="the Justice Department" TYPE="NAM" />
+<organization id="o27" start="2979" end="2991" text="our military" TYPE="NOM" />
+<organization id="o28" start="3027" end="3089" text="the United States Attorney's Office for the District of Hawaii" TYPE="NOM" />
+<organization id="o29" start="3067" end="3089" text="the District of Hawaii" TYPE="NAM" />
+<organization id="o30" start="984" end="988" text="eBay" TYPE="NAM" />
+<organization id="o31" start="135" end="139" text="eBay" TYPE="NAM" />
+<organization id="o32" start="3227" end="3239" text="the military" TYPE="NOM" />
+<geographical-political id="g0" start="32" end="36" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g1" start="140" end="148" text="HONOLULU" TYPE="NAM" />
+<geographical-political id="g2" start="155" end="168" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g3" start="419" end="432" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="654" end="671" text="the United States" TYPE="NAM" />
+<geographical-political id="g5" start="1935" end="1943" text="Honolulu" TYPE="NAM" />
+<geographical-political id="g6" start="1974" end="1981" text="Waipahu" TYPE="NAM" />
+<geographical-political id="g7" start="2168" end="2176" text="Honolulu" TYPE="NAM" />
+<geographical-political id="g8" start="2295" end="2305" text="our nation" TYPE="NOM" />
+<geographical-political id="g9" start="2295" end="2298" text="our" TYPE="PRO" />
+<geographical-political id="g10" start="2391" end="2404" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g11" start="2465" end="2473" text="American" TYPE="NAMPRE" />
+<geographical-political id="g12" start="2461" end="2464" text="our" TYPE="PRO" />
+<geographical-political id="g13" start="2570" end="2581" text="our country" TYPE="NOM" />
+<geographical-political id="g14" start="2570" end="2573" text="our" TYPE="PRO" />
+<geographical-political id="g15" start="2648" end="2651" text="our" TYPE="PRO" />
+<geographical-political id="g16" start="2675" end="2679" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g17" start="2702" end="2710" text="American" TYPE="NAMPRE" />
+<geographical-political id="g18" start="2745" end="2756" text="our country" TYPE="NOM" />
+<geographical-political id="g19" start="2745" end="2748" text="our" TYPE="PRO" />
+<geographical-political id="g20" start="2979" end="2982" text="our" TYPE="PRO" />
+<geographical-political id="g21" start="3031" end="3044" text="United States" TYPE="NAMPRE" />
+<location id="l0" start="325" end="336" text="Kaneohe Bay" TYPE="NAM" />
+<location id="l1" start="808" end="826" text="the island of Oahu" TYPE="NOM" />
+<location id="l2" start="822" end="826" text="Oahu" TYPE="NAM" />
+<falicity id="f0" start="295" end="336" text="the Marine Corps Base Hawaii, Kaneohe Bay" TYPE="NAM" />
+<falicity id="f1" start="571" end="604" text="two of the defendants' residences" TYPE="NOM" />
+<falicity id="f2" start="1913" end="1943" text="Carver's residence in Honolulu" TYPE="NOM" />
+<falicity id="f3" start="1952" end="1981" text="Mathers' apartment in Waipahu" TYPE="NOM" />
+<head id="h0" start="18" end="21" text="ICE" />
+<head id="h1" start="37" end="47" text="servicemen" />
+<head id="h2" start="32" end="36" text="U.S." />
+<head id="h3" start="71" end="79" text="military" />
+<head id="h4" start="90" end="100" text="Defendants" />
+<head id="h5" start="140" end="148" text="HONOLULU" />
+<head id="h6" start="169" end="176" text="Marines" />
+<head id="h7" start="155" end="168" text="United States" />
+<head id="h8" start="197" end="202" text="court" />
+<head id="h9" start="271" end="279" text="military" />
+<head id="h10" start="299" end="323" text="Marine Corps Base Hawaii" />
+<head id="h11" start="325" end="336" text="Kaneohe Bay" />
+<head id="h12" start="405" end="412" text="Marines" />
+<head id="h13" start="415" end="418" text="all" />
+<head id="h14" start="433" end="441" text="citizens" />
+<head id="h15" start="419" end="432" text="United States" />
+<head id="h16" start="517" end="523" text="agents" />
+<head id="h17" start="470" end="510" text="U.S. Immigration and Customs Enforcement" />
+<head id="h18" start="512" end="515" text="ICE" />
+<head id="h19" start="594" end="604" text="residences" />
+<head id="h20" start="571" end="574" text="two" />
+<head id="h21" start="582" end="592" text="defendants" />
+<head id="h22" start="658" end="671" text="United States" />
+<head id="h23" start="677" end="689" text="Ryan Mathers" />
+<head id="h24" start="695" end="709" text="Charles Carper" />
+<head id="h25" start="715" end="727" text="Ronald Abram" />
+<head id="h26" start="733" end="744" text="Mark Vaught" />
+<head id="h27" start="750" end="765" text="Brendon Schultz" />
+<head id="h28" start="775" end="786" text="Jason Flegm" />
+<head id="h29" start="792" end="795" text="all" />
+<head id="h30" start="812" end="818" text="island" />
+<head id="h31" start="822" end="826" text="Oahu" />
+<head id="h32" start="869" end="875" text="agents" />
+<head id="h33" start="865" end="868" text="ICE" />
+<head id="h34" start="902" end="923" text="Lance Corporal Carper" />
+<head id="h35" start="1184" end="1192" text="military" />
+<head id="h36" start="1200" end="1208" text="soldiers" />
+<head id="h37" start="1168" end="1176" text="branches" />
+<head id="h38" start="1277" end="1283" text="agents" />
+<head id="h39" start="1273" end="1276" text="ICE" />
+<head id="h40" start="1311" end="1317" text="Carper" />
+<head id="h41" start="1399" end="1406" text="Mathers" />
+<head id="h42" start="1430" end="1436" text="agents" />
+<head id="h43" start="1426" end="1429" text="ICE" />
+<head id="h44" start="1438" end="1445" text="Mathers" />
+<head id="h45" start="1465" end="1471" text="agents" />
+<head id="h46" start="1495" end="1501" text="Agents" />
+<head id="h47" start="1578" end="1607" text="Defense Investigative Service" />
+<head id="h48" start="1609" end="1644" text="Navy Criminal Investigative Service" />
+<head id="h49" start="1649" end="1679" text="United States Marshals Service" />
+<head id="h50" start="1745" end="1751" text="agents" />
+<head id="h51" start="1829" end="1833" text="Navy" />
+<head id="h52" start="1922" end="1931" text="residence" />
+<head id="h53" start="1913" end="1919" text="Carver" />
+<head id="h54" start="1935" end="1943" text="Honolulu" />
+<head id="h55" start="1961" end="1970" text="apartment" />
+<head id="h56" start="1952" end="1959" text="Mathers" />
+<head id="h57" start="1974" end="1981" text="Waipahu" />
+<head id="h58" start="2027" end="2035" text="military" />
+<head id="h59" start="2092" end="2103" text="Wayne Wills" />
+<head id="h60" start="2113" end="2118" text="agent" />
+<head id="h61" start="2136" end="2164" text="ICE Office of Investigations" />
+<head id="h62" start="2168" end="2176" text="Honolulu" />
+<head id="h63" start="2179" end="2182" text="ICE" />
+<head id="h64" start="2234" end="2242" text="partners" />
+<head id="h65" start="2214" end="2217" text="its" />
+<head id="h66" start="2299" end="2305" text="nation" />
+<head id="h67" start="2295" end="2298" text="our" />
+<head id="h68" start="2414" end="2425" text="Edward Kubo" />
+<head id="h69" start="2405" end="2413" text="Attorney" />
+<head id="h70" start="2391" end="2404" text="United States" />
+<head id="h71" start="2432" end="2433" text="I" />
+<head id="h72" start="2450" end="2457" text="members" />
+<head id="h73" start="2480" end="2486" text="Forces" />
+<head id="h74" start="2465" end="2473" text="American" />
+<head id="h75" start="2461" end="2464" text="our" />
+<head id="h76" start="2533" end="2541" text="military" />
+<head id="h77" start="2555" end="2561" text="others" />
+<head id="h78" start="2574" end="2581" text="country" />
+<head id="h79" start="2570" end="2573" text="our" />
+<head id="h80" start="2586" end="2590" text="they" />
+<head id="h81" start="2652" end="2659" text="enemies" />
+<head id="h82" start="2648" end="2651" text="our" />
+<head id="h83" start="2680" end="2687" text="Marines" />
+<head id="h84" start="2675" end="2679" text="U.S." />
+<head id="h85" start="2668" end="2674" text="fellow" />
+<head id="h86" start="2728" end="2734" text="member" />
+<head id="h87" start="2711" end="2719" text="military" />
+<head id="h88" start="2702" end="2710" text="American" />
+<head id="h89" start="2749" end="2756" text="country" />
+<head id="h90" start="2745" end="2748" text="our" />
+<head id="h91" start="1326" end="1331" text="e-Bay" />
+<head id="h92" start="1390" end="1395" text="e-Bay" />
+<head id="h93" start="2720" end="2727" text="service" />
+<head id="h94" start="2856" end="2874" text="Justice Department" />
+<head id="h95" start="2983" end="2991" text="military" />
+<head id="h96" start="2979" end="2982" text="our" />
+<head id="h97" start="3056" end="3062" text="Office" />
+<head id="h98" start="3045" end="3053" text="Attorney" />
+<head id="h99" start="3031" end="3044" text="United States" />
+<head id="h100" start="3071" end="3089" text="District of Hawaii" />
+<head id="h101" start="3109" end="3119" text="defendants" />
+<head id="h102" start="984" end="988" text="eBay" />
+<head id="h103" start="135" end="139" text="eBay" />
+<head id="h104" start="3231" end="3239" text="military" />
+<name id="n0" start="18" end="21" text="ICE" />
+<name id="n1" start="32" end="36" text="U.S." />
+<name id="n2" start="140" end="148" text="HONOLULU" />
+<name id="n3" start="155" end="168" text="United States" />
+<name id="n4" start="299" end="323" text="Marine Corps Base Hawaii" />
+<name id="n5" start="325" end="336" text="Kaneohe Bay" />
+<name id="n6" start="419" end="432" text="United States" />
+<name id="n7" start="470" end="510" text="U.S. Immigration and Customs Enforcement" />
+<name id="n8" start="512" end="515" text="ICE" />
+<name id="n9" start="658" end="671" text="United States" />
+<name id="n10" start="677" end="689" text="Ryan Mathers" />
+<name id="n11" start="695" end="709" text="Charles Carper" />
+<name id="n12" start="715" end="727" text="Ronald Abram" />
+<name id="n13" start="733" end="744" text="Mark Vaught" />
+<name id="n14" start="750" end="765" text="Brendon Schultz" />
+<name id="n15" start="775" end="786" text="Jason Flegm" />
+<name id="n16" start="822" end="826" text="Oahu" />
+<name id="n17" start="865" end="868" text="ICE" />
+<name id="n18" start="902" end="923" text="Lance Corporal Carper" />
+<name id="n19" start="1273" end="1276" text="ICE" />
+<name id="n20" start="1311" end="1317" text="Carper" />
+<name id="n21" start="1399" end="1406" text="Mathers" />
+<name id="n22" start="1426" end="1429" text="ICE" />
+<name id="n23" start="1438" end="1445" text="Mathers" />
+<name id="n24" start="1578" end="1607" text="Defense Investigative Service" />
+<name id="n25" start="1609" end="1644" text="Navy Criminal Investigative Service" />
+<name id="n26" start="1649" end="1679" text="United States Marshals Service" />
+<name id="n27" start="1913" end="1919" text="Carver" />
+<name id="n28" start="1935" end="1943" text="Honolulu" />
+<name id="n29" start="1952" end="1959" text="Mathers" />
+<name id="n30" start="1974" end="1981" text="Waipahu" />
+<name id="n31" start="2092" end="2103" text="Wayne Wills" />
+<name id="n32" start="2136" end="2164" text="ICE Office of Investigations" />
+<name id="n33" start="2168" end="2176" text="Honolulu" />
+<name id="n34" start="2179" end="2182" text="ICE" />
+<name id="n35" start="2414" end="2425" text="Edward Kubo" />
+<name id="n36" start="2391" end="2404" text="United States" />
+<name id="n37" start="2465" end="2473" text="American" />
+<name id="n38" start="2675" end="2679" text="U.S." />
+<name id="n39" start="2702" end="2710" text="American" />
+<name id="n40" start="1326" end="1331" text="e-Bay" />
+<name id="n41" start="1390" end="1395" text="e-Bay" />
+<name id="n42" start="2856" end="2874" text="Justice Department" />
+<name id="n43" start="3031" end="3044" text="United States" />
+<name id="n44" start="3071" end="3089" text="District of Hawaii" />
+<name id="n45" start="984" end="988" text="eBay" />
+<name id="n46" start="135" end="139" text="eBay" />
+<employment-mention id="e0" start="30" end="47" text="6 U.S. servicemen" TYPE="PreMod" />
+<employment-mention id="e1" start="151" end="176" text="Six United States Marines" TYPE="PreMod" />
+<employment-mention id="e2" start="2391" end="2413" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e3" start="2668" end="2687" text="fellow U.S. Marines" TYPE="PreMod" />
+<employment-mention id="e4" start="2692" end="2763" text="any other American military service member defending our country abroad" TYPE="PreMod" />
+<employment-mention id="e5" start="3027" end="3053" text="the United States Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="419" end="441" text="United States citizens" TYPE="PreMod" />
+<CRRE id="C1" start="792" end="826" text="all residing on the island of Oahu" TYPE="Participial" />
+<M id="M0" start="470" end="523" text="U.S. Immigration and Customs Enforcement (ICE) agents" TYPE="PreMod" />
+<M id="M1" start="865" end="875" text="ICE agents" TYPE="PreMod" />
+<M id="M2" start="1273" end="1283" text="ICE agents" TYPE="PreMod" />
+<M id="M3" start="1426" end="1436" text="ICE agents" TYPE="PreMod" />
+<M id="M4" start="2105" end="2176" text="special agent in charge of the ICE Office of Investigations in Honolulu" TYPE="Preposition" />
+<M id="M5" start="2450" end="2486" text="members of our American Armed Forces" TYPE="Preposition" />
+<M id="M7" start="2692" end="2763" text="any other American military service member defending our country abroad" TYPE="PreMod" />
+<M id="M6" start="3027" end="3089" text="the United States Attorney's Office for the District of Hawaii" TYPE="Possessive" />
+<entity_link id="en0" fromID="p1" fromText="Defendants" toID="p0" toText="6 U.S. servicemen" />
+<entity_link id="en1" fromID="p2" fromText="Six United States Marines" toID="p0" toText="6 U.S. servicemen" />
+<entity_link id="en2" fromID="g2" fromText="United States" toID="g0" toText="U.S." />
+<entity_link id="en3" fromID="o3" fromText="military" toID="o1" toText="military" />
+<entity_link id="en4" fromID="p3" fromText="The six active duty Marines - all United States citizens" toID="p2" toText="Six United States Marines" />
+<entity_link id="en5" fromID="p4" fromText="all" toID="p3" toText="The six active duty Marines - all United States citizens" />
+<entity_link id="en6" fromID="p5" fromText="United States citizens" toID="p3" toText="The six active duty Marines - all United States citizens" />
+<entity_link id="en7" fromID="g3" fromText="United States" toID="g2" toText="United States" />
+<entity_link id="en8" fromID="o4" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="o0" toText="ICE" />
+<entity_link id="en9" fromID="o5" fromText="ICE" toID="o4" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en10" fromID="p8" fromText="the defendants" toID="p3" toText="The six active duty Marines - all United States citizens" />
+<entity_link id="en11" fromID="g4" fromText="the United States" toID="g3" toText="United States" />
+<entity_link id="en12" fromID="l2" fromText="Oahu" toID="l1" toText="the island of Oahu" />
+<entity_link id="en13" fromID="p16" fromText="ICE agents" toID="p6" toText="U.S. Immigration and Customs Enforcement (ICE) agents" />
+<entity_link id="en14" fromID="o6" fromText="ICE" toID="o4" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en15" fromID="p19" fromText="ICE agents" toID="p16" toText="ICE agents" />
+<entity_link id="en16" fromID="o9" fromText="ICE" toID="o6" toText="ICE" />
+<entity_link id="en17" fromID="p17" fromText="Lance Corporal Carper" toID="p10" toText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" />
+<entity_link id="en18" fromID="p20" fromText="Carper" toID="p17" toText="Lance Corporal Carper" />
+<entity_link id="en19" fromID="p21" fromText="Mathers" toID="p9" toText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" />
+<entity_link id="en20" fromID="p22" fromText="ICE agents" toID="p19" toText="ICE agents" />
+<entity_link id="en21" fromID="o10" fromText="ICE" toID="o9" toText="ICE" />
+<entity_link id="en22" fromID="p23" fromText="Mathers" toID="p21" toText="Mathers" />
+<entity_link id="en23" fromID="p24" fromText="the agents" toID="p22" toText="ICE agents" />
+<entity_link id="en24" fromID="p25" fromText="Agents" toID="p24" toText="the agents" />
+<entity_link id="en25" fromID="p26" fromText="agents" toID="p25" toText="Agents" />
+<entity_link id="en26" fromID="p27" fromText="Carver" toID="p20" toText="Carper" />
+<entity_link id="en27" fromID="g5" fromText="Honolulu" toID="g1" toText="HONOLULU" />
+<entity_link id="en28" fromID="p28" fromText="Mathers" toID="p23" toText="Mathers" />
+<entity_link id="en29" fromID="o15" fromText="military" toID="o3" toText="military" />
+<entity_link id="en30" fromID="p30" fromText="Wayne Wills" toID="p29" toText="Wayne Wills, special agent in charge of the ICE Office of Investigations in Honolulu" />
+<entity_link id="en31" fromID="p31" fromText="special agent in charge of the ICE Office of Investigations in Honolulu" toID="p30" toText="Wayne Wills" />
+<entity_link id="en32" fromID="g7" fromText="Honolulu" toID="g5" toText="Honolulu" />
+<entity_link id="en33" fromID="o17" fromText="ICE" toID="o10" toText="ICE" />
+<entity_link id="en34" fromID="o19" fromText="its" toID="o17" toText="ICE" />
+<entity_link id="en35" fromID="g8" fromText="our nation" toID="g4" toText="the United States" />
+<entity_link id="en36" fromID="g9" fromText="our" toID="g8" toText="our nation" />
+<entity_link id="en37" fromID="p33" fromText="United States Attorney" toID="p32" toText="United States Attorney Edward Kubo" />
+<entity_link id="en38" fromID="g10" fromText="United States" toID="g2" toText="United States" />
+<entity_link id="en39" fromID="p34" fromText="I" toID="p32" toText="United States Attorney Edward Kubo" />
+<entity_link id="en40" fromID="g11" fromText="American" toID="g10" toText="United States" />
+<entity_link id="en41" fromID="g12" fromText="our" toID="g10" toText="United States" />
+<entity_link id="en42" fromID="o21" fromText="military" toID="o15" toText="military" />
+<entity_link id="en43" fromID="g13" fromText="our country" toID="g10" toText="United States" />
+<entity_link id="en44" fromID="g14" fromText="our" toID="g10" toText="United States" />
+<entity_link id="en45" fromID="p37" fromText="they" toID="p35" toText="members of our American Armed Forces" />
+<entity_link id="en46" fromID="g15" fromText="our" toID="g10" toText="United States" />
+<entity_link id="en47" fromID="g16" fromText="U.S." toID="g10" toText="United States" />
+<entity_link id="en48" fromID="o22" fromText="military" toID="o21" toText="military" />
+<entity_link id="en49" fromID="g17" fromText="American" toID="g10" toText="United States" />
+<entity_link id="en50" fromID="g18" fromText="our country" toID="g16" toText="U.S." />
+<entity_link id="en51" fromID="g19" fromText="our" toID="g16" toText="U.S." />
+<entity_link id="en52" fromID="o24" fromText="e-Bay" toID="o23" toText="e-Bay" />
+<entity_link id="en53" fromID="g20" fromText="our" toID="g16" toText="U.S." />
+<entity_link id="en54" fromID="g21" fromText="United States" toID="g16" toText="U.S." />
+<entity_link id="en55" fromID="p15" fromText="all residing on the island of Oahu" toID="p3" toText="The six active duty Marines - all United States citizens" />
+<entity_link id="en56" fromID="o23" fromText="e-Bay" toID="o30" toText="eBay" />
+<entity_link id="en57" fromID="o30" fromText="eBay" toID="o31" toText="eBay" />
+<entity_link id="en58" fromID="p43" fromText="the defendants" toID="p8" toText="the defendants" />
+<entity_link id="en59" fromID="o32" fromText="the military" toID="o7" toText="the military" />
+<entity_link id="en60" fromID="o27" fromText="our military" toID="o7" toText="the military" />
+<head_link id="he0" fromID="o0" fromText="ICE" toID="h0" toText="ICE" />
+<head_link id="he1" fromID="p0" fromText="6 U.S. servicemen" toID="h1" toText="servicemen" />
+<head_link id="he2" fromID="g0" fromText="U.S." toID="h2" toText="U.S." />
+<head_link id="he3" fromID="o1" fromText="military" toID="h3" toText="military" />
+<head_link id="he4" fromID="p1" fromText="Defendants" toID="h4" toText="Defendants" />
+<head_link id="he5" fromID="g1" fromText="HONOLULU" toID="h5" toText="HONOLULU" />
+<head_link id="he6" fromID="p2" fromText="Six United States Marines" toID="h6" toText="Marines" />
+<head_link id="he7" fromID="g2" fromText="United States" toID="h7" toText="United States" />
+<head_link id="he8" fromID="o2" fromText="federal court" toID="h8" toText="court" />
+<head_link id="he9" fromID="o3" fromText="military" toID="h9" toText="military" />
+<head_link id="he10" fromID="f0" fromText="the Marine Corps Base Hawaii, Kaneohe Bay" toID="h10" toText="Marine Corps Base Hawaii" />
+<head_link id="he11" fromID="l0" fromText="Kaneohe Bay" toID="h11" toText="Kaneohe Bay" />
+<head_link id="he12" fromID="p3" fromText="The six active duty Marines - all United States citizens" toID="h12" toText="Marines" />
+<head_link id="he13" fromID="p4" fromText="all" toID="h13" toText="all" />
+<head_link id="he14" fromID="p5" fromText="United States citizens" toID="h14" toText="citizens" />
+<head_link id="he15" fromID="g3" fromText="United States" toID="h15" toText="United States" />
+<head_link id="he16" fromID="p6" fromText="U.S. Immigration and Customs Enforcement (ICE) agents" toID="h16" toText="agents" />
+<head_link id="he17" fromID="o4" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h17" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he18" fromID="o5" fromText="ICE" toID="h18" toText="ICE" />
+<head_link id="he19" fromID="f1" fromText="two of the defendants' residences" toID="h19" toText="residences" />
+<head_link id="he20" fromID="p7" fromText="two of the defendants" toID="h20" toText="two" />
+<head_link id="he21" fromID="p8" fromText="the defendants" toID="h21" toText="defendants" />
+<head_link id="he22" fromID="g4" fromText="the United States" toID="h22" toText="United States" />
+<head_link id="he23" fromID="p9" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h23" toText="Ryan Mathers" />
+<head_link id="he24" fromID="p10" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h24" toText="Charles Carper" />
+<head_link id="he25" fromID="p11" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h25" toText="Ronald Abram" />
+<head_link id="he26" fromID="p12" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h26" toText="Mark Vaught" />
+<head_link id="he27" fromID="p13" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h27" toText="Brendon Schultz" />
+<head_link id="he28" fromID="p14" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="h28" toText="Jason Flegm" />
+<head_link id="he29" fromID="p15" fromText="all residing on the island of Oahu" toID="h29" toText="all" />
+<head_link id="he30" fromID="l1" fromText="the island of Oahu" toID="h30" toText="island" />
+<head_link id="he31" fromID="l2" fromText="Oahu" toID="h31" toText="Oahu" />
+<head_link id="he32" fromID="p16" fromText="ICE agents" toID="h32" toText="agents" />
+<head_link id="he33" fromID="o6" fromText="ICE" toID="h33" toText="ICE" />
+<head_link id="he34" fromID="p17" fromText="Lance Corporal Carper" toID="h34" toText="Lance Corporal Carper" />
+<head_link id="he35" fromID="o7" fromText="the military" toID="h35" toText="military" />
+<head_link id="he36" fromID="p18" fromText="soldiers" toID="h36" toText="soldiers" />
+<head_link id="he37" fromID="o8" fromText="all branches of the military" toID="h37" toText="branches" />
+<head_link id="he38" fromID="p19" fromText="ICE agents" toID="h38" toText="agents" />
+<head_link id="he39" fromID="o9" fromText="ICE" toID="h39" toText="ICE" />
+<head_link id="he40" fromID="p20" fromText="Carper" toID="h40" toText="Carper" />
+<head_link id="he41" fromID="p21" fromText="Mathers" toID="h41" toText="Mathers" />
+<head_link id="he42" fromID="p22" fromText="ICE agents" toID="h42" toText="agents" />
+<head_link id="he43" fromID="o10" fromText="ICE" toID="h43" toText="ICE" />
+<head_link id="he44" fromID="p23" fromText="Mathers" toID="h44" toText="Mathers" />
+<head_link id="he45" fromID="p24" fromText="the agents" toID="h45" toText="agents" />
+<head_link id="he46" fromID="p25" fromText="Agents" toID="h46" toText="Agents" />
+<head_link id="he47" fromID="o11" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="h47" toText="Defense Investigative Service" />
+<head_link id="he48" fromID="o12" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="h48" toText="Navy Criminal Investigative Service" />
+<head_link id="he49" fromID="o13" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="h49" toText="United States Marshals Service" />
+<head_link id="he50" fromID="p26" fromText="agents" toID="h50" toText="agents" />
+<head_link id="he51" fromID="o14" fromText="the Navy" toID="h51" toText="Navy" />
+<head_link id="he52" fromID="f2" fromText="Carver's residence in Honolulu" toID="h52" toText="residence" />
+<head_link id="he53" fromID="p27" fromText="Carver" toID="h53" toText="Carver" />
+<head_link id="he54" fromID="g5" fromText="Honolulu" toID="h54" toText="Honolulu" />
+<head_link id="he55" fromID="f3" fromText="Mathers' apartment in Waipahu" toID="h55" toText="apartment" />
+<head_link id="he56" fromID="p28" fromText="Mathers" toID="h56" toText="Mathers" />
+<head_link id="he57" fromID="g6" fromText="Waipahu" toID="h57" toText="Waipahu" />
+<head_link id="he58" fromID="o15" fromText="military" toID="h58" toText="military" />
+<head_link id="he59" fromID="p30" fromText="Wayne Wills" toID="h59" toText="Wayne Wills" />
+<head_link id="he60" fromID="p31" fromText="special agent in charge of the ICE Office of Investigations in Honolulu" toID="h60" toText="agent" />
+<head_link id="he61" fromID="o16" fromText="the ICE Office of Investigations in Honolulu" toID="h61" toText="ICE Office of Investigations" />
+<head_link id="he62" fromID="g7" fromText="Honolulu" toID="h62" toText="Honolulu" />
+<head_link id="he63" fromID="o17" fromText="ICE" toID="h63" toText="ICE" />
+<head_link id="he64" fromID="o18" fromText="its law enforcement partners" toID="h64" toText="partners" />
+<head_link id="he65" fromID="o19" fromText="its" toID="h65" toText="its" />
+<head_link id="he66" fromID="g8" fromText="our nation" toID="h66" toText="nation" />
+<head_link id="he67" fromID="g9" fromText="our" toID="h67" toText="our" />
+<head_link id="he68" fromID="p32" fromText="United States Attorney Edward Kubo" toID="h68" toText="Edward Kubo" />
+<head_link id="he69" fromID="p33" fromText="United States Attorney" toID="h69" toText="Attorney" />
+<head_link id="he70" fromID="g10" fromText="United States" toID="h70" toText="United States" />
+<head_link id="he71" fromID="p34" fromText="I" toID="h71" toText="I" />
+<head_link id="he72" fromID="p35" fromText="members of our American Armed Forces" toID="h72" toText="members" />
+<head_link id="he73" fromID="o20" fromText="our American Armed Forces" toID="h73" toText="Forces" />
+<head_link id="he74" fromID="g11" fromText="American" toID="h74" toText="American" />
+<head_link id="he75" fromID="g12" fromText="our" toID="h75" toText="our" />
+<head_link id="he76" fromID="o21" fromText="military" toID="h76" toText="military" />
+<head_link id="he77" fromID="p36" fromText="others outside our country" toID="h77" toText="others" />
+<head_link id="he78" fromID="g13" fromText="our country" toID="h78" toText="country" />
+<head_link id="he79" fromID="g14" fromText="our" toID="h79" toText="our" />
+<head_link id="he80" fromID="p37" fromText="they" toID="h80" toText="they" />
+<head_link id="he81" fromID="p38" fromText="our enemies" toID="h81" toText="enemies" />
+<head_link id="he82" fromID="g15" fromText="our" toID="h82" toText="our" />
+<head_link id="he83" fromID="p39" fromText="fellow U.S. Marines" toID="h83" toText="Marines" />
+<head_link id="he84" fromID="g16" fromText="U.S." toID="h84" toText="U.S." />
+<head_link id="he85" fromID="p40" fromText="fellow" toID="h85" toText="fellow" />
+<head_link id="he86" fromID="p41" fromText="any other American military service member defending our country abroad" toID="h86" toText="member" />
+<head_link id="he87" fromID="o22" fromText="military" toID="h87" toText="military" />
+<head_link id="he88" fromID="g17" fromText="American" toID="h88" toText="American" />
+<head_link id="he89" fromID="g18" fromText="our country" toID="h89" toText="country" />
+<head_link id="he90" fromID="g19" fromText="our" toID="h90" toText="our" />
+<head_link id="he91" fromID="o23" fromText="e-Bay" toID="h91" toText="e-Bay" />
+<head_link id="he92" fromID="o24" fromText="e-Bay" toID="h92" toText="e-Bay" />
+<head_link id="he93" fromID="o25" fromText="military service" toID="h93" toText="service" />
+<head_link id="he94" fromID="o26" fromText="the Justice Department" toID="h94" toText="Justice Department" />
+<head_link id="he95" fromID="o27" fromText="our military" toID="h95" toText="military" />
+<head_link id="he96" fromID="g20" fromText="our" toID="h96" toText="our" />
+<head_link id="he97" fromID="o28" fromText="the United States Attorney's Office for the District of Hawaii" toID="h97" toText="Office" />
+<head_link id="he98" fromID="p42" fromText="the United States Attorney" toID="h98" toText="Attorney" />
+<head_link id="he99" fromID="g21" fromText="United States" toID="h99" toText="United States" />
+<head_link id="he100" fromID="o29" fromText="the District of Hawaii" toID="h100" toText="District of Hawaii" />
+<head_link id="he101" fromID="p43" fromText="the defendants" toID="h101" toText="defendants" />
+<head_link id="he102" fromID="o30" fromText="eBay" toID="h102" toText="eBay" />
+<head_link id="he103" fromID="o31" fromText="eBay" toID="h103" toText="eBay" />
+<head_link id="he104" fromID="o32" fromText="the military" toID="h104" toText="military" />
+<name_link id="na0" fromID="o0" fromText="ICE" toID="n0" toText="ICE" />
+<name_link id="na1" fromID="g0" fromText="U.S." toID="n1" toText="U.S." />
+<name_link id="na2" fromID="g1" fromText="HONOLULU" toID="n2" toText="HONOLULU" />
+<name_link id="na3" fromID="g2" fromText="United States" toID="n3" toText="United States" />
+<name_link id="na4" fromID="f0" fromText="the Marine Corps Base Hawaii, Kaneohe Bay" toID="n4" toText="Marine Corps Base Hawaii" />
+<name_link id="na5" fromID="l0" fromText="Kaneohe Bay" toID="n5" toText="Kaneohe Bay" />
+<name_link id="na6" fromID="g3" fromText="United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="o4" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n7" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na8" fromID="o5" fromText="ICE" toID="n8" toText="ICE" />
+<name_link id="na9" fromID="g4" fromText="the United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="p9" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n10" toText="Ryan Mathers" />
+<name_link id="na11" fromID="p10" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n11" toText="Charles Carper" />
+<name_link id="na12" fromID="p11" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n12" toText="Ronald Abram" />
+<name_link id="na13" fromID="p12" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n13" toText="Mark Vaught" />
+<name_link id="na14" fromID="p13" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n14" toText="Brendon Schultz" />
+<name_link id="na15" fromID="p14" fromText="Ryan Mathers, 20, Charles Carper, 22, Ronald Abram, 20, Mark Vaught, 23, Brendon Schultz, 24, and Jason Flegm, 22, all residing on the island of Oahu" toID="n15" toText="Jason Flegm" />
+<name_link id="na16" fromID="l2" fromText="Oahu" toID="n16" toText="Oahu" />
+<name_link id="na17" fromID="o6" fromText="ICE" toID="n17" toText="ICE" />
+<name_link id="na18" fromID="p17" fromText="Lance Corporal Carper" toID="n18" toText="Lance Corporal Carper" />
+<name_link id="na19" fromID="o9" fromText="ICE" toID="n19" toText="ICE" />
+<name_link id="na20" fromID="p20" fromText="Carper" toID="n20" toText="Carper" />
+<name_link id="na21" fromID="p21" fromText="Mathers" toID="n21" toText="Mathers" />
+<name_link id="na22" fromID="o10" fromText="ICE" toID="n22" toText="ICE" />
+<name_link id="na23" fromID="p23" fromText="Mathers" toID="n23" toText="Mathers" />
+<name_link id="na24" fromID="o11" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="n24" toText="Defense Investigative Service" />
+<name_link id="na25" fromID="o12" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="n25" toText="Navy Criminal Investigative Service" />
+<name_link id="na26" fromID="o13" fromText="The Defense Investigative Service, Navy Criminal Investigative Service and United States Marshals Service" toID="n26" toText="United States Marshals Service" />
+<name_link id="na27" fromID="p27" fromText="Carver" toID="n27" toText="Carver" />
+<name_link id="na28" fromID="g5" fromText="Honolulu" toID="n28" toText="Honolulu" />
+<name_link id="na29" fromID="p28" fromText="Mathers" toID="n29" toText="Mathers" />
+<name_link id="na30" fromID="g6" fromText="Waipahu" toID="n30" toText="Waipahu" />
+<name_link id="na31" fromID="p30" fromText="Wayne Wills" toID="n31" toText="Wayne Wills" />
+<name_link id="na32" fromID="o16" fromText="the ICE Office of Investigations in Honolulu" toID="n32" toText="ICE Office of Investigations" />
+<name_link id="na33" fromID="g7" fromText="Honolulu" toID="n33" toText="Honolulu" />
+<name_link id="na34" fromID="o17" fromText="ICE" toID="n34" toText="ICE" />
+<name_link id="na35" fromID="p32" fromText="United States Attorney Edward Kubo" toID="n35" toText="Edward Kubo" />
+<name_link id="na36" fromID="g10" fromText="United States" toID="n36" toText="United States" />
+<name_link id="na37" fromID="g11" fromText="American" toID="n37" toText="American" />
+<name_link id="na38" fromID="g16" fromText="U.S." toID="n38" toText="U.S." />
+<name_link id="na39" fromID="g17" fromText="American" toID="n39" toText="American" />
+<name_link id="na40" fromID="o23" fromText="e-Bay" toID="n40" toText="e-Bay" />
+<name_link id="na41" fromID="o24" fromText="e-Bay" toID="n41" toText="e-Bay" />
+<name_link id="na42" fromID="o26" fromText="the Justice Department" toID="n42" toText="Justice Department" />
+<name_link id="na43" fromID="g21" fromText="United States" toID="n43" toText="United States" />
+<name_link id="na44" fromID="o29" fromText="the District of Hawaii" toID="n44" toText="District of Hawaii" />
+<name_link id="na45" fromID="o30" fromText="eBay" toID="n45" toText="eBay" />
+<name_link id="na46" fromID="o31" fromText="eBay" toID="n46" toText="eBay" />
+<relation_link1 id="r0" fromID="e0" fromText="6 U.S. servicemen" toID="p0" toText="6 U.S. servicemen" />
+<relation_link1 id="r1" fromID="e1" fromText="Six United States Marines" toID="p2" toText="Six United States Marines" />
+<relation_link1 id="r2" fromID="C0" fromText="United States citizens" toID="p5" toText="United States citizens" />
+<relation_link1 id="r3" fromID="M0" fromText="U.S. Immigration and Customs Enforcement (ICE) agents" toID="p6" toText="U.S. Immigration and Customs Enforcement (ICE) agents" />
+<relation_link1 id="r4" fromID="C1" fromText="all residing on the island of Oahu" toID="p15" toText="all residing on the island of Oahu" />
+<relation_link1 id="r5" fromID="M1" fromText="ICE agents" toID="p16" toText="ICE agents" />
+<relation_link1 id="r6" fromID="M2" fromText="ICE agents" toID="p19" toText="ICE agents" />
+<relation_link1 id="r7" fromID="M3" fromText="ICE agents" toID="p22" toText="ICE agents" />
+<relation_link1 id="r8" fromID="M4" fromText="special agent in charge of the ICE Office of Investigations in Honolulu" toID="p31" toText="special agent in charge of the ICE Office of Investigations in Honolulu" />
+<relation_link1 id="r9" fromID="e2" fromText="United States Attorney" toID="p33" toText="United States Attorney" />
+<relation_link1 id="r10" fromID="M5" fromText="members of our American Armed Forces" toID="p35" toText="members of our American Armed Forces" />
+<relation_link1 id="r11" fromID="e3" fromText="fellow U.S. Marines" toID="p39" toText="fellow U.S. Marines" />
+<relation_link1 id="r12" fromID="e4" fromText="any other American military service member defending our country abroad" toID="p41" toText="any other American military service member defending our country abroad" />
+<relation_link1 id="r13" fromID="M7" fromText="any other American military service member defending our country abroad" toID="p41" toText="any other American military service member defending our country abroad" />
+<relation_link1 id="r14" fromID="e5" fromText="the United States Attorney" toID="p42" toText="the United States Attorney" />
+<relation_link1 id="r15" fromID="M6" fromText="the United States Attorney's Office for the District of Hawaii" toID="p42" toText="the United States Attorney" />
+<relation_link2 id="re0" fromID="e0" fromText="6 U.S. servicemen" toID="g0" toText="U.S." />
+<relation_link2 id="re1" fromID="e1" fromText="Six United States Marines" toID="g2" toText="United States" />
+<relation_link2 id="re2" fromID="C0" fromText="United States citizens" toID="g3" toText="United States" />
+<relation_link2 id="re3" fromID="M0" fromText="U.S. Immigration and Customs Enforcement (ICE) agents" toID="o4" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link2 id="re4" fromID="C1" fromText="all residing on the island of Oahu" toID="l1" toText="the island of Oahu" />
+<relation_link2 id="re5" fromID="M1" fromText="ICE agents" toID="o6" toText="ICE" />
+<relation_link2 id="re6" fromID="M2" fromText="ICE agents" toID="o9" toText="ICE" />
+<relation_link2 id="re7" fromID="M3" fromText="ICE agents" toID="o10" toText="ICE" />
+<relation_link2 id="re8" fromID="M4" fromText="special agent in charge of the ICE Office of Investigations in Honolulu" toID="o16" toText="the ICE Office of Investigations in Honolulu" />
+<relation_link2 id="re9" fromID="e2" fromText="United States Attorney" toID="g10" toText="United States" />
+<relation_link2 id="re10" fromID="M5" fromText="members of our American Armed Forces" toID="o20" toText="our American Armed Forces" />
+<relation_link2 id="re11" fromID="e3" fromText="fellow U.S. Marines" toID="g16" toText="U.S." />
+<relation_link2 id="re12" fromID="e4" fromText="any other American military service member defending our country abroad" toID="g17" toText="American" />
+<relation_link2 id="re13" fromID="M7" fromText="any other American military service member defending our country abroad" toID="o25" toText="military service" />
+<relation_link2 id="re14" fromID="e5" fromText="the United States Attorney" toID="g21" toText="United States" />
+<relation_link2 id="re15" fromID="M6" fromText="the United States Attorney's Office for the District of Hawaii" toID="o28" toText="the United States Attorney's Office for the District of Hawaii" />
+</TAGS>
+</KddTask>

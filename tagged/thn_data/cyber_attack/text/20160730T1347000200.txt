@@ -1,0 +1,28 @@
+Hillary Clinton's Presidential Campaign also Hacked in Attack on Democratic Party
+Mohit Kumar
+
+There's a lot more to come from the DNC Hack.
+The Associated Press confirmed yesterday that the computer systems used by Hillary Clinton's presidential campaign were hacked as part of the recent Democratic National Convention (DNC) hack.
+Last week's email dump containing almost 20,000 emails from top DNC officials was just the beginning, which led DNC Chairwoman Debbie Wasserman Schultz to resign as the group’s leader, as WikiLeaks announced that it was part one of its new Hillary Leaks series.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This suggests WikiLeaks Founder Julian Assange has had his hands on more data from the DNC hack that, according to him, could eventually result in the arrest of Hillary Clinton.
+Assange — Wikileaks' Next Leak will lead to Arrest of Hillary Clinton
+In an interview with Robert Preston of ITV last month, Assange made it clear that he hopes to harm Hillary Clinton’s chances from becoming president of the United States, opposing her candidacy on both policies as well as personal grounds.
+Assange also stressed that he had "a lot more material" about Clinton's presidential campaign that could possibly provide enough evidence for the indictment of Hillary Clinton.
+Now, when it has been reported that the computer systems used by Clinton's presidential campaign were breached as part of the DNC hack, one could guess this could be the next release in the Hillary Leaks series by Assange.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to federal law enforcement officials and some cybersecurity experts, the DNC hack is believed to be an attempt by the Russian intelligence services to influence the presidential election.
+U.S. intelligence agencies have reportedly concluded that the Russian government was behind the theft of the DNC emails and documents. Although, it's unclear whether the attack was fairly routine espionage or an effort to manipulate the presidential election.
+DNC Hack Malware Based Upon Chinese Open-Source Tool
+Even, security firm CrowdStrike, who first investigated the DNC hack, said that the group that hacked into the DNC servers in April 2016 was engaged in extensive political and economic espionage to benefit Russian government and closely linked to the Russia's powerful and highly capable intelligence services.
+According to the firm, the Fancy Bear APT (also known as APT28 and Pawn Storm) used a piece of malware called X-Tunnel to steal data from the system without getting detected.
+Most recently, security firm Invincea also released its own report, saying X-Tunnel was used to steal the data from the DNC servers, but since the malware appeared to be a repurposed open source tool from a Chinese company, the firm did not support or refute "the Russian origins of the XTunnel binary."
+The F.B.I. said in a statement that it "is aware of media reporting on cyber intrusions involving multiple political entities, and is working to determine the accuracy, nature, and scope of these matters."
+Democratic Party Hack Influences the Presidential Election
+We still have to accept the fact that someone is attacking America's computer systems in an attempt to influence the presidential election.
+So this kind of politically motivated attack can become even worse in November — at the time of voting.
+Security expert Bruce Schneier stressed that since Clinton's computer systems can be targeted as part of DNC attack, it is possible that America's election systems and voting machines could also be vulnerable to a similar attack.
+"We need to secure our election systems before autumn," says Schneier via the Washington Post. "If Putin's government has already used a cyber attack to attempt to help Trump win, there's no reason to believe he won't do it again — especially now that Trump is inviting the "help.""
+Since more and more states have moved to electronic voting machines and Internet voting over the past years, it has made a way for hackers to manipulate these systems.
+Schneier suggests the government to "create tiger teams to test the machines’ and systems’ resistance to attack, drastically increase their cyber-defenses" and if can not guarantee their security online, take them offline.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

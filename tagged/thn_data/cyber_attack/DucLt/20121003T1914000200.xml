@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Google Warning about New State Sponsored Attacks
+Mohit Kumar
+“Warning: We believe state-sponsored attackers may be attempting to compromise your account or computer.” From last 3 months Google users were surprised to see this unusual notification at the top of their Gmail inbox, Google home page or Chrome browser. These warnings are not being shown because Google’s internal systems have been compromised or because of a particular attack.
+"The company said that since it started alerting users to malicious probably state-sponsored activity on their computers in June, it has picked up thousands more instances of cyberattacks than it anticipated."  NYtimes said. Google will now start sending out these messages to tens of thousands more people, as its methods for detecting suspicious activity have improved.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mike Wiacek, a manager on Google’s information security team, said that since then, Google has improved its knowledge on attack methods and the groups behind them, and has started pushing out new alerts on Tuesday - as evidenced by a slew of U.S. journalists, researchers and foreign policy experts who said they already received the warning.
+Noah Schactman, the editor of Wired’s national security blog “Danger Room,” tweeted: “Aaaaand I just got Google’s ‘you may be a victim of a state-sponsored attack’ notice. #WhatTookYouSoLong?”
+Mr. Wiacek noted that Google had seen an increase in state-sponsored activity coming from the Middle East. He declined to call out particular countries, but he said the activity was coming from “a slew of different countries” in the region.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.User_Compromise id="A1" start="130" end="140" text="compromise" TYPE="TRG" />
+<ATTACK.Root_Compromise id="AT1" start="396" end="407" text="compromised" TYPE="TRG" />
+</TAGS>
+</KddTask>

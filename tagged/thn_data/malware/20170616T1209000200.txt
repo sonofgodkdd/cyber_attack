@@ -1,0 +1,30 @@
+New Fileless Ransomware with Code Injection Ability Detected in the Wild
+Swati Khandelwal
+
+It is no secret that hackers and cybercriminals are becoming dramatically more adept, innovative, and stealthy with each passing day.
+While new forms of cybercrime are on the rise, traditional activities seem to be shifting towards more clandestine techniques that come with limitless attack vectors with low detection rates.
+Security researchers have recently discovered a new fileless ransomware, dubbed "Sorebrect," which injects malicious code into a legitimate system process (svchost.exe) on a targeted system and then self-destruct itself in order to evade detection.
+Unlike traditional ransomware, Sorebrect has been designed to target enterprise's servers and endpoint. The injected code then initiates the file encryption process on the local machine and connected network shares.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This fileless ransomware first compromises administrator credentials by brute forcing or some other means and then uses Microsoft’s Sysinternals PsExec command-line utility to encrypt files.
+"PsExec can enable attackers to run remotely executed commands, instead of providing and using an entire interactive login session, or manually transferring the malware into a remote machine, like in RDPs," Trend Micro says.
+Sorebrect Also Encrypts Network Shares
+Sorebrect also scans the local network for other connected computers with open shares and locks files available on them as well.
+"If the share has been set up such that anyone connected to it has read-and-write access to it, the share will also be encrypted," researchers say.
+The nasty ransomware then deletes all event logs (using wevtutil.exe) and shadow copies (using vssadmin) on the infected machine that could provide forensic evidence such as files executed on the system and their timestamps, which makes this threat hard-to-detect.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In addition, Sorebrect uses the Tor network protocol in an attempt to anonymize its communication with its command-and-control (C&C) server, just like almost every other malware.
+Sorebrect Ransomware Spreads Worldwide
+The Sorebrect fileless ransomware has been designed to target systems from various industries including manufacturing, technology, and telecommunications.
+According to Trend Micro, Sorebrect was initially targeting Middle Eastern countries like Kuwait and Lebanon, but from last month, this threat has started infecting people in Canada, China, Croatia, Italy, Japan, Mexico, Russia, Taiwan, and the U.S.
+"Given ransomware’s potential impact and profitability, it wouldn’t be a surprise if SOREBRECT turns up in other parts of the world, or even in the cybercriminal underground where it can be peddled as a service," the researchers note.
+This is not the first time when researchers have come across Fileless malware. Two months ago, Talos researchers discovered a DNSMessenger attack that was completely Fileless and used DNS TXT messaging capabilities to compromise systems.
+In February, Kaspersky researchers also discovered fileless malware that resided solely in the memory of the compromised computers, which was found targeting banks, telecommunication companies, and government organizations in 40 countries.
+Ways to Protect Against Ransomware Attacks
+Since the ransomware does not target individuals but organizations, sysadmins and information security professionals can protect themselves by:
+Restricting user write permissions: a significant factor that exposes network shares to ransomware by giving users full permissions.
+Limiting privilege for PsExec: Limit PsExec and provide permission to run them only to system administrators.
+Keeping your system and network up-to-date: Always keep your operating system, software, and other applications updated.
+Backing up your data regularly: To always have a tight grip on all your important files and documents, keep a good backup routine in place that makes their copies to an external storage device that is not always connected to your PC.
+Adopting a cyber security-aware workforce: Educating your employees about malware, threat vectors and security measure always plays a major role in any organization.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

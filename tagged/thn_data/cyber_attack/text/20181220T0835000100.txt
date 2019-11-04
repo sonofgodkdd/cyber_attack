@@ -1,0 +1,19 @@
+Microsoft Issues Emergency Patch For Under-Attack IE Zero Day
+Swati Khandelwal
+
+Microsoft today issued an out-of-band security update to patch a critical zero-day vulnerability in Internet Explorer (IE) Web browser that attackers are already exploiting in the wild to hack into Windows computers.
+Discovered by security researcher Clement Lecigne of Google's Threat Analysis Group, the vulnerability, tracked as CVE-2018-8653, is a remote code execution (RCE) flaw in the IE browser's scripting engine.
+According to the advisory, an unspecified memory corruption vulnerability resides in the scripting engine JScript component of Microsoft Internet Explorer that handles execution of scripting languages.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If exploited successfully, the vulnerability could allow attackers to execute arbitrary code in the context of the current user.
+"If the current user is logged on with administrative user rights, an attacker who successfully exploited the vulnerability could take control of an affected system. An attacker could then install programs; view, change, or delete data; or create new accounts with full user rights," the advisory reads.
+Besides this, a remote attacker can also target victims by convincing them into viewing a specially crafted HTML document (e.g., a web page or an email attachment), MS Office document, PDF file or any other document that supports embedded IE scripting engine content.
+The IE zero-day vulnerability impacts IE 9 on Windows Server 2008, IE 10 on Windows Server 2012, IE 11 from Windows 7 to Windows 10, and IE 11 on Windows Server 2019, Windows Server 2016, Windows Server 2008 R2, Windows Server 2012 R2.
+Neither Google nor Microsoft has yet publicly disclosed any technical details about the IE zero-day vulnerability, proof-of-concept exploit code, or details about the ongoing cyber attack campaign utilizing this RCE bug.
+Since the vulnerability is actively being exploited in the wild which makes it a critical zero-day flaw, users are strongly recommended to install the latest updates provided by Microsoft as soon as possible.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though it is not recommended, users who cannot immediately deploy patches can mitigate the threat by restricting access to jscript.dll file by running following command in the command prompt using admin privileges.
+For 32-bit System — cacls %windir%\system32\jscript.dll /E /P everyone:N
+For 64-bit System — cacls %windir%\syswow64\jscript.dll /E /P everyone:N
+It should be noted that the above command will force the web browser to use Jscript9.dll, but any website that relies on Jscript.dll will fail to render.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,43 @@
+[Guide] How to Protect Your Devices Against Meltdown and Spectre Attacks
+Swati Khandelwal
+
+Recently uncovered two huge processor vulnerabilities called Meltdown and Spectre have taken the whole world by storm, while vendors are rushing out to patch the vulnerabilities in its products.
+The issues apply to all modern processors and affect nearly all operating systems (Windows, Linux, Android, iOS, macOS, FreeBSD, and more), smartphones and other computing devices made in the past 20 years.
+What are Spectre and Meltdown?
+We have explained both, Meltdown (CVE-2017-5754) and Spectre (CVE-2017-5753, CVE-2017-5715), exploitation techniques in our previous article.
+In short, Spectre and Meltdown are the names of security vulnerabilities found in many processors from Intel, ARM and AMD that could allow attackers to steal your passwords, encryption keys and other private information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Both attacks abuse 'speculative execution' to access privileged memory—including those allocated for the kernel—from a low privileged user process like a malicious app running on a device, allowing attackers to steal passwords, login keys, and other valuable information.
+Protect Against Meltdown and Spectre CPU Flaws
+Some, including US-CERT, have suggested the only true patch for these issues is for chips to be replaced, but this solution seems to be impractical for the general user and most companies.
+Vendors have made significant progress in rolling out fixes and firmware updates. While the Meltdown flaw has already been patched by most companies like Microsoft, Apple and Google, Spectre is not easy to patch and will haunt people for quite some time.
+Here's the list of available patches from major tech manufacturers:
+Windows OS (7/8/10) and Microsoft Edge/IE
+Microsoft has already released an out-of-band security update (KB4056892) for Windows 10 to address the Meltdown issue and will be releasing patches for Windows 7 and Windows 8 on January 9th.
+But if you are running a third-party antivirus software then it is possible your system won’t install patches automatically. So, if you are having trouble installing the automatic security update, turn off your antivirus and use Windows Defender or Microsoft Security Essentials.
+"The compatibility issue is caused when antivirus applications make unsupported calls into Windows kernel memory," Microsoft noted in a blog post. "These calls may cause stop errors (also known as blue screen errors) that make the device unable to boot."
+Apple macOS, iOS, tvOS, and Safari Browser
+Apple noted in its advisory, "All Mac systems and iOS devices are affected, but there are no known exploits impacting customers at this time."
+To help defend against the Meltdown attacks, Apple has already released mitigations in iOS 11.2, macOS 10.13.2, and tvOS 11.2, has planned to release mitigations in Safari to help defend against Spectre in the coming days.
+Android OS
+Android users running the most recent version of the mobile operating system released on January 5 as part of the Android January security patch update are protected, according to Google.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, if you own a Google-branded phone, like Nexus or Pixel, your phone will either automatically download the update, or you'll simply need to install it. However, other Android users have to wait for their device manufacturers to release a compatible security update.
+The tech giant also noted that it's unaware of any successful exploitation of either Meltdown or Spectre on ARM-based Android devices.
+Firefox Web Browser
+Mozilla has released Firefox version 57.0.4 which includes mitigations for both Meltdown and Spectre timing attacks. So users are advised to update their installations as soon as possible.
+"Since this new class of attacks involves measuring precise time intervals, as a partial, short-term mitigation we are disabling or reducing the precision of several time sources in Firefox," Mozilla software engineer Luke Wagner wrote in a blog post.
+Google Chrome Web Browser
+Google has scheduled the patches for Meltdown and Spectre exploits on January 23 with the release of Chrome 64, which will include mitigations to protect your desktop and smartphone from web-based attacks.
+In the meantime, users can enable an experimental feature called "Site Isolation" that can offer some protection against the web-based exploits but might also cause performance problems.
+"Site Isolation makes it harder for untrusted websites to access or steal information from your accounts on other websites. Websites typically cannot access each other's data inside the browser, thanks to code that enforces the Same Origin Policy." Google says.
+Here's how to turn on Site Isolation:
+Copy chrome://flags/#enable-site-per-process and paste it into the URL field at the top of your Chrome web browser, and then hit the Enter key.
+Look for Strict Site Isolation, then click the box labelled Enable.
+Once done, hit Relaunch Now to relaunch your Chrome browser.
+Linux Distributions
+The Linux kernel developers have also released patches for the Linux kernel with releases including versions 4.14.11, 4.9.74, 4.4.109, 3.16.52, 3.18.91 and 3.2.97, which can be downloaded from Kernel.org.
+VMware and Citrix
+A global leader in cloud computing and virtualisation, VMware, has also released a list of its products affected by the two attacks and security updates for its ESXi, Workstation and Fusion products to patch against Meltdown attacks.
+On the other hand, another popular cloud computing and virtualisation vendor Citrix did not release any security patches to address the issue. Instead, the company guided its customers and recommended them to check for any update on relevant third-party software.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

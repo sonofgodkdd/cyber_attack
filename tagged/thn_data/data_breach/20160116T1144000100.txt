@@ -1,0 +1,23 @@
+Casino Sues Cyber Security Company Over Failure to Stop Hackers
+Swati Khandelwal
+
+IT security firm Trustwave has been sued by a Las Vegas-based casino operator for conducting an allegedly "woefully inadequate" investigation following a network breach of the casino operator’s system.
+Affinity Gaming, an operator of 5 casinos in Nevada and 6 elsewhere in the United States, has questioned Trustwave's investigation for failing to shut down breach that directly resulted in the theft of credit card data, allowing credit card thieves to maintain their foothold during the investigation period.
+The lawsuit, filed in the US District Court in Nevada, is one of the first cases of its kind where a client challenges a cyber security firm over the quality of its investigation following a hacking attack.
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+Casino Sued an IT Security Firm
+Affinity Gaming said it hired Trustwave in late 2013 to analyze and clean up computer network intrusions that allowed attackers to obtain its customers' credit card data.
+It was reported that the details on more than 300,000 credit cards used by customers in Affinity's restaurants and hotels were accessed by cyber crooks who compromised its systems.
+A report submitted by Trustwave in mid-January 2014 noted that the security firm had:
+Identified the source of the data breach
+Contained the malware responsible for the incident
+However, more than a year later after the casino operator was hit by a second payment card breach, Affinity allegedly learned from Trustwave's competing cybersecurity firm, Mandiant, that the malware had never been fully removed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Lawsuit Filed by the Casino Operator
+Here's what Affinity claimed in its lawsuit filed at the end of December in the US district court of Nevada:
+Hiring a firm with the proper data breach response expertise, such as Trustwave held itself out to be, was of paramount importance for Affinity Gaming...Affinity isn't an IT security firm and lacks the level of expertise.
+With respect to the apparent data breach, Affinity Gaming was wholly dependent on and subordinate in terms of its understanding, knowledge, and capabilities, to Trustwave, relying on [it] to diagnose, investigate, and prescribe appropriate measures to address.
+Mandiant’s forthright and thorough investigation concluded that Trustwave's representations were untrue, and Trustwave's prior work was woefully inadequate. In reality, Trustwave lied when it claimed that its so-called investigation would diagnose and help remedy the data breach when it represented that the data breach was "contained," and when it claimed that the recommendations it was offering would address the data breach. Trustwave...failed to identify the means by which the attacker had breached Affinity Gaming's data security. Thus, Trustwave could not in good faith have made the foregoing representations to Affinity Gaming.
+However, Trustwave denies any wrongdoing. A Trustwave spokesperson told the Financial Times (FT) on Friday, "We dispute and disagree with the allegations in the lawsuit and we will defend ourselves vigorously in court."
+Affinity Gaming is seeking a minimum of $100,000 in damages from Trustwave.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

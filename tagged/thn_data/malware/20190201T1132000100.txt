@@ -1,0 +1,26 @@
+New Mac Malware Targets Cookies to Steal From Cryptocurrency Wallets
+Mohit Kumar
+
+Mac users need to beware of a newly discovered piece of malware that steals their web browser cookies and credentials in an attempt to withdraw funds from their cryptocurrency exchange accounts.
+Dubbed CookieMiner due to its capability of stealing cookies-related to cryptocurrency exchanges, the malware has specifically been designed to target Mac users and is believed to be based on DarthMiner, another Mac malware that was detected in December last year.
+Uncovered by Palo Alto Networks' Unit 42 security research team, CookieMiner also covertly installs coin mining software onto the infected Mac machines to secretly mine for additional cryptocurrency by consuming the targeted Mac's system resources.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the case of CookieMiner, the software is apparently geared toward mining "Koto," a lesser-known, privacy-oriented cryptocurrency which is mostly used in Japan.
+However, the most interesting capabilities of the new Mac malware is to steal:
+Both Google Chrome and Apple Safari browser cookies associated with popular cryptocurrency exchanges and wallet service websites.
+Usernames, passwords and credit card information saved in the Chrome web browser.
+Cryptocurrency wallet data and keys.
+iPhone's text messages of victims stored in iTunes backups.
+When talking about the targeted cryptocurrency exchanges and wallet services, CookieMiner was found targeting Binance, Coinbase, Poloniex, Bittrex, Bitstamp, MyEtherWallet, and any website having "blockchain" in its domain and using cookies to track their users temporarily.
+By leveraging the combination of stolen login credentials, web cookies, and SMS data, it would be possible for an attacker to even bypass two-factor authentication for exchange sites and steal cryptocurrencies from the victim's accounts and wallets.
+"If only the username and password are stolen and used by a bad actor, the website may issue an alert or request additional authentication for a new login," the researchers explained in their blog post published Thursday.
+"However, if an authentication cookie is also provided along with the username and password, the website might believe the session is associated with a previously authenticated system host and not issue an alert or request additional authentication methods."
+It should be noted that researchers have not yet found any evidence of the attackers successfully withdrawing funds from any user's wallet or account, but are speculating based on the malware's behavior.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's more? CookieMiner also uses the EmPyre backdoor for post-exploitation control, allowing attackers to send commands to the infected Mac computers for remote control.
+EmPyre is a Python post-exploitation agent that checks if the Little Snitch application firewall is running on the victim's machine and if it finds one, it will stop and exit. The agent can also be configured to download additional files.
+Although it is unclear how the CookieMiner malware is pushed to the victims at the first place, it is believed that the users are tricked into downloading tainted software onto their machines which delivers the malware.
+Palo Alto Networks has already contacted targeted cryptocurrency exchanges and wallet services, along with Apple and Google, and reported the issue.
+Since the researchers believe that the CookieMiner campaign is still active, the best way to prevent falling victim to such malware attacks is to avoid saving your credentials or credit card information within your web browsers and, not to mention, avoid downloading apps from third-party platforms.
+You should also consider clearing your cookies when visiting the banking or financial accounts, and "keep an eye on their security settings and digital assets to prevent compromise and leakage," researchers advised.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

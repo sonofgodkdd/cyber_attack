@@ -1,0 +1,24 @@
+Researchers Link 'Sharpshooter' Cyber Attacks to North Korean Hackers
+Mohit Kumar
+
+Security researchers have finally, with "high confidence," linked a previously discovered global cyber espionage campaign targeting critical infrastructure around the world to a North Korean APT hacking group.
+Thanks to the new evidence collected by researchers after analyzing a command-and-control (C2) server involved in the espionage campaign and seized by law enforcement.
+Dubbed Operation Sharpshooter, the cyber espionage campaign targeting government, defense, nuclear, energy, and financial organizations around the world was initially uncovered in December 2018 by security researchers at McAfee.
+At that time, even after finding numerous technical links to the North Korean Lazarus hacking group, researchers were not able to immediately attribute the campaign due to a potential for false flags.
+Researchers Analysed Sharpshooter's Command Server
+Now, according to a press release shared with The Hacker News, a recent analysis of the seized code and command-and-control (C2) server allowed researchers to understand the inner working of the global cyber espionage campaign, concluding that the North Korean state-sponsored hacking group is behind Operation Sharpshooter.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Lazarus Group, also known as Hidden Cobra and Guardians of Peace, is believed to be backed by the North Korean government and had reportedly been associated with the 2017 global WannaCry ransomware attack, the 2016 SWIFT Banking hack, as well as the 2014 Sony Pictures hack.
+The analysis also revealed that the global espionage campaign began as early as September 2017, a year earlier than previously thought and is still ongoing.
+While previous attacks were primarily targeting telecommunications, government and financial sectors in the United States, Switzerland, and Israel, and other English-speaking countries, newly-discovered evidence suggests that Sharpshooter has expanded its focus to critical infrastructure, with the most recent attacks targeting Germany, Turkey, the United Kingdom, and the United States.
+Operation Sharpshooter: Global Cyber-Espionage Campaign
+The global espionage campaign spreads by sending malicious documents containing a weaponized macro to targets via Dropbox. Once opened and downloaded, the macro leverages embedded shellcode to inject the Sharpshooter downloader into the memory of Microsoft Word.
+For further exploitation, this in-memory implant then covertly downloads the second-stage Rising Sun malware, which uses source code from the Lazarus Group's backdoor Trojan Duuzer, malware first circulated in 2015 targeting organizations in South Korea.
+The Rising Sun malware then performs reconnaissance on the victim’s network by gathering and encrypting data, including victim devices' computer name, IP address data, native system information and more.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Access to the adversary’s command-and-control server code is a rare opportunity. These systems provide insights into the inner workings of cyber attack infrastructure, are typically seized by law enforcement, and only rarely made available to private sector researchers," said Christiaan Beek, McAfee senior principal engineer, and lead scientist.
+"The insights gained through access to this code are indispensable in the effort to understand and combat today’s most prominent and sophisticated cyber attack campaigns."
+Moreover, analysis of the C2 server and file logs also revealed an African connection, as the researchers uncovered a network block of IP addresses originating from a city located in the African nation of Namibia.
+"This led McAfee Advanced Threat Research analysts to suspect that the actors behind Sharpshooter may have tested their implants and other techniques in this area of the world prior to launching their broader campaign of attacks," the researchers say.
+The C2 infrastructure used by the attackers has a core backend written in Hypertext Preprocessor (PHP), and Active Server Pages (ASP), which "appears to be custom and unique to the group" and has been part of the Lazarus operations since 2017.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

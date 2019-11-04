@@ -1,0 +1,18 @@
+Critical Flaw in Apache Struts2 Lets Hackers Take Over Web Servers
+Swati Khandelwal
+
+Security researchers have discovered a critical remote code execution vulnerability in the popular Apache Struts web application framework, allowing a remote attacker to run malicious code on the affected servers.
+Apache Struts is a free, open-source, Model-View-Controller (MVC) framework for developing web applications in the Java programming language, which supports REST, AJAX, and JSON.
+The vulnerability (CVE-2017-9805) is a programming blunder that resides in the way Struts processes data from an untrusted source. Specifically, Struts REST plugin fails to handle XML payloads while deserializing them properly.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+All versions of Apache Struts since 2008 (Struts 2.1.2 - Struts 2.3.33, Struts 2.5 - Struts 2.5.12) are affected, leaving all web applications using the framework’s REST plugin vulnerable to remote attackers.
+According to one of the security researchers at LGTM, who discovered this flaw, the Struts framework is being used by "an incredibly large number and variety of organisations," including Lockheed Martin, Vodafone, Virgin Atlantic, and the IRS.
+"On top of that, [the vulnerability] is incredibly easy for an attacker to exploit this weakness: all you need is a web browser," Man Yue Mo, an LGTM security researcher said.
+All an attacker needs is to submit a malicious XML code in a particular format to trigger the vulnerability on the targeted server.
+Successful exploitation of the vulnerability could allow an attacker to take full control of the affected server, eventually letting the attacker infiltrate into other systems on the same network.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mo said this flaw is an unsafe deserialization in Java similar to a vulnerability in Apache Commons Collections, discovered by Chris Frohoff and Gabriel Lawrence in 2015 that also allowed arbitrary code execution.
+Many Java applications have since been affected by multiple similar vulnerabilities in recent years.
+Since this vulnerability has been patched in Struts version 2.5.13, administrators are strongly advised to upgrade their Apache Struts installation as soon as possible.
+More technical details about the vulnerability and proof-of-concept have not been published by the researchers yet, giving admins enough time to upgrade their systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

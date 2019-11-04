@@ -1,0 +1,33 @@
+How Cloud-Based Automation Can Keep Business Operations Secure
+The Hacker News
+
+The massive data breach at Capital One – America's seventh-largest bank, according to revenue – has challenged many common assumptions about cloud computing for the first time.
+Ironically, the incident, which exposed some 106 million Capital One customers' accounts, has only reinforced the belief that the cloud remains the safest way to store sensitive data.
+"You have to compare [the cloud] not against 'perfect' but against 'on-premises.'" Ed Amoroso, a former chief security officer at AT&T, told Fortune magazine this week.
+He wasn't the only voice defending cloud computing in the wake of a hack attack. In an article titled "Don't Doubt the Cloud," Fortune columnist Robert Hackett, wrote: "The cloud is undeniably convenient and, more importantly, better in terms of security than what the majority of companies can achieve alone."
+The problem, experts said, was not cloud computing but rather the tendency for companies to become overly-reliant on cloud computing services like Amazon Web Services to oversee all aspects of security, instead of taking full responsibility for their data security.
+Security Advantages of Cloud-Based System
+After taking the necessary steps to ensure the safety of their data, companies benefit in numerous ways from the collective security of the cloud.
+1. Services such as SaaS (Software as a Service) are hosted on cloud servers
+With the collective power of the cloud, the changes are extremely high that the servers hosting your data are better protected than your on-site servers would be. In addition, the cloud service provider handles all maintenance, updates, and support. That takes a great deal of pressure off the IT department.
+This is both the biggest benefit of cloud computing and possibly the biggest area of risk. While a service such as Amazon Cloud Services has security resources few companies can match, it must be remembered that placing data in on the cloud is to take it out of complete control by your company. The firewalls protecting the data are no longer your own.
+But since your company is still working with the data, it must be secured at a high level on your end. That means compliance with SOC 2 and ISO/27001.
+2. Greatly Reduce Human Error – the Single Biggest Threat to Data Safety
+With fewer people having access to the data, there are fewer opportunities for errors that lead to data breaches. Too often, hackers can get through the most secure firewalls because someone on the other side carelessly clicked through a link that was planted by a hacker, usually in an email.
+But since the data is stored on servers in the cloud, not on-premises, those types of hacks will not result in data breaches.
+In addition, adding a layer of automation could reduce the amount of human interaction even more. Start-ups such as PapayaGlobal offer automation in global payroll ears renowned for being the target of hackers, whilst other companies have developed solutions involving robotic process automation (RPA)—software bots that are capable of mimicking human actions.
+Those bots are already being employed in areas such as book-keeping. The fewer people interacting with sensitive data, the safer the data will be.
+3. Data Transfers Only Through Secure channels 
+Some of the most common data breaches are carried out through the most mundane methods. Hackers create "spoof" versions of popular email programs.
+During tax season, when emails between financial departments and accounting firms are most intense, it's easy to fall for the crafty spoofs and wind up sending data directly to a cybercriminal.
+Email is widely recognized as one of the worst ways to send private and sensitive data for a variety of reasons. Not surprisingly, the strict standard for data privacy set by the EU's GDPR forbids transferring private information through email.
+With cloud computing, data is sent only through secure, encrypted channels. That eliminates the possibility of spoofs and other common ploys by hackers. It also keeps the data out of sight from hackers, significantly reducing the possibility that they would try to hack your data by other means.
+4. Separation between work environment and storage environment
+Another great advantage of the cloud is the networking segmentation between computing and storage. The obvious benefit of this separation is the reduced risk that all data will be compromised, even if a hacker manages to breach all the sophisticated defenses.
+Other forms of segmentation include limiting the number of people who can access certain data. Keeping sensitive information in the hands of only those individuals who need it, and staggering access so that the smallest possible number of people have access to the whole is an excellent way to mitigate potential breaches.
+Avoiding the Next Capital One Breach
+Few companies were as committed to the benefits of cloud computing as Capital One. While this did not protect the company from suffering one of the largest data breaches in history, it may help the next company avoid the same fate.
+It has brought greater awareness to the field of cloud security and data protection and identified areas that were exploitable by crafty hackers.
+The breach did not prove that the cloud was less secure than previously believed. It showed that it is never a good idea to outsource data security entirely to a third party. 
+Companies need to remain on guard at all times, take measures to ensure their own part of the data equation remains up to date with the most advanced technology, and keep a watchful eye on their data even when it is stored in the safety of the cloud.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+New Shamoon Malware Variant Targets Italian Oil and Gas Company
+Swati Khandelwal
+
+Shamoon is back… one of the most destructive malware families that caused damage to Saudi Arabia's largest oil producer in 2012 and this time it has targeted energy sector organizations primarily operating in the Middle East.
+Earlier this week, Italian oil drilling company Saipem was attacked and sensitive files on about 10 percent of its servers were destroyed, mainly in the Middle East, including Saudi Arabia, the United Arab Emirates and Kuwait, but also in India and Scotland.
+Saipem admitted Wednesday that the computer virus used in the latest cyber attack against its servers is a variant Shamoon—a disk wiping malware that was used in the most damaging cyber attacks in history against Saudi Aramco and RasGas Co Ltd and destroyed data on more than 30,000 systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The cyber attack against Saudi Aramco, who is the biggest customer of Saipem, was attributed to Iran, but it is unclear who is behind the latest cyber attacks against Saipem.
+Meanwhile, Chronicle, Google's cybersecurity subsidiary, has also discovered a file containing Shamoon sample that was uploaded to VirusTotal file analyzing service on 10th December (the very same day Saipem was attacked) from an IP address in Italy, where Saipem is headquartered.
+However, the Chronicle was not sure who created the newly discovered Shamoon samples or who uploaded them to the virus scanning site.
+The latest attack against Saipem reportedly crippled more than 300 of its servers and about 100 personal computers out of a total of roughly 4,000 machines, though the company confirmed that it had already backed up the affected computers, so there no possibility of data being lost in the cyber attack.
+"Saipem reports that the cyber attack hit servers based in the Middle East, India, Aberdeen and, in a limited way, Italy through a variant of Shamoon malware," Saipem said in its press release.
+"The restoration activities, in a gradual and controlled manner, are underway through the backup infrastructures and, when completed, will re-establish the full operation of the impacted sites."
+Shamoon, also known as Disttrack, works by disabling systems by overwriting key computer files, including the master boot record (MBR), making it impossible for computers to start up.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malware can also rapidly propagate across infected networks using Windows Server Message Block (SMB) protocol, similar to other known destructive malware like WannaCry and NotPetya.
+Shamoon was first surfaced in 2012, and then after a long time of silence, an evolved version of the malware was used in attacks against various Saudi organizations in 2016 and 2017 targeting multiple industries, including the public and financial services sectors.
+It is still unclear who actually created Shamoon, but security researchers widely believe that the Iranian hacking groups OilRig, Rocket Kitten, and Greenbug working on behalf of the Iranian government were behind previous Shamoon attacks, though Iran has strongly denied.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

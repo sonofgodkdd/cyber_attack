@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Leads Multi-Agency River Operation
+(Friday, January 21, 2011)
+Yuma, Ariz.  - Area law-enforcement agencies teamed up with the U.S. Border Patrol marine unit in a joint operation on the Colorado River over the weekend.
+During the weekend action, personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol joined forces on the Colorado River.click for hi-res
+Law enforcement officers from numerous agencies took part in the operation.
+In anticipation of potential illegal activities, state, local, and Federal law-enforcement agencies coordinated a joint river patrol deployment, dubbed "Operation River Alliance," in order to reduce cross-border criminal activity and improve the safety of the recreating public.
+Due to the increased law-enforcement presence on the Colorado River, the agencies participating were able to report the completion of a successful operation, and voiced their hopes that citizens will continue to enjoy the recreational activities along the Colorado River safely.
+To report suspicious activity along the Colorado River, contact the Yuma Sector Border Patrol's toll free telephone number at 
+1-866-999-8727 .
+]]></TEXT>
+<TAGS>
+<person id="p1" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="BAR" />
+<person id="p2" start="265" end="288" text="the Yuma County sheriff" TYPE="NOM" />
+<person id="p0" start="299" end="326" text="the Imperial County sheriff" TYPE="NOM" />
+<person id="p3" start="545" end="592" text="Law enforcement officers from numerous agencies" TYPE="BAR" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAM" />
+<organization id="o1" start="82" end="111" text="Area law-enforcement agencies" TYPE="BAR" />
+<organization id="o2" start="127" end="161" text="the U.S. Border Patrol marine unit" TYPE="NAM" />
+<organization id="o3" start="265" end="297" text="the Yuma County sheriff's office" TYPE="NOM" />
+<organization id="o4" start="299" end="335" text="the Imperial County sheriff's office" TYPE="NOM" />
+<organization id="o5" start="337" end="363" text="the Yuma Police Department" TYPE="NAM" />
+<organization id="o6" start="365" end="394" text="the Cocopah Police Department" TYPE="NAM" />
+<organization id="o7" start="396" end="432" text="the Quechan Fish and Game Department" TYPE="NAM" />
+<organization id="o8" start="434" end="463" text="the Quechan Police Department" TYPE="NAM" />
+<organization id="o9" start="469" end="491" text="the U.S. Border Patrol" TYPE="NAM" />
+<organization id="o10" start="499" end="527" text="forces on the Colorado River" TYPE="BAR" />
+<organization id="o11" start="575" end="592" text="numerous agencies" TYPE="BAR" />
+<organization id="o12" start="670" end="720" text="state, local, and Federal law-enforcement agencies" TYPE="BAR" />
+<organization id="o13" start="969" end="995" text="the agencies participating" TYPE="NOM" />
+<organization id="o14" start="1069" end="1074" text="their" TYPE="PRO" />
+<organization id="o15" start="1243" end="1272" text="the Yuma Sector Border Patrol" TYPE="NAM" />
+<organization id="o17" start="17" end="23" text="Agency" TYPE="NOMPRE" />
+<organization id="o18" start="735" end="753" text="joint river patrol" TYPE="NOMPRE" />
+<geographical-political id="g0" start="67" end="77" text="Yuma, Ariz" TYPE="NAM" />
+<geographical-political id="g1" start="73" end="77" text="Ariz" TYPE="NAM" />
+<geographical-political id="g2" start="269" end="280" text="Yuma County" TYPE="NAMPRE" />
+<geographical-political id="g3" start="303" end="318" text="Imperial County" TYPE="NAMPRE" />
+<geographical-political id="g4" start="1086" end="1094" text="citizens" TYPE="BAR" />
+<geographical-political id="g5" start="877" end="898" text="the recreating public" TYPE="NOM" />
+<location id="l0" start="186" end="204" text="the Colorado River" TYPE="NAM" />
+<location id="l1" start="509" end="527" text="the Colorado River" TYPE="NAM" />
+<location id="l2" start="949" end="967" text="the Colorado River" TYPE="NAM" />
+<location id="l3" start="1152" end="1170" text="the Colorado River" TYPE="NAM" />
+<location id="l4" start="1215" end="1233" text="the Colorado River" TYPE="NAM" />
+<head id="h0" start="1" end="4" text="CBP" />
+<head id="h1" start="67" end="71" text="Yuma" />
+<head id="h2" start="73" end="77" text="Ariz" />
+<head id="h3" start="103" end="111" text="agencies" />
+<head id="h4" start="131" end="161" text="U.S. Border Patrol marine unit" />
+<head id="h5" start="190" end="204" text="Colorado River" />
+<head id="h6" start="250" end="259" text="personnel" />
+<head id="h7" start="291" end="297" text="office" />
+<head id="h8" start="281" end="288" text="sheriff" />
+<head id="h9" start="269" end="280" text="Yuma County" />
+<head id="h10" start="329" end="335" text="office" />
+<head id="h11" start="319" end="326" text="sheriff" />
+<head id="h12" start="303" end="318" text="Imperial County" />
+<head id="h13" start="341" end="363" text="Yuma Police Department" />
+<head id="h14" start="369" end="394" text="Cocopah Police Department" />
+<head id="h15" start="400" end="432" text="Quechan Fish and Game Department" />
+<head id="h16" start="438" end="463" text="Quechan Police Department" />
+<head id="h17" start="473" end="491" text="U.S. Border Patrol" />
+<head id="h18" start="499" end="505" text="forces" />
+<head id="h19" start="513" end="527" text="Colorado River" />
+<head id="h20" start="561" end="569" text="officers" />
+<head id="h21" start="584" end="592" text="agencies" />
+<head id="h22" start="712" end="720" text="agencies" />
+<head id="h23" start="953" end="967" text="Colorado River" />
+<head id="h24" start="973" end="981" text="agencies" />
+<head id="h25" start="1069" end="1074" text="their" />
+<head id="h26" start="1086" end="1094" text="citizens" />
+<head id="h27" start="1156" end="1170" text="Colorado River" />
+<head id="h29" start="1219" end="1233" text="Colorado River" />
+<head id="h30" start="1247" end="1272" text="Yuma Sector Border Patrol" />
+<head id="h31" start="17" end="23" text="Agency" />
+<head id="h32" start="892" end="898" text="public" />
+<head id="h33" start="747" end="753" text="patrol" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="67" end="71" text="Yuma" />
+<name id="n2" start="73" end="77" text="Ariz" />
+<name id="n3" start="131" end="161" text="U.S. Border Patrol marine unit" />
+<name id="n4" start="190" end="204" text="Colorado River" />
+<name id="n5" start="269" end="280" text="Yuma County" />
+<name id="n6" start="303" end="318" text="Imperial County" />
+<name id="n7" start="341" end="363" text="Yuma Police Department" />
+<name id="n8" start="369" end="394" text="Cocopah Police Department" />
+<name id="n9" start="400" end="432" text="Quechan Fish and Game Department" />
+<name id="n10" start="438" end="463" text="Quechan Police Department" />
+<name id="n11" start="473" end="491" text="U.S. Border Patrol" />
+<name id="n12" start="513" end="527" text="Colorado River" />
+<name id="n13" start="953" end="967" text="Colorado River" />
+<name id="n14" start="1156" end="1170" text="Colorado River" />
+<name id="n15" start="1219" end="1233" text="Colorado River" />
+<name id="n16" start="1247" end="1272" text="Yuma Sector Border Patrol" />
+<employment-mention id="e0" start="265" end="288" text="the Yuma County sheriff" TYPE="PreMod" />
+<employment-mention id="e1" start="299" end="326" text="the Imperial County sheriff" TYPE="PreMod" />
+<M id="M0" start="265" end="297" text="the Yuma County sheriff's office" TYPE="Possessive" />
+<M id="M1" start="299" end="335" text="the Imperial County sheriff's office" TYPE="Possessive" />
+<M id="M2" start="545" end="592" text="Law enforcement officers from numerous agencies" TYPE="Preposition" />
+<M id="M3" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M4" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M5" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M6" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M7" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M8" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M9" start="250" end="491" text="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" TYPE="Preposition" />
+<M id="M10" start="223" end="527" text="During the weekend action, personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol joined forces on the Colorado River" TYPE="Verbal" />
+<entity_link id="en0" fromID="l1" fromText="the Colorado River" toID="l0" toText="the Colorado River" />
+<entity_link id="en1" fromID="o12" fromText="state, local, and Federal law-enforcement agencies" toID="o11" toText="numerous agencies" />
+<entity_link id="en2" fromID="l2" fromText="the Colorado River" toID="l1" toText="the Colorado River" />
+<entity_link id="en3" fromID="o13" fromText="the agencies participating" toID="o12" toText="state, local, and Federal law-enforcement agencies" />
+<entity_link id="en4" fromID="o14" fromText="their" toID="o13" toText="the agencies participating" />
+<entity_link id="en5" fromID="l3" fromText="the Colorado River" toID="l2" toText="the Colorado River" />
+<entity_link id="en7" fromID="o12" fromText="state, local, and Federal law-enforcement agencies" toID="o10" toText="forces on the Colorado River" />
+<entity_link id="en8" fromID="l4" fromText="the Colorado River" toID="l3" toText="the Colorado River" />
+<entity_link id="en9" fromID="o9" fromText="the U.S. Border Patrol" toID="o0" toText="CBP" />
+<entity_link id="en10" fromID="g2" fromText="Yuma County" toID="g0" toText="Yuma, Ariz" />
+<head_link id="he0" fromID="o0" fromText="CBP" toID="h0" toText="CBP" />
+<head_link id="he1" fromID="g0" fromText="Yuma, Ariz" toID="h1" toText="Yuma" />
+<head_link id="he2" fromID="g1" fromText="Ariz" toID="h2" toText="Ariz" />
+<head_link id="he3" fromID="o1" fromText="Area law-enforcement agencies" toID="h3" toText="agencies" />
+<head_link id="he4" fromID="o2" fromText="the U.S. Border Patrol marine unit" toID="h4" toText="U.S. Border Patrol marine unit" />
+<head_link id="he5" fromID="l0" fromText="the Colorado River" toID="h5" toText="Colorado River" />
+<head_link id="he6" fromID="p1" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="h6" toText="personnel" />
+<head_link id="he7" fromID="o3" fromText="the Yuma County sheriff's office" toID="h7" toText="office" />
+<head_link id="he8" fromID="p2" fromText="the Yuma County sheriff" toID="h8" toText="sheriff" />
+<head_link id="he9" fromID="g2" fromText="Yuma County" toID="h9" toText="Yuma County" />
+<head_link id="he10" fromID="o4" fromText="the Imperial County sheriff's office" toID="h10" toText="office" />
+<head_link id="he11" fromID="p0" fromText="the Imperial County sheriff" toID="h11" toText="sheriff" />
+<head_link id="he12" fromID="g3" fromText="Imperial County" toID="h12" toText="Imperial County" />
+<head_link id="he13" fromID="o5" fromText="the Yuma Police Department" toID="h13" toText="Yuma Police Department" />
+<head_link id="he14" fromID="o6" fromText="the Cocopah Police Department" toID="h14" toText="Cocopah Police Department" />
+<head_link id="he15" fromID="o7" fromText="the Quechan Fish and Game Department" toID="h15" toText="Quechan Fish and Game Department" />
+<head_link id="he16" fromID="o8" fromText="the Quechan Police Department" toID="h16" toText="Quechan Police Department" />
+<head_link id="he17" fromID="o9" fromText="the U.S. Border Patrol" toID="h17" toText="U.S. Border Patrol" />
+<head_link id="he18" fromID="o10" fromText="forces on the Colorado River" toID="h18" toText="forces" />
+<head_link id="he19" fromID="l1" fromText="the Colorado River" toID="h19" toText="Colorado River" />
+<head_link id="he20" fromID="p3" fromText="Law enforcement officers from numerous agencies" toID="h20" toText="officers" />
+<head_link id="he21" fromID="o11" fromText="numerous agencies" toID="h21" toText="agencies" />
+<head_link id="he22" fromID="o12" fromText="state, local, and Federal law-enforcement agencies" toID="h22" toText="agencies" />
+<head_link id="he23" fromID="l2" fromText="the Colorado River" toID="h23" toText="Colorado River" />
+<head_link id="he24" fromID="o13" fromText="the agencies participating" toID="h24" toText="agencies" />
+<head_link id="he25" fromID="o14" fromText="their" toID="h25" toText="their" />
+<head_link id="he26" fromID="g4" fromText="citizens" toID="h26" toText="citizens" />
+<head_link id="he27" fromID="l3" fromText="the Colorado River" toID="h27" toText="Colorado River" />
+<head_link id="he28" fromID="l4" fromText="the Colorado River" toID="h29" toText="Colorado River" />
+<head_link id="he29" fromID="o15" fromText="the Yuma Sector Border Patrol" toID="h30" toText="Yuma Sector Border Patrol" />
+<head_link id="he31" fromID="o17" fromText="Agency" toID="h31" toText="Agency" />
+<head_link id="he32" fromID="g5" fromText="the recreating public" toID="h32" toText="public" />
+<head_link id="he33" fromID="o18" fromText="joint river patrol" toID="h33" toText="patrol" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Yuma, Ariz" toID="n1" toText="Yuma" />
+<name_link id="na2" fromID="g1" fromText="Ariz" toID="n2" toText="Ariz" />
+<name_link id="na3" fromID="o2" fromText="the U.S. Border Patrol marine unit" toID="n3" toText="U.S. Border Patrol marine unit" />
+<name_link id="na4" fromID="l0" fromText="the Colorado River" toID="n4" toText="Colorado River" />
+<name_link id="na5" fromID="g2" fromText="Yuma County" toID="n5" toText="Yuma County" />
+<name_link id="na6" fromID="g3" fromText="Imperial County" toID="n6" toText="Imperial County" />
+<name_link id="na7" fromID="o5" fromText="the Yuma Police Department" toID="n7" toText="Yuma Police Department" />
+<name_link id="na8" fromID="o6" fromText="the Cocopah Police Department" toID="n8" toText="Cocopah Police Department" />
+<name_link id="na9" fromID="o7" fromText="the Quechan Fish and Game Department" toID="n9" toText="Quechan Fish and Game Department" />
+<name_link id="na10" fromID="o8" fromText="the Quechan Police Department" toID="n10" toText="Quechan Police Department" />
+<name_link id="na11" fromID="o9" fromText="the U.S. Border Patrol" toID="n11" toText="U.S. Border Patrol" />
+<name_link id="na12" fromID="l1" fromText="the Colorado River" toID="n12" toText="Colorado River" />
+<name_link id="na13" fromID="l2" fromText="the Colorado River" toID="n13" toText="Colorado River" />
+<name_link id="na14" fromID="l3" fromText="the Colorado River" toID="n14" toText="Colorado River" />
+<name_link id="na15" fromID="l4" fromText="the Colorado River" toID="n15" toText="Colorado River" />
+<name_link id="na16" fromID="o15" fromText="the Yuma Sector Border Patrol" toID="n16" toText="Yuma Sector Border Patrol" />
+<relation_link1 id="r0" fromID="e0" fromText="the Yuma County sheriff" toID="p2" toText="the Yuma County sheriff" />
+<relation_link1 id="r1" fromID="e1" fromText="the Imperial County sheriff" toID="p0" toText="the Imperial County sheriff" />
+<relation_link1 id="r2" fromID="M0" fromText="the Yuma County sheriff's office" toID="p2" toText="the Yuma County sheriff" />
+<relation_link1 id="r3" fromID="M1" fromText="the Imperial County sheriff's office" toID="p0" toText="the Imperial County sheriff" />
+<relation_link1 id="r4" fromID="M2" fromText="Law enforcement officers from numerous agencies" toID="p3" toText="Law enforcement officers from numerous agencies" />
+<relation_link1 id="r5" fromID="M3" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r6" fromID="M4" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r7" fromID="M5" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r8" fromID="M6" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r9" fromID="M7" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r10" fromID="M8" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r11" fromID="M9" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link1 id="r12" fromID="M10" fromText="During the weekend action, personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol joined forces on the Colorado River" toID="p1" toText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" />
+<relation_link2 id="re0" fromID="e0" fromText="the Yuma County sheriff" toID="g2" toText="Yuma County" />
+<relation_link2 id="re1" fromID="e1" fromText="the Imperial County sheriff" toID="g3" toText="Imperial County" />
+<relation_link2 id="re2" fromID="M0" fromText="the Yuma County sheriff's office" toID="o3" toText="the Yuma County sheriff's office" />
+<relation_link2 id="re3" fromID="M1" fromText="the Imperial County sheriff's office" toID="o4" toText="the Imperial County sheriff's office" />
+<relation_link2 id="re4" fromID="M2" fromText="Law enforcement officers from numerous agencies" toID="o11" toText="numerous agencies" />
+<relation_link2 id="re5" fromID="M3" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o3" toText="the Yuma County sheriff's office" />
+<relation_link2 id="re6" fromID="M4" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o4" toText="the Imperial County sheriff's office" />
+<relation_link2 id="re7" fromID="M5" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o5" toText="the Yuma Police Department" />
+<relation_link2 id="re8" fromID="M6" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o6" toText="the Cocopah Police Department" />
+<relation_link2 id="re9" fromID="M7" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o7" toText="the Quechan Fish and Game Department" />
+<relation_link2 id="re10" fromID="M8" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o8" toText="the Quechan Police Department" />
+<relation_link2 id="re11" fromID="M9" fromText="personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol" toID="o9" toText="the U.S. Border Patrol" />
+<relation_link2 id="re12" fromID="M10" fromText="During the weekend action, personnel from the Yuma County sheriff's office, the Imperial County sheriff's office, the Yuma Police Department, the Cocopah Police Department, the Quechan Fish and Game Department, the Quechan Police Department, and the U.S. Border Patrol joined forces on the Colorado River" toID="o10" toText="forces on the Colorado River" />
+</TAGS>
+</KddTask>

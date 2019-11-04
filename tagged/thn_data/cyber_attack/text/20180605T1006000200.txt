@@ -1,0 +1,17 @@
+Over 115,000 Drupal Sites Still Vulnerable to Drupalgeddon2 Exploit
+Swati Khandelwal
+
+Hundreds of thousands of websites running on the Drupal CMS—including those of major educational institutions and government organizations around the world—have been found vulnerable to a highly critical flaw for which security patches were released almost two months ago.
+Security researcher Troy Mursch scanned the whole Internet and found over 115,000 Drupal websites are still vulnerable to the Drupalgeddon2 flaw despite repetitive warnings.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Drupalgeddon2 (CVE-2018-7600) is a highly critical remote code execution vulnerability discovered late March in Drupal CMS software (versions < 7.58 / 8.x < 8.3.9 / 8.4.x < 8.4.6 / 8.5.x < 8.5.1) that could allow attackers to completely take over vulnerable websites.
+For those unaware, Drupalgeddon2 allows an unauthenticated, remote attacker to execute malicious code on default or standard Drupal installations under the privileges of the user.
+Since Drupalgeddon2 had much potential to derive attention of motivated attackers, the company urged all website administrators to install security patches immediately after it was released in late March and decided not to release any technical details of the flaw initially.
+However, attackers started exploiting the vulnerability only two weeks after complete details and proof-of-concept (PoC) exploit code of Drupalgeddon2 was published online, which was followed by large-scale Internet scanning and exploitation attempts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Shortly after that, we saw attackers developed automated exploits leveraging Drupalgeddon 2 vulnerability to inject cryptocurrency miners, backdoors, and other malware into websites, within few hours after it's detailed went public.
+Mursch scanned the Internet and found nearly 500,000 websites were running on Drupal 7, out of which 115,070 were still running an outdated version of Drupal vulnerable to Drupalgeddon2.
+While analyzing vulnerable websites, Mursch noticed that hundreds of them—including those of Belgium police department, Colorado Attorney General office, Fiat subsidiary Magneti Marelli and food truck locating service—have already been targeted by a new cryptojacking campaign.
+Mursch also found some infected websites in the campaign that had already upgraded their sites to the latest Drupal version, but the cryptojacking malware still existed.
+We have been warning users since March that if you are already infected with the malware, merely updating your Drupal website would not remove the "backdoors or fix compromised sites." To fully resolve the issue you are recommended to follow this Drupal guide.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

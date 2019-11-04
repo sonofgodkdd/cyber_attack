@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Lulzsec hackers to be sentenced for cyber attacks on the CIA and Pentagon
+Mohit Kumar
+Four men accused of launching online attacks under the banner of LulzSec appeared in a London courtroom Wednesday for sentencing. Ryan Ackroyd, Jake Davis, Mustafa al-Bassam and Ryan Cleary have all pleaded guilty to hacking offences.
+The name Lulzsec is a combination of 'lulz' or 'lols', "LAUGHING AT YOUR SECURITY" meaning 'laugh out loud' and security, and was a direct descent of notorious hacking group Anonymous.  (adsbygoogle = window.adsbygoogle || []).push({}); Working from their bedrooms in 2011, caused millions of pounds of damage with attacks on NHS, CIA and US military websites, they stole huge amounts of sensitive personal data including emails, online passwords and credit card details belonging to hundreds of thousands of people, Southwark Crown Court in London heard.
+They also carried out distributed denial of service (DDoS) attacks on many institutions, crashing their websites. Ackroyd, 26, from Mexborough, South Yorkshire, has admitted stealing data from Sony.
+To do it, they used a remotely controlled network of zombie computers, known as a "botnet", capable of being programmed to perform the attack. The botnet code was written by Cleary and the court heard it may have been using up to one million computers to carry out attacks via the Internet without their owners knowing about it.
+The attacks led to sensitive personal information being leaked online, leaving victims open to fraud. They even attacked the US X Factor contestant data base.
+Ackroyd had been expected to stand trial at Southwark Crown Court in April, but changed his plea to a key charge at the last minute. He is the last of four members of the online gang, whose victims included the Pentagon, the CIA, and the UK's Serious and Organised Crime Agency, to be convicted.
+In addition to the hacking offences to which all four have pleaded guilty, Cleary alone has pleaded guilty to charges of downloading pornographic images of babies and children.
+"It's clear from the evidence that they intended to achieve extensive national and international notoriety and publicity," said Prosecutor Sandip Patel.
+Lulz only existed for a matter of months in 2011 but in that time it built up a huge international following, reaching 355,000 Twitter followers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<user_compromise id="u0" start="1295" end="1300" text="using" TYPE="USP" />
+<user_compromise id="u1" start="1388" end="1395" text="knowing" TYPE="SUP" />
+<DoS id="D0" start="967" end="975" text="crashing" TYPE="USP" />
+</TAGS>
+</KddTask>

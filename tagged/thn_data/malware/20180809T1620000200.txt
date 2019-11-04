@@ -1,0 +1,21 @@
+Researchers Developed Artificial Intelligence-Powered Stealthy Malware
+Mohit Kumar
+
+Artificial Intelligence (AI) has been seen as a potential solution for automatically detecting and combating malware, and stop cyber attacks before they affect any organization.
+However, the same technology can also be weaponized by threat actors to power a new generation of malware that can evade even the best cyber-security defenses and infects a computer network or launch an attack only when the target's face is detected by the camera.
+To demonstrate this scenario, security researchers at IBM Research came up with DeepLocker—a new breed of "highly targeted and evasive" attack tool powered by AI," which conceals its malicious intent until it reached a specific victim.
+According to the IBM researcher, DeepLocker flies under the radar without being detected and "unleashes its malicious action as soon as the AI model identifies the target through indicators like facial recognition, geolocation and voice recognition."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Describing it as the "spray and pray" approach of traditional malware, researchers believe that this kind of stealthy AI-powered malware is particularly dangerous because, like nation-state malware, it could infect millions of systems without being detected.
+The malware can hide its malicious payload in benign carrier applications, like video conferencing software, to avoid detection by most antivirus and malware scanners until it reaches specific victims, who are identified via indicators such as voice recognition, facial recognition, geolocation and other system-level features.
+Also Read: Artificial Intelligence Based System That Can Detect 85% of Cyber Attacks
+"What is unique about DeepLocker is that the use of AI makes the “trigger conditions” to unlock the attack almost impossible to reverse engineer," the researchers explain. "The malicious payload will only be unlocked if the intended target is reached."
+To demonstrate DeepLocker's capabilities, the researchers designed a proof of concept, camouflaging well-known WannaCry ransomware in a video conferencing app so that it remains undetected by security tools, including antivirus engines and malware sandboxes.
+With the built-in triggering condition, DeepLocker did not unlock and execute the ransomware on the system until it recognized the face of the target, which can be matched using publicly available photos of the target.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Imagine that this video conferencing application is distributed and downloaded by millions of people, which is a plausible scenario nowadays on many public platforms. When launched, the app would surreptitiously feed camera snapshots into the embedded AI model, but otherwise behave normally for all users except the intended target," the researchers added.
+"When the victim sits in front of the computer and uses the application, the camera would feed their face to the app, and the malicious payload will be secretly executed, thanks to the victim’s face, which was the preprogrammed key to unlock it."
+So, all DeepLocker requires is your photo, which can easily be found from any of your social media profiles on LinkedIn, Facebook, Twitter, Google+, or Instagram, to target you. 
+Trustwave has recently open-sourced a facial recognition tool called Social Mapper, which can be used to search for targets across numerous social networks at once.
+The IBM Research group will unveil more details and a live demonstration of its proof-of-concept implementation of DeepLocker at the Black Hat USA security conference in Las Vegas on Wednesday.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

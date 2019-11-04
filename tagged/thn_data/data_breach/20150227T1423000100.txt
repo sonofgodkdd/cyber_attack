@@ -1,0 +1,15 @@
+TalkTalk Admits Customer Data Breach, warns of Scam Calls
+Swati Khandelwal
+
+TalkTalk, one of the biggest UK-based phone, TV and Internet service provider with 4 million customers, has admitted it suffered a major Data Breach.
+TalkTalk said customer information was accessed after a breach at a third-party company, in which names, addresses, phone numbers and TalkTalk account numbers have been stolen.
+According to the report, TalkTalk customers began reporting problems on the TalkTalk forums late last year. Whereas, in some cases, hackers used customer details to scam bank information from the victims.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+TalkTalk has confirmed that "a small, but nonetheless significant" number of customers have had their account details compromised by hackers, claiming to be from TalkTalk in order to trick them into handing over their banking details.
+"At TalkTalk we take our customers' security very seriously and we take numerous measures to help keep our customers safe," TalkTalk spokesperson said in a statement. "Yet sadly in every sector, criminal organisations using phone and email scams are on the rise."
+"As part of our ongoing approach to security we continually test our systems and processes ... following further investigation into these reports, we have now become aware that some limited, non-sensitive information about some customers could have been illegally accessed in violation of our security procedures."
+So far, it isn’t clear that how many TalkTalk customers’ data have been breached, but the company remains confident and reassure its customers that "no sensitive data", like a customer's date of birth, bank or credit card details has been compromised, and also that no TalkTalk Business customers are affected by the breach.
+TalkTalk says it has taken "urgent and serious steps" to secure its systems and, meanwhile, warns its customers to be wary of any suspected phone or email correspondence purporting to be from TalkTalk. 
+A TalkTalk customer, Graeme Smith from County Durham spoke to the Guardian, reporting that the cyber criminals were able to steal almost £3,000 out of his Santander bank account. Smith said it was too late when he realised there was a problem.
+The company also says that it has begun legal action against those third-party that had contacted the affected customers to reveal their banking details.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

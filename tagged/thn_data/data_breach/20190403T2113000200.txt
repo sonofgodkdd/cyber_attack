@@ -1,0 +1,20 @@
+540 Million Facebook User Records Found On Unprotected Amazon Servers
+Mohit Kumar
+
+It's been a bad week for Facebook users.
+First, the social media company was caught asking some of its new users to share passwords for their registered email accounts and now…
+...the bad week gets worse with a new privacy breach.
+More than half a billion records of millions of Facebook users have been found exposed on unprotected Amazon cloud servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The exposed datasets do not directly come from Facebook; instead, they were collected and unsecurely stored online by third-party Facebook app developers.
+Researchers at the cybersecurity firm UpGuard today revealed that they discovered two datasets—one from a Mexican media company called Cultura Colectiva and another from a Facebook-integrated app called "At the pool"—both left publicly accessible on the Internet.
+More than 146 GB of data collected by Cultura Colectiva contains over 540 million Facebook user records, including comments, likes, reactions, account names, Facebook user IDs, and more.
+The second dataset belonging to "At the Pool" app contains information about users' friends, likes, groups, and checked-in locations, as well as "names, plaintext passwords and email addresses for 22,000 people."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though UpGuard believes the plaintext passwords found in the database were for the At the Pool app, and not for users' Facebook accounts, given the fact that people frequently re-use the same passwords for multiple apps, many of the leaked passwords could be used to access Facebook accounts.
+"As Facebook faces scrutiny over its data stewardship practices, they have made efforts to reduce third-party access. But as these exposures show, the data genie cannot be put back in the bottle. Data about Facebook users have been spread far beyond the bounds of what Facebook can control today," experts at UpGuard said.
+Both datasets were stored in unsecured Amazon S3 buckets, which have now been secured and taken offline after Upguard, Facebook and media contacted Amazon. 
+This is not the first time third-party companies have collected or misused Facebook data and sometimes leaked it to the public.
+The most famous incident is the Cambridge Analytica scandal wherein the political data firm improperly gathered and misused data on 87 million users through a seemingly innocuous quiz app, for which the social media giant is facing £500,000 EU fine.
+Though Facebook has since then tightened up its privacy controls ensuring apps use their access appropriately, the social media company is still facing intense pressure and criticism for not doing enough to offer better privacy and security to its 2.3 billion users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,14 @@
+Potential backdoors discovered in US-based components used by French Satellites
+Anonymous
+United Arab Emirates (UAE) may terminate a $930 Million USD contract with France based companies for the supply of two two military Imaging satellites due to the discovery of several US produced components in them.
+Now the deal is in danger because the UAE claims it has discovered backdoors in the components which are manufactured in the United States, reported by the Defense News.  (adsbygoogle = window.adsbygoogle || []).push({}); The contract, sealed in July 2013, includes a ground station, the Pleiades-type satellites (aka Falcon Eye) are due for delivery 2018.
+The revelation was provided by high-level UAE sources, the companies involved in the business are the prime contractor Airbus Defense and Space, and payload maker Thales Alenia Space.
+“If this issue is not resolved, the UAE is willing to scrap the whole deal,” he added. UAE authorities suspect the presence of vulnerabilities would “provide a back door to the highly secure data transmitted to the ground station”.
+An unnamed UAE source has confirmed that the presence of backdoor has been reported to Sheikh Mohammed Bin Zayed, deputy supreme commander of the UAE's armed forces.
+The contract signed with French companies includes two high-resolution observation satellites and the operational support from France with training for 20 engineers.
+UAE representatives are evaluating alternative partners for the supply, Russian industry may be more likely  supplier.
+"The UAE has drawn on Russian technology, with the GLONASS space-based navigation system fitted as a redundancy feature on a Western European weapon system," a French defense expert said.
+While some security experts believe that French industry had drawn on the US technology  due complexity of the payload, other specialists found intriguing that France had drawn on US technology for the satellites under the Falcon Eye program.
+"France operates the Pleiades spy satellite in what is viewed as a critical piece of the nation’s sovereignty. Given that core competence, it seemed strange that France would use US technology, although there is an agreement between Paris and Washington over transfer of capabilities, " said a Defense analysts.
+The Defense News also speculated on the fact that the claims may be an attempt to condition another contract for Dassault Aviation Rafale fighters, both French companies were available for comment.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

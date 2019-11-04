@@ -1,0 +1,31 @@
+GhostDNS: New DNS Changer Botnet Hijacked Over 100,000 Routers
+Swati Khandelwal
+
+Chinese cybersecurity researchers have uncovered a widespread, ongoing malware campaign that has already hijacked over 100,000 home routers and modified their DNS settings to hack users with malicious web pages—especially if they visit banking sites—and steal their login credentials.
+Dubbed GhostDNS, the campaign has many similarities with the infamous DNSChanger malware that works by changing DNS server settings on an infected device, allowing attackers to route the users' internet traffic through malicious servers and steal sensitive data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a new report from cybersecurity firm Qihoo 360's NetLab, just like the regular DNSChanger campaign, GhostDNS scans for the IP addresses for routers that use weak or no password at all, accesses the routers' settings, and then changes the router's default DNS address to the one controlled by the attackers.
+GhostDNS System: List of Modules and Sub-Modules
+The GhostDNS system mainly includes four modules:
+1) DNSChanger Module: This is the main module of GhostDNS designed to exploit targeted routers based upon collected information.
+DNSChanger Module is comprised of three sub-modules, which the researchers dubbed, Shell DNSChanger, Js DNSChanger, and PyPhp DNSChanger.
+a.) Shell DNSChanger—Written in the Shell programming language, this sub-module combines 25 Shell scripts that can brute-force the passwords on routers or firmware packages from 21 different manufacturers.
+b.) Js DNSChanger—Mainly written in JavaScript, this sub-module includes 10 attack scripts designed to infect 6 routers or firmware packages.
+"Its functional structure is mainly divided into scanners, payload generators, and attack programs. The Js DNSChanger program is usually injected into phishing websites, so it works together with the Phishing Web System," the researchers say.
+c.) PyPhp DNSChanger—Written in both Python and PHP, this submodule contains 69 attack scripts against 47 different routers/firmware and has been found deployed on over 100 servers, most of which on Google Cloud, and includes functionalities like Web API, Scanner and Attack module.
+This sub-module is the core module of DNSChanger that allows attackers to scan the Internet to find vulnerable routers.
+2) Web Admin module: Though researchers do not have too much information about this module yet, it seems to be an admin panel for attackers secured with a login page.
+3) Rogue DNS module: This module is responsible for resolving targeted domain names from the attacker-controlled web servers, which mainly involves banking and cloud hosting services, along with a domain that belongs to a security company named Avira.
+"We have no access to the Rouge DNS server, so we can’t say for sure how many DNS names have been hijacked, but by querying both Alexa Top1M and our DNSMon’s Top1M domains against the rogue DNS server (139.60.162.188), we were able to find a total of 52 domains being hijacked," NetLab researchers say.
+4) Phishing Web module: When a targeted domain successfully gets resolved through the rogue DNS module, Phishing web module aims to server the right fake version for that specific website.
+GhostDNS Malware Targeting Brazilian Users Primarily
+According to the researchers, between September 21 and 27, the GhostDNS campaign compromised more than 100,000 routers, of which 87.8 percent of devices (which equals to 87,800) are located in Brazil only, which means Brazil is the primary target for GhostDNS attackers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also Read: VPNFilter Router Malware Adds 7 New Network Exploitation Modules
+"Currently the campaign mainly focuses on Brazil, we have counted 100k+ infected router IP addresses (87.8% located in Brazil), and 70+ router/firmware have been involved, and 50+ domain names such as some big banks in brazil , even Netflix, Citibank.br have been hijacked to steal the corresponding website login credentials," the researchers say.
+Since the GhostDNS campaign is highly scaled, utilizes different attack vector and adopts automated attack process, it poses a real threat to users. Therefore, users are advised to protect themselves.
+How to Protect Your Home Router from Hackers
+In order to avoid yourself from being a victim to such attacks, you are recommended to ensure that your router is running the latest version of the firmware and set a strong password for the router web portal.
+You can also consider disabling remote administration, changing its default local IP address, and hardcoding a trusted DNS server into your router or the operating system.
+NetLab researchers also recommended the router vendors to increase the complexity of router default password and enhance the system security update mechanism for their products.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

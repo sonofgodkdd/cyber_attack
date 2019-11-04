@@ -1,0 +1,21 @@
+Chinese Spying Chips Found Hidden On Servers Used By US Companies
+Mohit Kumar
+
+A media report today revealed details of a significant supply chain attack which appears to be one of the largest corporate espionage and hardware hacking programs from a nation-state.
+According to a lengthy report published today by Bloomberg, a tiny surveillance chip, not much bigger than a grain of rice, has been found hidden in the servers used by nearly 30 American companies, including Apple and Amazon.
+The malicious chips, which were not part of the original server motherboards designed by the U.S-based company Super Micro, had been inserted during the manufacturing process in China.
+The report, based on a 3-year-long top-secret investigation in the United States, claims that the Chinese government-affiliated groups managed to infiltrate the supply chain to install tiny surveillance chips to motherboards which ended up in servers deployed by U.S. military, U.S. intelligence agencies, and many U.S. companies like Apple and Amazon.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Apple made its discovery of suspicious chips inside Supermicro servers around May 2015, after detecting odd network activity and firmware problems, according to a person familiar with the timeline," the report said.
+"Since the implants were small, the amount of code they contained was small as well. But they were capable of doing two very important things: telling the device to communicate with one of several anonymous computers elsewhere on the internet that were loaded with more complex code; and preparing the device’s operating system to accept this new code."
+The chips suspected to have been added to help Chinese government spy on American companies and their users—basically a "hardware hack" that according to the publication is "more difficult to pull off and potentially more devastating, promising the kind of long-term, stealth access that spy agencies are willing to invest millions of dollars and many years to get."
+"Depending on the board model, the chips varied slightly in size, suggesting that the attackers had supplied different factories with different batches," the report said.
+The publication claims that Apple and Amazon found these chips on their server motherboards in 2015 and reported it to US authorities, though both Apple and Amazon strongly refute the claims.
+Apple, Amazon, and Super Micro Refute the Bloomberg Report
+Apple told Bloomberg that the company has never found malicious chips, "hardware manipulations," or vulnerabilities purposely planted in any of its servers, or it "had any contact with the FBI or any other agency about such an incident."
+Apple ended its relationship with Super Micro in 2016. To its best guess, Apple said that the Bloomberg reporters confused their story with a previously-reported 2016 incident in which the company found an infected driver on a single Super Micro server in one of its labs.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"While there has been no claim that customer data was involved, we take these allegations seriously, and we want users to know that we do everything possible to safeguard the personal information they entrust to us," Apple says. "We also want them to know that what Bloomberg is reporting about Apple is inaccurate."
+Amazon also says it is "untrue" that the company knew of "a supply chain compromise," or "servers containing malicious chips or modifications in data centers based in China," or that it "worked with the FBI to investigate or provide data about malicious hardware." 
+Meanwhile, Supermicro and Chinese Ministry of Foreign Affairs have also strongly denied Bloomberg's findings by releasing lengthy statements. Here you can find a full list of official statements from Amazon, Apple, Supermicro and Chinese Ministry of Foreign Affairs.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

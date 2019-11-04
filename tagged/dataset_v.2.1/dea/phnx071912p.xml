@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Date: July 19, 2012
+U.K. Man Extradited to U.S. Faces Charges of Illegally Importing and Distributing Chemicals Used to Manufacture Methamphetamine
+July 19 (Phoenix)  - DEA Special Agent in Charge Doug Coleman and United States Attorney John S. Leonardo, District of Arizona today announced the extradition of Brian Howes, 48, of West Lothian, Scotland, from Scotland to the District of Arizona. U.S. Magistrate Judge David K. Duncan ordered that Howes remain in custody pending trial on an 82 count indictment that charges him with unlawfully importing and distributing regulated chemicals to Arizona. Howes is scheduled to be tried before U.S. District Judge Frederick J. Martone on September 5, 2012.
+" More than eight hundred pounds of chemicals found their way to American neighborhoods because of Brian Howes," said DEA Special Agent in Charge Doug Coleman. "Today, we answer his crime with the consequence criminals fear most:extradition to the United States.DEA stands firmly with our U.K. partners in this battle against drug abuse, and we will not relent until drug traffickers, from kingpins to the street dealers, are behind bars."
+"Individuals who unlawfully import into our country chemicals used to manufacture harmful drugs cannot escape justice by hiding behind a computer screen in foreign lands," said U.S. Attorney John S. Leonardo. "I commend our law enforcement partners for the investigation that led to the indictment and for the assistance they provided throughout the course of the extradition process."
+U.S. Marshal David Gonzales stated, "The extradition of Brian Howes closes a case that was inundated with years of legal wrangling in Howes' effort to avoid prosecution.The coordination between the U.S. Government and our Scottish counterparts was second to none. The United States Marshals Service looks forward to again working with our Federal, State, local and international law enforcement partners to bring wanted persons to justice, no matter where they live."
+A federal grand jury in Phoenix returned the indictment against Howes in September 2007. The indictment alleges that Howes was the founder and owner of an internet business that operated a website known aswww.KNO3.com
+. Howes allegedly used the website to import and distribute to Arizona the chemicals red phosphorus and iodine, both of which are used in the manufacture of methamphetamine. The indictment alleges that Howes sold approximately 6,900 grams of red phosphorus and 4850 grams of iodine to customers in Arizona between 2004 and 2006. The extradition of Howes' co-defendant, Kerry Ann Shanks, is pending.
+A conviction for unlawful importation and distribution of regulated chemicals carries a maximum penalty of 20 years in prison, a $250,000 fine, or both. In determining an actual sentence, Judge Martone will consult the U.S. Sentencing Guidelines, which provide appropriate sentencing ranges. The judge, however, is not bound by those guidelines in determining a sentence.
+An indictment is simply a method by which a person is charged with criminal activity and raises no inference of guilt. An individual is presumed innocent until competent evidence is presented to a jury that establishes guilt beyond a reasonable doubt.
+The investigation of this case was conducted by the Drug Enforcement Administration, U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI), the United States Postal Inspection Service, the Maricopa County Sheriff's Office, and the Phoenix Police Department. The United States Marshals Service assisted with the extradition of Howes from Scotland to the District of Arizona. The prosecution is being handled by William H. Bryan, Assistant U.S. Attorney, District of Arizona, Phoenix.
+For more information, contact PIO Ramona Sanchez atramona.f.sanchez@usdoj.gov
+ or at (602) 723-4764.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="21" end="48" text="U.K. Man Extradited to U.S." TYPE="BAR" />
+<person id="p1" start="170" end="210" text="DEA Special Agent in Charge Doug Coleman" TYPE="NAM" />
+<person id="p2" start="170" end="197" text="DEA Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p3" start="215" end="275" text="United States Attorney John S. Leonardo, District of Arizona" TYPE="NAM" />
+<person id="p4" start="215" end="237" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p5" start="311" end="353" text="Brian Howes, 48, of West Lothian, Scotland" TYPE="NAM" />
+<person id="p6" start="397" end="434" text="U.S. Magistrate Judge David K. Duncan" TYPE="NAM" />
+<person id="p7" start="397" end="418" text="U.S. Magistrate Judge" TYPE="NOMPRE" />
+<person id="p8" start="402" end="412" text="Magistrate" TYPE="NOMPRE" />
+<person id="p9" start="448" end="453" text="Howes" TYPE="NAM" />
+<person id="p10" start="525" end="528" text="him" TYPE="PRO" />
+<person id="p11" start="604" end="609" text="Howes" TYPE="NAM" />
+<person id="p12" start="642" end="682" text="U.S. District Judge Frederick J. Martone" TYPE="NAM" />
+<person id="p13" start="642" end="661" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p14" start="804" end="815" text="Brian Howes" TYPE="NAM" />
+<person id="p15" start="823" end="863" text="DEA Special Agent in Charge Doug Coleman" TYPE="NAM" />
+<person id="p16" start="823" end="850" text="DEA Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p17" start="883" end="886" text="his" TYPE="PRO" />
+<person id="p18" start="914" end="923" text="criminals" TYPE="BAR" />
+<person id="p20" start="1072" end="1125" text="drug traffickers, from kingpins to the street dealers" TYPE="BAR" />
+<person id="p21" start="1095" end="1103" text="kingpins" TYPE="BAR" />
+<person id="p22" start="1111" end="1125" text="street dealers" TYPE="BAR" />
+<person id="p24" start="1146" end="1240" text="Individuals who unlawfully import into our country chemicals used to manufacture harmful drugs" TYPE="BAR" />
+<person id="p25" start="1158" end="1161" text="who" TYPE="WHQ" />
+<person id="p26" start="1322" end="1352" text="U.S. Attorney John S. Leonardo" TYPE="NAM" />
+<person id="p27" start="1322" end="1335" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p28" start="1355" end="1356" text="I" TYPE="PRO" />
+<person id="p29" start="1531" end="1558" text="U.S. Marshal David Gonzales" TYPE="NAM" />
+<person id="p30" start="1531" end="1543" text="U.S. Marshal" TYPE="NOMPRE" />
+<person id="p31" start="1587" end="1598" text="Brian Howes" TYPE="NAM" />
+<person id="p32" start="1665" end="1670" text="Howes" TYPE="NAM" />
+<person id="p33" start="1944" end="1958" text="wanted persons" TYPE="BAR" />
+<person id="p34" start="1987" end="1991" text="they" TYPE="PRO" />
+<person id="p35" start="1999" end="2030" text="A federal grand jury in Phoenix" TYPE="NOM" />
+<person id="p36" start="2063" end="2068" text="Howes" TYPE="NAM" />
+<person id="p37" start="2116" end="2121" text="Howes" TYPE="NAM" />
+<person id="p38" start="2126" end="2216" text="the founder and owner of an internet business that operated a website known aswww.KNO3.com" TYPE="NOM" />
+<person id="p39" start="2126" end="2216" text="the founder and owner of an internet business that operated a website known aswww.KNO3.com" TYPE="NOM" />
+<person id="p19" start="2219" end="2224" text="Howes" TYPE="NAM" />
+<person id="p23" start="2419" end="2424" text="Howes" TYPE="NAM" />
+<person id="p40" start="2502" end="2522" text="customers in Arizona" TYPE="BAR" />
+<person id="p42" start="2565" end="2602" text="Howes' co-defendant, Kerry Ann Shanks" TYPE="NOM" />
+<person id="p43" start="2586" end="2602" text="Kerry Ann Shanks" TYPE="NAMPRE" />
+<person id="p44" start="2565" end="2570" text="Howes" TYPE="NAM" />
+<person id="p45" start="2804" end="2817" text="Judge Martone" TYPE="NAM" />
+<person id="p46" start="2804" end="2809" text="Judge" TYPE="NOMPRE" />
+<person id="p47" start="2908" end="2917" text="The judge" TYPE="NOM" />
+<person id="p48" start="3030" end="3038" text="a person" TYPE="NOM" />
+<person id="p49" start="3107" end="3120" text="An individual" TYPE="NOM" />
+<person id="p50" start="3183" end="3238" text="a jury that establishes guilt beyond a reasonable doubt" TYPE="NOM" />
+<person id="p51" start="3190" end="3194" text="that" TYPE="PRO" />
+<person id="p52" start="3459" end="3486" text="the Maricopa County Sheriff" TYPE="NOM" />
+<person id="p53" start="3600" end="3605" text="Howes" TYPE="NAM" />
+<person id="p54" start="3684" end="3755" text="William H. Bryan, Assistant U.S. Attorney, District of Arizona, Phoenix" TYPE="APP" />
+<person id="p55" start="3684" end="3700" text="William H. Bryan" TYPE="NAM" />
+<person id="p56" start="3702" end="3755" text="Assistant U.S. Attorney, District of Arizona, Phoenix" TYPE="BAR" />
+<person id="p57" start="3787" end="3805" text="PIO Ramona Sanchez" TYPE="NAM" />
+<person id="p58" start="3787" end="3790" text="PIO" TYPE="NOMPRE" />
+<organization id="o0" start="170" end="173" text="DEA" TYPE="NAMPRE" />
+<organization id="o1" start="256" end="275" text="District of Arizona" TYPE="NAM" />
+<organization id="o2" start="372" end="395" text="the District of Arizona" TYPE="NAM" />
+<organization id="o3" start="647" end="655" text="District" TYPE="NOMPRE" />
+<organization id="o4" start="823" end="826" text="DEA" TYPE="NAMPRE" />
+<organization id="o5" start="873" end="875" text="we" TYPE="PRO" />
+<organization id="o6" start="967" end="970" text="DEA" TYPE="NAM" />
+<organization id="o7" start="990" end="1007" text="our U.K. partners" TYPE="NOM" />
+<organization id="o8" start="990" end="993" text="our" TYPE="PRO" />
+<organization id="o9" start="1047" end="1049" text="we" TYPE="PRO" />
+<organization id="o10" start="1365" end="1393" text="our law enforcement partners" TYPE="NOM" />
+<organization id="o12" start="1466" end="1470" text="they" TYPE="PRO" />
+<organization id="o14" start="1749" end="1774" text="our Scottish counterparts" TYPE="NOM" />
+<organization id="o15" start="1749" end="1752" text="our" TYPE="PRO" />
+<organization id="o16" start="1795" end="1829" text="The United States Marshals Service" TYPE="NAM" />
+<organization id="o17" start="1866" end="1934" text="our Federal, State, local and international law enforcement partners" TYPE="NOM" />
+<organization id="o18" start="1866" end="1869" text="our" TYPE="PRO" />
+<organization id="o11" start="2151" end="2216" text="an internet business that operated a website known aswww.KNO3.com" TYPE="NOM" />
+<organization id="o20" start="2172" end="2176" text="that" TYPE="PRO" />
+<organization id="o21" start="3288" end="3323" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o22" start="3325" end="3411" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o23" start="3408" end="3411" text="HSI" TYPE="NAM" />
+<organization id="o24" start="3325" end="3372" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o25" start="3369" end="3372" text="ICE" TYPE="NAM" />
+<organization id="o26" start="3414" end="3457" text="the United States Postal Inspection Service" TYPE="NAM" />
+<organization id="o27" start="3459" end="3495" text="the Maricopa County Sheriff's Office" TYPE="NOM" />
+<organization id="o28" start="3501" end="3530" text="the Phoenix Police Department" TYPE="NAM" />
+<organization id="o29" start="3532" end="3566" text="The United States Marshals Service" TYPE="NAM" />
+<organization id="o30" start="3623" end="3646" text="the District of Arizona" TYPE="NAM" />
+<organization id="o32" start="3727" end="3755" text="District of Arizona, Phoenix" TYPE="NAM" />
+<geographical-political id="g0" start="158" end="165" text="Phoenix" TYPE="NAM" />
+<geographical-political id="g1" start="21" end="25" text="U.K." TYPE="NAMPRE" />
+<geographical-political id="g2" start="44" end="48" text="U.S." TYPE="NAM" />
+<geographical-political id="g3" start="215" end="228" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="331" end="353" text="West Lothian, Scotland" TYPE="NAM" />
+<geographical-political id="g5" start="345" end="353" text="Scotland" TYPE="NAM" />
+<geographical-political id="g6" start="360" end="368" text="Scotland" TYPE="NAM" />
+<geographical-political id="g7" start="397" end="401" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g8" start="595" end="602" text="Arizona" TYPE="NAM" />
+<geographical-political id="g9" start="642" end="646" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g10" start="770" end="792" text="American neighborhoods" TYPE="BAR" />
+<geographical-political id="g11" start="770" end="778" text="American" TYPE="NAMPRE" />
+<geographical-political id="g12" start="949" end="966" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="994" end="998" text="U.K." TYPE="NAMPRE" />
+<geographical-political id="g14" start="1185" end="1196" text="our country" TYPE="NOM" />
+<geographical-political id="g15" start="1185" end="1188" text="our" TYPE="PRO" />
+<geographical-political id="g16" start="1322" end="1326" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g17" start="1365" end="1368" text="our" TYPE="PRO" />
+<geographical-political id="g18" start="1531" end="1535" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g19" start="1753" end="1761" text="Scottish" TYPE="NAMPRE" />
+<geographical-political id="g21" start="2023" end="2030" text="Phoenix" TYPE="NAM" />
+<geographical-political id="g20" start="2280" end="2287" text="Arizona" TYPE="NAM" />
+<geographical-political id="g22" start="2515" end="2522" text="Arizona" TYPE="NAM" />
+<geographical-political id="g23" start="2835" end="2839" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g24" start="3463" end="3478" text="Maricopa County" TYPE="NAMPRE" />
+<geographical-political id="g25" start="3611" end="3619" text="Scotland" TYPE="NAM" />
+<geographical-political id="g26" start="3712" end="3716" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g27" start="3748" end="3755" text="Phoenix" TYPE="NAM" />
+<geographical-political id="g28" start="1725" end="1744" text="the U.S. Government" TYPE="NAM" />
+<falicity id="f0" start="1111" end="1117" text="street" TYPE="NOMPRE" />
+<falicity id="f1" start="2735" end="2741" text="prison" TYPE="BAR" />
+<head id="h0" start="26" end="29" text="Man" />
+<head id="h1" start="158" end="165" text="Phoenix" />
+<head id="h2" start="198" end="210" text="Doug Coleman" />
+<head id="h3" start="182" end="187" text="Agent" />
+<head id="h4" start="170" end="173" text="DEA" />
+<head id="h5" start="238" end="254" text="John S. Leonardo" />
+<head id="h6" start="229" end="237" text="Attorney" />
+<head id="h7" start="21" end="25" text="U.K." />
+<head id="h8" start="44" end="48" text="U.S." />
+<head id="h9" start="215" end="228" text="United States" />
+<head id="h10" start="256" end="275" text="District of Arizona" />
+<head id="h11" start="311" end="322" text="Brian Howes" />
+<head id="h12" start="331" end="343" text="West Lothian" />
+<head id="h13" start="345" end="353" text="Scotland" />
+<head id="h14" start="360" end="368" text="Scotland" />
+<head id="h15" start="376" end="395" text="District of Arizona" />
+<head id="h16" start="419" end="434" text="David K. Duncan" />
+<head id="h17" start="413" end="418" text="Judge" />
+<head id="h18" start="397" end="401" text="U.S." />
+<head id="h19" start="402" end="412" text="Magistrate" />
+<head id="h20" start="448" end="453" text="Howes" />
+<head id="h21" start="525" end="528" text="him" />
+<head id="h22" start="595" end="602" text="Arizona" />
+<head id="h23" start="604" end="609" text="Howes" />
+<head id="h24" start="662" end="682" text="Frederick J. Martone" />
+<head id="h25" start="656" end="661" text="Judge" />
+<head id="h26" start="647" end="655" text="District" />
+<head id="h27" start="642" end="646" text="U.S." />
+<head id="h28" start="779" end="792" text="neighborhoods" />
+<head id="h29" start="770" end="778" text="American" />
+<head id="h30" start="804" end="815" text="Brian Howes" />
+<head id="h31" start="851" end="863" text="Doug Coleman" />
+<head id="h32" start="835" end="840" text="Agent" />
+<head id="h33" start="823" end="826" text="DEA" />
+<head id="h34" start="873" end="875" text="we" />
+<head id="h35" start="883" end="886" text="his" />
+<head id="h36" start="953" end="966" text="United States" />
+<head id="h37" start="914" end="923" text="criminals" />
+<head id="h38" start="967" end="970" text="DEA" />
+<head id="h39" start="999" end="1007" text="partners" />
+<head id="h40" start="994" end="998" text="U.K." />
+<head id="h41" start="990" end="993" text="our" />
+<head id="h42" start="1047" end="1049" text="we" />
+<head id="h43" start="1077" end="1088" text="traffickers" />
+<head id="h44" start="1095" end="1103" text="kingpins" />
+<head id="h45" start="1118" end="1125" text="dealers" />
+<head id="h46" start="1111" end="1117" text="street" />
+<head id="h47" start="1146" end="1157" text="Individuals" />
+<head id="h48" start="1158" end="1161" text="who" />
+<head id="h49" start="1189" end="1196" text="country" />
+<head id="h50" start="1185" end="1188" text="our" />
+<head id="h51" start="1336" end="1352" text="John S. Leonardo" />
+<head id="h52" start="1327" end="1335" text="Attorney" />
+<head id="h53" start="1322" end="1326" text="U.S." />
+<head id="h54" start="1355" end="1356" text="I" />
+<head id="h55" start="1385" end="1393" text="partners" />
+<head id="h56" start="1365" end="1368" text="our" />
+<head id="h57" start="1466" end="1470" text="they" />
+<head id="h58" start="1544" end="1558" text="David Gonzales" />
+<head id="h59" start="1536" end="1543" text="Marshal" />
+<head id="h60" start="1531" end="1535" text="U.S." />
+<head id="h61" start="1587" end="1598" text="Brian Howes" />
+<head id="h62" start="1665" end="1670" text="Howes" />
+<head id="h63" start="1729" end="1744" text="U.S. Government" />
+<head id="h64" start="1762" end="1774" text="counterparts" />
+<head id="h65" start="1753" end="1761" text="Scottish" />
+<head id="h66" start="1749" end="1752" text="our" />
+<head id="h67" start="1799" end="1829" text="United States Marshals Service" />
+<head id="h68" start="1926" end="1934" text="partners" />
+<head id="h69" start="1866" end="1869" text="our" />
+<head id="h71" start="1951" end="1958" text="persons" />
+<head id="h72" start="1987" end="1991" text="they" />
+<head id="h73" start="2015" end="2019" text="jury" />
+<head id="h74" start="2023" end="2030" text="Phoenix" />
+<head id="h75" start="2063" end="2068" text="Howes" />
+<head id="h76" start="2116" end="2121" text="Howes" />
+<head id="h77" start="2130" end="2137" text="founder" />
+<head id="h78" start="2142" end="2147" text="owner" />
+<head id="h79" start="2163" end="2171" text="business" />
+<head id="h80" start="2172" end="2176" text="that" />
+<head id="h81" start="2219" end="2224" text="Howes" />
+<head id="h82" start="2280" end="2287" text="Arizona" />
+<head id="h83" start="2419" end="2424" text="Howes" />
+<head id="h84" start="2502" end="2511" text="customers" />
+<head id="h85" start="2515" end="2522" text="Arizona" />
+<head id="h86" start="2572" end="2584" text="co-defendant" />
+<head id="h87" start="2586" end="2602" text="Kerry Ann Shanks" />
+<head id="h88" start="2565" end="2570" text="Howes" />
+<head id="h89" start="2735" end="2741" text="prison" />
+<head id="h90" start="2810" end="2817" text="Martone" />
+<head id="h91" start="2804" end="2809" text="Judge" />
+<head id="h92" start="2835" end="2839" text="U.S." />
+<head id="h93" start="2912" end="2917" text="judge" />
+<head id="h94" start="3032" end="3038" text="person" />
+<head id="h95" start="3110" end="3120" text="individual" />
+<head id="h96" start="3185" end="3189" text="jury" />
+<head id="h97" start="3190" end="3194" text="that" />
+<head id="h98" start="3292" end="3323" text="Drug Enforcement Administration" />
+<head id="h99" start="3374" end="3406" text="Homeland Security Investigations" />
+<head id="h100" start="3408" end="3411" text="HSI" />
+<head id="h101" start="3325" end="3365" text="U.S. Immigration and Customs Enforcement" />
+<head id="h102" start="3369" end="3372" text="ICE" />
+<head id="h103" start="3418" end="3457" text="United States Postal Inspection Service" />
+<head id="h104" start="3489" end="3495" text="Office" />
+<head id="h105" start="3479" end="3486" text="Sheriff" />
+<head id="h106" start="3463" end="3478" text="Maricopa County" />
+<head id="h107" start="3505" end="3530" text="Phoenix Police Department" />
+<head id="h108" start="3536" end="3566" text="United States Marshals Service" />
+<head id="h109" start="3600" end="3605" text="Howes" />
+<head id="h110" start="3611" end="3619" text="Scotland" />
+<head id="h111" start="3627" end="3646" text="District of Arizona" />
+<head id="h112" start="3684" end="3700" text="William H. Bryan" />
+<head id="h113" start="3717" end="3725" text="Attorney" />
+<head id="h114" start="3712" end="3716" text="U.S." />
+<head id="h115" start="3727" end="3746" text="District of Arizona" />
+<head id="h116" start="3748" end="3755" text="Phoenix" />
+<head id="h117" start="3791" end="3805" text="Ramona Sanchez" />
+<head id="h118" start="3787" end="3790" text="PIO" />
+<name id="n0" start="158" end="165" text="Phoenix" />
+<name id="n1" start="198" end="210" text="Doug Coleman" />
+<name id="n2" start="170" end="173" text="DEA" />
+<name id="n3" start="238" end="254" text="John S. Leonardo" />
+<name id="n4" start="21" end="25" text="U.K." />
+<name id="n5" start="44" end="48" text="U.S." />
+<name id="n6" start="215" end="228" text="United States" />
+<name id="n7" start="256" end="275" text="District of Arizona" />
+<name id="n8" start="311" end="322" text="Brian Howes" />
+<name id="n9" start="331" end="343" text="West Lothian" />
+<name id="n10" start="345" end="353" text="Scotland" />
+<name id="n11" start="360" end="368" text="Scotland" />
+<name id="n12" start="376" end="395" text="District of Arizona" />
+<name id="n13" start="419" end="434" text="David K. Duncan" />
+<name id="n14" start="397" end="401" text="U.S." />
+<name id="n15" start="448" end="453" text="Howes" />
+<name id="n16" start="595" end="602" text="Arizona" />
+<name id="n17" start="604" end="609" text="Howes" />
+<name id="n18" start="662" end="682" text="Frederick J. Martone" />
+<name id="n19" start="642" end="646" text="U.S." />
+<name id="n20" start="770" end="778" text="American" />
+<name id="n21" start="804" end="815" text="Brian Howes" />
+<name id="n22" start="851" end="863" text="Doug Coleman" />
+<name id="n23" start="823" end="826" text="DEA" />
+<name id="n24" start="953" end="966" text="United States" />
+<name id="n25" start="967" end="970" text="DEA" />
+<name id="n26" start="994" end="998" text="U.K." />
+<name id="n27" start="1336" end="1352" text="John S. Leonardo" />
+<name id="n28" start="1322" end="1326" text="U.S." />
+<name id="n29" start="1544" end="1558" text="David Gonzales" />
+<name id="n30" start="1531" end="1535" text="U.S." />
+<name id="n31" start="1587" end="1598" text="Brian Howes" />
+<name id="n32" start="1665" end="1670" text="Howes" />
+<name id="n33" start="1729" end="1744" text="U.S. Government" />
+<name id="n34" start="1753" end="1761" text="Scottish" />
+<name id="n35" start="1799" end="1829" text="United States Marshals Service" />
+<name id="n36" start="2023" end="2030" text="Phoenix" />
+<name id="n37" start="2063" end="2068" text="Howes" />
+<name id="n38" start="2116" end="2121" text="Howes" />
+<name id="n39" start="2219" end="2224" text="Howes" />
+<name id="n40" start="2280" end="2287" text="Arizona" />
+<name id="n41" start="2419" end="2424" text="Howes" />
+<name id="n42" start="2515" end="2522" text="Arizona" />
+<name id="n43" start="2586" end="2602" text="Kerry Ann Shanks" />
+<name id="n44" start="2565" end="2570" text="Howes" />
+<name id="n45" start="2810" end="2817" text="Martone" />
+<name id="n46" start="2835" end="2839" text="U.S." />
+<name id="n47" start="3292" end="3323" text="Drug Enforcement Administration" />
+<name id="n48" start="3374" end="3406" text="Homeland Security Investigations" />
+<name id="n49" start="3408" end="3411" text="HSI" />
+<name id="n50" start="3325" end="3365" text="U.S. Immigration and Customs Enforcement" />
+<name id="n51" start="3369" end="3372" text="ICE" />
+<name id="n52" start="3418" end="3457" text="United States Postal Inspection Service" />
+<name id="n53" start="3463" end="3478" text="Maricopa County" />
+<name id="n54" start="3505" end="3530" text="Phoenix Police Department" />
+<name id="n55" start="3536" end="3566" text="United States Marshals Service" />
+<name id="n56" start="3600" end="3605" text="Howes" />
+<name id="n57" start="3611" end="3619" text="Scotland" />
+<name id="n58" start="3627" end="3646" text="District of Arizona" />
+<name id="n59" start="3684" end="3700" text="William H. Bryan" />
+<name id="n60" start="3712" end="3716" text="U.S." />
+<name id="n61" start="3727" end="3746" text="District of Arizona" />
+<name id="n62" start="3748" end="3755" text="Phoenix" />
+<name id="n63" start="3791" end="3805" text="Ramona Sanchez" />
+<located-mention id="lo0" start="21" end="48" text="U.K. Man Extradited to U.S." TYPE="Participial" />
+<located-mention id="lo1" start="170" end="395" text="DEA Special Agent in Charge Doug Coleman and United States Attorney John S. Leonardo, District of Arizona today announced the extradition of Brian Howes, 48, of West Lothian, Scotland, from Scotland to the District of Arizona" TYPE="Other" />
+<located-mention id="lo2" start="397" end="602" text="U.S. Magistrate Judge David K. Duncan ordered that Howes remain in custody pending trial on an 82 count indictment that charges him with unlawfully importing and distributing regulated chemicals to Arizona" TYPE="Other" />
+<located-mention id="lo3" start="1111" end="1125" text="street dealers" TYPE="PreMod" />
+<located-mention id="lo4" start="1999" end="2030" text="A federal grand jury in Phoenix" TYPE="Preposition" />
+<located-mention id="lo5" start="2502" end="2522" text="customers in Arizona" TYPE="Preposition" />
+<located-mention id="lo6" start="3532" end="3646" text="The United States Marshals Service assisted with the extradition of Howes from Scotland to the District of Arizona" TYPE="Other" />
+<employment-mention id="e0" start="215" end="237" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="397" end="418" text="U.S. Magistrate Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="642" end="661" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e3" start="1322" end="1335" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e4" start="1531" end="1543" text="U.S. Marshal" TYPE="PreMod" />
+<employment-mention id="e5" start="3459" end="3486" text="the Maricopa County Sheriff" TYPE="PreMod" />
+<employment-mention id="e6" start="3702" end="3755" text="Assistant U.S. Attorney, District of Arizona, Phoenix" TYPE="PreMod" />
+<CRRE id="C0" start="21" end="48" text="U.K. Man Extradited to U.S." TYPE="PreMod" />
+<CRRE id="C1" start="311" end="353" text="Brian Howes, 48, of West Lothian, Scotland" TYPE="Preposition" />
+<M id="M0" start="170" end="197" text="DEA Special Agent in Charge" TYPE="PreMod" />
+<M id="M1" start="215" end="275" text="United States Attorney John S. Leonardo, District of Arizona" TYPE="Formulaic" />
+<M id="M2" start="642" end="661" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M3" start="823" end="850" text="DEA Special Agent in Charge" TYPE="PreMod" />
+<M id="M4" start="3702" end="3755" text="Assistant U.S. Attorney, District of Arizona, Phoenix" TYPE="Formulaic" />
+<M id="M5" start="2126" end="2216" text="the founder and owner of an internet business that operated a website known aswww.KNO3.com" TYPE="Preposition" />
+<M id="M6" start="2126" end="2216" text="the founder and owner of an internet business that operated a website known aswww.KNO3.com" TYPE="Preposition" />
+<M id="M7" start="3459" end="3495" text="the Maricopa County Sheriff's Office" TYPE="Possessive" />
+<entity_link id="en0" fromID="p2" fromText="DEA Special Agent in Charge" toID="p1" toText="DEA Special Agent in Charge Doug Coleman" />
+<entity_link id="en1" fromID="p4" fromText="United States Attorney" toID="p3" toText="United States Attorney John S. Leonardo, District of Arizona" />
+<entity_link id="en2" fromID="g3" fromText="United States" toID="g2" toText="U.S." />
+<entity_link id="en3" fromID="g6" fromText="Scotland" toID="g5" toText="Scotland" />
+<entity_link id="en4" fromID="o2" fromText="the District of Arizona" toID="o1" toText="District of Arizona" />
+<entity_link id="en5" fromID="p7" fromText="U.S. Magistrate Judge" toID="p6" toText="U.S. Magistrate Judge David K. Duncan" />
+<entity_link id="en6" fromID="g7" fromText="U.S." toID="g3" toText="United States" />
+<entity_link id="en7" fromID="p9" fromText="Howes" toID="p5" toText="Brian Howes, 48, of West Lothian, Scotland" />
+<entity_link id="en8" fromID="p10" fromText="him" toID="p9" toText="Howes" />
+<entity_link id="en9" fromID="p11" fromText="Howes" toID="p9" toText="Howes" />
+<entity_link id="en10" fromID="p13" fromText="U.S. District Judge" toID="p12" toText="U.S. District Judge Frederick J. Martone" />
+<entity_link id="en11" fromID="g9" fromText="U.S." toID="g7" toText="U.S." />
+<entity_link id="en12" fromID="g10" fromText="American neighborhoods" toID="g11" toText="American" />
+<entity_link id="en13" fromID="g11" fromText="American" toID="g9" toText="U.S." />
+<entity_link id="en14" fromID="p14" fromText="Brian Howes" toID="p11" toText="Howes" />
+<entity_link id="en15" fromID="p15" fromText="DEA Special Agent in Charge Doug Coleman" toID="p1" toText="DEA Special Agent in Charge Doug Coleman" />
+<entity_link id="en16" fromID="p16" fromText="DEA Special Agent in Charge" toID="p15" toText="DEA Special Agent in Charge Doug Coleman" />
+<entity_link id="en17" fromID="o4" fromText="DEA" toID="o0" toText="DEA" />
+<entity_link id="en18" fromID="o5" fromText="we" toID="o4" toText="DEA" />
+<entity_link id="en19" fromID="p17" fromText="his" toID="p14" toText="Brian Howes" />
+<entity_link id="en20" fromID="g12" fromText="the United States" toID="g9" toText="U.S." />
+<entity_link id="en21" fromID="o6" fromText="DEA" toID="o4" toText="DEA" />
+<entity_link id="en22" fromID="g13" fromText="U.K." toID="g1" toText="U.K." />
+<entity_link id="en23" fromID="o8" fromText="our" toID="o6" toText="DEA" />
+<entity_link id="en24" fromID="o9" fromText="we" toID="o6" toText="DEA" />
+<entity_link id="en25" fromID="p25" fromText="who" toID="p24" toText="Individuals who unlawfully import into our country chemicals used to manufacture harmful drugs" />
+<entity_link id="en26" fromID="g14" fromText="our country" toID="g12" toText="the United States" />
+<entity_link id="en27" fromID="g15" fromText="our" toID="g12" toText="the United States" />
+<entity_link id="en28" fromID="p26" fromText="U.S. Attorney John S. Leonardo" toID="p3" toText="United States Attorney John S. Leonardo, District of Arizona" />
+<entity_link id="en29" fromID="p27" fromText="U.S. Attorney" toID="p26" toText="U.S. Attorney John S. Leonardo" />
+<entity_link id="en30" fromID="g16" fromText="U.S." toID="g12" toText="the United States" />
+<entity_link id="en31" fromID="p28" fromText="I" toID="p26" toText="U.S. Attorney John S. Leonardo" />
+<entity_link id="en32" fromID="g17" fromText="our" toID="g16" toText="U.S." />
+<entity_link id="en33" fromID="o12" fromText="they" toID="o10" toText="our law enforcement partners" />
+<entity_link id="en34" fromID="p30" fromText="U.S. Marshal" toID="p29" toText="U.S. Marshal David Gonzales" />
+<entity_link id="en35" fromID="g18" fromText="U.S." toID="g16" toText="U.S." />
+<entity_link id="en36" fromID="p31" fromText="Brian Howes" toID="p14" toText="Brian Howes" />
+<entity_link id="en37" fromID="p32" fromText="Howes" toID="p31" toText="Brian Howes" />
+<entity_link id="en38" fromID="g19" fromText="Scottish" toID="g6" toText="Scotland" />
+<entity_link id="en39" fromID="o15" fromText="our" toID="o16" toText="The United States Marshals Service" />
+<entity_link id="en40" fromID="o18" fromText="our" toID="o16" toText="The United States Marshals Service" />
+<entity_link id="en41" fromID="p34" fromText="they" toID="p33" toText="wanted persons" />
+<entity_link id="en42" fromID="g21" fromText="Phoenix" toID="g0" toText="Phoenix" />
+<entity_link id="en43" fromID="p36" fromText="Howes" toID="p32" toText="Howes" />
+<entity_link id="en44" fromID="p37" fromText="Howes" toID="p36" toText="Howes" />
+<entity_link id="en45" fromID="p38" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="p37" toText="Howes" />
+<entity_link id="en46" fromID="p39" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="p37" toText="Howes" />
+<entity_link id="en47" fromID="o20" fromText="that" toID="o11" toText="an internet business that operated a website known aswww.KNO3.com" />
+<entity_link id="en48" fromID="p19" fromText="Howes" toID="p37" toText="Howes" />
+<entity_link id="en49" fromID="g20" fromText="Arizona" toID="g8" toText="Arizona" />
+<entity_link id="en50" fromID="p23" fromText="Howes" toID="p19" toText="Howes" />
+<entity_link id="en51" fromID="g22" fromText="Arizona" toID="g20" toText="Arizona" />
+<entity_link id="en52" fromID="p43" fromText="Kerry Ann Shanks" toID="p42" toText="Howes' co-defendant, Kerry Ann Shanks" />
+<entity_link id="en53" fromID="p44" fromText="Howes" toID="p23" toText="Howes" />
+<entity_link id="en54" fromID="p45" fromText="Judge Martone" toID="p12" toText="U.S. District Judge Frederick J. Martone" />
+<entity_link id="en55" fromID="p46" fromText="Judge" toID="p45" toText="Judge Martone" />
+<entity_link id="en56" fromID="g23" fromText="U.S." toID="g18" toText="U.S." />
+<entity_link id="en57" fromID="p47" fromText="The judge" toID="p45" toText="Judge Martone" />
+<entity_link id="en58" fromID="p51" fromText="that" toID="p50" toText="a jury that establishes guilt beyond a reasonable doubt" />
+<entity_link id="en59" fromID="o21" fromText="the Drug Enforcement Administration" toID="o6" toText="DEA" />
+<entity_link id="en60" fromID="o23" fromText="HSI" toID="o22" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en61" fromID="o25" fromText="ICE" toID="o24" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en62" fromID="o29" fromText="The United States Marshals Service" toID="o16" toText="The United States Marshals Service" />
+<entity_link id="en63" fromID="p53" fromText="Howes" toID="p44" toText="Howes" />
+<entity_link id="en64" fromID="g25" fromText="Scotland" toID="g6" toText="Scotland" />
+<entity_link id="en65" fromID="o30" fromText="the District of Arizona" toID="o2" toText="the District of Arizona" />
+<entity_link id="en66" fromID="p55" fromText="William H. Bryan" toID="p54" toText="William H. Bryan, Assistant U.S. Attorney, District of Arizona, Phoenix" />
+<entity_link id="en67" fromID="p56" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="p55" toText="William H. Bryan" />
+<entity_link id="en68" fromID="g26" fromText="U.S." toID="g23" toText="U.S." />
+<entity_link id="en69" fromID="g27" fromText="Phoenix" toID="g21" toText="Phoenix" />
+<entity_link id="en71" fromID="o32" fromText="District of Arizona, Phoenix" toID="o30" toText="the District of Arizona" />
+<entity_link id="en72" fromID="p58" fromText="PIO" toID="p57" toText="PIO Ramona Sanchez" />
+<entity_link id="en70" fromID="g28" fromText="the U.S. Government" toID="g18" toText="U.S." />
+<head_link id="he0" fromID="p0" fromText="U.K. Man Extradited to U.S." toID="h0" toText="Man" />
+<head_link id="he1" fromID="g0" fromText="Phoenix" toID="h1" toText="Phoenix" />
+<head_link id="he2" fromID="p1" fromText="DEA Special Agent in Charge Doug Coleman" toID="h2" toText="Doug Coleman" />
+<head_link id="he3" fromID="p2" fromText="DEA Special Agent in Charge" toID="h3" toText="Agent" />
+<head_link id="he4" fromID="o0" fromText="DEA" toID="h4" toText="DEA" />
+<head_link id="he5" fromID="p3" fromText="United States Attorney John S. Leonardo, District of Arizona" toID="h5" toText="John S. Leonardo" />
+<head_link id="he6" fromID="p4" fromText="United States Attorney" toID="h6" toText="Attorney" />
+<head_link id="he7" fromID="g1" fromText="U.K." toID="h7" toText="U.K." />
+<head_link id="he8" fromID="g2" fromText="U.S." toID="h8" toText="U.S." />
+<head_link id="he9" fromID="g3" fromText="United States" toID="h9" toText="United States" />
+<head_link id="he10" fromID="o1" fromText="District of Arizona" toID="h10" toText="District of Arizona" />
+<head_link id="he11" fromID="p5" fromText="Brian Howes, 48, of West Lothian, Scotland" toID="h11" toText="Brian Howes" />
+<head_link id="he12" fromID="g4" fromText="West Lothian, Scotland" toID="h12" toText="West Lothian" />
+<head_link id="he13" fromID="g5" fromText="Scotland" toID="h13" toText="Scotland" />
+<head_link id="he14" fromID="g6" fromText="Scotland" toID="h14" toText="Scotland" />
+<head_link id="he15" fromID="o2" fromText="the District of Arizona" toID="h15" toText="District of Arizona" />
+<head_link id="he16" fromID="p6" fromText="U.S. Magistrate Judge David K. Duncan" toID="h16" toText="David K. Duncan" />
+<head_link id="he17" fromID="p7" fromText="U.S. Magistrate Judge" toID="h17" toText="Judge" />
+<head_link id="he18" fromID="g7" fromText="U.S." toID="h18" toText="U.S." />
+<head_link id="he19" fromID="p8" fromText="Magistrate" toID="h19" toText="Magistrate" />
+<head_link id="he20" fromID="p9" fromText="Howes" toID="h20" toText="Howes" />
+<head_link id="he21" fromID="p10" fromText="him" toID="h21" toText="him" />
+<head_link id="he22" fromID="g8" fromText="Arizona" toID="h22" toText="Arizona" />
+<head_link id="he23" fromID="p11" fromText="Howes" toID="h23" toText="Howes" />
+<head_link id="he24" fromID="p12" fromText="U.S. District Judge Frederick J. Martone" toID="h24" toText="Frederick J. Martone" />
+<head_link id="he25" fromID="p13" fromText="U.S. District Judge" toID="h25" toText="Judge" />
+<head_link id="he26" fromID="o3" fromText="District" toID="h26" toText="District" />
+<head_link id="he27" fromID="g9" fromText="U.S." toID="h27" toText="U.S." />
+<head_link id="he28" fromID="g10" fromText="American neighborhoods" toID="h28" toText="neighborhoods" />
+<head_link id="he29" fromID="g11" fromText="American" toID="h29" toText="American" />
+<head_link id="he30" fromID="p14" fromText="Brian Howes" toID="h30" toText="Brian Howes" />
+<head_link id="he31" fromID="p15" fromText="DEA Special Agent in Charge Doug Coleman" toID="h31" toText="Doug Coleman" />
+<head_link id="he32" fromID="p16" fromText="DEA Special Agent in Charge" toID="h32" toText="Agent" />
+<head_link id="he33" fromID="o4" fromText="DEA" toID="h33" toText="DEA" />
+<head_link id="he34" fromID="o5" fromText="we" toID="h34" toText="we" />
+<head_link id="he35" fromID="p17" fromText="his" toID="h35" toText="his" />
+<head_link id="he36" fromID="g12" fromText="the United States" toID="h36" toText="United States" />
+<head_link id="he37" fromID="p18" fromText="criminals" toID="h37" toText="criminals" />
+<head_link id="he38" fromID="o6" fromText="DEA" toID="h38" toText="DEA" />
+<head_link id="he39" fromID="o7" fromText="our U.K. partners" toID="h39" toText="partners" />
+<head_link id="he40" fromID="g13" fromText="U.K." toID="h40" toText="U.K." />
+<head_link id="he41" fromID="o8" fromText="our" toID="h41" toText="our" />
+<head_link id="he42" fromID="o9" fromText="we" toID="h42" toText="we" />
+<head_link id="he43" fromID="p20" fromText="drug traffickers, from kingpins to the street dealers" toID="h43" toText="traffickers" />
+<head_link id="he44" fromID="p21" fromText="kingpins" toID="h44" toText="kingpins" />
+<head_link id="he45" fromID="p22" fromText="street dealers" toID="h45" toText="dealers" />
+<head_link id="he46" fromID="f0" fromText="street" toID="h46" toText="street" />
+<head_link id="he47" fromID="p24" fromText="Individuals who unlawfully import into our country chemicals used to manufacture harmful drugs" toID="h47" toText="Individuals" />
+<head_link id="he48" fromID="p25" fromText="who" toID="h48" toText="who" />
+<head_link id="he49" fromID="g14" fromText="our country" toID="h49" toText="country" />
+<head_link id="he50" fromID="g15" fromText="our" toID="h50" toText="our" />
+<head_link id="he51" fromID="p26" fromText="U.S. Attorney John S. Leonardo" toID="h51" toText="John S. Leonardo" />
+<head_link id="he52" fromID="p27" fromText="U.S. Attorney" toID="h52" toText="Attorney" />
+<head_link id="he53" fromID="g16" fromText="U.S." toID="h53" toText="U.S." />
+<head_link id="he54" fromID="p28" fromText="I" toID="h54" toText="I" />
+<head_link id="he55" fromID="o10" fromText="our law enforcement partners" toID="h55" toText="partners" />
+<head_link id="he57" fromID="g17" fromText="our" toID="h56" toText="our" />
+<head_link id="he58" fromID="o12" fromText="they" toID="h57" toText="they" />
+<head_link id="he59" fromID="p29" fromText="U.S. Marshal David Gonzales" toID="h58" toText="David Gonzales" />
+<head_link id="he60" fromID="p30" fromText="U.S. Marshal" toID="h59" toText="Marshal" />
+<head_link id="he61" fromID="g18" fromText="U.S." toID="h60" toText="U.S." />
+<head_link id="he62" fromID="p31" fromText="Brian Howes" toID="h61" toText="Brian Howes" />
+<head_link id="he63" fromID="p32" fromText="Howes" toID="h62" toText="Howes" />
+<head_link id="he65" fromID="o14" fromText="our Scottish counterparts" toID="h64" toText="counterparts" />
+<head_link id="he66" fromID="g19" fromText="Scottish" toID="h65" toText="Scottish" />
+<head_link id="he68" fromID="o15" fromText="our" toID="h66" toText="our" />
+<head_link id="he69" fromID="o16" fromText="The United States Marshals Service" toID="h67" toText="United States Marshals Service" />
+<head_link id="he70" fromID="o17" fromText="our Federal, State, local and international law enforcement partners" toID="h68" toText="partners" />
+<head_link id="he71" fromID="o18" fromText="our" toID="h69" toText="our" />
+<head_link id="he73" fromID="p33" fromText="wanted persons" toID="h71" toText="persons" />
+<head_link id="he74" fromID="p34" fromText="they" toID="h72" toText="they" />
+<head_link id="he75" fromID="p35" fromText="A federal grand jury in Phoenix" toID="h73" toText="jury" />
+<head_link id="he76" fromID="g21" fromText="Phoenix" toID="h74" toText="Phoenix" />
+<head_link id="he77" fromID="p36" fromText="Howes" toID="h75" toText="Howes" />
+<head_link id="he78" fromID="p37" fromText="Howes" toID="h76" toText="Howes" />
+<head_link id="he79" fromID="p38" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="h77" toText="founder" />
+<head_link id="he80" fromID="p39" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="h78" toText="owner" />
+<head_link id="he56" fromID="o11" fromText="an internet business that operated a website known aswww.KNO3.com" toID="h79" toText="business" />
+<head_link id="he67" fromID="o20" fromText="that" toID="h80" toText="that" />
+<head_link id="he81" fromID="p19" fromText="Howes" toID="h81" toText="Howes" />
+<head_link id="he82" fromID="g20" fromText="Arizona" toID="h82" toText="Arizona" />
+<head_link id="he83" fromID="p23" fromText="Howes" toID="h83" toText="Howes" />
+<head_link id="he84" fromID="p40" fromText="customers in Arizona" toID="h84" toText="customers" />
+<head_link id="he85" fromID="g22" fromText="Arizona" toID="h85" toText="Arizona" />
+<head_link id="he86" fromID="p42" fromText="Howes' co-defendant, Kerry Ann Shanks" toID="h86" toText="co-defendant" />
+<head_link id="he87" fromID="p43" fromText="Kerry Ann Shanks" toID="h87" toText="Kerry Ann Shanks" />
+<head_link id="he88" fromID="p44" fromText="Howes" toID="h88" toText="Howes" />
+<head_link id="he89" fromID="f1" fromText="prison" toID="h89" toText="prison" />
+<head_link id="he90" fromID="p45" fromText="Judge Martone" toID="h90" toText="Martone" />
+<head_link id="he91" fromID="p46" fromText="Judge" toID="h91" toText="Judge" />
+<head_link id="he92" fromID="g23" fromText="U.S." toID="h92" toText="U.S." />
+<head_link id="he93" fromID="p47" fromText="The judge" toID="h93" toText="judge" />
+<head_link id="he94" fromID="p48" fromText="a person" toID="h94" toText="person" />
+<head_link id="he95" fromID="p49" fromText="An individual" toID="h95" toText="individual" />
+<head_link id="he96" fromID="p50" fromText="a jury that establishes guilt beyond a reasonable doubt" toID="h96" toText="jury" />
+<head_link id="he97" fromID="p51" fromText="that" toID="h97" toText="that" />
+<head_link id="he98" fromID="o21" fromText="the Drug Enforcement Administration" toID="h98" toText="Drug Enforcement Administration" />
+<head_link id="he99" fromID="o22" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h99" toText="Homeland Security Investigations" />
+<head_link id="he100" fromID="o23" fromText="HSI" toID="h100" toText="HSI" />
+<head_link id="he101" fromID="o24" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h101" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he102" fromID="o25" fromText="ICE" toID="h102" toText="ICE" />
+<head_link id="he103" fromID="o26" fromText="the United States Postal Inspection Service" toID="h103" toText="United States Postal Inspection Service" />
+<head_link id="he104" fromID="o27" fromText="the Maricopa County Sheriff's Office" toID="h104" toText="Office" />
+<head_link id="he105" fromID="p52" fromText="the Maricopa County Sheriff" toID="h105" toText="Sheriff" />
+<head_link id="he106" fromID="g24" fromText="Maricopa County" toID="h106" toText="Maricopa County" />
+<head_link id="he107" fromID="o28" fromText="the Phoenix Police Department" toID="h107" toText="Phoenix Police Department" />
+<head_link id="he108" fromID="o29" fromText="The United States Marshals Service" toID="h108" toText="United States Marshals Service" />
+<head_link id="he109" fromID="p53" fromText="Howes" toID="h109" toText="Howes" />
+<head_link id="he110" fromID="g25" fromText="Scotland" toID="h110" toText="Scotland" />
+<head_link id="he111" fromID="o30" fromText="the District of Arizona" toID="h111" toText="District of Arizona" />
+<head_link id="he112" fromID="p55" fromText="William H. Bryan" toID="h112" toText="William H. Bryan" />
+<head_link id="he113" fromID="p56" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="h113" toText="Attorney" />
+<head_link id="he114" fromID="g26" fromText="U.S." toID="h114" toText="U.S." />
+<head_link id="he116" fromID="g27" fromText="Phoenix" toID="h116" toText="Phoenix" />
+<head_link id="he117" fromID="o32" fromText="District of Arizona, Phoenix" toID="h115" toText="District of Arizona" />
+<head_link id="he118" fromID="p57" fromText="PIO Ramona Sanchez" toID="h117" toText="Ramona Sanchez" />
+<head_link id="he119" fromID="p58" fromText="PIO" toID="h118" toText="PIO" />
+<head_link id="he115" fromID="g28" fromText="the U.S. Government" toID="h63" toText="U.S. Government" />
+<name_link id="na0" fromID="g0" fromText="Phoenix" toID="n0" toText="Phoenix" />
+<name_link id="na1" fromID="p1" fromText="DEA Special Agent in Charge Doug Coleman" toID="n1" toText="Doug Coleman" />
+<name_link id="na2" fromID="o0" fromText="DEA" toID="n2" toText="DEA" />
+<name_link id="na3" fromID="p3" fromText="United States Attorney John S. Leonardo, District of Arizona" toID="n3" toText="John S. Leonardo" />
+<name_link id="na4" fromID="g1" fromText="U.K." toID="n4" toText="U.K." />
+<name_link id="na5" fromID="g2" fromText="U.S." toID="n5" toText="U.S." />
+<name_link id="na6" fromID="g3" fromText="United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="o1" fromText="District of Arizona" toID="n7" toText="District of Arizona" />
+<name_link id="na8" fromID="p5" fromText="Brian Howes, 48, of West Lothian, Scotland" toID="n8" toText="Brian Howes" />
+<name_link id="na9" fromID="g4" fromText="West Lothian, Scotland" toID="n9" toText="West Lothian" />
+<name_link id="na10" fromID="g5" fromText="Scotland" toID="n10" toText="Scotland" />
+<name_link id="na11" fromID="g6" fromText="Scotland" toID="n11" toText="Scotland" />
+<name_link id="na12" fromID="o2" fromText="the District of Arizona" toID="n12" toText="District of Arizona" />
+<name_link id="na13" fromID="p6" fromText="U.S. Magistrate Judge David K. Duncan" toID="n13" toText="David K. Duncan" />
+<name_link id="na14" fromID="g7" fromText="U.S." toID="n14" toText="U.S." />
+<name_link id="na15" fromID="p9" fromText="Howes" toID="n15" toText="Howes" />
+<name_link id="na16" fromID="g8" fromText="Arizona" toID="n16" toText="Arizona" />
+<name_link id="na17" fromID="p11" fromText="Howes" toID="n17" toText="Howes" />
+<name_link id="na18" fromID="p12" fromText="U.S. District Judge Frederick J. Martone" toID="n18" toText="Frederick J. Martone" />
+<name_link id="na19" fromID="g9" fromText="U.S." toID="n19" toText="U.S." />
+<name_link id="na20" fromID="g11" fromText="American" toID="n20" toText="American" />
+<name_link id="na21" fromID="p14" fromText="Brian Howes" toID="n21" toText="Brian Howes" />
+<name_link id="na22" fromID="p15" fromText="DEA Special Agent in Charge Doug Coleman" toID="n22" toText="Doug Coleman" />
+<name_link id="na23" fromID="o4" fromText="DEA" toID="n23" toText="DEA" />
+<name_link id="na24" fromID="g12" fromText="the United States" toID="n24" toText="United States" />
+<name_link id="na25" fromID="o6" fromText="DEA" toID="n25" toText="DEA" />
+<name_link id="na26" fromID="g13" fromText="U.K." toID="n26" toText="U.K." />
+<name_link id="na27" fromID="p26" fromText="U.S. Attorney John S. Leonardo" toID="n27" toText="John S. Leonardo" />
+<name_link id="na28" fromID="g16" fromText="U.S." toID="n28" toText="U.S." />
+<name_link id="na29" fromID="p29" fromText="U.S. Marshal David Gonzales" toID="n29" toText="David Gonzales" />
+<name_link id="na30" fromID="g18" fromText="U.S." toID="n30" toText="U.S." />
+<name_link id="na31" fromID="p31" fromText="Brian Howes" toID="n31" toText="Brian Howes" />
+<name_link id="na32" fromID="p32" fromText="Howes" toID="n32" toText="Howes" />
+<name_link id="na34" fromID="g19" fromText="Scottish" toID="n34" toText="Scottish" />
+<name_link id="na35" fromID="o16" fromText="The United States Marshals Service" toID="n35" toText="United States Marshals Service" />
+<name_link id="na36" fromID="g21" fromText="Phoenix" toID="n36" toText="Phoenix" />
+<name_link id="na37" fromID="p36" fromText="Howes" toID="n37" toText="Howes" />
+<name_link id="na38" fromID="p37" fromText="Howes" toID="n38" toText="Howes" />
+<name_link id="na39" fromID="p19" fromText="Howes" toID="n39" toText="Howes" />
+<name_link id="na40" fromID="g20" fromText="Arizona" toID="n40" toText="Arizona" />
+<name_link id="na41" fromID="p23" fromText="Howes" toID="n41" toText="Howes" />
+<name_link id="na42" fromID="g22" fromText="Arizona" toID="n42" toText="Arizona" />
+<name_link id="na43" fromID="p43" fromText="Kerry Ann Shanks" toID="n43" toText="Kerry Ann Shanks" />
+<name_link id="na44" fromID="p44" fromText="Howes" toID="n44" toText="Howes" />
+<name_link id="na45" fromID="p45" fromText="Judge Martone" toID="n45" toText="Martone" />
+<name_link id="na46" fromID="g23" fromText="U.S." toID="n46" toText="U.S." />
+<name_link id="na47" fromID="o21" fromText="the Drug Enforcement Administration" toID="n47" toText="Drug Enforcement Administration" />
+<name_link id="na48" fromID="o22" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n48" toText="Homeland Security Investigations" />
+<name_link id="na49" fromID="o23" fromText="HSI" toID="n49" toText="HSI" />
+<name_link id="na50" fromID="o24" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n50" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na51" fromID="o25" fromText="ICE" toID="n51" toText="ICE" />
+<name_link id="na52" fromID="o26" fromText="the United States Postal Inspection Service" toID="n52" toText="United States Postal Inspection Service" />
+<name_link id="na53" fromID="g24" fromText="Maricopa County" toID="n53" toText="Maricopa County" />
+<name_link id="na54" fromID="o28" fromText="the Phoenix Police Department" toID="n54" toText="Phoenix Police Department" />
+<name_link id="na55" fromID="o29" fromText="The United States Marshals Service" toID="n55" toText="United States Marshals Service" />
+<name_link id="na56" fromID="p53" fromText="Howes" toID="n56" toText="Howes" />
+<name_link id="na57" fromID="g25" fromText="Scotland" toID="n57" toText="Scotland" />
+<name_link id="na58" fromID="o30" fromText="the District of Arizona" toID="n58" toText="District of Arizona" />
+<name_link id="na59" fromID="p55" fromText="William H. Bryan" toID="n59" toText="William H. Bryan" />
+<name_link id="na60" fromID="g26" fromText="U.S." toID="n60" toText="U.S." />
+<name_link id="na62" fromID="g27" fromText="Phoenix" toID="n62" toText="Phoenix" />
+<name_link id="na63" fromID="o32" fromText="District of Arizona, Phoenix" toID="n61" toText="District of Arizona" />
+<name_link id="na64" fromID="p57" fromText="PIO Ramona Sanchez" toID="n63" toText="Ramona Sanchez" />
+<name_link id="na61" fromID="g28" fromText="the U.S. Government" toID="n33" toText="U.S. Government" />
+<relation_link1 id="r0" fromID="M0" fromText="DEA Special Agent in Charge" toID="p2" toText="DEA Special Agent in Charge" />
+<relation_link1 id="r1" fromID="C0" fromText="U.K. Man Extradited to U.S." toID="p0" toText="U.K. Man Extradited to U.S." />
+<relation_link1 id="r2" fromID="lo0" fromText="U.K. Man Extradited to U.S." toID="p0" toText="U.K. Man Extradited to U.S." />
+<relation_link1 id="r3" fromID="e0" fromText="United States Attorney" toID="p4" toText="United States Attorney" />
+<relation_link1 id="r4" fromID="M1" fromText="United States Attorney John S. Leonardo, District of Arizona" toID="p3" toText="United States Attorney John S. Leonardo, District of Arizona" />
+<relation_link1 id="r5" fromID="C1" fromText="Brian Howes, 48, of West Lothian, Scotland" toID="p5" toText="Brian Howes, 48, of West Lothian, Scotland" />
+<relation_link1 id="r6" fromID="lo1" fromText="DEA Special Agent in Charge Doug Coleman and United States Attorney John S. Leonardo, District of Arizona today announced the extradition of Brian Howes, 48, of West Lothian, Scotland, from Scotland to the District of Arizona" toID="p5" toText="Brian Howes, 48, of West Lothian, Scotland" />
+<relation_link1 id="r7" fromID="e1" fromText="U.S. Magistrate Judge" toID="p7" toText="U.S. Magistrate Judge" />
+<relation_link1 id="r8" fromID="lo2" fromText="U.S. Magistrate Judge David K. Duncan ordered that Howes remain in custody pending trial on an 82 count indictment that charges him with unlawfully importing and distributing regulated chemicals to Arizona" toID="p10" toText="him" />
+<relation_link1 id="r9" fromID="M2" fromText="U.S. District Judge" toID="p13" toText="U.S. District Judge" />
+<relation_link1 id="r10" fromID="e2" fromText="U.S. District Judge" toID="p13" toText="U.S. District Judge" />
+<relation_link1 id="r11" fromID="M3" fromText="DEA Special Agent in Charge" toID="p16" toText="DEA Special Agent in Charge" />
+<relation_link1 id="r12" fromID="lo3" fromText="street dealers" toID="p22" toText="street dealers" />
+<relation_link1 id="r13" fromID="e3" fromText="U.S. Attorney" toID="p27" toText="U.S. Attorney" />
+<relation_link1 id="r14" fromID="e4" fromText="U.S. Marshal" toID="p30" toText="U.S. Marshal" />
+<relation_link1 id="r15" fromID="lo4" fromText="A federal grand jury in Phoenix" toID="p35" toText="A federal grand jury in Phoenix" />
+<relation_link1 id="r16" fromID="lo5" fromText="customers in Arizona" toID="p40" toText="customers in Arizona" />
+<relation_link1 id="r17" fromID="e5" fromText="the Maricopa County Sheriff" toID="p52" toText="the Maricopa County Sheriff" />
+<relation_link1 id="r18" fromID="lo6" fromText="The United States Marshals Service assisted with the extradition of Howes from Scotland to the District of Arizona" toID="p53" toText="Howes" />
+<relation_link1 id="r19" fromID="e6" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="p56" toText="Assistant U.S. Attorney, District of Arizona, Phoenix" />
+<relation_link1 id="r21" fromID="M4" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="p56" toText="Assistant U.S. Attorney, District of Arizona, Phoenix" />
+<relation_link1 id="r20" fromID="M5" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="p38" toText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" />
+<relation_link1 id="r22" fromID="M6" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="p39" toText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" />
+<relation_link1 id="r23" fromID="M7" fromText="the Maricopa County Sheriff's Office" toID="p52" toText="the Maricopa County Sheriff" />
+<relation_link2 id="re0" fromID="M0" fromText="DEA Special Agent in Charge" toID="o0" toText="DEA" />
+<relation_link2 id="re1" fromID="C0" fromText="U.K. Man Extradited to U.S." toID="g1" toText="U.K." />
+<relation_link2 id="re2" fromID="lo0" fromText="U.K. Man Extradited to U.S." toID="g2" toText="U.S." />
+<relation_link2 id="re3" fromID="e0" fromText="United States Attorney" toID="g3" toText="United States" />
+<relation_link2 id="re4" fromID="M1" fromText="United States Attorney John S. Leonardo, District of Arizona" toID="o1" toText="District of Arizona" />
+<relation_link2 id="re5" fromID="C1" fromText="Brian Howes, 48, of West Lothian, Scotland" toID="g4" toText="West Lothian, Scotland" />
+<relation_link2 id="re6" fromID="lo1" fromText="DEA Special Agent in Charge Doug Coleman and United States Attorney John S. Leonardo, District of Arizona today announced the extradition of Brian Howes, 48, of West Lothian, Scotland, from Scotland to the District of Arizona" toID="g6" toText="Scotland" />
+<relation_link2 id="re7" fromID="e1" fromText="U.S. Magistrate Judge" toID="g7" toText="U.S." />
+<relation_link2 id="re8" fromID="lo2" fromText="U.S. Magistrate Judge David K. Duncan ordered that Howes remain in custody pending trial on an 82 count indictment that charges him with unlawfully importing and distributing regulated chemicals to Arizona" toID="g8" toText="Arizona" />
+<relation_link2 id="re9" fromID="M2" fromText="U.S. District Judge" toID="o3" toText="District" />
+<relation_link2 id="re10" fromID="e2" fromText="U.S. District Judge" toID="g9" toText="U.S." />
+<relation_link2 id="re11" fromID="M3" fromText="DEA Special Agent in Charge" toID="o4" toText="DEA" />
+<relation_link2 id="re12" fromID="lo3" fromText="street dealers" toID="f0" toText="street" />
+<relation_link2 id="re13" fromID="e3" fromText="U.S. Attorney" toID="g16" toText="U.S." />
+<relation_link2 id="re14" fromID="e4" fromText="U.S. Marshal" toID="g18" toText="U.S." />
+<relation_link2 id="re15" fromID="lo4" fromText="A federal grand jury in Phoenix" toID="g21" toText="Phoenix" />
+<relation_link2 id="re16" fromID="lo5" fromText="customers in Arizona" toID="g22" toText="Arizona" />
+<relation_link2 id="re17" fromID="e5" fromText="the Maricopa County Sheriff" toID="g24" toText="Maricopa County" />
+<relation_link2 id="re18" fromID="lo6" fromText="The United States Marshals Service assisted with the extradition of Howes from Scotland to the District of Arizona" toID="g25" toText="Scotland" />
+<relation_link2 id="re19" fromID="e6" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="g26" toText="U.S." />
+<relation_link2 id="re21" fromID="M4" fromText="Assistant U.S. Attorney, District of Arizona, Phoenix" toID="o32" toText="District of Arizona, Phoenix" />
+<relation_link2 id="re20" fromID="M5" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="o11" toText="an internet business that operated a website known aswww.KNO3.com" />
+<relation_link2 id="re22" fromID="M6" fromText="the founder and owner of an internet business that operated a website known aswww.KNO3.com" toID="o11" toText="an internet business that operated a website known aswww.KNO3.com" />
+<relation_link2 id="re23" fromID="M7" fromText="the Maricopa County Sheriff's Office" toID="o27" toText="the Maricopa County Sheriff's Office" />
+</TAGS>
+</KddTask>

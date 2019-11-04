@@ -1,0 +1,20 @@
+Russian Hacker Pleads Guilty to Developing and Distributing Citadel Trojan
+Wang Wei
+
+A Russian man accused of developing and distributing the Citadel Banking Trojan, which infected nearly 11 Million computers globally and caused over $500 Million in losses, has finally pleaded guilty to charges of computer fraud.
+Mark Vartanyan, 29, who was very well known as "Kolypto," pleaded guilty in an Atlanta courtroom on Monday to charges related to computer fraud and is now co-operating with federal prosecutors in return for a reduced sentence of no more than five years in prison.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Vartanyan, a native of Moscow, was arrested in Norway in October 2014 and extradited to the United States in December last year. He was involved in the development, improvement, maintenance and distribution of the nasty Citadel Trojan.
+"This successful extradition is yet another example of how cooperation among international law enforcement partners can be used to disrupt and dismantle global cyber syndicates," said U.S. Attorney John Horn.
+"This defendant's alleged role in developing and improving Citadel for its use by cyber criminals caused a vast amount of financial harm to individuals and institutions around the world. His appearance in federal court today shows that cyber criminals cannot hide in the shadows of the Internet. We will identify them and bring them to justice wherever they operate."
+Initially developed in 2011, Citadel Trojan – a variant of the Zeus banking Trojan – was designed to infect computer systems and steal online banking credentials and other financial information by masquerading itself as legitimate banking sites.
+The offensive threat affected over 11 Million computers in at least 90 countries and estimated to have cost $500 million in losses over a three-year period.
+Citadel also introduced a business model that enabled online users to solicit their feedback and then incorporate those functionalities and tweaks in the product, making the malware gain widespread popularity. It was one of the first examples of malware-as–a-service (MaaS).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Sold for up to $2,500, Citadel received regular automated updates, just like with the development of legitimate software programs, to enable the malware to avoid detection by antivirus products and other signature-based security controls.
+But eventually, Citadel's source code was leaked in 2013, which helped the antivirus firms to identify and block the threat.
+Vartanyan was one of many people who was involved in the development and distribution of the Citadel malware.
+Another Russian hacker Dimitry Belorossov, 22, aka Rainerfox, was also arrested in September 2015 and sentenced to four years and six months in prison after pleading guilty to charges related to the distribution of Citadel and infecting over 7,000 infected machines.
+Vartanyan is scheduled to be sentenced on 21 June 2017.
+Despite the two arrests, the US Department of Justice (DoJ) said its investigation into the creator of Citadel malware is still ongoing, indicating that further arrests may be made.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

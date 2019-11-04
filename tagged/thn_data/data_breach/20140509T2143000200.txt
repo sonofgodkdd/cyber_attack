@@ -1,0 +1,20 @@
+Popular URL Shortener 'Bitly' User Accounts Reportedly Compromised
+Swati Khandelwal
+
+The famous URL shortening service is facing a data breach. The very popular URL shortening service Bitly, has issued an urgent security warning saying that its users’ account credentials may have been compromised, according to a blog post published yesterday.
+"We have reason to believe that Bitly account credentials have been compromised; specifically, users' email addresses, encrypted passwords, API keys and OAuth tokens," Bitly CEO Mark Josephson wrote in a blog post. At this point, however, there is no indication that hackers have broken into any user accounts, he said.
+Bitly was founded in 2008, allows users to shorten links and making it to share on other sites easier for users. It is privately held and based in New York City. Bitly shortens more than one billion links per month and powers over 10,000 custom short URLs and offers an enterprise analytics platform that helps web publishers and brands grow their social media traffic.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bitly users’ account information is suspected to have been compromised after a recent hack. In order to protect the private information of its users, the company has disconnected the Facebook and Twitter accounts of all users and is requesting users to change their passwords, as well as safely reconnect their Facebook and Twitter accounts to the site thereafter.
+Bitly didn't give any detailed explanations on how this hack occurred and what other information was stolen besides account credentials of users. The service says it has taken “proactive measures to secure all paths that led to the compromise.”
+The service originally served as the default link shortener for the Twitter, until Twitter developed its own product service in 2009.
+In addition to resetting all passwords, users will also have to reset their API keys and OAuth tokens, following the instructions on Bitly's blog. But if you're using the Bitly service, you'll also need to take some necessary actions.
+"Please take the following steps to secure your account: change your API key and OAuth token, reset your password, and reconnect your Facebook and Twitter accounts," Josephson wrote. "We are recommending all Bitly users make these changes."
+To reset your API key and OAuth token, follow these instructions from Bitly:
+Log in to your account and click on 'Your Settings,' then the 'Advanced' tab.
+At the bottom of the 'Advanced' tab, select 'Reset' next to 'Legacy API key.'
+Copy down your new API key and change it in all applications. These can include social publishers, share buttons, and mobile apps.
+Go to the 'Profile' tab and reset your password.
+Disconnect and reconnect any applications that use Bitly. You can check which accounts are connected under the 'Connected Accounts' tab in 'Your Settings.'
+"We have already taken proactive measures to secure all paths that led to the compromise and ensure the security of all account credentials going forward," the company said. "We take your security and trust in us seriously. The team has been working hard to ensure all accounts are secure." The company apologize for any inconvenience caused.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

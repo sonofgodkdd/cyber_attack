@@ -1,0 +1,19 @@
+Russian Scientists Arrested for Using Nuclear Weapon Facility to Mine Bitcoins
+Wang Wei
+
+Two days ago when infosec bods claimed to have uncovered what's believed to be the first case of a SCADA network (a water utility) infected with cryptocurrency-mining malware, a batch of journalists accused other authors of making fear-mongering headlines, taunting that the next headline could be about cryptocurrency-miner detected in a nuclear plant.
+It seems that now they have to run a story themselves with such headlines on their website because Russian Interfax News Agency yesterday reported that several scientists at Russia's top nuclear research facility had been arrested for mining cryptocurrency with "office computing resources."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The suspects work as engineers at the Russian Federation Nuclear Center facility—also known as the All-Russian Research Institute of Experimental Physics—which works on developing nuclear weapons.
+The center is located in Sarov, Sarov is still a restricted area with high security. It is also the birthplace of the Soviet Union's first nuclear bomb. 
+In 2011, the Russian Federation Nuclear Center switched on a new supercomputer with a capacity of 1 petaflop, making it the twelfth most powerful in the world at the time.
+According to Russian media reports, the engineers had tried to use one of Russia's most powerful supercomputers housed in the Federal Nuclear Center to mine Bitcoins.
+The suspects were caught red-handed while attempting to connect the lab's supercomputer to the internet, which was supposed to be offline to ensure security, the nuclear center's security department was alerted.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once caught, the engineers were handed over to the Federal Security Service (FSB).
+"There has been an unsanctioned attempt to use computer facilities for private purposes including so-called mining," Tatyana Zalesskaya, head of the Institute's press service, told Interfax news agency. 
+"Their activities were stopped in time. The bungling miners have been detained by the competent authorities. As far as I know, a criminal case has been opened regarding them," Zalesskaya added, without revealing the exact number of employees detained.
+The Federal Security Service (FSB) has yet to issue a statement on the arrests and criminal charges.
+Cryptocurrency has gained tremendous popularity over the past year. Mining a single Bitcoin is not an ice cakewalk, as it requires an enormous amount of computational power and huge amounts of energy. 
+According to media reports, Russia is becoming a hotbed of cryptocurrency mining due to its low-cost energy reserves. One Russian businessman, Alexey Kolesnik, reportedly also bought two power stations exclusively to generate electricity for Bitcoin-mining data centers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

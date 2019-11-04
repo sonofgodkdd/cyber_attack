@@ -1,0 +1,17 @@
+Hackers Leak Personal Data from Hundreds of German Politicians On Twitter
+Swati Khandelwal
+
+Germany has been hit with the biggest hack in its history.
+A group of unknown hackers has leaked highly-sensitive personal data from more than 100 German politicians, including German Chancellor Angela Merkel, Brandenburg’s prime minister Dietmar Woidke, along with some German artists, journalists, and YouTube celebrities.
+The leaked data that was published on a Twitter account (@_0rbit) and dated back to before October 2018 includes phone numbers, email addresses, private chats, bills, credit card information and photos of victims' IDs.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it is yet unclear who perpetrated this mass hack and how they managed to perform it, the leaked data appears to be collected unauthorizedly by hacking into their smartphones.
+The hack targeted all of Germany's political parties currently represented in the federal parliament, including the CDU, CSU, SPD, FDP, Left party (Die Linke) and Greens, except for the far-right Alternative for Germany (AfD).
+While Justice Minister Katarina Barley called this mass hacking as a "serious attack," local media reports that none of the leaked data could be considered politically explosive.
+Germany's federal office for information security (BSI), who is investigating the attack, said that government networks were not affected by the incident and that the identity of the hackers and their motive were not yet known.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The BSI is currently intensively examining the case in close cooperation with other federal authorities. The National Cyber ​​Defense Center has taken over the central coordination," a BSI spokesperson said on Twitter.
+"According to the current state of knowledge there is no concern of the governmental networks. However, we will continue to investigate."
+Among the victims include Chancellor Angela Merkel, President Frank-Walter Steinmeier, Foreign Minister Heiko Maas, as well as Robert Habeck, leader of the Green party, who was particularly badly affected by the attack with hackers leaking his digital communications with his family.
+Besides German politicians, the intrusive hack attacks also affected well-known actor Til Schweiger, two renowned German comedians, Jan Boehmermann and Christian Ehring, as well as dozens of journalists from ZDF and ARD–public-funded German media outlets.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

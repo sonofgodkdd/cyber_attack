@@ -1,0 +1,27 @@
+Nearly Half of the Norway Population Exposed in HealthCare Data Breach
+Swati Khandelwal
+
+Cybercriminals have stolen a massive trove of Norway's healthcare data in a recent data breach, which likely impacts more than half of the nation's population.
+An unknown hacker or group of hackers managed to breach the systems of Health South-East Regional Health Authority (RHF) and reportedly stolen personal info and health records of some 2.9 million Norwegians out of the country's total 5.2 million inhabitants.
+Health South-East RHA is a healthcare organisation that manages hospitals in Norway’s southeast region, including Østfold, Akershus, Oslo, Hedmark, Oppland, Buskerud, Vestfold, Telemark, Aust-Agder and Vest-Agder.
+The healthcare organisation announced the data breach on Monday after it had been alerted by HelseCERT, the Norwegian CERT department for its healthcare sector, about an "abnormal activity" against computer systems in the region.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+HelseCERT also said the culprits behind the data breach are "advanced and professional" hackers, although it is still unknown as to whether they were managed to exfiltrate data successfully and if so, how many people may have been impacted.
+So far there's also no evidence if the stolen data theft has had any consequences for or effects on patients' safety. However, the healthcare organisation assured that security "measures had been taken to limit the damage caused by the burglary."
+"We are in a phase where we try to get an overview. It's far too early to say how big the attack is. We are working to acquire knowledge of all aspects, " NorCERT director Kjetil Nilsen told Norwegian publication VG.
+"Everything indicates that it is an advanced player who has the tools and ability to perform such an attack. It can be advanced criminals. There is a wide range of possibilities."
+Why Do Hackers Want Your Health Data?
+Digital healthcare has been growing to satisfy the demands of connected healthcare technology that provides better treatment and improved patient care.
+We know that any organisation with a computer is at risk from cyber-attacks both from criminals wanting to extort money and state-sponsored hackers wanting to cause chaos.
+Since the healthcare sector is part of the critical national infrastructure, alongside water, electricity and transport, it becomes an attractive target for hackers.
+Believe it or not, your medical records are worth more to hackers than your stolen credit card details on the dark web markets.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Financial data has a finite lifespan, but the information contained in health care records—which includes names, birth dates, policy numbers, diagnosis codes, social security number and billing information—has a much longer shelf life and is rich enough for identity theft.
+Fraudsters can use this data to create fake identities to do all illegal kinds of stuff in your name, combine a patient number with a false provider number and file fake claims with insurers, and even file fake tax returns using your stolen addresses, phone numbers and employment history.
+How to Protect Yourself After a Data Breach?
+If you are a one of those affected by the healthcare breach, you will have to remain vigilant against fraud for the rest of your lives, because the risk of identity theft isn't short term, unlike in case of credit cards fraud.
+You may follow the following steps to protect yourself:
+1) Monitor Your Accounts: Watch out if someone using your information do not ever try to take over or transfer money out of your existing accounts. Don’t forget that thieves with stolen details on you can get through your security questions, including the last four digits of your social and street address. Also, watch for any unauthorised activity or transfers on your current financial accounts.
+2) File Your Taxes Early: With the stolen information in the hands, cyber thieves could hook your tax refund by filing your taxes early and claiming it for themselves. So, to avoid any such problems, file your taxes as early as possible.
+3) Stay Vigilant: The foremost thing to protect against any breach is to stay vigilant, as nobody knows when or where your stolen identities will be used. So, affected consumers will simply have to stay mindful forever.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

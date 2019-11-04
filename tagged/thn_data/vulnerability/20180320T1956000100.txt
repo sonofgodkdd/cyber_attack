@@ -1,0 +1,23 @@
+Windows Remote Assistance Exploit Lets Hackers Steal Sensitive Files
+Swati Khandelwal
+
+You have always been warned not to share remote access to your computer with untrusted people for any reason—it's a basic cybersecurity advice, and common sense, right?
+But what if, I say you should not even trust anyone who invites or offer you full remote access to their computers.
+A critical vulnerability has been discovered in Microsoft's Windows Remote Assistance (Quick Assist) feature that affects all versions of Windows to date, including Windows 10, 8.1, RT 8.1, and 7, and allows remote attackers to steal sensitive files on the targeted machine.
+Windows Remote Assistance is a built-in tool that allows someone you trust to take over your PC (or you to take remote control of others) so they can help you fix a problem from anywhere around the world.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The feature relies on the Remote Desktop Protocol (RDP) to establish a secure connection with the person in need.
+However, Nabeel Ahmed of Trend Micro Zero Day Initiative discovered and reported an information disclosure vulnerability (CVE-2018-0878) in Windows Remote Assistance that could allow attackers to obtain information to further compromise the victim's system.
+The vulnerability, which has been fixed by the company in this month's patch Tuesday, resides in the way Windows Remote Assistance processes XML External Entities (XXE).
+The vulnerability affects Microsoft Windows Server 2016, Windows Server 2012 and R2,  Windows Server 2008 SP2 and R2 SP1, Windows 10 (both 32- and 64-bit), Windows 8.1 (both 32- and 64-bit) and RT 8.1, and Windows 7 (both 32- and 64-bit).
+Exploiting Windows Remote Assistance to Steal Files
+Since a security patch for this vulnerability is now available, the researcher has finally released technical details and proof-of-concept exploit code for the flaw to the public.
+In order to exploit this flaw, which resides in MSXML3 parser, the hacker needs to use "Out-of-Band Data Retrieval" attack technique by offering the victim access to his/her computer via Windows Remote Assistance.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While setting up Windows Remote Assistance, the feature gives you two options—Invite someone to help you and Respond to someone who needs help.
+Selecting the first option helps users generate an invitation file, i.e. 'invitation.msrcincident,' which contains XML data with a lot of parameters and values required for authentication.
+Since the parser does not properly validate the content, the attacker can simply send a specially crafted Remote Assistance invitation file containing a malicious payload to the victim, tricking the targeted computer to submit the content of specific files from known locations to a remote server controlled by the attackers.
+"The stolen information could be submitted as part of the URL in HTTP request(s) to the attacker. In all cases, an attacker would have no way to force a user to view the attacker-controlled content. Instead, an attacker would have to convince a user to take action," Microsoft explains. 
+"This XXE vulnerability can be genuinely used in mass scale phishing attacks targeting individuals believing they are truly helping another individual with an IT problem. Totally unaware that the .msrcincident invitation file could potentially result in loss of sensitive information," Ahmed warns.
+Among patching other critical vulnerabilities fixed this month, Windows users are highly recommended to install the latest update for Windows Remote Assistance as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

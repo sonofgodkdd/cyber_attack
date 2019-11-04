@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Border Patrol Disrupts Maritime Smuggling Attempts
+31 Illegal Aliens Arrested in two Separate Incidents
+(Tuesday, February 08, 2011)
+San Diego, Calif.  - Early this morning, U.S. Border Patrol agents arrested 31 illegal aliens, who attempted to enter the country illegally aboard small, panga-style boats in San Diego County.
+Some time around midnight, Border Patrol agents spotted a panga-style boat cross the international boundary and make its way north along the coastline. The vessel came ashore near the mouth of the Tijuana River, disembarking several individuals and quickly returning south into Mexico. Border Patrol agents apprehended 14 individuals and determined that they had entered the United States illegally and placed them under arrest. Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing.
+A second maritime smuggling attempt was intercepted this morning near Camp Pendleton, Calif. At approximately 2:50 a.m., Border Patrol agents observed a panga-style boat approach the shoreline near Red Beach. Several individuals jumped out of the boat and headed toward cliffs east of the shoreline. The boat absconded back toward Mexico. Agents responded to the scene and arrested 17 individuals who all claimed to be Mexican nationals illegally in the United States. Agents transported 13 males and 4 females to a local Border Patrol Station for processing.
+An investigation is currently being conducted to identify and prosecute the individuals responsible for these smuggling attempts.
+The U.S. Border Patrol maintains a strong enforcement posture on the coastal borders to detect, apprehend, and deter smugglers of humans, drugs and other contraband. The U.S. Border Patrol is a participating law enforcement agency within the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="52" end="69" text="31 Illegal Aliens" TYPE="NOM" />
+<person id="p1" start="175" end="200" text="U.S. Border Patrol agents" TYPE="BAR" />
+<person id="p2" start="210" end="325" text="31 illegal aliens, who attempted to enter the country illegally aboard small, panga-style boats in San Diego County" TYPE="NOM" />
+<person id="p3" start="229" end="232" text="who" TYPE="WHQ" />
+<person id="p4" start="354" end="374" text="Border Patrol agents" TYPE="BAR" />
+<person id="p5" start="552" end="571" text="several individuals" TYPE="BAR" />
+<person id="p6" start="613" end="633" text="Border Patrol agents" TYPE="BAR" />
+<person id="p7" start="646" end="660" text="14 individuals" TYPE="NOM" />
+<person id="p8" start="681" end="685" text="they" TYPE="PRO" />
+<person id="p9" start="737" end="741" text="them" TYPE="PRO" />
+<person id="p10" start="756" end="796" text="Two female and 11 male Mexican nationals" TYPE="NOM" />
+<person id="p11" start="803" end="829" text="one male Honduran national" TYPE="NOM" />
+<person id="p12" start="1017" end="1037" text="Border Patrol agents" TYPE="BAR" />
+<person id="p13" start="1105" end="1124" text="Several individuals" TYPE="BAR" />
+<person id="p14" start="1235" end="1241" text="Agents" TYPE="BAR" />
+<person id="p15" start="1278" end="1363" text="17 individuals who all claimed to be Mexican nationals illegally in the United States" TYPE="NOM" />
+<person id="p16" start="1293" end="1296" text="who" TYPE="WHQ" />
+<person id="p17" start="1297" end="1300" text="all" TYPE="HLS" />
+<person id="p18" start="1315" end="1363" text="Mexican nationals illegally in the United States" TYPE="BAR" />
+<person id="p19" start="1365" end="1371" text="Agents" TYPE="BAR" />
+<person id="p20" start="1384" end="1392" text="13 males" TYPE="NOM" />
+<person id="p21" start="1397" end="1406" text="4 females" TYPE="NOM" />
+<person id="p23" start="1528" end="1584" text="the individuals responsible for these smuggling attempts" TYPE="NOM" />
+<organization id="o0" start="1" end="14" text="Border Patrol" TYPE="NAM" />
+<organization id="o1" start="175" end="193" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="354" end="367" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o3" start="613" end="626" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o4" start="858" end="871" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o5" start="1017" end="1030" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o6" start="1586" end="1608" text="The U.S. Border Patrol" TYPE="NAM" />
+<organization id="o7" start="1752" end="1774" text="The U.S. Border Patrol" TYPE="NAM" />
+<organization id="o8" start="1778" end="1977" text="a participating law enforcement agency within the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" TYPE="NOM" />
+<organization id="o9" start="1824" end="1977" text="the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" TYPE="APP" />
+<organization id="o10" start="1824" end="1852" text="the Maritime Unified Command" TYPE="NAM" />
+<organization id="o11" start="1854" end="1977" text="a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" TYPE="NOM" />
+<organization id="o12" start="1901" end="1977" text="local, state and federal agencies operating in the San Diego maritime domain" TYPE="BAR" />
+<geographical-political id="g0" start="134" end="151" text="San Diego, Calif." TYPE="NAM" />
+<geographical-political id="g1" start="145" end="151" text="Calif." TYPE="NAM" />
+<geographical-political id="g2" start="252" end="263" text="the country" TYPE="NOM" />
+<geographical-political id="g3" start="309" end="325" text="San Diego County" TYPE="NAM" />
+<geographical-political id="g4" start="605" end="611" text="Mexico" TYPE="NAM" />
+<geographical-political id="g6" start="698" end="715" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="779" end="786" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g8" start="812" end="820" text="Honduran" TYPE="NAMPRE" />
+<geographical-political id="g9" start="966" end="987" text="Camp Pendleton, Calif" TYPE="NAM" />
+<geographical-political id="g10" start="982" end="987" text="Calif" TYPE="NAM" />
+<geographical-political id="g11" start="1227" end="1233" text="Mexico" TYPE="NAM" />
+<geographical-political id="g12" start="1315" end="1322" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g5" start="1346" end="1363" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="1952" end="1961" text="San Diego" TYPE="NAMPRE" />
+<location id="l0" start="408" end="434" text="the international boundary" TYPE="NOM" />
+<location id="l2" start="464" end="477" text="the coastline" TYPE="NOM" />
+<location id="l3" start="507" end="537" text="the mouth of the Tijuana River" TYPE="NOM" />
+<location id="l4" start="520" end="537" text="the Tijuana River" TYPE="NAM" />
+<location id="l5" start="1075" end="1103" text="the shoreline near Red Beach" TYPE="NOM" />
+<location id="l6" start="1094" end="1103" text="Red Beach" TYPE="NAM" />
+<location id="l7" start="1166" end="1194" text="cliffs east of the shoreline" TYPE="BAR" />
+<location id="l8" start="1181" end="1194" text="the shoreline" TYPE="NOM" />
+<location id="l9" start="1651" end="1670" text="the coastal borders" TYPE="NOM" />
+<location id="l10" start="1948" end="1977" text="the San Diego maritime domain" TYPE="NOM" />
+<falicity id="f0" start="850" end="879" text="a local Border Patrol station" TYPE="NOM" />
+<falicity id="f1" start="1410" end="1439" text="a local Border Patrol Station" TYPE="NOM" />
+<head id="h0" start="1" end="14" text="Border Patrol" />
+<head id="h1" start="63" end="69" text="Aliens" />
+<head id="h2" start="134" end="143" text="San Diego" />
+<head id="h3" start="145" end="151" text="Calif." />
+<head id="h4" start="194" end="200" text="agents" />
+<head id="h5" start="175" end="193" text="U.S. Border Patrol" />
+<head id="h6" start="221" end="227" text="aliens" />
+<head id="h7" start="229" end="232" text="who" />
+<head id="h8" start="256" end="263" text="country" />
+<head id="h9" start="309" end="325" text="San Diego County" />
+<head id="h10" start="368" end="374" text="agents" />
+<head id="h11" start="354" end="367" text="Border Patrol" />
+<head id="h12" start="426" end="434" text="boundary" />
+<head id="h14" start="468" end="477" text="coastline" />
+<head id="h15" start="511" end="516" text="mouth" />
+<head id="h16" start="524" end="537" text="Tijuana River" />
+<head id="h17" start="560" end="571" text="individuals" />
+<head id="h18" start="605" end="611" text="Mexico" />
+<head id="h19" start="627" end="633" text="agents" />
+<head id="h20" start="613" end="626" text="Border Patrol" />
+<head id="h21" start="649" end="660" text="individuals" />
+<head id="h22" start="681" end="685" text="they" />
+<head id="h23" start="702" end="715" text="United States" />
+<head id="h24" start="737" end="741" text="them" />
+<head id="h25" start="787" end="796" text="nationals" />
+<head id="h26" start="779" end="786" text="Mexican" />
+<head id="h27" start="821" end="829" text="national" />
+<head id="h28" start="812" end="820" text="Honduran" />
+<head id="h29" start="872" end="879" text="station" />
+<head id="h30" start="858" end="871" text="Border Patrol" />
+<head id="h31" start="966" end="980" text="Camp Pendleton" />
+<head id="h32" start="982" end="987" text="Calif" />
+<head id="h33" start="1031" end="1037" text="agents" />
+<head id="h34" start="1017" end="1030" text="Border Patrol" />
+<head id="h35" start="1079" end="1088" text="shoreline" />
+<head id="h36" start="1094" end="1103" text="Red Beach" />
+<head id="h37" start="1113" end="1124" text="individuals" />
+<head id="h38" start="1166" end="1172" text="cliffs" />
+<head id="h39" start="1185" end="1194" text="shoreline" />
+<head id="h40" start="1227" end="1233" text="Mexico" />
+<head id="h41" start="1235" end="1241" text="Agents" />
+<head id="h42" start="1281" end="1292" text="individuals" />
+<head id="h43" start="1293" end="1296" text="who" />
+<head id="h44" start="1297" end="1300" text="all" />
+<head id="h45" start="1323" end="1332" text="nationals" />
+<head id="h46" start="1315" end="1322" text="Mexican" />
+<head id="h47" start="1350" end="1363" text="United States" />
+<head id="h48" start="1365" end="1371" text="Agents" />
+<head id="h49" start="1387" end="1392" text="males" />
+<head id="h50" start="1399" end="1406" text="females" />
+<head id="h51" start="1432" end="1439" text="Station" />
+<head id="h52" start="1532" end="1543" text="individuals" />
+<head id="h53" start="1590" end="1608" text="U.S. Border Patrol" />
+<head id="h54" start="1663" end="1670" text="borders" />
+<head id="h55" start="1756" end="1774" text="U.S. Border Patrol" />
+<head id="h56" start="1810" end="1816" text="agency" />
+<head id="h57" start="1828" end="1852" text="Maritime Unified Command" />
+<head id="h58" start="1886" end="1892" text="effort" />
+<head id="h59" start="1926" end="1934" text="agencies" />
+<head id="h60" start="1971" end="1977" text="domain" />
+<head id="h61" start="1952" end="1961" text="San Diego" />
+<name id="n0" start="1" end="14" text="Border Patrol" />
+<name id="n1" start="134" end="143" text="San Diego" />
+<name id="n2" start="145" end="151" text="Calif." />
+<name id="n3" start="175" end="193" text="U.S. Border Patrol" />
+<name id="n4" start="309" end="325" text="San Diego County" />
+<name id="n5" start="354" end="367" text="Border Patrol" />
+<name id="n6" start="524" end="537" text="Tijuana River" />
+<name id="n7" start="605" end="611" text="Mexico" />
+<name id="n8" start="613" end="626" text="Border Patrol" />
+<name id="n9" start="702" end="715" text="United States" />
+<name id="n10" start="779" end="786" text="Mexican" />
+<name id="n11" start="812" end="820" text="Honduran" />
+<name id="n12" start="858" end="871" text="Border Patrol" />
+<name id="n13" start="966" end="980" text="Camp Pendleton" />
+<name id="n14" start="982" end="987" text="Calif" />
+<name id="n15" start="1017" end="1030" text="Border Patrol" />
+<name id="n16" start="1094" end="1103" text="Red Beach" />
+<name id="n17" start="1227" end="1233" text="Mexico" />
+<name id="n18" start="1315" end="1322" text="Mexican" />
+<name id="n19" start="1350" end="1363" text="United States" />
+<name id="n20" start="1590" end="1608" text="U.S. Border Patrol" />
+<name id="n21" start="1756" end="1774" text="U.S. Border Patrol" />
+<name id="n22" start="1828" end="1852" text="Maritime Unified Command" />
+<name id="n23" start="1952" end="1961" text="San Diego" />
+<located-mention id="lo0" start="613" end="754" text="Border Patrol agents apprehended 14 individuals and determined that they had entered the United States illegally and placed them under arrest" TYPE="Verbal" />
+<located-mention id="lo1" start="756" end="894" text="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" TYPE="Verbal" />
+<located-mention id="lo2" start="756" end="894" text="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" TYPE="Verbal" />
+<located-mention id="lo3" start="1105" end="1194" text="Several individuals jumped out of the boat and headed toward cliffs east of the shoreline" TYPE="Verbal" />
+<located-mention id="lo4" start="1315" end="1363" text="Mexican nationals illegally in the United States" TYPE="Preposition" />
+<located-mention id="lo5" start="1365" end="1454" text="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" TYPE="Verbal" />
+<located-mention id="lo6" start="1365" end="1454" text="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" TYPE="Verbal" />
+<located-mention id="lo7" start="354" end="477" text="Border Patrol agents spotted a panga-style boat cross the international boundary and make its way north along the coastline" TYPE="Other" />
+<employment-mention id="e0" start="175" end="200" text="U.S. Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e1" start="354" end="374" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e2" start="613" end="633" text="Border Patrol agents" TYPE="PreMod" />
+<employment-mention id="e3" start="1017" end="1037" text="Border Patrol agents" TYPE="PreMod" />
+<CRRE id="C0" start="756" end="796" text="Two female and 11 male Mexican nationals" TYPE="PreMod" />
+<CRRE id="C1" start="803" end="829" text="one male Honduran national" TYPE="PreMod" />
+<CRRE id="C2" start="1315" end="1363" text="Mexican nationals illegally in the United States" TYPE="PreMod" />
+<entity_link id="en0" fromID="o1" fromText="U.S. Border Patrol" toID="o0" toText="Border Patrol" />
+<entity_link id="en1" fromID="p4" fromText="Border Patrol agents" toID="p1" toText="U.S. Border Patrol agents" />
+<entity_link id="en2" fromID="o2" fromText="Border Patrol" toID="o1" toText="U.S. Border Patrol" />
+<entity_link id="en3" fromID="p6" fromText="Border Patrol agents" toID="p4" toText="Border Patrol agents" />
+<entity_link id="en4" fromID="o3" fromText="Border Patrol" toID="o2" toText="Border Patrol" />
+<entity_link id="en5" fromID="p8" fromText="they" toID="p7" toText="14 individuals" />
+<entity_link id="en6" fromID="p9" fromText="them" toID="p8" toText="they" />
+<entity_link id="en7" fromID="g7" fromText="Mexican" toID="g4" toText="Mexico" />
+<entity_link id="en8" fromID="o4" fromText="Border Patrol" toID="o3" toText="Border Patrol" />
+<entity_link id="en9" fromID="g10" fromText="Calif" toID="g1" toText="Calif." />
+<entity_link id="en10" fromID="p12" fromText="Border Patrol agents" toID="p6" toText="Border Patrol agents" />
+<entity_link id="en11" fromID="o5" fromText="Border Patrol" toID="o4" toText="Border Patrol" />
+<entity_link id="en12" fromID="l8" fromText="the shoreline" toID="l5" toText="the shoreline near Red Beach" />
+<entity_link id="en13" fromID="g11" fromText="Mexico" toID="g4" toText="Mexico" />
+<entity_link id="en14" fromID="p14" fromText="Agents" toID="p12" toText="Border Patrol agents" />
+<entity_link id="en15" fromID="p16" fromText="who" toID="p15" toText="17 individuals who all claimed to be Mexican nationals illegally in the United States" />
+<entity_link id="en16" fromID="p17" fromText="all" toID="p16" toText="who" />
+<entity_link id="en17" fromID="p18" fromText="Mexican nationals illegally in the United States" toID="p16" toText="who" />
+<entity_link id="en18" fromID="g12" fromText="Mexican" toID="g11" toText="Mexico" />
+<entity_link id="en19" fromID="g5" fromText="the United States" toID="g6" toText="the United States" />
+<entity_link id="en20" fromID="p19" fromText="Agents" toID="p14" toText="Agents" />
+<entity_link id="en21" fromID="o6" fromText="The U.S. Border Patrol" toID="o5" toText="Border Patrol" />
+<entity_link id="en22" fromID="o7" fromText="The U.S. Border Patrol" toID="o6" toText="The U.S. Border Patrol" />
+<entity_link id="en23" fromID="o10" fromText="the Maritime Unified Command" toID="o9" toText="the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" />
+<entity_link id="en24" fromID="o8" fromText="a participating law enforcement agency within the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" toID="o7" toText="The U.S. Border Patrol" />
+<entity_link id="en25" fromID="o11" fromText="a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" toID="o10" toText="the Maritime Unified Command" />
+<entity_link id="en26" fromID="g3" fromText="San Diego County" toID="g0" toText="San Diego, Calif." />
+<entity_link id="en27" fromID="g13" fromText="San Diego" toID="g3" toText="San Diego County" />
+<head_link id="he0" fromID="o0" fromText="Border Patrol" toID="h0" toText="Border Patrol" />
+<head_link id="he1" fromID="p0" fromText="31 Illegal Aliens" toID="h1" toText="Aliens" />
+<head_link id="he2" fromID="g0" fromText="San Diego, Calif." toID="h2" toText="San Diego" />
+<head_link id="he3" fromID="g1" fromText="Calif." toID="h3" toText="Calif." />
+<head_link id="he4" fromID="p1" fromText="U.S. Border Patrol agents" toID="h4" toText="agents" />
+<head_link id="he5" fromID="o1" fromText="U.S. Border Patrol" toID="h5" toText="U.S. Border Patrol" />
+<head_link id="he6" fromID="p2" fromText="31 illegal aliens, who attempted to enter the country illegally aboard small, panga-style boats in San Diego County" toID="h6" toText="aliens" />
+<head_link id="he7" fromID="p3" fromText="who" toID="h7" toText="who" />
+<head_link id="he8" fromID="g2" fromText="the country" toID="h8" toText="country" />
+<head_link id="he9" fromID="g3" fromText="San Diego County" toID="h9" toText="San Diego County" />
+<head_link id="he10" fromID="p4" fromText="Border Patrol agents" toID="h10" toText="agents" />
+<head_link id="he11" fromID="o2" fromText="Border Patrol" toID="h11" toText="Border Patrol" />
+<head_link id="he12" fromID="l0" fromText="the international boundary" toID="h12" toText="boundary" />
+<head_link id="he14" fromID="l2" fromText="the coastline" toID="h14" toText="coastline" />
+<head_link id="he15" fromID="l3" fromText="the mouth of the Tijuana River" toID="h15" toText="mouth" />
+<head_link id="he16" fromID="l4" fromText="the Tijuana River" toID="h16" toText="Tijuana River" />
+<head_link id="he17" fromID="p5" fromText="several individuals" toID="h17" toText="individuals" />
+<head_link id="he18" fromID="g4" fromText="Mexico" toID="h18" toText="Mexico" />
+<head_link id="he19" fromID="p6" fromText="Border Patrol agents" toID="h19" toText="agents" />
+<head_link id="he20" fromID="o3" fromText="Border Patrol" toID="h20" toText="Border Patrol" />
+<head_link id="he21" fromID="p7" fromText="14 individuals" toID="h21" toText="individuals" />
+<head_link id="he22" fromID="p8" fromText="they" toID="h22" toText="they" />
+<head_link id="he23" fromID="g6" fromText="the United States" toID="h23" toText="United States" />
+<head_link id="he24" fromID="p9" fromText="them" toID="h24" toText="them" />
+<head_link id="he25" fromID="p10" fromText="Two female and 11 male Mexican nationals" toID="h25" toText="nationals" />
+<head_link id="he26" fromID="g7" fromText="Mexican" toID="h26" toText="Mexican" />
+<head_link id="he27" fromID="p11" fromText="one male Honduran national" toID="h27" toText="national" />
+<head_link id="he28" fromID="g8" fromText="Honduran" toID="h28" toText="Honduran" />
+<head_link id="he29" fromID="f0" fromText="a local Border Patrol station" toID="h29" toText="station" />
+<head_link id="he30" fromID="o4" fromText="Border Patrol" toID="h30" toText="Border Patrol" />
+<head_link id="he31" fromID="g9" fromText="Camp Pendleton, Calif" toID="h31" toText="Camp Pendleton" />
+<head_link id="he32" fromID="g10" fromText="Calif" toID="h32" toText="Calif" />
+<head_link id="he33" fromID="p12" fromText="Border Patrol agents" toID="h33" toText="agents" />
+<head_link id="he34" fromID="o5" fromText="Border Patrol" toID="h34" toText="Border Patrol" />
+<head_link id="he35" fromID="l5" fromText="the shoreline near Red Beach" toID="h35" toText="shoreline" />
+<head_link id="he36" fromID="l6" fromText="Red Beach" toID="h36" toText="Red Beach" />
+<head_link id="he37" fromID="p13" fromText="Several individuals" toID="h37" toText="individuals" />
+<head_link id="he38" fromID="l7" fromText="cliffs east of the shoreline" toID="h38" toText="cliffs" />
+<head_link id="he39" fromID="l8" fromText="the shoreline" toID="h39" toText="shoreline" />
+<head_link id="he40" fromID="g11" fromText="Mexico" toID="h40" toText="Mexico" />
+<head_link id="he41" fromID="p14" fromText="Agents" toID="h41" toText="Agents" />
+<head_link id="he42" fromID="p15" fromText="17 individuals who all claimed to be Mexican nationals illegally in the United States" toID="h42" toText="individuals" />
+<head_link id="he43" fromID="p16" fromText="who" toID="h43" toText="who" />
+<head_link id="he44" fromID="p17" fromText="all" toID="h44" toText="all" />
+<head_link id="he45" fromID="p18" fromText="Mexican nationals illegally in the United States" toID="h45" toText="nationals" />
+<head_link id="he46" fromID="g12" fromText="Mexican" toID="h46" toText="Mexican" />
+<head_link id="he47" fromID="g5" fromText="the United States" toID="h47" toText="United States" />
+<head_link id="he48" fromID="p19" fromText="Agents" toID="h48" toText="Agents" />
+<head_link id="he49" fromID="p20" fromText="13 males" toID="h49" toText="males" />
+<head_link id="he50" fromID="p21" fromText="4 females" toID="h50" toText="females" />
+<head_link id="he51" fromID="f1" fromText="a local Border Patrol Station" toID="h51" toText="Station" />
+<head_link id="he53" fromID="p23" fromText="the individuals responsible for these smuggling attempts" toID="h52" toText="individuals" />
+<head_link id="he54" fromID="o6" fromText="The U.S. Border Patrol" toID="h53" toText="U.S. Border Patrol" />
+<head_link id="he55" fromID="l9" fromText="the coastal borders" toID="h54" toText="borders" />
+<head_link id="he56" fromID="o7" fromText="The U.S. Border Patrol" toID="h55" toText="U.S. Border Patrol" />
+<head_link id="he57" fromID="o8" fromText="a participating law enforcement agency within the Maritime Unified Command, a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" toID="h56" toText="agency" />
+<head_link id="he58" fromID="o10" fromText="the Maritime Unified Command" toID="h57" toText="Maritime Unified Command" />
+<head_link id="he59" fromID="o11" fromText="a collaborative law enforcement effort between local, state and federal agencies operating in the San Diego maritime domain" toID="h58" toText="effort" />
+<head_link id="he60" fromID="o12" fromText="local, state and federal agencies operating in the San Diego maritime domain" toID="h59" toText="agencies" />
+<head_link id="he61" fromID="l10" fromText="the San Diego maritime domain" toID="h60" toText="domain" />
+<head_link id="he62" fromID="g13" fromText="San Diego" toID="h61" toText="San Diego" />
+<name_link id="na0" fromID="o0" fromText="Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="San Diego, Calif." toID="n1" toText="San Diego" />
+<name_link id="na2" fromID="g1" fromText="Calif." toID="n2" toText="Calif." />
+<name_link id="na3" fromID="o1" fromText="U.S. Border Patrol" toID="n3" toText="U.S. Border Patrol" />
+<name_link id="na4" fromID="g3" fromText="San Diego County" toID="n4" toText="San Diego County" />
+<name_link id="na5" fromID="o2" fromText="Border Patrol" toID="n5" toText="Border Patrol" />
+<name_link id="na6" fromID="l4" fromText="the Tijuana River" toID="n6" toText="Tijuana River" />
+<name_link id="na7" fromID="g4" fromText="Mexico" toID="n7" toText="Mexico" />
+<name_link id="na8" fromID="o3" fromText="Border Patrol" toID="n8" toText="Border Patrol" />
+<name_link id="na9" fromID="g6" fromText="the United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="g7" fromText="Mexican" toID="n10" toText="Mexican" />
+<name_link id="na11" fromID="g8" fromText="Honduran" toID="n11" toText="Honduran" />
+<name_link id="na12" fromID="o4" fromText="Border Patrol" toID="n12" toText="Border Patrol" />
+<name_link id="na13" fromID="g9" fromText="Camp Pendleton, Calif" toID="n13" toText="Camp Pendleton" />
+<name_link id="na14" fromID="g10" fromText="Calif" toID="n14" toText="Calif" />
+<name_link id="na15" fromID="o5" fromText="Border Patrol" toID="n15" toText="Border Patrol" />
+<name_link id="na16" fromID="l6" fromText="Red Beach" toID="n16" toText="Red Beach" />
+<name_link id="na17" fromID="g11" fromText="Mexico" toID="n17" toText="Mexico" />
+<name_link id="na18" fromID="g12" fromText="Mexican" toID="n18" toText="Mexican" />
+<name_link id="na19" fromID="g5" fromText="the United States" toID="n19" toText="United States" />
+<name_link id="na20" fromID="o6" fromText="The U.S. Border Patrol" toID="n20" toText="U.S. Border Patrol" />
+<name_link id="na21" fromID="o7" fromText="The U.S. Border Patrol" toID="n21" toText="U.S. Border Patrol" />
+<name_link id="na22" fromID="o10" fromText="the Maritime Unified Command" toID="n22" toText="Maritime Unified Command" />
+<name_link id="na23" fromID="g13" fromText="San Diego" toID="n23" toText="San Diego" />
+<relation_link1 id="r0" fromID="e0" fromText="U.S. Border Patrol agents" toID="p1" toText="U.S. Border Patrol agents" />
+<relation_link1 id="r1" fromID="e1" fromText="Border Patrol agents" toID="p4" toText="Border Patrol agents" />
+<relation_link1 id="r2" fromID="e2" fromText="Border Patrol agents" toID="p6" toText="Border Patrol agents" />
+<relation_link1 id="r3" fromID="lo0" fromText="Border Patrol agents apprehended 14 individuals and determined that they had entered the United States illegally and placed them under arrest" toID="p8" toText="they" />
+<relation_link1 id="r4" fromID="lo1" fromText="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" toID="p10" toText="Two female and 11 male Mexican nationals" />
+<relation_link1 id="r5" fromID="lo2" fromText="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" toID="p11" toText="one male Honduran national" />
+<relation_link1 id="r6" fromID="e3" fromText="Border Patrol agents" toID="p12" toText="Border Patrol agents" />
+<relation_link1 id="r7" fromID="lo3" fromText="Several individuals jumped out of the boat and headed toward cliffs east of the shoreline" toID="p13" toText="Several individuals" />
+<relation_link1 id="r8" fromID="lo4" fromText="Mexican nationals illegally in the United States" toID="p18" toText="Mexican nationals illegally in the United States" />
+<relation_link1 id="r9" fromID="lo5" fromText="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" toID="p20" toText="13 males" />
+<relation_link1 id="r10" fromID="lo6" fromText="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" toID="p21" toText="4 females" />
+<relation_link1 id="r11" fromID="C0" fromText="Two female and 11 male Mexican nationals" toID="p10" toText="Two female and 11 male Mexican nationals" />
+<relation_link1 id="r12" fromID="C1" fromText="one male Honduran national" toID="p11" toText="one male Honduran national" />
+<relation_link1 id="r13" fromID="C2" fromText="Mexican nationals illegally in the United States" toID="p18" toText="Mexican nationals illegally in the United States" />
+<relation_link1 id="r14" fromID="lo7" fromText="Border Patrol agents spotted a panga-style boat cross the international boundary and make its way north along the coastline" toID="p4" toText="Border Patrol agents" />
+<relation_link2 id="re0" fromID="e0" fromText="U.S. Border Patrol agents" toID="o1" toText="U.S. Border Patrol" />
+<relation_link2 id="re1" fromID="e1" fromText="Border Patrol agents" toID="o2" toText="Border Patrol" />
+<relation_link2 id="re2" fromID="e2" fromText="Border Patrol agents" toID="o3" toText="Border Patrol" />
+<relation_link2 id="re3" fromID="lo0" fromText="Border Patrol agents apprehended 14 individuals and determined that they had entered the United States illegally and placed them under arrest" toID="g6" toText="the United States" />
+<relation_link2 id="re4" fromID="lo1" fromText="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" toID="f0" toText="a local Border Patrol station" />
+<relation_link2 id="re5" fromID="lo2" fromText="Two female and 11 male Mexican nationals, plus one male Honduran national were transported to a local Border Patrol station for processing" toID="f0" toText="a local Border Patrol station" />
+<relation_link2 id="re6" fromID="e3" fromText="Border Patrol agents" toID="o5" toText="Border Patrol" />
+<relation_link2 id="re7" fromID="lo3" fromText="Several individuals jumped out of the boat and headed toward cliffs east of the shoreline" toID="l7" toText="cliffs east of the shoreline" />
+<relation_link2 id="re8" fromID="lo4" fromText="Mexican nationals illegally in the United States" toID="g5" toText="the United States" />
+<relation_link2 id="re9" fromID="lo5" fromText="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" toID="f1" toText="a local Border Patrol Station" />
+<relation_link2 id="re10" fromID="lo6" fromText="Agents transported 13 males and 4 females to a local Border Patrol Station for processing" toID="f1" toText="a local Border Patrol Station" />
+<relation_link2 id="re11" fromID="C0" fromText="Two female and 11 male Mexican nationals" toID="g7" toText="Mexican" />
+<relation_link2 id="re12" fromID="C1" fromText="one male Honduran national" toID="g8" toText="Honduran" />
+<relation_link2 id="re13" fromID="C2" fromText="Mexican nationals illegally in the United States" toID="g12" toText="Mexican" />
+<relation_link2 id="re14" fromID="lo7" fromText="Border Patrol agents spotted a panga-style boat cross the international boundary and make its way north along the coastline" toID="l0" toText="the international boundary" />
+</TAGS>
+</KddTask>

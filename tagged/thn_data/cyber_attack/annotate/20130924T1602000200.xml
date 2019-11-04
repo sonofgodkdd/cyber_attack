@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Internet Explorer zero-day exploit used watering hole attacks to target Japanese users
+Mohit Kumar
+
+Attackers exploiting a zero-day vulnerability CVE-2013-3893 in Microsoft’s Internet Explorer browser and served them on compromised popular Japanese news websites.
+According to FireEye, at least three major Japanese media websites were compromised in watering hole attacks, dubbed Operation DeputyDog, appears to target manufacturers, government entities and media organizations in Japan.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The compromised sites recorded more than 75,000 page views before the exploits were discovered. The zero-day vulnerability in IE 8 and 9 allows the stealthy installation of software in the users’ computers which then can be remotely accessed by the hackers.
+The hackers typically use Trojans designed specifically for a pay-to-order attack to steal intellectual property. Researchers saw a payload executable file used against a Japanese target posing as an image file hosted on a Hong Kong server.
+The attack in Japan was discovered two days after Microsoft disclosed the flaw ,“The exploit was attacking a Use After Free vulnerability in IE’s HTML rendering engine (mshtml.dll) and was implemented entirely in Javascript (no dependencies on Java, Flash etc.), but did depend on a Microsoft Office DLL which was not compiled with ASLR (Address Space Layout Randomization) enabled,” Microsoft Security Advisory.
+FireEye also claimed the group responsible for DeputyDog is the same one that compromised security firm Bit9 back in February 2013. FireEye did not disclose which sites were infected, but said that Japanese computer security authorities were working with the media outlets to remediate the issue.
+Microsoft released a FixIt tool and urged IE users to install that as a mitigation until a patch was ready.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<trojan id="t0" start="864" end="883" text="pay-to-order attack" TYPE="USP" />
+<arbitrary_code_execution id="a0" start="111" end="121" text="exploiting" TYPE="USP" />
+<arbitrary_code_execution id="a2" start="701" end="713" text="installation" TYPE="USP" />
+<arbitrary_code_execution id="a3" start="768" end="785" text="remotely accessed" TYPE="SUP" />
+<arbitrary_code_execution id="a4" start="1140" end="1149" text="attacking" TYPE="USP" />
+<arbitrary_code_execution id="a5" start="1232" end="1243" text="implemented" TYPE="USP" />
+</TAGS>
+</KddTask>

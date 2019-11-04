@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Heavy Weekend for Agriculture Specialists at Port of Entry
+(Tuesday, January 03, 2006)
+Tucson, AZ  - The New Year's weekend was the start of a busy season for Customs and Border Protection Agriculture Specialists at the ports of entry. In four days, officers and agriculture specialists at the ports stopped 59 agricultural or animal smuggling attempts and collected $7,700 in fines.
+From December 30th through January 2nd, Agriculture Specialists seized 121 apples, 29 avocados, 60 tangerines, 54 sweet limes, 47 oranges, 132 kumquats, 4 grapefruit, 6 kiwifruit, 39 mamey fruit, 45 individual guavas and more than 5 pounds of cut guavas, 2 pears, 75 acrocomia (little coconut) fruit, 18 tejocotes (similar to crabapples), 26 pounds of sugarcane, 5 pounds of figs, more than 2 pounds of lemongrass, and almost 7 pounds of corn seed.
+Agriculture Specialists discovered 9 prohibited plants, including mango, rue, and frangipani. They also stopped various attempts at smuggling in more than 46 pounds of ham, chorizo, and homemade pork rinds.
+In addition to stopping prohibited plant and meat products, Agriculture Specialists and CBP officers at the ports of entry stopped several attempts at bringing in live birds, including canaries, parakeets, doves, quail, cardinals, and parrotlets. The birds were turned over the USDA Veterinary Services.
+The items and birds were discovered hidden in purses, boxes, bags, and coolers, underneath seats, in luggage, under packages, and even in the spare tire jack compartment.
+"Although CBP's primary mission is to protect and secure America's borders against terrorism," said Acting Director of Field Operations Marcelino Borges, "every day CBP employees at our ports of entry, here in Arizona and across the country, are intercepting materials injurious to American agriculture and the environment. We take this responsibility very seriously.
+CBP officers at the ports of entry also seized more than 2 pounds of heroin, 5 pounds of cocaine, 100 pounds of marijuana, 13 weapons, and 5500 rounds of ammunition, apprehended 17 people with warrants, and stopped 5 attempts at smuggling people into the country using fraudulent documents, identification belonging to other people, or claiming to be US citizens.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="19" end="59" text="Agriculture Specialists at Port of Entry" TYPE="BAR" />
+<person id="p1" start="160" end="235" text="Customs and Border Protection Agriculture Specialists at the ports of entry" TYPE="BAR" />
+<person id="p2" start="251" end="300" text="officers and agriculture specialists at the ports" TYPE="BAR" />
+<person id="p4" start="251" end="300" text="officers and agriculture specialists at the ports" TYPE="BAR" />
+<person id="p5" start="425" end="448" text="Agriculture Specialists" TYPE="BAR" />
+<person id="p6" start="834" end="857" text="Agriculture Specialists" TYPE="BAR" />
+<person id="p7" start="928" end="932" text="They" TYPE="PRO" />
+<person id="p9" start="1101" end="1163" text="Agriculture Specialists and CBP officers at the ports of entry" TYPE="BAR" />
+<person id="p10" start="1101" end="1163" text="Agriculture Specialists and CBP officers at the ports of entry" TYPE="BAR" />
+<person id="p11" start="1616" end="1668" text="Acting Director of Field Operations Marcelino Borges" TYPE="NAM" />
+<person id="p12" start="1616" end="1651" text="Acting Director of Field Operations" TYPE="NOMPRE" />
+<person id="p14" start="1681" end="1756" text="CBP employees at our ports of entry, here in Arizona and across the country" TYPE="BAR" />
+<person id="p15" start="1884" end="1918" text="CBP officers at the ports of entry" TYPE="BAR" />
+<person id="p16" start="2062" end="2085" text="17 people with warrants" TYPE="NOM" />
+<person id="p17" start="2123" end="2129" text="people" TYPE="BAR" />
+<person id="p18" start="2203" end="2215" text="other people" TYPE="NOM" />
+<organization id="o0" start="160" end="189" text="Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o1" start="1129" end="1132" text="CBP" TYPE="NAMPRE" />
+<organization id="o2" start="1315" end="1343" text="the USDA Veterinary Services" TYPE="NAM" />
+<organization id="o4" start="1526" end="1529" text="CBP" TYPE="NAM" />
+<organization id="o5" start="1681" end="1684" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1698" end="1701" text="our" TYPE="PRO" />
+<organization id="o7" start="1840" end="1842" text="We" TYPE="PRO" />
+<organization id="o8" start="1884" end="1887" text="CBP" TYPE="NAM" />
+<geographical-political id="g0" start="88" end="98" text="Tucson, AZ" TYPE="NAM" />
+<geographical-political id="g1" start="96" end="98" text="AZ" TYPE="NAM" />
+<geographical-political id="g2" start="1573" end="1580" text="America" TYPE="NAM" />
+<geographical-political id="g3" start="1726" end="1733" text="Arizona" TYPE="NAM" />
+<geographical-political id="g4" start="1745" end="1756" text="the country" TYPE="NOM" />
+<geographical-political id="g5" start="1798" end="1806" text="American" TYPE="NAMPRE" />
+<geographical-political id="g6" start="2135" end="2146" text="the country" TYPE="NOM" />
+<geographical-political id="g7" start="2235" end="2237" text="US" TYPE="NAMPRE" />
+<geographical-political id="g8" start="2235" end="2246" text="US citizens" TYPE="BAR" />
+<location id="l0" start="1573" end="1590" text="America's borders" TYPE="NOM" />
+<location id="l1" start="1718" end="1733" text="here in Arizona" TYPE="PRO" />
+<falicity id="f0" start="46" end="59" text="Port of Entry" TYPE="BAR" />
+<falicity id="f1" start="217" end="235" text="the ports of entry" TYPE="NOM" />
+<falicity id="f2" start="291" end="300" text="the ports" TYPE="NOM" />
+<falicity id="f3" start="1145" end="1163" text="the ports of entry" TYPE="NOM" />
+<falicity id="f5" start="1900" end="1918" text="the ports of entry" TYPE="NOM" />
+<falicity id="f4" start="1698" end="1756" text="our ports of entry, here in Arizona and across the country" TYPE="BAR" />
+<head id="h0" start="31" end="42" text="Specialists" />
+<head id="h1" start="88" end="94" text="Tucson" />
+<head id="h2" start="96" end="98" text="AZ" />
+<head id="h3" start="202" end="213" text="Specialists" />
+<head id="h4" start="160" end="189" text="Customs and Border Protection" />
+<head id="h5" start="251" end="259" text="officers" />
+<head id="h6" start="276" end="287" text="specialists" />
+<head id="h7" start="437" end="448" text="Specialists" />
+<head id="h8" start="846" end="857" text="Specialists" />
+<head id="h9" start="928" end="932" text="They" />
+<head id="h11" start="1113" end="1124" text="Specialists" />
+<head id="h12" start="1133" end="1141" text="officers" />
+<head id="h13" start="1129" end="1132" text="CBP" />
+<head id="h16" start="1526" end="1529" text="CBP" />
+<head id="h17" start="1583" end="1590" text="borders" />
+<head id="h18" start="1573" end="1580" text="America" />
+<head id="h19" start="1652" end="1668" text="Marcelino Borges" />
+<head id="h20" start="1623" end="1631" text="Director" />
+<head id="h21" start="1685" end="1694" text="employees" />
+<head id="h22" start="1681" end="1684" text="CBP" />
+<head id="h23" start="1698" end="1701" text="our" />
+<head id="h24" start="1726" end="1733" text="Arizona" />
+<head id="h25" start="1749" end="1756" text="country" />
+<head id="h26" start="1798" end="1806" text="American" />
+<head id="h27" start="1840" end="1842" text="We" />
+<head id="h28" start="1888" end="1896" text="officers" />
+<head id="h29" start="1884" end="1887" text="CBP" />
+<head id="h30" start="2065" end="2071" text="people" />
+<head id="h31" start="2123" end="2129" text="people" />
+<head id="h32" start="2139" end="2146" text="country" />
+<head id="h33" start="2209" end="2215" text="people" />
+<head id="h34" start="2238" end="2246" text="citizens" />
+<head id="h35" start="2235" end="2237" text="US" />
+<head id="h10" start="46" end="50" text="Port" />
+<head id="h36" start="221" end="226" text="ports" />
+<head id="h37" start="295" end="300" text="ports" />
+<head id="h38" start="1149" end="1154" text="ports" />
+<head id="h39" start="1702" end="1707" text="ports" />
+<head id="h40" start="1904" end="1909" text="ports" />
+<head id="h14" start="1319" end="1343" text="USDA Veterinary Services" />
+<head id="h15" start="1718" end="1722" text="here" />
+<name id="n0" start="88" end="94" text="Tucson" />
+<name id="n1" start="96" end="98" text="AZ" />
+<name id="n2" start="160" end="189" text="Customs and Border Protection" />
+<name id="n3" start="1129" end="1132" text="CBP" />
+<name id="n6" start="1526" end="1529" text="CBP" />
+<name id="n8" start="1573" end="1580" text="America" />
+<name id="n9" start="1652" end="1668" text="Marcelino Borges" />
+<name id="n10" start="1681" end="1684" text="CBP" />
+<name id="n11" start="1726" end="1733" text="Arizona" />
+<name id="n12" start="1798" end="1806" text="American" />
+<name id="n13" start="1884" end="1887" text="CBP" />
+<name id="n14" start="2235" end="2237" text="US" />
+<name id="n4" start="1319" end="1343" text="USDA Veterinary Services" />
+<located-mention id="lo0" start="19" end="59" text="Agriculture Specialists at Port of Entry" TYPE="Preposition" />
+<located-mention id="lo1" start="160" end="235" text="Customs and Border Protection Agriculture Specialists at the ports of entry" TYPE="Preposition" />
+<located-mention id="lo2" start="251" end="300" text="officers and agriculture specialists at the ports" TYPE="Preposition" />
+<located-mention id="lo3" start="251" end="300" text="officers and agriculture specialists at the ports" TYPE="Preposition" />
+<located-mention id="lo4" start="1101" end="1163" text="Agriculture Specialists and CBP officers at the ports of entry" TYPE="Preposition" />
+<located-mention id="lo5" start="1101" end="1163" text="Agriculture Specialists and CBP officers at the ports of entry" TYPE="Preposition" />
+<located-mention id="lo6" start="1681" end="1756" text="CBP employees at our ports of entry, here in Arizona and across the country" TYPE="Preposition" />
+<located-mention id="lo7" start="1884" end="1918" text="CBP officers at the ports of entry" TYPE="Preposition" />
+<employment-mention id="e0" start="160" end="235" text="Customs and Border Protection Agriculture Specialists at the ports of entry" TYPE="PreMod" />
+<employment-mention id="e1" start="1101" end="1163" text="Agriculture Specialists and CBP officers at the ports of entry" TYPE="PreMod" />
+<employment-mention id="e2" start="1681" end="1756" text="CBP employees at our ports of entry, here in Arizona and across the country" TYPE="PreMod" />
+<employment-mention id="e3" start="1884" end="1918" text="CBP officers at the ports of entry" TYPE="PreMod" />
+<employment-mention id="e4" start="1516" end="1838" text="'Although CBP's primary mission is to protect and secure America's borders against terrorism,' said Acting Director of Field Operations Marcelino Borges, 'every day CBP employees at our ports of entry, here in Arizona and across the country, are intercepting materials injurious to American agriculture and the environment" TYPE="Verbal" />
+<entity_link id="en0" fromID="p1" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="p0" toText="Agriculture Specialists at Port of Entry" />
+<entity_link id="en1" fromID="p4" fromText="officers and agriculture specialists at the ports" toID="p1" toText="Customs and Border Protection Agriculture Specialists at the ports of entry" />
+<entity_link id="en2" fromID="p5" fromText="Agriculture Specialists" toID="p4" toText="officers and agriculture specialists at the ports" />
+<entity_link id="en3" fromID="p6" fromText="Agriculture Specialists" toID="p5" toText="Agriculture Specialists" />
+<entity_link id="en4" fromID="p7" fromText="They" toID="p6" toText="Agriculture Specialists" />
+<entity_link id="en5" fromID="p9" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="p6" toText="Agriculture Specialists" />
+<entity_link id="en6" fromID="p10" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="p2" toText="officers and agriculture specialists at the ports" />
+<entity_link id="en7" fromID="o1" fromText="CBP" toID="o0" toText="Customs and Border Protection" />
+<entity_link id="en8" fromID="o4" fromText="CBP" toID="o1" toText="CBP" />
+<entity_link id="en9" fromID="p11" fromText="Acting Director of Field Operations Marcelino Borges" toID="p12" toText="Acting Director of Field Operations" />
+<entity_link id="en10" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en11" fromID="g3" fromText="Arizona" toID="g1" toText="AZ" />
+<entity_link id="en12" fromID="g4" fromText="the country" toID="g2" toText="America" />
+<entity_link id="en13" fromID="o7" fromText="We" toID="o6" toText="our" />
+<entity_link id="en14" fromID="o8" fromText="CBP" toID="o7" toText="We" />
+<entity_link id="en15" fromID="o6" fromText="our" toID="o5" toText="CBP" />
+<entity_link id="en16" fromID="p15" fromText="CBP officers at the ports of entry" toID="p10" toText="Agriculture Specialists and CBP officers at the ports of entry" />
+<entity_link id="en17" fromID="g6" fromText="the country" toID="g4" toText="the country" />
+<entity_link id="en18" fromID="f1" fromText="the ports of entry" toID="f0" toText="Port of Entry" />
+<entity_link id="en19" fromID="f2" fromText="the ports" toID="f1" toText="the ports of entry" />
+<entity_link id="en20" fromID="g8" fromText="US citizens" toID="g7" toText="US" />
+<entity_link id="en21" fromID="g7" fromText="US" toID="g6" toText="the country" />
+<head_link id="he0" fromID="p0" fromText="Agriculture Specialists at Port of Entry" toID="h0" toText="Specialists" />
+<head_link id="he1" fromID="g0" fromText="Tucson, AZ" toID="h1" toText="Tucson" />
+<head_link id="he2" fromID="g1" fromText="AZ" toID="h2" toText="AZ" />
+<head_link id="he3" fromID="p1" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="h3" toText="Specialists" />
+<head_link id="he4" fromID="o0" fromText="Customs and Border Protection" toID="h4" toText="Customs and Border Protection" />
+<head_link id="he5" fromID="p2" fromText="officers and agriculture specialists at the ports" toID="h5" toText="officers" />
+<head_link id="he6" fromID="p4" fromText="officers and agriculture specialists at the ports" toID="h6" toText="specialists" />
+<head_link id="he7" fromID="p5" fromText="Agriculture Specialists" toID="h7" toText="Specialists" />
+<head_link id="he8" fromID="p6" fromText="Agriculture Specialists" toID="h8" toText="Specialists" />
+<head_link id="he9" fromID="p7" fromText="They" toID="h9" toText="They" />
+<head_link id="he11" fromID="p9" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="h11" toText="Specialists" />
+<head_link id="he12" fromID="p10" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="h12" toText="officers" />
+<head_link id="he13" fromID="o1" fromText="CBP" toID="h13" toText="CBP" />
+<head_link id="he16" fromID="o4" fromText="CBP" toID="h16" toText="CBP" />
+<head_link id="he17" fromID="l0" fromText="America's borders" toID="h17" toText="borders" />
+<head_link id="he18" fromID="g2" fromText="America" toID="h18" toText="America" />
+<head_link id="he21" fromID="p14" fromText="CBP employees at our ports of entry, here in Arizona and across the country" toID="h21" toText="employees" />
+<head_link id="he22" fromID="o5" fromText="CBP" toID="h22" toText="CBP" />
+<head_link id="he23" fromID="o6" fromText="our" toID="h23" toText="our" />
+<head_link id="he24" fromID="g3" fromText="Arizona" toID="h24" toText="Arizona" />
+<head_link id="he25" fromID="g4" fromText="the country" toID="h25" toText="country" />
+<head_link id="he26" fromID="g5" fromText="American" toID="h26" toText="American" />
+<head_link id="he27" fromID="o7" fromText="We" toID="h27" toText="We" />
+<head_link id="he28" fromID="p15" fromText="CBP officers at the ports of entry" toID="h28" toText="officers" />
+<head_link id="he29" fromID="o8" fromText="CBP" toID="h29" toText="CBP" />
+<head_link id="he30" fromID="p16" fromText="17 people with warrants" toID="h30" toText="people" />
+<head_link id="he31" fromID="p17" fromText="people" toID="h31" toText="people" />
+<head_link id="he32" fromID="g6" fromText="the country" toID="h32" toText="country" />
+<head_link id="he33" fromID="p18" fromText="other people" toID="h33" toText="people" />
+<head_link id="he35" fromID="g7" fromText="US" toID="h35" toText="US" />
+<head_link id="he10" fromID="f0" fromText="Port of Entry" toID="h10" toText="Port" />
+<head_link id="he36" fromID="f1" fromText="the ports of entry" toID="h36" toText="ports" />
+<head_link id="he37" fromID="f2" fromText="the ports" toID="h37" toText="ports" />
+<head_link id="he38" fromID="f3" fromText="the ports of entry" toID="h38" toText="ports" />
+<head_link id="he40" fromID="f5" fromText="the ports of entry" toID="h40" toText="ports" />
+<head_link id="he42" fromID="o2" fromText="the USDA Veterinary Services" toID="h14" toText="USDA Veterinary Services" />
+<head_link id="he43" fromID="g8" fromText="US citizens" toID="h34" toText="citizens" />
+<head_link id="he15" fromID="l1" fromText="here in Arizona" toID="h15" toText="here" />
+<head_link id="he19" fromID="f4" fromText="our ports of entry, here in Arizona and across the country" toID="h39" toText="ports" />
+<name_link id="na0" fromID="g0" fromText="Tucson, AZ" toID="n0" toText="Tucson" />
+<name_link id="na1" fromID="g1" fromText="AZ" toID="n1" toText="AZ" />
+<name_link id="na2" fromID="o0" fromText="Customs and Border Protection" toID="n2" toText="Customs and Border Protection" />
+<name_link id="na3" fromID="o1" fromText="CBP" toID="n3" toText="CBP" />
+<name_link id="na6" fromID="o4" fromText="CBP" toID="n6" toText="CBP" />
+<name_link id="na7" fromID="g2" fromText="America" toID="n8" toText="America" />
+<name_link id="na8" fromID="p11" fromText="Acting Director of Field Operations Marcelino Borges" toID="n9" toText="Marcelino Borges" />
+<name_link id="na9" fromID="o5" fromText="CBP" toID="n10" toText="CBP" />
+<name_link id="na10" fromID="g3" fromText="Arizona" toID="n11" toText="Arizona" />
+<name_link id="na11" fromID="g5" fromText="American" toID="n12" toText="American" />
+<name_link id="na12" fromID="o8" fromText="CBP" toID="n13" toText="CBP" />
+<name_link id="na13" fromID="g7" fromText="US" toID="n14" toText="US" />
+<name_link id="na15" fromID="o2" fromText="the USDA Veterinary Services" toID="n4" toText="USDA Veterinary Services" />
+<relation_link1 id="r0" fromID="e0" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="p1" toText="Customs and Border Protection Agriculture Specialists at the ports of entry" />
+<relation_link1 id="r1" fromID="e1" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="p10" toText="Agriculture Specialists and CBP officers at the ports of entry" />
+<relation_link1 id="r2" fromID="e2" fromText="CBP employees at our ports of entry, here in Arizona and across the country" toID="p14" toText="CBP employees at our ports of entry, here in Arizona and across the country" />
+<relation_link1 id="r3" fromID="e3" fromText="CBP officers at the ports of entry" toID="p15" toText="CBP officers at the ports of entry" />
+<relation_link1 id="r4" fromID="lo0" fromText="Agriculture Specialists at Port of Entry" toID="p0" toText="Agriculture Specialists at Port of Entry" />
+<relation_link1 id="r5" fromID="lo1" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="p1" toText="Customs and Border Protection Agriculture Specialists at the ports of entry" />
+<relation_link1 id="r6" fromID="lo2" fromText="officers and agriculture specialists at the ports" toID="p2" toText="officers and agriculture specialists at the ports" />
+<relation_link1 id="r7" fromID="lo3" fromText="officers and agriculture specialists at the ports" toID="p4" toText="officers and agriculture specialists at the ports" />
+<relation_link1 id="r8" fromID="lo4" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="p9" toText="Agriculture Specialists and CBP officers at the ports of entry" />
+<relation_link1 id="r9" fromID="lo5" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="p10" toText="Agriculture Specialists and CBP officers at the ports of entry" />
+<relation_link1 id="r10" fromID="lo6" fromText="CBP employees at our ports of entry, here in Arizona and across the country" toID="p14" toText="CBP employees at our ports of entry, here in Arizona and across the country" />
+<relation_link1 id="r11" fromID="lo7" fromText="CBP officers at the ports of entry" toID="p15" toText="CBP officers at the ports of entry" />
+<relation_link1 id="r13" fromID="e4" fromText="'Although CBP's primary mission is to protect and secure America's borders against terrorism,' said Acting Director of Field Operations Marcelino Borges, 'every day CBP employees at our ports of entry, here in Arizona and across the country, are intercepting materials injurious to American agriculture and the environment" toID="p11" toText="Acting Director of Field Operations Marcelino Borges" />
+<relation_link2 id="re0" fromID="e0" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="o0" toText="Customs and Border Protection" />
+<relation_link2 id="re1" fromID="e1" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="o1" toText="CBP" />
+<relation_link2 id="re2" fromID="e2" fromText="CBP employees at our ports of entry, here in Arizona and across the country" toID="o5" toText="CBP" />
+<relation_link2 id="re3" fromID="e3" fromText="CBP officers at the ports of entry" toID="o8" toText="CBP" />
+<relation_link2 id="re4" fromID="lo0" fromText="Agriculture Specialists at Port of Entry" toID="f0" toText="Port of Entry" />
+<relation_link2 id="re5" fromID="lo1" fromText="Customs and Border Protection Agriculture Specialists at the ports of entry" toID="f1" toText="the ports of entry" />
+<relation_link2 id="re6" fromID="lo2" fromText="officers and agriculture specialists at the ports" toID="f2" toText="the ports" />
+<relation_link2 id="re7" fromID="lo3" fromText="officers and agriculture specialists at the ports" toID="f2" toText="the ports" />
+<relation_link2 id="re8" fromID="lo4" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="f3" toText="the ports of entry" />
+<relation_link2 id="re9" fromID="lo5" fromText="Agriculture Specialists and CBP officers at the ports of entry" toID="f3" toText="the ports of entry" />
+<relation_link2 id="re11" fromID="lo7" fromText="CBP officers at the ports of entry" toID="f5" toText="the ports of entry" />
+<relation_link2 id="re13" fromID="e4" fromText="'Although CBP's primary mission is to protect and secure America's borders against terrorism,' said Acting Director of Field Operations Marcelino Borges, 'every day CBP employees at our ports of entry, here in Arizona and across the country, are intercepting materials injurious to American agriculture and the environment" toID="o5" toText="CBP" />
+<relation_link2 id="re10" fromID="lo6" fromText="CBP employees at our ports of entry, here in Arizona and across the country" toID="f4" toText="our ports of entry, here in Arizona and across the country" />
+</TAGS>
+</KddTask>

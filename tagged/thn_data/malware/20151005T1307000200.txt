@@ -1,0 +1,36 @@
+YiSpecter — First iOS Malware that Attacks both: Non-jailbroken and Jailbroken Devices
+Swati Khandelwal
+
+Less than a month after Apple suffered one of its biggest malware attacks ever, security researchers have discovered another strain of malware that they claim targets both jailbroken as well as non-jailbroken iOS devices.
+Last month, researchers identified more than 4,000 infected apps in Apple's official App Store, which was targeted by a malware attack in which some versions of software used by developers to build apps for iOS and OS X were infected with malware, named XcodeGhost.
+And Now:
+Researchers from a California-based network security firm Palo Alto Networks have discovered new malware that targets Apple's iOS users in China and Taiwan.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Capabilities of YiSpecter Malware
+Dubbed YiSpecter, the malware infects iOS devices and once infected, YiSpecter can:
+Install unwanted apps
+Replace legitimate apps with ones it has downloaded
+Force apps to display unwanted, full-screen ads
+Change bookmarks as well as default search engines in Safari
+Send user information back to its server
+Automatically reappears even after a user manually deletes it from the iOS device
+It is still unclear how many users have been or could be infected by YiSpecter, but according to the researchers, this first instance of iOS malware targeting and succeeding in infecting non-jailbroken iOS devices has been around since November 2014.
+"Whether an iPhone is jailbroken or not, the malware can be successfully downloaded and installed," the researchers wrote in a blog post on Monday. "Even if you manually delete [YiSpecter], it will automatically re-appear."
+YiSpecter targets jailbroken as well as non-jailbroken iOS devices by abusing private APIs to allow its four components that are signed with enterprise certificates to install from a centralized command and control server.
+Three of the four malicious components can be used to hide their icons from iOS SpringBoard – the standard app that runs the home screen – and also disguise themselves with the same name and logos of system applications to escape detection from users. 
+Vectors of YiSpecter malware
+According to researchers, YiSpecter malware has been targeting Apple's iOS devices for over 10 months, when it was first spread by disguising as an app that lets users watch free porn. 
+The app was advertised as a private version of a famous media player "QVOD" – a popular video streaming app developed by Kuaibo(快播) to share porn videos.
+The malware then infected more devices through:
+Hijacked Internet traffic from ISPs
+A Windows worm that first attacked the Tencent’s instant messaging service QQ
+Online communities where people install third-party applications in exchange for promotion fees from app developers
+Security researchers from Palo Alto Networks have already reported the latest YiSpecter malware to Apple, which says "they are investigating" the issue.
+How to Remove YiSpecter from Your iOS Devices?
+For iOS users who are potentially infected by YiSpecter should follow the below four-step process to remove the malware from your devices:
+Head on to Settings –> General –> Profiles and remove all unknown or untrusted profiles.
+Delete any installed apps with names 情涩播放器, 快播私密版 or 快播0.
+You can use any third-party iOS management tool such as iFunBox on Windows or Mac OS X to connect with your iPhone or iPad
+Then check for installed iOS apps like Phone, Weather, Game Center, Passbook, Notes, or Cydia and delete them. (Note: this will not affect original system apps but just delete the fake malware apps)
+You can further visit Palo Alto Networks' blog post for more information on YiSpecter.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

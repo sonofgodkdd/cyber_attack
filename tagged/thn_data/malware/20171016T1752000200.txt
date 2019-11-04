@@ -1,0 +1,25 @@
+Hackers Use New Flash Zero-Day Exploit to Distribute FinFisher Spyware
+Mohit Kumar
+
+FinSpy—the infamous surveillance malware is back and infecting high-profile targets using a new Adobe Flash zero-day exploit delivered through Microsoft Office documents.
+Security researchers from Kaspersky Labs have discovered a new zero-day remote code execution vulnerability in Adobe Flash, which was being actively exploited in the wild by a group of advanced persistent threat actors, known as BlackOasis.
+The critical type confusion vulnerability, tracked as CVE-2017-11292, could lead to code execution and affects Flash Player 21.0.0.226 for major operating systems including Windows, Macintosh, Linux and Chrome OS.
+Researchers say BlackOasis is the same group of attackers which were also responsible for exploiting another zero-day vulnerability (CVE-2017-8759) discovered by FireEye researchers in September 2017.
+Also, the final FinSpy payload in the current attacks exploiting Flash zero-day (CVE-2017-11292) shares the same command and control (C&C) server as the payload used with CVE-2017-8759 (which is Windows .NET Framework remote code execution).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So far BlackOasis has targeted victims in various countries including Russia, Iraq, Afghanistan, Nigeria, Libya, Jordan, Tunisia, Saudi Arabia, Iran, the Netherlands, Bahrain, United Kingdom and Angola.
+The newly reported Flash zero-day exploit is at least the 5th zero-day that BlackOasis group exploited since June 2015.
+The zero-day exploit is delivered through Microsoft Office documents, particularly Word, attached to a spam email, and embedded within the Word file includes an ActiveX object which contains the Flash exploit.
+The exploit deploys the FinSpy commercial malware as the attack's final payload.
+"The Flash object contains an ActionScript which is responsible for extracting the exploit using a custom packer seen in other FinSpy exploits," the Kaspersky Labs researchers say.
+FinSpy is a highly secret surveillance tool that has previously been associated with Gamma Group, a British company that legally sells surveillance and espionage software to government agencies across the world.
+FinSpy, also known as FinFisher, has extensive spying capabilities on an infected system, including secretly conducting live surveillance by turning ON its webcams and microphones, recording everything the victim types on the keyboard, intercepting Skype calls, and exfiltration of files.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To get into a target's system, FinSpy usually makes use of various attack vectors, including spear phishing, manual installation with physical access to the affected device, zero-day exploits, and watering hole attacks.
+"The attack using the recently discovered zero-day exploit is the third time this year we have seen FinSpy distribution through exploits to zero-day vulnerabilities," said Anton Ivanov, lead malware analyst at Kaspersky Lab.
+"Previously, actors deploying this malware abused critical issues in Microsoft Word and Adobe products. We believe the number of attacks relying on FinSpy software, supported by zero day exploits such as the one described here, will continue to grow."
+Kaspersky Lab reported the vulnerability to Adobe, and the company has addressed the vulnerability with the release of Adobe Flash Player versions 27.0.0.159 and 27.0.0.130.
+Just last month, ESET researchers discovered legitimate downloads of several popular apps like WhatsApp, Skype, VLC Player and WinRAR (reportedly compromised at the ISP level) that were also distributing FinSpy.
+So, businesses and government organizations around the world are strongly recommended to install the update from Adobe as soon as possible.
+Microsoft will also likely be releasing a security update to patch the Flash Player components used by its products.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

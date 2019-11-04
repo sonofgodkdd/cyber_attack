@@ -1,0 +1,19 @@
+New Windows Trojan Spreads MIRAI Malware To Hack More IoT Devices
+Swati Khandelwal
+
+MIRAI – possibly the biggest IoT-based malware threat that emerged last year, which caused vast internet outage in October last year by launching massive distributed denial-of-service (DDoS) attacks against the popular DNS provider Dyn.
+Now, the infamous malware has updated itself to boost its distribution efforts.
+Researchers from Russian cyber-security firm Dr.Web have now uncovered a Windows Trojan designed to built with the sole purpose of helping hackers spread Mirai to even more devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mirai is a malicious software program for Linux-based internet-of-things (IoT) devices which scan for insecure IoT devices, enslaves them into a botnet network, and then used them to launch DDoS attacks, and spreads over Telnet by using factory device credentials.
+It all started early October last year when a hacker publicly released the source code of Mirai.
+Dubbed Trojan.Mirai.1, the new Trojan targets Windows computers and scans the user's network for compromisable Linux-based connected devices.
+Once installed on a Windows computer, the Trojan connects to a command-and-control (C&C) server from which it downloads a configuration file containing a range of IP addresses to attempt authentication over several ports such as 22 (SSH) and 23 (Telnet), 135, 445, 1433, 3306 and 3389.
+Successful authentication lets malware runs certain commands specified in the configuration file, depending on the type of compromised system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the case of Linux systems accessed via Telnet protocol, the Trojan downloads a binary file on the compromised device, which subsequently downloads and launches Linux.Mirai.
+"Trojan.Mirai.1's Scanner can check several TCP ports simultaneously. If the Trojan successfully connects to the attacked node via any of the available protocols, it executes the indicated sequence of commands," claimed the company in an advisory published this week.
+Once compromised, the Trojan can spread itself to other Windows devices, helping hackers hijack even more devices.
+Besides this, researchers noted that the malware could also identify and compromise database services running on various ports, including MySQL and Microsoft SQL to create a new admin “phpminds” with the password a “phpgodwith,” allowing attackers to steal the database.
+At this time it’s not known who created this, but the attack design demonstrates that your IoT devices that are not directly accessible from the internet can also get hacked to join the Mirai botnet army.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

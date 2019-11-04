@@ -1,0 +1,21 @@
+22-Year-Old Hacker Pleads Guilty to 2014 Yahoo Hack, Admits Helping Russian Intelligence
+Wang Wei
+
+Karim Baratov, a 22-year-old Kazakhstan-born Canadian citizen, has pleaded guilty to hacking charges over his involvement in massive 2014 Yahoo data breach that affected all three billion yahoo accounts.
+In March, the US Justice Department announced charges against two Russian intelligence officers (Dmitry Dokuchaev and Igor Sushchin) from Russia's Federal Security Service (FSB) and two hackers (Alexsey Belan and Karim Baratov) for breaking into yahoo servers in 2014.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While Karim Baratov (Kay, a.k.a Karim Taloverov, a.k.a Karim Akehmet Tokbergenov) was arrested in Toronto at his Ancaster home by the Toronto Police Department in March this year, Alexsey Belan and both FSB officers currently reside in Russia, unlikely to be extradited.
+In the federal district court in San Francisco on Tuesday, Baratov admitted to helping the Russian spies and pleaded guilty to a total of nine counts which includes:
+One count of conspiring to violate the Computer Fraud and Abuse Act by stealing information from protected computers and causing damage to protected computers.
+Eight counts of aggravated identity theft.
+Prosecutors believe that FSB officers directed the Yahoo hack and contracted Baratov when their targets—which included journalists, government officials, and technology company employees—used email accounts outside of Yahoo's system.
+"Baratov's role in the charged conspiracy was to hack webmail accounts of individuals of interest to the FSB and send those accounts' passwords to Dokuchaev in exchange for money," his plea agreement reads.
+However, according to Baratov's lawyers, at the time of the crime, Baratov had no idea he was working with Russian FSB agents.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Baratov gained unauthorized access to at least 80 non-Yahoo email accounts, including at least 50 Google accounts by obtaining their credentials through "spear phishing" attacks.
+Baratov's sentencing hearing will be held on 20th February next year in federal district court in San Francisco, where he could face 70 to 87 months in jail for the first charge and 24 months for the identity theft charges.
+"The illegal hacking of private communications is a global problem that transcends political boundaries. Cybercrime is not only a grave threat to personal privacy and security, but causes great financial harm to individuals who are hacked and costs the world economy hundreds of billions of dollars every year," US Attorney Brian Stretch said. 
+"These threats are even more insidious when cybercriminals such as Baratov are employed by foreign government agencies acting outside the rule of law."
+Besides any prison sentence, Baratov has also agreed to pay compensation to the Yahoo victims and a fine up to $2,250,000 (at $250,000 per count).
+Baratov's arrest is the only one in this investigation. The three other men, including two FSB officers and one criminal hacker, currently reside in Russia, with whom the United States has no extradition treaty.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,32 @@
+Ex-CIA employee charged with leaking 'Vault 7' hacking tools to Wikileaks
+Mohit Kumar
+
+A 29-year-old former CIA computer programmer who was charged with possession of child pornography last year has now been charged with masterminding the largest leak of classified information in the agency's history.
+Joshua Adam Schulte, who once created malware for both the CIA and NSA to break into adversaries computers, was indicted Monday by the Department of Justice on 13 charges of allegedly stealing and transmitting thousands of classified CIA documents, software projects, and hacking utilities.
+Schulte has also been suspected of leaking the stolen archive of documents to anti-secrecy organization WikiLeaks, who then began publishing the classified information in March 2017 in a series of leaks under the name "Vault 7."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It is yet unconfirmed whether Schulte leaked documents to WikiLeaks and if yes, then when, but he had already been a suspect since January 2017 of stealing classified national defense information from the CIA in 2016.
+According to the indictment, after stealing the classified documents, Schulte tried to cover his tracks by altering a computer operated by the US Intelligence Agency to grant him unauthorized access to the system in March and June of 2016 and then deleting records of his activities and denying others access to the system.
+In March 2017, during when WikiLeaks began releasing some of the CIA's hacking tools, the FBI agents searched Schulte's apartment as part of an ongoing investigation to find the mastermind behind the Vault 7 leaks.
+However, instead, the FBI found images of children being molested by adults on a server he created in 2009 while he was a student at the University of Texas. The maximum penalty for this is 130 years in prison.
+Schulte was arrested in August 2017 with possession of child pornography, but prosecutors had been unable to bring charges of "disclosure of the classified information" against him until now.
+However, now the revised indictment includes 13 counts of charges related to the theft and disclosure of the classified information to WikiLeaks and his possession of child pornography.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's the list of charges against him:
+illegal gathering of national defense information,
+illegal transmission of lawfully possessed national defense information,
+illegal transmission of unlawfully possessed national defense information,
+unauthorized access to a computer to obtain classified information,
+theft of Government property,
+unauthorized access of a computer to obtain information from a Department or Agency of the United States,
+causing transmission of a harmful computer program, information, code, or command,
+making material false statements to representatives of the FBI,
+obstruction of justice,
+receipt of child pornography,
+possession of child pornography,
+transportation of child pornography, and
+copyright infringement.
+Schulte has pleaded not guilty to the child pornography charges and has repeatedly denied any of his involvement in the Vault 7 case.
+The Vault 7 release was one of the most significant leaks in the CIA's history, exposing secret cyber weapons and spying techniques that the United States used to monitor or break into computers, mobile phones, televisions, webcams, video streams, and more.
+For more information on the hacking tools and techniques, you can head on to our previous coverage of the Vault 7 leaks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

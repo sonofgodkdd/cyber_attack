@@ -1,0 +1,28 @@
+Top 4 Data Breaches reported in last 24 Hours
+Wang Wei
+
+There is no doubt that data breaches are on the rise. Hardly a day goes without headlines about any significant data breach.
+According to the latest ‘Cyber Security Breaches Survey 2016’ report published by UK government, two-thirds of the biggest firm in the UK have experienced at least a cyber attacks or data breaches within the past 12 months.
+Here’s today, I am writing about top 4 data breaches reported in last 24 hours, threatened your data privacy and online security.
+1. Kiddicare Hacked! 794,000 Accounts Leaked
+Kiddicare has admitted that the company has suffered a data breach, which led to the theft of sensitive data belonging to 794,000 users, including phone numbers and residential addresses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Kiddicare, company that sells child toys and accessories across the United Kingdom, became aware of the data breach after its customers started receiving suspicious text messages – most likely part of a phishing campaign – that attempted to pilfer them to click on a link that takes them for an online survey.
+Although the company assured its customers that no banking or financial detail have been compromised in the breach, personal information belonging to nearly 794,000 customers, including their names, delivery addresses, email addresses and telephone numbers, have been exposed.
+2. UserVoice Hacked! Users’ Accounts Breached
+Today morning, I received an email from UserVoice, a web-based service that offers customer service and helpdesk tools, notifying that the company suffered a data breach and some user accounts were compromised, including their names, email addresses, and passwords.
+The company admitted that user passwords were protected with the SHA1 hashing algorithm, which is considered as a weak encryption.
+"Despite the fact that the passwords were encrypted, it is very possible that an attacker can decrypt this information," the company notified. “As a precautionary measure, we have reset all UserVoice passwords to prevent any chance of the attacker gaining further access to accounts.”
+Some famous companies are using customer service tools from UserVoice, including Twitch, Microsoft and more.
+3. Google Suffers Insider Data Breach
+Google suffered a minor data breach after a vendor unintentionally leaked sensitive information about its undisclosed number of employees to the wrong email address — but luckily, the person who received it deleted the email straight away.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to report, the data breach happened after an employee at a third-party company that Google uses for its staff benefit management service mistakenly sent personal data to another company.
+Google is still investigating the insider data breach that leaked the personal details of Google employees apparently included Social Security Numbers (SSNs) and names, but no details on benefits or family members.
+4. London Clinic fined £180,000 for Leaking HIV Patients Data
+The Information Commissioner's Office (ICO) has imposed a £180,000 (about $260,000) fine to a London-based HIV clinic run by Chelsea and Westminster Hospital National Health Service (NHS) Foundation Trust, for leaking data of 781 HIV patients
+The clinic mistakenly sent a newsletter email containing sensitive medical information relating to a total 781 HIV patients together rather than individually, using ‘bcc’ field in the email, leaking their names and email addresses to one another.
+"People’s use of a specialist service at a sexual health clinic is clearly sensitive personal data," Information Commissioner Christopher Graham said. "The law demands this type of information is handled with particular care following clear rules, and put simply, this did not happen."
+The Clinic's medical director said:
+"We fully accept the ruling of the ICO for what was a serious breach, and we have worked to ensure that it can never happen again."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

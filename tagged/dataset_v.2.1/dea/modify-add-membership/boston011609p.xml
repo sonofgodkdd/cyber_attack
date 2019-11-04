@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+For Immediate Release:
+January 16, 2009
+Contact: Special Agent Tony Pettigrew
+Number: 617-557-2138
+New London Cocaine Trafficker Sentenced to 10 Years in Federal Prison
+JAN 16  -- Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release. On September 16, 2008, GONZALEZ pleaded guilty to one count of possessing 500 grams or more of cocaine with intent to distribute.
+According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot. A search of GONZALEZ's vehicle, in which GONZALEZ and Morse had been sitting, revealed one kilogram of cocaine. An additional two kilograms of cocaine were seized from Morse's vehicle in the same parking lot. Several telephone calls leading up to this meeting had been intercepted pursuant to a court order in connection with an ongoing investigation of a substantial drug trafficking operation in southeastern Connecticut.
+Because GONZALEZ had sustained a State of Connecticut narcotics conviction prior to his involvement in this case, he faced a mandatory minimum sentence of 10 years of imprisonment.
+On October 26, 2007, Morse pleaded guilty to one count of conspiracy to possess with intent to distribute, and to distribute, five kilograms or more of cocaine. He awaits sentencing.
+Acting U.S. Attorney Dannehy noted that federal prisoners are required to serve at least 85 percent of their sentenced term of imprisonment and are not eligible for parole.
+This matter has been investigated by the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco, Firearms and Explosives, the Internal Revenue Service - Criminal Investigation Division, the Norwich Police Department, the New London Police Department, the City of Groton Police Department, the Town of Groton Police Department, the Waterford Police Department, the Stonington Police Department, the Willimantic Police Department and the Connecticut State Police.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="50" end="78" text="Special Agent Tony Pettigrew" TYPE="NAM" />
+<person id="p1" start="50" end="63" text="Special Agent" TYPE="NOMPRE" />
+<person id="p2" start="100" end="129" text="New London Cocaine Trafficker" TYPE="BAR" />
+<person id="p3" start="181" end="275" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="APP" />
+<person id="p4" start="181" end="195" text="Steven W. Derr" TYPE="NAM" />
+<person id="p5" start="197" end="275" text="Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="BAR" />
+<person id="p6" start="280" end="358" text="Nora R. Dannehy, Acting United States Attorney for the District of Connecticut" TYPE="APP" />
+<person id="p7" start="280" end="295" text="Nora R. Dannehy" TYPE="NAM" />
+<person id="p8" start="297" end="358" text="Acting United States Attorney for the District of Connecticut" TYPE="BAR" />
+<person id="p9" start="381" end="415" text="HECTOR GONZALEZ, 39, of New London" TYPE="NAM" />
+<person id="p10" start="458" end="504" text="United States District Judge Alvin W. Thompson" TYPE="NAM" />
+<person id="p11" start="458" end="486" text="United States District Judge" TYPE="NOMPRE" />
+<person id="p12" start="618" end="626" text="GONZALEZ" TYPE="NAM" />
+<person id="p13" start="817" end="841" text="law enforcement officers" TYPE="BAR" />
+<person id="p14" start="851" end="859" text="GONZALEZ" TYPE="NAM" />
+<person id="p15" start="864" end="892" text="Anthony Morse of Gales Ferry" TYPE="NAM" />
+<person id="p16" start="934" end="942" text="GONZALEZ" TYPE="NAM" />
+<person id="p17" start="963" end="971" text="GONZALEZ" TYPE="NAM" />
+<person id="p18" start="976" end="981" text="Morse" TYPE="NAM" />
+<person id="p19" start="1090" end="1095" text="Morse" TYPE="NAM" />
+<person id="p20" start="1354" end="1362" text="GONZALEZ" TYPE="NAM" />
+<person id="p21" start="1430" end="1433" text="his" TYPE="PRO" />
+<person id="p22" start="1460" end="1462" text="he" TYPE="PRO" />
+<person id="p23" start="1548" end="1553" text="Morse" TYPE="NAM" />
+<person id="p24" start="1688" end="1690" text="He" TYPE="PRO" />
+<person id="p25" start="1710" end="1738" text="Acting U.S. Attorney Dannehy" TYPE="NAM" />
+<person id="p26" start="1710" end="1730" text="Acting U.S. Attorney" TYPE="NOMPRE" />
+<person id="p27" start="1750" end="1767" text="federal prisoners" TYPE="BAR" />
+<organization id="o0" start="224" end="275" text="the Drug Enforcement Administration for New England" TYPE="NAM" />
+<organization id="o1" start="331" end="358" text="the District of Connecticut" TYPE="NAM" />
+<organization id="o2" start="472" end="480" text="District" TYPE="NOMPRE" />
+<organization id="o3" start="763" end="768" text="Court" TYPE="NOMPRE" />
+<organization id="o4" start="792" end="797" text="court" TYPE="BAR" />
+<organization id="o5" start="1217" end="1222" text="court" TYPE="NOMPRE" />
+<organization id="o7" start="1920" end="1955" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o8" start="1957" end="2012" text="the Bureau of Alcohol, Tobacco, Firearms and Explosives" TYPE="NAM" />
+<organization id="o9" start="2014" end="2076" text="the Internal Revenue Service - Criminal Investigation Division" TYPE="NAM" />
+<organization id="o10" start="2018" end="2042" text="Internal Revenue Service" TYPE="NAMPRE" />
+<organization id="o11" start="2078" end="2107" text="the Norwich Police Department" TYPE="NAM" />
+<organization id="o12" start="2109" end="2141" text="the New London Police Department" TYPE="NAM" />
+<organization id="o13" start="2143" end="2179" text="the City of Groton Police Department" TYPE="NAM" />
+<organization id="o14" start="2181" end="2217" text="the Town of Groton Police Department" TYPE="NAM" />
+<organization id="o15" start="2219" end="2250" text="the Waterford Police Department" TYPE="NAM" />
+<organization id="o16" start="2252" end="2284" text="the Stonington Police Department" TYPE="NAM" />
+<organization id="o17" start="2286" end="2319" text="the Willimantic Police Department" TYPE="NAM" />
+<organization id="o18" start="2324" end="2352" text="the Connecticut State Police" TYPE="NAM" />
+<geographical-political id="g0" start="100" end="110" text="New London" TYPE="NAMPRE" />
+<geographical-political id="g1" start="304" end="317" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g3" start="405" end="415" text="New London" TYPE="NAM" />
+<geographical-political id="g4" start="458" end="471" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="508" end="516" text="Hartford" TYPE="NAM" />
+<geographical-political id="g6" start="881" end="892" text="Gales Ferry" TYPE="NAM" />
+<geographical-political id="g7" start="898" end="908" text="New London" TYPE="NAMPRE" />
+<geographical-political id="g8" start="1388" end="1399" text="Connecticut" TYPE="NAM" />
+<geographical-political id="g9" start="1717" end="1721" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g2" start="1379" end="1399" text="State of Connecticut" TYPE="NOMPRE" />
+<location id="l0" start="1320" end="1344" text="southeastern Connecticut" TYPE="BAR" />
+<falicity id="f0" start="155" end="169" text="Federal Prison" TYPE="BAR" />
+<falicity id="f1" start="896" end="920" text="a New London parking lot" TYPE="NOM" />
+<falicity id="f2" start="1109" end="1129" text="the same parking lot" TYPE="NOM" />
+<head id="h0" start="64" end="78" text="Tony Pettigrew" />
+<head id="h1" start="58" end="63" text="Agent" />
+<head id="h2" start="119" end="129" text="Trafficker" />
+<head id="h3" start="100" end="110" text="New London" />
+<head id="h4" start="163" end="169" text="Prison" />
+<head id="h5" start="181" end="195" text="Steven W. Derr" />
+<head id="h6" start="205" end="210" text="Agent" />
+<head id="h7" start="228" end="275" text="Drug Enforcement Administration for New England" />
+<head id="h8" start="280" end="295" text="Nora R. Dannehy" />
+<head id="h9" start="318" end="326" text="Attorney" />
+<head id="h10" start="304" end="317" text="United States" />
+<head id="h13" start="381" end="396" text="HECTOR GONZALEZ" />
+<head id="h14" start="405" end="415" text="New London" />
+<head id="h15" start="487" end="504" text="Alvin W. Thompson" />
+<head id="h16" start="481" end="486" text="Judge" />
+<head id="h17" start="472" end="480" text="District" />
+<head id="h18" start="458" end="471" text="United States" />
+<head id="h19" start="508" end="516" text="Hartford" />
+<head id="h20" start="618" end="626" text="GONZALEZ" />
+<head id="h21" start="763" end="768" text="Court" />
+<head id="h22" start="792" end="797" text="court" />
+<head id="h23" start="833" end="841" text="officers" />
+<head id="h24" start="851" end="859" text="GONZALEZ" />
+<head id="h25" start="864" end="877" text="Anthony Morse" />
+<head id="h26" start="881" end="892" text="Gales Ferry" />
+<head id="h27" start="917" end="920" text="lot" />
+<head id="h28" start="898" end="908" text="New London" />
+<head id="h29" start="934" end="942" text="GONZALEZ" />
+<head id="h30" start="963" end="971" text="GONZALEZ" />
+<head id="h31" start="976" end="981" text="Morse" />
+<head id="h32" start="1090" end="1095" text="Morse" />
+<head id="h33" start="1126" end="1129" text="lot" />
+<head id="h34" start="1217" end="1222" text="court" />
+<head id="h35" start="1333" end="1344" text="Connecticut" />
+<head id="h36" start="1354" end="1362" text="GONZALEZ" />
+<head id="h37" start="1379" end="1384" text="State" />
+<head id="h38" start="1388" end="1399" text="Connecticut" />
+<head id="h39" start="1430" end="1433" text="his" />
+<head id="h40" start="1460" end="1462" text="he" />
+<head id="h41" start="1548" end="1553" text="Morse" />
+<head id="h42" start="1688" end="1690" text="He" />
+<head id="h43" start="1731" end="1738" text="Dannehy" />
+<head id="h44" start="1722" end="1730" text="Attorney" />
+<head id="h45" start="1717" end="1721" text="U.S." />
+<head id="h46" start="1758" end="1767" text="prisoners" />
+<head id="h47" start="1924" end="1955" text="Drug Enforcement Administration" />
+<head id="h48" start="1961" end="2012" text="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<head id="h49" start="2045" end="2076" text="Criminal Investigation Division" />
+<head id="h50" start="2018" end="2042" text="Internal Revenue Service" />
+<head id="h51" start="2082" end="2107" text="Norwich Police Department" />
+<head id="h52" start="2113" end="2141" text="New London Police Department" />
+<head id="h53" start="2147" end="2179" text="City of Groton Police Department" />
+<head id="h54" start="2185" end="2217" text="Town of Groton Police Department" />
+<head id="h55" start="2223" end="2250" text="Waterford Police Department" />
+<head id="h56" start="2256" end="2284" text="Stonington Police Department" />
+<head id="h57" start="2290" end="2319" text="Willimantic Police Department" />
+<head id="h58" start="2328" end="2352" text="Connecticut State Police" />
+<head id="h11" start="335" end="358" text="District of Connecticut" />
+<name id="n0" start="64" end="78" text="Tony Pettigrew" />
+<name id="n1" start="100" end="110" text="New London" />
+<name id="n2" start="181" end="195" text="Steven W. Derr" />
+<name id="n3" start="228" end="275" text="Drug Enforcement Administration for New England" />
+<name id="n4" start="280" end="295" text="Nora R. Dannehy" />
+<name id="n5" start="304" end="317" text="United States" />
+<name id="n7" start="381" end="396" text="HECTOR GONZALEZ" />
+<name id="n8" start="405" end="415" text="New London" />
+<name id="n9" start="487" end="504" text="Alvin W. Thompson" />
+<name id="n10" start="458" end="471" text="United States" />
+<name id="n11" start="508" end="516" text="Hartford" />
+<name id="n12" start="618" end="626" text="GONZALEZ" />
+<name id="n13" start="851" end="859" text="GONZALEZ" />
+<name id="n14" start="864" end="877" text="Anthony Morse" />
+<name id="n15" start="881" end="892" text="Gales Ferry" />
+<name id="n16" start="898" end="908" text="New London" />
+<name id="n17" start="934" end="942" text="GONZALEZ" />
+<name id="n18" start="963" end="971" text="GONZALEZ" />
+<name id="n19" start="976" end="981" text="Morse" />
+<name id="n20" start="1090" end="1095" text="Morse" />
+<name id="n21" start="1354" end="1362" text="GONZALEZ" />
+<name id="n22" start="1388" end="1399" text="Connecticut" />
+<name id="n23" start="1548" end="1553" text="Morse" />
+<name id="n24" start="1731" end="1738" text="Dannehy" />
+<name id="n25" start="1717" end="1721" text="U.S." />
+<name id="n26" start="1924" end="1955" text="Drug Enforcement Administration" />
+<name id="n27" start="1961" end="2012" text="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<name id="n28" start="2045" end="2076" text="Criminal Investigation Division" />
+<name id="n29" start="2018" end="2042" text="Internal Revenue Service" />
+<name id="n30" start="2082" end="2107" text="Norwich Police Department" />
+<name id="n31" start="2113" end="2141" text="New London Police Department" />
+<name id="n32" start="2147" end="2179" text="City of Groton Police Department" />
+<name id="n33" start="2185" end="2217" text="Town of Groton Police Department" />
+<name id="n34" start="2223" end="2250" text="Waterford Police Department" />
+<name id="n35" start="2256" end="2284" text="Stonington Police Department" />
+<name id="n36" start="2290" end="2319" text="Willimantic Police Department" />
+<name id="n37" start="2328" end="2352" text="Connecticut State Police" />
+<name id="n6" start="335" end="358" text="District of Connecticut" />
+<located-mention id="lo0" start="181" end="593" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" TYPE="Other" />
+<located-mention id="lo1" start="181" end="593" text="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" TYPE="Other" />
+<located-mention id="lo2" start="725" end="920" text="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" TYPE="Other" />
+<located-mention id="lo3" start="725" end="920" text="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" TYPE="Other" />
+<located-mention id="lo4" start="725" end="920" text="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" TYPE="Other" />
+<employment-mention id="e1" start="297" end="358" text="Acting United States Attorney for the District of Connecticut" TYPE="PreMod" />
+<employment-mention id="e4" start="458" end="486" text="United States District Judge" TYPE="PreMod" />
+<employment-mention id="e5" start="1710" end="1730" text="Acting U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="100" end="129" text="New London Cocaine Trafficker" TYPE="PreMod" />
+<CRRE id="C1" start="381" end="415" text="HECTOR GONZALEZ, 39, of New London" TYPE="Preposition" />
+<CRRE id="C2" start="864" end="892" text="Anthony Morse of Gales Ferry" TYPE="Preposition" />
+<M id="M0" start="197" end="275" text="Special Agent in Charge of the Drug Enforcement Administration for New England" TYPE="Preposition" />
+<M id="M1" start="297" end="358" text="Acting United States Attorney for the District of Connecticut" TYPE="Preposition" />
+<M id="M2" start="458" end="486" text="United States District Judge" TYPE="PreMod" />
+<entity_link id="en0" fromID="p1" fromText="Special Agent" toID="p0" toText="Special Agent Tony Pettigrew" />
+<entity_link id="en1" fromID="p4" fromText="Steven W. Derr" toID="p3" toText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England" />
+<entity_link id="en2" fromID="p5" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="p4" toText="Steven W. Derr" />
+<entity_link id="en3" fromID="p7" fromText="Nora R. Dannehy" toID="p6" toText="Nora R. Dannehy, Acting United States Attorney for the District of Connecticut" />
+<entity_link id="en4" fromID="p8" fromText="Acting United States Attorney for the District of Connecticut" toID="p7" toText="Nora R. Dannehy" />
+<entity_link id="en5" fromID="p9" fromText="HECTOR GONZALEZ, 39, of New London" toID="p2" toText="New London Cocaine Trafficker" />
+<entity_link id="en6" fromID="g3" fromText="New London" toID="g0" toText="New London" />
+<entity_link id="en7" fromID="p11" fromText="United States District Judge" toID="p10" toText="United States District Judge Alvin W. Thompson" />
+<entity_link id="en8" fromID="g4" fromText="United States" toID="g1" toText="United States" />
+<entity_link id="en9" fromID="p12" fromText="GONZALEZ" toID="p9" toText="HECTOR GONZALEZ, 39, of New London" />
+<entity_link id="en10" fromID="o4" fromText="court" toID="o3" toText="Court" />
+<entity_link id="en11" fromID="p14" fromText="GONZALEZ" toID="p12" toText="GONZALEZ" />
+<entity_link id="en12" fromID="p16" fromText="GONZALEZ" toID="p14" toText="GONZALEZ" />
+<entity_link id="en13" fromID="p17" fromText="GONZALEZ" toID="p16" toText="GONZALEZ" />
+<entity_link id="en14" fromID="p18" fromText="Morse" toID="p15" toText="Anthony Morse of Gales Ferry" />
+<entity_link id="en15" fromID="p19" fromText="Morse" toID="p18" toText="Morse" />
+<entity_link id="en16" fromID="f2" fromText="the same parking lot" toID="f1" toText="a New London parking lot" />
+<entity_link id="en17" fromID="o5" fromText="court" toID="o4" toText="court" />
+<entity_link id="en18" fromID="p20" fromText="GONZALEZ" toID="p16" toText="GONZALEZ" />
+<entity_link id="en20" fromID="p21" fromText="his" toID="p20" toText="GONZALEZ" />
+<entity_link id="en21" fromID="p22" fromText="he" toID="p21" toText="his" />
+<entity_link id="en22" fromID="p23" fromText="Morse" toID="p19" toText="Morse" />
+<entity_link id="en23" fromID="p24" fromText="He" toID="p23" toText="Morse" />
+<entity_link id="en24" fromID="p25" fromText="Acting U.S. Attorney Dannehy" toID="p7" toText="Nora R. Dannehy" />
+<entity_link id="en25" fromID="p26" fromText="Acting U.S. Attorney" toID="p25" toText="Acting U.S. Attorney Dannehy" />
+<entity_link id="en26" fromID="g9" fromText="U.S." toID="g4" toText="United States" />
+<entity_link id="en19" fromID="g2" fromText="State of Connecticut" toID="g8" toText="Connecticut" />
+<head_link id="he0" fromID="p0" fromText="Special Agent Tony Pettigrew" toID="h0" toText="Tony Pettigrew" />
+<head_link id="he1" fromID="p1" fromText="Special Agent" toID="h1" toText="Agent" />
+<head_link id="he2" fromID="p2" fromText="New London Cocaine Trafficker" toID="h2" toText="Trafficker" />
+<head_link id="he3" fromID="g0" fromText="New London" toID="h3" toText="New London" />
+<head_link id="he4" fromID="f0" fromText="Federal Prison" toID="h4" toText="Prison" />
+<head_link id="he5" fromID="p4" fromText="Steven W. Derr" toID="h5" toText="Steven W. Derr" />
+<head_link id="he6" fromID="p5" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="h6" toText="Agent" />
+<head_link id="he7" fromID="o0" fromText="the Drug Enforcement Administration for New England" toID="h7" toText="Drug Enforcement Administration for New England" />
+<head_link id="he8" fromID="p7" fromText="Nora R. Dannehy" toID="h8" toText="Nora R. Dannehy" />
+<head_link id="he9" fromID="p8" fromText="Acting United States Attorney for the District of Connecticut" toID="h9" toText="Attorney" />
+<head_link id="he10" fromID="g1" fromText="United States" toID="h10" toText="United States" />
+<head_link id="he13" fromID="p9" fromText="HECTOR GONZALEZ, 39, of New London" toID="h13" toText="HECTOR GONZALEZ" />
+<head_link id="he14" fromID="g3" fromText="New London" toID="h14" toText="New London" />
+<head_link id="he15" fromID="p10" fromText="United States District Judge Alvin W. Thompson" toID="h15" toText="Alvin W. Thompson" />
+<head_link id="he16" fromID="p11" fromText="United States District Judge" toID="h16" toText="Judge" />
+<head_link id="he17" fromID="o2" fromText="District" toID="h17" toText="District" />
+<head_link id="he18" fromID="g4" fromText="United States" toID="h18" toText="United States" />
+<head_link id="he19" fromID="g5" fromText="Hartford" toID="h19" toText="Hartford" />
+<head_link id="he20" fromID="p12" fromText="GONZALEZ" toID="h20" toText="GONZALEZ" />
+<head_link id="he21" fromID="o3" fromText="Court" toID="h21" toText="Court" />
+<head_link id="he22" fromID="o4" fromText="court" toID="h22" toText="court" />
+<head_link id="he23" fromID="p13" fromText="law enforcement officers" toID="h23" toText="officers" />
+<head_link id="he24" fromID="p14" fromText="GONZALEZ" toID="h24" toText="GONZALEZ" />
+<head_link id="he25" fromID="p15" fromText="Anthony Morse of Gales Ferry" toID="h25" toText="Anthony Morse" />
+<head_link id="he26" fromID="g6" fromText="Gales Ferry" toID="h26" toText="Gales Ferry" />
+<head_link id="he27" fromID="f1" fromText="a New London parking lot" toID="h27" toText="lot" />
+<head_link id="he28" fromID="g7" fromText="New London" toID="h28" toText="New London" />
+<head_link id="he29" fromID="p16" fromText="GONZALEZ" toID="h29" toText="GONZALEZ" />
+<head_link id="he30" fromID="p17" fromText="GONZALEZ" toID="h30" toText="GONZALEZ" />
+<head_link id="he31" fromID="p18" fromText="Morse" toID="h31" toText="Morse" />
+<head_link id="he32" fromID="p19" fromText="Morse" toID="h32" toText="Morse" />
+<head_link id="he33" fromID="f2" fromText="the same parking lot" toID="h33" toText="lot" />
+<head_link id="he34" fromID="o5" fromText="court" toID="h34" toText="court" />
+<head_link id="he35" fromID="l0" fromText="southeastern Connecticut" toID="h35" toText="Connecticut" />
+<head_link id="he36" fromID="p20" fromText="GONZALEZ" toID="h36" toText="GONZALEZ" />
+<head_link id="he38" fromID="g8" fromText="Connecticut" toID="h38" toText="Connecticut" />
+<head_link id="he39" fromID="p21" fromText="his" toID="h39" toText="his" />
+<head_link id="he40" fromID="p22" fromText="he" toID="h40" toText="he" />
+<head_link id="he41" fromID="p23" fromText="Morse" toID="h41" toText="Morse" />
+<head_link id="he42" fromID="p24" fromText="He" toID="h42" toText="He" />
+<head_link id="he43" fromID="p25" fromText="Acting U.S. Attorney Dannehy" toID="h43" toText="Dannehy" />
+<head_link id="he44" fromID="p26" fromText="Acting U.S. Attorney" toID="h44" toText="Attorney" />
+<head_link id="he45" fromID="g9" fromText="U.S." toID="h45" toText="U.S." />
+<head_link id="he46" fromID="p27" fromText="federal prisoners" toID="h46" toText="prisoners" />
+<head_link id="he47" fromID="o7" fromText="the Drug Enforcement Administration" toID="h47" toText="Drug Enforcement Administration" />
+<head_link id="he48" fromID="o8" fromText="the Bureau of Alcohol, Tobacco, Firearms and Explosives" toID="h48" toText="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<head_link id="he49" fromID="o9" fromText="the Internal Revenue Service - Criminal Investigation Division" toID="h49" toText="Criminal Investigation Division" />
+<head_link id="he50" fromID="o10" fromText="Internal Revenue Service" toID="h50" toText="Internal Revenue Service" />
+<head_link id="he51" fromID="o11" fromText="the Norwich Police Department" toID="h51" toText="Norwich Police Department" />
+<head_link id="he52" fromID="o12" fromText="the New London Police Department" toID="h52" toText="New London Police Department" />
+<head_link id="he53" fromID="o13" fromText="the City of Groton Police Department" toID="h53" toText="City of Groton Police Department" />
+<head_link id="he54" fromID="o14" fromText="the Town of Groton Police Department" toID="h54" toText="Town of Groton Police Department" />
+<head_link id="he55" fromID="o15" fromText="the Waterford Police Department" toID="h55" toText="Waterford Police Department" />
+<head_link id="he56" fromID="o16" fromText="the Stonington Police Department" toID="h56" toText="Stonington Police Department" />
+<head_link id="he57" fromID="o17" fromText="the Willimantic Police Department" toID="h57" toText="Willimantic Police Department" />
+<head_link id="he58" fromID="o18" fromText="the Connecticut State Police" toID="h58" toText="Connecticut State Police" />
+<head_link id="he59" fromID="o1" fromText="the District of Connecticut" toID="h11" toText="District of Connecticut" />
+<head_link id="he11" fromID="g2" fromText="State of Connecticut" toID="h37" toText="State" />
+<name_link id="na0" fromID="p0" fromText="Special Agent Tony Pettigrew" toID="n0" toText="Tony Pettigrew" />
+<name_link id="na1" fromID="g0" fromText="New London" toID="n1" toText="New London" />
+<name_link id="na2" fromID="p4" fromText="Steven W. Derr" toID="n2" toText="Steven W. Derr" />
+<name_link id="na3" fromID="o0" fromText="the Drug Enforcement Administration for New England" toID="n3" toText="Drug Enforcement Administration for New England" />
+<name_link id="na4" fromID="p7" fromText="Nora R. Dannehy" toID="n4" toText="Nora R. Dannehy" />
+<name_link id="na5" fromID="g1" fromText="United States" toID="n5" toText="United States" />
+<name_link id="na7" fromID="p9" fromText="HECTOR GONZALEZ, 39, of New London" toID="n7" toText="HECTOR GONZALEZ" />
+<name_link id="na8" fromID="g3" fromText="New London" toID="n8" toText="New London" />
+<name_link id="na9" fromID="p10" fromText="United States District Judge Alvin W. Thompson" toID="n9" toText="Alvin W. Thompson" />
+<name_link id="na10" fromID="g4" fromText="United States" toID="n10" toText="United States" />
+<name_link id="na11" fromID="g5" fromText="Hartford" toID="n11" toText="Hartford" />
+<name_link id="na12" fromID="p12" fromText="GONZALEZ" toID="n12" toText="GONZALEZ" />
+<name_link id="na13" fromID="p14" fromText="GONZALEZ" toID="n13" toText="GONZALEZ" />
+<name_link id="na14" fromID="p15" fromText="Anthony Morse of Gales Ferry" toID="n14" toText="Anthony Morse" />
+<name_link id="na15" fromID="g6" fromText="Gales Ferry" toID="n15" toText="Gales Ferry" />
+<name_link id="na16" fromID="g7" fromText="New London" toID="n16" toText="New London" />
+<name_link id="na17" fromID="p16" fromText="GONZALEZ" toID="n17" toText="GONZALEZ" />
+<name_link id="na18" fromID="p17" fromText="GONZALEZ" toID="n18" toText="GONZALEZ" />
+<name_link id="na19" fromID="p18" fromText="Morse" toID="n19" toText="Morse" />
+<name_link id="na20" fromID="p19" fromText="Morse" toID="n20" toText="Morse" />
+<name_link id="na21" fromID="p20" fromText="GONZALEZ" toID="n21" toText="GONZALEZ" />
+<name_link id="na22" fromID="g8" fromText="Connecticut" toID="n22" toText="Connecticut" />
+<name_link id="na23" fromID="p23" fromText="Morse" toID="n23" toText="Morse" />
+<name_link id="na24" fromID="p25" fromText="Acting U.S. Attorney Dannehy" toID="n24" toText="Dannehy" />
+<name_link id="na25" fromID="g9" fromText="U.S." toID="n25" toText="U.S." />
+<name_link id="na26" fromID="o7" fromText="the Drug Enforcement Administration" toID="n26" toText="Drug Enforcement Administration" />
+<name_link id="na27" fromID="o8" fromText="the Bureau of Alcohol, Tobacco, Firearms and Explosives" toID="n27" toText="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<name_link id="na28" fromID="o9" fromText="the Internal Revenue Service - Criminal Investigation Division" toID="n28" toText="Criminal Investigation Division" />
+<name_link id="na29" fromID="o10" fromText="Internal Revenue Service" toID="n29" toText="Internal Revenue Service" />
+<name_link id="na30" fromID="o11" fromText="the Norwich Police Department" toID="n30" toText="Norwich Police Department" />
+<name_link id="na31" fromID="o12" fromText="the New London Police Department" toID="n31" toText="New London Police Department" />
+<name_link id="na32" fromID="o13" fromText="the City of Groton Police Department" toID="n32" toText="City of Groton Police Department" />
+<name_link id="na33" fromID="o14" fromText="the Town of Groton Police Department" toID="n33" toText="Town of Groton Police Department" />
+<name_link id="na34" fromID="o15" fromText="the Waterford Police Department" toID="n34" toText="Waterford Police Department" />
+<name_link id="na35" fromID="o16" fromText="the Stonington Police Department" toID="n35" toText="Stonington Police Department" />
+<name_link id="na36" fromID="o17" fromText="the Willimantic Police Department" toID="n36" toText="Willimantic Police Department" />
+<name_link id="na37" fromID="o18" fromText="the Connecticut State Police" toID="n37" toText="Connecticut State Police" />
+<name_link id="na38" fromID="o1" fromText="the District of Connecticut" toID="n6" toText="District of Connecticut" />
+<relation_link1 id="r0" fromID="C0" fromText="New London Cocaine Trafficker" toID="p2" toText="New London Cocaine Trafficker" />
+<relation_link1 id="r1" fromID="M0" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="p5" toText="Special Agent in Charge of the Drug Enforcement Administration for New England" />
+<relation_link1 id="r2" fromID="e1" fromText="Acting United States Attorney for the District of Connecticut" toID="p8" toText="Acting United States Attorney for the District of Connecticut" />
+<relation_link1 id="r3" fromID="M1" fromText="Acting United States Attorney for the District of Connecticut" toID="p8" toText="Acting United States Attorney for the District of Connecticut" />
+<relation_link1 id="r5" fromID="C1" fromText="HECTOR GONZALEZ, 39, of New London" toID="p9" toText="HECTOR GONZALEZ, 39, of New London" />
+<relation_link1 id="r6" fromID="M2" fromText="United States District Judge" toID="p11" toText="United States District Judge" />
+<relation_link1 id="r7" fromID="e4" fromText="United States District Judge" toID="p11" toText="United States District Judge" />
+<relation_link1 id="r8" fromID="lo0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" toID="p9" toText="HECTOR GONZALEZ, 39, of New London" />
+<relation_link1 id="r9" fromID="lo1" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" toID="p10" toText="United States District Judge Alvin W. Thompson" />
+<relation_link1 id="r10" fromID="C2" fromText="Anthony Morse of Gales Ferry" toID="p15" toText="Anthony Morse of Gales Ferry" />
+<relation_link1 id="r4" fromID="lo2" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="p13" toText="law enforcement officers" />
+<relation_link1 id="r11" fromID="lo3" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="p14" toText="GONZALEZ" />
+<relation_link1 id="r12" fromID="lo4" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="p15" toText="Anthony Morse of Gales Ferry" />
+<relation_link1 id="r13" fromID="e5" fromText="Acting U.S. Attorney" toID="p26" toText="Acting U.S. Attorney" />
+<relation_link2 id="re0" fromID="C0" fromText="New London Cocaine Trafficker" toID="g0" toText="New London" />
+<relation_link2 id="re1" fromID="M0" fromText="Special Agent in Charge of the Drug Enforcement Administration for New England" toID="o0" toText="the Drug Enforcement Administration for New England" />
+<relation_link2 id="re2" fromID="M1" fromText="Acting United States Attorney for the District of Connecticut" toID="o1" toText="the District of Connecticut" />
+<relation_link2 id="re3" fromID="e1" fromText="Acting United States Attorney for the District of Connecticut" toID="g1" toText="United States" />
+<relation_link2 id="re4" fromID="C1" fromText="HECTOR GONZALEZ, 39, of New London" toID="g3" toText="New London" />
+<relation_link2 id="re5" fromID="M2" fromText="United States District Judge" toID="o2" toText="District" />
+<relation_link2 id="re6" fromID="e4" fromText="United States District Judge" toID="g4" toText="United States" />
+<relation_link2 id="re7" fromID="lo0" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" toID="g5" toText="Hartford" />
+<relation_link2 id="re8" fromID="lo1" fromText="Steven W. Derr, Special Agent in Charge of the Drug Enforcement Administration for New England and Nora R. Dannehy, Acting United States Attorney for the District of Connecticut, today announced that HECTOR GONZALEZ, 39, of New London, was sentenced on Tuesday, January 14, by United States District Judge Alvin W. Thompson in Hartford to 120 months of imprisonment, followed by eight years of supervised release" toID="g5" toText="Hartford" />
+<relation_link2 id="re9" fromID="C2" fromText="Anthony Morse of Gales Ferry" toID="g6" toText="Gales Ferry" />
+<relation_link2 id="re10" fromID="lo2" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="f1" toText="a New London parking lot" />
+<relation_link2 id="re11" fromID="lo3" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="f1" toText="a New London parking lot" />
+<relation_link2 id="re12" fromID="lo4" fromText="According to documents filed with the Court and statements made in court, on June 25, 2007, law enforcement officers arrested GONZALEZ and Anthony Morse of Gales Ferry in a New London parking lot" toID="f1" toText="a New London parking lot" />
+<relation_link2 id="re13" fromID="e5" fromText="Acting U.S. Attorney" toID="g9" toText="U.S." />
+</TAGS>
+</KddTask>

@@ -1,0 +1,16 @@
+Imperva Breach Exposes WAF Customers' Data, Including SSL Certs, API Keys
+Wang Wei
+
+Imperva, one of the leading cybersecurity startups that helps businesses protect critical data and applications from cyberattacks, has suffered a data breach that has exposed sensitive information for some of its customers, the company revealed today.
+The security breach particularly affects customers of Imperva's Cloud Web Application Firewall (WAF) product, formerly known as Incapsula, a security-focused CDN service known for its DDoS mitigation and web application security features that protect websites from malicious activities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a blog post published today, Imperva CEO Chris Hylen revealed that the company learned about the incident on August 20, 2019, only after someone informed it about the data exposure that "impacts a subset of customers of its Cloud WAF product who had accounts through September 15, 2017."
+The exposed data includes email addresses and hashed and salted passwords for all Cloud WAF customers who registered before 15th September 2017, as well as API keys and customer-provided SSL certificates for a subset of users.
+"We activated our internal data security response team and protocol, and continue to investigate with the full capacity of our resources how this exposure occurred," the company says.
+"We have informed the appropriate global regulatory agencies. We have engaged outside forensic experts."
+The company has not yet revealed how the Cloud WAF customers' data got leaked, whether its servers were compromised or if it was accidentally left unsecured in a misconfigured database on the Internet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Imperva is still investigating the incident, and the company has ensured that it is informing all impacted customers directly and is also taking additional measures to scale up its security.
+"We profoundly regret that this incident occurred and will continue to share updates going forward. In addition, we will share learnings and new best practices that may come from our investigation and enhanced security measures with the broader industry," the company says.
+Cloud WAF users are recommended to change their account passwords, implement Single Sign-On (SSO), enable two-factor authentication (2FA), generate and upload new SSL certificate, and reset their API keys.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

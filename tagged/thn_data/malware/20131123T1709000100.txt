@@ -1,0 +1,10 @@
+NSA infected more than 50,000 computer networks with Malware
+Mohit Kumar
+The NSA has the ability to trace “anyone, anywhere, anytime”. In September we reported that how NSA and GCHQ planted malware via LinkedIn and Slashdot traffic to hack largest telecom company Belgacom's Engineers.
+Yesterday, a Dutch newspaper has published a new secret NSA document provided by former intelligence employee Edward Snowden.  (adsbygoogle = window.adsbygoogle || []).push({}); According to the newly exposed slide, NSA has infected more than 50,000 computer networks worldwide with software designed to steal sensitive information i.e. Malware.
+The slide from the NSA's 2012 management presentation, shows a world map with more than 50,000 targeted locations, uses a procedure called ‘Computer Network Exploitation’ (CNE) that can secretly install malware in computer systems. The malware can be controlled remotely and be turned on and off at will.
+From the NSA website we found that, CNE includes enabling actions and intelligence collection via computer networks that exploit data gathered from target or enemy information systems or networks.
+"Cyberwar is a very real threat and could cause widespread problems. That is why the National Security Agency needs to be prepared by Computer Science professionals who are highly-skilled in Computer Network Operations." The website says.
+To perform such offensive attacks via CNE operations, NSA has employed more than a thousand hackers under a special unit called TAO (Tailored Access Operations). Countries targeted by the CNE hackers unit includes China, Russia, Venezuela and Brazil.
+Many Counties now have their own Cyber units - including China and Dutch, but their actions are prohibited by law. Officially they cannot perform operations as the NSA and GCHQ can do.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

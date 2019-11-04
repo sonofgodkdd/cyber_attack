@@ -1,0 +1,26 @@
+Hacker Leaks Data From Mandiant (FireEye) Senior Security Analyst
+Wang Wei
+
+Reportedly, at least one senior cyber security analyst working with Mandiant, a Virginia-based cybersecurity firm owned by the FireEye, appears to have had its system compromised by hackers, exposing his sensitive information on the Internet.
+On Sunday, an anonymous group of hackers posted some sensitive details allegedly belonged to Adi Peretz, a ‎Senior Threat Intelligence Analyst at Mandiant, claiming they have had complete access to the company's internal networks since 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The recent hack into Mandiant has been dubbed Operation #LeakTheAnalyst.
+Further Leaks from Mandiant Might Appear
+The hackers have leaked nearly 32 megabytes of data—both personal and professional—belonging to Peretz on Pastebin as proof, which suggests they have more Mandiant data that could be leaked in upcoming days.
+"It was fun to be inside a giant company named “Mandiant” we enjoyed watching how they try to protect their clients and how their dumb analysts are trying to reverse engineer malware and stuff," the Pastebin post reads. 
+"This leak was just a glimpse of how deep we breached into Mandiant, we might publish more critical data in the future."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers dumped a treasure trove of sensitive information, which includes:
+Peretz's Microsoft account login details
+Peretz's Contacts
+Screenshots of the Windows Find My Device Geolocator, linked to Peretz's Surface Pro laptop.
+Client correspondence
+Presentations
+Contents of his email inbox
+Several internal Mandiant and FireEye documents
+Threat intelligence profiles for the Israeli Defence Force (IDF)
+Besides leaks, the anonymous hackers also reportedly broke into Peretz's LinkedIn page and defaced it. His profile has since been deleted from the professional media network.
+Although the motives behind the hack are not known at this moment, Mandiant has yet to comment on the incident.
+In response to the leak, Mandiant's parent company, FireEye issued a statement, blaming the employee's social media accounts for the leak. The statement reads:
+We are aware of reports that a Mandiant employee's social media accounts were compromised. We immediately began investigating this situation, and took steps to limit further exposure. Our investigation continues, but thus far, we have found no evidence FireEye or Mandiant systems were compromised.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

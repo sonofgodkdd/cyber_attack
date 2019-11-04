@@ -1,0 +1,22 @@
+DDoSing Hospital Networks Landed This Hacktivist in Jail for Over 10 Years
+Mohit Kumar
+
+A simple DDoS attack could land you in jail for 10 years or even more.
+A Massachusetts man has been sentenced to over 10 years in prison for launching DDoS attacks against the computer network of two healthcare organizations in 2014 to protest the treatment of a teenager at the centers.
+Beyond serving 121 months in prison, Martin Gottesfeld, 34, was also ordered by U.S. District Judge Nathaniel Gorton to pay nearly $443,000 in restitution for damages he caused to the targeted facilities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Gottesfeld carried out the DDoS attacks on behalf of the Anonymous hacker collective against Boston Children's Hospital (BCH) and Wayside Youth & Family Support Network—a nonprofit home treatment facility that provides a range of mental health counselings to children, young adults, and families in Massachusetts.
+In April 2014, the hacker used a botnet of over 40,000 network routers that he infected with customized malicious software to carry out the DDoS attacks that not only knocked BCH off the internet but also knocked down several other hospitals in the Longwood Medical Area.
+The DDoS attacks crippled Wayside Youth and Family Support Network for more than a week, causing the facility to spend $18,000 on response and mitigation efforts.
+However, the cyberattacks on BCH was terrible which disrupted the BCH network for at least two weeks, crippling the hospital's day-to-day operations and its research capabilities that eventually costed the facility a total of over $600,000 in damages.
+Gottesfeld has been in custody since February 2016 when he was arrested in Miami after he and his wife attempted to flee Massachusetts on a small boat, which was then rescued after being disabled off the coast of Cuba by a nearby Disney Cruise Ship.
+Gottesfeld was convicted in August last year when a federal jury found him guilty of two counts, including conspiracy to intentionally damage protected computers and conspiracy to damage protected computers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Gottesfeld represented himself at the hearing on Thursday at the U.S. District court in Boston and said he planned to appeal but had no regrets, according to Reuters.
+"It was your arrogance and misplaced pride that has been on display in this case from the very beginning that led you to believe you know more than the doctors at Boston Children's Hospital," Judge Gorton said.
+Gottesfeld argued that he carried out the attacks to protest the reportedly abusive treatment of teenage patient Justina Pelletier, who was the subject of a high-profile custody battle between her parents and the Commonwealth of Massachusetts.
+BCH and Pelletier's parents entered a dispute over a diagnosis of their daughter and a judge awarded the teen's custody to the state of Massachusetts. After her diagnosis, Pelletier was later moved to Wayside Youth & Family Support Network and 16 months later, she was released to her parents on the court order.
+Gottesfeld told Judge Gorton that he made a big difference in Pelletier's life and urged the judge to sentence him to time served, adding that "My only regret is that I didn't get to Justina sooner. I wish I had done more."
+Assistant U.S. Attorney David D'Addio also called Gottesfeld a "self-aggrandizing menace" who put children's lives at risk and even believed that he could strike again once released from prison.
+Gottesfeld's wife has planned to appeal the court hearing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

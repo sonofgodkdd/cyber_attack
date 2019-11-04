@@ -1,0 +1,28 @@
+DNS-Hijacking Malware Targeting iOS, Android and Desktop Users Worldwide
+Swati Khandelwal
+
+Widespread routers' DNS hijacking malware that recently found targeting Android devices has now been upgraded its capabilities to target iOS devices as well as desktop users.
+Dubbed Roaming Mantis, the malware was initially found hijacking Internet routers last month to distribute Android banking malware designed to steal users' login credentials and the secret code for two-factor authentication.
+According to security researchers at Kaspersky Labs, the criminal group behind the Roaming Mantis campaign has broadened their targets by adding phishing attacks for iOS devices, and cryptocurrency mining script for PC users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, while the initial attacks were designed to target users from South East Asia–including South Korea, China Bangladesh, and Japan–the new campaign now support 27 languages to expand its operations to infect people across Europe and the Middle East.
+How the Roaming Mantis Malware Works
+Similar to the previous version, the new Roaming Mantis malware is distributed via DNS hijacking, wherein attackers change the DNS settings of the wireless routers to redirect traffic to malicious websites controlled by them.
+So, whenever users attempt to access any website via a compromised router, they are redirected to rogue websites, which serves:
+fake apps infected with banking malware to Android users,
+phishing sites to iOS users,
+Sites with cryptocurrency mining script to desktop users
+"After the [Android] user is redirected to the malicious site, they are prompted to update the browser [app]. That leads to the download of a malicious app named chrome.apk (there was another version as well, named facebook.apk)," researchers say.
+To evade detection, fake websites generate new packages in real time with unique malicious apk files for download, and also set filename as eight random numbers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once installed, the attackers can control infected Android devices using 19 built-in backdoor commands, including–sendSms, setWifi, gcont, lock, onRecordAction, call, get_apps, ping and more.
+If the victims own an iOS device, the malware redirects users to a phishing site that mimics the Apple website, claiming to be 'security.app.com,' and asks them to enter their user ID, password, card number, card expiration date and CVV number.
+Besides stealing sensitive information from Android and iOS devices, researchers found that Roaming Mantis injects a browser-based cryptocurrency mining script from CoinHive on each landing page if visited using desktop browsers to mine Monero.
+Keeping in mind these new capabilities and the rapid growth of the campaign, researchers believe that "those behind it have a strong financial motivation and are probably well-funded."
+Here's How to Protect Yourself from Roaming Mantis
+In order to protect yourself from such malware, you are advised to ensure your router is running the latest version of the firmware and protected with a strong password.
+Since the hacking campaign is using attacker-controlled DNS servers to spoof legitimate domains and redirect users to malicious download files, you are advised to make sure the sites you are visiting has HTTPS enabled.
+You should also disable your router's remote administration feature and hardcode a trusted DNS server into the operating system network settings.
+Android device users are always advised to install apps from official stores, and disable the installation of apps from unknown sources on their smartphone by heading on to Settings → Security → Unknown sources.
+To check if your Wi-Fi router is already compromised, review your DNS settings and check the DNS server address. If it does not match the one issued by your provider, change it back to the right one. Also change all your account passwords immediately.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

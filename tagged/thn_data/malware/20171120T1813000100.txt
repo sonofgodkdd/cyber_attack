@@ -1,0 +1,28 @@
+BankBot Returns On Play Store – A Never Ending Android Malware Story
+Mohit Kumar
+
+Even after so many efforts by Google for making its Play Store away from malware, shady apps somehow managed to fool its anti-malware protections and infect people with malicious software.
+A team of researchers from several security firms has uncovered two new malware campaigns targeting Google Play Store users, of which one spreads a new version of BankBot, a persistent family of banking Trojan that imitates real banking applications in efforts to steal users' login details.
+BankBot has been designed to display fake overlays on legitimate bank apps from major banks around the world, including Citibank, WellsFargo, Chase, and DiBa, to steal sensitive information, including logins and credit card details.
+With its primary purpose of displaying fake overlays, BankBot has the ability to perform a broad range of tasks, such as sending and intercepting SMS messages, making calls, tracking infected devices, and stealing contacts.
+Google removed at least four previous versions of this banking trojan from its official Android app store platform earlier this year, but BankBot apps always made their ways to Play Store, targeting victims from major banks around the world.
+The second campaign spotted by researchers not only spreads the same BankBot trojan as the first campaign but also Mazar and Red Alert. This campaign has been described in detail on ESET blog.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to an analysis performed by the mobile threat intelligence team at Avast in collaboration with ESET and SfyLabs, the latest variant of BankBot has been hiding in Android apps that pose as supposedly trustworthy, innocent-looking flashlight apps.
+First spotted by the researchers on 13 October, the malicious BankBot apps uses special techniques to circumvent Google's automated detection checks, such as starting malicious activities 2 hours after the user gave device admin rights to the app and publishing the apps under different developer names.
+After tricking victims into downloading them, the malicious apps check for the applications that are installed on the infected device against a hard-coded, list of 160 mobile apps.
+According to the researchers, this list includes apps from Wells Fargo and Chase in the U.S., Credit Agricole in France, Santander in Spain, Commerzbank in Germany and many other financial institutions from around the world.
+If it finds one or more apps on the infected smartphone, the malware downloads and installs the BankBot APK from its command-and-control server on the device, and tries to trick the victim into giving it administrator rights by pretending to be a Play Store or system update using a similar icon and package name.
+Once it gets the admin privileges, the BankBot app displays overlay on the top of legitimate apps whenever victims launch one of the apps from the malware's list and steal whatever banking info the victim's types on it.
+The Avast Threat Labs has also provided a video demonstration while testing this mechanism with the app of the local Czech Airbank. You can see how the app creates an overlay within milliseconds and tricks the user into giving out their bank details to criminals.
+Since many banks use two-factor-authentication methods for secure transactions, BankBot includes functionality that allows it to intercept text messages, allowing criminals behind BankBot to steal mobile transaction number (mTAN) sent to the customer's phone and transfer money to their accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's one important thing to note is that Android mechanism blocks apps installation from outside the Play Store. Even if you have already permitted installation from unknown sources, Google still requires you to press a button to continue such installations.
+"Unlike this newer version of BankBot, droppers from previous campaigns were far more sophisticated," the researchers note. "They applied techniques such as performing clicks in the background via an Accessibility Service to enable the installation from unknown sources."
+The latest BankBot version does not utilize this Accessibility Service feature due to Google's recent move of blocking this feature for all applications, except those designed to provide services for the blind.
+Google has already removed all recently-discovered BankBot apps after being notified by the researchers.
+Although it is a never-ending concern, the best way to protect yourself is always to be vigilant when downloading apps even from Google's official Play store. So, always verify app permissions and reviews before downloading an app from Google Play Store.
+Even though the BankBot apps made it way into the Play Store, its payload was downloaded from an external source. So, don't allow any unknown third-party APK to be installed on your smartphone.
+To do so, Go to Settings → Security and then Turn OFF "Allow installation of apps from sources other than the Play Store."
+Most importantly, be careful which apps you give administrative rights to, as it is powerful and can provide a full app control of your device.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

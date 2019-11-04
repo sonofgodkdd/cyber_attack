@@ -1,0 +1,22 @@
+Two Romanians Charged With Hacking Police CCTV Cameras Before Trump Inauguration
+Swati Khandelwal
+
+Remember how some cybercriminals shut down most of Washington D.C. police's security cameras for four days ahead of President Donald Trump's inauguration earlier this year?
+Just a few days after the incident, British authorities arrested two people in the United Kingdom, identified as a British man and a Swedish woman, both 50-year-old, on request of U.S. officials.
+But now US federal court affidavit has revealed that two Romanian nationals were behind the attack that hacked into 70% of the computers that control Washington DC Metropolitan Police Department's surveillance camera network in January this year, CNN reports.
+The two suspects—Mihai Alexandru Isvanca, 25, and Eveline Cismaru, 28—were arrested in Bucharest on December 15 on charges of conspiracy to commit wire fraud and various forms of computer fraud.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the criminal complaint unsealed in Washington, the pair hacked 123 of the Metropolitan Police Department's 187 outdoor surveillance cameras used to monitor public areas in D.C. by infecting computers with ransomware in an effort to extort money.
+Ransomware is an infamous piece of malicious software that has been known for locking up computer files and then demanding a ransom (usually in Bitcoins) to help victims unlock their files.
+The cyber attack occurred just days before the inauguration of President Donald Trump and lasted for almost four days, eventually leaving the CCTV cameras out of recording anything between 12 and 15 January 2017.
+Instead of fulfilling ransom demands, the DC police department took the storage devices offline, removed the infection and rebooted the systems across the city, ensuring that the surveillance camera system was secure and fully operational.
+"This case was of the highest priority due to its impact on the Secret Service’s protective mission and its potential effect on the security plan for the 2017 Presidential Inauguration," the Justice Department said.
+"The investigation revealed no evidence that any person’s physical security was threatened or harmed due to the disruption of the MPD surveillance cameras."
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+The affidavit, dated December 11, mentions the defendants used two types of cryptocurrency ransomware variants—Cerber and Dharma. Other evidence also revealed a scheme to distribute ransomware by email to at least 179,000 email addresses.
+"According to the complaint, further investigation showed that the two defendants, Isvanca and Cismaru, participated in the ransomware scheme using the compromised MPD surveillance camera computers, among others," the Justice Department said.
+"The investigation also identified certain victims who had received the ransomware or whose servers had been accessed during the scheme."
+However, it is still unclear whether the pair arrested was solely behind the attack or were part of a more comprehensive cybercriminal network.
+While Isvanca remains in custody in Romania, Cismaru is under house arrest pending further legal proceedings, according to the Justice Department.
+If extradited and convicted, the Romanian defendants could face a maximum of 20 years in prison.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

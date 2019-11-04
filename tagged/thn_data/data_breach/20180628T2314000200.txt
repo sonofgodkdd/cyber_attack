@@ -1,0 +1,25 @@
+Another Facebook Quiz App Left 120 Million Users' Data Exposed
+Swati Khandelwal
+
+People are still getting over the most controversial data scandal of the year, i.e., Cambridge Analytica scandal, and Facebook is under fire yet again after it emerges that a popular quiz app on the social media platform exposed the private data of up to 120 million users for years.
+Facebook was in controversies earlier this year over a quiz app that sold data of 87 million users to a political consultancy firm, who reportedly helped Donald Trump win the US presidency in 2016.
+Now, a different third-party quiz app, called NameTests, found exposing data of up to 120 million Facebook users to anyone who happened to find it, an ethical hacker revealed.
+NameTests[.]com, the website behind popular social quizzes, like "Which Disney Princess Are You?" that has around 120 million monthly users, uses Facebook’s app platform to offer a fast way to sign up.
+Just like any other Facebook app, signing up on the NameTests website using their app allows the company to fetch necessary information about your profile from the Facebook, with consent naturally.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Inti De Ceukelaire, a bug bounty hunter and hacker, found that the popular quiz website is leaking logged-in user’s detail to the other websites opened in the same browser, allowing any malicious website to obtain that data easily.
+In a Medium post published yesterday, Ceukelaire said he liked to participate in the Data Abuse Bounty Program that Facebook recently launched in the wake of Cambridge Analytica scandal. So, he started looking at the apps his friends on Facebook had installed.
+Ceukelaire then decided to take his first quiz through the NameTests app, and as he started taking a closer look on the test process, he noticed that the website was fetching his personal information from "http://nametests[.]com/appconfig_user" and display it on its website.
+Ceukelaire was shocked when he saw his personal data in a JavaScript file that could easily be accessed by virtually any website when they would request it. 
+What Was the Flaw? How It Leaked Users' Data?
+This issue was due to a simple yet severe flaw in NameTests website that appears to have existed since the end of 2016.
+Storing user data in JavaScript file caused the website to leak data to other websites, which is otherwise not possible due to browser’s Cross-Origin Resource Sharing (CORS) policy that prevents a website from reading the content of other websites without their explicit permission.
+As a proof of concept, Ceukelaire developed a malicious website that would connect to NameTests to mine the data of visitors using the app. Using a simple bit of code, he was able to harvest the names, photos, posts, pictures, and friends lists of anyone taking part in the quiz.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The vigilant hacker also made a video as a proof of his findings, demonstrating how the NameTests website revealed your personal data even after deleting the app.
+Ceukelaire reported the flaw via Facebook’s Data Abuse Bounty Program on April 22, and over a month later the social media informed him that it could take three to six months to investigate the issue.
+Over two months after initially reporting the issue to Facebook, Ceukelaire noticed that NameTests has fixed the issue, and told him it had found no evidence of abuse of the exposed data by any third party.
+On 27th June, Facebook contacted Ceukelaire and informed him that NameTests had fixed the issue, and at his request, donated $8,000 to the Freedom of the Press Foundation as part of its Data Abuse Bounty Program.
+German company Social Sweethearts, who is behind NameTests, claims to have more than 250 million registered users and have reached more than 3 billion page views per month.
+The latest incident shows that, even after the social media giant changed its conditions for apps to access data on its platform back in 2015, Facebook failed to adequately police such apps that have access to substantial amounts of personal data on its platform.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

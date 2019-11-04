@@ -1,0 +1,19 @@
+Flaw in Emergency Alert Systems Could Allow Hackers to Trigger False Alarms
+Swati Khandelwal
+
+A serious vulnerability has been exposed in "emergency alert systems" that could be exploited remotely via radio frequencies to activate all the sirens, allowing hackers to trigger false alarms.
+The emergency alert sirens are used worldwide to alert citizens about natural disasters, man-made disasters, and emergency situations, such as dangerous weather conditions, severe storms, tornadoes and terrorist attacks.
+False alarms can create panic and chaos across the city, as witnessed in Dallas last year, when 156 emergency sirens were turned on for about two hours, waking up residents and sparking fears of a disaster.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed "SirenJack Attack," the vulnerability discovered by a researcher at Bastille security firm affects warning sirens manufactured by Boston-based ATI Systems, which are being used across major towns and cities, as well as Universities, military facilities, and industrial sites.
+According to Balint Seeber, director of threat research at Bastille, since the radio protocol used to control affected sirens is not using any kind of encryption, attackers can simply exploit this weakness to activate sirens by sending a malicious activation message.
+"All that is required is a $30 handheld radio and a computer," Seeber claims.
+To perform the SirenJack attack, a hacker needs to be in the radio range and identify the radio frequency used by the targeted siren in order to send a specially crafted message.
+"Once the frequency was found, analysis of the radio protocol quickly showed that commands were not encrypted and therefore vulnerable to forgery, rendering the system susceptible to malicious activations," Seeber explains.
+Researcher finds that Outdoor Public Warning System implemented within the City of San Francisco, designed to alert residents and visitors of about possible danger, has more than 100 warning sirens that malicious hackers can exploit to cause widespread panic and annoyance across the city.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Seeber responsibly disclosed this issue to ATI Systems 90 days ago (on January 8). ATI Systems says the patch is being tested and will shortly be made available to fix its systems implemented in the City of San Francisco.
+However, ATI Systems noted that installing the patch is not easy since many of its products are designed depending upon specific needs of each of its customers.
+Therefore, customers are advised to contact ATI Systems to determine if they have a vulnerable configuration and/or flawed version of the system, and then take the appropriate steps suggested to remediate the issue.
+Bastille researchers also encourage other siren manufacturers to "investigate their own systems to patch and fix this type of vulnerability," in case they find it.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

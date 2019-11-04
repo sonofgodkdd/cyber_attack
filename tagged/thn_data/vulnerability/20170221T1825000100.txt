@@ -1,0 +1,36 @@
+Unpatched Python and Java Flaws Let Hackers Bypass Firewall Using FTP Injection
+Swati Khandelwal
+
+This newly discovered bugs in Java and Python is a big deal today.
+The two popular programming languages, Java and Python, contain similar security flaws that can be exploited to send unauthorized emails and bypass any firewall defenses.
+And since both the flaws remain unpatched, hackers can take advantage to design potential cyber attack operations against critical networks and infrastructures.
+The unpatched flaws actually reside in the way Java and Python programming languages handle File Transfer Protocol (FTP) links, where they don't syntax-check the username parameter, which leads to, what researchers call, protocol injection flaw.
+Java/Python FTP Injection to Send Unauthorized SMTP Emails
+In a blog post published over the past week, security researcher Alexander Klink detailed the FTP protocol injection vulnerability in Java's XML eXternal Entity (XXE) that allows attackers to inject non-FTP malicious commands inside an FTP connection request.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To demonstrate the attack, Alexander showed how to send an unauthorized email via SMTP (Simple Mail Transfer Protocol) in an FTP connection attempt, even though the FTP connection failed, as FTP servers does support authentication, but doesn't check for the present of carriage returns (CR) or line feeds (LF) in usernames.
+"This attack is particularly interesting in a scenario where you can reach an (unrestricted, maybe not even spam- or malware-filtering) internal mail server from the machine doing the XML parsing," Alexander concluded.
+Java/Python FTP Injections Allow to Bypass Firewall
+However, two days later in a separate security advisory, security researcher Timothy Morgan from Blindspot Security came forward with his findings, showing more threatening exploitation scenario where the FTP URL handlers in both Java and Python can be used to bypass firewalls.
+Morgan said such FTP protocol injection flaw could be used to trick a victim's firewall into accepting TCP connections from the web to the vulnerable host's system on its "high" ports (from 1024 to 65535).
+Besides the FTP protocol injection attack, there's reside a decade old security issue in FTP protocol called classic mode FTP – an insecure mechanism of client-server FTP interactions, but many firewall vendors still support it by default.
+When a classic mode FTP connection is initiated, the firewall temporarily opens a port – typically between 1024 and 65535 – specified in the PORT command, which introduces security risks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Using the FTP protocol injection issue in Java and Python, an attacker who knows the targeted host’s internal IP address can start a classic mode FTP connection, which attackers can use for nefarious purposes.
+Morgan has determined that an attacker can open up one port in the targeted firewall with only three requests:
+Identify the victim's internal IP address – this requires an attacker to "send an URL, see how the client behaves, then try another until the attack is successful."
+Determine packet alignment and ensure that the PORT command is injected at the right moment, making the attack work.
+Exploit the vulnerability.
+Each additional request can be used to open up another TCP port.
+Easily Exploitable Protocol Injection Flaw
+However, the researcher warned that his exploit could be used for man-in-the-middle (MitM) attacks, server-side request forgery (SSRF), an XEE attack and more – and once bypassed the firewall, desktop hosts can be attacked even if they do not have Java installed.
+All an attacker need is to convince victims into accessing a malicious Java or Python applications installed on a server to bypass the entire firewall.
+"If a desktop user could be convinced to visit a malicious website while Java is installed, even if Java applets are disabled, they could still trigger Java Web Start to parse a JNLP (Java Network Launch Protocol) file," Morgan said. "These files could contain malicious FTP URLs which trigger this bug."
+"Also note, that since Java parses JNLP files before presenting the user with any security warnings, the attack can be entirely successful without any indication to the user (unless the browser itself warns the user about Java Web Start being launched)."
+According to Morgan, a nearly identical flaw also exists in Python's urllib2 and urllib libraries, although "this injection appears to be limited to attacks via directory names specified in the URL."
+Protocol Injection Flaw Is Still Unpatched
+Morgan said the FTP protocol injection flaw was reported to the Python team in January 2016 and Oracle in November 2016 by his company, but neither of the two has issued any update to address the issue.
+Morgan has developed a proof-of-concept (PoC) exploit but is currently holding back publication of his exploit until Oracle and Python respond to the disclosure and release patches.
+The Morgan's exploit has successfully been tested against Palo Alto Networks and Cisco ASA firewalls, though researchers believe many commercial firewalls are also vulnerable to FTP stream injection attacks.
+So until patches become available, Morgan suggests users uninstall Java on their desktops and in browsers, as well as disable support for "classic mode" FTP on all firewalls.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

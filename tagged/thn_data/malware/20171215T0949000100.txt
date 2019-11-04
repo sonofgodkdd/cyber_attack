@@ -1,0 +1,21 @@
+TRITON Malware Targeting Critical Infrastructure Could Cause Physical Damage
+Wang Wei
+
+Security researchers have uncovered another nasty piece of malware designed specifically to target industrial control systems (ICS) with a potential to cause health and life-threatening accidents.
+Dubbed Triton, also known as Trisis, the ICS malware has been designed to target Triconex Safety Instrumented System (SIS) controllers made by Schneider Electric—an autonomous control system that independently monitors the performance of critical systems and takes immediate actions automatically, if a dangerous state is detected.
+Researchers from the Mandiant division of security firm FireEye published a report on Thursday, suggesting state-sponsored attackers used the Triton malware to cause physical damage to an organization.
+Neither the targeted organization name has been disclosed by the researchers nor they have linked the attack to any known nation-state hacking group.
+According to separate research conducted by ICS cybersecurity firm Dragos, which calls this malware "TRISIS," the attack was launched against an industrial organization in the Middle East.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Triton leverages the proprietary TriStation protocol, which is an engineering and maintenance tool used by Triconex SIS products and is not publicly documented, suggesting that the attackers reverse engineered it when creating their malware.
+"The attacker gained remote access to an SIS engineering workstation and deployed the TRITON attack framework to reprogram the SIS controllers," FireEye researchers said. 
+The hackers deployed Triton on an SIS engineering workstation running Windows operating system by masquerading it as the legitimate Triconex Trilog application.
+The current version of TRITON malware that researchers analyzed was built with many features, “including the ability to read and write programs, read and write individual functions and query the state of the SIS controller.”
+"During the incident, some SIS controllers entered a failed safe state, which automatically shut down the industrial process and prompted the asset owner to initiate an investigation," the researchers said.
+Using TRITON, an attacker can typically reprogram the SIS logic to falsely shut down a process that is actuality in a safe state. Though such scenario would not cause any physical damage, organizations can face financial losses due to process downtime.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, attackers can also cause severe life-threatening damages by reprogramming the SIS logic to allow unsafe conditions to persist or by intentionally manipulating the processes to achieve unsafe state first.
+"The attacker deployed TRITON shortly after gaining access to the SIS system, indicating that they had pre-built and tested the tool which would require access to hardware and software that is not widely available."
+Researchers believe Triton is emerging as a severe threat to critical infrastructures, just like Stuxnet, IronGate, and Industroyer, because of its capabilities to cause physical damage or shut down operations.
+Researchers at Symantec have also provided a brief analysis here.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

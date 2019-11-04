@@ -1,0 +1,21 @@
+3 Mobile UK Hacked – 6 Million Customers' Private Data at risk
+Mohit Kumar
+
+Three, one of UK's biggest mobile operators, has become the latest victim of a massive data breach that reportedly left the personal information and contact details of 6 Million of its customers exposed.
+The company admitted the data breach late Thursday, saying that computer hackers gained access to a Three Mobile customer phone upgrade database containing the account details of nearly 6 Million customers.
+According to multiple British media reports citing both Three and the National Crime Agency (NCA), the computer hackers used an employee login to gain entry into its database.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen data includes customer names, addresses, phone numbers and dates of birth, which is then used to carry out mobile phone fraud.
+The company has not yet confirmed the total number of users' affected by the breach, though it assured its customers that no payment data, including bank account numbers and card numbers, has been accessed.
+According to Three, the hackers had stolen the database to use the stolen personal details to find customers eligible for handset upgrade, placing orders for the new phones, intercepting the parcels as they arrived, and then reselling them for a profit.
+"Over the last four weeks Three has seen an increasing level of attempted handset fraud," said a spokesman for Three. "This has been visible through higher levels of burglaries of retail stores and attempts to unlawfully intercept upgrade devices."
+To date, Three has confirmed around 400 cases in which fraudsters had stolen high-value handsets through burglaries and 8 devices have already been illegally obtained through the upgrade activity.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Three British Men Arrested over Three Data Breach
+The investigation is ongoing, and three people have already with in connection to the fraud.
+On Wednesday, the NCA arrested two men on suspicion of computer misuse allegations:
+A 48-year-old man from Orpington, Kent
+A 39-year old man from Ashton-under-Lyne, Manchester
+A third man – 35-year old man from Moston, Manchester – was also arrested for allegedly attempting to pervert the course of justice. However, all three of them have since been released on bail pending further inquiries.
+This sort of cyber theft is not new. Earlier this year, fellow British carrier TalkTalk estimated that the company had lost more than £60 Million in a 2015 massive data breach that exposed the account details of 156,000 of its customers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

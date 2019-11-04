@@ -1,0 +1,17 @@
+Hackers Found Using A New Way to Bypass Microsoft Office 365 Safe Links
+Mohit Kumar
+Security researchers revealed a way around that some hacking groups have been found using in the wild to bypass a security feature of Microsoft Office 365, which is originally designed to protect users from malware and phishing attacks.
+Dubbed Safe Links, the feature has been included in Office 365 software as part of Microsoft's Advanced Threat Protection (ATP) solution that works by replacing all URLs in an incoming email with Microsoft-owned secure URLs.
+So, every time a user clicks on a link provided in an email, it first sends the user to a Microsoft owned domain, where the company immediately checks the original URL for anything suspicious. If Microsoft's scanners detect any malicious element, it then warns users about it, and if not, it redirects the user to the original link.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, researchers at cloud security company Avanan have revealed how attackers have been bypassing the Safe Links feature by using a technique called, "baseStriker attack."
+BaseStriker attack involves using the <base> tag in the header of an HTML email—which is used to defines a default base URI, or URL, for relative links in a document or web page.
+In other words, if the <base> URL is defined, then all subsequent relative links will use that URL as a starting point.
+As shown in the above screenshot, the researchers compared HTML code of a traditional phishing email with the one that uses a <base> tag to split up the malicious link in a way that Safe Links fails to identify and replace the partial hyperlink, eventually redirecting victims to the phishing site, when clicked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers have even provided a video demonstration, which shows the baseStriker attack in action.
+The researchers tested the baseStriker attack against several configurations and found that "anyone using Office 365 in any configuration is vulnerable," be it web-based client, mobile app or desktop application of OutLook. 
+Proofpoint is also found vulnerable to the baseStriker attack. However, Gmail users and those protecting their Office 365 with Mimecast are not impacted by this issue.
+So far, researchers have only seen hackers using the baseStriker attack to send phishing emails, but they believe the attack can be leveraged to distribute ransomware, malware and other malicious software.
+Avanan reported the issue to both Microsoft and Proofpoint earlier last weekend, but there is no patch available to fix the problem at the time of writing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,27 @@
+European Parliament Proposes Ban On Encryption Backdoors
+Mohit Kumar
+Prime Minister Theresa May wants tech companies, like Facebook, Apple, and Google, to create controversial 'backdoors' for police, but even somewhere she knows that it's not that easy as it sounds.
+The Civil Liberties, Justice and Home Affairs Committee of the European Parliament has released a draft proposal [PDF] for new laws on privacy and electronic communications, recommending end-to-end (E2E) encryption on all communications and forbidding backdoors that offer access to law enforcement.
+"The protection of confidentiality of communications is also an essential condition for the respect of other related fundamental rights and freedoms, such as the protection of freedom of thought, conscience and religion, and freedom of expression and information," the draft reads.
+Draft Says, Your Security is Our Top Priority
+According to the draft, EU citizens need more protection, not less and they need to know that the "confidentiality and safety" of their data is "guaranteed," but software backdoors risk "weakening" that privacy.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What is backdoor? By definition, "Backdoor is a feature or defect of a computer system that allows surreptitious unauthorized access to data."
+Many countries' government, including the US Defence Department, have forced major companies to provide backdoor access to their services, allowing the feds to intercept users' traffic and access everything from secure messages to their web activities.
+But, "Technically, there is no such backdoor that only the government can access. If surveillance tools can exploit the vulnerability by design, then an attacker who gained access to it would enjoy the same privilege."
+Draft Demands End-to-End Encryption & Ban On Backdoors
+The proposed draft recommends the use of end-to-end encryption that would make it more difficult for federal officials to request data from tech companies.
+The proposal would ban decryption of user data as well as the creation of backdoors in software or encryption technologies that could allow government access to users' private information.
+So if the amendments pass, the ban on software backdoors would make it difficult for the government to enforce the Section 49 of the Regulation of Investigatory Powers Act (RIPA) 2000's requirement that companies remove "electronic protection" when possible.
+For those unaware, end-to-end encryption is a secure communication that encrypts data on the sender's system before passing it to a company's server. The company then passes the encrypted data to the intended recipient, who is the only person who can decrypt it.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nobody in between, be it an application service provider, an Internet service provider (ISP), hacker, or even law enforcement officials, can read or tamper with the data.
+"When encryption of electronic communications data is used, decryption, reverse engineering or monitoring of such communications shall be prohibited," the draft reads. "Member States shall not impose any obligations on electronic communications service providers that would result in the weakening of the security and encryption of their networks and services."
+Securing the 'Internet of Things'
+Similarly, the draft also says, the current law have not kept pace with how the machine-to-machine communications in the Internet of Things can expose citizens.
+The connected devices and machines are increasingly communicating with each other today by using electronic communications networks.
+So, according to the committee, this Regulation should also be applied to the machine-to-machine communications in order to "ensure full protection of the rights to privacy and confidentiality of communications, and to promote a trusted and secure Internet of Things in the digital single market."
+In short, the committee wants that any future means of communication, such as "calls, internet access, instant messaging applications, email, internet phone calls and messaging provided through social media" are all protected from hackers, government and prying eyes.
+The committee wants that applications, browsers, internet service providers, cars, smartphones or fitness trackers should also respect no-track requests from their customers, and snoop their data only after getting users' consent.
+However, it should be noted that most technology companies fall under the United States court of law, and post-Snowden era proves that as long as your countries' data is stored out of your boundaries, your policies and regulations would hardly make any difference.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

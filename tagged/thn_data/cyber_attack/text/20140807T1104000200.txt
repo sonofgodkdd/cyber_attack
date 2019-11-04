@@ -1,0 +1,28 @@
+Millions of WordPress and Drupal Websites Vulnerable to DoS Attack
+Mohit Kumar
+
+Users running the website on a self-hosted WordPress or on Drupal are strongly recommended to update their websites to the latest version immediately.
+A moderately critical vulnerability was discovered in the way Drupal and WordPress implement XMLRPC, which can lead an attacker to disable your website via a method known as Denial of Service (DoS).
+VULNERABILITY RESULTS IN DoS ATTACK
+The latest update of WordPress 3.9.2 mainly addresses an issue in the PHP’s XML processor that could be exploited to trigger a DoS (denial of service) attack. The vulnerability affects all previous versions of WordPress. 
+The XML vulnerability was first reported by Nir Goldshlager, a security researcher from Salesforce.com's product security team, that impacts both the popular website platforms. The issue was later fixed by Michael Adams and Andrew Nacin of the WordPress security team and David Rothstein of the Drupal security team.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+ATTACK MAKES YOUR WEBSITE COMPLETELY INACCESSIBLE
+The vulnerability makes use of a well-known cyber attack, XML Quadratic Blowup Attack. When executed, it has the capability to take down the whole website or server almost instantly, with the use of only a single machine.
+The XML vulnerability can cause complete CPU and memory exhaustion and the site’s database to reach the maximum number of open connections, and as a result, the vulnerable site and server become unavailable for a period of time, hence affecting Availability of your website.
+In short, when the vulnerability is exploited, your website and web server can become totally inaccessible.
+WORDPRESS AND DRUPAL USED BY MILLIONS OF WEBSITES
+The issue is actually serious because WordPress and Drupal is being used by millions of websites. The recent statistics from the World Wide Web Consortium (WC3) says that WordPress alone powers nearly 23% of the web, and over one million websites used by Drupal.
+WordPress is a free and open source blogging tool and a content management system (CMS) with more than 30,000 plugins, each of which offers custom functions and features enabling users to tailor their sites to their specific needs, therefore it is easy to setup and use, that’s why tens of millions of websites across the world opt it.
+HOW EXPLOIT WORKS
+As explained earlier, the XML vulnerability makes use of an XML Quadratic Blowup Attack, which is almost similar to a ‘Billion Laughs attack’ that allows a very small XML document to completely disrupt the services on machine in a matter of seconds.
+The XML Quadratic Blowup Attack exploits the use of entity expansion, instead of using nested entities inside an XML document, it replicates one large entity with tens of thousands of characters over and over again.
+In this type of attack, a medium-sized XML document of nearly two hundred kilobytes in size could require within the range of hundreds of megabytes to several gigabytes of memory. That if exploited by an attacker, could easily bring down an entire website or web server.
+"If an attacker defines the entity "&x;" as 55,000 characters long, and refers to that entity 55,000 times inside the "DoS" element, the parser ends up with an XML Quadratic Blowup attack payload slightly over 200 KB in size that expands to 2.5 GB when parsed. This expansion is enough to take down the parsing process," Nir Goldshlager wrote in his blog.
+VIDEO DEMONSTRATION
+Goldshlager has also provided a video demonstration as a proof-of-concept to the WordPress Denial of Service attack.
+UPDATE NOW
+The XML vulnerability is present in WordPress versions 3.5 to 3.9.1 (the latest version) and works on the default installation. The same vulnerability affects Drupal versions 6.x to 7.x (the current version) and also works on the default installation.
+Both WordPress and Drupal have released an update today to address this problem and all users should upgrade to the latest version as soon as possible.
+WordPress 3.7 introduced automatic updates which allows security patches, such as this one, to get rolled out to users automatically.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

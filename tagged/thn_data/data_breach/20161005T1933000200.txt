@@ -1,0 +1,20 @@
+TalkTalk Telecom Ordered to Pay Record £400,000 Fine Over 2015 Data Breach
+Mohit Kumar
+TalkTalk, one of the biggest UK-based Telecoms company with 4 million customers, has been issued with a record £400,000 ($510,000) fine for failings to implement the most basic security measures to prevent the hack that made global headlines last year.
+The penalty has been imposed by the Information Commissioner's Office (ICO) over the high-profile cyber attack occurred in the company last October, which allowed hackers to steal the personal data of its 156,959 customers "with ease."
+The ICO said on Wednesday that TalkTalk, which offers TV, phone and broadband services, could have prevented the cyber attack if the company had implemented even basic security measures to protect its customers’ data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hacked data of 156,959 customers included full names, postal addresses, dates of birth, telephone numbers, email addresses and TalkTalk accounts information. The hacker also had even access to bank account details and sort codes in almost 16,000 cases.
+"When it came to the basic principles of cyber-security, TalkTalk was found wanting," Information Commissioner Elizabeth Denham said."Today's record fine acts as a warning to others that cyber security is not an IT issue, it is a boardroom issue. Companies must be diligent and vigilant. They must do this not only because they have a duty under the law, but because they have a duty to their customers."The regulator also revealed that the targeted database software, which held details of customers inherited from the 2009 takeover of a rival Tiscali UK operations, was out of date and affected by an easily-patchable vulnerability.
+As a result, the hackers attacked three vulnerable web pages using a well-known hacking technique called SQL injection and got hold of the customers' data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+TalkTalk has been attacked several times last year. Before the October cyber attack, the company's system had been breached twice — first in July and then in September 2015. But the telecom did not learn anything from its past mistakes.
+"Yes, hacking is wrong, but that is not an excuse for companies to abdicate their security obligations," the watchdog said. "TalkTalk should and could have done more to safeguard its customer information. It did not, and we have taken action."In response to the ICO's decision, TalkTalk has said that it is disappointed with the fine imposed by the ICO, but it will gladly hang its head in shame.
+The company released the following statement:
+"During a year in which government data showed nine in ten large UK businesses were successfully breached, the TalkTalk attack was notable for our decision to be open and honest with our customers from the outset. This gave them the best chance of protecting themselves and we remain firm that this was the right approach for them and our business.""As the case remains the subject of an ongoing criminal prosecution, we cannot comment further at this time."The investigation of the data theft is still ongoing.
+Arrests Over TalkTalk Hack:
+Few days after the attack, a 15-year-old boy from County Antrim, Northern Ireland, was arrested in connection with the TalkTalk Data Breach.
+A second arrest was made within the week when the Metropolitan Police Cyber Crime Unit (MPCCU) arrested a 16-year-old boy from Feltham in west London.
+Another arrest was made on November last year when police arrested a 16-year-old boy from London in connection with the hack.
+An investigation by the Metropolitan Police Cyber Crime Unit has been running separately to the ICO’s investigation.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

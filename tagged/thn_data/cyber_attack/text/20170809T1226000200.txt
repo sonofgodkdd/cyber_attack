@@ -1,0 +1,20 @@
+Self-Driving Cars Can Be Hacked By Just Putting Stickers On Street Signs
+Wang Wei
+
+Car Hacking is a hot topic, though it's not new for researchers to hack cars. Previously they had demonstrated how to hijack a car remotely, how to disable car's crucial functions like airbags, and even how to steal cars.
+But the latest car hacking trick doesn't require any extra ordinary skills to accomplished. All it takes is a simple sticker onto a sign board to confuse any self-driving car and cause accident.
+Isn't this so dangerous?
+A team of researchers from the University of Washington demonstrated how anyone could print stickers off at home and put them on a few road signs to convince "most" autonomous cars into misidentifying road signs and cause accidents.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the researchers, image recognition system used by most autonomous cars fails to read road sign boards if they are altered by placing stickers or posters over part or the whole road sign board.
+In a research paper, titled "Robust Physical-World Attacks on Machine Learning Models," the researchers demonstrated several ways to disrupt the way autonomous cars read and classify road signs using just a colour printer and a camera.
+By simply adding "Love" and "Hate" graphics onto a "STOP" sign (as shown in the figure), the researchers were able to trick the autonomous car’s image-detecting algorithms into thinking it was just a Speed Limit 45 sign in 100 percent of test cases. 
+The researchers also performed the same exact test on a RIGHT TURN sign and found that the cars wrongly classified it as a STOP sign two-thirds of the time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The researchers did not stop there. They also applied smaller stickers onto a STOP sign to camouflage the visual disturbances and the car identified it as a street art in 100 percent of the time.
+"We [think] that given the similar appearance of warning signs, small perturbations are sufficient to confuse the classifier," the researchers told Car and Driver. "In future work, we plan to explore this hypothesis with targeted classification attacks on other warning signs."
+The sign alterations in all the experiments performed by the researchers were very small that can go unnoticed by humans, but since the camera's software was using an algorithm to understand the image, it interpreted the sign in a profoundly different way.
+This small alteration to the signs could result in cars skipping junctions and potentially crashing into one another.
+The research were carried out by the researchers from the University of Washington, the University of Michigan Ann Arbor, Stony Brook University and the University of California Berkeley, and credit researchers, including Ivan Evtimov, Kevin Eykholt, Earlence Fernandes, Tadayoshi Kohno, Bo Li, Atul Prakash, Amir Rahmati, and Dawn Song.
+Although the researchers did not reveal the manufacturer whose self-driving car they used in their experiments, threats to self-driving cars have once again made us all think of having one in future.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

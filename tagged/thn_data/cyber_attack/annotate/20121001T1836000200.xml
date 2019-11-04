@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Cyber Attacks on Six Major American Banks
+Mohit Kumar
+
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to reports, some of the United States biggest financial institutions  including Wells Fargo, JPMorgan Chase, Bank of America, Citigroup, and Bancorp were hit by a series of cyber attacks last week, by a group claiming Middle Eastern ties, that caused Internet blackouts and delays in online banking.
+The banks suffered denial-of-service attacks, in which hackers barrage a website with traffic until it is overwhelmed and shuts down. Such attacks, while a nuisance, are not technically sophisticated and do not affect a company’s computer network or, in this case, funds or customer bank accounts.
+Hacktivists, calling themselves "Mrt. Izz ad-Din alQasssam Cyber Fighters," attacked Wells Fargo and posted on Pastebin that U.S. Bancorp and PNC Financial Services Group are next. The group said it had attacked the banks in retaliation for an anti-Islam video that mocks the Prophet Muhammad. It also pledged to continue to attack American credit and financial institutions daily, and possibly institutions in France, Israel and Britain, until the video is taken offline. The New York Stock Exchange and Nasdaq were also targeted.
+Frustrated customers of Bank of America, JPMorgan Chase, Citigroup, U.S. Bank, Wells Fargo and PNC, who could not get access to their accounts or pay bills online, were upset because the banks had not explained clearly what was going on.
+Representatives for other banks also confirmed that they had experienced slow Internet performance and intermittent downtime because of an unusually high volume of traffic. Security researchers said the attack methods were too basic to have taken so many US bank sites offline. The hackers appeared to be enlisting volunteers for the attacks with messages on various sites.
+IT Security professionals need to realize that the hackers are doing damage to websites without having to access the corporate servers. They are hitting the site hard without breaking in. A safety barrier must be created and maintained.
+Update: Prolexic Technologies said the distributed denial of service (DDoS) toolkit called itsoknoproblembro was used against some of the banks which included Wells Fargo, U.S. Bank, PNC Bank, Bank of America and JPMorgan Chase.
+The attack signatures are extremely complex and Prolexic has recorded sustained floods peaking at 70 Gbps and more than 30 million pps against some of its customers. Most mitigation providers would struggle to combat DDoS attacks with these characteristics.
+The itsoknoproblembro toolkit includes multiple infrastructure and application-layer attack vectors, such as SYN floods, that can simultaneously attack multiple destination ports and targets, as well as ICMP, UDP and SSL encrypted attack types.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DoS id="D0" start="482" end="490" text=" barrage" TYPE="USP" />
+<DoS id="D1" start="526" end="537" text="overwhelmed" TYPE="SUP" />
+<DoS id="D2" start="541" end="552" text=" shuts down" TYPE="SUP" />
+<DoS id="D3" start="1354" end="1374" text="could not get access" TYPE="USP" />
+<DoS id="D4" start="1561" end="1586" text="slow Internet performance" TYPE="USP" />
+<DoS id="D5" start="1591" end="1612" text="intermittent downtime" TYPE="USP" />
+<DoS id="D6" start="1931" end="1937" text="damage" TYPE="USP" />
+<DoS id="D7" start="1950" end="1974" text="without having to access" TYPE="USP" />
+<DoS id="D8" start="2212" end="2216" text="used" TYPE="USP" />
+<DoS id="D9" start="2407" end="2414" text=" floods" TYPE="USP" />
+<DoS id="D10" start="2462" end="2470" text=" against" TYPE="SUP" />
+<DoS id="D11" start="2695" end="2705" text="SYN floods" TYPE="USP" />
+<DoS id="D12" start="2731" end="2738" text="attack " TYPE="USP" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,19 @@
+1.7 Tbps DDoS Attack — ​Memcached UDP Reflections Set New Record
+Mohit Kumar
+
+The bar has been raised.
+As more amplified attacks were expected following the record-breaking 1.35 Tbps Github DDoS attack, someone has just set a new record after only four days — 1.7 Tbps DDoS attack.
+Network security and monitoring company Arbor Networks claims that its ATLAS global traffic and DDoS threat data system have recorded a 1.7Tbps reflection/amplification attack against one of its unnamed US-based customer's website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Similar to the last week's DDoS attack on GitHub, the massive bandwidth of the latest attack was amplified by a factor of 51,000 using thousands of misconfigured Memcached servers exposed on the Internet.
+Memcached, a popular open source distributed memory caching system, came into news earlier last week when researchers detailed how attackers could abuse it to launch amplification DDoS attack by sending a forged request to the targeted Memcached server on port 11211 using a spoofed IP address that matches the victim's IP.
+A few bytes of the request sent to the vulnerable server can trigger tens of thousands of times bigger response against the targeted IP address, resulting in a powerful DDoS attack.
+Meanwhile, researchers also noted that cybercriminals have started weaponizing the DDoS attacks through vulnerable memcached servers to extort money from victims.
+Following last week's 1.3 Tbps DDoS attack against GitHub, Akamai said its customers have been receiving extortion messages delivered alongside the typically "junk-filled" attack payloads, asking them for 50 XMR (Monero coins), valued at over $15,000.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"While the internet community is coming together to shut down access to the many open memcached servers out there, the sheer number of servers running memcached openly will make this a lasting vulnerability that attackers will exploit," Arbor Networks said in a blog post.
+Reflection/amplification attacks are not new. Attackers have previously used reflection/amplification DDoS attack techniques to exploit flaws in DNS, NTP, SNMP, SSDP, CLDAP, Chargen and other protocols in an attempt to maximize the scale of their cyber attacks.
+However, the latest attack vector involves thousands of misconfigured Memcached servers, many of which are still exposed on the Internet and could be exploited to launch potentially more massive attacks soon against other targets. So expect to see more such attacks in coming days.
+To prevent Memcached servers from being abused as reflectors, we urge users to install a firewall that should provide access to memcached servers only from the local network.
+Administrators should also consider avoiding external traffic to the ports used by memcached (for example 11211 port used by default), and block or rate-limiting UDP or completely disable UDP support if not in use.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

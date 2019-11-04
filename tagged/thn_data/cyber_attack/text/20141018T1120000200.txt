@@ -1,0 +1,24 @@
+Privacy Tools — Tor Browser 4.0 and Tails 1.2 Update Released
+Mohit Kumar
+
+Tor - Privacy oriented encrypted anonymizing service, has announced the launch of its next version of Tor Browser Bundle, Tor version 4.0, which disables SSL3 to prevent POODLE attack and uses new transports that are intended to defeat the Great Firewall of China and other extremely restrictive firewalls.
+Tor is generally thought to be a place where users come online to hide their activities and remain anonymous. Tor is an encrypted anonymizing network considered to be one of the most privacy oriented service and is mostly used by activists, journalists to circumvent online censorship and surveillance efforts by various countries.
+The popularity of the tool can be estimated by the recent announcement of an Internet router called Anonabox which was the highest crowd funded project on Kickstarter this week, generating more than $500,000 in funding since its launch on Monday. Tor privacy router Anonabox is designed to make all your online activity anonymous and conceal your location, but unfortunately the backers have started to pull their funding for the project due to raising questions related to the authenticity of the product. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+DISABLED SSL 3.0 TO PREVENT POODLE ATTACK
+One of the major new features in this new version is that it now disables SSL3 connections to prevent users against the "POODLE" attack. Padding Oracle On Downgraded Legacy Encryption, or POODLE makes it possible for attackers to spy on your internet browser stemming from a decade old encryption standard, known as SSL version 3.0, which is still being used by majority of Internet users.
+"This vulnerability allows the plaintext of secure connections to be calculated by a network attacker," said Bodo Möller of the Google Security Team. "If a client and server both support a version of TLS, the security level offered by SSL 3.0 is still relevant since many clients implement a protocol downgrade dance to work around serve ­side interoperability bugs."
+SUPPORTS FIREFOX 31 ESR
+Tor Browser Bundle, which is now known as only Tor Browser, is based on an ESR (Extended Support Release) version of the Mozilla Firefox project. Firefox version 24 ESR has been updated to version 31 ESR and offers many security fixes, including seven critical vulnerabilities.
+INTERNET CENSORSHIP CIRCUMVENTION
+Another major change in this newly launched Tor series is the browser update that has made it possible for people in internet-censored countries like China to bypass the country's Firewall in order to gain full access to the internet. The censoring of internet access in China is known as the Great Firewall of China.
+"More importantly for censored users who were using 3.6, the 4.0 series also features the addition of three versions of the meek pluggable transport. In fact, we believe that both meek-amazon and meek-azure will work in China today, without the need to obtain bridge addresses," Tor Browser and Tor Performance Developer Mike Perry explained in a blog post.
+But, according to the developers, "the meek transport still needs performance tuning before it matches other more conventional transports," and they plan to work on it.
+DOWNLOAD TOR 4.0 NOW
+Download Tor version 4.0 from here in order to keep yourself updated.
+"This release also features an in-browser updater, and a completely reorganized bundle directory structure to make this updater possible. This means that simply extracting a 4.0 Tor Browser over a 3.6.6 Tor Browser will not work," reads the blog post. "Please also be aware that the security of the updater depends on the specific CA that issued the www.torproject.org HTTPS certificate (Digicert), and so it still must be activated manually through the Help ("?") "about browser" menu option." 
+"Very soon, we will support both strong HTTPS site-specific certificate pinning (ticket #11955) and update package signatures (ticket #13379). Until then, we do not recommend using this updater if you need stronger security and normally verify GPG signatures."
+TAILS VERSION 1.2 RELEASED
+A new version Tails 1.2 has also been released. Tails, also known as 'Amnesiac Incognito Live System', is a free security-focused Debian-based Linux distribution, specially designed and optimized to preserve users' anonymity and privacy.
+The operating system came into limelight when the global surveillance whistleblower Edward Snowden said that he had used it in order to remain Anonymous and keep his communications hidden from the law enforcement authorities.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

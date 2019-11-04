@@ -1,0 +1,22 @@
+Original Author of Petya Ransomware is Back & He Wants to Help NotPetya Victims
+Swati Khandelwal
+
+The author of original Petya ransomware is back.
+After 6 months of silence, the author of the now infamous Petya ransomware appeared today on Twitter to help victims unlock their files encrypted by a new version of Petya, also known as NotPetya.
+"We're back having a look in NotPetya," tweeted Janus, a name Petya creator previously chose for himself from a villain in James Bond. "Maybe it's crackable with our privkey. Please upload the first 1MB of an infected device, that would help."
+This statement made by the Petya author suggests he may have held onto a master decryption key, which if it works for the new variant of Petya infected files, the victims would be able to decrypt their files locked in the recent cyber outcry.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Janus sold Petya as a Ransomware-as-a-Service (RaaS) to other hackers in March 2016, and like any regular ransomware, original Petya was designed to lock victim's computer, then return them when a ransom is paid.
+This means anyone could launch the Petya ransomware attack with just the click of a button, encrypt anyone's system and demand a ransom to unlock it. If the victim pays, Janus gets a cut of the payment. But in December, he went silent.
+However, on Tuesday, the computer systems of the nation's critical infrastructure and corporations’ in Ukraine plus 64 other countries were struck by a global cyber attack, which was similar to the WannaCry outbreak that crippled tens of thousands of systems worldwide.
+Initially, the new variant of Petya ransomware, NotPetya, was blamed for infecting systems worldwide, but later, the NotPetya story took an interesting turn.
+Yesterday, it researchers found that NotPetya is not a ransomware, rather it's a wiper malware that wipes systems outright, destroying all records from the targeted systems.
+NotPetya also uses the NSA's leaked Windows hacking exploit EternalBlue and EternalRomance to rapidly spread within a network, and uses WMIC and PSEXEC tools to remotely execute malware on the machines.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Experts even believe the real attack has been disguised to divert world's attention from a state-sponsored attack to a malware outbreak.
+Petya’s source code has never been leaked, but some researchers are still trying hard to reverse engineer it to find possible solutions.
+Would this Really Help Victims?
+Since Janus is examining the new code and even if his master key succeeds in decrypting victims’ hard drive's master file table (MFT), it won't help much until researchers find a way to repair the MBR, which is wiped off by NotPetya without keeping any copy.
+Tuesday's cyber outbreak is believed to be bigger than WannaCry, causing disasters to many critical infrastructures, including bricking computers at a Ukrainian power company, several banks in Ukraine, and the country's Kyiv Boryspil International Airport.
+The NotPetya virus has also canceled surgeries at two Pittsburgh-area hospitals, hit computers at the pharmaceutical company Merck and the law firm DLA Piper, as well as infected computers at the Dutch shipping company A.P. Moller-Maersk forcing them to shut down some container terminals in seaports from Los Angeles to Mumbai.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

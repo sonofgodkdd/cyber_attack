@@ -1,0 +1,27 @@
+Slack Resets Passwords For Users Who Hadn't Changed It Since 2015 Breach
+Swati Khandelwal
+If you use Slack, a popular cloud-based team collaboration server, and recently received an email from the company about a security incident, don't panic and read this article before taking any action.
+Slack has been sending a "password reset" notification email to all those users who had not yet changed passwords for their Slack accounts since 2015 when the company suffered a massive data breach.
+For those unaware, in 2015, hackers unauthorisedly gained access to one of the company's databases that stored user profile information, including their usernames, email addresses, and hashed passwords.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At that time, attackers also secretly inserted code, probably on the login page, which allowed them to capture plaintext passwords entered by some Slack users during that time.
+However, immediately following the security incident, the company automatically reset passwords for those small number of Slack users whose plaintext passwords were exposed, but asked other affected users to change their passwords manually.
+Keep calm and change your password 😊
+Slack is resetting the passwords for all those users (approximately 1% of total) who hadn't changed their passwords since 2015 when the company experienced a #databreach leaking users' credentialshttps://t.co/k6jSBgloAX
+Check this thread: https://t.co/Fo7QbI9pOv— The Hacker News (@TheHackersNews) July 18, 2019
+Now in its latest statement released today, the company said they learned about a new list of username and password combinations that match with the login credentials of its users who did not change their password after the 2015 data breach.
+"We were recently contacted through our bug bounty program with information about potentially compromised Slack credentials," Slack states.
+"We immediately confirmed that a portion of the email addresses and password combinations were valid, reset those passwords, and explained our actions to the affected users."
+The latest security incident only affects users, who:
+created an account before March 2015,
+have not changed their password since the incident, and
+accounts that do not require logging in via a single-sign-on (SSO) provider.
+The company is not exactly aware of the source of this new leaked plaintext credentials, but suggests it could be the "result of malware attack or password reuse between services."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It is also possible that someone might have successfully cracked hashed passwords that were leaked in the 2015 data breach, even when it was protected using the bcrypt algorithm with a randomly generated salt per-password.
+Late last month, Slack also sent a separate notification to all the affected users informing them about the potential compromise of their credentials without providing any details of the incident, but it seems many users ignored the warning and did not change their passwords voluntarily.
+Therefore, now Slack has automatically reset passwords on affected accounts, that are about 1% of the total registered users, that haven't been updated since 2015 as a precautionary measure, asking them to set a new password using this guide.
+"We have no reason to believe that any of these accounts were compromised, but we believe that this precaution is worth any inconvenience the reset may cause," the company said.
+Besides your changing password, you are also recommended to enable two-factor authentication for your Slack accounts, even if you are not affected.
+Slack is still investigating the latest security incident and promises to share more information as soon as they are available.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

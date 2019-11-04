@@ -1,0 +1,25 @@
+Zero-Day Warning! Ransomware targets Microsoft Office 365 Users
+Swati Khandelwal
+
+If just relying on the security tools of Microsoft Office 365 can protect you from cyber attacks, you are wrong.
+Variants of Cerber Ransomware are now targeting MS Office 365 email users with a massive zero-day attack that has the ability to bypass Office 365's built-in security tools.
+According to a report published by cloud security provider Avanan, the massive zero-day Cerber ransomware attack targeted Microsoft Office 365 users with spam or phishing emails carrying malicious file attachments.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Cerber ransomware is invoked via Macros. Yes, it's hard to believe but even in 2016, a single MS Office document could compromise your system by enabling 'Macros'.
+Locky and Dridex ransomware malware also made use of the malicious Macros to hijack systems. Over $22 Million were pilfered from the UK banks with the Dridex Malware that got triggered via a nasty macro virus.
+You can see a screenshot of the malicious document in the latest malware campaign below, targeting Microsoft Office 365 users:
+While the security firm did not specify the exact number of users possibly hit by the ransomware, Microsoft reported in its first quarter 2016 that there are almost 18.2 Million Office 365 subscribers.
+"While difficult to precisely measure how many users got infected," Avanan estimated that "roughly 57 percent of organizations using Office 365 received at least one copy of the malware into one of their corporate mailboxes during the time of the attack."
+Although Cerber originally emerged in March, the malware campaign targeting Office 365 users began on June 22. However, Microsoft started blocking the malicious file attachment on June 23.
+The Cerber Ransomware not only encrypts user files and displays a ransom note, but also takes over the user's audio system to read out its ransom note informing them that their files were encrypted.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The ransomware encrypts files with AES-256 encryption, asking victims to pay 1.24 Bitcoin (nearly US$810) for the decryption key.
+How to Protect Yourself from Cerber Ransomware
+In order to prevent yourself from the Cerber or any ransomware attack:
+Always keep your system and antivirus up-to-date.
+Regularly backup your files in an external hard-drive.
+Disable Macros in your MS Office programs.
+Always beware of phishing emails, spams, and clicking the malicious attachment.
+You can also use an Intrusion detection system (IDS), for which you can try AlienVault Unified Security Management (USM) that includes an inbuilt IDS with SIEM and real-time threat intelligence to help you quickly detect malware and other threats in your network.
+We have also written a step-by-step tutorial article on How to Protect your Computer from Macro-based Malware, which you can follow to secure yourself.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,23 @@
+Hackers Found Exploiting Oracle WebLogic RCE Flaw to Spread Ransomware
+Mohit Kumar
+
+Taking advantage of newly disclosed and even patched vulnerabilities has become common among cybercriminals, which makes it one of the primary attack vectors for everyday-threats, like crypto-mining, phishing, and ransomware.
+As suspected, a recently-disclosed critical vulnerability in the widely used Oracle WebLogic Server has now been spotted actively being exploited to distribute a never-before-seen ransomware variant, which researchers dubbed "Sodinokibi."
+Last weekend, The Hacker News learned about a critical deserialization remote code execution vulnerability in Oracle WebLogic Server that could allow attackers to remotely run arbitrary commands on the affected servers just by sending a specially crafted HTTP request—without requiring any authorization.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To address this vulnerability (CVE-2019-2725), which affected all versions of the Oracle WebLogic software and was given a severity score of 9.8 out of 10, Oracle rolled out an out-of-band security update on April 26, just a day after the vulnerability was made public and several in-the-wild attacks were observed.
+According to cybersecurity researchers from Cisco Talos' threat research team, an unknown group of hackers has been exploiting this vulnerability since at least April 25 to infect vulnerable servers with a new piece of ransomware malware.
+Sodinokibi is a dangerous ransomware variant which has been designed to encrypt files in a user's directory and then delete shadow copy backups from the system in an effort to prevent victims from recovering their data without paying a ransom.
+No Interaction Required to Deploy Ransomware
+Since attackers are leveraging a remote code execution vulnerability in the WebLogic Server, unlike typical ransomware attacks, deploying the Sodinokibi ransomware requires no user interaction.
+"Historically, most varieties of ransomware have required some form of user interaction, such as a user opening an attachment to an email message, clicking on a malicious link, or running a piece of malware on the device," researchers explain in a blog post.
+"In this case, the attackers simply leveraged the Oracle WebLogic vulnerability, causing the affected server to download a copy of the ransomware from attacker-controlled IP addresses."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once downloaded, the Sodinokibi ransomware encrypts the victim's systems and displays a ransom note demanding up to $2,500 in Bitcoin. The amount doubles to $5,000 if the ransom is not paid within a specified number of days—which may vary from two days to six days.
+Hackers Are Also Installing GandCrab Ransomware
+Researchers also noted that roughly eight hours after deploying Sodinokibi on an infected system, the attackers exploited the same WebLogic Server vulnerability to install another piece of ransomware known as GandCrab (v5.2).
+"We find it strange the attackers would choose to distribute additional, different ransomware on the same target," the researchers say. "Sodinokibi being a new flavor of ransomware, perhaps the attackers felt their earlier attempts had been unsuccessful and were still looking to cash in by distributing Gandcrab."
+Attackers have been exploiting the Oracle WebLogic Server vulnerability in the wild since at least April 17 to distribute cryptocurrency miners and other types of malware.
+WebLogic Server is a popular Java-based multi-tier enterprise application server typically used by businesses to support enterprise apps, which makes it an often target of attackers trying to carry out malicious operations, like running cryptocurrency miners and infecting with ransomware.
+Organizations that use Oracle WebLogic Server should make sure to update their installations to the latest version of the software as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+5.6 Million Federal Employees' Fingerprints Stolen in OPM Hack
+Swati Khandelwal
+
+The OPM Data Breach (Office of Personnel Management) is getting even worse than we thought.
+We already know more than 21 Million current and former federal employees had their personal and highly sensitive private information hijacked in a massive data breach that affected Defense Department's OPM.
+But, now it has been revealed that the hackers have made off a lot more than just names, residential addresses, and social security numbers of the US government employees. And it’s the unique and all time constant identity – The Fingerprints.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+5.6 MILLLLLION Fingerprints Breached
+The US officials on Wednesday admitted that nearly 5.6 Million Fingerprints of its federal employees were also stolen in the massive data breach took place in April this year.
+The OPM, the US government agency that handles all federal employee data, had previously reported that some 1.1 Million Fingerprints were stolen. However, this figure has now been increased to 5.6 Million.
+Let's give it a thought, stolen fingerprints seems to be an even worse scenario than Stolen passwords, as unlike passwords, you can't change your fingerprints. 
+Fingerprints are now frequently used in biometric authentication from smartphones to government checkpoints and background checks. So once stolen, the miscreants can keep on misusing your fingerprint data to do other malicious things for the rest of your life.
+However, federal experts believe that the "ability to misuse fingerprint data is limited… This probability could change over time as technology evolves," OPM's Press Secretary Samuel Schumach said in a statement on Wednesday.
+What's even worse?
+The final number (5.6 Million) isn't confirmed yet, as Schumach noted that an interagency investigation group will "continue to analyze and refine the data as it prepares to mail notification letters to impacted individuals."
+Yes, the OPM has set up an interagency team – which includes members of the FBI, Defense Department, and Homeland Security, among others – to review the potential ways hackers could "misuse fingerprint data now and in the future."
+The Government also ensures that it will provide additional information to the affected individuals if hackers found new ways to misuse their fingerprint data in the future.
+For now, whoever has access to the Goldmine – Stolen OPM data – holds a highly Powerful, unchangeable key.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

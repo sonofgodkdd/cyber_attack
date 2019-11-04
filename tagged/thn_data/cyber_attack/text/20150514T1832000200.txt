@@ -1,0 +1,31 @@
+Venom Vulnerability Exposes Most Data Centers to Cyber Attacks
+Swati Khandelwal
+
+Just after a new security vulnerability surfaced Wednesday, many tech outlets started comparing it with HeartBleed, the serious security glitch uncovered last year that rendered communications with many well-known web services insecure, potentially exposing Millions of plain-text passwords.
+But don’t panic. Though the recent vulnerability has a more terrific name than HeartBleed, it is not going to cause as much danger as HeartBleed did.
+Dubbed VENOM, stands for Virtualized Environment Neglected Operations Manipulation, is a virtual machine security flaw uncovered by security firm CrowdStrike that could expose most of the data centers to malware attacks, but in theory.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yes, the risk of Venom vulnerability is theoretical as there is no real-time exploitation seen yet, while, on the other hand, last year’s HeartBleed bug was practically exploited by hackers unknown number of times, leading to the theft of critical personal information.
+Now let’s know more about Venom:
+Venom (CVE-2015-3456) resides in the virtual floppy drive code used by a several number of computer virtualization platforms that if exploited…
+...could allow an attacker to escape from a guest 'virtual machine' (VM) and gain full control of the operating system hosting them, as well as any other guest VMs running on the same host machine.
+According to CrowdStrike, this roughly decade-old bug was discovered in the open-source virtualization package QEMU, affecting its Virtual Floppy Disk Controller (FDC) that is being used in many modern virtualization platforms and appliances, including Xen, KVM, Oracle's VirtualBox, and the native QEMU client.
+Jason Geffner, a senior security researcher at CrowdStrike who discovered the flaw, warned that the vulnerability affects all the versions of QEMU dated back to 2004, when the virtual floppy controller was introduced at the very first.
+However, Geffner also added that so far, there is no known exploit that could successfully exploit the vulnerability. Venom is critical and disturbing enough to be considered a high-priority bug.
+Successful exploitation of Venom required:
+For successful exploitation, an attacker sitting on the guest virtual machine would need sufficient permissions to get access to the floppy disk controller I/O ports.
+When considering on Linux guest machine, an attacker would need to have either root access or elevated privilege. However on Windows guest, practically anyone would have sufficient permissions to access the FDC.
+However, comparing Venom with Heartbleed is something of no comparison. Where HeartBleed allowed hackers to probe Millions of systems, Venom bug simply would not be exploitable at the same scale.
+Flaws like Venom are typically used in a highly targeted attack such as corporate espionage, cyber warfare or other targeted attacks of these kinds.
+Did venom poison Clouds Services?
+Potentially more concerning are most of the large cloud providers, including Amazon, Oracle, Citrix, and Rackspace, which rely heavily on QEMU-based virtualization are vulnerable to Venom.
+However, the good news is that most of them have resolved the issue, assuring that their customers needn't worry.
+"There is no risk to AWS customer data or instances," Amazon Web Services said in a statement.
+Rackspace also said the flaw does affect a portion of its Cloud Servers, but assured its customers that it has "applied the appropriate patch to our infrastructure and are working with customers to remediate fully this vulnerability."
+Azure cloud service by Microsoft, on the other hand, uses its homemade virtualization hypervisor technology, and, therefore, its customers are not affected by Venom bug.
+Meanwhile, Google also assured that its Cloud Service Platform does not use the vulnerable software, thus was never vulnerable to Venom.
+Patch Now! Prevent yourself
+Both Xen and QEMU have rolled out patches for Venom. If you're running an earlier version of Xen or QEMU, upgrade and apply the patch.
+Note: All versions of Red Hat Enterprise Linux, which includes QEMU, are vulnerable to Venom. Red Hat recommend its users to update their system using the commands, "yum update" or "yum update qemu-kvm."
+Once done, you must "power off" all your guests Virtual Machines for the update to take place, and then restart it to be on the safer side. But remember, only restarting without power off the guest operating system is not enough for the administrators because it would still use the old QEMU binary.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

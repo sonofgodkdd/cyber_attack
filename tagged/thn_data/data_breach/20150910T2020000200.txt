@@ -1,0 +1,30 @@
+11 Million Ashley Madison Passwords Cracked In Just 10 Days
+Mohit Kumar
+
+Last month, when hackers leaked nearly 100 gigabytes of sensitive data belonging to the popular online casual sex and marriage affair website 'Ashley Madison', there was at least one thing in favor of 37 Million cheaters that their Passwords were encrypted.
+But, the never ending saga of Ashley Madison hack could now definitely hit the cheaters hard, because a group of crazy Password Cracking Group, which calls itself CynoSure Prime, has cracked more than 11 Million user passwords just in the past 10 days, not years.
+Yes, the hashed passwords that were previously thought to be cryptographically protected using Bcrypt, have now been cracked successfully.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bcrypt is a cryptographic algorithm that makes the hashing process so slow that it would literally take centuries to brute-force all of the Ashley Madison account passwords.
+How do they Crack Passwords?
+The Password cracking team identified a weakness after reviewing the leaked data, which included users' hashed passwords, executive e-mails and website source code.
+During website's source code audit and analysis, the team found that some of the login tokens used by the website were protected using MD5 (a weak and fast hashing algorithm).
+So, instead of cracking the slow Bcrypt algorithm, they simply brute-forced the MD5 tokens of respective accounts, which allowed the Password Cracking team to effectively obtain 11.2 Million passwords in plaintext format.
+Also Read: Best Password Manager — For Windows, Linux, Mac, Android, iOS and Enterprise
+However, this approach doesn't allow to crack all 37 million Ashley Madison passwords, because the notoriously weak MD5 hashing algorithm was only introduced on June 2012.
+Therefore, researchers estimated that nearly 15 million Ashley Madison accounts could be affected, out of which 11.4 Million are already cracked by the team’s password-cracking software.
+Change Your Ashley Madison Password Now!
+Researchers also claimed that they hope to crack the remaining 4 Million improperly secured account passwords within next 7-8 days.
+Ashley Madison users are advised to change their account passwords if they haven't already changed them.
+Moreover, the users need to follow some standard prevention practice, such as:
+Do not use the same login credentials on other websites, like eBay or PayPal, as hackers could break into that account using the cracked password and the already dumped email addresses.
+Use strong and different passwords on different sites.
+Use a reputed and Best Password Manager to manage all your passwords.
+Further Related Reading:
+Ashley Madison Hackers Released All the Stolen Data Online
+Hackers Leak 20GB Data Dump, Including CEO's Emails
+Ashley Madison Hacker – An Insider Woman Employee?
+List of Top 10 Big Tech Companies where Ashley Madison is very Popular
+Disgusting! Ashley Madison was Building an App – 'What's your Wife Worth?'
+Lessons We Learned From Ashley Madison Data Breach
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

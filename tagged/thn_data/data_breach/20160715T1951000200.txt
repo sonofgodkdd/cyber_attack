@@ -1,0 +1,22 @@
+Ubuntu Linux Forum Hacked! Once Again
+Swati Khandelwal
+
+No software is immune to being Hacked! Not even Linux.
+The Ubuntu online forums have been hacked, and data belonging to over 2 Million users have been compromised, Canonical just announced.
+The compromised users’ data include their IP addresses, usernames, and email addresses, according to the company, who failed to apply a patch to secure its users' data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, users should keep in mind that the hack did not affect the Ubuntu operating system, or it was not due to a vulnerability or weakness in the OS.
+Instead, the breach only affected the Ubuntu online forums that people use to discuss the OS, said BetaNews, who initially reported the news.
+"There has been a security breach on the Ubuntu Forums site," Jane Silber, Chief Executive Officer at Canonical wrote in a blog post. "We take information security and user privacy very seriously, follow a strict set of security practices and this incident has triggered a thorough investigation."
+"Corrective action has been taken, and full service of the Forums has been restored. In the interest of transparency, we’d like to share the details of the breach and what steps have been taken. We apologize for the breach and ensuing inconvenience."
+After deeply investigating the incident, the company came to know that it left a known SQLi (SQL injection) vulnerability unpatched in the Forumrunner add-on in its Forums that exposed its users data.
+Sounds really awful. This again proves that the Weakest Link in the security is still – Humans.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The SQL injection (SQLi) attack is an attack used to inject malicious SQL commands (malicious payloads) through the input data from the client to the application in order to breach the database and get access to the user's personal data.
+The vulnerability is one of the oldest, but most powerful and most dangerous flaw that could affect any website or web application that uses an SQL-based database.
+According to Silber, here’s what the attackers were able to access:
+The attackers were able to inject formatted SQL to the Forums database on the Forums database servers, which gave them access to read from any table.
+The attackers then used the above access to download portions of the ‘user’ table containing usernames, email addresses, and IP addresses for 2 Million users.
+Since the passwords stored in this table were random strings (which were Hashed and Salted) as the Ubuntu Forums rely on Ubuntu Single Sign On for logins, the company said that no active passwords were accessed by the attackers.
+Although Canonical responded fast and had since patched the flaw, it is still disappointing that the firm's silly mistake to not installing a patch for a known bug caused exposure of its users personal data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

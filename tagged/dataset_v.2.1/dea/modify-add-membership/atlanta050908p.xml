@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+May 9, 2008
+Contact: Chuvalo Truesdell
+404-893-7124
+Durham Man Receives More Than 21 Years in Prison for Drug Distribution
+MAY 9  -- (New Bern, NC) - United States Attorney George E.B. Holding announced that in federal court, on May 7, 2008, Chief United States District Judge Louise W. Flanagan sentenced Lee Anthony BRAGGS, 39, of Durham, North Carolina, to 254 months imprisonment and five years of supervised release following his term of confinement.
+On June 18, 2007, BRAGGS pleaded guilty to Count One of the Indictment, which charged him with conspiring with others to distribute and to possess with intent to distribute more than five kilograms of cocaine, in violation of Title 21, United States Code, Section 846.
+The defendant is part of an Organized Crime Drug Enforcement Task Force Operation (OCDETF) investigation entitled "Operation Monarch." The investigation found that BRAGGS was the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area. Drug Enforcement Administration agents utilized a Title III wiretap in the investigation. During the Title III investigation, agents intercepted coded conversations indicating cocaine would be delivered to x-Slave Fashions, a clothing store located in Wilmington, North Carolina.
+Rodney G. Benson, Special Agent in Charge of the DEA Atlanta Field Division stated, "This investigation revealed that members of this organization were distributing quantities of cocaine and crack in the Wilmington, North Carolina area. These substances clearly destroy lives. Because of the dedicated efforts of our federal state and local law enforcement counterparts, the streets of Wilmington are a much safer place today."
+"The significant amount of prison time Mr. Braggs received correctly reflects the significant amount of cocaine distribution that Mr. Braggs oversaw as head of the drug ring. Lengthy sentences such as this, remove these dangerous criminals from our communities and send a clear message to the people involved in the illegal distribution of drugs: We will continue to prosecute these crimes and continue to ask for significant prison time," stated George Holding.
+This case was investigated by the Drug Enforcement Administration, the Federal Bureau of Investigation, the North Carolina State Bureau of Investigation, and the Wilmington Police Department. Assistant United States Attorney Michael G. James and Special Assistant United States Attorney Timothy Severo are the assigned prosecutors. Mr. Severo is a prosecutor with the New Hanover District Attorney's Office. District Attorney Ben David has assigned him to the United States Attorney's Office to prosecute OCDETF criminal matters. This was made possible by a grant funded by the Governor's Crime Commission and the New Hanover County Commissioner's Office.
+SAC Benson encourages parents, along with their children, to educate themselves about the dangers of drugs by visiting DEA's interactive website at www.justhinktwice.com
+]]></TEXT>
+<TAGS>
+<person id="p0" start="22" end="39" text="Chuvalo Truesdell" TYPE="NAM" />
+<person id="p1" start="53" end="63" text="Durham Man" TYPE="BAR" />
+<person id="p2" start="151" end="193" text="United States Attorney George E.B. Holding" TYPE="NAM" />
+<person id="p3" start="151" end="173" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p4" start="243" end="296" text="Chief United States District Judge Louise W. Flanagan" TYPE="NAM" />
+<person id="p5" start="243" end="277" text="Chief United States District Judge" TYPE="NOMPRE" />
+<person id="p6" start="307" end="356" text="Lee Anthony BRAGGS, 39, of Durham, North Carolina" TYPE="NAM" />
+<person id="p7" start="432" end="435" text="his" TYPE="PRO" />
+<person id="p8" start="475" end="481" text="BRAGGS" TYPE="NAM" />
+<person id="p9" start="543" end="546" text="him" TYPE="PRO" />
+<person id="p10" start="568" end="574" text="others" TYPE="HLS" />
+<person id="p11" start="726" end="739" text="The defendant" TYPE="NOM" />
+<person id="p12" start="890" end="896" text="BRAGGS" TYPE="NAM" />
+<person id="p13" start="901" end="1061" text="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" TYPE="NOM" />
+<person id="p14" start="1063" end="1101" text="Drug Enforcement Administration agents" TYPE="BAR" />
+<person id="p15" start="1189" end="1195" text="agents" TYPE="BAR" />
+<person id="p16" start="1343" end="1418" text="Rodney G. Benson, Special Agent in Charge of the DEA Atlanta Field Division" TYPE="APP" />
+<person id="p17" start="1343" end="1359" text="Rodney G. Benson" TYPE="NAM" />
+<person id="p18" start="1361" end="1418" text="Special Agent in Charge of the DEA Atlanta Field Division" TYPE="BAR" />
+<person id="p19" start="1461" end="1489" text="members of this organization" TYPE="BAR" />
+<person id="p20" start="1810" end="1820" text="Mr. Braggs" TYPE="NAM" />
+<person id="p21" start="1810" end="1813" text="Mr." TYPE="NOMPRE" />
+<person id="p22" start="1901" end="1911" text="Mr. Braggs" TYPE="NAM" />
+<person id="p23" start="1901" end="1904" text="Mr." TYPE="NOMPRE" />
+<person id="p24" start="1923" end="1944" text="head of the drug ring" TYPE="BAR" />
+<person id="p25" start="1985" end="2010" text="these dangerous criminals" TYPE="NOM" />
+<person id="p26" start="2060" end="2116" text="the people involved in the illegal distribution of drugs" TYPE="NOM" />
+<person id="p27" start="2218" end="2232" text="George Holding" TYPE="NAM" />
+<person id="p29" start="2426" end="2475" text="Assistant United States Attorney Michael G. James" TYPE="NAM" />
+<person id="p30" start="2426" end="2458" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<person id="p31" start="2480" end="2535" text="Special Assistant United States Attorney Timothy Severo" TYPE="NAM" />
+<person id="p32" start="2480" end="2520" text="Special Assistant United States Attorney" TYPE="NOMPRE" />
+<person id="p33" start="2540" end="2564" text="the assigned prosecutors" TYPE="NOM" />
+<person id="p34" start="2566" end="2576" text="Mr. Severo" TYPE="NAM" />
+<person id="p35" start="2566" end="2569" text="Mr." TYPE="NOMPRE" />
+<person id="p36" start="2580" end="2640" text="a prosecutor with the New Hanover District Attorney's Office" TYPE="NOM" />
+<person id="p37" start="2598" end="2631" text="the New Hanover District Attorney" TYPE="NOM" />
+<person id="p38" start="2642" end="2669" text="District Attorney Ben David" TYPE="NAM" />
+<person id="p39" start="2642" end="2659" text="District Attorney" TYPE="NOMPRE" />
+<person id="p40" start="2683" end="2686" text="him" TYPE="PRO" />
+<person id="p41" start="2690" end="2716" text="the United States Attorney" TYPE="NOM" />
+<person id="p42" start="2808" end="2820" text="the Governor" TYPE="NOM" />
+<person id="p43" start="2844" end="2879" text="the New Hanover County Commissioner" TYPE="NOM" />
+<person id="p44" start="2890" end="2900" text="SAC Benson" TYPE="NAM" />
+<person id="p45" start="2890" end="2893" text="SAC" TYPE="NOMPRE" />
+<person id="p46" start="2912" end="2919" text="parents" TYPE="BAR" />
+<person id="p47" start="2932" end="2946" text="their children" TYPE="BAR" />
+<person id="p48" start="2932" end="2937" text="their" TYPE="PRO" />
+<person id="p49" start="2959" end="2969" text="themselves" TYPE="PRO" />
+<organization id="o0" start="212" end="225" text="federal court" TYPE="BAR" />
+<organization id="o1" start="754" end="815" text="Organized Crime Drug Enforcement Task Force Operation (OCDETF" TYPE="NAMPRE" />
+<organization id="o2" start="809" end="815" text="OCDETF" TYPE="NAM" />
+<organization id="o3" start="915" end="1061" text="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" TYPE="NOM" />
+<organization id="o4" start="931" end="935" text="that" TYPE="PRO" />
+<organization id="o5" start="1063" end="1094" text="Drug Enforcement Administration" TYPE="NAMPRE" />
+<organization id="o6" start="1388" end="1418" text="the DEA Atlanta Field Division" TYPE="NAM" />
+<organization id="o7" start="1472" end="1489" text="this organization" TYPE="NOM" />
+<organization id="o8" start="1656" end="1712" text="our federal state and local law enforcement counterparts" TYPE="BAR" />
+<organization id="o10" start="1656" end="1659" text="our" TYPE="PRO" />
+<organization id="o11" start="1931" end="1944" text="the drug ring" TYPE="NOM" />
+<organization id="o12" start="2264" end="2299" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o13" start="2301" end="2336" text="the Federal Bureau of Investigation" TYPE="NAM" />
+<organization id="o14" start="2338" end="2386" text="the North Carolina State Bureau of Investigation" TYPE="NAM" />
+<organization id="o15" start="2392" end="2424" text="the Wilmington Police Department" TYPE="NAM" />
+<organization id="o16" start="2598" end="2640" text="the New Hanover District Attorney's Office" TYPE="NOM" />
+<organization id="o17" start="2690" end="2725" text="the United States Attorney's Office" TYPE="NOM" />
+<organization id="o18" start="2739" end="2745" text="OCDETF" TYPE="NAMPRE" />
+<organization id="o19" start="2808" end="2839" text="the Governor's Crime Commission" TYPE="NOM" />
+<organization id="o20" start="2844" end="2888" text="the New Hanover County Commissioner's Office" TYPE="NOM" />
+<organization id="o21" start="3009" end="3012" text="DEA" TYPE="NAM" />
+<organization id="o22" start="263" end="271" text="District" TYPE="NOMPRE" />
+<organization id="o23" start="2614" end="2622" text="District" TYPE="NOMPRE" />
+<organization id="o24" start="2642" end="2650" text="District" TYPE="NOMPRE" />
+<geographical-political id="g0" start="53" end="59" text="Durham" TYPE="NAMPRE" />
+<geographical-political id="g1" start="135" end="147" text="New Bern, NC" TYPE="NAM" />
+<geographical-political id="g2" start="145" end="147" text="NC" TYPE="NAM" />
+<geographical-political id="g3" start="151" end="164" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="249" end="262" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g6" start="334" end="356" text="Durham, North Carolina" TYPE="NAM" />
+<geographical-political id="g7" start="342" end="356" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g8" start="693" end="706" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g9" start="1004" end="1020" text="Atlanta, Georgia" TYPE="NAM" />
+<geographical-political id="g10" start="1013" end="1020" text="Georgia" TYPE="NAM" />
+<geographical-political id="g11" start="1029" end="1055" text="Wilmington, North Carolina" TYPE="NAMPRE" />
+<geographical-political id="g12" start="1041" end="1055" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g13" start="1315" end="1341" text="Wilmington, North Carolina" TYPE="NAM" />
+<geographical-political id="g14" start="1327" end="1341" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g15" start="1547" end="1573" text="Wilmington, North Carolina" TYPE="NAM" />
+<geographical-political id="g16" start="1559" end="1573" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g17" start="1729" end="1739" text="Wilmington" TYPE="NAM" />
+<geographical-political id="g18" start="2016" end="2031" text="our communities" TYPE="BAR" />
+<geographical-political id="g19" start="2016" end="2019" text="our" TYPE="PRO" />
+<geographical-political id="g20" start="2118" end="2120" text="We" TYPE="PRO" />
+<geographical-political id="g21" start="2436" end="2449" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g22" start="2498" end="2511" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g24" start="2602" end="2613" text="New Hanover" TYPE="NAMPRE" />
+<geographical-political id="g26" start="2694" end="2707" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g27" start="2848" end="2866" text="New Hanover County" TYPE="NAMPRE" />
+<location id="l0" start="1025" end="1061" text="the Wilmington, North Carolina, area" TYPE="NOM" />
+<location id="l1" start="1543" end="1578" text="the Wilmington, North Carolina area" TYPE="NOM" />
+<falicity id="f0" start="95" end="101" text="Prison" TYPE="BAR" />
+<falicity id="f1" start="1269" end="1341" text="x-Slave Fashions, a clothing store located in Wilmington, North Carolina" TYPE="APP" />
+<falicity id="f2" start="1269" end="1285" text="x-Slave Fashions" TYPE="NAM" />
+<falicity id="f3" start="1287" end="1341" text="a clothing store located in Wilmington, North Carolina" TYPE="NOM" />
+<falicity id="f4" start="1714" end="1739" text="the streets of Wilmington" TYPE="NOM" />
+<falicity id="f5" start="1798" end="1804" text="prison" TYPE="NOMPRE" />
+<falicity id="f6" start="2197" end="2203" text="prison" TYPE="NOMPRE" />
+<head id="h0" start="22" end="39" text="Chuvalo Truesdell" />
+<head id="h1" start="60" end="63" text="Man" />
+<head id="h2" start="53" end="59" text="Durham" />
+<head id="h3" start="95" end="101" text="Prison" />
+<head id="h4" start="135" end="143" text="New Bern" />
+<head id="h5" start="145" end="147" text="NC" />
+<head id="h6" start="174" end="193" text="George E.B. Holding" />
+<head id="h7" start="165" end="173" text="Attorney" />
+<head id="h8" start="151" end="164" text="United States" />
+<head id="h9" start="220" end="225" text="court" />
+<head id="h10" start="278" end="296" text="Louise W. Flanagan" />
+<head id="h11" start="272" end="277" text="Judge" />
+<head id="h12" start="263" end="271" text="District" />
+<head id="h13" start="249" end="262" text="United States" />
+<head id="h14" start="307" end="325" text="Lee Anthony BRAGGS" />
+<head id="h15" start="334" end="340" text="Durham" />
+<head id="h16" start="342" end="356" text="North Carolina" />
+<head id="h17" start="432" end="435" text="his" />
+<head id="h18" start="475" end="481" text="BRAGGS" />
+<head id="h19" start="543" end="546" text="him" />
+<head id="h20" start="568" end="574" text="others" />
+<head id="h21" start="693" end="706" text="United States" />
+<head id="h22" start="730" end="739" text="defendant" />
+<head id="h23" start="754" end="807" text="Organized Crime Drug Enforcement Task Force Operation" />
+<head id="h24" start="809" end="815" text="OCDETF" />
+<head id="h25" start="890" end="896" text="BRAGGS" />
+<head id="h26" start="905" end="911" text="leader" />
+<head id="h27" start="918" end="930" text="organization" />
+<head id="h28" start="931" end="935" text="that" />
+<head id="h29" start="1004" end="1011" text="Atlanta" />
+<head id="h30" start="1013" end="1020" text="Georgia" />
+<head id="h31" start="1057" end="1061" text="area" />
+<head id="h32" start="1029" end="1039" text="Wilmington" />
+<head id="h33" start="1041" end="1055" text="North Carolina" />
+<head id="h34" start="1095" end="1101" text="agents" />
+<head id="h35" start="1063" end="1094" text="Drug Enforcement Administration" />
+<head id="h36" start="1189" end="1195" text="agents" />
+<head id="h37" start="1269" end="1285" text="x-Slave Fashions" />
+<head id="h38" start="1298" end="1303" text="store" />
+<head id="h39" start="1315" end="1325" text="Wilmington" />
+<head id="h40" start="1327" end="1341" text="North Carolina" />
+<head id="h41" start="1343" end="1359" text="Rodney G. Benson" />
+<head id="h43" start="1369" end="1374" text="Agent" />
+<head id="h44" start="1392" end="1418" text="DEA Atlanta Field Division" />
+<head id="h45" start="1461" end="1468" text="members" />
+<head id="h46" start="1477" end="1489" text="organization" />
+<head id="h47" start="1574" end="1578" text="area" />
+<head id="h48" start="1547" end="1557" text="Wilmington" />
+<head id="h49" start="1559" end="1573" text="North Carolina" />
+<head id="h50" start="1700" end="1712" text="counterparts" />
+<head id="h52" start="1656" end="1659" text="our" />
+<head id="h53" start="1718" end="1725" text="streets" />
+<head id="h54" start="1729" end="1739" text="Wilmington" />
+<head id="h56" start="1798" end="1804" text="prison" />
+<head id="h57" start="1814" end="1820" text="Braggs" />
+<head id="h58" start="1810" end="1813" text="Mr." />
+<head id="h59" start="1905" end="1911" text="Braggs" />
+<head id="h60" start="1901" end="1904" text="Mr." />
+<head id="h61" start="1923" end="1927" text="head" />
+<head id="h62" start="1940" end="1944" text="ring" />
+<head id="h63" start="2001" end="2010" text="criminals" />
+<head id="h64" start="2020" end="2031" text="communities" />
+<head id="h65" start="2016" end="2019" text="our" />
+<head id="h42" start="2064" end="2070" text="people" />
+<head id="h66" start="2118" end="2120" text="We" />
+<head id="h67" start="2197" end="2203" text="prison" />
+<head id="h68" start="2218" end="2232" text="George Holding" />
+<head id="h69" start="2268" end="2299" text="Drug Enforcement Administration" />
+<head id="h70" start="2305" end="2336" text="Federal Bureau of Investigation" />
+<head id="h71" start="2342" end="2386" text="North Carolina State Bureau of Investigation" />
+<head id="h72" start="2396" end="2424" text="Wilmington Police Department" />
+<head id="h73" start="2459" end="2475" text="Michael G. James" />
+<head id="h74" start="2450" end="2458" text="Attorney" />
+<head id="h75" start="2436" end="2449" text="United States" />
+<head id="h76" start="2521" end="2535" text="Timothy Severo" />
+<head id="h77" start="2512" end="2520" text="Attorney" />
+<head id="h78" start="2498" end="2511" text="United States" />
+<head id="h79" start="2553" end="2564" text="prosecutors" />
+<head id="h80" start="2570" end="2576" text="Severo" />
+<head id="h81" start="2566" end="2569" text="Mr." />
+<head id="h82" start="2582" end="2592" text="prosecutor" />
+<head id="h83" start="2634" end="2640" text="Office" />
+<head id="h84" start="2623" end="2631" text="Attorney" />
+<head id="h85" start="2614" end="2622" text="District" />
+<head id="h86" start="2602" end="2613" text="New Hanover" />
+<head id="h87" start="2660" end="2669" text="Ben David" />
+<head id="h88" start="2651" end="2659" text="Attorney" />
+<head id="h89" start="2642" end="2650" text="District" />
+<head id="h90" start="2683" end="2686" text="him" />
+<head id="h91" start="2719" end="2725" text="Office" />
+<head id="h92" start="2708" end="2716" text="Attorney" />
+<head id="h93" start="2694" end="2707" text="United States" />
+<head id="h94" start="2739" end="2745" text="OCDETF" />
+<head id="h95" start="2829" end="2839" text="Commission" />
+<head id="h96" start="2812" end="2820" text="Governor" />
+<head id="h97" start="2882" end="2888" text="Office" />
+<head id="h98" start="2867" end="2879" text="Commissioner" />
+<head id="h99" start="2848" end="2866" text="New Hanover County" />
+<head id="h100" start="2894" end="2900" text="Benson" />
+<head id="h101" start="2890" end="2893" text="SAC" />
+<head id="h102" start="2912" end="2919" text="parents" />
+<head id="h103" start="2938" end="2946" text="children" />
+<head id="h104" start="2932" end="2937" text="their" />
+<head id="h105" start="2959" end="2969" text="themselves" />
+<head id="h106" start="3009" end="3012" text="DEA" />
+<name id="n0" start="22" end="39" text="Chuvalo Truesdell" />
+<name id="n1" start="53" end="59" text="Durham" />
+<name id="n2" start="135" end="143" text="New Bern" />
+<name id="n3" start="145" end="147" text="NC" />
+<name id="n4" start="174" end="193" text="George E.B. Holding" />
+<name id="n5" start="151" end="164" text="United States" />
+<name id="n6" start="278" end="296" text="Louise W. Flanagan" />
+<name id="n7" start="249" end="262" text="United States" />
+<name id="n8" start="307" end="325" text="Lee Anthony BRAGGS" />
+<name id="n9" start="334" end="340" text="Durham" />
+<name id="n10" start="342" end="356" text="North Carolina" />
+<name id="n11" start="475" end="481" text="BRAGGS" />
+<name id="n12" start="693" end="706" text="United States" />
+<name id="n13" start="754" end="807" text="Organized Crime Drug Enforcement Task Force Operation" />
+<name id="n14" start="809" end="815" text="OCDETF" />
+<name id="n15" start="890" end="896" text="BRAGGS" />
+<name id="n16" start="1004" end="1011" text="Atlanta" />
+<name id="n17" start="1013" end="1020" text="Georgia" />
+<name id="n18" start="1029" end="1039" text="Wilmington" />
+<name id="n19" start="1041" end="1055" text="North Carolina" />
+<name id="n20" start="1063" end="1094" text="Drug Enforcement Administration" />
+<name id="n21" start="1269" end="1285" text="x-Slave Fashions" />
+<name id="n22" start="1315" end="1325" text="Wilmington" />
+<name id="n23" start="1327" end="1341" text="North Carolina" />
+<name id="n24" start="1343" end="1359" text="Rodney G. Benson" />
+<name id="n25" start="1392" end="1418" text="DEA Atlanta Field Division" />
+<name id="n26" start="1547" end="1557" text="Wilmington" />
+<name id="n27" start="1559" end="1573" text="North Carolina" />
+<name id="n28" start="1729" end="1739" text="Wilmington" />
+<name id="n29" start="1814" end="1820" text="Braggs" />
+<name id="n30" start="1905" end="1911" text="Braggs" />
+<name id="n31" start="2218" end="2232" text="George Holding" />
+<name id="n32" start="2268" end="2299" text="Drug Enforcement Administration" />
+<name id="n33" start="2305" end="2336" text="Federal Bureau of Investigation" />
+<name id="n34" start="2342" end="2386" text="North Carolina State Bureau of Investigation" />
+<name id="n35" start="2396" end="2424" text="Wilmington Police Department" />
+<name id="n36" start="2459" end="2475" text="Michael G. James" />
+<name id="n37" start="2436" end="2449" text="United States" />
+<name id="n38" start="2521" end="2535" text="Timothy Severo" />
+<name id="n39" start="2498" end="2511" text="United States" />
+<name id="n40" start="2570" end="2576" text="Severo" />
+<name id="n41" start="2602" end="2613" text="New Hanover" />
+<name id="n42" start="2660" end="2669" text="Ben David" />
+<name id="n44" start="2694" end="2707" text="United States" />
+<name id="n45" start="2739" end="2745" text="OCDETF" />
+<name id="n46" start="2848" end="2866" text="New Hanover County" />
+<name id="n47" start="2894" end="2900" text="Benson" />
+<name id="n48" start="3009" end="3012" text="DEA" />
+<employment-mention id="e0" start="151" end="173" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="243" end="277" text="Chief United States District Judge" TYPE="PreMod" />
+<employment-mention id="e6" start="2426" end="2458" text="Assistant United States Attorney" TYPE="PreMod" />
+<employment-mention id="e7" start="2480" end="2520" text="Special Assistant United States Attorney" TYPE="PreMod" />
+<employment-mention id="e9" start="2598" end="2631" text="the New Hanover District Attorney" TYPE="PreMod" />
+<employment-mention id="e12" start="2690" end="2716" text="the United States Attorney" TYPE="PreMod" />
+<employment-mention id="e14" start="2844" end="2879" text="the New Hanover County Commissioner" TYPE="PreMod" />
+<CRRE id="C0" start="53" end="63" text="Durham Man" TYPE="PreMod" />
+<CRRE id="C1" start="307" end="356" text="Lee Anthony BRAGGS, 39, of Durham, North Carolina" TYPE="Preposition" />
+<M id="M0" start="2598" end="2640" text="the New Hanover District Attorney's Office" TYPE="Possessive" />
+<M id="M1" start="2690" end="2725" text="the United States Attorney's Office" TYPE="Possessive" />
+<M id="M2" start="2808" end="2839" text="the Governor's Crime Commission" TYPE="Possessive" />
+<M id="M3" start="2844" end="2888" text="the New Hanover County Commissioner's Office" TYPE="Possessive" />
+<M id="M4" start="243" end="277" text="Chief United States District Judge" TYPE="PreMod" />
+<M id="M5" start="1063" end="1101" text="Drug Enforcement Administration agents" TYPE="PreMod" />
+<M id="M6" start="1361" end="1418" text="Special Agent in Charge of the DEA Atlanta Field Division" TYPE="Preposition" />
+<M id="M7" start="901" end="1061" text="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" TYPE="Preposition" />
+<M id="M8" start="2598" end="2631" text="the New Hanover District Attorney" TYPE="PreMod" />
+<M id="M9" start="2580" end="2640" text="a prosecutor with the New Hanover District Attorney's Office" TYPE="Preposition" />
+<M id="M10" start="2642" end="2659" text="District Attorney" TYPE="PreMod" />
+<M id="M11" start="2642" end="2762" text="District Attorney Ben David has assigned him to the United States Attorney's Office to prosecute OCDETF criminal matters" TYPE="Other" />
+<entity_link id="en0" fromID="p3" fromText="United States Attorney" toID="p2" toText="United States Attorney George E.B. Holding" />
+<entity_link id="en1" fromID="p5" fromText="Chief United States District Judge" toID="p4" toText="Chief United States District Judge Louise W. Flanagan" />
+<entity_link id="en2" fromID="g5" fromText="United States" toID="g3" toText="United States" />
+<entity_link id="en3" fromID="g6" fromText="Durham, North Carolina" toID="g0" toText="Durham" />
+<entity_link id="en4" fromID="g7" fromText="North Carolina" toID="g2" toText="NC" />
+<entity_link id="en5" fromID="p6" fromText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" toID="p1" toText="Durham Man" />
+<entity_link id="en6" fromID="p7" fromText="his" toID="p6" toText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" />
+<entity_link id="en7" fromID="p8" fromText="BRAGGS" toID="p6" toText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" />
+<entity_link id="en8" fromID="p9" fromText="him" toID="p8" toText="BRAGGS" />
+<entity_link id="en9" fromID="g8" fromText="United States" toID="g5" toText="United States" />
+<entity_link id="en10" fromID="p11" fromText="The defendant" toID="p8" toText="BRAGGS" />
+<entity_link id="en11" fromID="o2" fromText="OCDETF" toID="o1" toText="Organized Crime Drug Enforcement Task Force Operation (OCDETF" />
+<entity_link id="en12" fromID="p13" fromText="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" toID="p12" toText="BRAGGS" />
+<entity_link id="en13" fromID="o4" fromText="that" toID="o3" toText="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" />
+<entity_link id="en14" fromID="g12" fromText="North Carolina" toID="g7" toText="North Carolina" />
+<entity_link id="en15" fromID="p15" fromText="agents" toID="p14" toText="Drug Enforcement Administration agents" />
+<entity_link id="en16" fromID="f2" fromText="x-Slave Fashions" toID="f1" toText="x-Slave Fashions, a clothing store located in Wilmington, North Carolina" />
+<entity_link id="en17" fromID="f3" fromText="a clothing store located in Wilmington, North Carolina" toID="f2" toText="x-Slave Fashions" />
+<entity_link id="en18" fromID="g13" fromText="Wilmington, North Carolina" toID="g11" toText="Wilmington, North Carolina" />
+<entity_link id="en19" fromID="g14" fromText="North Carolina" toID="g12" toText="North Carolina" />
+<entity_link id="en20" fromID="p17" fromText="Rodney G. Benson" toID="p16" toText="Rodney G. Benson, Special Agent in Charge of the DEA Atlanta Field Division" />
+<entity_link id="en21" fromID="p18" fromText="Special Agent in Charge of the DEA Atlanta Field Division" toID="p17" toText="Rodney G. Benson" />
+<entity_link id="en22" fromID="o7" fromText="this organization" toID="o3" toText="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" />
+<entity_link id="en23" fromID="p12" fromText="BRAGGS" toID="p8" toText="BRAGGS" />
+<entity_link id="en24" fromID="l1" fromText="the Wilmington, North Carolina area" toID="l0" toText="the Wilmington, North Carolina, area" />
+<entity_link id="en25" fromID="g15" fromText="Wilmington, North Carolina" toID="g13" toText="Wilmington, North Carolina" />
+<entity_link id="en26" fromID="g16" fromText="North Carolina" toID="g14" toText="North Carolina" />
+<entity_link id="en27" fromID="o10" fromText="our" toID="o6" toText="the DEA Atlanta Field Division" />
+<entity_link id="en28" fromID="g17" fromText="Wilmington" toID="g15" toText="Wilmington, North Carolina" />
+<entity_link id="en29" fromID="p20" fromText="Mr. Braggs" toID="p12" toText="BRAGGS" />
+<entity_link id="en30" fromID="p21" fromText="Mr." toID="p20" toText="Mr. Braggs" />
+<entity_link id="en31" fromID="p22" fromText="Mr. Braggs" toID="p20" toText="Mr. Braggs" />
+<entity_link id="en32" fromID="p23" fromText="Mr." toID="p22" toText="Mr. Braggs" />
+<entity_link id="en33" fromID="p24" fromText="head of the drug ring" toID="p22" toText="Mr. Braggs" />
+<entity_link id="en34" fromID="o11" fromText="the drug ring" toID="o3" toText="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" />
+<entity_link id="en35" fromID="g19" fromText="our" toID="g18" toText="our communities" />
+<entity_link id="en36" fromID="g18" fromText="our communities" toID="g8" toText="United States" />
+<entity_link id="en37" fromID="g20" fromText="We" toID="g3" toText="United States" />
+<entity_link id="en38" fromID="f6" fromText="prison" toID="f5" toText="prison" />
+<entity_link id="en39" fromID="p27" fromText="George Holding" toID="p2" toText="United States Attorney George E.B. Holding" />
+<entity_link id="en40" fromID="o12" fromText="the Drug Enforcement Administration" toID="o5" toText="Drug Enforcement Administration" />
+<entity_link id="en41" fromID="p30" fromText="Assistant United States Attorney" toID="p29" toText="Assistant United States Attorney Michael G. James" />
+<entity_link id="en42" fromID="g21" fromText="United States" toID="g8" toText="United States" />
+<entity_link id="en43" fromID="p32" fromText="Special Assistant United States Attorney" toID="p31" toText="Special Assistant United States Attorney Timothy Severo" />
+<entity_link id="en44" fromID="g22" fromText="United States" toID="g21" toText="United States" />
+<entity_link id="en45" fromID="p34" fromText="Mr. Severo" toID="p31" toText="Special Assistant United States Attorney Timothy Severo" />
+<entity_link id="en46" fromID="p35" fromText="Mr." toID="p34" toText="Mr. Severo" />
+<entity_link id="en47" fromID="p36" fromText="a prosecutor with the New Hanover District Attorney's Office" toID="p34" toText="Mr. Severo" />
+<entity_link id="en49" fromID="p39" fromText="District Attorney" toID="p38" toText="District Attorney Ben David" />
+<entity_link id="en51" fromID="p40" fromText="him" toID="p34" toText="Mr. Severo" />
+<entity_link id="en52" fromID="g26" fromText="United States" toID="g22" toText="United States" />
+<entity_link id="en53" fromID="o18" fromText="OCDETF" toID="o2" toText="OCDETF" />
+<entity_link id="en54" fromID="g27" fromText="New Hanover County" toID="g24" toText="New Hanover" />
+<entity_link id="en55" fromID="p44" fromText="SAC Benson" toID="p17" toText="Rodney G. Benson" />
+<entity_link id="en56" fromID="p45" fromText="SAC" toID="p44" toText="SAC Benson" />
+<entity_link id="en57" fromID="p48" fromText="their" toID="p46" toText="parents" />
+<entity_link id="en58" fromID="o21" fromText="DEA" toID="o12" toText="the Drug Enforcement Administration" />
+<entity_link id="en59" fromID="o23" fromText="District" toID="o22" toText="District" />
+<entity_link id="en60" fromID="o24" fromText="District" toID="o23" toText="District" />
+<entity_link id="en48" fromID="f5" fromText="prison" toID="f0" toText="Prison" />
+<head_link id="he0" fromID="p0" fromText="Chuvalo Truesdell" toID="h0" toText="Chuvalo Truesdell" />
+<head_link id="he1" fromID="p1" fromText="Durham Man" toID="h1" toText="Man" />
+<head_link id="he2" fromID="g0" fromText="Durham" toID="h2" toText="Durham" />
+<head_link id="he3" fromID="f0" fromText="Prison" toID="h3" toText="Prison" />
+<head_link id="he4" fromID="g1" fromText="New Bern, NC" toID="h4" toText="New Bern" />
+<head_link id="he5" fromID="g2" fromText="NC" toID="h5" toText="NC" />
+<head_link id="he6" fromID="p2" fromText="United States Attorney George E.B. Holding" toID="h6" toText="George E.B. Holding" />
+<head_link id="he7" fromID="p3" fromText="United States Attorney" toID="h7" toText="Attorney" />
+<head_link id="he9" fromID="g3" fromText="United States" toID="h8" toText="United States" />
+<head_link id="he10" fromID="o0" fromText="federal court" toID="h9" toText="court" />
+<head_link id="he11" fromID="p4" fromText="Chief United States District Judge Louise W. Flanagan" toID="h10" toText="Louise W. Flanagan" />
+<head_link id="he12" fromID="p5" fromText="Chief United States District Judge" toID="h11" toText="Judge" />
+<head_link id="he14" fromID="g5" fromText="United States" toID="h13" toText="United States" />
+<head_link id="he15" fromID="p6" fromText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" toID="h14" toText="Lee Anthony BRAGGS" />
+<head_link id="he16" fromID="g6" fromText="Durham, North Carolina" toID="h15" toText="Durham" />
+<head_link id="he17" fromID="g7" fromText="North Carolina" toID="h16" toText="North Carolina" />
+<head_link id="he18" fromID="p7" fromText="his" toID="h17" toText="his" />
+<head_link id="he19" fromID="p8" fromText="BRAGGS" toID="h18" toText="BRAGGS" />
+<head_link id="he20" fromID="p9" fromText="him" toID="h19" toText="him" />
+<head_link id="he21" fromID="p10" fromText="others" toID="h20" toText="others" />
+<head_link id="he22" fromID="g8" fromText="United States" toID="h21" toText="United States" />
+<head_link id="he23" fromID="p11" fromText="The defendant" toID="h22" toText="defendant" />
+<head_link id="he24" fromID="o1" fromText="Organized Crime Drug Enforcement Task Force Operation (OCDETF" toID="h23" toText="Organized Crime Drug Enforcement Task Force Operation" />
+<head_link id="he25" fromID="o2" fromText="OCDETF" toID="h24" toText="OCDETF" />
+<head_link id="he26" fromID="p12" fromText="BRAGGS" toID="h25" toText="BRAGGS" />
+<head_link id="he27" fromID="p13" fromText="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" toID="h26" toText="leader" />
+<head_link id="he28" fromID="o3" fromText="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" toID="h27" toText="organization" />
+<head_link id="he29" fromID="o4" fromText="that" toID="h28" toText="that" />
+<head_link id="he30" fromID="g9" fromText="Atlanta, Georgia" toID="h29" toText="Atlanta" />
+<head_link id="he31" fromID="g10" fromText="Georgia" toID="h30" toText="Georgia" />
+<head_link id="he32" fromID="l0" fromText="the Wilmington, North Carolina, area" toID="h31" toText="area" />
+<head_link id="he33" fromID="g11" fromText="Wilmington, North Carolina" toID="h32" toText="Wilmington" />
+<head_link id="he34" fromID="g12" fromText="North Carolina" toID="h33" toText="North Carolina" />
+<head_link id="he35" fromID="p14" fromText="Drug Enforcement Administration agents" toID="h34" toText="agents" />
+<head_link id="he36" fromID="o5" fromText="Drug Enforcement Administration" toID="h35" toText="Drug Enforcement Administration" />
+<head_link id="he37" fromID="p15" fromText="agents" toID="h36" toText="agents" />
+<head_link id="he38" fromID="f2" fromText="x-Slave Fashions" toID="h37" toText="x-Slave Fashions" />
+<head_link id="he39" fromID="f3" fromText="a clothing store located in Wilmington, North Carolina" toID="h38" toText="store" />
+<head_link id="he40" fromID="g13" fromText="Wilmington, North Carolina" toID="h39" toText="Wilmington" />
+<head_link id="he41" fromID="g14" fromText="North Carolina" toID="h40" toText="North Carolina" />
+<head_link id="he42" fromID="p17" fromText="Rodney G. Benson" toID="h41" toText="Rodney G. Benson" />
+<head_link id="he43" fromID="p18" fromText="Special Agent in Charge of the DEA Atlanta Field Division" toID="h43" toText="Agent" />
+<head_link id="he44" fromID="o6" fromText="the DEA Atlanta Field Division" toID="h44" toText="DEA Atlanta Field Division" />
+<head_link id="he45" fromID="p19" fromText="members of this organization" toID="h45" toText="members" />
+<head_link id="he46" fromID="o7" fromText="this organization" toID="h46" toText="organization" />
+<head_link id="he47" fromID="l1" fromText="the Wilmington, North Carolina area" toID="h47" toText="area" />
+<head_link id="he48" fromID="g15" fromText="Wilmington, North Carolina" toID="h48" toText="Wilmington" />
+<head_link id="he49" fromID="g16" fromText="North Carolina" toID="h49" toText="North Carolina" />
+<head_link id="he50" fromID="o8" fromText="our federal state and local law enforcement counterparts" toID="h50" toText="counterparts" />
+<head_link id="he52" fromID="o10" fromText="our" toID="h52" toText="our" />
+<head_link id="he53" fromID="f4" fromText="the streets of Wilmington" toID="h53" toText="streets" />
+<head_link id="he54" fromID="g17" fromText="Wilmington" toID="h54" toText="Wilmington" />
+<head_link id="he56" fromID="f5" fromText="prison" toID="h56" toText="prison" />
+<head_link id="he57" fromID="p20" fromText="Mr. Braggs" toID="h57" toText="Braggs" />
+<head_link id="he58" fromID="p21" fromText="Mr." toID="h58" toText="Mr." />
+<head_link id="he59" fromID="p22" fromText="Mr. Braggs" toID="h59" toText="Braggs" />
+<head_link id="he60" fromID="p23" fromText="Mr." toID="h60" toText="Mr." />
+<head_link id="he61" fromID="p24" fromText="head of the drug ring" toID="h61" toText="head" />
+<head_link id="he62" fromID="o11" fromText="the drug ring" toID="h62" toText="ring" />
+<head_link id="he63" fromID="p25" fromText="these dangerous criminals" toID="h63" toText="criminals" />
+<head_link id="he64" fromID="g18" fromText="our communities" toID="h64" toText="communities" />
+<head_link id="he65" fromID="g19" fromText="our" toID="h65" toText="our" />
+<head_link id="he8" fromID="p26" fromText="the people involved in the illegal distribution of drugs" toID="h42" toText="people" />
+<head_link id="he66" fromID="g20" fromText="We" toID="h66" toText="We" />
+<head_link id="he67" fromID="f6" fromText="prison" toID="h67" toText="prison" />
+<head_link id="he68" fromID="p27" fromText="George Holding" toID="h68" toText="George Holding" />
+<head_link id="he69" fromID="o12" fromText="the Drug Enforcement Administration" toID="h69" toText="Drug Enforcement Administration" />
+<head_link id="he70" fromID="o13" fromText="the Federal Bureau of Investigation" toID="h70" toText="Federal Bureau of Investigation" />
+<head_link id="he71" fromID="o14" fromText="the North Carolina State Bureau of Investigation" toID="h71" toText="North Carolina State Bureau of Investigation" />
+<head_link id="he72" fromID="o15" fromText="the Wilmington Police Department" toID="h72" toText="Wilmington Police Department" />
+<head_link id="he73" fromID="p29" fromText="Assistant United States Attorney Michael G. James" toID="h73" toText="Michael G. James" />
+<head_link id="he74" fromID="p30" fromText="Assistant United States Attorney" toID="h74" toText="Attorney" />
+<head_link id="he75" fromID="g21" fromText="United States" toID="h75" toText="United States" />
+<head_link id="he76" fromID="p31" fromText="Special Assistant United States Attorney Timothy Severo" toID="h76" toText="Timothy Severo" />
+<head_link id="he77" fromID="p32" fromText="Special Assistant United States Attorney" toID="h77" toText="Attorney" />
+<head_link id="he78" fromID="g22" fromText="United States" toID="h78" toText="United States" />
+<head_link id="he79" fromID="p33" fromText="the assigned prosecutors" toID="h79" toText="prosecutors" />
+<head_link id="he80" fromID="p34" fromText="Mr. Severo" toID="h80" toText="Severo" />
+<head_link id="he81" fromID="p35" fromText="Mr." toID="h81" toText="Mr." />
+<head_link id="he82" fromID="p36" fromText="a prosecutor with the New Hanover District Attorney's Office" toID="h82" toText="prosecutor" />
+<head_link id="he83" fromID="o16" fromText="the New Hanover District Attorney's Office" toID="h83" toText="Office" />
+<head_link id="he84" fromID="p37" fromText="the New Hanover District Attorney" toID="h84" toText="Attorney" />
+<head_link id="he86" fromID="g24" fromText="New Hanover" toID="h86" toText="New Hanover" />
+<head_link id="he87" fromID="p38" fromText="District Attorney Ben David" toID="h87" toText="Ben David" />
+<head_link id="he88" fromID="p39" fromText="District Attorney" toID="h88" toText="Attorney" />
+<head_link id="he90" fromID="p40" fromText="him" toID="h90" toText="him" />
+<head_link id="he91" fromID="o17" fromText="the United States Attorney's Office" toID="h91" toText="Office" />
+<head_link id="he92" fromID="p41" fromText="the United States Attorney" toID="h92" toText="Attorney" />
+<head_link id="he93" fromID="g26" fromText="United States" toID="h93" toText="United States" />
+<head_link id="he94" fromID="o18" fromText="OCDETF" toID="h94" toText="OCDETF" />
+<head_link id="he95" fromID="o19" fromText="the Governor's Crime Commission" toID="h95" toText="Commission" />
+<head_link id="he96" fromID="p42" fromText="the Governor" toID="h96" toText="Governor" />
+<head_link id="he97" fromID="o20" fromText="the New Hanover County Commissioner's Office" toID="h97" toText="Office" />
+<head_link id="he98" fromID="p43" fromText="the New Hanover County Commissioner" toID="h98" toText="Commissioner" />
+<head_link id="he99" fromID="g27" fromText="New Hanover County" toID="h99" toText="New Hanover County" />
+<head_link id="he100" fromID="p44" fromText="SAC Benson" toID="h100" toText="Benson" />
+<head_link id="he101" fromID="p45" fromText="SAC" toID="h101" toText="SAC" />
+<head_link id="he102" fromID="p46" fromText="parents" toID="h102" toText="parents" />
+<head_link id="he103" fromID="p47" fromText="their children" toID="h103" toText="children" />
+<head_link id="he104" fromID="p48" fromText="their" toID="h104" toText="their" />
+<head_link id="he105" fromID="p49" fromText="themselves" toID="h105" toText="themselves" />
+<head_link id="he106" fromID="o21" fromText="DEA" toID="h106" toText="DEA" />
+<head_link id="he107" fromID="o22" fromText="District" toID="h12" toText="District" />
+<head_link id="he108" fromID="o23" fromText="District" toID="h85" toText="District" />
+<head_link id="he109" fromID="o24" fromText="District" toID="h89" toText="District" />
+<name_link id="na0" fromID="p0" fromText="Chuvalo Truesdell" toID="n0" toText="Chuvalo Truesdell" />
+<name_link id="na1" fromID="g0" fromText="Durham" toID="n1" toText="Durham" />
+<name_link id="na2" fromID="g1" fromText="New Bern, NC" toID="n2" toText="New Bern" />
+<name_link id="na3" fromID="g2" fromText="NC" toID="n3" toText="NC" />
+<name_link id="na4" fromID="p2" fromText="United States Attorney George E.B. Holding" toID="n4" toText="George E.B. Holding" />
+<name_link id="na5" fromID="g3" fromText="United States" toID="n5" toText="United States" />
+<name_link id="na6" fromID="p4" fromText="Chief United States District Judge Louise W. Flanagan" toID="n6" toText="Louise W. Flanagan" />
+<name_link id="na7" fromID="g5" fromText="United States" toID="n7" toText="United States" />
+<name_link id="na8" fromID="p6" fromText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" toID="n8" toText="Lee Anthony BRAGGS" />
+<name_link id="na9" fromID="g6" fromText="Durham, North Carolina" toID="n9" toText="Durham" />
+<name_link id="na10" fromID="g7" fromText="North Carolina" toID="n10" toText="North Carolina" />
+<name_link id="na11" fromID="p8" fromText="BRAGGS" toID="n11" toText="BRAGGS" />
+<name_link id="na12" fromID="g8" fromText="United States" toID="n12" toText="United States" />
+<name_link id="na13" fromID="o1" fromText="Organized Crime Drug Enforcement Task Force Operation (OCDETF" toID="n13" toText="Organized Crime Drug Enforcement Task Force Operation" />
+<name_link id="na14" fromID="o2" fromText="OCDETF" toID="n14" toText="OCDETF" />
+<name_link id="na15" fromID="p12" fromText="BRAGGS" toID="n15" toText="BRAGGS" />
+<name_link id="na16" fromID="g9" fromText="Atlanta, Georgia" toID="n16" toText="Atlanta" />
+<name_link id="na17" fromID="g10" fromText="Georgia" toID="n17" toText="Georgia" />
+<name_link id="na18" fromID="g11" fromText="Wilmington, North Carolina" toID="n18" toText="Wilmington" />
+<name_link id="na19" fromID="g12" fromText="North Carolina" toID="n19" toText="North Carolina" />
+<name_link id="na20" fromID="o5" fromText="Drug Enforcement Administration" toID="n20" toText="Drug Enforcement Administration" />
+<name_link id="na21" fromID="f2" fromText="x-Slave Fashions" toID="n21" toText="x-Slave Fashions" />
+<name_link id="na22" fromID="g13" fromText="Wilmington, North Carolina" toID="n22" toText="Wilmington" />
+<name_link id="na23" fromID="g14" fromText="North Carolina" toID="n23" toText="North Carolina" />
+<name_link id="na24" fromID="p17" fromText="Rodney G. Benson" toID="n24" toText="Rodney G. Benson" />
+<name_link id="na25" fromID="o6" fromText="the DEA Atlanta Field Division" toID="n25" toText="DEA Atlanta Field Division" />
+<name_link id="na26" fromID="g15" fromText="Wilmington, North Carolina" toID="n26" toText="Wilmington" />
+<name_link id="na27" fromID="g16" fromText="North Carolina" toID="n27" toText="North Carolina" />
+<name_link id="na28" fromID="g17" fromText="Wilmington" toID="n28" toText="Wilmington" />
+<name_link id="na29" fromID="p20" fromText="Mr. Braggs" toID="n29" toText="Braggs" />
+<name_link id="na30" fromID="p22" fromText="Mr. Braggs" toID="n30" toText="Braggs" />
+<name_link id="na31" fromID="p27" fromText="George Holding" toID="n31" toText="George Holding" />
+<name_link id="na32" fromID="o12" fromText="the Drug Enforcement Administration" toID="n32" toText="Drug Enforcement Administration" />
+<name_link id="na33" fromID="o13" fromText="the Federal Bureau of Investigation" toID="n33" toText="Federal Bureau of Investigation" />
+<name_link id="na34" fromID="o14" fromText="the North Carolina State Bureau of Investigation" toID="n34" toText="North Carolina State Bureau of Investigation" />
+<name_link id="na35" fromID="o15" fromText="the Wilmington Police Department" toID="n35" toText="Wilmington Police Department" />
+<name_link id="na36" fromID="p29" fromText="Assistant United States Attorney Michael G. James" toID="n36" toText="Michael G. James" />
+<name_link id="na37" fromID="g21" fromText="United States" toID="n37" toText="United States" />
+<name_link id="na38" fromID="p31" fromText="Special Assistant United States Attorney Timothy Severo" toID="n38" toText="Timothy Severo" />
+<name_link id="na39" fromID="g22" fromText="United States" toID="n39" toText="United States" />
+<name_link id="na40" fromID="p34" fromText="Mr. Severo" toID="n40" toText="Severo" />
+<name_link id="na41" fromID="g24" fromText="New Hanover" toID="n41" toText="New Hanover" />
+<name_link id="na42" fromID="p38" fromText="District Attorney Ben David" toID="n42" toText="Ben David" />
+<name_link id="na43" fromID="g26" fromText="United States" toID="n44" toText="United States" />
+<name_link id="na44" fromID="o18" fromText="OCDETF" toID="n45" toText="OCDETF" />
+<name_link id="na45" fromID="g27" fromText="New Hanover County" toID="n46" toText="New Hanover County" />
+<name_link id="na46" fromID="p44" fromText="SAC Benson" toID="n47" toText="Benson" />
+<name_link id="na47" fromID="o21" fromText="DEA" toID="n48" toText="DEA" />
+<relation_link1 id="r0" fromID="C0" fromText="Durham Man" toID="p1" toText="Durham Man" />
+<relation_link1 id="r1" fromID="e0" fromText="United States Attorney" toID="p3" toText="United States Attorney" />
+<relation_link1 id="r2" fromID="M4" fromText="Chief United States District Judge" toID="p5" toText="Chief United States District Judge" />
+<relation_link1 id="r3" fromID="e2" fromText="Chief United States District Judge" toID="p5" toText="Chief United States District Judge" />
+<relation_link1 id="r4" fromID="C1" fromText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" toID="p6" toText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" />
+<relation_link1 id="r5" fromID="M5" fromText="Drug Enforcement Administration agents" toID="p14" toText="Drug Enforcement Administration agents" />
+<relation_link1 id="r6" fromID="M6" fromText="Special Agent in Charge of the DEA Atlanta Field Division" toID="p18" toText="Special Agent in Charge of the DEA Atlanta Field Division" />
+<relation_link1 id="r7" fromID="M7" fromText="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" toID="p13" toText="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" />
+<relation_link1 id="r8" fromID="e6" fromText="Assistant United States Attorney" toID="p30" toText="Assistant United States Attorney" />
+<relation_link1 id="r9" fromID="e7" fromText="Special Assistant United States Attorney" toID="p32" toText="Special Assistant United States Attorney" />
+<relation_link1 id="r13" fromID="M8" fromText="the New Hanover District Attorney" toID="p37" toText="the New Hanover District Attorney" />
+<relation_link1 id="r14" fromID="e9" fromText="the New Hanover District Attorney" toID="p37" toText="the New Hanover District Attorney" />
+<relation_link1 id="r15" fromID="M9" fromText="a prosecutor with the New Hanover District Attorney's Office" toID="p36" toText="a prosecutor with the New Hanover District Attorney's Office" />
+<relation_link1 id="r16" fromID="M10" fromText="District Attorney" toID="p39" toText="District Attorney" />
+<relation_link1 id="r17" fromID="e12" fromText="the United States Attorney" toID="p41" toText="the United States Attorney" />
+<relation_link1 id="r18" fromID="M11" fromText="District Attorney Ben David has assigned him to the United States Attorney's Office to prosecute OCDETF criminal matters" toID="p40" toText="him" />
+<relation_link1 id="r19" fromID="e14" fromText="the New Hanover County Commissioner" toID="p43" toText="the New Hanover County Commissioner" />
+<relation_link1 id="r10" fromID="M0" fromText="the New Hanover District Attorney's Office" toID="p37" toText="the New Hanover District Attorney" />
+<relation_link1 id="r11" fromID="M1" fromText="the United States Attorney's Office" toID="p41" toText="the United States Attorney" />
+<relation_link1 id="r12" fromID="M2" fromText="the Governor's Crime Commission" toID="p42" toText="the Governor" />
+<relation_link1 id="r20" fromID="M3" fromText="the New Hanover County Commissioner's Office" toID="p43" toText="the New Hanover County Commissioner" />
+<relation_link2 id="re0" fromID="C0" fromText="Durham Man" toID="g0" toText="Durham" />
+<relation_link2 id="re1" fromID="e0" fromText="United States Attorney" toID="g3" toText="United States" />
+<relation_link2 id="re3" fromID="e2" fromText="Chief United States District Judge" toID="g5" toText="United States" />
+<relation_link2 id="re4" fromID="C1" fromText="Lee Anthony BRAGGS, 39, of Durham, North Carolina" toID="g6" toText="Durham, North Carolina" />
+<relation_link2 id="re5" fromID="M5" fromText="Drug Enforcement Administration agents" toID="o5" toText="Drug Enforcement Administration" />
+<relation_link2 id="re6" fromID="M6" fromText="Special Agent in Charge of the DEA Atlanta Field Division" toID="o6" toText="the DEA Atlanta Field Division" />
+<relation_link2 id="re7" fromID="M7" fromText="the leader of an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" toID="o3" toText="an organization that was responsible for distributing over 700 kilograms of cocaine from Atlanta, Georgia, to the Wilmington, North Carolina, area" />
+<relation_link2 id="re8" fromID="e6" fromText="Assistant United States Attorney" toID="g21" toText="United States" />
+<relation_link2 id="re9" fromID="e7" fromText="Special Assistant United States Attorney" toID="g22" toText="United States" />
+<relation_link2 id="re12" fromID="e9" fromText="the New Hanover District Attorney" toID="g24" toText="New Hanover" />
+<relation_link2 id="re13" fromID="M9" fromText="a prosecutor with the New Hanover District Attorney's Office" toID="o16" toText="the New Hanover District Attorney's Office" />
+<relation_link2 id="re15" fromID="e12" fromText="the United States Attorney" toID="g26" toText="United States" />
+<relation_link2 id="re16" fromID="M11" fromText="District Attorney Ben David has assigned him to the United States Attorney's Office to prosecute OCDETF criminal matters" toID="o17" toText="the United States Attorney's Office" />
+<relation_link2 id="re17" fromID="e14" fromText="the New Hanover County Commissioner" toID="g27" toText="New Hanover County" />
+<relation_link2 id="re10" fromID="M4" fromText="Chief United States District Judge" toID="o22" toText="District" />
+<relation_link2 id="re18" fromID="M8" fromText="the New Hanover District Attorney" toID="o23" toText="District" />
+<relation_link2 id="re19" fromID="M10" fromText="District Attorney" toID="o24" toText="District" />
+<relation_link2 id="re2" fromID="M0" fromText="the New Hanover District Attorney's Office" toID="o16" toText="the New Hanover District Attorney's Office" />
+<relation_link2 id="re11" fromID="M1" fromText="the United States Attorney's Office" toID="o17" toText="the United States Attorney's Office" />
+<relation_link2 id="re14" fromID="M2" fromText="the Governor's Crime Commission" toID="o19" toText="the Governor's Crime Commission" />
+<relation_link2 id="re20" fromID="M3" fromText="the New Hanover County Commissioner's Office" toID="o20" toText="the New Hanover County Commissioner's Office" />
+</TAGS>
+</KddTask>

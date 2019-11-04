@@ -1,0 +1,22 @@
+Disqus Hacked: More than 17.5 Million Users' Details Stolen in 2012 Breach
+Swati Khandelwal
+
+Another day, Another data breach disclosure.
+This time the popular commenting system has fallen victim to a massive security breach.
+Disqus, the company which provides a web-based comment plugin for websites and blogs, has admitted that it was breached 5 years ago in July 2012 and hackers stole details of more than 17.5 million users.
+The stolen data includes email addresses, usernames, sign-up dates, and last login dates in plain text for all 17.5 million users.
+What's more? Hackers also got their hands on passwords for about one-third of the affected users, which were salted and hashed using the weak SHA-1 algorithm.
+The company said the exposed user information dates back to 2007 with the most recently exposed from July 2012.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to Disqus, the company became aware of the breach Thursday (5th October) evening after an independent security researcher Troy Hunt, who obtained a copy of the site's information, notified the company.
+Within about 24 hours, Disqus disclosed the data breach and started contacting its affected users, forcing them to reset their passwords as soon as possible.
+"No plain text passwords were exposed, but it is possible for this data to be decrypted (even if unlikely). As a security precaution, we have reset the passwords for all affected users. We recommend that all users change passwords on other services if they are shared," Disqus' CTO Jason Yan said in a blog post.
+However, since late 2012 Disqus has made other upgrades to improve its security and changed its password hashing algorithm to Bcrypt—a much stronger cryptographic algorithm which makes it difficult for hackers to obtain user's actual password.
+"Since 2012, as part of normal security enhancements, we have made significant upgrades to our database and encryption to prevent breaches and increase password security, Yan said. "Specifically, at the end of 2012, we changed our password hashing algorithm from SHA1 to bcrypt."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In addition to resetting your password, you are also advised to change your passwords on other online services and platforms as well, if you share the same credentials.
+It is most likely that hackers could use this stolen information in tandem with social engineering techniques to gain further information on victims. So, you are advised to beware of spam and phishing emails carrying malicious file attachments.
+It is still unclear how hackers get hands-on Disqus data. San Francisco-based Disqus is still actively investigating this security incident.
+We will update you as soon as more details surface.
+This is yet another embarrassing breach disclosed recently, after Equifax’s disclosure of a breach of potentially 145.5 million US customers, U.S. Securities and Exchange Commission (SEC) disclosure of a breach that profited hackers, and recent Yahoo’s disclosure that 2013 data breach affected all of its 3 Billion users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

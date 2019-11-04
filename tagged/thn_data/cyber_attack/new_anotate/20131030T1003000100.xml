@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+British Baptist Minister's son charged with hacking US Army and Nasa Computer Systems
+Wang Wei
+Son of a Baptist Minister, 28-year-old British man named Lauri Love has been charged with hacking into the computer systems of the US army, NASA and other federal agencies.
+He was arrested Friday at his home in Stradishall, England by the National Crime Agency and according to the indictment alleges Love and his unnamed co-conspirators hacked into thousands of computer systems between October 2012 and October 2013. The indictment does not accuse Love of selling information or doing anything else with it for financial gain.  (adsbygoogle = window.adsbygoogle || []).push({}); His father Alexander Love, 60, a Baptist minister, works as a chaplain at HMP Highpoint North. His mother Sirkka-Liisa Love, 59, also works at the jail as a teacher.
+He is charged with one count of accessing a U.S. Department or agency computer without authorization and one count of conspiracy. The government said the purpose was to disrupt the operations and infrastructure of the federal government.  They stole data on more than 5,000 individuals, as well as information on government budgets and procurement processes.Love is alleged to have used the online monikers "nsh", "route", and "peace" to plot attacks from his home with three unnamed conspirators in Australia and Sweden and US authorities declined to discuss whether they had been arrested or will be arrested and extradited to the US.
+"You have no idea how much we can fuck with the US government if we wanted to," Love told a hacking colleague in one exchange over Internet relay chat, prosecutors alleged. "This... Stuff is really sensitive. It's basically every piece of information you'd need to do full identity theft on any employee or contractor".
+Love could be extradited to the US, where if convicted he faces up to ten years in prison and a fine for twice the damage caused. Gary McKinnon’s mother, Janis Sharp, accused US authorities of targeting young British geeks, said “They are just young geeks sitting in their bedrooms; they’re not murderers, they’re not terrorists, they’re not selling secrets, they’re just searching for information,".
+He has been released on bail until February and could face a maximum potential penalty of five years in prison and a $250,000 fine for each count.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<IMPACT.Disrupt id="IM0" start="1012" end="1019" text="disrupt" TYPE="TRG" />
+<IMPACT.Breach id="IMPA0" start="1087" end="1092" text="stole" TYPE="TRG" />
+</TAGS>
+</KddTask>

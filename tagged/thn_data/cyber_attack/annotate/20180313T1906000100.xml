@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CredSSP Flaw in Remote Desktop Protocol Affects All Versions of Windows
+Mohit Kumar
+
+A critical vulnerability has been discovered in Credential Security Support Provider protocol (CredSSP) that affects all versions of Windows to date and could allow remote attackers to exploit RDP and WinRM to steal data and run malicious code.
+CredSSP protocol has been designed to be used by RDP (Remote Desktop Protocol) and Windows Remote Management (WinRM) that takes care of securely forwarding credentials encrypted from the Windows client to the target servers for remote authentication.
+Discovered by researchers at Cybersecurity firm Preempt Security, the issue (CVE-2018-0886) is a logical cryptographic flaw in CredSSP that can be exploited by a man-in-the-middle attacker with Wi-Fi or physical access to the network to steal session authentication data and perform a Remote Procedure Call attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+When a client and server authenticate over RDP and WinRM connection protocols, a man-in-the-middle attacker can execute remote commands to compromise enterprise networks.
+"An attacker which have stolen a session from a user with sufficient privileges could run different commands with local admin privileges. This is especially critical in case of domain controllers, where most Remote Procedure Calls (DCE/RPC) are enabled by default," says Yaron Zinar, lead security researcher for Preempt. 
+"This could leave enterprises vulnerable to a variety of threats from attackers including lateral movement and infection on critical servers or domain controllers."
+Since RDP is the most popular application to perform remote logins and almost all enterprise customers are using RDP, it makes most networks vulnerable to this security issue.
+Preempt Researchers discovered and reported this previously unknown remote code execution vulnerability to Microsoft in August last year, but the tech giant issued a fix for the protocol just today as part of its Patch Tuesday release—that's almost after 7 months of reporting.
+To defend yourself and your organizations against the CredSSP exploit, users are recommended to patch their workstations and servers using available updates from the Microsoft.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though researchers also warned that patching alone is not sufficient to prevent this attack, IT professionals are also required to make some configuration to apply the patch and be protected.
+Blocking the relevant application ports including RDP and DCE/RPC would also thwart the attack, but researchers say this attack could even be implemented in different ways, using different protocols.
+Therefore, to better protect your network, it is a good idea to decrease the use of privileged account as much as possible and instead use non-privileged accounts whenever applicable.
+As part of March 2018 Patch Tuesday, Microsoft has also released security patches for its other products, including Microsoft IE and Edge browser, Windows OS, Microsoft Office, PowerShell, Core ChakraCore, as well as Adobe Flash player.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<user_compromise id="u0" start="296" end="301" text="steal" TYPE="SUP" />
+<user_compromise id="u1" start="819" end="824" text="steal" TYPE="SUP" />
+<root_compromise id="r0" start="245" end="250" text="allow" TYPE="USP" />
+<root_compromise id="r1" start="271" end="278" text="exploit" TYPE="SUP" />
+<root_compromise id="r2" start="296" end="301" text="steal" TYPE="SUP" />
+<root_compromise id="r3" start="311" end="314" text="run" TYPE="SUP" />
+<root_compromise id="r5" start="722" end="738" text="can be exploited" TYPE="USP" />
+<root_compromise id="r6" start="857" end="864" text="perform" TYPE="SUP" />
+<root_compromise id="r7" start="1063" end="1070" text="execute" TYPE="USP" />
+<root_compromise id="r8" start="1090" end="1100" text="compromise" TYPE="SUP" />
+<root_compromise id="r9" start="1146" end="1152" text="stolen" TYPE="USP" />
+<root_compromise id="r10" start="1208" end="1230" text="run different commands" TYPE="USP" />
+<root_compromise id="r11" start="1456" end="1485" text=" leave enterprises vulnerable" TYPE="USP" />
+<confuse id="c0" start="295" end="302" text=" steal " />
+</TAGS>
+</KddTask>

@@ -1,0 +1,30 @@
+Dangerous Malware Discovered that Can Take Down Electric Power Grids
+Swati Khandelwal
+
+Last December, a cyber attack on Ukrainian Electric power grid caused the power outage in the northern part of Kiev — the country's capital — and surrounding areas, causing a blackout for tens of thousands of citizens for an hour and fifteen minutes around midnight.
+Now, security researchers have discovered the culprit behind those cyber attacks on the Ukrainian industrial control systems.
+Slovakia-based security software maker ESET and US critical infrastructure security firm Dragos Inc. say they have discovered a new dangerous piece of malware in the wild that targets critical industrial control systems and is capable of causing blackouts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed "Industroyer" or "CrashOverRide," the grid-sabotaging malware was likely to be used in the December 2016 cyber attack against Ukrainian electric utility Ukrenergo, which the security firms say represents a dangerous advancement in critical infrastructure hacking.
+According to the researchers, CrashOverRide is the biggest threat designed to disrupt industrial control systems, after Stuxnet — the first malware allegedly developed by the US and Israel to sabotage the Iranian nuclear facilities in 2009.
+This Malware Does Not Exploit Any Software Flaw
+Unlike Stuxnet worm, the CrashOverRide malware does not exploit any "zero-day" software vulnerabilities to do its malicious activities; instead, it relies on four industrial communication protocols used worldwide in power supply infrastructure, transportation control systems, and other critical infrastructure systems.
+The CrashOverRide malware can control electricity substation' switches and circuit breakers, designed decades ago, allowing an attacker to simply turning off power distribution, cascading failures and causing more severe damage to equipment.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Industroyer malware is a backdoor that first installs four payload components to take control of switches and circuit breakers; and then connects to a remote command-and-control server to receive commands from the attackers.
+"Industroyer payloads show the authors' in-depth knowledge and understanding of industrial control systems." ESET researchers explain.
+"The malware contains a few more features that are designed to enable it to remain under the radar, to ensure the malware's persistence, and to wipe all traces of itself after it has done its job."
+Since there have been four malware discovered in the wild to date that target industrial control systems, including Stuxnet, Havex, BlackEnergy, and CrashOverRide; Stuxnet and CrashOverRide were designed only for sabotage, while BlackEnergy and Havex were meant for conducting espionage.
+"The functionality in the CRASHOVERRIDE framework serves no espionage purpose and the only real feature of the malware is for attacks which would lead to electric outages," reads Dragos analysis [PDF] of the malware.
+Malware Can Cause Wider and Longer-Lasting Blackouts
+The analysis of the malware suggests CrashOverRide could cause power outages far more widespread, sophisticated and longer lasting than the one Ukraine suffered last December.
+Dragos CEO Robert M. Lee said the CrashOverRide malware is capable of causing power outages that can last up to a few days in portions of a country's electric grid, but it is not capable enough to bring down the entire grid of a nation.
+The malware includes interchangeable, plug-in components that could allow CrashOverRide to be altered to different electric power utilities or even launched simultaneous attacks on multiple targets.
+"CrashOverRide is not unique to any particular vendor or configuration and instead leverages knowledge of grid operations and network communications to cause impact; in that way, it can be immediately re-purposed in Europe and portions of the Middle East and Asia," Dragos' paper reads. 
+"CrashOverRide is extensible and with a small amount of tailoring such as the inclusion of a DNP3 [Distributed Network Protocol 3] protocol stack would also be effective in the North American grid."
+According to the researchers, the malware can be modified to target other types of critical infrastructure, like transportation, gas lines, or water facilities, as well with additional protocol modules.
+The security firms have already alerted government authorities and power grid companies about the dangerous threat, along with some advises that could help them to defend against this threat.
+The security firms already argued that the 2016 power outage was likely caused by the same group of hackers who caused 2015 blackout — Sandworm, a state-sponsored hacking group believed to be from Russia.
+Dragos tracked the perpetrators behind CrashOverRide as Electrum and assessed "with high confidence through confidential sources that Electrum has direct ties to the Sandworm team."
+The security firms have already alerted government authorities and power grid companies about the dangerous threat, along with some advises that could help them to defend against this threat.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

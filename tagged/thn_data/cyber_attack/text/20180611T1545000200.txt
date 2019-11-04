@@ -1,0 +1,47 @@
+A New Paradigm For Cyber Threat Hunting
+Mohit Kumar
+
+It’s no secret that expecting security controls to block every infection vector is unrealistic. For most organizations, the chances are very high that threats have already penetrated their defenses and are lurking in their network.
+Pinpointing such threats quickly is essential, but traditional approaches to finding these needles in the haystack often fall short.
+Now there is a unique opportunity for more feasible, more effective threat hunting capabilities, and it stems from a most unusual effort: rethinking the approach to wide area networking.
+When we look at the cyber kill-chain today, there are two major phases—infection and post-infection. Security experts acknowledge that organizations can get infected no matter how good their security controls are.
+The simple fact is, infection vectors change rapidly and continuously. Attackers use new delivery methods – everything from social engineering to zero-day exploits – and they often are effective.
+In most cases, an infection is a singular event. The delivery method is singular, which decreases the chances of detection by the security controls that are meant to prevent threats from entering.
+Unfortunately, most organizations still focus more of their resources on prevention rather than detection. The primary tools they deploy today include firewall, anti-spam, sandboxing, IPS (intrusion prevention), intelligence feeds, URL filtering, anti-malware, and anti-bot.
+These solutions are designed to be in front of what’s left of the perimeter to prevent infection attempts. Once a threat slips through the perimeter, however, the tool can’t see or stop it.
+Threat hunting is on the rise
+This has given rise to the notion of “threat hunting,” or the process of proactively searching the network for threats that have evaded existing security measures.
+Threat hunting requires a shift to a post-infection mentality and sets of tools such as SIEM (security incident and event management), EDR (endpoint detection and response) and NDR (network detection and response).
+Even with these tools, threat hunting is a challenge for a variety of reasons. For one thing, these solutions are “heavy.” They require some kind of data collection that involves installing agents on endpoints and/or hardware placed on networks. This can get quite expensive for a large enterprise.
+What’s more, it can miss traffic from mobile devices that don’t have the collection agent installed. Another problem is that these solutions rely on available substantive data at a single point in time. This data lacks a broader context and historical perspective.
+For example, when a SIEM tool receives alerts and logs from the many different point security solutions, the alerts are detached from each other, such that each conclusion is different without the raw data behind the alerts.
+There are too many events without enough context for security analysts to pinpoint an infection. Moreover, few organizations have the skills and resources to analyze the data and identify persistent threats.
+A new opportunity for threat hunting
+Oddly enough, the enterprise shift to software-defined wide area networking (SD-WAN) as a cloud-based service now offers an alternative means to conduct threat hunting that addresses the shortcomings of the existing approaches.
+Cloud-based SD-WAN is a new networking architecture whereby all the entities of the typical enterprise network – the headquarters office, the data center(s), branch locations, the cloud infrastructure that is part of the external network (i.e., AWS, Azure, etc.), as well as mobile users – are all connected into a network in the cloud.
+These elements connect to the cloud network backbone through a global series of points of presence (PoPs). This creates a single unified network that carries all traffic of the various enterprise entities that are connected, including corporate internet plus WAN traffic. Having all this traffic flow on one network forms a valuable dataset for threat hunting.
+Cato Networks has identified the opportunity to utilize this single, unified source of data flowing across its Cato Cloud network as input to a new threat hunting service.
+This extends Cato’s converged security offering which already includes the firewall as a service, Next Generation firewall, secure web gateway and advanced threat protection.
+What makes threat hunting via cloud-based networking unique
+Traditional network security solutions are built at the level of a single branch network. All the traffic they inspect is isolated and limited to a specific location, such as a branch or a geographic location.
+Because Cato has its own network backbone, into which it has full visibility, the service provider can see all network traffic, from all customers, all over the world. This visibility into so many network flows and so much data are unique, and it allows Cato to build the models that enable full threat hunting based on unlimited raw data.
+Cato’s model evolves three aspects of data context: client classification, target and time (see Figure 1). Let’s have a look at each of these elements, and how putting the three pieces together provides a very high degree of confidence that a threat is present on the network.
+Figure 1: Cato claims to improve detection accuracy by working from raw network data and not just security logs, and then expanding context in three dimensions — client, target and time.
+Client classification
+It starts with client classification. When other security solutions inspect the source client with the flow, entities such as source IP, username, and device name are considered.
+Usually, this information is used to distinguish different devices over the network, but it is rarely used in the actual decision making of whether the traffic is malicious or not.
+Cato has expanded the client classification into a broader scheme, using elements such as whether HTTP or TLS is part of the main communications, the unique fingerprints of various browsers, and the types of libraries they use. These items provide much more detail, and by analyzing this data with machine learning, Cato can classify different clients on its network very accurately.
+The target
+The next context element that Cato uses is the target—the IP or domain address that a client is connecting to. The target is commonly part of the flow that’s used in the decision-making process of whether something is malicious or not. Most security solutions simply compare the target against a list of security feeds.
+Cato goes further by creating a “popularity score” to each target it sees. The score is calculated based on the number of times clients communicate with the targets. Scores of all targets are then bucketed, and typically the lowest scored targets are indicators of malicious or command and control websites.
+Communication over time
+Cato’s last context parameter is time. Active malware keeps communicating over time; for example, to get commands from the C&C server, or to exfiltrate data. Time (repetitiveness) is often not considered by other security solutions, whereas Cato sees it as an important data element.
+The more the external communication is repeated uniformly, the more likely it is a machine or bot that is generating this traffic, and thus more likely to be malicious traffic.
+A real-life example
+Figure 2: Here’s one example of how Cato identified Conflicker on a customer’s network. Note the use of client, target, and time throughout the process.
+The following example is from a real Cato customer. There is a machine on the Cato Cloud network that tries to connect to about 150 domains where more than 90% of them are unresolved DNS requests. The domains themselves look like an algorithm generated them (see figure 2)
+Looking back historically, analysts can see that this event occurs every three hours, indicating it’s probably bot traffic. Some of the domains were resolved, after which there was an HTTP session which allows analysts to resolve the client.
+Based on the client classification algorithms, this client is unknown to Cato across all the data the network provider has gotten. At this point, it’s possible to conclude that an unknown bot is frequently communicating with a low popularity target website. Further analysis with the customer that owns the machine shows that it is infected with malware.
+Cato was able to detect this threat automatically without any external feeds or IPS signatures. The discovery was purely a result of looking at network flows. No additional agents or hardware was necessary to collect the data, as it all came from flows normally traversing the Cato network. 
+The end customer didn’t expend any effort to hunt this threat, other than looking at the machine that Cato identified as suspected of harboring malware. This is indeed a new paradigm for threat hunting.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

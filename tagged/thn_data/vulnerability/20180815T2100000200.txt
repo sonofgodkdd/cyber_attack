@@ -1,0 +1,19 @@
+Widespread Instagram Hack Locking Users Out of Their Accounts
+Mohit Kumar
+
+Instagram has been hit by a widespread hacking campaign that appears to stem from Russia and have affected hundreds of users over the past week, leaving them locked out of their accounts.
+A growing number of Instagram users are taking to social media, including Twitter and Reddit, to report a mysterious hack which involves locking them out of their account with their email addresses changed to .ru domains.
+According to victims, their account names, profile pictures, passwords, email addresses associated with their Instagram accounts, and even connected Facebook accounts are being changed in the attack.
+Many of the affected Instagram users are also complaining about their profile photos replaced with stills from popular films, including Despicable Me 3 and Pirates of the Caribbean.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it is still unknown who is behind the widespread hack of Instagram accounts, the use of the email addresses originating from Russian email provider mail.ru may indicate a Russian hacker or hacking group is behind the attack, or perhaps hackers pretending to be from Russia.
+First spotted by Mashable, the hack even affected Instagram users with two-factor authentication (2FA) enabled, as at least one user told Mashable that he was using 2FA, but it did nothing to stop his account from being hacked. However, it is currently unconfirmed.
+In response to the report, Instagram published a blog post saying that the company continues to investigate the issue and that it has "dedicated teams helping people to secure their accounts."
+"We are aware that some people are having difficulty accessing their Instagram accounts," Instagram says, pointing users to its guidance on hacked accounts to help keep their account secure.
+The company advises Instagram users to keep a secure password with at least six numbers and/or letters, enable 2FA for additional security, and to revoke any suspicious third-party app that might have access to their accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Instagram currently relies on text messages for two-factor authentication, which is believed to be less secure than other app-based 2FA methods, but the Facebook-owned company says it is working on improving its 2FA settings. 
+However, since the unknown technique being used by attackers to hack Instagram accounts is still unaddressed, there's nothing much you can do if the suspected loophole can also bypass two-factor authentication.
+The motive behind the attacks is still unknown, but it appears that the attacks on Instagram are still happening at the time of writing.
+For more information, users are recommended to visit the Instagram Help Centre dedicated to hacked accounts, which includes security tips as well as steps they can take to restore their account.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

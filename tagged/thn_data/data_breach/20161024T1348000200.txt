@@ -1,0 +1,23 @@
+Russian Hacker Behind LinkedIn Breach also Charged with Hacking Dropbox and Formspring
+Mohit Kumar
+
+The alleged Russian hacker, who was arrested by the FBI in collaboration with the Czech police, was believed to be the one responsible for massive 2012 data breach at LinkedIn, according to a statement released by LinkedIn.
+Now, United States authorities have officially indicted Yevgeniy Aleksandrovich Nikulin, 29-years-old Russian national, for hacking not just LinkedIn, but also the online cloud storage platform Dropbox, and now-defunct social-networking company Formspring.
+Nikulin was arrested in Prague [Watch Video] on October 5 by the Czech police after Interpol issued an international arrest warrant. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to an indictment unsealed Friday, Nikulin had hacked three Bay Area technology companies in the spring and summer of 2012, which includes LinkedIn Corp, Dropbox, and Formspring.
+Nikulin gained access to LinkedIn's network between March 3 and March 4, 2012; Dropbox's network between May 14 and July 25, 2012; and Formspring between June 13 and June 29, 2012.
+The U.S. Justice Department also says that Nikulin allegedly gained access to credentials belonging to LinkedIn and Formspring employees, which helped him carry out the computer hacks.
+The hacker is reported to have stolen accounts of more than 117 Million LinkedIn users and more than 68 Million Dropbox users. Authorities also say that after stealing data from the three companies, Nikulin worked with unnamed co-conspirators to sell the stolen data.
+In September, a hacker was selling this Dropbox data dump on a Dark Web marketplace known as TheRealDeal for around $1200.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, earlier this month, well-known researchers Thomas White uploaded the full Dropbox data dump of 68,680,741 accounts onto his website for anyone to download the leaked database for free.
+US officials have charged Nikulin with:
+3 counts of computer intrusion.
+2 counts of intentional transmission of information, code, or command causing damage to a protected computer.
+2 counts of aggravated identity theft.
+1 count of trafficking in unauthorized access devices.
+1 count of conspiracy.
+Nikulin faces a maximum of 32 years in prison and a massive fine of over $1 Million, according to the maximum penalties for each count.
+The hacker remains in custody in Prague, Czech Republic. The FBI is waiting for a Czech court to decide on his extradition to the United States.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

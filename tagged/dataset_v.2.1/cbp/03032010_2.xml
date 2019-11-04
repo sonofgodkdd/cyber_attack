@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers at Brownsville Port of Entry Arrest Woman Wanted on Parental Kidnapping Charges
+(Wednesday, March 03, 2010)
+Brownsville, Texas  - U.S. Customs and Border Protection officers at the Brownsville port of entry apprehended a woman on a warrant for parental kidnapping charges from the Union County Sheriff's Office in Mississippi.
+On March 1, CBP officers at the Veterans International Bridge referred Jody Nicole Hamlet, 32, a U.S. citizen and resident of New Albany, Miss., for a secondary examination after a primary check revealed a possible active arrest warrant for parental kidnapping.
+Hamlet arrived at the port of entry as a pedestrian. CBP officers in secondary checked a CBP database and confirmed that Hamlet has an active arrest warrant from Union County, New Albany, Miss. on parental kidnapping charges. CBP officers arrested Hamlet and subsequently turned her over to the custody of the Cameron County Sheriff's Office. Hamlet was transported to the county jail pending extradition to Mississippi.
+"Use of a national database resulted in the arrest of this wanted fugitive. I applaud our officers for a job well done in this apprehension of another wanted person that will now face pending kidnapping charges," said Michael Freeman, CBP port director at the Brownsville port of entry.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="42" text="CBP Officers at Brownsville Port of Entry" TYPE="BAR" />
+<person id="p1" start="50" end="93" text="Woman Wanted on Parental Kidnapping Charges" TYPE="BAR" />
+<person id="p2" start="144" end="220" text="U.S. Customs and Border Protection officers at the Brownsville port of entry" TYPE="BAR" />
+<person id="p3" start="233" end="339" text="a woman on a warrant for parental kidnapping charges from the Union County Sheriff's Office in Mississippi" TYPE="NOM" />
+<person id="p4" start="291" end="315" text="the Union County Sheriff" TYPE="NOM" />
+<person id="p5" start="353" end="402" text="CBP officers at the Veterans International Bridge" TYPE="BAR" />
+<person id="p6" start="412" end="484" text="Jody Nicole Hamlet, 32, a U.S. citizen and resident of New Albany, Miss." TYPE="APP" />
+<person id="p8" start="436" end="484" text="a U.S. citizen and resident of New Albany, Miss." TYPE="NOM" />
+<person id="p9" start="412" end="434" text="Jody Nicole Hamlet, 32" TYPE="NAM" />
+<person id="p10" start="436" end="484" text="a U.S. citizen and resident of New Albany, Miss." TYPE="NOM" />
+<person id="p11" start="603" end="609" text="Hamlet" TYPE="NAM" />
+<person id="p12" start="642" end="654" text="a pedestrian" TYPE="NOM" />
+<person id="p13" start="656" end="681" text="CBP officers in secondary" TYPE="BAR" />
+<person id="p14" start="724" end="730" text="Hamlet" TYPE="NAM" />
+<person id="p15" start="829" end="841" text="CBP officers" TYPE="BAR" />
+<person id="p16" start="851" end="857" text="Hamlet" TYPE="NAM" />
+<person id="p17" start="882" end="885" text="her" TYPE="PRO" />
+<person id="p18" start="909" end="935" text="the Cameron County Sheriff" TYPE="NOM" />
+<person id="p19" start="946" end="952" text="Hamlet" TYPE="NAM" />
+<person id="p20" start="1078" end="1098" text="this wanted fugitive" TYPE="NOM" />
+<person id="p21" start="1100" end="1101" text="I" TYPE="PRO" />
+<person id="p22" start="1110" end="1122" text="our officers" TYPE="NOM" />
+<person id="p24" start="1167" end="1234" text="another wanted person that will now face pending kidnapping charges" TYPE="NOM" />
+<person id="p25" start="1189" end="1193" text="that" TYPE="PRO" />
+<person id="p26" start="1242" end="1309" text="Michael Freeman, CBP port director at the Brownsville port of entry" TYPE="APP" />
+<person id="p27" start="1242" end="1257" text="Michael Freeman" TYPE="NAM" />
+<person id="p28" start="1259" end="1309" text="CBP port director at the Brownsville port of entry" TYPE="BAR" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="144" end="178" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="291" end="339" text="the Union County Sheriff's Office in Mississippi" TYPE="NOM" />
+<organization id="o3" start="353" end="356" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="656" end="659" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="692" end="695" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="829" end="832" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="909" end="944" text="the Cameron County Sheriff's Office" TYPE="NOM" />
+<organization id="o8" start="1110" end="1113" text="our" TYPE="PRO" />
+<organization id="o9" start="1259" end="1262" text="CBP" TYPE="NAMPRE" />
+<geographical-political id="g0" start="122" end="140" text="Brownsville, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="135" end="140" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="295" end="307" text="Union County" TYPE="NAMPRE" />
+<geographical-political id="g3" start="328" end="339" text="Mississippi" TYPE="NAM" />
+<geographical-political id="g4" start="438" end="442" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g5" start="467" end="484" text="New Albany, Miss." TYPE="NAM" />
+<geographical-political id="g6" start="479" end="484" text="Miss." TYPE="NAM" />
+<geographical-political id="g7" start="765" end="796" text="Union County, New Albany, Miss." TYPE="NAM" />
+<geographical-political id="g8" start="779" end="796" text="New Albany, Miss." TYPE="NAM" />
+<geographical-political id="g9" start="791" end="796" text="Miss." TYPE="NAM" />
+<geographical-political id="g10" start="913" end="927" text="Cameron County" TYPE="NAMPRE" />
+<geographical-political id="g11" start="976" end="982" text="county" TYPE="BAR" />
+<geographical-political id="g12" start="1011" end="1022" text="Mississippi" TYPE="NAM" />
+<falicity id="f0" start="17" end="42" text="Brownsville Port of Entry" TYPE="NAM" />
+<falicity id="f1" start="191" end="220" text="the Brownsville port of entry" TYPE="NAM" />
+<falicity id="f2" start="369" end="402" text="the Veterans International Bridge" TYPE="NAM" />
+<falicity id="f3" start="621" end="638" text="the port of entry" TYPE="NOM" />
+<falicity id="f4" start="972" end="987" text="the county jail" TYPE="NOM" />
+<falicity id="f5" start="1280" end="1309" text="the Brownsville port of entry" TYPE="NAM" />
+<falicity id="f6" start="1263" end="1267" text="port" TYPE="NOMPRE" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="17" end="42" text="Brownsville Port of Entry" />
+<head id="h3" start="50" end="55" text="Woman" />
+<head id="h4" start="122" end="133" text="Brownsville" />
+<head id="h5" start="135" end="140" text="Texas" />
+<head id="h6" start="179" end="187" text="officers" />
+<head id="h7" start="144" end="178" text="U.S. Customs and Border Protection" />
+<head id="h8" start="195" end="220" text="Brownsville port of entry" />
+<head id="h9" start="235" end="240" text="woman" />
+<head id="h10" start="318" end="324" text="Office" />
+<head id="h11" start="308" end="315" text="Sheriff" />
+<head id="h12" start="295" end="307" text="Union County" />
+<head id="h13" start="328" end="339" text="Mississippi" />
+<head id="h14" start="357" end="365" text="officers" />
+<head id="h15" start="353" end="356" text="CBP" />
+<head id="h16" start="373" end="402" text="Veterans International Bridge" />
+<head id="h18" start="443" end="450" text="citizen" />
+<head id="h19" start="412" end="430" text="Jody Nicole Hamlet" />
+<head id="h20" start="455" end="463" text="resident" />
+<head id="h21" start="438" end="442" text="U.S." />
+<head id="h22" start="467" end="477" text="New Albany" />
+<head id="h23" start="479" end="484" text="Miss." />
+<head id="h24" start="603" end="609" text="Hamlet" />
+<head id="h25" start="625" end="629" text="port" />
+<head id="h26" start="644" end="654" text="pedestrian" />
+<head id="h27" start="660" end="668" text="officers" />
+<head id="h28" start="656" end="659" text="CBP" />
+<head id="h29" start="692" end="695" text="CBP" />
+<head id="h30" start="724" end="730" text="Hamlet" />
+<head id="h31" start="765" end="777" text="Union County" />
+<head id="h32" start="779" end="789" text="New Albany" />
+<head id="h33" start="791" end="796" text="Miss." />
+<head id="h34" start="833" end="841" text="officers" />
+<head id="h35" start="829" end="832" text="CBP" />
+<head id="h36" start="851" end="857" text="Hamlet" />
+<head id="h37" start="882" end="885" text="her" />
+<head id="h38" start="938" end="944" text="Office" />
+<head id="h39" start="928" end="935" text="Sheriff" />
+<head id="h40" start="913" end="927" text="Cameron County" />
+<head id="h41" start="946" end="952" text="Hamlet" />
+<head id="h42" start="983" end="987" text="jail" />
+<head id="h43" start="976" end="982" text="county" />
+<head id="h44" start="1011" end="1022" text="Mississippi" />
+<head id="h45" start="1090" end="1098" text="fugitive" />
+<head id="h46" start="1100" end="1101" text="I" />
+<head id="h47" start="1114" end="1122" text="officers" />
+<head id="h48" start="1110" end="1113" text="our" />
+<head id="h49" start="1182" end="1188" text="person" />
+<head id="h50" start="1189" end="1193" text="that" />
+<head id="h51" start="1242" end="1257" text="Michael Freeman" />
+<head id="h52" start="1268" end="1276" text="director" />
+<head id="h53" start="1259" end="1262" text="CBP" />
+<head id="h54" start="1284" end="1309" text="Brownsville port of entry" />
+<head id="h55" start="1263" end="1267" text="port" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="17" end="42" text="Brownsville Port of Entry" />
+<name id="n2" start="122" end="133" text="Brownsville" />
+<name id="n3" start="135" end="140" text="Texas" />
+<name id="n4" start="144" end="178" text="U.S. Customs and Border Protection" />
+<name id="n5" start="195" end="220" text="Brownsville port of entry" />
+<name id="n7" start="295" end="307" text="Union County" />
+<name id="n8" start="328" end="339" text="Mississippi" />
+<name id="n6" start="353" end="356" text="CBP" />
+<name id="n9" start="373" end="402" text="Veterans International Bridge" />
+<name id="n11" start="412" end="430" text="Jody Nicole Hamlet" />
+<name id="n12" start="438" end="442" text="U.S." />
+<name id="n13" start="467" end="477" text="New Albany" />
+<name id="n14" start="479" end="484" text="Miss." />
+<name id="n15" start="603" end="609" text="Hamlet" />
+<name id="n16" start="656" end="659" text="CBP" />
+<name id="n17" start="692" end="695" text="CBP" />
+<name id="n18" start="724" end="730" text="Hamlet" />
+<name id="n19" start="765" end="777" text="Union County" />
+<name id="n20" start="779" end="789" text="New Albany" />
+<name id="n21" start="791" end="796" text="Miss." />
+<name id="n22" start="829" end="832" text="CBP" />
+<name id="n23" start="851" end="857" text="Hamlet" />
+<name id="n24" start="913" end="927" text="Cameron County" />
+<name id="n25" start="946" end="952" text="Hamlet" />
+<name id="n26" start="1011" end="1022" text="Mississippi" />
+<name id="n27" start="1242" end="1257" text="Michael Freeman" />
+<name id="n28" start="1259" end="1262" text="CBP" />
+<name id="n29" start="1284" end="1309" text="Brownsville port of entry" />
+<located-mention id="lo0" start="1" end="42" text="CBP Officers at Brownsville Port of Entry" TYPE="Preposition" />
+<located-mention id="lo1" start="144" end="220" text="U.S. Customs and Border Protection officers at the Brownsville port of entry" TYPE="Preposition" />
+<located-mention id="lo3" start="353" end="402" text="CBP officers at the Veterans International Bridge" TYPE="Preposition" />
+<located-mention id="lo4" start="603" end="654" text="Hamlet arrived at the port of entry as a pedestrian" TYPE="Verbal" />
+<located-mention id="lo5" start="946" end="1022" text="Hamlet was transported to the county jail pending extradition to Mississippi" TYPE="Verbal" />
+<located-mention id="lo6" start="1259" end="1309" text="CBP port director at the Brownsville port of entry" TYPE="Preposition" />
+<located-mention id="lo7" start="1259" end="1309" text="CBP port director at the Brownsville port of entry" TYPE="PreMod" />
+<employment-mention id="e2" start="291" end="315" text="the Union County Sheriff" TYPE="PreMod" />
+<employment-mention id="e6" start="909" end="935" text="the Cameron County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="436" end="484" text="a U.S. citizen and resident of New Albany, Miss." TYPE="PreMod" />
+<CRRE id="C1" start="436" end="484" text="a U.S. citizen and resident of New Albany, Miss." TYPE="PreMod" />
+<M id="M0" start="291" end="339" text="the Union County Sheriff's Office in Mississippi" TYPE="Possessive" />
+<M id="M1" start="909" end="944" text="the Cameron County Sheriff's Office" TYPE="Possessive" />
+<M id="M2" start="1" end="42" text="CBP Officers at Brownsville Port of Entry" TYPE="PreMod" />
+<M id="M3" start="144" end="220" text="U.S. Customs and Border Protection officers at the Brownsville port of entry" TYPE="PreMod" />
+<M id="M4" start="353" end="402" text="CBP officers at the Veterans International Bridge" TYPE="PreMod" />
+<M id="M5" start="656" end="681" text="CBP officers in secondary" TYPE="PreMod" />
+<M id="M6" start="829" end="841" text="CBP officers" TYPE="PreMod" />
+<M id="M7" start="1110" end="1122" text="our officers" TYPE="Possessive" />
+<M id="M8" start="1259" end="1309" text="CBP port director at the Brownsville port of entry" TYPE="PreMod" />
+<entity_link id="en0" fromID="p2" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="p0" toText="CBP Officers at Brownsville Port of Entry" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="f1" fromText="the Brownsville port of entry" toID="f0" toText="Brownsville Port of Entry" />
+<entity_link id="en3" fromID="p3" fromText="a woman on a warrant for parental kidnapping charges from the Union County Sheriff's Office in Mississippi" toID="p1" toText="Woman Wanted on Parental Kidnapping Charges" />
+<entity_link id="en4" fromID="o3" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en8" fromID="p9" fromText="Jody Nicole Hamlet, 32" toID="p3" toText="a woman on a warrant for parental kidnapping charges from the Union County Sheriff's Office in Mississippi" />
+<entity_link id="en9" fromID="p9" fromText="Jody Nicole Hamlet, 32" toID="p6" toText="Jody Nicole Hamlet, 32, a U.S. citizen and resident of New Albany, Miss." />
+<entity_link id="en11" fromID="p8" fromText="a U.S. citizen and resident of New Albany, Miss." toID="p9" toText="Jody Nicole Hamlet, 32" />
+<entity_link id="en12" fromID="p10" fromText="a U.S. citizen and resident of New Albany, Miss." toID="p8" toText="a U.S. citizen and resident of New Albany, Miss." />
+<entity_link id="en13" fromID="g6" fromText="Miss." toID="g3" toText="Mississippi" />
+<entity_link id="en14" fromID="p11" fromText="Hamlet" toID="p9" toText="Jody Nicole Hamlet, 32" />
+<entity_link id="en15" fromID="f3" fromText="the port of entry" toID="f1" toText="the Brownsville port of entry" />
+<entity_link id="en16" fromID="p12" fromText="a pedestrian" toID="p11" toText="Hamlet" />
+<entity_link id="en17" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en18" fromID="p13" fromText="CBP officers in secondary" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville port of entry" />
+<entity_link id="en19" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en20" fromID="p14" fromText="Hamlet" toID="p11" toText="Hamlet" />
+<entity_link id="en21" fromID="g7" fromText="Union County, New Albany, Miss." toID="g2" toText="Union County" />
+<entity_link id="en22" fromID="g8" fromText="New Albany, Miss." toID="g5" toText="New Albany, Miss." />
+<entity_link id="en23" fromID="g9" fromText="Miss." toID="g6" toText="Miss." />
+<entity_link id="en24" fromID="p15" fromText="CBP officers" toID="p13" toText="CBP officers in secondary" />
+<entity_link id="en26" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en27" fromID="p16" fromText="Hamlet" toID="p14" toText="Hamlet" />
+<entity_link id="en28" fromID="p17" fromText="her" toID="p16" toText="Hamlet" />
+<entity_link id="en29" fromID="p19" fromText="Hamlet" toID="p16" toText="Hamlet" />
+<entity_link id="en30" fromID="g11" fromText="county" toID="g10" toText="Cameron County" />
+<entity_link id="en31" fromID="g12" fromText="Mississippi" toID="g9" toText="Miss." />
+<entity_link id="en32" fromID="p20" fromText="this wanted fugitive" toID="p19" toText="Hamlet" />
+<entity_link id="en33" fromID="p22" fromText="our officers" toID="p15" toText="CBP officers" />
+<entity_link id="en34" fromID="o8" fromText="our" toID="o6" toText="CBP" />
+<entity_link id="en36" fromID="p25" fromText="that" toID="p24" toText="another wanted person that will now face pending kidnapping charges" />
+<entity_link id="en37" fromID="p24" fromText="another wanted person that will now face pending kidnapping charges" toID="p20" toText="this wanted fugitive" />
+<entity_link id="en38" fromID="p27" fromText="Michael Freeman" toID="p26" toText="Michael Freeman, CBP port director at the Brownsville port of entry" />
+<entity_link id="en39" fromID="p28" fromText="CBP port director at the Brownsville port of entry" toID="p27" toText="Michael Freeman" />
+<entity_link id="en40" fromID="o9" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en41" fromID="f5" fromText="the Brownsville port of entry" toID="f1" toText="the Brownsville port of entry" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers at Brownsville Port of Entry" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="f0" fromText="Brownsville Port of Entry" toID="h2" toText="Brownsville Port of Entry" />
+<head_link id="he3" fromID="p1" fromText="Woman Wanted on Parental Kidnapping Charges" toID="h3" toText="Woman" />
+<head_link id="he4" fromID="g0" fromText="Brownsville, Texas" toID="h4" toText="Brownsville" />
+<head_link id="he5" fromID="g1" fromText="Texas" toID="h5" toText="Texas" />
+<head_link id="he6" fromID="p2" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="h6" toText="officers" />
+<head_link id="he7" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h7" toText="U.S. Customs and Border Protection" />
+<head_link id="he8" fromID="f1" fromText="the Brownsville port of entry" toID="h8" toText="Brownsville port of entry" />
+<head_link id="he9" fromID="p3" fromText="a woman on a warrant for parental kidnapping charges from the Union County Sheriff's Office in Mississippi" toID="h9" toText="woman" />
+<head_link id="he10" fromID="o2" fromText="the Union County Sheriff's Office in Mississippi" toID="h10" toText="Office" />
+<head_link id="he11" fromID="p4" fromText="the Union County Sheriff" toID="h11" toText="Sheriff" />
+<head_link id="he12" fromID="g2" fromText="Union County" toID="h12" toText="Union County" />
+<head_link id="he13" fromID="g3" fromText="Mississippi" toID="h13" toText="Mississippi" />
+<head_link id="he14" fromID="p5" fromText="CBP officers at the Veterans International Bridge" toID="h14" toText="officers" />
+<head_link id="he15" fromID="o3" fromText="CBP" toID="h15" toText="CBP" />
+<head_link id="he16" fromID="f2" fromText="the Veterans International Bridge" toID="h16" toText="Veterans International Bridge" />
+<head_link id="he18" fromID="p8" fromText="a U.S. citizen and resident of New Albany, Miss." toID="h18" toText="citizen" />
+<head_link id="he19" fromID="p9" fromText="Jody Nicole Hamlet, 32" toID="h19" toText="Jody Nicole Hamlet" />
+<head_link id="he20" fromID="p10" fromText="a U.S. citizen and resident of New Albany, Miss." toID="h20" toText="resident" />
+<head_link id="he21" fromID="g4" fromText="U.S." toID="h21" toText="U.S." />
+<head_link id="he22" fromID="g5" fromText="New Albany, Miss." toID="h22" toText="New Albany" />
+<head_link id="he23" fromID="g6" fromText="Miss." toID="h23" toText="Miss." />
+<head_link id="he24" fromID="p11" fromText="Hamlet" toID="h24" toText="Hamlet" />
+<head_link id="he25" fromID="f3" fromText="the port of entry" toID="h25" toText="port" />
+<head_link id="he26" fromID="p12" fromText="a pedestrian" toID="h26" toText="pedestrian" />
+<head_link id="he27" fromID="p13" fromText="CBP officers in secondary" toID="h27" toText="officers" />
+<head_link id="he28" fromID="o4" fromText="CBP" toID="h28" toText="CBP" />
+<head_link id="he29" fromID="o5" fromText="CBP" toID="h29" toText="CBP" />
+<head_link id="he30" fromID="p14" fromText="Hamlet" toID="h30" toText="Hamlet" />
+<head_link id="he31" fromID="g7" fromText="Union County, New Albany, Miss." toID="h31" toText="Union County" />
+<head_link id="he32" fromID="g8" fromText="New Albany, Miss." toID="h32" toText="New Albany" />
+<head_link id="he33" fromID="g9" fromText="Miss." toID="h33" toText="Miss." />
+<head_link id="he34" fromID="p15" fromText="CBP officers" toID="h34" toText="officers" />
+<head_link id="he35" fromID="o6" fromText="CBP" toID="h35" toText="CBP" />
+<head_link id="he36" fromID="p16" fromText="Hamlet" toID="h36" toText="Hamlet" />
+<head_link id="he37" fromID="p17" fromText="her" toID="h37" toText="her" />
+<head_link id="he38" fromID="o7" fromText="the Cameron County Sheriff's Office" toID="h38" toText="Office" />
+<head_link id="he39" fromID="p18" fromText="the Cameron County Sheriff" toID="h39" toText="Sheriff" />
+<head_link id="he40" fromID="g10" fromText="Cameron County" toID="h40" toText="Cameron County" />
+<head_link id="he41" fromID="p19" fromText="Hamlet" toID="h41" toText="Hamlet" />
+<head_link id="he42" fromID="f4" fromText="the county jail" toID="h42" toText="jail" />
+<head_link id="he43" fromID="g11" fromText="county" toID="h43" toText="county" />
+<head_link id="he44" fromID="g12" fromText="Mississippi" toID="h44" toText="Mississippi" />
+<head_link id="he45" fromID="p20" fromText="this wanted fugitive" toID="h45" toText="fugitive" />
+<head_link id="he46" fromID="p21" fromText="I" toID="h46" toText="I" />
+<head_link id="he47" fromID="p22" fromText="our officers" toID="h47" toText="officers" />
+<head_link id="he48" fromID="o8" fromText="our" toID="h48" toText="our" />
+<head_link id="he50" fromID="p24" fromText="another wanted person that will now face pending kidnapping charges" toID="h49" toText="person" />
+<head_link id="he51" fromID="p25" fromText="that" toID="h50" toText="that" />
+<head_link id="he52" fromID="p27" fromText="Michael Freeman" toID="h51" toText="Michael Freeman" />
+<head_link id="he53" fromID="p28" fromText="CBP port director at the Brownsville port of entry" toID="h52" toText="director" />
+<head_link id="he54" fromID="o9" fromText="CBP" toID="h53" toText="CBP" />
+<head_link id="he55" fromID="f5" fromText="the Brownsville port of entry" toID="h54" toText="Brownsville port of entry" />
+<head_link id="he56" fromID="f6" fromText="port" toID="h55" toText="port" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="f0" fromText="Brownsville Port of Entry" toID="n1" toText="Brownsville Port of Entry" />
+<name_link id="na2" fromID="g0" fromText="Brownsville, Texas" toID="n2" toText="Brownsville" />
+<name_link id="na3" fromID="g1" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na4" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="f1" fromText="the Brownsville port of entry" toID="n5" toText="Brownsville port of entry" />
+<name_link id="na6" fromID="g2" fromText="Union County" toID="n7" toText="Union County" />
+<name_link id="na7" fromID="g3" fromText="Mississippi" toID="n8" toText="Mississippi" />
+<name_link id="na8" fromID="o3" fromText="CBP" toID="n6" toText="CBP" />
+<name_link id="na9" fromID="f2" fromText="the Veterans International Bridge" toID="n9" toText="Veterans International Bridge" />
+<name_link id="na11" fromID="p9" fromText="Jody Nicole Hamlet, 32" toID="n11" toText="Jody Nicole Hamlet" />
+<name_link id="na12" fromID="g4" fromText="U.S." toID="n12" toText="U.S." />
+<name_link id="na13" fromID="g5" fromText="New Albany, Miss." toID="n13" toText="New Albany" />
+<name_link id="na14" fromID="g6" fromText="Miss." toID="n14" toText="Miss." />
+<name_link id="na15" fromID="p11" fromText="Hamlet" toID="n15" toText="Hamlet" />
+<name_link id="na16" fromID="o4" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na17" fromID="o5" fromText="CBP" toID="n17" toText="CBP" />
+<name_link id="na18" fromID="p14" fromText="Hamlet" toID="n18" toText="Hamlet" />
+<name_link id="na19" fromID="g7" fromText="Union County, New Albany, Miss." toID="n19" toText="Union County" />
+<name_link id="na20" fromID="g8" fromText="New Albany, Miss." toID="n20" toText="New Albany" />
+<name_link id="na21" fromID="g9" fromText="Miss." toID="n21" toText="Miss." />
+<name_link id="na22" fromID="o6" fromText="CBP" toID="n22" toText="CBP" />
+<name_link id="na23" fromID="p16" fromText="Hamlet" toID="n23" toText="Hamlet" />
+<name_link id="na24" fromID="g10" fromText="Cameron County" toID="n24" toText="Cameron County" />
+<name_link id="na25" fromID="p19" fromText="Hamlet" toID="n25" toText="Hamlet" />
+<name_link id="na26" fromID="g12" fromText="Mississippi" toID="n26" toText="Mississippi" />
+<name_link id="na27" fromID="p27" fromText="Michael Freeman" toID="n27" toText="Michael Freeman" />
+<name_link id="na28" fromID="o9" fromText="CBP" toID="n28" toText="CBP" />
+<name_link id="na29" fromID="f5" fromText="the Brownsville port of entry" toID="n29" toText="Brownsville port of entry" />
+<relation_link1 id="r0" fromID="M2" fromText="CBP Officers at Brownsville Port of Entry" toID="p0" toText="CBP Officers at Brownsville Port of Entry" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP Officers at Brownsville Port of Entry" toID="p0" toText="CBP Officers at Brownsville Port of Entry" />
+<relation_link1 id="r2" fromID="M3" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville port of entry" />
+<relation_link1 id="r3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="p2" toText="U.S. Customs and Border Protection officers at the Brownsville port of entry" />
+<relation_link1 id="r4" fromID="e2" fromText="the Union County Sheriff" toID="p4" toText="the Union County Sheriff" />
+<relation_link1 id="r6" fromID="M4" fromText="CBP officers at the Veterans International Bridge" toID="p5" toText="CBP officers at the Veterans International Bridge" />
+<relation_link1 id="r7" fromID="lo3" fromText="CBP officers at the Veterans International Bridge" toID="p5" toText="CBP officers at the Veterans International Bridge" />
+<relation_link1 id="r8" fromID="lo4" fromText="Hamlet arrived at the port of entry as a pedestrian" toID="p11" toText="Hamlet" />
+<relation_link1 id="r9" fromID="M5" fromText="CBP officers in secondary" toID="p13" toText="CBP officers in secondary" />
+<relation_link1 id="r10" fromID="M6" fromText="CBP officers" toID="p15" toText="CBP officers" />
+<relation_link1 id="r11" fromID="e6" fromText="the Cameron County Sheriff" toID="p18" toText="the Cameron County Sheriff" />
+<relation_link1 id="r12" fromID="lo5" fromText="Hamlet was transported to the county jail pending extradition to Mississippi" toID="p19" toText="Hamlet" />
+<relation_link1 id="r13" fromID="M7" fromText="our officers" toID="p22" toText="our officers" />
+<relation_link1 id="r14" fromID="M8" fromText="CBP port director at the Brownsville port of entry" toID="p28" toText="CBP port director at the Brownsville port of entry" />
+<relation_link1 id="r15" fromID="lo6" fromText="CBP port director at the Brownsville port of entry" toID="p28" toText="CBP port director at the Brownsville port of entry" />
+<relation_link1 id="r16" fromID="lo7" fromText="CBP port director at the Brownsville port of entry" toID="p28" toText="CBP port director at the Brownsville port of entry" />
+<relation_link1 id="r17" fromID="C0" fromText="a U.S. citizen and resident of New Albany, Miss." toID="p8" toText="a U.S. citizen and resident of New Albany, Miss." />
+<relation_link1 id="r18" fromID="C1" fromText="a U.S. citizen and resident of New Albany, Miss." toID="p10" toText="a U.S. citizen and resident of New Albany, Miss." />
+<relation_link1 id="r19" fromID="M0" fromText="the Union County Sheriff's Office in Mississippi" toID="p4" toText="the Union County Sheriff" />
+<relation_link1 id="r20" fromID="M1" fromText="the Cameron County Sheriff's Office" toID="p18" toText="the Cameron County Sheriff" />
+<relation_link2 id="re0" fromID="M2" fromText="CBP Officers at Brownsville Port of Entry" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP Officers at Brownsville Port of Entry" toID="f0" toText="Brownsville Port of Entry" />
+<relation_link2 id="re2" fromID="M3" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Brownsville port of entry" toID="f1" toText="the Brownsville port of entry" />
+<relation_link2 id="re4" fromID="e2" fromText="the Union County Sheriff" toID="g2" toText="Union County" />
+<relation_link2 id="re6" fromID="M4" fromText="CBP officers at the Veterans International Bridge" toID="o3" toText="CBP" />
+<relation_link2 id="re7" fromID="lo3" fromText="CBP officers at the Veterans International Bridge" toID="f2" toText="the Veterans International Bridge" />
+<relation_link2 id="re8" fromID="lo4" fromText="Hamlet arrived at the port of entry as a pedestrian" toID="f3" toText="the port of entry" />
+<relation_link2 id="re9" fromID="M5" fromText="CBP officers in secondary" toID="o4" toText="CBP" />
+<relation_link2 id="re10" fromID="M6" fromText="CBP officers" toID="o6" toText="CBP" />
+<relation_link2 id="re11" fromID="e6" fromText="the Cameron County Sheriff" toID="g10" toText="Cameron County" />
+<relation_link2 id="re12" fromID="lo5" fromText="Hamlet was transported to the county jail pending extradition to Mississippi" toID="f4" toText="the county jail" />
+<relation_link2 id="re13" fromID="M7" fromText="our officers" toID="o8" toText="our" />
+<relation_link2 id="re14" fromID="M8" fromText="CBP port director at the Brownsville port of entry" toID="o9" toText="CBP" />
+<relation_link2 id="re15" fromID="lo6" fromText="CBP port director at the Brownsville port of entry" toID="f5" toText="the Brownsville port of entry" />
+<relation_link2 id="re16" fromID="lo7" fromText="CBP port director at the Brownsville port of entry" toID="f6" toText="port" />
+<relation_link2 id="re17" fromID="C0" fromText="a U.S. citizen and resident of New Albany, Miss." toID="g4" toText="U.S." />
+<relation_link2 id="re18" fromID="C1" fromText="a U.S. citizen and resident of New Albany, Miss." toID="g5" toText="New Albany, Miss." />
+<relation_link2 id="re19" fromID="M0" fromText="the Union County Sheriff's Office in Mississippi" toID="o2" toText="the Union County Sheriff's Office in Mississippi" />
+<relation_link2 id="re20" fromID="M1" fromText="the Cameron County Sheriff's Office" toID="o7" toText="the Cameron County Sheriff's Office" />
+</TAGS>
+</KddTask>

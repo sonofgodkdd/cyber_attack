@@ -1,0 +1,28 @@
+More Insights On Alleged DDoS Attack Against Liberia Using Mirai Botnet
+Mohit Kumar
+
+On Thursday, we compiled a story based on research published by a British security expert reporting that some cyber criminals are apparently using Mirai Botnet to conduct DDoS attacks against the telecommunication companies in Liberia, a small African country.
+In his blog post, Kevin Beaumont claimed that a Liberian transit provider confirmed him about the DDoS attack of more than 500 Gbps targeting one undersea cable servicing Internet connectivity for the entire country.
+Later, some media outlets also confirmed that the DDoS attack caused Internet outage in some parts of the country, citing ‘slow Internet’ and ‘total outage’ experienced by some local sources and citizens.
+"The DDoS is killing our business. We have a challenge with the DDoS. We are hoping someone can stop it. It's killing our revenue. Our business has frequently been targeted" an employee with one Liberian mobile service provider told PC World.
+Network firm Level 3 confirmed Zack Whittaker of ZDNet that it had seen attacks on telecoms companies in Liberia making access to the web spotty. Other reports suggested mobile net access was affected too.
+"At first I thought it was a problem with my internet provider, which often suffers from slow speeds. But this feels more serious. Even when you do get online, the connection repeatedly cuts out." BBC Africa's Jonathan Paye-Layleh in Liberia shared his experience.
+Of course, based on the high concern, the story went viral and Kevin's research was covered by other media outlets, including BBC, PC World, The Guardian, Forbes, IBtimes, Quartz, Mashable, although few of them interpreted the incident incorrectly and claimed that the attack took down the entire country's Internet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In our article, we explicitly mentioned multiple times that criminals are "using Mirai Botnet to shut down the Internet for an entire country" and "trying to take down the Internet of Liberia."
+The only mistake in our previous article was the image caption which briefly said, "DDoS takes down entire country offline." We apologize to our readers for an incorrect image caption, which has now been corrected.
+Latest Insights On Liberia DDoS Attack Story
+After Kevin’s story, some new developments with more insights have appeared.
+Doug Madory, the Director of Internet Analysis at Dyn Research tweeted that DYN and Internet-infrastructure company Akamai have no data that supports any nationwide Internet outage in Liberia.
+The Hacker News has also been contacted by Kpetermeni Siakor, who manages infrastructure at the Liberia Internet Exchange Point, stating that only Lonestarcell MTN, one of the country's four major telecommunication companies, faced 500 Gbps of DDoS attack for a short period, which was mitigated successfully.
+"From inspecting our logs at the Liberia IXP, we didn't see any downtime in the past three weeks. The general manager of the CCL also couldn't confirm any issues with the ACE cable," Siakor said.
+In our previous article, the primary concern surrounds around two facts: The Mirai Botnet capability and ACE submarine fiber-optic cable capacity.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Where just 100,000 Mirai bots were successful in knocking down the majority of Internet Offline two weeks ago, how easy it could be for millions of bots to DDoS the ACE submarine fiber-optic cable, whose total capacity is just 5.12 Tbps that is being shared between all of the 23 countries, including Liberia.
+So, when we said that someone was trying to take the entire country down, we meant that cyber criminals have such capacity to do so, and since they have targeted one network operator, does not mean they would not attack other network operators that could impact the Internet services in the country.
+Mirai Malware Threat: Protect Your IoT Devices
+The incidents involving the Mirai malware is extremely worrying because it can take over insecure cameras, DVRs, and routers, which are widely available all around the world – Thanks to lazy manufacturers and customers.
+Mirai malware scans for Internet of Things (IoT) devices that are still using their default passwords and then enslaves those devices into a botnet, which is then used to launch DDoS attacks.
+So, the best way to protect yourself and your devices is to be more vigilant about the security of your smart devices.
+In our previous article, we provided some basic, rather practical, solutions that will help you protect your IoT devices from becoming part of the Mirai botnet. You can also check also yourself if your IoT device is vulnerable to Mirai malware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,12 @@
+PF Chang's China Bistro Confirms Credit and Debit Card Breach
+Wang Wei
+
+Following the massive data breaches at eBay, Neiman Marcus Group and Michaels Stores, yet another private equity company Centerbridge Partners-backed restaurant chain P.F. Chang’s China Bistro suffered a potential Credit and Debit card data breach.
+The Asian-themed casual dining restaurant chain confirmed on Thursday their customers’ Credit and Debit card information were stolen in the cyber attack on its restaurants, saying it is temporarily switching to a manual Credit and Debit card imprinting system for all of its P.F. Chang's China Bistro branded restaurants located in the United States, in order to process cards safety.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+“At P.F. Chang's, the safety and security of our guests' payment information is a top priority,” said Rick Federico, CEO of P.F. Chang’s. “Therefore, we have moved to a manual credit card imprinting system for all P.F. Chang's China Bistro branded restaurants located in the continental United States. This ensures our guests can still use their credit and debit cards safely in our restaurants as our investigation continues.”
+P.F. Chang’s released a statement saying that the restaurant chain was first alerted on Tuesday about the data breach by the United States Secret Service, which is investigating the matter along with a team of third-party forensics experts to understand the nature and scope of the incident.
+“On Tuesday, June 10, P.F. Chang's learned of a security compromise that involves credit and debit card data reportedly stolen from some of our restaurants. Immediately, we initiated an investigation with the United States Secret Service and a team of third-party forensics experts to understand the nature and scope of the incident, and while the investigation is still ongoing, we have concluded that data has been compromised,” reads the statement.
+Till now, the company didn’t know how many customers were affected in the data breach but it assured that company is working with the credit and debit card companies to identify those cards at risk. 
+The company also advised its customers to monitor their bank statements for any type of fraudulent activity. In addition, the company have also established a dedicated public website, pfchangs.com/security, for their customers to receive queries and answers it.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

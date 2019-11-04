@@ -1,0 +1,25 @@
+Private Decryption Key For Original Petya Ransomware Released
+Swati Khandelwal
+
+Rejoice Petya-infected victims!
+The master key for the original version of the Petya ransomware has been released by its creator, allowing Petya-infected victims to recover their encrypted files without paying any ransom money.
+But wait, Petya is not NotPetya.
+Do not confuse Petya ransomware with the latest destructive NotPetya ransomware (also known as ExPetr and Eternal Petya) attacks that wreaked havoc across the world last month, massively targeting multiple entities in Ukraine and parts of Europe.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Petya ransomware has three variants that have infected many systems around the world, but now the author of the original malware, goes by the pseudonym Janus, made the master key available on Wednesday.
+According to the security researchers, victims infected with previous variants of Petya ransomware, including Red Petya (first version) and Green Petya (second version) and early versions the GoldenEye ransomware can get their encrypted files back using the master key.
+The authenticity of the master key has been verified by an independent Polish information security researcher known as Hasherezade.
+"Similarly to the authors of TeslaCrypt, he released his private key, allowing all the victims of the previous Petya attacks, to get their files back," Hasherezade posted her finding on MalwareBytes on Thursday. 
+"Thanks to the currently published master key, all the people who have preserved the images of the disks encrypted by the relevant versions of Petya, may get a chance of getting their data back."
+Although the first and second version of Petya was cracked last year, the private key released by Janus offers the fastest and most reliable way yet for Petya-infected victims to decrypt their files, especially locked with the uncrackable third version.
+Meanwhile, Kaspersky Lab research analyst Anton Ivanov also analyzed the Janus' master key and confirmed that the key unlocks all versions of Petya ransomware, including GoldenEye.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Janus created the GoldenEye ransomware in 2016 and sold the variants as a Ransomware-as-a-Service (RaaS) to other hackers, allowing anyone to launch ransomware attacks with just one click and encrypt systems and demand a ransom to unlock it.
+If the victim pays, Janus gets a cut of the payment. But in December, he went silent.
+However, according to the Petya author, his malware has been modified by another threat actor to create NotPetya that targeted computers of critical infrastructure and corporations in Ukraine as well as 64 other countries.
+The NotPetya ransomware also makes use of the NSA's leaked Windows hacking exploit EternalBlue and EternalRomance to rapidly spread within a network, and WMIC and PSEXEC tools to remotely execute malware on the machines.
+Security experts even believe the real intention behind the recent ransomware outcry, which was believed to be bigger than the WannaCry ransomware, was to cause disruption, rather than just another ransomware attack.
+According to researchers, NotPetya is in reality wiper malware that wipes systems outright, destroying all records from the targeted systems, and asking for ransom was just to divert world's attention from a state-sponsored attack to a malware outbreak.
+Lucky are not those infected with NotPetya, but the master key can help people who were attacked by previous variants of Petya and Goldeneye ransomware in the past.
+Security researchers are using the key to build free decryptors for victims who still have crypto-locked hard drives.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

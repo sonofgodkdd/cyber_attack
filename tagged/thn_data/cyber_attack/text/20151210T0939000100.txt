@@ -1,0 +1,25 @@
+Someone Just Tried to Take Down Internet's Backbone with 5 Million Queries/Sec
+Swati Khandelwal
+
+Someone just DDoSed one of the most critical organs of the Internet anatomy – The Internet's DNS Root Servers.
+Early last week, a flood of as many as 5 Million queries per second hit many of the Internet's DNS (Domain Name System) Root Servers that act as the authoritative reference for mapping domain names to IP addresses and are a total of 13 in numbers.
+The attack, commonly known as Distributed Denial of Service (DDoS) attack, took place on two separate occasions.
+The first DDoS attack to the Internet's backbone root servers launched on November 30 that lasted 160 minutes (almost 3 hours), and the second one started on December 1 that lasted almost an hour.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Massive Attacks Knocked Many of the 13 Root Servers Offline
+The DDoS attack was able to knock 3 out of the 13 DNS root servers of the Internet offline for a couple of hours.
+Also Read: Secure Email Service Paid Hackers $6000 Ransom to Stop DDoS Attacks.
+The request queries fired at the servers were valid DNS messages addressed towards a single domain name in the first DDoS attack, and the second day's DDoS attack addressed towards a different domain name.
+According to the analysis published by the root server operators on Tuesday, each attack fired up to 5 million queries/second per DNS root name server that was enough to flood the network and cause timeouts on the B, C, G, and H root servers.
+There is no indication of who or what was behind the large-scale DDoS attacks because the source IP addresses used in the attacks were very well distributed and randomized across the entire IPv4 address space.
+Interesting Read: Record-breaking 1Tbps Speed achieved Over 5G Mobile Connection.
+However, the DDoS attacks did not cause any serious damage to the Internet, but a mere delay for some of the Internet users who made DNS queries through their web browser, FTP, SSH, or other clients.
+This Smart Design Defends DNS Protocol Infrastructure
+The motive for such attacks is still unclear because disabling or knocking down a root server won't have a severe impact on the Internet as there are several thousand of other DNS servers managing DNS queries.
+"The DNS Root Name Server system functioned as [it's] designed, demonstrating overall robustness in the face of [massive] traffic floods observed at numerous DNS Root Name Servers," Root Server Operators says (PDF), referring to the backup system employed by DNS servers.
+Like the Internet, DNS is constructed on a mesh-like structure, so if one server doesn't respond to a request, other servers step in and provide a DNS query result.
+According to the DNS root server operators, the attack was not the result of a reflective DDoS attack in which open and misconfigured DNS is used to launch high-bandwidth DDoS attacks on the target.
+Recommended Read: Over 20Gbps DDoS attacks Now Become Common for Hackers.
+Despite all the facts, any attack on the critical infrastructure of the Internet is taken extremely seriously.
+The DNS root server operators recommended the Internet Service Providers (ISPs) to implement Source Address Validation and BCP 38, an Internet Engineering Task Force standard that helps defeat IP address spoofing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

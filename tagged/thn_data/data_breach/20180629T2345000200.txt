@@ -1,0 +1,14 @@
+Typeform, Popular Online Survey Software, Suffers Data Breach
+Swati Khandelwal
+Typeform, the popular Spanish-based online data collection company specializes in form building and online surveys for businesses worldwide, has today disclosed that the company has suffered a data breach that exposed partial data of its some users.
+The company identified the breach on June 27th, and then quickly performed a full forensic investigation of the incident to identify the source of the breach.
+According to the company, some unknown attackers managed to gain unauthorized access to its servers and downloaded a partial data backups for surveys conducted before May 3rd 2018.
+Typeform confirmed that it patched the issue within just half an hour after identifying the intrusion, and emailed all the affected users, warning them to watch out for potential phishing scams, or spam emails.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company did not disclose any details about the vulnerability that was exploited by hackers to gain access to its servers, though it assured its users that no payment card details or password information for the website had been exposed in the breach.
+Also, if customers collected payments via Typeform's Stripe integration, all of their audience's payment details are safe.
+One of its customers, Monzo, a digital mobile-only bank that had used Typeform's service to collect survey results in the past, also conducted an initial investigation of the incident and confirmed that "some personal data of about 20,000 people are likely to have been included in the breach."
+"For the vast majority of people, this was just their email address. For a much smaller proportion of others, this may have included other data like their Twitter username or postcode. We’ve published a full breakdown at the bottom of this post," Monzo CEO Tom Blomfield wrote on its website.Monzo is also sending out emails to its users affected by the data breach, informing that the breach likely included their email addresses and that the incident has not affected their user’s Monzo accounts and their money is safe.
+Popular sportswear company Adidas on Thursday also confirmed a potential data breach that affected millions of its U.S. customers, who may have compromised their usernames, password hashes and contact information.
+Yesterday, Global entertainment ticketing service Ticketmaster also admitted that the company has suffered a security breach that exposed some of their customers personal and payment information to unknown hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

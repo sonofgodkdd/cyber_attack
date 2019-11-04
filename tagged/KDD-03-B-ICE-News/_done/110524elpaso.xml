@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+May 24, 2011
+ICE turns over fugitive wanted for murder to Mexican authorities
+EL PASO, Texas - U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers on Tuesday deported an illegal alien wanted for homicide in Chihuahua, Mexico.
+Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge. Nieto Garcia is wanted for a 2004 homicide in Chihuahua, Mexico.
+Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California. He entered the country illegally in 1995. Since then he has been arrested several times and convicted twice on drug charges.
+He attempted to unlawfully re-enter the country in 2007 and 2009. He was prosecuted for illegally re-entering the United States after having been deported, which is a felony. He was sentenced to 30 months in federal prison.
+On Sept. 30, 2010, the attorney general's office of Mexico requested ICE ERO notify its El Paso representative when Nieto Garcia was removed. Nieto Garcia was released from federal custody on May 17 and turned over to ICE ERO for removal.
+This deportation is part of a bi-national agreement between ICE and Mexico's attorney general's office.
+ICE has deported many other fugitives wanted for murder, and other crimes such as alien smuggling, kidnapping and rape.
+"The cooperation between ICE and Mexican authorities is enhancing public safety on both sides of the border," said Adrian Macias, field office director of ICE ERO in El Paso. "It's also ensuring criminals, who flee from their home countries seeking a safe haven, are brought to justice."
+Between Oct. 1, 2010 and April 30, ICE returned to their countries of origin more than 215,900 aliens, including 109,700 aliens with criminal convictions. Of those, 585 were convicted of homicide, 3,177 were convicted sex offenders, and 24,593 were convicted of serious drug offenses.PreviousNext
+]]></TEXT>
+<TAGS>
+<person id="p0" start="29" end="78" text="fugitive wanted for murder to Mexican authorities" TYPE="BAR" />
+<person id="p1" start="59" end="78" text="Mexican authorities" TYPE="BAR" />
+<person id="p2" start="96" end="194" text="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" TYPE="BAR" />
+<person id="p3" start="215" end="272" text="an illegal alien wanted for homicide in Chihuahua, Mexico" TYPE="NOM" />
+<person id="p4" start="274" end="297" text="Ramiro Nieto Garcia, 35" TYPE="NAM" />
+<person id="p5" start="318" end="337" text="Mexican authorities" TYPE="BAR" />
+<person id="p6" start="396" end="408" text="Nieto Garcia" TYPE="NAM" />
+<person id="p7" start="461" end="473" text="Nieto Garcia" TYPE="NAM" />
+<person id="p8" start="521" end="537" text="ICE ERO officers" TYPE="BAR" />
+<person id="p9" start="550" end="553" text="him" TYPE="PRO" />
+<person id="p10" start="600" end="602" text="He" TYPE="PRO" />
+<person id="p11" start="653" end="655" text="he" TYPE="PRO" />
+<person id="p12" start="725" end="727" text="He" TYPE="PRO" />
+<person id="p13" start="791" end="793" text="He" TYPE="PRO" />
+<person id="p14" start="900" end="902" text="He" TYPE="PRO" />
+<person id="p15" start="968" end="988" text="the attorney general" TYPE="NOM" />
+<person id="p16" start="972" end="980" text="attorney" TYPE="NOMPRE" />
+<person id="p17" start="1033" end="1059" text="its El Paso representative" TYPE="NOM" />
+<person id="p18" start="1065" end="1077" text="Nieto Garcia" TYPE="NAM" />
+<person id="p19" start="1091" end="1103" text="Nieto Garcia" TYPE="NAM" />
+<person id="p20" start="1265" end="1281" text="attorney general" TYPE="BAR" />
+<person id="p21" start="1265" end="1273" text="attorney" TYPE="NOMPRE" />
+<person id="p22" start="1309" end="1410" text="many other fugitives wanted for murder, and other crimes such as alien smuggling, kidnapping and rape" TYPE="NOM" />
+<person id="p23" start="1374" end="1379" text="alien" TYPE="NOMPRE" />
+<person id="p24" start="1445" end="1464" text="Mexican authorities" TYPE="BAR" />
+<person id="p25" start="1527" end="1585" text="Adrian Macias, field office director of ICE ERO in El Paso" TYPE="APP" />
+<person id="p26" start="1527" end="1540" text="Adrian Macias" TYPE="NAM" />
+<person id="p27" start="1542" end="1585" text="field office director of ICE ERO in El Paso" TYPE="BAR" />
+<person id="p28" start="1607" end="1673" text="criminals, who flee from their home countries seeking a safe haven" TYPE="BAR" />
+<person id="p29" start="1618" end="1621" text="who" TYPE="WHQ" />
+<person id="p30" start="1632" end="1637" text="their" TYPE="PRO" />
+<person id="p31" start="1777" end="1853" text="more than 215,900 aliens, including 109,700 aliens with criminal convictions" TYPE="NOM" />
+<person id="p32" start="1813" end="1853" text="109,700 aliens with criminal convictions" TYPE="NOM" />
+<person id="p33" start="1751" end="1756" text="their" TYPE="PRO" />
+<person id="p34" start="1858" end="1863" text="those" TYPE="HLS" />
+<person id="p35" start="1865" end="1868" text="585" TYPE="HLS" />
+<person id="p36" start="1897" end="1902" text="3,177" TYPE="HLS" />
+<person id="p37" start="1918" end="1931" text="sex offenders" TYPE="BAR" />
+<person id="p38" start="1937" end="1943" text="24,593" TYPE="HLS" />
+<organization id="o0" start="14" end="17" text="ICE" TYPE="NAM" />
+<organization id="o1" start="96" end="184" text="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="NAMPRE" />
+<organization id="o2" start="181" end="184" text="ERO" TYPE="NAM" />
+<organization id="o3" start="96" end="143" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="140" end="143" text="ICE" TYPE="NAM" />
+<organization id="o5" start="521" end="528" text="ICE ERO" TYPE="NAMPRE" />
+<organization id="o6" start="968" end="1007" text="the attorney general's office of Mexico" TYPE="NOM" />
+<organization id="o7" start="1018" end="1025" text="ICE ERO" TYPE="NAM" />
+<organization id="o8" start="1033" end="1036" text="its" TYPE="PRO" />
+<organization id="o9" start="1167" end="1174" text="ICE ERO" TYPE="NAM" />
+<organization id="o10" start="1248" end="1251" text="ICE" TYPE="NAM" />
+<organization id="o11" start="1256" end="1290" text="Mexico's attorney general's office" TYPE="NOM" />
+<organization id="o12" start="1292" end="1295" text="ICE" TYPE="NAM" />
+<organization id="o13" start="1437" end="1440" text="ICE" TYPE="NAM" />
+<organization id="o14" start="1567" end="1585" text="ICE ERO in El Paso" TYPE="NAM" />
+<organization id="o15" start="1542" end="1554" text="field office" TYPE="NOMPRE" />
+<organization id="o16" start="1735" end="1738" text="ICE" TYPE="NAM" />
+<geographical-political id="g0" start="59" end="66" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g1" start="79" end="93" text="EL PASO, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="88" end="93" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="255" end="272" text="Chihuahua, Mexico" TYPE="NAM" />
+<geographical-political id="g4" start="266" end="272" text="Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="318" end="325" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g6" start="363" end="370" text="El Paso" TYPE="NAM" />
+<geographical-political id="g7" start="442" end="459" text="Chihuahua, Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="453" end="459" text="Mexico" TYPE="NAM" />
+<geographical-political id="g9" start="588" end="598" text="California" TYPE="NAM" />
+<geographical-political id="g10" start="611" end="622" text="the country" TYPE="NOM" />
+<geographical-political id="g11" start="761" end="772" text="the country" TYPE="NOM" />
+<geographical-political id="g12" start="835" end="852" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="1001" end="1007" text="Mexico" TYPE="NAM" />
+<geographical-political id="g14" start="1037" end="1044" text="El Paso" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1256" end="1262" text="Mexico" TYPE="NAM" />
+<geographical-political id="g16" start="1445" end="1452" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g17" start="1578" end="1585" text="El Paso" TYPE="NAM" />
+<geographical-political id="g18" start="1632" end="1652" text="their home countries" TYPE="NOM" />
+<geographical-political id="g19" start="1751" end="1776" text="their countries of origin" TYPE="NOM" />
+<location id="l0" start="1495" end="1519" text="both sides of the border" TYPE="NOM" />
+<location id="l1" start="1509" end="1519" text="the border" TYPE="NOM" />
+<falicity id="f0" start="351" end="394" text="the port of El Paso's Stanton Street Bridge" TYPE="NAM" />
+<falicity id="f1" start="351" end="370" text="the port of El Paso" TYPE="NOM" />
+<falicity id="f2" start="557" end="598" text="the Calipatria State Prison in California" TYPE="NAM" />
+<falicity id="f3" start="933" end="947" text="federal prison" TYPE="BAR" />
+<head id="h0" start="14" end="17" text="ICE" />
+<head id="h1" start="29" end="37" text="fugitive" />
+<head id="h2" start="67" end="78" text="authorities" />
+<head id="h3" start="59" end="66" text="Mexican" />
+<head id="h4" start="79" end="86" text="EL PASO" />
+<head id="h5" start="88" end="93" text="Texas" />
+<head id="h6" start="186" end="194" text="officers" />
+<head id="h7" start="145" end="179" text="Enforcement and Removal Operations" />
+<head id="h8" start="181" end="184" text="ERO" />
+<head id="h9" start="96" end="136" text="U.S. Immigration and Customs Enforcement" />
+<head id="h10" start="140" end="143" text="ICE" />
+<head id="h11" start="226" end="231" text="alien" />
+<head id="h12" start="255" end="264" text="Chihuahua" />
+<head id="h13" start="266" end="272" text="Mexico" />
+<head id="h14" start="274" end="293" text="Ramiro Nieto Garcia" />
+<head id="h15" start="326" end="337" text="authorities" />
+<head id="h16" start="318" end="325" text="Mexican" />
+<head id="h17" start="373" end="394" text="Stanton Street Bridge" />
+<head id="h18" start="355" end="359" text="port" />
+<head id="h19" start="363" end="370" text="El Paso" />
+<head id="h20" start="396" end="408" text="Nieto Garcia" />
+<head id="h21" start="442" end="451" text="Chihuahua" />
+<head id="h22" start="453" end="459" text="Mexico" />
+<head id="h23" start="461" end="473" text="Nieto Garcia" />
+<head id="h24" start="529" end="537" text="officers" />
+<head id="h25" start="521" end="528" text="ICE ERO" />
+<head id="h26" start="550" end="553" text="him" />
+<head id="h27" start="561" end="584" text="Calipatria State Prison" />
+<head id="h28" start="588" end="598" text="California" />
+<head id="h29" start="600" end="602" text="He" />
+<head id="h30" start="615" end="622" text="country" />
+<head id="h31" start="653" end="655" text="he" />
+<head id="h32" start="725" end="727" text="He" />
+<head id="h33" start="765" end="772" text="country" />
+<head id="h34" start="791" end="793" text="He" />
+<head id="h35" start="839" end="852" text="United States" />
+<head id="h36" start="900" end="902" text="He" />
+<head id="h37" start="941" end="947" text="prison" />
+<head id="h38" start="991" end="997" text="office" />
+<head id="h39" start="981" end="988" text="general" />
+<head id="h40" start="972" end="980" text="attorney" />
+<head id="h41" start="1001" end="1007" text="Mexico" />
+<head id="h42" start="1018" end="1025" text="ICE ERO" />
+<head id="h43" start="1033" end="1036" text="its" />
+<head id="h44" start="1045" end="1059" text="representative" />
+<head id="h45" start="1037" end="1044" text="El Paso" />
+<head id="h46" start="1065" end="1077" text="Nieto Garcia" />
+<head id="h47" start="1091" end="1103" text="Nieto Garcia" />
+<head id="h48" start="1167" end="1174" text="ICE ERO" />
+<head id="h49" start="1248" end="1251" text="ICE" />
+<head id="h50" start="1284" end="1290" text="office" />
+<head id="h51" start="1274" end="1281" text="general" />
+<head id="h52" start="1265" end="1273" text="attorney" />
+<head id="h53" start="1256" end="1262" text="Mexico" />
+<head id="h54" start="1292" end="1295" text="ICE" />
+<head id="h55" start="1320" end="1329" text="fugitives" />
+<head id="h56" start="1374" end="1379" text="alien" />
+<head id="h57" start="1437" end="1440" text="ICE" />
+<head id="h58" start="1453" end="1464" text="authorities" />
+<head id="h59" start="1445" end="1452" text="Mexican" />
+<head id="h60" start="1500" end="1505" text="sides" />
+<head id="h61" start="1513" end="1519" text="border" />
+<head id="h62" start="1527" end="1540" text="Adrian Macias" />
+<head id="h63" start="1555" end="1563" text="director" />
+<head id="h64" start="1567" end="1574" text="ICE ERO" />
+<head id="h65" start="1578" end="1585" text="El Paso" />
+<head id="h66" start="1548" end="1554" text="office" />
+<head id="h67" start="1607" end="1616" text="criminals" />
+<head id="h68" start="1618" end="1621" text="who" />
+<head id="h69" start="1643" end="1652" text="countries" />
+<head id="h70" start="1632" end="1637" text="their" />
+<head id="h71" start="1735" end="1738" text="ICE" />
+<head id="h72" start="1795" end="1801" text="aliens" />
+<head id="h73" start="1821" end="1827" text="aliens" />
+<head id="h74" start="1751" end="1756" text="their" />
+<head id="h75" start="1757" end="1766" text="countries" />
+<head id="h76" start="1858" end="1863" text="those" />
+<head id="h77" start="1865" end="1868" text="585" />
+<head id="h78" start="1897" end="1902" text="3,177" />
+<head id="h79" start="1922" end="1931" text="offenders" />
+<head id="h80" start="1937" end="1943" text="24,593" />
+<name id="n0" start="14" end="17" text="ICE" />
+<name id="n1" start="59" end="66" text="Mexican" />
+<name id="n2" start="79" end="86" text="EL PASO" />
+<name id="n3" start="88" end="93" text="Texas" />
+<name id="n4" start="145" end="179" text="Enforcement and Removal Operations" />
+<name id="n5" start="181" end="184" text="ERO" />
+<name id="n6" start="96" end="136" text="U.S. Immigration and Customs Enforcement" />
+<name id="n7" start="140" end="143" text="ICE" />
+<name id="n8" start="255" end="264" text="Chihuahua" />
+<name id="n9" start="266" end="272" text="Mexico" />
+<name id="n10" start="274" end="293" text="Ramiro Nieto Garcia" />
+<name id="n11" start="318" end="325" text="Mexican" />
+<name id="n12" start="373" end="394" text="Stanton Street Bridge" />
+<name id="n13" start="363" end="370" text="El Paso" />
+<name id="n14" start="396" end="408" text="Nieto Garcia" />
+<name id="n15" start="442" end="451" text="Chihuahua" />
+<name id="n16" start="453" end="459" text="Mexico" />
+<name id="n17" start="461" end="473" text="Nieto Garcia" />
+<name id="n18" start="521" end="528" text="ICE ERO" />
+<name id="n19" start="561" end="584" text="Calipatria State Prison" />
+<name id="n20" start="588" end="598" text="California" />
+<name id="n21" start="839" end="852" text="United States" />
+<name id="n22" start="1001" end="1007" text="Mexico" />
+<name id="n23" start="1018" end="1025" text="ICE ERO" />
+<name id="n24" start="1037" end="1044" text="El Paso" />
+<name id="n25" start="1065" end="1077" text="Nieto Garcia" />
+<name id="n26" start="1091" end="1103" text="Nieto Garcia" />
+<name id="n27" start="1167" end="1174" text="ICE ERO" />
+<name id="n28" start="1248" end="1251" text="ICE" />
+<name id="n29" start="1256" end="1262" text="Mexico" />
+<name id="n30" start="1292" end="1295" text="ICE" />
+<name id="n31" start="1437" end="1440" text="ICE" />
+<name id="n32" start="1445" end="1452" text="Mexican" />
+<name id="n33" start="1527" end="1540" text="Adrian Macias" />
+<name id="n34" start="1567" end="1574" text="ICE ERO" />
+<name id="n35" start="1578" end="1585" text="El Paso" />
+<name id="n36" start="1735" end="1738" text="ICE" />
+<located-mention id="lo0" start="274" end="394" text="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" TYPE="Other" />
+<located-mention id="lo1" start="274" end="394" text="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" TYPE="Other" />
+<located-mention id="lo2" start="461" end="598" text="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" TYPE="Other" />
+<located-mention id="lo3" start="461" end="598" text="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" TYPE="Other" />
+<located-mention id="lo4" start="600" end="640" text="He entered the country illegally in 1995" TYPE="Verbal" />
+<located-mention id="lo5" start="725" end="789" text="He attempted to unlawfully re-enter the country in 2007 and 2009" TYPE="Other" />
+<located-mention id="lo6" start="791" end="898" text="He was prosecuted for illegally re-entering the United States after having been deported, which is a felony" TYPE="Other" />
+<located-mention id="lo7" start="1033" end="1059" text="its El Paso representative" TYPE="PreMod" />
+<located-mention id="lo8" start="1588" end="1697" text="It's also ensuring criminals, who flee from their home countries seeking a safe haven, are brought to justice" TYPE="Verbal" />
+<employment-mention id="e0" start="59" end="78" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e1" start="318" end="337" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e2" start="1445" end="1464" text="Mexican authorities" TYPE="PreMod" />
+<CRRE id="C0" start="1632" end="1652" text="their home countries" TYPE="Possessive" />
+<CRRE id="C1" start="1751" end="1776" text="their countries of origin" TYPE="Possessive" />
+<M id="M0" start="96" end="194" text="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" TYPE="PreMod" />
+<M id="M1" start="521" end="537" text="ICE ERO officers" TYPE="PreMod" />
+<M id="M2" start="968" end="1007" text="the attorney general's office of Mexico" TYPE="Possessive" />
+<M id="M3" start="1033" end="1059" text="its El Paso representative" TYPE="PreMod" />
+<M id="M4" start="1256" end="1290" text="Mexico's attorney general's office" TYPE="Possessive" />
+<M id="M5" start="1542" end="1585" text="field office director of ICE ERO in El Paso" TYPE="Preposition" />
+<M id="M6" start="1542" end="1585" text="field office director of ICE ERO in El Paso" TYPE="PreMod" />
+<entity_link id="en0" fromID="o2" fromText="ERO" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<entity_link id="en1" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en2" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="o0" toText="ICE" />
+<entity_link id="en3" fromID="p3" fromText="an illegal alien wanted for homicide in Chihuahua, Mexico" toID="p0" toText="fugitive wanted for murder to Mexican authorities" />
+<entity_link id="en4" fromID="g4" fromText="Mexico" toID="g0" toText="Mexican" />
+<entity_link id="en5" fromID="p4" fromText="Ramiro Nieto Garcia, 35" toID="p3" toText="an illegal alien wanted for homicide in Chihuahua, Mexico" />
+<entity_link id="en6" fromID="p5" fromText="Mexican authorities" toID="p1" toText="Mexican authorities" />
+<entity_link id="en7" fromID="g5" fromText="Mexican" toID="g4" toText="Mexico" />
+<entity_link id="en8" fromID="g6" fromText="El Paso" toID="g1" toText="EL PASO, Texas" />
+<entity_link id="en9" fromID="p6" fromText="Nieto Garcia" toID="p4" toText="Ramiro Nieto Garcia, 35" />
+<entity_link id="en10" fromID="g7" fromText="Chihuahua, Mexico" toID="g3" toText="Chihuahua, Mexico" />
+<entity_link id="en11" fromID="g8" fromText="Mexico" toID="g4" toText="Mexico" />
+<entity_link id="en12" fromID="p7" fromText="Nieto Garcia" toID="p6" toText="Nieto Garcia" />
+<entity_link id="en13" fromID="p8" fromText="ICE ERO officers" toID="p2" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" />
+<entity_link id="en14" fromID="o5" fromText="ICE ERO" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<entity_link id="en15" fromID="p9" fromText="him" toID="p7" toText="Nieto Garcia" />
+<entity_link id="en16" fromID="p10" fromText="He" toID="p7" toText="Nieto Garcia" />
+<entity_link id="en17" fromID="p11" fromText="he" toID="p10" toText="He" />
+<entity_link id="en18" fromID="p12" fromText="He" toID="p11" toText="he" />
+<entity_link id="en19" fromID="g11" fromText="the country" toID="g10" toText="the country" />
+<entity_link id="en20" fromID="p13" fromText="He" toID="p12" toText="He" />
+<entity_link id="en21" fromID="g12" fromText="the United States" toID="g11" toText="the country" />
+<entity_link id="en22" fromID="p14" fromText="He" toID="p13" toText="He" />
+<entity_link id="en23" fromID="g13" fromText="Mexico" toID="g8" toText="Mexico" />
+<entity_link id="en24" fromID="o7" fromText="ICE ERO" toID="o5" toText="ICE ERO" />
+<entity_link id="en25" fromID="o8" fromText="its" toID="o6" toText="the attorney general's office of Mexico" />
+<entity_link id="en26" fromID="g14" fromText="El Paso" toID="g6" toText="El Paso" />
+<entity_link id="en27" fromID="p18" fromText="Nieto Garcia" toID="p7" toText="Nieto Garcia" />
+<entity_link id="en28" fromID="p19" fromText="Nieto Garcia" toID="p18" toText="Nieto Garcia" />
+<entity_link id="en29" fromID="o9" fromText="ICE ERO" toID="o7" toText="ICE ERO" />
+<entity_link id="en30" fromID="o10" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en31" fromID="o11" fromText="Mexico's attorney general's office" toID="o6" toText="the attorney general's office of Mexico" />
+<entity_link id="en32" fromID="p20" fromText="attorney general" toID="p15" toText="the attorney general" />
+<entity_link id="en33" fromID="p21" fromText="attorney" toID="p16" toText="attorney" />
+<entity_link id="en34" fromID="g15" fromText="Mexico" toID="g13" toText="Mexico" />
+<entity_link id="en35" fromID="o12" fromText="ICE" toID="o10" toText="ICE" />
+<entity_link id="en36" fromID="o13" fromText="ICE" toID="o12" toText="ICE" />
+<entity_link id="en37" fromID="p24" fromText="Mexican authorities" toID="p5" toText="Mexican authorities" />
+<entity_link id="en38" fromID="g16" fromText="Mexican" toID="g15" toText="Mexico" />
+<entity_link id="en39" fromID="p26" fromText="Adrian Macias" toID="p25" toText="Adrian Macias, field office director of ICE ERO in El Paso" />
+<entity_link id="en40" fromID="p27" fromText="field office director of ICE ERO in El Paso" toID="p26" toText="Adrian Macias" />
+<entity_link id="en41" fromID="g17" fromText="El Paso" toID="g14" toText="El Paso" />
+<entity_link id="en42" fromID="p29" fromText="who" toID="p28" toText="criminals, who flee from their home countries seeking a safe haven" />
+<entity_link id="en43" fromID="p30" fromText="their" toID="p28" toText="criminals, who flee from their home countries seeking a safe haven" />
+<entity_link id="en44" fromID="o16" fromText="ICE" toID="o13" toText="ICE" />
+<entity_link id="en45" fromID="p33" fromText="their" toID="p31" toText="more than 215,900 aliens, including 109,700 aliens with criminal convictions" />
+<entity_link id="en46" fromID="p34" fromText="those" toID="p32" toText="109,700 aliens with criminal convictions" />
+<entity_link id="en47" fromID="p37" fromText="sex offenders" toID="p36" toText="3,177" />
+<head_link id="he0" fromID="o0" fromText="ICE" toID="h0" toText="ICE" />
+<head_link id="he1" fromID="p0" fromText="fugitive wanted for murder to Mexican authorities" toID="h1" toText="fugitive" />
+<head_link id="he2" fromID="p1" fromText="Mexican authorities" toID="h2" toText="authorities" />
+<head_link id="he3" fromID="g0" fromText="Mexican" toID="h3" toText="Mexican" />
+<head_link id="he4" fromID="g1" fromText="EL PASO, Texas" toID="h4" toText="EL PASO" />
+<head_link id="he5" fromID="g2" fromText="Texas" toID="h5" toText="Texas" />
+<head_link id="he6" fromID="p2" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" toID="h6" toText="officers" />
+<head_link id="he7" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="h7" toText="Enforcement and Removal Operations" />
+<head_link id="he8" fromID="o2" fromText="ERO" toID="h8" toText="ERO" />
+<head_link id="he9" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h9" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he10" fromID="o4" fromText="ICE" toID="h10" toText="ICE" />
+<head_link id="he11" fromID="p3" fromText="an illegal alien wanted for homicide in Chihuahua, Mexico" toID="h11" toText="alien" />
+<head_link id="he12" fromID="g3" fromText="Chihuahua, Mexico" toID="h12" toText="Chihuahua" />
+<head_link id="he13" fromID="g4" fromText="Mexico" toID="h13" toText="Mexico" />
+<head_link id="he14" fromID="p4" fromText="Ramiro Nieto Garcia, 35" toID="h14" toText="Ramiro Nieto Garcia" />
+<head_link id="he15" fromID="p5" fromText="Mexican authorities" toID="h15" toText="authorities" />
+<head_link id="he16" fromID="g5" fromText="Mexican" toID="h16" toText="Mexican" />
+<head_link id="he17" fromID="f0" fromText="the port of El Paso's Stanton Street Bridge" toID="h17" toText="Stanton Street Bridge" />
+<head_link id="he18" fromID="f1" fromText="the port of El Paso" toID="h18" toText="port" />
+<head_link id="he19" fromID="g6" fromText="El Paso" toID="h19" toText="El Paso" />
+<head_link id="he20" fromID="p6" fromText="Nieto Garcia" toID="h20" toText="Nieto Garcia" />
+<head_link id="he21" fromID="g7" fromText="Chihuahua, Mexico" toID="h21" toText="Chihuahua" />
+<head_link id="he22" fromID="g8" fromText="Mexico" toID="h22" toText="Mexico" />
+<head_link id="he23" fromID="p7" fromText="Nieto Garcia" toID="h23" toText="Nieto Garcia" />
+<head_link id="he24" fromID="p8" fromText="ICE ERO officers" toID="h24" toText="officers" />
+<head_link id="he25" fromID="o5" fromText="ICE ERO" toID="h25" toText="ICE ERO" />
+<head_link id="he26" fromID="p9" fromText="him" toID="h26" toText="him" />
+<head_link id="he27" fromID="f2" fromText="the Calipatria State Prison in California" toID="h27" toText="Calipatria State Prison" />
+<head_link id="he28" fromID="g9" fromText="California" toID="h28" toText="California" />
+<head_link id="he29" fromID="p10" fromText="He" toID="h29" toText="He" />
+<head_link id="he30" fromID="g10" fromText="the country" toID="h30" toText="country" />
+<head_link id="he31" fromID="p11" fromText="he" toID="h31" toText="he" />
+<head_link id="he32" fromID="p12" fromText="He" toID="h32" toText="He" />
+<head_link id="he33" fromID="g11" fromText="the country" toID="h33" toText="country" />
+<head_link id="he34" fromID="p13" fromText="He" toID="h34" toText="He" />
+<head_link id="he35" fromID="g12" fromText="the United States" toID="h35" toText="United States" />
+<head_link id="he36" fromID="p14" fromText="He" toID="h36" toText="He" />
+<head_link id="he37" fromID="f3" fromText="federal prison" toID="h37" toText="prison" />
+<head_link id="he38" fromID="o6" fromText="the attorney general's office of Mexico" toID="h38" toText="office" />
+<head_link id="he39" fromID="p15" fromText="the attorney general" toID="h39" toText="general" />
+<head_link id="he40" fromID="p16" fromText="attorney" toID="h40" toText="attorney" />
+<head_link id="he41" fromID="g13" fromText="Mexico" toID="h41" toText="Mexico" />
+<head_link id="he42" fromID="o7" fromText="ICE ERO" toID="h42" toText="ICE ERO" />
+<head_link id="he43" fromID="o8" fromText="its" toID="h43" toText="its" />
+<head_link id="he44" fromID="p17" fromText="its El Paso representative" toID="h44" toText="representative" />
+<head_link id="he45" fromID="g14" fromText="El Paso" toID="h45" toText="El Paso" />
+<head_link id="he46" fromID="p18" fromText="Nieto Garcia" toID="h46" toText="Nieto Garcia" />
+<head_link id="he47" fromID="p19" fromText="Nieto Garcia" toID="h47" toText="Nieto Garcia" />
+<head_link id="he48" fromID="o9" fromText="ICE ERO" toID="h48" toText="ICE ERO" />
+<head_link id="he49" fromID="o10" fromText="ICE" toID="h49" toText="ICE" />
+<head_link id="he50" fromID="o11" fromText="Mexico's attorney general's office" toID="h50" toText="office" />
+<head_link id="he51" fromID="p20" fromText="attorney general" toID="h51" toText="general" />
+<head_link id="he52" fromID="p21" fromText="attorney" toID="h52" toText="attorney" />
+<head_link id="he53" fromID="g15" fromText="Mexico" toID="h53" toText="Mexico" />
+<head_link id="he54" fromID="o12" fromText="ICE" toID="h54" toText="ICE" />
+<head_link id="he55" fromID="p22" fromText="many other fugitives wanted for murder, and other crimes such as alien smuggling, kidnapping and rape" toID="h55" toText="fugitives" />
+<head_link id="he56" fromID="p23" fromText="alien" toID="h56" toText="alien" />
+<head_link id="he57" fromID="o13" fromText="ICE" toID="h57" toText="ICE" />
+<head_link id="he58" fromID="p24" fromText="Mexican authorities" toID="h58" toText="authorities" />
+<head_link id="he59" fromID="g16" fromText="Mexican" toID="h59" toText="Mexican" />
+<head_link id="he60" fromID="l0" fromText="both sides of the border" toID="h60" toText="sides" />
+<head_link id="he61" fromID="l1" fromText="the border" toID="h61" toText="border" />
+<head_link id="he62" fromID="p26" fromText="Adrian Macias" toID="h62" toText="Adrian Macias" />
+<head_link id="he63" fromID="p27" fromText="field office director of ICE ERO in El Paso" toID="h63" toText="director" />
+<head_link id="he64" fromID="o14" fromText="ICE ERO in El Paso" toID="h64" toText="ICE ERO" />
+<head_link id="he65" fromID="g17" fromText="El Paso" toID="h65" toText="El Paso" />
+<head_link id="he66" fromID="o15" fromText="field office" toID="h66" toText="office" />
+<head_link id="he67" fromID="p28" fromText="criminals, who flee from their home countries seeking a safe haven" toID="h67" toText="criminals" />
+<head_link id="he68" fromID="p29" fromText="who" toID="h68" toText="who" />
+<head_link id="he69" fromID="g18" fromText="their home countries" toID="h69" toText="countries" />
+<head_link id="he70" fromID="p30" fromText="their" toID="h70" toText="their" />
+<head_link id="he71" fromID="o16" fromText="ICE" toID="h71" toText="ICE" />
+<head_link id="he72" fromID="p31" fromText="more than 215,900 aliens, including 109,700 aliens with criminal convictions" toID="h72" toText="aliens" />
+<head_link id="he73" fromID="p32" fromText="109,700 aliens with criminal convictions" toID="h73" toText="aliens" />
+<head_link id="he74" fromID="p33" fromText="their" toID="h74" toText="their" />
+<head_link id="he75" fromID="g19" fromText="their countries of origin" toID="h75" toText="countries" />
+<head_link id="he76" fromID="p34" fromText="those" toID="h76" toText="those" />
+<head_link id="he77" fromID="p35" fromText="585" toID="h77" toText="585" />
+<head_link id="he78" fromID="p36" fromText="3,177" toID="h78" toText="3,177" />
+<head_link id="he79" fromID="p37" fromText="sex offenders" toID="h79" toText="offenders" />
+<head_link id="he80" fromID="p38" fromText="24,593" toID="h80" toText="24,593" />
+<name_link id="na0" fromID="o0" fromText="ICE" toID="n0" toText="ICE" />
+<name_link id="na1" fromID="g0" fromText="Mexican" toID="n1" toText="Mexican" />
+<name_link id="na2" fromID="g1" fromText="EL PASO, Texas" toID="n2" toText="EL PASO" />
+<name_link id="na3" fromID="g2" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na4" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="n4" toText="Enforcement and Removal Operations" />
+<name_link id="na5" fromID="o2" fromText="ERO" toID="n5" toText="ERO" />
+<name_link id="na6" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n6" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na7" fromID="o4" fromText="ICE" toID="n7" toText="ICE" />
+<name_link id="na8" fromID="g3" fromText="Chihuahua, Mexico" toID="n8" toText="Chihuahua" />
+<name_link id="na9" fromID="g4" fromText="Mexico" toID="n9" toText="Mexico" />
+<name_link id="na10" fromID="p4" fromText="Ramiro Nieto Garcia, 35" toID="n10" toText="Ramiro Nieto Garcia" />
+<name_link id="na11" fromID="g5" fromText="Mexican" toID="n11" toText="Mexican" />
+<name_link id="na12" fromID="f0" fromText="the port of El Paso's Stanton Street Bridge" toID="n12" toText="Stanton Street Bridge" />
+<name_link id="na13" fromID="g6" fromText="El Paso" toID="n13" toText="El Paso" />
+<name_link id="na14" fromID="p6" fromText="Nieto Garcia" toID="n14" toText="Nieto Garcia" />
+<name_link id="na15" fromID="g7" fromText="Chihuahua, Mexico" toID="n15" toText="Chihuahua" />
+<name_link id="na16" fromID="g8" fromText="Mexico" toID="n16" toText="Mexico" />
+<name_link id="na17" fromID="p7" fromText="Nieto Garcia" toID="n17" toText="Nieto Garcia" />
+<name_link id="na18" fromID="o5" fromText="ICE ERO" toID="n18" toText="ICE ERO" />
+<name_link id="na19" fromID="f2" fromText="the Calipatria State Prison in California" toID="n19" toText="Calipatria State Prison" />
+<name_link id="na20" fromID="g9" fromText="California" toID="n20" toText="California" />
+<name_link id="na21" fromID="g12" fromText="the United States" toID="n21" toText="United States" />
+<name_link id="na22" fromID="g13" fromText="Mexico" toID="n22" toText="Mexico" />
+<name_link id="na23" fromID="o7" fromText="ICE ERO" toID="n23" toText="ICE ERO" />
+<name_link id="na24" fromID="g14" fromText="El Paso" toID="n24" toText="El Paso" />
+<name_link id="na25" fromID="p18" fromText="Nieto Garcia" toID="n25" toText="Nieto Garcia" />
+<name_link id="na26" fromID="p19" fromText="Nieto Garcia" toID="n26" toText="Nieto Garcia" />
+<name_link id="na27" fromID="o9" fromText="ICE ERO" toID="n27" toText="ICE ERO" />
+<name_link id="na28" fromID="o10" fromText="ICE" toID="n28" toText="ICE" />
+<name_link id="na29" fromID="g15" fromText="Mexico" toID="n29" toText="Mexico" />
+<name_link id="na30" fromID="o12" fromText="ICE" toID="n30" toText="ICE" />
+<name_link id="na31" fromID="o13" fromText="ICE" toID="n31" toText="ICE" />
+<name_link id="na32" fromID="g16" fromText="Mexican" toID="n32" toText="Mexican" />
+<name_link id="na33" fromID="p26" fromText="Adrian Macias" toID="n33" toText="Adrian Macias" />
+<name_link id="na34" fromID="o14" fromText="ICE ERO in El Paso" toID="n34" toText="ICE ERO" />
+<name_link id="na35" fromID="g17" fromText="El Paso" toID="n35" toText="El Paso" />
+<name_link id="na36" fromID="o16" fromText="ICE" toID="n36" toText="ICE" />
+<relation_link1 id="r0" fromID="e0" fromText="Mexican authorities" toID="p1" toText="Mexican authorities" />
+<relation_link1 id="r1" fromID="M0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" toID="p2" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" />
+<relation_link1 id="r2" fromID="e1" fromText="Mexican authorities" toID="p5" toText="Mexican authorities" />
+<relation_link1 id="r3" fromID="lo0" fromText="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" toID="p4" toText="Ramiro Nieto Garcia, 35" />
+<relation_link1 id="r4" fromID="lo1" fromText="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" toID="p5" toText="Mexican authorities" />
+<relation_link1 id="r5" fromID="M1" fromText="ICE ERO officers" toID="p8" toText="ICE ERO officers" />
+<relation_link1 id="r6" fromID="lo2" fromText="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" toID="p9" toText="him" />
+<relation_link1 id="r7" fromID="lo3" fromText="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" toID="p8" toText="ICE ERO officers" />
+<relation_link1 id="r8" fromID="lo4" fromText="He entered the country illegally in 1995" toID="p10" toText="He" />
+<relation_link1 id="r9" fromID="lo5" fromText="He attempted to unlawfully re-enter the country in 2007 and 2009" toID="p12" toText="He" />
+<relation_link1 id="r10" fromID="lo6" fromText="He was prosecuted for illegally re-entering the United States after having been deported, which is a felony" toID="p13" toText="He" />
+<relation_link1 id="r11" fromID="M2" fromText="the attorney general's office of Mexico" toID="p15" toText="the attorney general" />
+<relation_link1 id="r12" fromID="M3" fromText="its El Paso representative" toID="p17" toText="its El Paso representative" />
+<relation_link1 id="r13" fromID="lo7" fromText="its El Paso representative" toID="p17" toText="its El Paso representative" />
+<relation_link1 id="r14" fromID="M4" fromText="Mexico's attorney general's office" toID="p20" toText="attorney general" />
+<relation_link1 id="r15" fromID="e2" fromText="Mexican authorities" toID="p24" toText="Mexican authorities" />
+<relation_link1 id="r16" fromID="M5" fromText="field office director of ICE ERO in El Paso" toID="p27" toText="field office director of ICE ERO in El Paso" />
+<relation_link1 id="r17" fromID="M6" fromText="field office director of ICE ERO in El Paso" toID="p27" toText="field office director of ICE ERO in El Paso" />
+<relation_link1 id="r18" fromID="C0" fromText="their home countries" toID="p30" toText="their" />
+<relation_link1 id="r19" fromID="lo8" fromText="It's also ensuring criminals, who flee from their home countries seeking a safe haven, are brought to justice" toID="p29" toText="who" />
+<relation_link1 id="r20" fromID="C1" fromText="their countries of origin" toID="p33" toText="their" />
+<relation_link2 id="re0" fromID="e0" fromText="Mexican authorities" toID="g0" toText="Mexican" />
+<relation_link2 id="re1" fromID="M0" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO) officers" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<relation_link2 id="re2" fromID="e1" fromText="Mexican authorities" toID="g5" toText="Mexican" />
+<relation_link2 id="re3" fromID="lo0" fromText="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" toID="f0" toText="the port of El Paso's Stanton Street Bridge" />
+<relation_link2 id="re4" fromID="lo1" fromText="Ramiro Nieto Garcia, 35, was turned over to Mexican authorities on May 24 at the port of El Paso's Stanton Street Bridge" toID="f0" toText="the port of El Paso's Stanton Street Bridge" />
+<relation_link2 id="re5" fromID="M1" fromText="ICE ERO officers" toID="o5" toText="ICE ERO" />
+<relation_link2 id="re6" fromID="lo2" fromText="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" toID="f2" toText="the Calipatria State Prison in California" />
+<relation_link2 id="re7" fromID="lo3" fromText="Nieto Garcia was previously deported in February 1999 after ICE ERO officers encountered him at the Calipatria State Prison in California" toID="f2" toText="the Calipatria State Prison in California" />
+<relation_link2 id="re8" fromID="lo4" fromText="He entered the country illegally in 1995" toID="g10" toText="the country" />
+<relation_link2 id="re9" fromID="lo5" fromText="He attempted to unlawfully re-enter the country in 2007 and 2009" toID="g11" toText="the country" />
+<relation_link2 id="re10" fromID="lo6" fromText="He was prosecuted for illegally re-entering the United States after having been deported, which is a felony" toID="g12" toText="the United States" />
+<relation_link2 id="re11" fromID="M2" fromText="the attorney general's office of Mexico" toID="o6" toText="the attorney general's office of Mexico" />
+<relation_link2 id="re12" fromID="M3" fromText="its El Paso representative" toID="o8" toText="its" />
+<relation_link2 id="re13" fromID="lo7" fromText="its El Paso representative" toID="g14" toText="El Paso" />
+<relation_link2 id="re14" fromID="M4" fromText="Mexico's attorney general's office" toID="o11" toText="Mexico's attorney general's office" />
+<relation_link2 id="re15" fromID="e2" fromText="Mexican authorities" toID="g16" toText="Mexican" />
+<relation_link2 id="re16" fromID="M5" fromText="field office director of ICE ERO in El Paso" toID="o14" toText="ICE ERO in El Paso" />
+<relation_link2 id="re17" fromID="M6" fromText="field office director of ICE ERO in El Paso" toID="o15" toText="field office" />
+<relation_link2 id="re18" fromID="C0" fromText="their home countries" toID="g18" toText="their home countries" />
+<relation_link2 id="re19" fromID="lo8" fromText="It's also ensuring criminals, who flee from their home countries seeking a safe haven, are brought to justice" toID="g18" toText="their home countries" />
+<relation_link2 id="re20" fromID="C1" fromText="their countries of origin" toID="g19" toText="their countries of origin" />
+</TAGS>
+</KddTask>

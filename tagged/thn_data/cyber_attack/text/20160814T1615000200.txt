@@ -1,0 +1,36 @@
+DDoSCoin — New Crypto-Currency Pays Users for Participating in DDoS Attacks
+Swati Khandelwal
+
+It’s 2016, and now, you can earn some dollars by contributing into well-organized DDoS attack scheme.
+Do you know while mining Bitcoins you are actually contributing a significant computational power to keep the Bitcoin network running?
+In Bitcoins, the miners actually build and maintain massive public ledger containing a record of every Bitcoin transaction in history.
+When one user tries to send Bitcoins to another user, the miners validate the transfer by checking the ledger to make sure the sender is not transferring money he/she does not have, adding the transaction to the ledger and then finally sealing it behind layers and layers of computational work to protect that ledger from getting compromised or hacked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So for this, miners are rewarded with Bitcoins.
+So, basically, you are contributing the massive amount of computing power that keeps the Bitcoin transactions running and makes you earn some cryptocurrency in return as an incentive.
+However, Bitcoin has long been criticized for not utilizing that huge amount of computational power into something useful as well.
+To utilize all those CPU cycles, a few years back researchers came forward with another cryptocurrency, called "PrimeCoin."
+In PrimeCoin, the miners’ computational power is not only used to keep the transaction running but also used to find the long chain of the prime number, which plays a great role in encryption and cryptography.
+But, this time, a pair of curious researchers recently proposed the weirdest concept:
+A malicious digital currency that can be mined only if the miners participate in Distributed Denial of Service (DDoS) attacks against preselected target websites make them temporarily unavailable by flooding them with Millions of simultaneous requests.
+Proof-of-DDoS: Participate in DDoS Attack and Earn Reward
+DDoSCoin, developed by Eric Wustrow and Benjamin VanderSloot from the University of Colorado Boulder and the University of Michigan, is a theoretical cryptocurrency that rewards a miner for opening a large number of TLS connections to target web servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malicious proof-of-work (which the duo called "Proof-of-DDoS") model used by DDoSCoin miners functions only with websites that support TLS 1.2, and since over half of the top million websites support TLS 1.2 version of the protocol, it will be easy for miners to earn the reward.
+"In modern versions of TLS, the server signs a client-provided parameter during the handshake, along with server-provided values used in the key exchange of the connection," the researchers wrote in the paper DDoSCoin: Cryptocurrency with a Malicious Proof-of-Work [PDF], allowing the client to prove that it has participated in the DDoS attack against the target server.
+In this way, the new system will reward users who prove they have participated in a DDoS attack.
+Miners with DDoSCoin blocks could then trade their cryptocurrencies for other, including Bitcoin and Ethereum, the researchers suggested.
+The researchers presented their paper at the Usenix 2016 security conference, noting that Bitcoin's computationally intensive proof-of-DDoS "does not contribute to any useful problems besides securing the currency from attack."
+How to Setup DDoS Targets in DDoSCoin?
+If you want to set up a target for DDoS, you can use the PAY_TO_DDOS transaction that includes two arguments:
+Domain of the victim website.
+The number of TLS connections that need to be established.
+These transactions are recorded as DDoSCoin blocks inside a database (or blockchain). Now, miners only need to select one of the blocks, launch attacks, and thus receive DDoSCoin as a reward for fulfilling the transaction.
+What If Everybody wants to DDoS Everybody?
+Now, the question here is: How this cryptocurrency will decide, which target should get DDoSed on priority?
+According to researchers, multiple miners must participate and decide together which domain to be attacked.
+Future Schemas and DDoS Frameworks
+Till now, we have seen multiple hire-for-DDoS services in the underground market, where anyone willing to take down a targeted website can just pay hackers and get their job done.
+At the current, this paper is only a theoretical concept, and the DDoSCoin crypto-currency currently does not exist.
+However, I can predict that soon we would see similar business models by blackhat hackers, where to earn money, people would themselves join botnet networks to contribute their bandwidth for DDoS attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

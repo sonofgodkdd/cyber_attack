@@ -1,0 +1,33 @@
+Prowli Malware Targeting Servers, Routers, and IoT Devices
+Swati Khandelwal
+
+After the discovery of massive VPNFilter malware botnet, security researchers have now uncovered another giant botnet that has already compromised more than 40,000 servers, modems and internet-connected devices belonging to a wide number of organizations across the world.
+Dubbed Operation Prowli, the campaign has been spreading malware and injecting malicious code to take over servers and websites around the world using various attack techniques including use of exploits, password brute-forcing and abusing weak configurations.
+Discovered by researchers at the GuardiCore security team, Operation Prowli has already hit more than 40,000 victim machines from over 9,000 businesses in various domains, including finance, education and government organisations.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's the list devices and services infected by the Prowli malware:
+Drupal and WordPress CMS servers hosting popular websites
+Joomla! servers running the K2 extension
+Backup servers running HP Data Protector software
+DSL modems
+Servers with an open SSH port
+PhpMyAdmin installations
+NFS boxes
+Servers with exposed SMB ports
+Vulnerable Internet-of-Thing (IoT) devices
+All the above targets were infected using either a known vulnerability or credential guessing.
+Prowli Malware Injects Cryptocurrency Miner
+Since the attackers behind the Prowli attack are abusing the infected devices and websites to mine cryptocurrency or run a script that redirects them to malicious websites, researchers believe they are more focused on making money rather than ideology or espionage.
+According to GuardiCore researchers, the compromised devices were found infected with a Monero (XMR) cryptocurrency miner and the "r2r2" worm—a malware written in Golang that executes SSH brute-force attacks from the infected devices, allowing the Prowli malware to take over new devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In simple words, "r2r2 randomly generates IP address blocks and iteratively tries to brute force SSH logins with a user and password dictionary. Once it breaks in, it runs a series of commands on the victim," the researchers explain.
+These commands are responsible for downloading multiple copies of the worm for different CPU architectures, a cryptocurrency miner and a configuration file from a remote hard-coded server.
+Attackers Also Tricks Users Into Installing Malicious Extensions
+Besides cryptocurrency miner, attackers are also using a well known open source webshell called "WSO Web Shell" to modify the compromised servers, eventually allowing attackers to redirect visitors of websites to fake sites distributing malicious browser extensions.
+The GuardiCore team traced the campaign across several networks around the world and found the Prowli campaign associated with different industries.
+"Over a period of 3 weeks, we captured dozens of such attacks per day coming from over 180 IPs from a variety of countries and organizations," the researchers said. "These attacks led us to investigate the attackers' infrastructure and discover a wide-ranging operation attacking multiple services."
+How to Protect Your Devices From Prowli-like Malware Attacks
+Since the attackers are using a mix of known vulnerabilities and credential guessing to compromise devices, users should make sure their systems are patched and up to date and always use strong passwords for their devices.
+Moreover, users should also consider locking down systems and segmenting vulnerable or hard to secure systems, in order to separate them from the rest of their network.
+Late last month, a massive botnet, dubbed VPNFilter, was found infecting half a million routers and storage devices from a wide range of manufacturers in 54 countries with a malware that has capabilities to conduct destructive cyber operations, surveillance and man-in-the-middle attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

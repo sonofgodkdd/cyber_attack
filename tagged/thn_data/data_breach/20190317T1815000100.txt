@@ -1,0 +1,22 @@
+Round 4 — Hacker Puts 26 Million New Accounts Up For Sale On Dark Web
+Swati Khandelwal
+
+A hacker who was selling details of nearly 890 million online accounts stolen from 32 popular websites in three separate rounds has now put up a fourth batch of millions of records originating from 6 other sites for sale on the dark web.
+The Hacker News today received a new email from the Pakistani hacker, who goes by online alias Gnosticplayers and previously claimed to have hacked dozens of popular websites from companies which, according to him, probably had no idea that they were compromised.
+The hacker last month made three rounds of stolen accounts up for sale on the popular dark web market called Dream Market, posting details of 620 million accounts stolen from 16 websites in the first round, 127 million records from 8 sites in the second, and 92 million from 8 websites in the third.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although while releasing the third round Gnosticplayers told The Hacker News that it would be his last batch of the stolen database, the hacker released the fourth round containing nearly 27 million new users' records originating from 6 other websites.
+Gnosticplayers told The Hacker News in an email that the fourth round up for sale on Dream Market belonged to the following 6 hacked websites:
+Youthmanual — Indonesian college and career platform — 1.12 million accounts
+GameSalad — Online learning platform —1.5 million accounts
+Bukalapak — Online Shopping Site — 13 million accounts
+Lifebear — Japanese Online Notebook — 3.86 million accounts
+EstanteVirtual — Online Bookstore — 5.45 Million accounts
+Coubic — Appointment Scheduling — 1.5 million accounts
+The hacker is selling each of the above listed hacked databases individually on Dream Market for a total worth 1.2431 Bitcoin, that's roughly $5,000.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since the majority of compromised services listed in previous rounds have acknowledged the data breaches, it's likely that the new round of stolen accounts being sold on the underground market is also legit.
+At this moment it is unknown that any of the services listed in the fourth round was aware of the data breach of its network and has previously disclosed any security incident.
+The Hacker News has reached out the affected companies to inform them about the leak and to learn if they have already warned their users about any security incident related to the breach.
+What's next? If you are a user of any of the above-listed services or websites disclosed in the previous three rounds, you should consider changing your passwords and also on other services in the event you re-used the same password.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

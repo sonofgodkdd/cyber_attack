@@ -1,0 +1,28 @@
+New Virus Decides If Your Computer Good for Mining or Ransomware
+Mohit Kumar
+
+Security researchers have discovered an interesting piece of malware that infects systems with either a cryptocurrency miner or ransomware, depending upon their configurations to decide which of the two schemes could be more profitable.
+While ransomware is a type of malware that locks your computer and prevents you from accessing the encrypted data until you pay a ransom to get the decryption key required to decrypt your files, cryptocurrency miners utilize infected system's CPU power to mine digital currencies.
+Both ransomware and cryptocurrency mining-based attacks have been the top threats so far this year and share many similarities such as both are non-sophisticated attacks, carried out for money against non-targeted users, and involve digital currency.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, since locking a computer for ransom doesn't always guarantee a payback in case victims have nothing essential to losing, in past months cybercriminals have shifted more towards fraudulent cryptocurrency mining as a method of extracting money using victims' computers.
+Researchers at Russian security firm Kaspersky Labs have discovered a new variant of Rakhni ransomware family, which has now been upgraded to include cryptocurrency mining capability as well.
+Written in Delphi programming language, the Rakhni malware is being spread using spear-phishing emails with an MS word file in the attachment, which if opened, prompts the victim to save the document and enable editing.
+The document includes a PDF icon, which if clicked, launches a malicious executable on the victim's computer and immediately displays a fake error message box upon execution, tricking victims into thinking that a system file required to open the document is missing.
+How Malware Decides What To Do
+However, in the background, the malware then performs many anti-VM and anti-sandbox checks to decide if it could infect the system without being caught. If all conditions are met, the malware then performs more checks to decide the final infection payload, i.e., ransomware or miner.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+1.) Installs Ransomware—if the target system has a 'Bitcoin' folder in the AppData section.
+Before encrypting files with the RSA-1024 encryption algorithm, the malware terminates all processes that match a predefined list of popular applications and then displays a ransom note via a text file.
+2.) Installs cryptocurrency miner—if 'Bitcoin' folder doesn't exist and the machine has more than two logical processors.
+If the system gets infected with a cryptocurrency miner, it uses MinerGate utility to mine Monero (XMR), Monero Original (XMO) and Dashcoin (DSH) cryptocurrencies in the background.
+Besides this, the malware uses CertMgr.exe utility to install fake root certificates that claim to have been issued by Microsoft Corporation and Adobe Systems Incorporated in an attempt to disguise the miner as a trusted process.
+3.) Activates worm component—if there's no 'Bitcoin' folder and just one logical processor.
+This component helps the malware to copy itself to all the computers located in the local network using shared resources.
+"For each computer listed in the file the Trojan checks if the folder Users is shared and, if so, the malware copies itself to the folder \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup of each accessible user," the researchers note.
+Regardless of which infection is chosen, the malware performs a check if one of the listed antivirus processes is launched. If no AV process is found in the system, the malware will run several cmd commands in an attempt to disable Windows Defender.
+What's more? There's A Spyware Feature As Well
+"Another interesting fact is that the malware also has some spyware functionality – its messages include a list of running processes and an attachment with a screenshot," the researchers say.
+This malware variant is targeting users primarily in Russia (95.5%), while a small number of infection has been noticed in Kazakhstan (1.36%), Ukraine (0.57%), Germany (0.49%), and India (0.41%) as well.
+The best way to prevent yourself from being a victim of such attacks in the first place is never to open suspicious files and links provided in an email. Also, always keep a good backup routine and updated anti-virus software in place.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

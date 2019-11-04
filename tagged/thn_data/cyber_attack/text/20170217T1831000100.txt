@@ -1,0 +1,25 @@
+Hackers Are Using Android Malware To Spy On Israeli Military Personnel
+Mohit Kumar
+
+A group of highly sophisticated state-sponsored hackers is spying on the Israeli military by hacking into the personal Android phones of individual soldiers to monitor their activities and steal data.
+A newly released research by Lookout and Kaspersky suggests that more than 100 Israeli servicemen from the Israeli Defense Force (IDF) are believed to have been targeted with spyware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed ViperRAT, the malware has specifically been designed to hijack Israeli soldiers’ Android-based smartphones and remotely exfiltrate data of high value, including photos and audio recordings, directly from the compromised devices.
+Modus Operandi Identified
+According to the security firms, IDF personnel had been compromised by social engineering techniques — where the soldiers were lured via Facebook Messenger and other social networks into entering communications with hackers who posed as attractive women from various countries like Canada, Germany, and Switzerland.
+The soldiers were then tricked into installing a trojanized version of two different, typically legitimate Android chat apps, SR Chat and YeeCall Pro, for easier communication.
+The malware has also been distributed using a dropper hidden in other Android smartphone applications including a billiards game, an Israeli Love Songs player, and a Move To iOS app, which are common to Israeli citizens and available in the Google Play store.
+The app then scanned soldiers' smartphones and downloaded another malicious application that masqueraded as an update for one of the already installed apps, such as WhatsApp, and tricked victims to allow various permissions in order to carry out surveillance.
+This, in turn, allowed the attackers to execute on demand commands, enabling them to control phone's microphone and camera, eavesdrop on soldiers' conversations, and peer into live camera footage.
+Besides this, the ViperRAT malware gathers a broad range of data from compromised devices including geolocation, call log, personal photos, SMS messages, cell phone tower information, network and device metadata, internet browsing, and app download history.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to researchers, the hackers were able to successfully establish a widespread cyber espionage campaign by compromising dozens of mobile devices from Samsung, HTC, LG and Huawei belonging to over 100 Israeli soldiers.
+Besides, almost 9,000 files stolen from compromised devices (roughly 97 percent) that were exfiltrated from compromised devices were identified by Lookout researchers as being highly encrypted images, which were taken using the device camera.
+However, it's likely the IDF is not the only target.
+The ViperRAT attack campaign started in July and continued to date, according to Kaspersky researchers.
+Is Hamas Behind the Cyber-Spying Operation?
+The IDF closely worked with Kaspersky Labs and Lookout to investigate this incident and theorized that Hamas was behind these attacks. However, Lookout researchers have come to doubt that theory.
+According to Lookout researchers, "Based on tradecraft, the modular structure of code and use of cryptographic protocols [AES and RSA encryption] the actor appears to be quite sophisticated."
+Researchers say Hamas is not known for sophisticated mobile capabilities, which makes it unlikely they are directly responsible for ViperRAT.
+The IDF is currently working together with both Lookout and Kaspersky to identify infected targets and protect against further attacks, but there is one simple way to protect against ViperRAT: don't download apps from untrusted third-party sources.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

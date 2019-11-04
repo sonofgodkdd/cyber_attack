@@ -1,0 +1,24 @@
+Terrorist Group Al-Qaeda Uses New Encryption Softwares After NSA Revelations
+Mohit Kumar
+
+Last year, Just after Snowden leaks, the U.S Government warned that NSA surveillance revelations will make harder to track bad guys trying to harm the United States, as disclosures can be helpful to terrorist groups.
+In response to the NSA revelations, the terrorists at Al-Qaeda have started using strongest encryption techniques in order to bypass the standard cryptographic protections in its various communications, according to the recent report released by the Threat Intelligence company, Recorded Future.
+The analysis carried out by the intelligence firm revealed that the Infamous Terrorist Organizations, Al-Qaeda that attacked civilian and military targets in various countries, has switched to new encryption software for the first time in seven years, following the revelations of the US National Security Agency (NSA) by former contractor Edward Snowden.
+Al-Qaeda is a global militant Islamist and takfiri organization which operates as a network comprising both a multinational, stateless army and a radical Sunni Muslim movement calling for global jihad.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since 2007, Al-Qaeda was using their own built encryption software, Mujahideen Secrets for the online and cellular communications, but the intelligence firm has noticed that now they are using number of new encryption tools and adopting new services like mobile, instant messaging, and Mac as well, to mask its communications with overseas' operatives.
+“The nature of these new crypto products indicates strategy to overlay stronger and broader encryption on Western (mainly US) consumer communication services,” states the report. “We do not find evidence of abandonment of US-based consumer communication services. Likely risks are still greater to hide outside the consumer crowd, and non-US-based services may be exposed to even stronger lawful intercept.”
+The three different terrorist organisations associated with Al-Qaeda - GIMF, Al-Fajr Technical Committee and ISIS - released three new major encryption tools within a three-to-five month period of the Snowden leaks, according to the report.
+These three tools bolster the original 'Mujahideen Secrets' tool that have primarily been used for email by Al-Qaeda since 2007. 
+NEW Al-Qaeda ENCRYPTION TOOLS
+Tashfeer al-Jawwal, a mobile encryption platform developed by the Global Islamic Media Front (GIMF) and released in September 2013.
+Asrar al-Ghurabaa, another alternative encryption program developed by the Islamic State of Iraq and Al-Sham and released in November 2013, around the same time the group broke away from the main Al-Qaeda following a power struggle.
+Amn al-Mujahid, an encryption software program developed by Al-Fajr Technical Committee which is a mainstream al Qaeda organization and released in December 2013.
+The massive surveillance conducted by the National Security agency may lead to the change in communication behavior of terrorists and criminals. Cybercriminals have to just secure their communication before performing any crime, Whereas terrorists need an undetectable communications along with the secure one, because for them nothing is more important than operational security.
+WHY BLAME SNOWDEN?
+But, should Edward Snowden be blamed for this situation? No, because some analysts also point out that Al-Qaeda and like-minded militant groups were already aware of the enormous capabilities of the NSA to snoop on their communications, and had already taken measures to try to evade detection.
+In 2011, German Intelligence officials revealed that militants in Germany had developed some effective encryption tools for secure communication over the Internet with terrorist operatives in Pakistan, CNN reported.
+In 2009, An American-Yemeni cleric personally instructed European militants in Yemen how to use the encryption software so they could communicate without their e-mails being intercepted.
+And in many more cases, such communications were obviously not detected by the NSA, otherwise terrorist would have been arrested before trying to carry out an attack.
+It seems that NSA and U.S Government are more concerned about the surge of “malware” spreading over the Internet and to combat with the Economic frauds, but they should definitely need to be alert from the “terrorwares,” that may use a large amounts of publicly available online data to predict the timing and targets of the future terror attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

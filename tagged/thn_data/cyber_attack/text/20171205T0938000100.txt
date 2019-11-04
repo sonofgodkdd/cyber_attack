@@ -1,0 +1,20 @@
+Young Hacker, Who Took Over Jail Network to Get Friend Released Early, Faces Prison
+Swati Khandelwal
+
+Well, "a friend in need is a friend indeed" goes a long way, but in this case, this phrase hardly makes any sense.
+A 27-year-old Michigan man who hacked into the government computer system of Washtenaw County Jail to alter inmate records and gain early release for his friend is now himself facing federal charges after getting caught.
+Konrads Voits from Ann Arbor, Michigan, pleaded guilty in federal court last week for hacking into the Washtenaw County government computer system earlier this year using malware, phishing, and social engineering tricks in an attempt to get his friend released early from jail.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Prosecutors say Voits also used phone calls to prison staff claiming to be a manager at the County Jail's IT department and tricking them into downloading and running malware on their computers by visiting a phony website at "ewashtenavv.org," which mimics the Washtenaw official URL, "ewashtenaw.org."
+Voit then obtained the remote login information of one of the Jail employees and used that information to install malware on the County's network and gain access to sensitive County's XJail system in March this year.
+Gaining access to this system eventually allowed Voits to steal jail records of several inmates, search warrant affidavits and personal details, including passwords, usernames, and email addresses, of over 1,600 employees, along with altering electronic records of at least one inmate for early release.
+However, things did not work as Voits wanted them to, and instead, they all backfired on him when jail employees detected changes in their records and alerted the FBI.
+No prisoners were then released early.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This incident took place between January 24th, 2017 and March 10th, 2017 and cost Washtenaw County more than $235,000 to fix the whole mess before authorities busted Voits.
+"Cyber intrusions affect individuals, businesses and governments. Computer hackers should realize that unlawfully entering another's computer will result in a felony conviction and a prison sentence," said the United States Attorney Daniel Lemisch. 
+"We applaud the dedication of so many hard-working law enforcement officers to take away this man's [Voits] ability to intrude into the computer systems of others."
+Voits was arrested by the authorities a month later and pleaded guilty last week. He is now facing a fine of up to $250,000 and a maximum sentence of ten years prison, though he is unlikely to receive the maximum sentence.
+Voits has agreed to surrender his belongings used during the attack, including his laptop, four cellphones and an undisclosed amount of Bitcoin.
+Voits is currently in federal custody and is set to face a sentencing hearing on 5 April 2018.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

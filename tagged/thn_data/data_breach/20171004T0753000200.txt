@@ -1,0 +1,24 @@
+It's 3 Billion! Yes, Every Single Yahoo Account Was Hacked In 2013 Data Breach
+Swati Khandelwal
+
+The largest known hack of user data in the history just got tripled in size.
+Yahoo, the internet company that's acquired by Verizon this year, now believes the total number of accounts compromised in the August 2013 data breach, which was disclosed in December last year, was not 1 billion—it's 3 Billion.
+Yes, the record-breaking Yahoo data breach affected every user on its service at the time.
+Late last year, Yahoo revealed the company had suffered a massive data breach in August 2013, which affected 1 billion user accounts.
+The 2013 hack exposed user account information, including names, email addresses, telephone numbers, dates of births, hashed passwords (using MD5), and, in some cases, "encrypted or unencrypted security questions and answers," Yahoo said in 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At that time, Yahoo did confirm that hackers did not obtain bank account details or credit card information tied to the Yahoo accounts.
+The data breach was attributed to state-sponsored hackers. Since the disclosure of the breach last year, there have been many developments in the incident.
+However, the recent announcement by Yahoo makes it clear that if you had an email account on Yahoo, you were part of the infamous data breach.
+Oath, the Verizon subsidiary into which Yahoo was merged, made the announcement in a filing with the SEC on Tuesday, which reads:
+"Subsequent to Yahoo's acquisition by Verizon, and during integration, the company recently obtained new intelligence and now believes, following an investigation with the assistance of outside forensic experts, that all Yahoo user accounts were affected by the August 2013 theft."
+The statement clearly suggests that if you had an account on Yahoo in 2013, you were affected by the data breach.
+So for whatever reason you did not change your password last year after the disclosure of this massive breach, you should now change your passwords immediately and enable two-factor authentication (2FA).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also, if you are using the same password and answers to security questions somewhere else, change them too.
+Deleting Yahoo account may not be a good option to opt for, as Yahoo recycles deleted accounts after 30 days, which would allow anyone to hijack it. So, even if you don't want to use your Yahoo account, just enable 2FA and leave it.
+Yahoo has also started notifying the affected account holders, requiring them to change their passwords immediately, and assuring them that the stolen data "did not include passwords in clear text, payment card data, or bank account information."
+One should note that this breach is separate from the 2014 breach disclosed by Yahoo in September last year, affecting as many as 500 Million user accounts.
+Yahoo attributed the 2014 breach to a state-sponsored hacking group. In March 2016, US federal prosecutors charged two Russian intelligence officers and two criminal hackers in connection with the breach.
+Recently, credit reporting service Equifax also announced that an additional 2.5 million American consumers were also impacted by the massive breach the company disclosed last month, bringing the total possible victims to 145.5 million from 143 million.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

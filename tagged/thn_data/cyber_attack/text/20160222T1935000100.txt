@@ -1,0 +1,20 @@
+NSA Data Center Experiencing 300 Million Hacking Attempts Per Day
+Unknown
+
+Utah State computer systems are experiencing a massive cyber attack on up to 300 Million Hacking attempts per day due to National Security Agency’s (NSA) data center in the state.
+Yes, 300,000,000 hacking attempts in a day!
+According to the statistical survey, it is evident that the computer systems in the US State of Utah began to experience the hacking attack a few years back, precisely, soon after the NSA revelations by global surveillance whistleblower Edward Snowden.
+It is a less-known fact that the NSA has built its new data center near the city of Bluffdale, Utah. However, a couple of years back, when Snowden revealed the presence of the data center, the attacks have constantly been going on.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The PRISM spying program by Big Brothers at NSA might have shifted the attention of hackers for the retaliation against mass-surveillance and flared up this heightened cyber attacks against the spying agency.
+According to Utah Commissioner of public safety, Keith Squires, as quoted by KUTV:
+"In 2010, my IT director was letting me know that the number of attacks we were averaging a day was between 25,000 to 80,000. We had peaks in the past year or so that were over 300,000,000 a day."
+Additionally, advanced weapons systems at Hill Air Force Base and other tech companies in Utah could also be the reason for this fueling cyber attacks.
+Trace Route 
+The Security officers had identified the sudden influx of IP traffic traced into foreign IP ranges and said the incident would be a model of a botnet attack.
+The botnet network scans for the technical glitches in the communication pathways to infect the system, as per its Command and Control (C&C) instructions.
+In an attempt to minimize the attacking vector, Utah Security Officer had blocked the IP addresses from China, Russia, and Indonesia.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the majority of cases, hackers are trying to gain a single access by many tactical ploys that could lead them to land into the NSA mainframes.
+The Big Brother is Watching you…!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

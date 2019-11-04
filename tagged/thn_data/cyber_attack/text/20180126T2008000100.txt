@@ -1,0 +1,16 @@
+Someone Stole Almost Half a BILLION Dollars from Japanese Cryptocurrency Exchange
+Wang Wei
+
+Coincheck, a Tokyo-based cryptocurrency exchange, has suffered what appears to be the biggest hack in the history of cryptocurrencies, losing $532 million in digital assets (nearly $420 million in NEM tokens and $112 in Ripples).
+In 2014, Mt Gox, one of the largest bitcoin exchange at that time, filed for bankruptcy after admitting it had lost $450 million worth of Bitcoins.
+Apparently, the cryptocurrency markets reacted negatively to the news, which resulted in 5% drop in Bitcoin price early this morning.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a blog post published today, the Tokyo-based cryptocurrency exchange confirmed the cyber heist without explaining how the tokens were stolen, and abruptly froze most of its services, including deposits, withdrawals and trade of almost all cryptocurrencies, except Bitcoin.
+Coincheck also said the exchange had even stopped deposits into NEM cryptocurrencies, which resulted in 16.5% drop in NEM coin value, as well as other deposit methods including credit cards.
+During a late-night press conference at the Tokyo Stock Exchange, Coincheck Inc. co-founder Yusuke Otsuka also said that over 500 million NEM tokens (then worth around $420 million) were taken from Coincheck's digital wallets on Friday, but the company didn’t know how the tokens went missing, according to new source Asahi.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The digital-token exchange has already reported the incident to the law enforcement authorities and to Japan's Financial Services Agency to investigate the cause of the missing tokens.
+"We will report on the damage situation and cause of the case, measures to prevent recurrence, but first we would like you to take every possible measure to protect our customers," said Executives of the Financial Services Agency (translated).
+This incident marks yet another embarrassing hack in the world of digital currency technology, once again reminding us that the volatility in cryptocurrency prices is not going away anytime soon.
+So far, the exchange has not provided any official statement regarding the cause of this hack. We will keep you updated about this incident. Stay Tuned!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

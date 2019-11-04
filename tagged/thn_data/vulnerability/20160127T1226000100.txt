@@ -1,0 +1,22 @@
+Israeli Power Grid Authority Suffers Massive Cyber Attack
+Swati Khandelwal
+
+The country which built a Digital Iron Dome, Israel had undergone one of the largest serious cyber attack this year.
+This time, the name of Israel is being popped up in the current headlines is for the massive cyber attack which triggered against the Nation's Electrical Power Grid Authority's Network.
+"Yesterday we identified one of the largest cyber attacks that we have experienced," Energy Minister Yuval Steinitz confirmed at the CyberTech 2016 Conference at the Tel Aviv Trade Fair and Convention Center on Tuesday, according to an article published by The Times of Israel.
+"The virus was already identified and the right software was already prepared to neutralize it," Steinitz added. "We'd to paralyze many of the computers of the Israeli Electricity Authority. We are handling the situation and I hope that soon, this very serious event will be over...but as of now, computer systems are still not working as they should."
+Severe Cyber Attack on Israel Electricity Infrastructure
+The 'severe' attack occurred earliest this week, as Israel is currently undergoing record-breaking electricity consumption for last two days with a demand of 12,610 Megawatts due to the freezing temperature, confirmed by Israel Electric Corporation.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the officials did not comment upon the perpetrators as they do not suspect any currently, but they did tell Israeli newspaper Haaretz that '[they] are going to solve this problem in the coming hours.'
+In Mid-July 2015, the Israel's National Cyber Bureau had already warned about the computer-based hacking attacks, which shut down portions of the country's electricity grid.
+The identity of the suspects behind this attack has not been known, neither the energy ministry provides any details about how the attack was carried out.
+However, a spokesperson for Israel's Electricity Authority confirmed some of its computer systems had been shut down for two days due to the cyber attack.
+Previous Known Cyber Attacks on SCADA Systems
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Israel had been the continual victim for many of the cyber attacks previously like OpIsrael (a coordinated attack by anti-Israeli Groups & Palestinians), which was conducted on 7th April 2013, on the eve of Holocaust Remembrance Day with the goal of "Erase Israel from Internet."
+Another attack on the Israeli Civilian communication was carried out by Iran & Hezbollah Group last year.
+In response to these attacks, Israel had broadened their skills to combat cyber war and become a center for cybersecurity, R&D Labs with multinationals from the US, Europe, and Asia. Israeli Cyber Security firms claimed to export $3 Billion last year.
+A similar incident of power outbreak took place a couple of months back in Ukraine on 23rd December, when the country's SCADA system was hit with a trojan named BlackEnergy that resulted in the total power cut across the region named Ivano-Frankivsk of Ukraine.
+This Article has been written by our editorial intern. Special Thanks to Rakesh Krishnan for covering this article.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

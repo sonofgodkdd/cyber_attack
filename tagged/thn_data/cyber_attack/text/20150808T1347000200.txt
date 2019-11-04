@@ -1,0 +1,18 @@
+Researchers to Share Details of Cyber-Terrorists Targeting Indian Government Officials
+Wang Wei
+
+The Potential threat, range from very narrow to very broad, posed by Cyber-Terrorism has provoked considerable alarm.
+Terrorists involved in Cyber Espionage and Operations aim at gaining access to Nation's critical infrastructure involving both Government as well as Private sectors.
+The Frequency and Intensity of such Cyber-attacks are increasing rapidly and extending into absolute cyber-war between states, allowing terrorist organizations to pilfer data from financial and military organizations.
+Similar Incident happened, few months back, when a group of Middle-east terrorists tried to infiltrate Indian Government officials operational in Cyber related divisions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response, a team of Independent Indian security researchers planned a counter operation to track down the terrorist organization behind the cyber attack.
+Shesh Sarangdhar, a security researcher at Seclabs & Systems Pvt. told The Hacker News that his team successfully penetrated the source computer (using zero-day exploits) used for spreading malware to Government officials and found that the attacker’s IP address belongs to Pakistan Telecommunication company limited.
+“Upon Analysis, the infected system appeared be a part of an elaborately designed cyber operation center,” Mr. Sarangdhar explained.
+Researchers found a directory called “Umer Media” on that compromised system, which contained Excel files maintaining a list of “multiple social media profiles of terrorism bent.”
+“Excel file elaborately maintained the details of individuals who comment and like on these pages. Many of these social media profiles were later analyzed and revealed some key players behind the cyber-terror organization,” he told The Hacker News team.
+The goal of cyber counter operation conducted by the Indian researchers was to prevent cyber attacks against any and all critical infrastructures.
+Moreover, the researchers obtained mobile numbers of those key players and compromised their devices using a zero-day vulnerability in Maxthon browser.
+“The mobile communication revealed that around 1000 mujahids were being trained to infiltrate Indian borders,” Mr. Sarangdhar told us.
+Shesh Sarangdhar and his team will present the complete technical details of their operation, zero-day vulnerabilities used and the malware analysis at upcoming “1337Con” CyberSecurity Conference.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

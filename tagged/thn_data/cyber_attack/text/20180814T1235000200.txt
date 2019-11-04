@@ -1,0 +1,23 @@
+Hackers can compromise your network just by sending a Fax
+Swati Khandelwal
+
+What maximum a remote attacker can do just by having your Fax machine number?
+Believe it or not, but your fax number is literally enough for a hacker to gain complete control over the printer and possibly infiltrate the rest of the network connected to it.
+Check Point researchers have revealed details of two critical remote code execution (RCE) vulnerabilities they discovered in the communication protocols used in tens of millions of fax machines globally.
+You might be thinking who uses Fax these days!
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Well, Fax is not a thing of the past. With more than 300 million fax numbers and 45 million fax machines in use globally, Fax is still popular among several business organizations, regulators, lawyers, bankers, and real estate firms.
+Since most fax machines are today integrated into all-in-one printers, connected to a WiFi network and PSTN phone line, a remote attacker can simply send a specially-crafted image file via fax to exploit the reported vulnerabilities and seize control of an enterprise or home network.
+All the attacker needs to exploit these vulnerabilities is a Fax number, which can be easily found simply by browsing a corporate website or requesting it directly.
+Faxploit Attack — Demonstration Video
+Dubbed Faxploit, the attack involves two buffer overflow vulnerabilities—one triggers while parsing COM markers (CVE-2018-5925) and another stack-based issue occurs while parsing DHT markers (CVE-2018-5924), which leads to remote code execution.
+To demonstrate the attack, Check Point Malware Research Team Lead Yaniv Balmas and security researcher Eyal Itkin used the popular HP Officejet Pro All-in-One fax printers—the HP Officejet Pro 6830 all-in-one printer and OfficeJet Pro 8720.
+As shown in the above video, the researchers send an image file loaded with malicious payload through the phone line, and as soon as the fax machine receives it, the image is decoded and uploaded into the fax-printer's memory.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In their case, the researchers used NSA-developed EternalBlue and Double Pulsar exploits, which was leaked by the Shadow Brokers group and was behind the WannaCry ransomware global outcry last year, to take over the connected machine and further spread the malicious code through the network.
+"Using nothing but a phone line, we were able to send a fax that could take full control over the printer, and later spread our payload inside the computer network accessible to the printer," the researcher said in a detailed blog post published today.
+"We believe that this security risk should be given special attention by the community, changing the way that modern network architectures treat network printers and fax machines."
+According to the Check Point researchers, attackers can code the image file with malware including ransomware, cryptocurrency miners, or surveillance tools, depending upon their targets of interest and motives.
+Check Point researchers responsibly disclosed their findings to Hewlett Packard, which quickly fixed the flaws in its all-in-one printers and deployed firmware patches in response. A patch is available on HP's support page.
+However, the researchers believe the same vulnerabilities could also impact most fax-based all-in-one printers sold by other manufacturers and other fax implementation, such as fax-to-mail services, standalone fax machines, and more.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

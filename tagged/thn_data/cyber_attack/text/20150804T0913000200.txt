@@ -1,0 +1,29 @@
+Operation Lotus Blossom APT - Elise Malware
+Swati Khandelwal
+
+Advanced Persistent Threat (APT) type attacks continue to emerge on a global scale. What makes these attacks deviate from the norm is often the resources required to develop and implement them: time, money, and the knowledge required to create custom pieces of malware to carry out specific, targeted attacks.
+Operation Lotus Blossom is one of the more recent APT attacks that has been discovered and analyzed. It is an advanced adversary campaign against the mostly government and state-sponsored entities in the Philippines, Hong Kong, Vietnam, and Indonesia.
+It is thought that this group carried out the attack to gain a geopolitical advantage by stealing specific information from government and military institutions in that area. 
+At this point, it is still too early to tell if the reach of the attack will extend to the private sector (a la Stuxnet and Duqu).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+How does the attack work?
+It was found that Operation Lotus Blossom involved a novel custom-built malware toolkit that the authors named Elise. This piece of malware was designed with some unique functions, including the ability to:
+Evade sandbox detection
+Connect to and control servers
+Exfiltrate data
+Deliver 2nd stage malware payloads
+As has been seen in the case of many advanced cyber espionage groups, it begins with a spear phishing email. The email contains information that is very authentic and applicable to the government or military targets. For instance, it uses things like military rosters that targets expect to see. Once the victim sees the email and opens the attachment, a decoy document is presented that appears to be legitimate, however, what is actually happening is that a backdoor is being opened and malware is being installed on the victim's machine. This gives the attacker a base of operations to conduct additional network reconnaissance, compromise new systems, as well as deliver second stage malware or exfiltrate data.
+Impact on you
+Any malware installed on your network puts you at risk of compromise, especially one designed to steal data
+Once installed, Elise can infect other machines and continue to deliver additional malware variants as needed
+Elise is specially designed to steal data, putting you and your clients’ sensitive information at risk
+How AlienVault Help
+AlienVault Labs continues to perform cutting edge research on threats like these, collecting large amounts of data and then creating expert threat intelligence as a result.
+The Labs team has already released IDS signatures and a correlation rule to the AlienVault USM platform so customers can detect activity from Elise. Learn more about this threat intelligence update and others in our forum.
+Unified Security Management (USM) Platform helps you to scan your network to identify assets that could be infected with the Elise malware, making it easy for you to prioritize efforts and quickly identify systems that need to be addressed first.
+Not only can it identifies vulnerable systems, but it can also help you detect attempted exploits of the vulnerability.
+Learn more about AlienVault USM:
+Download a free 30-day trial
+Watch a demo on-demand
+Play with USM in our product sandbox (no download required)
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

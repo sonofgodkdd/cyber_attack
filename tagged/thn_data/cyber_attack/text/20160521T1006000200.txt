@@ -1,0 +1,23 @@
+Ecuador Bank Hacked — $12 Million Stolen in 3rd Attack on SWIFT System
+Swati Khandelwal
+
+Bangladesh is not the only bank that had become victim to the cyber heist. In fact, it appears to be just a part of the widespread cyber attack on global banking and financial sector by hackers who target the backbone of the world financial system, SWIFT.
+Yes, the global banking messaging system that thousands of banks and companies around the world use to transfer Billions of dollars in transfers each day is under attack.
+A third case involving SWIFT has emerged in which cyber criminals have stolen about $12 million from an Ecuadorian bank that contained numerous similarities of later attacks against Bangladesh’s central bank that lost $81 Million in the cyber heist.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attack on Banco del Austro (BDA) in Ecuador occurred in January 2015 and, revealed via a lawsuit filed by BDA against Wells Fargo, a San Francisco-based bank on Jan. 28, Reuters reported.
+Here’s how cyber criminals target banks:
+Uses malware to circumvent local security systems of a bank.
+Gains access to the SWIFT messaging network.
+Sends fraudulent messages via SWIFT to initiate cash transfers from accounts at larger banks.
+Over ten days, hackers used SWIFT credentials of a bank employee to modify transaction details for at least 12 transfers amounting to over $12 Million, which was transferred to accounts in Hong Kong, Dubai, New York and Los Angeles.
+In the lawsuit, BDA holds Wells Fargo responsible for not spotting the fraudulent transactions and has demanded Wells Fargo to return the full amount that was stolen from the bank.
+The lawsuit filed by BDA in a New York federal court described that the some of these attacks could have been prevented if banks would have shared more details about the attacks with the SWIFT organization.
+Wells Fargo has also fired back and blamed BDA's information security policies and procedures for the heist and noted that it "properly processed the wire instructions received via authenticated SWIFT messages," according to court documents.
+According to reports, the heist remained a secret for a long time and now disclosed when BDA decided to sue Wells Fargo that approved the fraudulent transfers. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+SWIFT did not have any idea about the breach, as neither BDA nor Wells Fargo shared any detail about the attack.
+"We were not aware," SWIFT said in a statement. "We need to be informed by customers of such frauds if they relate to our products and services so that we can inform and support the wider community. We have been in touch with the bank concerned to get more information, and are reminding customers of their obligations to share such information with us."
+It turns out that the security of SWIFT itself was not breached in the attack, but cyber criminals used advanced malware to steal credentials of bank’s employees and cover their tracks.
+In February, $81 Million cyberheist at the Bangladesh central bank was carried out by hacking into SWIFT using a piece of malware that manipulated logs and erased the fraudulent transactions history, and even prevented printers from printing those transactions.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,29 @@
+Zomato Hacked; Hacker Puts Up 17 Million Users' Emails and Passwords On Sale
+Mohit Kumar
+
+If you ever ordered food from Zomato, You should be Worried!
+India's largest online restaurant guide Zomato confirmed today that the company has suffered a data breach and that accounts details of millions of its users have been stolen from its database.
+In a blog post published today, the company said about 17 Million of its 120 Million user accounts from its database were stolen.
+What type of information?
+The stolen account information includes user email addresses as well as hashed passwords.
+Zomato claims that since the passwords are encrypted, it cannot be decrypted by the attackers, so the "sanctity of your password is intact."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It seems Zomato is downplaying the threat or unaware of the fact that these days hackers are using cloud computing, which enables them to decrypt even a 15-18 character passwords within a few hours. So there's no guarantee your passwords will not eventually get cracked.
+Update: As shown in the above screenshot taken immediately after they updated their blog post, Zomato has changed its statement from "your password can not be converted/decrypted" to "can not be easily converted" back to plain text.
+The updated statement now reads:
+"We hash passwords with a one-way hashing algorithm, with multiple hashing iterations and individual salt per password. This means your password cannot be easily converted back to plain text."
+Also, Zomato stressed that the breach did not impact or compromise any payment card data, as the financial information of its customers is stored in a separate database different from the one illegally accessed.
+"Payment related information on Zomato is stored separately from this (stolen) data in a highly secure PCI Data Security Standard (DSS) compliant vault. No payment information or credit card data has been stolen/leaked," the company claims.
+17 Million Zomato Accounts Sold on Dark Web
+According to HackRead, a user going by the online moniker of "nclay," who claimed to have hacked Zomato, is selling data of 17 Million registered Zomato users on a popular Dark Web marketplace.
+The vendor also shared a sample data to verify the authenticity of the leaked database and is asking for 0.5587 Bitcoins (around $1017 or ₹65,261) for the entire set of data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though Zomato has partnered with HackerOne Bug Bounty Platform, hacker preferred to put up data on sale, which indicates it could be an internal breach, instead of exploiting a flaw. 
+The company believes that someone from inside its organization is responsible for the security breach.
+"Our team is actively scanning all possible breach vectors and closing any gaps in our environment. So far, it looks like an internal (human) security breach - some employee’s development account got compromised," the company said.
+What should Zomato Customers do?
+Customers should particularly be alert of any phishing email, which are usually the next step of cyber criminals after a breach to trick users into giving up further details like financial information.
+For the obvious reasons, all customers are highly recommended to change their passwords for Zomato accounts as soon as possible, along with other websites that are using the same passwords, and choose unique passwords for different accounts.
+If you can't create or remember complex passwords for different sites, you can make use of a password manager.
+We have listed some good password managers for Android, iOS, Windows, Linux and Mac platform that could help you understand the importance of password manager and choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

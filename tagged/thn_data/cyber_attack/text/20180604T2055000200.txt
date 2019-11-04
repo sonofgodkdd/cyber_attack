@@ -1,0 +1,19 @@
+75% of the 'Left to Get Hacked' Redis Servers Found Infected
+Wang Wei
+
+Despite the continual emergence of new cyber attacks because of misconfigured servers and applications, people continue to ignore security warnings.
+A massive malware campaign designed to target open Redis servers, about which researchers warned almost two months ago, has now grown and already hijacked at least 75% of the total servers running publicly accessible Redis instances.
+Redis, or REmote DIctionary Server, is an open source, widely popular data structure tool that can be used as an in-memory distributed database, message broker or cache. Since it is designed to be accessed inside trusted environments, it should not be exposed on the Internet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed RedisWannaMine, a similar malware leveraging same loophole was discovered in late March by data center security vendor Imperva and designed to drop a cryptocurrency mining script on the targeted servers—both database and application.
+According to Imperva's March blog post, this cryptojacking threat was "more complex in terms of evasion techniques and capabilities. It demonstrates a worm-like behavior combined with advanced exploits to increase the attackers' infection rate and fatten their wallets."
+A newly published report from the same security firm has now revealed that three-quarters of the open Redis servers accessible from the Internet (over port 6379) contain malicious sets of a key-value pair in the memory, indicating despite multiple warnings administrators continue to leave their servers vulnerable to hackers.
+Out of total compromised servers, 68 percent systems were found infected using similar keys, named "backup1, backup2, backup3," which were attacked from a medium-sized botnet located at China (86% of IPs), according to the data Imperva collected from their self-set-up publicly available Redis servers to serve as a honeypot.
+Moreover, the attackers have now found using the compromised servers as a proxy to scan and find vulnerabilities, including SQL injection, cross-site scripting, malicious file uploads, and remote code executions, in other websites.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The new attack works by setting a malicious key-value pair in the memory and saving it as a file in the /etc/crontabs folder that forces the server to execute the file.
+"Attackers usually set values that include commands to download external remote resource and run it. Another popular type of command is adding SSH keys, so the attacker can remotely access the machine and take it over," Nadav Avital, security research team leader at Imperva, explains in a blog post.
+To protect Redis servers from falling victim to such attacks, administrators are advised never to expose their servers to the Internet, but if required, apply authentication mechanism to prevent unauthorized access.
+Also, since Redis doesn't use encryption and stores data in plain text, you should never store any sensitive data on these servers.
+"Security issues commonly arise when people don’t read the documentation and migrate services to the cloud, without being aware of the consequences or the adequate measures that are needed to do so," Avital said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

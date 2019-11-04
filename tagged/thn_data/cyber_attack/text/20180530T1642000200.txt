@@ -1,0 +1,28 @@
+FBI issues alert over two new malware linked to Hidden Cobra hackers
+Swati Khandelwal
+
+The US-CERT has released a joint technical alert from the DHS and the FBI, warning about two newly identified malware being used by the prolific North Korean APT hacking group known as Hidden Cobra.
+Hidden Cobra, often known as Lazarus Group and Guardians of Peace, is believed to be backed by the North Korean government and known to launch attacks against media organizations, aerospace, financial and critical infrastructure sectors across the world.
+The group was even associated with the WannaCry ransomware menace that last year shut down hospitals and businesses worldwide. It is reportedly also linked to the 2014 Sony Pictures hack, as well as the SWIFT Banking attack in 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, the Department of Homeland Security (DHS) and the FBI have uncovered two new pieces of malware that Hidden Cobra has been using since at least 2009 to target companies working in the media, aerospace, financial, and critical infrastructure sectors across the world.
+The malware Hidden Cobra is using are—Remote Access Trojan (RAT) known as Joanap and Server Message Block (SMB) worm called Brambul. Let's get into the details of both the malware one by one.
+Joanap—A Remote Access Trojan
+According to the US-CERT alert, "fully functional RAT" Joanap is a two-stage malware that establishes peer-to-peer communications and manages botnets designed to enable other malicious operations.
+The malware typically infects a system as a file delivered by other malware, which users unknowingly download either when they visit websites compromised by the Hidden Cobra actors, or when they open malicious email attachments.
+Joanap receives commands from a remote command and control server controlled by the Hidden Cobra actors, giving them the ability to steal data, install and run more malware, and initialize proxy communications on a compromised Windows device.
+Other functionalities of Joanap include file management, process management, creation and deletion of directories, botnet management, and node management.
+During analysis of the Joanap infrastructure, the U.S. government has found the malware on 87 compromised network nodes in 17 countries including Brazil, China, Spain, Taiwan, Sweden, India, and Iran.
+Brambul—An SMB Worm
+Brambul is a brute-force authentication worm that like the devastating WannaCry ransomware, abuses the Server Message Block (SMB) protocol in order to spread itself to other systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malicious Windows 32-bit SMB worm functions as a service dynamic link library file or a portable executable file often dropped and installed onto victims' networks by dropper malware.
+"When executed, the malware attempts to establish contact with victim systems and IP addresses on victims' local subnets," the alert notes. 
+"If successful, the application attempts to gain unauthorized access via the SMB protocol (ports 139 and 445) by launching brute-force password attacks using a list of embedded passwords. Additionally, the malware generates random IP addresses for further attacks."
+Once Brambul gains unauthorized access to the infected system, the malware communicates information about victim's systems to the Hidden Cobra hackers using email. The information includes the IP address and hostname—as well as the username and password—of each victim's system.
+The hackers can then use this stolen information to remotely access the compromised system via the SMB protocol. The actors can even generate and execute what analysts call a "suicide script."
+DHS and FBI have also provided downloadable lists of IP addresses with which the Hidden Cobra malware communicates and other IOCs, to help you block them and enable network defenses to reduce exposure to any malicious cyber activity by the North Korean government.
+DHS also recommended users and administrators to use best practices as preventive measures to protect their computer networks, like keeping their software and system up to date, running Antivirus software, turning off SMB, forbidding unknown executables and software applications.
+Last year, the DHS and the FBI published an alert describing Hidden Cobra malware, called Delta Charlie—a DDoS tool which they believed North Korea uses to launch distributed denial-of-service (DDoS) attacks against its targets.
+Other malware linked to Hidden Cobra in the past include Destover, Wild Positron or Duuzer, and Hangman with sophisticated capabilities, like DDoS botnets, keyloggers, remote access tools (RATs), and wiper malware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

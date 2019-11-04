@@ -1,0 +1,28 @@
+Importance of Logs and Log Management for IT Security
+Wang Wei
+
+IT Security is the name of the game and no matter how big or small the size of your organization, you will always invest enough on securing certain aspects of your IT network. In many organizations, it starts with monitoring your network for vulnerabilities that may enter the network to access potentially sensitive information in the form of security attacks. 
+For example, you may have firewalls as your first line of defense, followed by vulnerability management, intrusion detection and prevention systems, managing your network configurations and so on. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+These are crucial because:
+Your routers can be easily breached without proper configuration and restrictions. 
+If a firewall isn’t configured correctly, a hacker can easily spot a port that is accidentally left open and can gain access to the network. 
+Rogue access points, botnet malware and social engineering can make your wireless a porthole into your LAN.
+Why Logs?
+The very purpose of IT security is to be proactive and the above measures make it more difficult for someone who attempts to compromise the network. This might just not be enough and you need to able to detect the actual breaches as they are being attempted. This is where log data really help.
+To expose an attack or identify the damage caused, you need to analyze the log events on your network in real-time. By collecting and analyzing logs, you can understand what transpires within your network. Each log file contains many pieces of information that can be invaluable, especially if you know how to read them and analyze them. With proper analysis of this actionable data you can identify intrusion attempts, mis-configured equipment, and many more. Also for managing compliance, especially for PCI DSS – you need to retain logs and review them.
+Monitoring and Analyzing Event Logs
+When you know what is normal on your network, you can easily spot what is abnormal by monitoring the logon activity. It is very critical to analyze the event to understand the root cause and to make log analysis & log management more efficient, you need to collect and consolidate log data across the IT environment, and correlate events from multiple devices in real-time. 
+Apart from monitoring the activities across your web server, firewalls and other network devices, it becomes very crucial to monitor your workstation logs. For example, a workstation log can give you some key information like when a USB was connected, by whom and whether he belongs to the group that is authorized, etc. Log file analysis is best done with an SIEM software, when it comes to reading all of the events and being able to analyze and correlate activity across the various components of IT.  
+How SolarWinds Log & Event Manager can help you?
+SolarWinds Log & Event Manager (LEM) completely monitor event logs across and acts as a central collection point for system log data, automatically aggregates and normalizes this data into a consistent format. LEM also performs multiple event correlation and has the distinct ability to set independent activity thresholds per event or per group to understand relationships between dramatically different activities. With its proactive approach, it helps you identify and respond to threats in real time.
+Key areas where SolarWinds LEM helps you:
+Monitoring Security Events: Event correlation allows you to effectively troubleshoot issues by understanding the relationship between various activities using multiple event correlations and alerts you as and when it encounters a security threat.
+Threat Remediation: Active responses help you in responding timely to policy violations and troubleshooting issues. Some key active responses include:
+Delete User Account and User Group
+Block IP address
+Log Off User
+Restart/Shutdown Machine
+Disable USB devices
+Event forensics help you identify suspicious behavior patterns on your network.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

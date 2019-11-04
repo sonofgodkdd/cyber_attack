@@ -1,0 +1,17 @@
+Amazon's Whole Foods Market Suffers Credit Card Breach In Some Stores
+Swati Khandelwal
+Another day, another data breach. This time Amazon-owned grocery chain has fallen victim to a credit card security breach.
+Whole Foods Market—acquired by Amazon for $13.7 billion in late August—disclosed Thursday that hackers were able to gain unauthorized access to credit card information for its customers who made purchases at certain venues like taprooms and full table-service restaurants located within some stores.
+Whole Foods Market has around 500 stores in the United States, United Kingdom, and Canada.
+The company did not disclose details about the targeted locations or the total number of customers affected by the breach, but it did mention that hackers targeted some of its point-of-sale (POS) terminals in an attempt to steal customer data, including credit details.
+The company also said people who only shopped for groceries at Whole Foods were not affected, neither the hackers were able to access Amazon transactions in the security breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Instead, only certain venues such as taprooms and table-service restaurants located within its stores—which use a separate POS system—were impacted.
+Whole Foods Market has hired a cybersecurity firm to help it investigate the credit card breach and contacted law enforcement authorities of this incident.
+"When Whole Foods Market learned of this, the company launched an investigation, obtained the help of a leading cybersecurity forensics firm, contacted law enforcement, and is taking appropriate measures to address the issue," Whole Foods said in a statement on its website.The company is also encouraging its customers to closely monitor their credit card statements and "report any unauthorized charges to the issuing bank."
+According to Whole Foods Market, none of the affected systems being investigated are, in any way, connected to Amazon.com systems.
+Whole Foods Market has become the latest of the victim of the high-profile cyber attack. Earlier this month, Global tax and auditing firm Deloitte suffered a cyber attack that resulted in the theft of private emails and documents of some of its clients.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also last week, the U.S. Securities and Exchange Commission (SEC) also disclosed that unknown hackers managed to hack its financial document filing system and illegally profited from the stolen information.
+Last month, credit rating agency Equifax publicly disclosed a breach of its systems that exposed personal details, including names, addresses, birthdays and Social Security numbers, of potentially 143 million US customers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

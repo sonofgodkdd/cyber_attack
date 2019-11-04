@@ -1,0 +1,39 @@
+How to Build a Successful Incident Response Plan
+Wang Wei
+
+The fight to protect your company’s data isn’t for the faint of heart.
+As an embattled IT warrior, with more systems, apps, and users to support than ever before, keeping everything up and running is a battle in itself.
+When it comes to preventing the worst-case scenario from happening, you need all the help you can get, despite your super-hero status.
+According to SANS, there are 6 key phases of an incident response plan.
+Preparation - Preparing users and IT to handle potential incidents in case they happen
+Identification - Figuring out what we mean by a “security incident” (which events can we ignore vs. which we must act on right now?)
+Containment - Isolating affected systems to prevent further damage
+Eradication - Finding and eliminating the root cause (removing affected systems from production)
+Recovery - Permitting affected systems back into the production environment (and watching them closely)
+Lessons Learned - Writing everything down and reviewing and analyzing with all team members so you can improve future incident response efforts
+Here are three examples from the front lines of incident response that can help you at each phase as you build out your plan.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Defining Success Incident Response Success
+There are many levels of success in defensive work… the common wisdom is that the attacker only has to be right once, but the defender has to be right every time, but that’s not always true.
+Attacks are not all-or-nothing affairs - they happen over time, with multiple stages before final success.
+To remain undetected against an attentive defender, it is the attacker who must make every move correctly; if an astute defender detects them even once, they have the possibility to locate and stop the whole attack.
+You aren't going to immediately detect everything that happens during an attack - but as long as you detect (and correctly identify) enough of an attack to stop it in its tracks, that’s success.
+Don’t Panic. Stay Focused.
+Execution is key - the range of ways to attack a target can seem limitless - expecting to be an expert on all of them is pointlessly unrealistic.
+The most important part of incident response is to handle every situation in a way that limits damage, and reduces recovery time and costs.
+At the end of the day, that’s how you’ll be measured on a job well done… not that you’ve covered every angle of every potential vulnerability.
+Start with Simple Steps. Attackers are Lazy.
+Attackers have technical and economic imperatives to use the minimum amount of effort and resources to breach their targets - the more you remove the low-hanging fruit on your network, the more you raise the actual level of work an attacker has to expend to successfully infiltrate it.
+AlienVault has recently created a 5 chapter eBook titled the Insider’s Guide to Incident Response that goes further into fundamental strategies that can help you create an efficient and effective incident response plan.
+The eBook covers:
+Arming & Aiming Your Incident Response Team
+Incident Response Process and Procedures
+Types of Security Incidents
+Incident Response Tools
+Incident Response Training
+You can download the entire eBook at AlienVault’s website here.
+Learn more about AlienVault USM:
+Download a free 30-day trial
+Watch a demo on-demand
+Play with USM in our product sandbox (no download required)
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers at Area Ports Make More Than 2 Dozen Drug Seizures during the Last Week
+(Friday, March 12, 2010)
+El Paso, Texas  - U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico identified and stopped numerous violations during the last seven days including drugs, prohibited agriculture items, fugitive apprehension, and immigration violations.click for hi-res
+CBP officers at the Columbus (N.M.) port of entry removed 108 pounds of the drug from metal collars attached to the rims of all four tires of a car that entered the U.S. March 6.
+Area CBP officers made 26 drug seizures during the past week. Included in that group were 23 marijuana seizures totaling 1,508 pounds, two cocaine seizures totaling 24.4 pounds, and one heroin seizure weighing 4.9 pounds.
+One of the most interesting drug seizures of the week occurred at the Columbus port of entry March 6. CBP officers at the port seized 108 pounds of marijuana. The seizure was made after a 1997 Jeep Grand Cherokee entered the port from Mexico. CBP drug sniffing dog "Cordone" searched the car and gave a positive alert for the presence of drugs. CBP officers X-rayed the vehicle and spotted anomalies in the appearance of the tires. CBP officers continued their exam of the tires and found four metal collars bolted onto the rims of all four tires. The metal canisters were opened and found to contain marijuana. Two female residents of Deming were taken into custody and turned over to U.S. Immigration and Customs Enforcement for prosecution.
+Area CBP officers made 14 seizures of prohibited food and agricultural items this week, resulting in $3,075 in fines being assessed. Prohibited items seized this week included pork, chorizo, bologna, apples, oranges, avocados, mangoes, sugar cane, potatoes, and live plants.
+During the previous seven days, area CBP officers uncovered 112 immigration violations. Imposters made up the largest group of violators. A total of 30 were identified through thorough document exams. Imposters generally will use a legitimate entry document assigned to another person and present it as their own.
+CBP officers this week also identified 41 intended immigrants while performing inspections at area ports. In these cases, individuals will use a legally issued border-crossing card (laser visa) to live or work in the U.S., which is not authorized. Violators generally lose their documents and are returned to Mexico.
+CBP officers also recorded 39 cases of people making false claims to U.S. citizenship, people attempting to enter with counterfeit or altered documents, and people attempting to enter without inspection.
+CBP officers this week also identified 21 people who were being sought by various law enforcement agencies, made three seizures of prohibited medications, confiscated cock fighting spurs and seized several article of clothing made from the skins of endangered animals. While anti-terrorism is the primary mission of U.S. Customs and Border Protection, the inspection process at the ports of entry associated with this mission results in impressive numbers of enforcement actions in all categories.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="27" text="CBP Officers at Area Ports" TYPE="BAR" />
+<person id="p1" start="129" end="237" text="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" TYPE="BAR" />
+<person id="p2" start="422" end="471" text="CBP officers at the Columbus (N.M.) port of entry" TYPE="BAR" />
+<person id="p3" start="601" end="618" text="Area CBP officers" TYPE="BAR" />
+<person id="p4" start="925" end="949" text="CBP officers at the port" TYPE="BAR" />
+<person id="p5" start="1168" end="1180" text="CBP officers" TYPE="BAR" />
+<person id="p6" start="1255" end="1267" text="CBP officers" TYPE="BAR" />
+<person id="p7" start="1278" end="1283" text="their" TYPE="PRO" />
+<person id="p8" start="1435" end="1465" text="Two female residents of Deming" TYPE="NOM" />
+<person id="p9" start="1567" end="1584" text="Area CBP officers" TYPE="BAR" />
+<person id="p10" start="1874" end="1891" text="area CBP officers" TYPE="BAR" />
+<person id="p11" start="1930" end="1939" text="Imposters" TYPE="BAR" />
+<person id="p12" start="1948" end="1978" text="the largest group of violators" TYPE="NOM" />
+<person id="p13" start="1969" end="1978" text="violators" TYPE="BAR" />
+<person id="p14" start="1980" end="1993" text="A total of 30" TYPE="PTV" />
+<person id="p15" start="1991" end="1993" text="30" TYPE="HLS" />
+<person id="p16" start="2043" end="2052" text="Imposters" TYPE="BAR" />
+<person id="p17" start="2112" end="2126" text="another person" TYPE="NOM" />
+<person id="p18" start="2145" end="2154" text="their own" TYPE="PRO" />
+<person id="p19" start="2156" end="2168" text="CBP officers" TYPE="BAR" />
+<person id="p20" start="2195" end="2217" text="41 intended immigrants" TYPE="NOM" />
+<person id="p21" start="2278" end="2289" text="individuals" TYPE="BAR" />
+<person id="p22" start="2404" end="2413" text="Violators" TYPE="BAR" />
+<person id="p23" start="2429" end="2434" text="their" TYPE="PRO" />
+<person id="p24" start="2473" end="2485" text="CBP officers" TYPE="BAR" />
+<person id="p25" start="2512" end="2558" text="people making false claims to U.S. citizenship" TYPE="BAR" />
+<person id="p26" start="2560" end="2624" text="people attempting to enter with counterfeit or altered documents" TYPE="BAR" />
+<person id="p27" start="2630" end="2675" text="people attempting to enter without inspection" TYPE="BAR" />
+<person id="p28" start="2677" end="2689" text="CBP officers" TYPE="BAR" />
+<person id="p29" start="2716" end="2783" text="21 people who were being sought by various law enforcement agencies" TYPE="NOM" />
+<person id="p30" start="2726" end="2729" text="who" TYPE="WHQ" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="129" end="163" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="422" end="425" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="606" end="609" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="925" end="928" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="1066" end="1069" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1168" end="1171" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="1255" end="1258" text="CBP" TYPE="NAMPRE" />
+<organization id="o8" start="1509" end="1549" text="U.S. Immigration and Customs Enforcement" TYPE="NAM" />
+<organization id="o9" start="1572" end="1575" text="CBP" TYPE="NAMPRE" />
+<organization id="o10" start="1879" end="1882" text="CBP" TYPE="NAMPRE" />
+<organization id="o11" start="2156" end="2159" text="CBP" TYPE="NAMPRE" />
+<organization id="o12" start="2473" end="2476" text="CBP" TYPE="NAMPRE" />
+<organization id="o13" start="2677" end="2680" text="CBP" TYPE="NAMPRE" />
+<organization id="o14" start="2751" end="2783" text="various law enforcement agencies" TYPE="BAR" />
+<organization id="o15" start="2993" end="3027" text="U.S. Customs and Border Protection" TYPE="NAM" />
+<geographical-political id="g0" start="111" end="125" text="El Paso, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="120" end="125" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="202" end="209" text="El Paso" TYPE="NAM" />
+<geographical-political id="g3" start="211" end="221" text="West Texas" TYPE="NAM" />
+<geographical-political id="g4" start="227" end="237" text="New Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="583" end="591" text="the U.S." TYPE="NAM" />
+<geographical-political id="g6" start="1058" end="1064" text="Mexico" TYPE="NAM" />
+<geographical-political id="g7" start="1459" end="1465" text="Deming" TYPE="NAM" />
+<geographical-political id="g8" start="2369" end="2377" text="the U.S." TYPE="NAM" />
+<geographical-political id="g9" start="2465" end="2471" text="Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="2542" end="2546" text="U.S." TYPE="NAMPRE" />
+<falicity id="f0" start="17" end="27" text="Area Ports" TYPE="BAR" />
+<falicity id="f1" start="184" end="237" text="ports of entry in El Paso, West Texas, and New Mexico" TYPE="BAR" />
+<falicity id="f2" start="438" end="471" text="the Columbus (N.M.) port of entry" TYPE="NAM" />
+<falicity id="f3" start="889" end="915" text="the Columbus port of entry" TYPE="NAM" />
+<falicity id="f4" start="941" end="949" text="the port" TYPE="NOM" />
+<falicity id="f5" start="1044" end="1052" text="the port" TYPE="NOM" />
+<falicity id="f6" start="2250" end="2260" text="area ports" TYPE="BAR" />
+<falicity id="f7" start="3055" end="3073" text="the ports of entry" TYPE="NOM" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="22" end="27" text="Ports" />
+<head id="h3" start="111" end="118" text="El Paso" />
+<head id="h4" start="120" end="125" text="Texas" />
+<head id="h5" start="164" end="172" text="officers" />
+<head id="h6" start="129" end="163" text="U.S. Customs and Border Protection" />
+<head id="h7" start="184" end="189" text="ports" />
+<head id="h8" start="202" end="209" text="El Paso" />
+<head id="h9" start="211" end="221" text="West Texas" />
+<head id="h10" start="227" end="237" text="New Mexico" />
+<head id="h11" start="426" end="434" text="officers" />
+<head id="h12" start="422" end="425" text="CBP" />
+<head id="h13" start="442" end="471" text="Columbus (N.M.) port of entry" />
+<head id="h14" start="587" end="591" text="U.S." />
+<head id="h15" start="610" end="618" text="officers" />
+<head id="h16" start="606" end="609" text="CBP" />
+<head id="h17" start="893" end="915" text="Columbus port of entry" />
+<head id="h18" start="929" end="937" text="officers" />
+<head id="h19" start="925" end="928" text="CBP" />
+<head id="h20" start="945" end="949" text="port" />
+<head id="h21" start="1048" end="1052" text="port" />
+<head id="h22" start="1058" end="1064" text="Mexico" />
+<head id="h23" start="1066" end="1069" text="CBP" />
+<head id="h24" start="1172" end="1180" text="officers" />
+<head id="h25" start="1168" end="1171" text="CBP" />
+<head id="h26" start="1259" end="1267" text="officers" />
+<head id="h27" start="1255" end="1258" text="CBP" />
+<head id="h28" start="1278" end="1283" text="their" />
+<head id="h29" start="1446" end="1455" text="residents" />
+<head id="h30" start="1459" end="1465" text="Deming" />
+<head id="h31" start="1509" end="1549" text="U.S. Immigration and Customs Enforcement" />
+<head id="h32" start="1576" end="1584" text="officers" />
+<head id="h33" start="1572" end="1575" text="CBP" />
+<head id="h34" start="1883" end="1891" text="officers" />
+<head id="h35" start="1879" end="1882" text="CBP" />
+<head id="h36" start="1930" end="1939" text="Imposters" />
+<head id="h37" start="1960" end="1965" text="group" />
+<head id="h38" start="1969" end="1978" text="violators" />
+<head id="h39" start="1982" end="1987" text="total" />
+<head id="h40" start="1991" end="1993" text="30" />
+<head id="h41" start="2043" end="2052" text="Imposters" />
+<head id="h42" start="2120" end="2126" text="person" />
+<head id="h43" start="2145" end="2150" text="their" />
+<head id="h44" start="2160" end="2168" text="officers" />
+<head id="h45" start="2156" end="2159" text="CBP" />
+<head id="h47" start="2207" end="2217" text="immigrants" />
+<head id="h48" start="2255" end="2260" text="ports" />
+<head id="h49" start="2278" end="2289" text="individuals" />
+<head id="h50" start="2373" end="2377" text="U.S." />
+<head id="h51" start="2404" end="2413" text="Violators" />
+<head id="h52" start="2429" end="2434" text="their" />
+<head id="h53" start="2465" end="2471" text="Mexico" />
+<head id="h54" start="2477" end="2485" text="officers" />
+<head id="h55" start="2473" end="2476" text="CBP" />
+<head id="h56" start="2512" end="2518" text="people" />
+<head id="h57" start="2542" end="2546" text="U.S." />
+<head id="h58" start="2560" end="2566" text="people" />
+<head id="h59" start="2630" end="2636" text="people" />
+<head id="h60" start="2681" end="2689" text="officers" />
+<head id="h61" start="2677" end="2680" text="CBP" />
+<head id="h62" start="2719" end="2725" text="people" />
+<head id="h63" start="2726" end="2729" text="who" />
+<head id="h64" start="2775" end="2783" text="agencies" />
+<head id="h65" start="2993" end="3027" text="U.S. Customs and Border Protection" />
+<head id="h66" start="3059" end="3064" text="ports" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="111" end="118" text="El Paso" />
+<name id="n2" start="120" end="125" text="Texas" />
+<name id="n3" start="129" end="163" text="U.S. Customs and Border Protection" />
+<name id="n4" start="202" end="209" text="El Paso" />
+<name id="n5" start="211" end="221" text="West Texas" />
+<name id="n6" start="227" end="237" text="New Mexico" />
+<name id="n7" start="422" end="425" text="CBP" />
+<name id="n8" start="442" end="471" text="Columbus (N.M.) port of entry" />
+<name id="n9" start="587" end="591" text="U.S." />
+<name id="n10" start="606" end="609" text="CBP" />
+<name id="n11" start="893" end="915" text="Columbus port of entry" />
+<name id="n12" start="925" end="928" text="CBP" />
+<name id="n13" start="1058" end="1064" text="Mexico" />
+<name id="n14" start="1066" end="1069" text="CBP" />
+<name id="n15" start="1168" end="1171" text="CBP" />
+<name id="n16" start="1255" end="1258" text="CBP" />
+<name id="n17" start="1459" end="1465" text="Deming" />
+<name id="n18" start="1509" end="1549" text="U.S. Immigration and Customs Enforcement" />
+<name id="n19" start="1572" end="1575" text="CBP" />
+<name id="n20" start="1879" end="1882" text="CBP" />
+<name id="n21" start="2156" end="2159" text="CBP" />
+<name id="n22" start="2373" end="2377" text="U.S." />
+<name id="n23" start="2465" end="2471" text="Mexico" />
+<name id="n24" start="2473" end="2476" text="CBP" />
+<name id="n25" start="2542" end="2546" text="U.S." />
+<name id="n26" start="2677" end="2680" text="CBP" />
+<name id="n27" start="2993" end="3027" text="U.S. Customs and Border Protection" />
+<located-mention id="lo0" start="1" end="27" text="CBP Officers at Area Ports" TYPE="Preposition" />
+<located-mention id="lo1" start="129" end="237" text="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" TYPE="Participial" />
+<located-mention id="lo2" start="422" end="471" text="CBP officers at the Columbus (N.M.) port of entry" TYPE="Preposition" />
+<located-mention id="lo3" start="925" end="949" text="CBP officers at the port" TYPE="Preposition" />
+<located-mention id="lo4" start="2156" end="2260" text="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" TYPE="Other" />
+<located-mention id="lo5" start="2156" end="2260" text="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" TYPE="Other" />
+<located-mention id="lo6" start="2404" end="2471" text="Violators generally lose their documents and are returned to Mexico" TYPE="Verbal" />
+<CRRE id="C0" start="1435" end="1465" text="Two female residents of Deming" TYPE="Preposition" />
+<M id="M0" start="1" end="27" text="CBP Officers at Area Ports" TYPE="PreMod" />
+<M id="M1" start="129" end="237" text="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" TYPE="PreMod" />
+<M id="M2" start="422" end="471" text="CBP officers at the Columbus (N.M.) port of entry" TYPE="PreMod" />
+<M id="M3" start="601" end="618" text="Area CBP officers" TYPE="PreMod" />
+<M id="M4" start="925" end="949" text="CBP officers at the port" TYPE="PreMod" />
+<M id="M5" start="1168" end="1180" text="CBP officers" TYPE="PreMod" />
+<M id="M6" start="1255" end="1267" text="CBP officers" TYPE="PreMod" />
+<M id="M7" start="1567" end="1584" text="Area CBP officers" TYPE="PreMod" />
+<M id="M8" start="1874" end="1891" text="area CBP officers" TYPE="PreMod" />
+<M id="M9" start="2156" end="2168" text="CBP officers" TYPE="PreMod" />
+<M id="M10" start="2473" end="2485" text="CBP officers" TYPE="PreMod" />
+<M id="M11" start="2677" end="2689" text="CBP officers" TYPE="PreMod" />
+<entity_link id="en0" fromID="p1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="p0" toText="CBP Officers at Area Ports" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="f1" fromText="ports of entry in El Paso, West Texas, and New Mexico" toID="f0" toText="Area Ports" />
+<entity_link id="en3" fromID="g2" fromText="El Paso" toID="g0" toText="El Paso, Texas" />
+<entity_link id="en4" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en5" fromID="o3" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en6" fromID="f3" fromText="the Columbus port of entry" toID="f2" toText="the Columbus (N.M.) port of entry" />
+<entity_link id="en7" fromID="p4" fromText="CBP officers at the port" toID="p2" toText="CBP officers at the Columbus (N.M.) port of entry" />
+<entity_link id="en8" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en9" fromID="f4" fromText="the port" toID="f3" toText="the Columbus port of entry" />
+<entity_link id="en10" fromID="f5" fromText="the port" toID="f4" toText="the port" />
+<entity_link id="en11" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en12" fromID="p5" fromText="CBP officers" toID="p4" toText="CBP officers at the port" />
+<entity_link id="en13" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en14" fromID="p6" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<entity_link id="en15" fromID="o7" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en16" fromID="p7" fromText="their" toID="p6" toText="CBP officers" />
+<entity_link id="en17" fromID="p9" fromText="Area CBP officers" toID="p3" toText="Area CBP officers" />
+<entity_link id="en18" fromID="o9" fromText="CBP" toID="o7" toText="CBP" />
+<entity_link id="en19" fromID="p10" fromText="area CBP officers" toID="p9" toText="Area CBP officers" />
+<entity_link id="en20" fromID="o10" fromText="CBP" toID="o9" toText="CBP" />
+<entity_link id="en21" fromID="p12" fromText="the largest group of violators" toID="p11" toText="Imposters" />
+<entity_link id="en22" fromID="p15" fromText="30" toID="p14" toText="A total of 30" />
+<entity_link id="en23" fromID="p16" fromText="Imposters" toID="p11" toText="Imposters" />
+<entity_link id="en24" fromID="p18" fromText="their own" toID="p16" toText="Imposters" />
+<entity_link id="en25" fromID="p19" fromText="CBP officers" toID="p0" toText="CBP Officers at Area Ports" />
+<entity_link id="en26" fromID="o11" fromText="CBP" toID="o10" toText="CBP" />
+<entity_link id="en27" fromID="p3" fromText="Area CBP officers" toID="p1" toText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" />
+<entity_link id="en28" fromID="f6" fromText="area ports" toID="f1" toText="ports of entry in El Paso, West Texas, and New Mexico" />
+<entity_link id="en29" fromID="g8" fromText="the U.S." toID="g5" toText="the U.S." />
+<entity_link id="en31" fromID="p23" fromText="their" toID="p22" toText="Violators" />
+<entity_link id="en32" fromID="g9" fromText="Mexico" toID="g6" toText="Mexico" />
+<entity_link id="en33" fromID="p24" fromText="CBP officers" toID="p19" toText="CBP officers" />
+<entity_link id="en34" fromID="o12" fromText="CBP" toID="o11" toText="CBP" />
+<entity_link id="en35" fromID="g10" fromText="U.S." toID="g8" toText="the U.S." />
+<entity_link id="en36" fromID="p28" fromText="CBP officers" toID="p24" toText="CBP officers" />
+<entity_link id="en37" fromID="o13" fromText="CBP" toID="o12" toText="CBP" />
+<entity_link id="en38" fromID="p30" fromText="who" toID="p29" toText="21 people who were being sought by various law enforcement agencies" />
+<entity_link id="en39" fromID="o15" fromText="U.S. Customs and Border Protection" toID="o13" toText="CBP" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers at Area Ports" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="f0" fromText="Area Ports" toID="h2" toText="Ports" />
+<head_link id="he3" fromID="g0" fromText="El Paso, Texas" toID="h3" toText="El Paso" />
+<head_link id="he4" fromID="g1" fromText="Texas" toID="h4" toText="Texas" />
+<head_link id="he5" fromID="p1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="h5" toText="officers" />
+<head_link id="he6" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="f1" fromText="ports of entry in El Paso, West Texas, and New Mexico" toID="h7" toText="ports" />
+<head_link id="he8" fromID="g2" fromText="El Paso" toID="h8" toText="El Paso" />
+<head_link id="he9" fromID="g3" fromText="West Texas" toID="h9" toText="West Texas" />
+<head_link id="he10" fromID="g4" fromText="New Mexico" toID="h10" toText="New Mexico" />
+<head_link id="he11" fromID="p2" fromText="CBP officers at the Columbus (N.M.) port of entry" toID="h11" toText="officers" />
+<head_link id="he12" fromID="o2" fromText="CBP" toID="h12" toText="CBP" />
+<head_link id="he13" fromID="f2" fromText="the Columbus (N.M.) port of entry" toID="h13" toText="Columbus (N.M.) port of entry" />
+<head_link id="he14" fromID="g5" fromText="the U.S." toID="h14" toText="U.S." />
+<head_link id="he15" fromID="p3" fromText="Area CBP officers" toID="h15" toText="officers" />
+<head_link id="he16" fromID="o3" fromText="CBP" toID="h16" toText="CBP" />
+<head_link id="he17" fromID="f3" fromText="the Columbus port of entry" toID="h17" toText="Columbus port of entry" />
+<head_link id="he18" fromID="p4" fromText="CBP officers at the port" toID="h18" toText="officers" />
+<head_link id="he19" fromID="o4" fromText="CBP" toID="h19" toText="CBP" />
+<head_link id="he20" fromID="f4" fromText="the port" toID="h20" toText="port" />
+<head_link id="he21" fromID="f5" fromText="the port" toID="h21" toText="port" />
+<head_link id="he22" fromID="g6" fromText="Mexico" toID="h22" toText="Mexico" />
+<head_link id="he23" fromID="o5" fromText="CBP" toID="h23" toText="CBP" />
+<head_link id="he24" fromID="p5" fromText="CBP officers" toID="h24" toText="officers" />
+<head_link id="he25" fromID="o6" fromText="CBP" toID="h25" toText="CBP" />
+<head_link id="he26" fromID="p6" fromText="CBP officers" toID="h26" toText="officers" />
+<head_link id="he27" fromID="o7" fromText="CBP" toID="h27" toText="CBP" />
+<head_link id="he28" fromID="p7" fromText="their" toID="h28" toText="their" />
+<head_link id="he29" fromID="p8" fromText="Two female residents of Deming" toID="h29" toText="residents" />
+<head_link id="he30" fromID="g7" fromText="Deming" toID="h30" toText="Deming" />
+<head_link id="he31" fromID="o8" fromText="U.S. Immigration and Customs Enforcement" toID="h31" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he32" fromID="p9" fromText="Area CBP officers" toID="h32" toText="officers" />
+<head_link id="he33" fromID="o9" fromText="CBP" toID="h33" toText="CBP" />
+<head_link id="he34" fromID="p10" fromText="area CBP officers" toID="h34" toText="officers" />
+<head_link id="he35" fromID="o10" fromText="CBP" toID="h35" toText="CBP" />
+<head_link id="he36" fromID="p11" fromText="Imposters" toID="h36" toText="Imposters" />
+<head_link id="he37" fromID="p12" fromText="the largest group of violators" toID="h37" toText="group" />
+<head_link id="he38" fromID="p13" fromText="violators" toID="h38" toText="violators" />
+<head_link id="he39" fromID="p14" fromText="A total of 30" toID="h39" toText="total" />
+<head_link id="he40" fromID="p15" fromText="30" toID="h40" toText="30" />
+<head_link id="he41" fromID="p16" fromText="Imposters" toID="h41" toText="Imposters" />
+<head_link id="he42" fromID="p17" fromText="another person" toID="h42" toText="person" />
+<head_link id="he43" fromID="p18" fromText="their own" toID="h43" toText="their" />
+<head_link id="he44" fromID="p19" fromText="CBP officers" toID="h44" toText="officers" />
+<head_link id="he45" fromID="o11" fromText="CBP" toID="h45" toText="CBP" />
+<head_link id="he46" fromID="p20" fromText="41 intended immigrants" toID="h47" toText="immigrants" />
+<head_link id="he47" fromID="f6" fromText="area ports" toID="h48" toText="ports" />
+<head_link id="he48" fromID="p21" fromText="individuals" toID="h49" toText="individuals" />
+<head_link id="he49" fromID="g8" fromText="the U.S." toID="h50" toText="U.S." />
+<head_link id="he50" fromID="p22" fromText="Violators" toID="h51" toText="Violators" />
+<head_link id="he51" fromID="p23" fromText="their" toID="h52" toText="their" />
+<head_link id="he52" fromID="g9" fromText="Mexico" toID="h53" toText="Mexico" />
+<head_link id="he53" fromID="p24" fromText="CBP officers" toID="h54" toText="officers" />
+<head_link id="he54" fromID="o12" fromText="CBP" toID="h55" toText="CBP" />
+<head_link id="he55" fromID="p25" fromText="people making false claims to U.S. citizenship" toID="h56" toText="people" />
+<head_link id="he56" fromID="g10" fromText="U.S." toID="h57" toText="U.S." />
+<head_link id="he57" fromID="p26" fromText="people attempting to enter with counterfeit or altered documents" toID="h58" toText="people" />
+<head_link id="he58" fromID="p27" fromText="people attempting to enter without inspection" toID="h59" toText="people" />
+<head_link id="he59" fromID="p28" fromText="CBP officers" toID="h60" toText="officers" />
+<head_link id="he60" fromID="o13" fromText="CBP" toID="h61" toText="CBP" />
+<head_link id="he61" fromID="p29" fromText="21 people who were being sought by various law enforcement agencies" toID="h62" toText="people" />
+<head_link id="he62" fromID="p30" fromText="who" toID="h63" toText="who" />
+<head_link id="he63" fromID="o14" fromText="various law enforcement agencies" toID="h64" toText="agencies" />
+<head_link id="he64" fromID="o15" fromText="U.S. Customs and Border Protection" toID="h65" toText="U.S. Customs and Border Protection" />
+<head_link id="he65" fromID="f7" fromText="the ports of entry" toID="h66" toText="ports" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="El Paso, Texas" toID="n1" toText="El Paso" />
+<name_link id="na2" fromID="g1" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n3" toText="U.S. Customs and Border Protection" />
+<name_link id="na4" fromID="g2" fromText="El Paso" toID="n4" toText="El Paso" />
+<name_link id="na5" fromID="g3" fromText="West Texas" toID="n5" toText="West Texas" />
+<name_link id="na6" fromID="g4" fromText="New Mexico" toID="n6" toText="New Mexico" />
+<name_link id="na7" fromID="o2" fromText="CBP" toID="n7" toText="CBP" />
+<name_link id="na8" fromID="f2" fromText="the Columbus (N.M.) port of entry" toID="n8" toText="Columbus (N.M.) port of entry" />
+<name_link id="na9" fromID="g5" fromText="the U.S." toID="n9" toText="U.S." />
+<name_link id="na10" fromID="o3" fromText="CBP" toID="n10" toText="CBP" />
+<name_link id="na11" fromID="f3" fromText="the Columbus port of entry" toID="n11" toText="Columbus port of entry" />
+<name_link id="na12" fromID="o4" fromText="CBP" toID="n12" toText="CBP" />
+<name_link id="na13" fromID="g6" fromText="Mexico" toID="n13" toText="Mexico" />
+<name_link id="na14" fromID="o5" fromText="CBP" toID="n14" toText="CBP" />
+<name_link id="na15" fromID="o6" fromText="CBP" toID="n15" toText="CBP" />
+<name_link id="na16" fromID="o7" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na17" fromID="g7" fromText="Deming" toID="n17" toText="Deming" />
+<name_link id="na18" fromID="o8" fromText="U.S. Immigration and Customs Enforcement" toID="n18" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na19" fromID="o9" fromText="CBP" toID="n19" toText="CBP" />
+<name_link id="na20" fromID="o10" fromText="CBP" toID="n20" toText="CBP" />
+<name_link id="na21" fromID="o11" fromText="CBP" toID="n21" toText="CBP" />
+<name_link id="na22" fromID="g8" fromText="the U.S." toID="n22" toText="U.S." />
+<name_link id="na23" fromID="g9" fromText="Mexico" toID="n23" toText="Mexico" />
+<name_link id="na24" fromID="o12" fromText="CBP" toID="n24" toText="CBP" />
+<name_link id="na25" fromID="g10" fromText="U.S." toID="n25" toText="U.S." />
+<name_link id="na26" fromID="o13" fromText="CBP" toID="n26" toText="CBP" />
+<name_link id="na27" fromID="o15" fromText="U.S. Customs and Border Protection" toID="n27" toText="U.S. Customs and Border Protection" />
+<relation_link1 id="r0" fromID="M0" fromText="CBP Officers at Area Ports" toID="p0" toText="CBP Officers at Area Ports" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP Officers at Area Ports" toID="p0" toText="CBP Officers at Area Ports" />
+<relation_link1 id="r2" fromID="M1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="p1" toText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" />
+<relation_link1 id="r3" fromID="lo1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="p1" toText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" />
+<relation_link1 id="r4" fromID="M2" fromText="CBP officers at the Columbus (N.M.) port of entry" toID="p2" toText="CBP officers at the Columbus (N.M.) port of entry" />
+<relation_link1 id="r5" fromID="lo2" fromText="CBP officers at the Columbus (N.M.) port of entry" toID="p2" toText="CBP officers at the Columbus (N.M.) port of entry" />
+<relation_link1 id="r6" fromID="M3" fromText="Area CBP officers" toID="p3" toText="Area CBP officers" />
+<relation_link1 id="r7" fromID="M4" fromText="CBP officers at the port" toID="p4" toText="CBP officers at the port" />
+<relation_link1 id="r8" fromID="lo3" fromText="CBP officers at the port" toID="p4" toText="CBP officers at the port" />
+<relation_link1 id="r9" fromID="M5" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<relation_link1 id="r10" fromID="M6" fromText="CBP officers" toID="p6" toText="CBP officers" />
+<relation_link1 id="r11" fromID="M7" fromText="Area CBP officers" toID="p9" toText="Area CBP officers" />
+<relation_link1 id="r12" fromID="M8" fromText="area CBP officers" toID="p10" toText="area CBP officers" />
+<relation_link1 id="r13" fromID="M9" fromText="CBP officers" toID="p19" toText="CBP officers" />
+<relation_link1 id="r14" fromID="lo4" fromText="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" toID="p19" toText="CBP officers" />
+<relation_link1 id="r15" fromID="lo5" fromText="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" toID="p20" toText="41 intended immigrants" />
+<relation_link1 id="r16" fromID="lo6" fromText="Violators generally lose their documents and are returned to Mexico" toID="p22" toText="Violators" />
+<relation_link1 id="r17" fromID="M10" fromText="CBP officers" toID="p24" toText="CBP officers" />
+<relation_link1 id="r18" fromID="M11" fromText="CBP officers" toID="p28" toText="CBP officers" />
+<relation_link1 id="r19" fromID="C0" fromText="Two female residents of Deming" toID="p8" toText="Two female residents of Deming" />
+<relation_link2 id="re0" fromID="M0" fromText="CBP Officers at Area Ports" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP Officers at Area Ports" toID="f0" toText="Area Ports" />
+<relation_link2 id="re2" fromID="M1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re3" fromID="lo1" fromText="U.S. Customs and Border Protection officers working at ports of entry in El Paso, West Texas, and New Mexico" toID="f1" toText="ports of entry in El Paso, West Texas, and New Mexico" />
+<relation_link2 id="re4" fromID="M2" fromText="CBP officers at the Columbus (N.M.) port of entry" toID="o2" toText="CBP" />
+<relation_link2 id="re5" fromID="lo2" fromText="CBP officers at the Columbus (N.M.) port of entry" toID="f2" toText="the Columbus (N.M.) port of entry" />
+<relation_link2 id="re6" fromID="M3" fromText="Area CBP officers" toID="o3" toText="CBP" />
+<relation_link2 id="re7" fromID="M4" fromText="CBP officers at the port" toID="o4" toText="CBP" />
+<relation_link2 id="re8" fromID="lo3" fromText="CBP officers at the port" toID="f4" toText="the port" />
+<relation_link2 id="re9" fromID="M5" fromText="CBP officers" toID="o6" toText="CBP" />
+<relation_link2 id="re10" fromID="M6" fromText="CBP officers" toID="o7" toText="CBP" />
+<relation_link2 id="re11" fromID="M7" fromText="Area CBP officers" toID="o9" toText="CBP" />
+<relation_link2 id="re12" fromID="M8" fromText="area CBP officers" toID="o10" toText="CBP" />
+<relation_link2 id="re13" fromID="M9" fromText="CBP officers" toID="o11" toText="CBP" />
+<relation_link2 id="re14" fromID="lo4" fromText="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" toID="f6" toText="area ports" />
+<relation_link2 id="re15" fromID="lo5" fromText="CBP officers this week also identified 41 intended immigrants while performing inspections at area ports" toID="f6" toText="area ports" />
+<relation_link2 id="re16" fromID="lo6" fromText="Violators generally lose their documents and are returned to Mexico" toID="g9" toText="Mexico" />
+<relation_link2 id="re17" fromID="M10" fromText="CBP officers" toID="o12" toText="CBP" />
+<relation_link2 id="re18" fromID="M11" fromText="CBP officers" toID="o13" toText="CBP" />
+<relation_link2 id="re19" fromID="C0" fromText="Two female residents of Deming" toID="g7" toText="Deming" />
+</TAGS>
+</KddTask>

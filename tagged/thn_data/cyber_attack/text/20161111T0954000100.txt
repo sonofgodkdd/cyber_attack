@@ -1,0 +1,26 @@
+Warning: Beware of Post-Election Phishing Emails Targeting NGOs and Think Tanks
+Swati Khandelwal
+
+Just a few hours after Donald Trump won the 2016 US Presidential Election, a hacking group launched a wave of cyber attacks targeting U.S.-based policy think-tanks with a new spear phishing campaign designed to fool victims into installing malware.
+The group of nation-state hackers, also known as Cozy Bear, APT29, and CozyDuke, is the one of those involved in the recent data breach of the Democratic National Committee (DNC) and is allegedly tied to the Russian government.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Wednesday, the hackers sent a series of phishing emails to dozens of targets associated with non-governmental organizations (NGOs), policy think tanks in the US and even inside the US government, said security firm Volexity.
+Phishing Attacks Powered by 'PowerDuke' Malware
+The phishing emails were sent from purpose-built Gmail accounts and other compromised email accounts at Harvard University's Faculty of Arts and Sciences (FAS), trying to trick victims into opening tainted attachments containing malware and clicking on malicious links.
+Once this was done, the phishing e-mail dropped a new variant of Backdoor malware, dubbed "PowerDuke," giving attackers remote access to the compromised systems.
+PowerDuke is an extremely sophisticated piece of malware in both its way of infecting people as well as concealing its presence.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides making use of wide variety of approaches, PowerDuke uses steganography to hide its backdoor code in PNG files.
+The firm spotted and reported at least five waves of phishing attacks targeting people who work for organizations, including Radio Free Europe/Radio Liberty, the RAND Corporation, the Atlantic Council, and the State Department, among others.
+"Three of the five attack waves contained links to download files from domains that the attackers appear to have control over," the firm said in a blog post. "The other two attacks contained documents with malicious macros embedded within them. Each of these different attack waves was slightly different from one another."
+Beware of Post-Election Themed Phishing Emails
+All the phishing emails were election-themed. Why?
+After Trump won the US presidential election, half of America, as well as people across the world, mourning the result was curious to know about the victory of Trump.
+People even started searching on Google: How did Donald Trump win the US presidential election?, Were the election flawed? Why did Hillary Clinton lose?
+Hackers took advantage of this curiosity to target victims, especially those who worked with the United States government and were much more concerned about Trump's victory.
+Two of the emails claimed to have come from the Clinton Foundation giving insight of the elections, two others purported to be documents pertaining to the election's outcome being revised or rigged, and the last one offered a link to a PDF download on 'Why American Elections Are Flawed.'
+The emails were sent using the real email address of a professor at Harvard, which indicates that the hackers likely hacked the professor's email and then used his account to send out the phishing emails.
+The emails either contained malicious links to .ZIP files or included malicious Windows shortcut files linked to a "clean" Rich Text Format document and a PowerShell script.
+Once clicked, the script installed PowerDuke on a victim's computer that could allow attackers to examine and control the target system. The malware has the capability to secretly download additional malicious files and evade detection from antivirus products.
+Security firm CrowdStrike claimed in June 2016 that the hacking team Cozy Bear has previously hacked into networks belonging to the White House, State Department, and the United States Joint Chiefs of Staff.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

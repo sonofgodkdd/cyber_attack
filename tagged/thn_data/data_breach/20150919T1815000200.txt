@@ -1,0 +1,27 @@
+AVG Antivirus Plans to Collect & Sell Your Personal Data to Advertisers
+Swati Khandelwal
+
+We at The Hacker News are big fans of Security Software – The first thing we install while setting our Computers and Devices.
+Thanks to Free Security Software that protects Internet users without paying for their security.
+But, Remember: Nothing comes for FREE
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Free" is just a relative term, as one of the world's most popular anti-virus companies is now admitting.
+Czech Republic-based antivirus company AVG has announced its privacy policy in which the company openly admits that it will collect and sell users' data to online advertisers for the purpose of making money from its free antivirus software.
+This new policy, which will come into effect on October 15, clearly explains that AVG will be allowed to collect and sell users' "non-personal data" in order to "make money from our free offerings so we can keep them free."
+Have a Look on Your Data AVG wants to Sell 
+Here's the list of, what AVG calls, "non-personal data" the company claims to collect from its customers and sell to interested third-parties, specifically online advertisers:
+Browsing History,
+Search History,
+Meta-data,
+Advertising ID associated with your device,
+Internet Service Provider (ISP) or Mobile Network you use to connect to AVG products,
+Information regarding other apps you have on your device.
+Previous policies allowed the firm to only collect:
+Data on "the words you search",
+Information about any malware on the users' machine.
+Collaborators will Get your Personal Data for Free
+However, announcing its new policy, the firm has mentioned that it will not sell any personal data related to its customers, including name, email addresses, residential addresses, or credit card details (but these data might sometimes leak inside the browsing history).
+At this point, AVG claims that the company will filter out users' personal details from the browsing history before selling it to the third-parties, but also adds that user's personally identifiable data like addresses, age, or IPs may sometimes be shared with collaborators.
+The company has published a blog post along with the full privacy policy, so you can read it and decide by yourself if you want to use its services or not.
+Let us know what you decided in the comment below.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

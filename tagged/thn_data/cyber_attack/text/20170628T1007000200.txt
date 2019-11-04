@@ -1,0 +1,26 @@
+'Shadow Brokers' Threatens to Unmask A Hacker Who Worked With NSA
+Swati Khandelwal
+
+The Shadow Brokers, a notorious hacking group that leaked US cyberweapons — which were also abused by the recent ransomware disasters WannaCry and Petya or NotPetya — has now threatened to unmask the identity of a former hacker who worked for the NSA.
+Besides this, the Shadow Brokers group has also doubled the price for its monthly subscription model of NSA's built hacking tools and zero-day exploits from 100 ZEC (Zcash) to 200 ZEC, which is around $64,400 USD.
+Moreover, the hacking group has also announced a VIP service for people, who will be entertained by the group for their queries on the leaked hacking tools and exploits.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To subscribe to the VIP service, one has to make a one-time payment of 400 ZEC (around US$128,800).
+Last month, the Shadow Brokers announced to release more zero-days exploits and hacking tools developed by the US spy agency every month from June 2017, but only to private members who will subscribe for receiving exclusive access to the future leaks.
+The Shadow Brokers' June data dump costs 100 ZEC, but after looking at successful growth in the number of subscribers for this month, the group said it is raising the price for the next month's subscription.
+Threatens to Unmask Equation Group Hacker
+In typically broken English, the mysterious hacking group threatened to unmask a former member of the NSA's elite hacking group called Equation Group, who developed several hacking tools to break into Chinese organizations.
+The Shadow Brokers did not reveal much about the former Equation Group member, except that the person is living in Hawaii and currently a "co-founder of a new security company and is having much venture capital."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The group, who called the NSA Equation Group member as "doctor," threatened because of his/her "ugly tweets" targeting the Shadow Brokers.
+"TheShadowBrokers is having special invitation message for 'doctor' person theshadowbrokers is meeting on Twitter. 'Doctor' person is writing ugly tweets to theshadowbrokers," the group said. "Then doctor person is deleting ugly tweets, maybe too much drinking and tweeting?" 
+"TheShadowBrokers is hoping 'doctor' person is deciding to subscribe to dump service in July. If theshadowbrokers is not seeing subscription payment with corporate email address of doctor@newsecuritycompany.com then theshadowbrokers might be taking tweets personally and dumping data of 'doctor' persons hacks of China with real id and security company name."
+Well, that's enough of a threat.
+Since June is going to end, it seems like the Shadow Brokers subscribers who paid in June will start receiving zero-day exploit and hacking tools from the first week of July.
+Although what the June dump would contain is not clear at the moment, the group's last announcement claimed that the upcoming data dump would include:
+Compromised data from banks and Swift providers.
+Exploits for operating systems, including Windows 10.
+Exploits for web browsers, routers, and smartphones.
+Stolen network information from Russian, Chinese, Iranian, and North Korean nuclear missile programs.
+You can follow The Hacker News (on Facebook or Twitter) to receive the threat latest updates immediately.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

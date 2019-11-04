@@ -1,0 +1,31 @@
+In-Brief: Spotify Hack, Secret of Chrome OS, MIT Bug Bounty, Nanowire Batteries
+Mohit Kumar
+
+1. Spotify Hacked! Change your Password ASAP
+If you are one of the millions of people around the world who love to listen to music on Spotify, you may need to change your password immediately.
+Has Spotify been hacked? The company says no, but some Spotify users have claimed their profiles were hijacked, and details were changed without knowledge, including passwords and email addresses, TC reported.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Spotify apparently suffered a security breach that leaked hundreds of Spotify accounts details, including emails, usernames, passwords and account type, which was published last week to the popular anonymous file sharing website Pastebin.
+Spotify is investigating the Pastebin leaks of Spotify user information.
+2. Over 1 Million Android Apps Are Coming to Chrome OS
+Google is ready to integrate millions of Android applications onto its Chrome OS platform by bringing the entire Play Store to it.
+Redditor 'TheWiseYoda' first spotted a new option to "Enable Android Apps to run on your Chromebook" on the developer version of Chrome OS, though the option popped up for an instant and then disappeared.
+After hunting in the source code of the operating system, the Redditor discovered a couple of references to the feature that indicate the arrival of Google Play on Chrome OS.
+3. MIT University Launches Bug Bounty Program
+The Massachusetts Institute of Technology (MIT) launches its experimental bug bounty program this week, which aims at encouraging university students and security enthusiasts to find and responsibly report vulnerabilities in its official websites.
+"As thanks for helping keep the community safe, we are offering rewards in TechCASH for the responsible disclosure of severe vulnerabilities," program website explains.
+TechCASH is money that can be used for purchasing goods and services at restaurants and grocery stores around the University Cambridge area.
+The MIT becomes the first academic institution to reward hackers, open only for university affiliates with valid certifications, such as undergraduate and graduate students.
+4. Never Ending Nanowire Batteries — The Future Of Electronics
+Researchers at the University of California at Irvine (UCI) accidentally discovered that batteries build using a Nanowire-based material, a tiny conductor, can be recharged for hundreds of thousands of times.
+A typical Lithium-ion battery, used in most smartphones and laptops, expected to have charge cycles between 2000-3000.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, this innovation could lead to vastly longer lifespans for batteries in smartphones, computers, appliances, cars and spacecraft.
+In early testing of the component, this last-longing battery was recharged more than 200,000 times over a three-month span, and no loss of capacity or power was recorded.
+5. Edward ‪‎Snowden‬ Sues Norway to prevent Extradition
+Global Surveillance Whistleblower Edward Snowden has filed a lawsuit against the Norwegian government to ensure his travel to Oslo for picking up an award without any risk of being extradited to the United States.
+Snowden has been invited to Norway to receive a Freedom of Speech Award from PEN International – the local branch of writers' group – but he is worried that he would be extradited to the United States because of the country's close diplomatic ties with the US.
+6. Nearly 93.4 Million Mexican Voter Data Leaked Online
+A hacker discovered over 100 gigabytes of an extensive database completely open on the Internet for anyone to download while the hacker was browsing Shodan – a search engine for servers and Internet-connected devices.
+The database turned out to be a voter registration database for the country of Mexico that contained the personal information, including full names, residential addresses, and national identification numbers, of virtually all registered voters with 93.4 Million entries.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

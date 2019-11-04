@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+March 3, 2008
+Contact: Chuvalo J. Truesdell
+PIO/AFD
+Number: 404-893-7124
+Chesterfield County Residents Indicted on Prescription Drug Charges
+MAR 3  -- COLUMBIA, South Carolina -- Acting United States Attorney Kevin F. McDonald announced that a Federal Grand Jury returned a 12-count Indictment against Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland, as well as Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson, for conspiracy to illegally possess and distribute Oxycodone. The maximum penalty the defendants can receive is 20 years imprisonment and a $1,000,000.00 fine on each count.
+The case was investigated by agents of the Drug Enforcement Administration, Diversion Division. Assistant U.S. Attorney William E. Day, II, of the Florence office has been assigned to prosecute the case.
+Mr. McDonald stated that the charges in this Indictment are merely accusations and that the defendants charged are presumed innocent until and unless proven guilty.
+DEA Atlanta Field Division Special Agent in Charge Rodney G. Benson recommends that parents and children educate themselves about the dangers of pharmaceutical drugs by visiting DEA's interactive website at www.deadiversion@usdoj.gov
+]]></TEXT>
+<TAGS>
+<person id="p0" start="24" end="44" text="Chuvalo J. Truesdell" TYPE="NAM" />
+<person id="p1" start="74" end="103" text="Chesterfield County Residents" TYPE="BAR" />
+<person id="p2" start="180" end="227" text="Acting United States Attorney Kevin F. McDonald" TYPE="NAM" />
+<person id="p3" start="180" end="209" text="Acting United States Attorney" TYPE="NOMPRE" />
+<person id="p4" start="243" end="263" text="a Federal Grand Jury" TYPE="NOM" />
+<person id="p5" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="NAM" />
+<person id="p6" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="NAM" />
+<person id="p7" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="NAM" />
+<person id="p8" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="NAM" />
+<person id="p10" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="HLS" />
+<person id="p11" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="NAM" />
+<person id="p12" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="NAM" />
+<person id="p13" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="HLS" />
+<person id="p14" start="590" end="604" text="the defendants" TYPE="NOM" />
+<person id="p15" start="711" end="776" text="agents of the Drug Enforcement Administration, Diversion Division" TYPE="BAR" />
+<person id="p16" start="778" end="844" text="Assistant U.S. Attorney William E. Day, II, of the Florence office" TYPE="NAM" />
+<person id="p17" start="778" end="801" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<person id="p18" start="886" end="898" text="Mr. McDonald" TYPE="NAM" />
+<person id="p19" start="886" end="889" text="Mr." TYPE="NOMPRE" />
+<person id="p20" start="974" end="988" text="the defendants" TYPE="NOM" />
+<person id="p21" start="1051" end="1118" text="DEA Atlanta Field Division Special Agent in Charge Rodney G. Benson" TYPE="NAM" />
+<person id="p22" start="1051" end="1101" text="DEA Atlanta Field Division Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p23" start="1135" end="1142" text="parents" TYPE="BAR" />
+<person id="p24" start="1147" end="1155" text="children" TYPE="BAR" />
+<person id="p25" start="1164" end="1174" text="themselves" TYPE="PRO" />
+<organization id="o0" start="721" end="776" text="the Drug Enforcement Administration, Diversion Division" TYPE="NAM" />
+<organization id="o1" start="825" end="844" text="the Florence office" TYPE="NAM" />
+<organization id="o2" start="1051" end="1077" text="DEA Atlanta Field Division" TYPE="NAMPRE" />
+<organization id="o3" start="1229" end="1232" text="DEA" TYPE="NAM" />
+<geographical-political id="g0" start="74" end="93" text="Chesterfield County" TYPE="NAMPRE" />
+<geographical-political id="g1" start="152" end="176" text="COLUMBIA, South Carolina" TYPE="NAM" />
+<geographical-political id="g2" start="162" end="176" text="South Carolina" TYPE="NAM" />
+<geographical-political id="g3" start="187" end="200" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="417" end="425" text="Pageland" TYPE="NAM" />
+<geographical-political id="g5" start="497" end="506" text="Jefferson" TYPE="NAM" />
+<geographical-political id="g6" start="788" end="792" text="U.S." TYPE="NAMPRE" />
+<head id="h0" start="24" end="44" text="Chuvalo J. Truesdell" />
+<head id="h1" start="94" end="103" text="Residents" />
+<head id="h2" start="74" end="93" text="Chesterfield County" />
+<head id="h3" start="152" end="160" text="COLUMBIA" />
+<head id="h4" start="162" end="176" text="South Carolina" />
+<head id="h5" start="210" end="227" text="Kevin F. McDonald" />
+<head id="h6" start="201" end="209" text="Attorney" />
+<head id="h7" start="187" end="200" text="United States" />
+<head id="h8" start="259" end="263" text="Jury" />
+<head id="h9" start="303" end="319" text="Jonathan Simpson" />
+<head id="h10" start="329" end="346" text="Vikki Lee Simpson" />
+<head id="h11" start="356" end="369" text="Craig Tadlock" />
+<head id="h12" start="383" end="400" text="Crystal Boatright" />
+<head id="h13" start="417" end="425" text="Pageland" />
+<head id="h14" start="410" end="413" text="all" />
+<head id="h15" start="438" end="452" text="Angela Langley" />
+<head id="h16" start="466" end="479" text="Frankie Price" />
+<head id="h17" start="489" end="493" text="both" />
+<head id="h18" start="497" end="506" text="Jefferson" />
+<head id="h19" start="594" end="604" text="defendants" />
+<head id="h20" start="711" end="717" text="agents" />
+<head id="h21" start="725" end="776" text="Drug Enforcement Administration, Diversion Division" />
+<head id="h23" start="793" end="801" text="Attorney" />
+<head id="h24" start="788" end="792" text="U.S." />
+<head id="h25" start="829" end="844" text="Florence office" />
+<head id="h26" start="890" end="898" text="McDonald" />
+<head id="h27" start="886" end="889" text="Mr." />
+<head id="h28" start="978" end="988" text="defendants" />
+<head id="h29" start="1102" end="1118" text="Rodney G. Benson" />
+<head id="h30" start="1086" end="1091" text="Agent" />
+<head id="h31" start="1051" end="1077" text="DEA Atlanta Field Division" />
+<head id="h32" start="1135" end="1142" text="parents" />
+<head id="h33" start="1147" end="1155" text="children" />
+<head id="h34" start="1164" end="1174" text="themselves" />
+<head id="h35" start="1229" end="1232" text="DEA" />
+<head id="h22" start="802" end="816" text="William E. Day" />
+<name id="n0" start="24" end="44" text="Chuvalo J. Truesdell" />
+<name id="n1" start="74" end="93" text="Chesterfield County" />
+<name id="n2" start="152" end="160" text="COLUMBIA" />
+<name id="n3" start="162" end="176" text="South Carolina" />
+<name id="n4" start="210" end="227" text="Kevin F. McDonald" />
+<name id="n6" start="187" end="200" text="United States" />
+<name id="n7" start="303" end="319" text="Jonathan Simpson" />
+<name id="n8" start="329" end="346" text="Vikki Lee Simpson" />
+<name id="n9" start="356" end="369" text="Craig Tadlock" />
+<name id="n10" start="383" end="400" text="Crystal Boatright" />
+<name id="n11" start="417" end="425" text="Pageland" />
+<name id="n5" start="438" end="452" text="Angela Langley" />
+<name id="n12" start="466" end="479" text="Frankie Price" />
+<name id="n13" start="497" end="506" text="Jefferson" />
+<name id="n14" start="725" end="776" text="Drug Enforcement Administration, Diversion Division" />
+<name id="n16" start="788" end="792" text="U.S." />
+<name id="n17" start="829" end="844" text="Florence office" />
+<name id="n18" start="890" end="898" text="McDonald" />
+<name id="n19" start="1102" end="1118" text="Rodney G. Benson" />
+<name id="n20" start="1051" end="1077" text="DEA Atlanta Field Division" />
+<name id="n21" start="1229" end="1232" text="DEA" />
+<name id="n15" start="802" end="816" text="William E. Day" />
+<employment-mention id="e0" start="180" end="209" text="Acting United States Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="711" end="776" text="agents of the Drug Enforcement Administration, Diversion Division" TYPE="Preposition" />
+<employment-mention id="e2" start="778" end="801" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e3" start="778" end="844" text="Assistant U.S. Attorney William E. Day, II, of the Florence office" TYPE="Preposition" />
+<employment-mention id="e4" start="1051" end="1101" text="DEA Atlanta Field Division Special Agent in Charge" TYPE="PreMod" />
+<CRRE id="C0" start="74" end="103" text="Chesterfield County Residents" TYPE="PreMod" />
+<CRRE id="C1" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="Preposition" />
+<CRRE id="C2" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="Preposition" />
+<CRRE id="C3" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="Preposition" />
+<CRRE id="C4" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="Preposition" />
+<CRRE id="C5" start="303" end="425" text="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" TYPE="Preposition" />
+<CRRE id="C6" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="Preposition" />
+<CRRE id="C7" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="Preposition" />
+<CRRE id="C8" start="438" end="506" text="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" TYPE="Preposition" />
+<entity_link id="en0" fromID="p3" fromText="Acting United States Attorney" toID="p2" toText="Acting United States Attorney Kevin F. McDonald" />
+<entity_link id="en1" fromID="p17" fromText="Assistant U.S. Attorney" toID="p16" toText="Assistant U.S. Attorney William E. Day, II, of the Florence office" />
+<entity_link id="en2" fromID="p18" fromText="Mr. McDonald" toID="p2" toText="Acting United States Attorney Kevin F. McDonald" />
+<entity_link id="en3" fromID="p19" fromText="Mr." toID="p18" toText="Mr. McDonald" />
+<entity_link id="en4" fromID="p20" fromText="the defendants" toID="p14" toText="the defendants" />
+<entity_link id="en5" fromID="p22" fromText="DEA Atlanta Field Division Special Agent in Charge" toID="p21" toText="DEA Atlanta Field Division Special Agent in Charge Rodney G. Benson" />
+<entity_link id="en6" fromID="g6" fromText="U.S." toID="g3" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Chuvalo J. Truesdell" toID="h0" toText="Chuvalo J. Truesdell" />
+<head_link id="he1" fromID="p1" fromText="Chesterfield County Residents" toID="h1" toText="Residents" />
+<head_link id="he2" fromID="g0" fromText="Chesterfield County" toID="h2" toText="Chesterfield County" />
+<head_link id="he3" fromID="g1" fromText="COLUMBIA, South Carolina" toID="h3" toText="COLUMBIA" />
+<head_link id="he4" fromID="g2" fromText="South Carolina" toID="h4" toText="South Carolina" />
+<head_link id="he5" fromID="p2" fromText="Acting United States Attorney Kevin F. McDonald" toID="h5" toText="Kevin F. McDonald" />
+<head_link id="he6" fromID="p3" fromText="Acting United States Attorney" toID="h6" toText="Attorney" />
+<head_link id="he7" fromID="g3" fromText="United States" toID="h7" toText="United States" />
+<head_link id="he8" fromID="p4" fromText="a Federal Grand Jury" toID="h8" toText="Jury" />
+<head_link id="he9" fromID="p5" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="h9" toText="Jonathan Simpson" />
+<head_link id="he10" fromID="p6" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="h10" toText="Vikki Lee Simpson" />
+<head_link id="he11" fromID="p7" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="h11" toText="Craig Tadlock" />
+<head_link id="he12" fromID="p8" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="h12" toText="Crystal Boatright" />
+<head_link id="he13" fromID="g4" fromText="Pageland" toID="h13" toText="Pageland" />
+<head_link id="he15" fromID="p10" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="h14" toText="all" />
+<head_link id="he16" fromID="p11" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="h15" toText="Angela Langley" />
+<head_link id="he17" fromID="p12" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="h16" toText="Frankie Price" />
+<head_link id="he18" fromID="p13" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="h17" toText="both" />
+<head_link id="he19" fromID="g5" fromText="Jefferson" toID="h18" toText="Jefferson" />
+<head_link id="he20" fromID="p14" fromText="the defendants" toID="h19" toText="defendants" />
+<head_link id="he21" fromID="p15" fromText="agents of the Drug Enforcement Administration, Diversion Division" toID="h20" toText="agents" />
+<head_link id="he22" fromID="o0" fromText="the Drug Enforcement Administration, Diversion Division" toID="h21" toText="Drug Enforcement Administration, Diversion Division" />
+<head_link id="he24" fromID="p17" fromText="Assistant U.S. Attorney" toID="h23" toText="Attorney" />
+<head_link id="he25" fromID="g6" fromText="U.S." toID="h24" toText="U.S." />
+<head_link id="he26" fromID="o1" fromText="the Florence office" toID="h25" toText="Florence office" />
+<head_link id="he27" fromID="p18" fromText="Mr. McDonald" toID="h26" toText="McDonald" />
+<head_link id="he28" fromID="p19" fromText="Mr." toID="h27" toText="Mr." />
+<head_link id="he29" fromID="p20" fromText="the defendants" toID="h28" toText="defendants" />
+<head_link id="he30" fromID="p21" fromText="DEA Atlanta Field Division Special Agent in Charge Rodney G. Benson" toID="h29" toText="Rodney G. Benson" />
+<head_link id="he31" fromID="p22" fromText="DEA Atlanta Field Division Special Agent in Charge" toID="h30" toText="Agent" />
+<head_link id="he32" fromID="o2" fromText="DEA Atlanta Field Division" toID="h31" toText="DEA Atlanta Field Division" />
+<head_link id="he33" fromID="p23" fromText="parents" toID="h32" toText="parents" />
+<head_link id="he34" fromID="p24" fromText="children" toID="h33" toText="children" />
+<head_link id="he35" fromID="p25" fromText="themselves" toID="h34" toText="themselves" />
+<head_link id="he36" fromID="o3" fromText="DEA" toID="h35" toText="DEA" />
+<head_link id="he14" fromID="p16" fromText="Assistant U.S. Attorney William E. Day, II, of the Florence office" toID="h22" toText="William E. Day" />
+<name_link id="na0" fromID="p0" fromText="Chuvalo J. Truesdell" toID="n0" toText="Chuvalo J. Truesdell" />
+<name_link id="na1" fromID="g0" fromText="Chesterfield County" toID="n1" toText="Chesterfield County" />
+<name_link id="na2" fromID="g1" fromText="COLUMBIA, South Carolina" toID="n2" toText="COLUMBIA" />
+<name_link id="na3" fromID="g2" fromText="South Carolina" toID="n3" toText="South Carolina" />
+<name_link id="na4" fromID="p2" fromText="Acting United States Attorney Kevin F. McDonald" toID="n4" toText="Kevin F. McDonald" />
+<name_link id="na5" fromID="g3" fromText="United States" toID="n6" toText="United States" />
+<name_link id="na6" fromID="p5" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="n7" toText="Jonathan Simpson" />
+<name_link id="na7" fromID="p6" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="n8" toText="Vikki Lee Simpson" />
+<name_link id="na8" fromID="p7" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="n9" toText="Craig Tadlock" />
+<name_link id="na10" fromID="g4" fromText="Pageland" toID="n11" toText="Pageland" />
+<name_link id="na11" fromID="p8" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="n10" toText="Crystal Boatright" />
+<name_link id="na12" fromID="p11" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="n5" toText="Angela Langley" />
+<name_link id="na13" fromID="p12" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="n12" toText="Frankie Price" />
+<name_link id="na14" fromID="g5" fromText="Jefferson" toID="n13" toText="Jefferson" />
+<name_link id="na15" fromID="o0" fromText="the Drug Enforcement Administration, Diversion Division" toID="n14" toText="Drug Enforcement Administration, Diversion Division" />
+<name_link id="na17" fromID="g6" fromText="U.S." toID="n16" toText="U.S." />
+<name_link id="na18" fromID="o1" fromText="the Florence office" toID="n17" toText="Florence office" />
+<name_link id="na19" fromID="p18" fromText="Mr. McDonald" toID="n18" toText="McDonald" />
+<name_link id="na20" fromID="p21" fromText="DEA Atlanta Field Division Special Agent in Charge Rodney G. Benson" toID="n19" toText="Rodney G. Benson" />
+<name_link id="na21" fromID="o2" fromText="DEA Atlanta Field Division" toID="n20" toText="DEA Atlanta Field Division" />
+<name_link id="na22" fromID="o3" fromText="DEA" toID="n21" toText="DEA" />
+<name_link id="na9" fromID="p16" fromText="Assistant U.S. Attorney William E. Day, II, of the Florence office" toID="n15" toText="William E. Day" />
+<relation_link1 id="r0" fromID="C0" fromText="Chesterfield County Residents" toID="p1" toText="Chesterfield County Residents" />
+<relation_link1 id="r1" fromID="e0" fromText="Acting United States Attorney" toID="p3" toText="Acting United States Attorney" />
+<relation_link1 id="r2" fromID="C1" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="p5" toText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" />
+<relation_link1 id="r3" fromID="C2" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="p6" toText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" />
+<relation_link1 id="r4" fromID="C3" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="p7" toText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" />
+<relation_link1 id="r5" fromID="C4" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="p8" toText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" />
+<relation_link1 id="r6" fromID="C5" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="p10" toText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" />
+<relation_link1 id="r7" fromID="C6" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="p11" toText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" />
+<relation_link1 id="r8" fromID="C7" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="p12" toText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" />
+<relation_link1 id="r9" fromID="C8" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="p13" toText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" />
+<relation_link1 id="r10" fromID="e1" fromText="agents of the Drug Enforcement Administration, Diversion Division" toID="p15" toText="agents of the Drug Enforcement Administration, Diversion Division" />
+<relation_link1 id="r11" fromID="e2" fromText="Assistant U.S. Attorney" toID="p17" toText="Assistant U.S. Attorney" />
+<relation_link1 id="r12" fromID="e3" fromText="Assistant U.S. Attorney William E. Day, II, of the Florence office" toID="p16" toText="Assistant U.S. Attorney William E. Day, II, of the Florence office" />
+<relation_link1 id="r13" fromID="e4" fromText="DEA Atlanta Field Division Special Agent in Charge" toID="p22" toText="DEA Atlanta Field Division Special Agent in Charge" />
+<relation_link2 id="re0" fromID="C0" fromText="Chesterfield County Residents" toID="g0" toText="Chesterfield County" />
+<relation_link2 id="re1" fromID="e0" fromText="Acting United States Attorney" toID="g3" toText="United States" />
+<relation_link2 id="re2" fromID="C1" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="g4" toText="Pageland" />
+<relation_link2 id="re3" fromID="C2" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="g4" toText="Pageland" />
+<relation_link2 id="re4" fromID="C3" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="g4" toText="Pageland" />
+<relation_link2 id="re5" fromID="C4" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="g4" toText="Pageland" />
+<relation_link2 id="re6" fromID="C5" fromText="Jonathan Simpson, age 24, Vikki Lee Simpson, age 27, Craig Tadlock, age 49, and Crystal Boatright, age 20, all of Pageland" toID="g4" toText="Pageland" />
+<relation_link2 id="re7" fromID="C6" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="g5" toText="Jefferson" />
+<relation_link2 id="re8" fromID="C7" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="g5" toText="Jefferson" />
+<relation_link2 id="re9" fromID="C8" fromText="Angela Langley, age 43, and Frankie Price, age 56, both of Jefferson" toID="g5" toText="Jefferson" />
+<relation_link2 id="re10" fromID="e1" fromText="agents of the Drug Enforcement Administration, Diversion Division" toID="o0" toText="the Drug Enforcement Administration, Diversion Division" />
+<relation_link2 id="re11" fromID="e2" fromText="Assistant U.S. Attorney" toID="g6" toText="U.S." />
+<relation_link2 id="re12" fromID="e3" fromText="Assistant U.S. Attorney William E. Day, II, of the Florence office" toID="o1" toText="the Florence office" />
+<relation_link2 id="re13" fromID="e4" fromText="DEA Atlanta Field Division Special Agent in Charge" toID="o2" toText="DEA Atlanta Field Division" />
+</TAGS>
+</KddTask>

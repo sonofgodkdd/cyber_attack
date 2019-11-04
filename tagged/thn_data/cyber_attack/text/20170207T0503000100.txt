@@ -1,0 +1,19 @@
+Polish Banks Hacked using Malware Planted on their own Government Site
+Swati Khandelwal
+
+In what considered to be the largest system hack in the country's history and a massive attack on the financial sector, several banks in Poland have been infected with malware.
+What's surprising? The source of the malware infection is their own financial regulator, the Polish Financial Supervision Authority (KNF) -- which, ironically, is meant to keep an eye out for the safety and security of financial systems in Poland.
+During the past week, the security teams at several unnamed Polish banks discovered malicious executables on the workstations of several banks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The KNF confirmed that their internal systems had been compromised by someone "from another country," although no specifications were provided.
+After downloads of suspicious files that were infecting various banking systems had been discovered on the regulator's servers, the KNF decided to take down its entire system "in order to secure evidence."
+Here's what happened: 
+An unknown attacker compromised the KNF's website for well over a week by modifying one of the site's JavaScript files, making visitors to the regulator's site load the malicious JavaScript file, which then downloaded the malicious payloads. 
+Once downloaded and executed, the malware connected to some foreign servers to perform various malicious tasks such as reconnaissance, data exfiltration, and post exploitation.
+This particular malware appears to be a new strain of nasty software which has never seen before in live attacks and has a zero detection rate on VirusTotal.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In some cases, the attackers even managed to gain control over critical servers within the targeted bank's infrastructures.
+Security blogger BadCyber spoke to several banks, and some 20 commercial banks across Poland have already confirmed being victims of a malware infection while other banks keep looking.
+The affected banks discovered the encrypted executable files on several servers and unusual network traffic going to uncommon IP addresses situated in other foreign countries.
+Both the KNF and the Polish government confirmed local Polish media that the investigation is ongoing and that there is no indication of people's money being affected in the attack and no operations were affected.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

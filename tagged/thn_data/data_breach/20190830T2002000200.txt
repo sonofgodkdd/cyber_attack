@@ -1,0 +1,18 @@
+Foxit PDF Software Company Suffers Data Breach—Asks Users to Reset Password
+Swati Khandelwal
+
+If you have an online account with Foxit Software, you need to reset your account password immediately—as an unknown attacker has compromised your personal data and log-in credentials.
+Foxit Software, a company known for its popular lightweight Foxit PDF Reader and PhantomPDF applications being used by over 525 million users, today announced a data breach exposing the personal information of 'My Account' service users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though for using free versions of any Foxit PDF software doesn't require users to sign up with an account, the membership is mandatory for customers who want to access "software trial downloads, order histories, product registration information, and troubleshooting and support information."
+According to a blog post published today by Foxit, unknown third-parties gained unauthorized access to its data systems recently and accessed its "My Account" registered users' data, including their email addresses, passwords, users' names, phone numbers, company names, and IP addresses.
+From the company's statement, it's not clear, if the leaked account passwords are protected with a robust hashing algorithm and salting mechanism to make it tough for hackers to crack them.
+However, the company assured its users that no payment card details or other personal identification data of its My Account users had been accessed since the compromised system doesn't hold this data.
+Reset Your 'My Account' Password Now!
+In response to this security incident, Foxit has immediately invalidated the account passwords for all affected users, requiring them to reset their passwords to regain access to their online account on the Foxit Software website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company has also launched a digital forensics investigation as well as notified law enforcement agencies and data protection authorities of the incident.
+Besides this, Foxit Software has also hired a security management firm to conduct an in-depth analysis of its systems and strengthen their security in order to protect the company against future cybersecurity incidents.
+Following the password reset, the company has also contacted affected users via email (as shown above in the screenshot shared by a user), providing them with a link to create a new, strong and unique password for their accounts to prevent any unauthorized access.
+Foxit users have also been recommended to remain vigilant by being cautious of any suspicious emails asking them to click on the links or download attachments, and reviewing their account statements and monitoring their credit reports to avoid identity theft.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

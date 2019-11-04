@@ -1,0 +1,22 @@
+Newly Uncovered 'SowBug' Cyber-Espionage Group Stealing Diplomatic Secrets Since 2015
+Mohit Kumar
+
+A previously unknown hacking and cyber-espionage group that has been in operation since at least 2015 have conducted a series of highly targeted attacks against a host of government organizations in South America and Southeast Asia to steal their sensitive data.
+Codenamed Sowbug, the hacking group has been exposed by Symantec security researchers, who spotted the group conducting clandestine attacks against foreign policy institutions, government bodies and diplomatic targets in countries, including Argentina, Brazil, Ecuador, Peru and Malaysia.
+Symantec analysis found that the Sowbug hacking group uses a piece of malware dubbed "Felismus" to launch its attacks and infiltrate their targets.
+First identified in late March of this year, Felismus is a sophisticated, well-written piece of remote access Trojan (RAT) with a modular construction that allows the backdoor trojan to hide and or extend its capabilities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malware allows malicious actors to take complete control of an infected system and like most RATs, Felismus also allows attackers to communicate with a remote server, download files, and execute shell commands.
+By analysing Felismus, researchers were able to connect previous attack campaigns with the Sowbug hacking group, indicating that it had been active since at least early-2015 and may have been operating even earlier.
+"To date, Sowbug appears to be focused mainly on government entities in South America and Southeast Asia and has infiltrated organizations in Argentina, Brazil, Ecuador, Peru, Brunei and Malaysia," the Symantec report said.
+"The group is well resourced, capable of infiltrating multiple targets simultaneously and will often operate outside the working hours of targeted organisations."
+Although it is still unclear how the Sowbug hackers managed to gain a foothold in computer networks, evidence gathered by researchers suggested the hackers have made use of fake, malicious software updates of Windows or Adobe Reader.
+The researchers also found that the group have used a tool known as Starloader to deploy additional malware and tools, such as credential dumpers and keyloggers, on victims' networks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Symantec researchers have found evidence of Starloader files being spread as software updates entitled AdobeUpdate.exe, AcrobatUpdate.exe, and INTELUPDATE.EXE among others.
+Instead of compromising the software itself, Sowbug gives its hacking tools file names "similar to those used by software and places them in directory trees that could be mistaken for those used by the legitimate software."
+This trick allows the hackers to hide in plain sight, "as their appearance is unlikely to arouse suspicion."
+The Sowbug hackers took several measures to remain under-the-radar by carrying out their espionage operations outside of standard office hours to maintain the presence on targeted networks for months at a time.
+In one instance, the hacking group remained undetected on the target’s network for up to six months between September 2016 and March 2017.
+Besides the Felismus malware's distribution method used in the Sowbug operation, the identity of Sowbug attackers also remains unknown.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

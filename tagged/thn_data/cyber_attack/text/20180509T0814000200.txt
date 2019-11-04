@@ -1,0 +1,30 @@
+Microsoft Patches Two Zero-Day Flaws Under Active Attack
+Swati Khandelwal
+
+It's time to gear up for the latest May 2018 Patch Tuesday.
+Microsoft has today released security patches for a total of 67 vulnerabilities, including two zero-days that have actively been exploited in the wild by cybercriminals, and two publicly disclosed bugs.
+In brief, Microsoft is addressing 21 vulnerabilities that are rated as critical, 42 rated important, and 4 rated as low severity.
+These patch updates address security flaws in Microsoft Windows, Internet Explorer, Microsoft Edge, Microsoft Office, Microsoft Office Exchange Server, Outlook, .NET Framework, Microsoft Hyper-V,  ChakraCore, Azure IoT SDK, and more.
+1) Double Kill IE 0-day Vulnerability
+The first zero-day vulnerability (CVE-2018-8174) under active attack is a critical remote code execution vulnerability that was revealed by Chinese security firm Qihoo 360 last month and affected all supported versions of Windows operating systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed "Double Kill" by the researchers, the vulnerability is notable and requires prompt attention as it could allow an attacker to remotely take control over an affected system by executing malicious code remotely through several ways, such as a compromised website, or malicious Office documents.
+The Double Kill vulnerability is a use-after-free issue which resides in the way the VBScript Engine (included in all currently supported versions of Windows) handles objects in computer memory, allowing attackers to execute code that runs with the same system privileges as of the logged-in user.
+"In a web-based attack scenario, an attacker could host a specially crafted website that is designed to exploit the vulnerability through Internet Explorer and then convince a user to view the website. An attacker could also embed an ActiveX control marked 'safe for initialization' in an application or Microsoft Office document that hosts the IE rendering engine," Microsoft explains in its advisory. 
+"The attacker could also take advantage of compromised websites and websites that accept or host user-provided content or advertisements. These websites could contain specially crafted content that could exploit the vulnerability."
+Users with administrative rights on their systems are impacted more than the ones with limited rights, as an attacker successfully exploiting the vulnerability could take control of an affected system.
+However, that doesn't mean that low-privileged users are spared. If users are logged in on an affected system with more limited rights, attackers may still be able to escalate their privileges by exploiting a separate vulnerability.
+Researchers from Qihoo 360 and Kaspersky Labs found that the vulnerability was actively being exploited in the wild by an advanced state-sponsored hacking group in targeted attacks, but neither Microsoft nor Qihoo 360 and Kaspersky provided any information on the threat group.
+2) Win32k Elevation of Privilege Vulnerability
+The second zero-day vulnerability (CVE-2018-8120) patched this month is a privilege-escalation flaw that occurred in the Win32k component of Windows when it fails to properly handle objects in computer memory.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Successful exploitation of the flaw can allow attackers to execute arbitrary code in kernel mode, eventually allowing them to install programs or malware; view, edit or delete data; or create new accounts with full user rights.
+The vulnerability is rated "important," and only affects Windows 7, Windows Server 2008 and Windows Server 2008 R2. The issue has actively been exploited by threat actors, but Microsoft did not provide any detail about the in-the-wild exploits.
+Two Publicly Disclosed Flaws
+Microsoft also addressed two "important" Windows vulnerabilities whose details have already been made public.
+One of these is a Windows kernel flaw (CVE-2018-8141) that could lead to information disclosure, and the other is a Windows Image bug (CVE-2018-8170) that could lead to Elevation of Privilege.
+In addition, the May 2018 updates resolve 20 more critical issues, including memory corruptions in the Edge and Internet Explorer (IE) scripting engines and remote code execution (RCE) vulnerabilities in Hyper-V and Hyper-V SMB.
+Meanwhile, Adobe has also released its Patch Tuesday updates, addressing five security vulnerabilities—one critical bug in Flash Player, one critical and two important flaws in Creative Cloud and one important bug in Connect.
+Users are strongly advised to install security updates as soon as possible in order to protect themselves against the active attacks in the wild.
+For installing security updates, head on to Settings → Update & security → Windows Update → Check for updates, or you can install the updates manually.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

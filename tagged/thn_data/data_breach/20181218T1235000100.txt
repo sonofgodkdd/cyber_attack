@@ -1,0 +1,22 @@
+Twitter Discloses Suspected State-Sponsored Attack After Minor Data Breach
+Swati Khandelwal
+
+Twitter has been hit with a minor data breach incident that the social networking site believes linked to a suspected state-sponsored attack.
+In a blog post published on Monday, Twitter revealed that while investigating a vulnerability affecting one of its support forms, the company discovered evidence of the bug being misused to access and steal users’ exposed information.
+The impacted support form in question was used by account holders to contact Twitter about issues with their account.
+Discovered in mid-November, the support form API bug exposed considerably less personal information, including the country code of users' phone numbers associated with their Twitter account, and "whether or not their account had been locked."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So far the company has declined to provide more details about the incident or an estimate for the number of accounts potentially impacted but says it believes that the attack may have ties to state-sponsored actors.
+"During our investigation, we noticed some unusual activity involving the affected customer support form API. Specifically, we observed a large number of inquiries coming from individual IP addresses located in China and Saudi Arabia," Twitter says in a post about the incident.
+"While we cannot confirm intent or attribution for certain, it is possible that some of these IP addresses may have ties to state-sponsored actors."
+Twitter also assures its users that the issue does not expose full phone numbers or any other personal data related to the user.
+Twitter says that the social networking site addressed the issue within just one day on November 16 and that there is no action required from the users' side.
+When the company became aware of the incident, it started investigating the origins and background of the breach to "provide you with as much information as possible," and also updated law enforcement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Twitter has started directly notifying the users who, according to the company, have been impacted by the incident.
+"We have directly informed the people we identified as being affected," the company writes. "We are providing this broader notice as it is possible that other account holders we cannot identify were potentially impacted."
+Like other social media platforms, Twitter has also been hit by a number of security incidents this year.
+In May, Twitter urged all of its 330 million users to change their passwords after a software glitch unintentionally exposed its users' account passwords by storing them in plain text on an internal log.
+In September, a flaw in Twitter's Account Activity API exposed some of its users' direct messages (DMs) and protected tweets to unauthorized, third-party app developers who weren't supposed to get them.
+Over the weekend, Twitter was also hit by another software glitch that allowed unapproved third-party apps to access and read users' direct messages (DMs), even when they told users that they would not.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

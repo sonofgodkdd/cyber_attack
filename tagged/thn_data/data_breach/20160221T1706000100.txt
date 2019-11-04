@@ -1,0 +1,38 @@
+Warning — Linux Mint Website Hacked and ISOs replaced with Backdoored Operating System
+Swati Khandelwal
+
+Are you also the one who downloaded Linux Mint on February 20th? You may have been Infected!
+Linux Mint is one of the best and popular Linux distros available today, but if you have downloaded and installed the operating system recently you might have done so using a malicious ISO image.
+Here's why:
+Last night, Some unknown hacker or group of hackers had managed to hack into the Linux Mint website and replaced the download links on the site that pointed to one of their servers offering a malicious ISO images for the Linux Mint 17.3 Cinnamon Edition.
+"Hackers made a modified Linux Mint ISO, with a backdoor in it, and managed to hack our website to point to it," the head of Linux Mint project Clement Lefebvre said in a surprising announcement dated February 21, 2016.
+Who are affected?
+As far as the Linux Mint team knows, the issue only affects the one edition, and that is Linux Mint 17.3 Cinnamon edition.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The situation happened last night, so the issue only impacts people who downloaded the above-mentioned version of Linux Mint on February 20th.
+However, if you have downloaded the Cinnamon edition or release before Saturday 20th, February, the issue does not affect you. Even if you downloaded a different edition including Mint 17.3 Cinnamon via Torrent or direct HTTP link, this does not affect you either.
+What had Happened?
+Hackers believed to have accessed the underlying server via the team's WordPress blog and then got shell access to www-data.
+From there, the hackers manipulated the Linux Mint download page and pointed it to a malicious FTP (File Transfer Protocol) server hosted in Bulgaria (IP: 5.104.175.212), the investigative team discovered.
+The infected Linux ISO images installed the complete OS with the Internet Relay Chat (IRC) backdoor Tsunami, giving the attackers access to the system via IRC servers.
+Tsunami is a well-known Linux ELF trojan that is a simple IRC bot used for launching Distributed Denial of Service (DDoS) attacks.
+Hackers vs. Linux Mint SysAdmins
+However, the Linux Mint team managed to discover the hack, cleaned up the links from their website quickly, announced the data breach on their official blog, and then it appears that the hackers compromised its download page again.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Knowing that it has failed to eliminate the exact point of entry of hackers, the Linux Mint team took the entire linuxmint.com domain offline to prevent the ISO images from spreading to its users.
+The Linux Mint official website is currently offline until the team investigates the issue entirely. However, the hackers' motive behind the hack is not clear yet.
+"What we don't know is the motivation behind this attack. If more efforts are made to attack our project and if the goal is to hurt us, we’ll get in touch with authorities and security firms to confront the people behind this," Lefebvre added.
+Hackers Selling Linux Mint Website's Database
+The hackers are selling the Linux Mint full website's database for a just $85, which shows a sign of their lack of knowledge.
+The hack seems to be a work of some script kiddies or an inexperienced group as they opted to infect a top-shelf Linux distro with a silly IRC bot that is considered to be outdated in early 2010. Instead, they would have used more dangerous malware like Banking Trojans.
+Also, even after the hack was initially discovered, the hackers re-compromised the site, which again shows the hackers' lack of experience.
+Here's How to Protect your Linux Machine
+Users with the ISO image can check its signature in an effort to make sure it is valid. 
+To check for an infected download, you can compare the MD5 signature with the official versions, included in Lefebvre's blog post.
+If found infected, users are advised to follow these steps:
+Take the computer offline.
+Backup all your personal data.
+Reinstall the operating system (with a clean ISO) or format the partition.
+Change passwords for sensitive websites and emails.
+You can read full detail about the hack here. The official website is not accessible at the time of writing. We’ll update the story when we hear more.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,18 @@
+Highly Critical Flaw (CVSS Score 10) Lets Hackers Hijack Oracle Identity Manager
+Swati Khandelwal
+
+A highly critical vulnerability has been discovered in Oracle's enterprise identity management system that can be easily exploited by remote, unauthenticated attackers to take full control over the affected systems.
+The critical vulnerability tracked as CVE-2017-10151, has been assigned the highest CVSS score of 10 and is easy to exploit without any user interaction, Oracle said in its advisory published Monday without revealing many details about the issue.
+The vulnerability affects Oracle Identity Manager (OIM) component of Oracle Fusion Middleware—an enterprise identity management system that automatically manages users' access privileges within enterprises.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The security loophole is due to a "default account" that an unauthenticated attacker over the same network can access via HTTP to compromise Oracle Identity Manager.
+Oracle has not released complete details of the vulnerability in an effort to prevent exploitation in the wild, but here the "default account" could be a secret account with hard-coded or no password.
+"This vulnerability is remotely exploitable without authentication, i.e., may be exploited over a network without requiring user credentials," Oracle's advisory reads.
+The easily exploitable vulnerability affects Oracle Identity Manager versions 11.1.1.7, 11.1.1.9, 11.1.2.1.0, 11.1.2.2.0, 11.1.2.3.0 and 12.2.1.3.0.
+Oracle has released patches for all versions of its affected products, so you are advised to install the patches before hackers get a chance to exploit the vulnerability to target your enterprise.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Due to the severity of this vulnerability, Oracle strongly recommends that customers apply the updates provided by this Security Alert without delay," the company warned.
+Product releases that are not under Premier Support or Extended Support are not tested for the presence of the vulnerability.
+However, Oracle said it was "likely that earlier versions of affected releases are also affected by these vulnerabilities. As a result, Oracle recommends that customers upgrade to supported versions."
+The security patch for this vulnerability comes just about two weeks after Oracle's regular Critical Patch Update (CPU) for October 2017, which patches a total of 252 vulnerabilities in its products, including 40 in Fusion Middleware out of which 26 are remotely exploitable without authentication.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

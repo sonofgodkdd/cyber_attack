@@ -1,0 +1,22 @@
+All Smartwatches are vulnerable to Hackers
+Swati Khandelwal
+
+Do you own a Smartwatch? If yes, then how safe it is? There are almost 100 percent chances that you own a vulnerable Smartwatch.
+Computer manufacturer Hewlett-Packard is warning users of smartwatches including Apple Watch and Samsung Gear that their wearable devices are vulnerable to cyber attacks.
+In a study, HP's Fortify tested today's top 10 smartwatches for security features, such as basic data encryption, password protection and privacy concerns.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The most shocking part of the study was that – 
+Not even a Single Smartwatch Found to be 100 percent Safe
+Security experts found that 100 percent of wearable devices contained at least one serious security vulnerability that could make the devices vulnerable to hackers.
+With the increase in the adoption of smartwatches, manufacturers need to pay closer attention to the customers' security because these wearable devices could potentially open doors to new threats to personal and sensitive information.
+"As the adoption of Smartwatches accelerates, the platform will become vastly more attractive to those who would abuse that access, making it critical that we take precautions when transmitting personal data or connecting Smartwatches into corporate networks," Jason Schmitt, general manager at HP's Security Fortify said in a statement.
+The study [PDF], no doubt, had included Smart watches by Apple, Pebble, Samsung and Sony, as it claims to have picked top 10 smartwatches.
+Here's the list of issues reported by HP:
+1. Lack of transport encryption – Though all products implemented transport encryption using SSL/TLS, 40 percent of devices found to be either vulnerable to the POODLE attack, allowing the use of weak cyphers, or still using SSL v2.
+2. Insecure Interfaces – Three out of ten smartwatches used cloud-based web interfaces and all of them were vulnerable to account harvesting. This allowed unlimited login attempts, helping hackers guess passwords.
+3. Insufficient User Authentication/Authorization – Three out of ten smartwatches completely failed to offer Two-Factor authentication, or the ability to lock accounts after 3 to 5 failed password attempts.
+4. Insecure Software/Firmware – 7 out of 10 smartwatches had issues with firmware updates. The wearable devices, including smartwatches, often did not receive encrypted firmware updates, but many updates were signed to help prevent malicious firmware updates from being installed. While a lack of encryption did not allow the files to be downloaded and analyzed.
+5. Privacy Concerns – Smartwatches also demonstrate a risk to personal security as well as privacy. All the tested devices collected some form of personal information, including username, address, date of birth, gender, heart rate, weight and other health information.
+The experts said it would not disclose the names of smartphone manufacturers whose watches they had tested, but they are working with vendors to "build security into their products before they put them out to market."
+Meanwhile, HP urges users to not connect their smartwatches to the sensitive access control functions like cars or homes unless strong authorization is offered.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

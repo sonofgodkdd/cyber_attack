@@ -1,0 +1,28 @@
+Symantec Connects 40 Cyber Attacks to CIA Hacking Tools Exposed by Wikileaks
+Swati Khandelwal
+
+Security researchers have confirmed that the alleged CIA hacking tools recently exposed by WikiLeaks have been used against at least 40 governments and private organizations across 16 countries.
+Since March, as part of its "Vault 7" series, Wikileaks has published over 8,761 documents and other confidential information that the whistleblower group claims came from the US Central Intelligence Agency (CIA).
+Now, researchers at cybersecurity company Symantec reportedly managed to link those CIA hacking tools to numerous real cyber attacks in recent years that have been carried out against the government and private sectors across the world.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Those 40 cyber attacks were conducted by Longhorn — a North American hacking group that has been active since at least 2011 and has used backdoor trojans and zero-day attacks to target government, financial, energy, telecommunications, education, aerospace, and natural resources sectors.
+Although the group's targets were all in the Middle East, Europe, Asia, and Africa, researchers said the group once infected a computer in the United States, but an uninstaller was launched within an hour, which indicates the "victim was infected unintentionally."
+What's interesting is that Symantec linked some of CIA hacking tools and malware variants disclosed by Wikileaks in the Vault 7 files to Longhorn cyber espionage operations.
+Fluxwire (Created by CIA) ≅ Corentry (Created by Longhorn)
+Fluxwire, a cyber espionage malware allegedly created by the CIA and mentioned in the Vault 7 documents, contains a changelog of dates for when new features were added, which according to Symantec, closely resemble with the development cycle of "Corentry," a malware created by Longhorn hacking group.
+"Early versions of Corentry seen by Symantec contained a reference to the file path for the Fluxwire program database (PDB) file," Symantec explains. "The Vault 7 document lists removal of the full path for the PDB as one of the changes implemented in Version 3.5.0."
+"Up until 2014, versions of Corentry were compiled using GCC [GNU Compiler Collection]. According to the Vault 7 document, Fluxwire switched to an MSVC compiler for version 3.3.0 on February 25, 2015. This was reflected in samples of Corentry, where a version compiled on February 25, 2015, had used MSVC as a compiler."
+Similar Malware Modules
+Another Vault 7 document details 'Fire and Forget' specification of the payload and a malware module loader called Archangel, which Symantec claims, match almost perfectly with a Longhorn backdoor called Plexor.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The specification of the payload and the interface used to load it was closely matched in another Longhorn tool called Backdoor.Plexor," says Symantec.
+Use of Similar Cryptographic Protocol Practices
+Another leaked CIA document outlined cryptographic protocols that should be used within malware tools, such as using AES encryption with a 32-bit key, inner cryptography within SSL to prevent man-in-the-middle attacks, and key exchanges once per connection.
+One leaked CIA document also recommends using of in-memory string de-obfuscation and Real-time Transport Protocol (RTP) for communicating with the command and control (C&C) servers.
+According to Symantec, these cryptographic protocol and communication practices were also used by Longhorn group in all of its hacking tools.
+More About LongHorn Hacking Group
+Longhorn has been described as a well-resourced hacking group that works on a standard Monday to Friday working week — likely a behavior of a state-sponsored group — and operates in an American time zone.
+Longhorn's advanced malware tools are specially designed for cyber espionage with detailed system fingerprinting, discovery, and exfiltration capabilities. The group uses extremely stealthy capabilities in its malware to avoid detection.
+Symantec analysis of the group's activities also shows that Longhorn is from an English speaking North American country with code words used by it referring, the band The Police with code words REDLIGHT and ROXANNE, and colloquial terms like "scoobysnack."
+Overall, the functionality described in the CIA documents and its links to the group activities leave "little doubt that Longhorn's activities and the Vault 7 documents are the work of the same group."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

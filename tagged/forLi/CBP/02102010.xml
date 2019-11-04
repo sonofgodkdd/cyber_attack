@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers in Buffalo Arrest Wanted Fugitive
+(Wednesday, February 10, 2010)
+Niagara Falls, N.Y.  - U.S. Customs and Border Protection field operations officials today announced the apprehension of a U.S. citizen wanted in Florida on narcotics charges.
+CBP officers received notification yesterday from Canada Border Services Agency that Dennis Greenhaw, a 28-year-old United States citizen, was being deported from Canada and returned to the United States. Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation.
+Record checks by Canadian authorities revealed the possibility of an active warrant in the United States. Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y.
+Upon his return to the United States, CBP officers performed record checks that verified the validity of the nation-wide felony warrant and confirmed the extradition. The warrant was issued in May, 2005 by Osceola County that charges Greenhaw with cocaine possession.
+Greenhaw was arrested by CBP and turned over to the custody of the Niagara Falls Police Department pending extradition to Florida.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="24" text="CBP Officers in Buffalo" TYPE="BAR" />
+<person id="p1" start="102" end="163" text="U.S. Customs and Border Protection field operations officials" TYPE="BAR" />
+<person id="p2" start="200" end="253" text="a U.S. citizen wanted in Florida on narcotics charges" TYPE="NOM" />
+<person id="p3" start="255" end="267" text="CBP officers" TYPE="BAR" />
+<person id="p4" start="340" end="392" text="Dennis Greenhaw, a 28-year-old United States citizen" TYPE="APP" />
+<person id="p5" start="340" end="355" text="Dennis Greenhaw" TYPE="NAM" />
+<person id="p6" start="357" end="392" text="a 28-year-old United States citizen" TYPE="NOM" />
+<person id="p7" start="460" end="468" text="Greenhaw" TYPE="NAM" />
+<person id="p8" start="508" end="517" text="a visitor" TYPE="NOM" />
+<person id="p9" start="568" end="570" text="he" TYPE="PRO" />
+<person id="p10" start="587" end="607" text="Canadian authorities" TYPE="BAR" />
+<person id="p11" start="654" end="674" text="Canadian authorities" TYPE="BAR" />
+<person id="p12" start="743" end="751" text="Greenhaw" TYPE="NAM" />
+<person id="p13" start="895" end="898" text="his" TYPE="PRO" />
+<person id="p14" start="928" end="940" text="CBP officers" TYPE="BAR" />
+<person id="p15" start="1124" end="1132" text="Greenhaw" TYPE="NAM" />
+<person id="p16" start="1158" end="1166" text="Greenhaw" TYPE="NAM" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="102" end="136" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="255" end="258" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="305" end="334" text="Canada Border Services Agency" TYPE="NAM" />
+<organization id="o4" start="779" end="783" text="CBSA" TYPE="NAM" />
+<organization id="o5" start="928" end="931" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1183" end="1186" text="CBP" TYPE="NAM" />
+<organization id="o7" start="1221" end="1256" text="the Niagara Falls Police Department" TYPE="NAM" />
+<geographical-political id="g0" start="17" end="24" text="Buffalo" TYPE="NAM" />
+<geographical-political id="g1" start="79" end="98" text="Niagara Falls, N.Y." TYPE="NAM" />
+<geographical-political id="g2" start="94" end="98" text="N.Y." TYPE="NAM" />
+<geographical-political id="g3" start="202" end="206" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g4" start="225" end="232" text="Florida" TYPE="NAM" />
+<geographical-political id="g5" start="371" end="384" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g6" start="418" end="424" text="Canada" TYPE="NAM" />
+<geographical-political id="g7" start="441" end="458" text="the United States" TYPE="NAM" />
+<geographical-political id="g8" start="477" end="483" text="Canada" TYPE="NAM" />
+<geographical-political id="g9" start="535" end="540" text="there" TYPE="PRO" />
+<geographical-political id="g10" start="587" end="595" text="Canadian" TYPE="NAMPRE" />
+<geographical-political id="g11" start="654" end="662" text="Canadian" TYPE="NAMPRE" />
+<geographical-political id="g12" start="724" end="741" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="769" end="775" text="Canada" TYPE="NAM" />
+<geographical-political id="g14" start="810" end="827" text="the United States" TYPE="NAM" />
+<geographical-political id="g15" start="870" end="888" text="Niagara Falls, N.Y" TYPE="NAM" />
+<geographical-political id="g16" start="885" end="888" text="N.Y" TYPE="NAM" />
+<geographical-political id="g17" start="909" end="926" text="the United States" TYPE="NAM" />
+<geographical-political id="g19" start="1280" end="1287" text="Florida" TYPE="NAM" />
+<geographical-political id="g20" start="1096" end="1156" text="Osceola County that charges Greenhaw with cocaine possession" TYPE="NAM" />
+<geographical-political id="g21" start="1111" end="1115" text="that" TYPE="PRO" />
+<falicity id="f0" start="832" end="888" text="the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="NOM" />
+<falicity id="f1" start="836" end="850" text="Rainbow Bridge" TYPE="NAMPRE" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="17" end="24" text="Buffalo" />
+<head id="h3" start="79" end="92" text="Niagara Falls" />
+<head id="h4" start="94" end="98" text="N.Y." />
+<head id="h5" start="154" end="163" text="officials" />
+<head id="h6" start="102" end="136" text="U.S. Customs and Border Protection" />
+<head id="h7" start="207" end="214" text="citizen" />
+<head id="h8" start="202" end="206" text="U.S." />
+<head id="h9" start="225" end="232" text="Florida" />
+<head id="h10" start="259" end="267" text="officers" />
+<head id="h11" start="255" end="258" text="CBP" />
+<head id="h12" start="305" end="334" text="Canada Border Services Agency" />
+<head id="h13" start="340" end="355" text="Dennis Greenhaw" />
+<head id="h14" start="385" end="392" text="citizen" />
+<head id="h15" start="371" end="384" text="United States" />
+<head id="h16" start="418" end="424" text="Canada" />
+<head id="h17" start="445" end="458" text="United States" />
+<head id="h18" start="460" end="468" text="Greenhaw" />
+<head id="h19" start="477" end="483" text="Canada" />
+<head id="h20" start="510" end="517" text="visitor" />
+<head id="h21" start="535" end="540" text="there" />
+<head id="h22" start="568" end="570" text="he" />
+<head id="h23" start="596" end="607" text="authorities" />
+<head id="h24" start="587" end="595" text="Canadian" />
+<head id="h25" start="663" end="674" text="authorities" />
+<head id="h26" start="654" end="662" text="Canadian" />
+<head id="h27" start="728" end="741" text="United States" />
+<head id="h28" start="743" end="751" text="Greenhaw" />
+<head id="h29" start="769" end="775" text="Canada" />
+<head id="h30" start="779" end="783" text="CBSA" />
+<head id="h31" start="814" end="827" text="United States" />
+<head id="h32" start="851" end="866" text="border crossing" />
+<head id="h33" start="836" end="850" text="Rainbow Bridge" />
+<head id="h34" start="870" end="883" text="Niagara Falls" />
+<head id="h35" start="885" end="888" text="N.Y" />
+<head id="h36" start="895" end="898" text="his" />
+<head id="h37" start="913" end="926" text="United States" />
+<head id="h38" start="932" end="940" text="officers" />
+<head id="h39" start="928" end="931" text="CBP" />
+<head id="h41" start="1124" end="1132" text="Greenhaw" />
+<head id="h42" start="1158" end="1166" text="Greenhaw" />
+<head id="h43" start="1183" end="1186" text="CBP" />
+<head id="h44" start="1225" end="1256" text="Niagara Falls Police Department" />
+<head id="h45" start="1280" end="1287" text="Florida" />
+<head id="h46" start="1096" end="1110" text="Osceola County" />
+<head id="h47" start="1111" end="1115" text="that" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="17" end="24" text="Buffalo" />
+<name id="n2" start="79" end="92" text="Niagara Falls" />
+<name id="n3" start="94" end="98" text="N.Y." />
+<name id="n4" start="102" end="136" text="U.S. Customs and Border Protection" />
+<name id="n5" start="202" end="206" text="U.S." />
+<name id="n6" start="225" end="232" text="Florida" />
+<name id="n7" start="255" end="258" text="CBP" />
+<name id="n8" start="305" end="334" text="Canada Border Services Agency" />
+<name id="n9" start="340" end="355" text="Dennis Greenhaw" />
+<name id="n10" start="371" end="384" text="United States" />
+<name id="n11" start="418" end="424" text="Canada" />
+<name id="n12" start="445" end="458" text="United States" />
+<name id="n13" start="460" end="468" text="Greenhaw" />
+<name id="n14" start="477" end="483" text="Canada" />
+<name id="n15" start="587" end="595" text="Canadian" />
+<name id="n16" start="654" end="662" text="Canadian" />
+<name id="n17" start="728" end="741" text="United States" />
+<name id="n18" start="743" end="751" text="Greenhaw" />
+<name id="n19" start="769" end="775" text="Canada" />
+<name id="n20" start="779" end="783" text="CBSA" />
+<name id="n21" start="814" end="827" text="United States" />
+<name id="n22" start="836" end="850" text="Rainbow Bridge" />
+<name id="n23" start="870" end="883" text="Niagara Falls" />
+<name id="n24" start="885" end="888" text="N.Y" />
+<name id="n25" start="913" end="926" text="United States" />
+<name id="n26" start="928" end="931" text="CBP" />
+<name id="n28" start="1124" end="1132" text="Greenhaw" />
+<name id="n29" start="1158" end="1166" text="Greenhaw" />
+<name id="n30" start="1183" end="1186" text="CBP" />
+<name id="n31" start="1225" end="1256" text="Niagara Falls Police Department" />
+<name id="n32" start="1280" end="1287" text="Florida" />
+<name id="n33" start="1096" end="1110" text="Osceola County" />
+<located-mention id="lo0" start="1" end="24" text="CBP Officers in Buffalo" TYPE="Preposition" />
+<located-mention id="lo1" start="255" end="458" text="CBP officers received notification yesterday from Canada Border Services Agency that Dennis Greenhaw, a 28-year-old United States citizen, was being deported from Canada and returned to the United States" TYPE="Verbal" />
+<located-mention id="lo2" start="460" end="635" text="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" TYPE="Verbal" />
+<located-mention id="lo3" start="460" end="635" text="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" TYPE="Verbal" />
+<located-mention id="lo4" start="743" end="888" text="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="Verbal" />
+<located-mention id="lo5" start="743" end="888" text="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="Verbal" />
+<located-mention id="lo6" start="895" end="926" text="his return to the United States" TYPE="Preposition" />
+<employment-mention id="e0" start="1" end="24" text="CBP Officers in Buffalo" TYPE="PreMod" />
+<employment-mention id="e1" start="102" end="163" text="U.S. Customs and Border Protection field operations officials" TYPE="PreMod" />
+<employment-mention id="e2" start="255" end="267" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e4" start="928" end="940" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e3" start="587" end="607" text="Canadian authorities" TYPE="PreMod" />
+<employment-mention id="e5" start="654" end="674" text="Canadian authorities" TYPE="PreMod" />
+<CRRE id="C0" start="200" end="253" text="a U.S. citizen wanted in Florida on narcotics charges" TYPE="PreMod" />
+<CRRE id="C1" start="357" end="392" text="a 28-year-old United States citizen" TYPE="PreMod" />
+<entity_link id="en0" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en1" fromID="p3" fromText="CBP officers" toID="p1" toText="U.S. Customs and Border Protection field operations officials" />
+<entity_link id="en2" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en3" fromID="p5" fromText="Dennis Greenhaw" toID="p4" toText="Dennis Greenhaw, a 28-year-old United States citizen" />
+<entity_link id="en4" fromID="p6" fromText="a 28-year-old United States citizen" toID="p5" toText="Dennis Greenhaw" />
+<entity_link id="en5" fromID="g5" fromText="United States" toID="g3" toText="U.S." />
+<entity_link id="en6" fromID="p6" fromText="a 28-year-old United States citizen" toID="p2" toText="a U.S. citizen wanted in Florida on narcotics charges" />
+<entity_link id="en7" fromID="g7" fromText="the United States" toID="g5" toText="United States" />
+<entity_link id="en8" fromID="g8" fromText="Canada" toID="g6" toText="Canada" />
+<entity_link id="en9" fromID="p7" fromText="Greenhaw" toID="p5" toText="Dennis Greenhaw" />
+<entity_link id="en10" fromID="p8" fromText="a visitor" toID="p7" toText="Greenhaw" />
+<entity_link id="en11" fromID="g9" fromText="there" toID="g8" toText="Canada" />
+<entity_link id="en12" fromID="p9" fromText="he" toID="p7" toText="Greenhaw" />
+<entity_link id="en13" fromID="g10" fromText="Canadian" toID="g8" toText="Canada" />
+<entity_link id="en14" fromID="p11" fromText="Canadian authorities" toID="p10" toText="Canadian authorities" />
+<entity_link id="en15" fromID="g11" fromText="Canadian" toID="g10" toText="Canadian" />
+<entity_link id="en16" fromID="g12" fromText="the United States" toID="g7" toText="the United States" />
+<entity_link id="en17" fromID="p12" fromText="Greenhaw" toID="p7" toText="Greenhaw" />
+<entity_link id="en18" fromID="g13" fromText="Canada" toID="g8" toText="Canada" />
+<entity_link id="en19" fromID="g14" fromText="the United States" toID="g12" toText="the United States" />
+<entity_link id="en20" fromID="g15" fromText="Niagara Falls, N.Y" toID="g1" toText="Niagara Falls, N.Y." />
+<entity_link id="en21" fromID="g16" fromText="N.Y" toID="g2" toText="N.Y." />
+<entity_link id="en22" fromID="p13" fromText="his" toID="p12" toText="Greenhaw" />
+<entity_link id="en23" fromID="g17" fromText="the United States" toID="g14" toText="the United States" />
+<entity_link id="en24" fromID="p14" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<entity_link id="en25" fromID="o5" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en26" fromID="p15" fromText="Greenhaw" toID="p12" toText="Greenhaw" />
+<entity_link id="en27" fromID="p16" fromText="Greenhaw" toID="p15" toText="Greenhaw" />
+<entity_link id="en28" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en29" fromID="g19" fromText="Florida" toID="g4" toText="Florida" />
+<entity_link id="en30" fromID="g21" fromText="that" toID="g20" toText="Osceola County that charges Greenhaw with cocaine possession" />
+<entity_link id="en31" fromID="f1" fromText="Rainbow Bridge" toID="f0" toText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" />
+<entity_link id="en32" fromID="o4" fromText="CBSA" toID="o3" toText="Canada Border Services Agency" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers in Buffalo" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="g0" fromText="Buffalo" toID="h2" toText="Buffalo" />
+<head_link id="he3" fromID="g1" fromText="Niagara Falls, N.Y." toID="h3" toText="Niagara Falls" />
+<head_link id="he4" fromID="g2" fromText="N.Y." toID="h4" toText="N.Y." />
+<head_link id="he5" fromID="p1" fromText="U.S. Customs and Border Protection field operations officials" toID="h5" toText="officials" />
+<head_link id="he7" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he8" fromID="p2" fromText="a U.S. citizen wanted in Florida on narcotics charges" toID="h7" toText="citizen" />
+<head_link id="he9" fromID="g3" fromText="U.S." toID="h8" toText="U.S." />
+<head_link id="he10" fromID="g4" fromText="Florida" toID="h9" toText="Florida" />
+<head_link id="he11" fromID="p3" fromText="CBP officers" toID="h10" toText="officers" />
+<head_link id="he12" fromID="o2" fromText="CBP" toID="h11" toText="CBP" />
+<head_link id="he13" fromID="o3" fromText="Canada Border Services Agency" toID="h12" toText="Canada Border Services Agency" />
+<head_link id="he14" fromID="p5" fromText="Dennis Greenhaw" toID="h13" toText="Dennis Greenhaw" />
+<head_link id="he15" fromID="p6" fromText="a 28-year-old United States citizen" toID="h14" toText="citizen" />
+<head_link id="he16" fromID="g5" fromText="United States" toID="h15" toText="United States" />
+<head_link id="he17" fromID="g6" fromText="Canada" toID="h16" toText="Canada" />
+<head_link id="he18" fromID="g7" fromText="the United States" toID="h17" toText="United States" />
+<head_link id="he19" fromID="p7" fromText="Greenhaw" toID="h18" toText="Greenhaw" />
+<head_link id="he20" fromID="g8" fromText="Canada" toID="h19" toText="Canada" />
+<head_link id="he21" fromID="p8" fromText="a visitor" toID="h20" toText="visitor" />
+<head_link id="he22" fromID="g9" fromText="there" toID="h21" toText="there" />
+<head_link id="he23" fromID="p9" fromText="he" toID="h22" toText="he" />
+<head_link id="he24" fromID="p10" fromText="Canadian authorities" toID="h23" toText="authorities" />
+<head_link id="he25" fromID="g10" fromText="Canadian" toID="h24" toText="Canadian" />
+<head_link id="he26" fromID="p11" fromText="Canadian authorities" toID="h25" toText="authorities" />
+<head_link id="he27" fromID="g11" fromText="Canadian" toID="h26" toText="Canadian" />
+<head_link id="he28" fromID="g12" fromText="the United States" toID="h27" toText="United States" />
+<head_link id="he29" fromID="p12" fromText="Greenhaw" toID="h28" toText="Greenhaw" />
+<head_link id="he30" fromID="g13" fromText="Canada" toID="h29" toText="Canada" />
+<head_link id="he31" fromID="o4" fromText="CBSA" toID="h30" toText="CBSA" />
+<head_link id="he32" fromID="g14" fromText="the United States" toID="h31" toText="United States" />
+<head_link id="he33" fromID="f0" fromText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="h32" toText="border crossing" />
+<head_link id="he6" fromID="f1" fromText="Rainbow Bridge" toID="h33" toText="Rainbow Bridge" />
+<head_link id="he34" fromID="g15" fromText="Niagara Falls, N.Y" toID="h34" toText="Niagara Falls" />
+<head_link id="he35" fromID="g16" fromText="N.Y" toID="h35" toText="N.Y" />
+<head_link id="he36" fromID="p13" fromText="his" toID="h36" toText="his" />
+<head_link id="he37" fromID="g17" fromText="the United States" toID="h37" toText="United States" />
+<head_link id="he38" fromID="p14" fromText="CBP officers" toID="h38" toText="officers" />
+<head_link id="he39" fromID="o5" fromText="CBP" toID="h39" toText="CBP" />
+<head_link id="he41" fromID="p15" fromText="Greenhaw" toID="h41" toText="Greenhaw" />
+<head_link id="he42" fromID="p16" fromText="Greenhaw" toID="h42" toText="Greenhaw" />
+<head_link id="he43" fromID="o6" fromText="CBP" toID="h43" toText="CBP" />
+<head_link id="he44" fromID="o7" fromText="the Niagara Falls Police Department" toID="h44" toText="Niagara Falls Police Department" />
+<head_link id="he45" fromID="g19" fromText="Florida" toID="h45" toText="Florida" />
+<head_link id="he46" fromID="g20" fromText="Osceola County that charges Greenhaw with cocaine possession" toID="h46" toText="Osceola County" />
+<head_link id="he47" fromID="g21" fromText="that" toID="h47" toText="that" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Buffalo" toID="n1" toText="Buffalo" />
+<name_link id="na2" fromID="g1" fromText="Niagara Falls, N.Y." toID="n2" toText="Niagara Falls" />
+<name_link id="na3" fromID="g2" fromText="N.Y." toID="n3" toText="N.Y." />
+<name_link id="na4" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="g3" fromText="U.S." toID="n5" toText="U.S." />
+<name_link id="na6" fromID="g4" fromText="Florida" toID="n6" toText="Florida" />
+<name_link id="na7" fromID="o2" fromText="CBP" toID="n7" toText="CBP" />
+<name_link id="na8" fromID="o3" fromText="Canada Border Services Agency" toID="n8" toText="Canada Border Services Agency" />
+<name_link id="na9" fromID="p5" fromText="Dennis Greenhaw" toID="n9" toText="Dennis Greenhaw" />
+<name_link id="na10" fromID="g5" fromText="United States" toID="n10" toText="United States" />
+<name_link id="na11" fromID="g6" fromText="Canada" toID="n11" toText="Canada" />
+<name_link id="na12" fromID="g7" fromText="the United States" toID="n12" toText="United States" />
+<name_link id="na13" fromID="p7" fromText="Greenhaw" toID="n13" toText="Greenhaw" />
+<name_link id="na14" fromID="g8" fromText="Canada" toID="n14" toText="Canada" />
+<name_link id="na15" fromID="g10" fromText="Canadian" toID="n15" toText="Canadian" />
+<name_link id="na16" fromID="g11" fromText="Canadian" toID="n16" toText="Canadian" />
+<name_link id="na17" fromID="g12" fromText="the United States" toID="n17" toText="United States" />
+<name_link id="na18" fromID="p12" fromText="Greenhaw" toID="n18" toText="Greenhaw" />
+<name_link id="na19" fromID="g13" fromText="Canada" toID="n19" toText="Canada" />
+<name_link id="na20" fromID="o4" fromText="CBSA" toID="n20" toText="CBSA" />
+<name_link id="na21" fromID="g14" fromText="the United States" toID="n21" toText="United States" />
+<name_link id="na22" fromID="f1" fromText="Rainbow Bridge" toID="n22" toText="Rainbow Bridge" />
+<name_link id="na23" fromID="g15" fromText="Niagara Falls, N.Y" toID="n23" toText="Niagara Falls" />
+<name_link id="na24" fromID="g16" fromText="N.Y" toID="n24" toText="N.Y" />
+<name_link id="na25" fromID="g17" fromText="the United States" toID="n25" toText="United States" />
+<name_link id="na26" fromID="o5" fromText="CBP" toID="n26" toText="CBP" />
+<name_link id="na28" fromID="p15" fromText="Greenhaw" toID="n28" toText="Greenhaw" />
+<name_link id="na29" fromID="p16" fromText="Greenhaw" toID="n29" toText="Greenhaw" />
+<name_link id="na30" fromID="o6" fromText="CBP" toID="n30" toText="CBP" />
+<name_link id="na31" fromID="o7" fromText="the Niagara Falls Police Department" toID="n31" toText="Niagara Falls Police Department" />
+<name_link id="na32" fromID="g19" fromText="Florida" toID="n32" toText="Florida" />
+<name_link id="na33" fromID="g20" fromText="Osceola County that charges Greenhaw with cocaine possession" toID="n33" toText="Osceola County" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers in Buffalo" toID="p0" toText="CBP Officers in Buffalo" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP Officers in Buffalo" toID="p0" toText="CBP Officers in Buffalo" />
+<relation_link1 id="r2" fromID="e1" fromText="U.S. Customs and Border Protection field operations officials" toID="p1" toText="U.S. Customs and Border Protection field operations officials" />
+<relation_link1 id="r3" fromID="e2" fromText="CBP officers" toID="p3" toText="CBP officers" />
+<relation_link1 id="r4" fromID="lo1" fromText="CBP officers received notification yesterday from Canada Border Services Agency that Dennis Greenhaw, a 28-year-old United States citizen, was being deported from Canada and returned to the United States" toID="p5" toText="Dennis Greenhaw" />
+<relation_link1 id="r5" fromID="lo2" fromText="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" toID="p7" toText="Greenhaw" />
+<relation_link1 id="r6" fromID="lo3" fromText="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" toID="p7" toText="Greenhaw" />
+<relation_link1 id="r7" fromID="lo4" fromText="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="p12" toText="Greenhaw" />
+<relation_link1 id="r8" fromID="lo5" fromText="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="p12" toText="Greenhaw" />
+<relation_link1 id="r9" fromID="lo6" fromText="his return to the United States" toID="p13" toText="his" />
+<relation_link1 id="r10" fromID="e4" fromText="CBP officers" toID="p14" toText="CBP officers" />
+<relation_link1 id="r11" fromID="C0" fromText="a U.S. citizen wanted in Florida on narcotics charges" toID="p2" toText="a U.S. citizen wanted in Florida on narcotics charges" />
+<relation_link1 id="r12" fromID="C1" fromText="a 28-year-old United States citizen" toID="p6" toText="a 28-year-old United States citizen" />
+<relation_link1 id="r13" fromID="e3" fromText="Canadian authorities" toID="p10" toText="Canadian authorities" />
+<relation_link1 id="r14" fromID="e5" fromText="Canadian authorities" toID="p11" toText="Canadian authorities" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers in Buffalo" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP Officers in Buffalo" toID="g0" toText="Buffalo" />
+<relation_link2 id="re2" fromID="e1" fromText="U.S. Customs and Border Protection field operations officials" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re3" fromID="e2" fromText="CBP officers" toID="o2" toText="CBP" />
+<relation_link2 id="re4" fromID="lo1" fromText="CBP officers received notification yesterday from Canada Border Services Agency that Dennis Greenhaw, a 28-year-old United States citizen, was being deported from Canada and returned to the United States" toID="g7" toText="the United States" />
+<relation_link2 id="re5" fromID="lo2" fromText="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" toID="g8" toText="Canada" />
+<relation_link2 id="re6" fromID="lo3" fromText="Greenhaw entered Canada in September of 2005 as a visitor and has remained there without legal status until he was arrested by Canadian authorities on an immigration violation" toID="g9" toText="there" />
+<relation_link2 id="re7" fromID="lo4" fromText="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="g14" toText="the United States" />
+<relation_link2 id="re8" fromID="lo5" fromText="Greenhaw was removed from Canada by CBSA yesterday and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="f0" toText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" />
+<relation_link2 id="re9" fromID="lo6" fromText="his return to the United States" toID="g17" toText="the United States" />
+<relation_link2 id="re10" fromID="e4" fromText="CBP officers" toID="o5" toText="CBP" />
+<relation_link2 id="re11" fromID="C0" fromText="a U.S. citizen wanted in Florida on narcotics charges" toID="g3" toText="U.S." />
+<relation_link2 id="re12" fromID="C1" fromText="a 28-year-old United States citizen" toID="g5" toText="United States" />
+<relation_link2 id="re13" fromID="e3" fromText="Canadian authorities" toID="g10" toText="Canadian" />
+<relation_link2 id="re14" fromID="e5" fromText="Canadian authorities" toID="g11" toText="Canadian" />
+</TAGS>
+</KddTask>

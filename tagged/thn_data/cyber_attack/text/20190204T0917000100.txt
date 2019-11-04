@@ -1,0 +1,18 @@
+First Hacker Convicted of 'SIM Swapping' Attack Gets 10 Years in Prison
+Swati Khandelwal
+
+A 20-year-old college student who stole cryptocurrency worth more than $5 million by hijacking victims' phone numbers has pleaded guilty and accepted a sentence of 10 years in prison.
+Ortiz was arrested last year on charges of siphoning millions of dollars in cryptocurrency from around 40 victims using a method commonly known as "SIM swapping," which typically involves fraudulently porting of the same number to a new SIM card belonging to the attacker.
+In SIM swapping, attackers social engineer a victim's mobile phone provider by making a phony call posing as their target and claiming that their SIM card has been lost and that they would like to request a SIM swap.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers attempt to convince the target's telecommunications company that they are the actual owner of the phone number they want to swap by providing required personal information on the target, like their SSNs and addresses, eventually tricking the telecoms to port the target's phone number over to a SIM card belonging to the attackers.
+Once successful, the attackers essentially gained access to their target's mobile phone number using which they can obtain one-time passwords, verification codes, and two-factor authentication in order to reset passwords for and gain access to target's social media, email, bank, and cryptocurrency accounts.
+SIM swapping has grown increasingly popular among cybercriminals over the past year and Joel Ortiz, a California man, is the first person to receive jail time for this crime, after pleading guilty to stealing more than $5 million in cryptocurrency from 40 victims, according to Motherboard.
+Rather than facing trials and severe consequences imposed by the jury, Ortiz chose to accept a plea deal for 10 years last week, according to Deputy District Director Eric West of Santa Clara County, California.
+However, the official sentencing of Ortiz is set to take place on March 14th.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+There are more pending cases in court wherein defendants stole millions of dollars worth of cryptocurrency using SIM swapping.
+One of the defendants named Dawson Bakies, accused of stealing the identities of and funds from more than 50 victims in the United States through SIM swapping has been indicted by Manhattan's District Attorney (DA).
+The 20-year-old Ohio man has been arrested and charged with identity theft, grand larceny, computer tampering and scheme to defraud, among other charges.
+Over the past year, federal authorities around the world have begun a crackdown on cryptocurrency related crime. A year ago, feds arrested a group of nuclear engineers in Russia after they were caught using supercomputers to mine Bitcoin.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

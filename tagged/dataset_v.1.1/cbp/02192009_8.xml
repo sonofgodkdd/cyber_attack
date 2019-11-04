@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP and ICE Donate $8.1 Million Worth of Shoes to Charity
+(Thursday, February 19, 2009)
+Los Angeles  - U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement donated 254,240 pairs of shoes to Samaritan's Feet and World Vision International, two non-profit charity organizations. The donations have an estimated domestic value of $8.1 million and a manufacturer's suggested retail price of $33 million.
+All of the shoes arrived in containers at the Los Angeles and Long Beach seaports and were seized for bearing counterfeit trademarks. "These seizures are the result of federal officials working together to intercept shipments containing counterfeit items to prevent them from reaching the U.S. consumers," said Kevin Weeks, CBP director of Los Angeles Field Operations.
+The legitimate trademark owner has agreed to allow the government to make the donation rather than destroying the shoes. "We are very proud to be able to donate these shoes to charity," Weeks added.
+In fiscal year 2008, CBP and ICE seized over $272.7 million worth of counterfeit items nationwide. Footwear was the top commodity with a domestic value of $102.3 million, which accounted for 38 percent of the entire value of goods seized.
+CBP is charged with enforcing trade laws and has devoted substantial resources to target, intercept, detain, seize and forfeit shipments of goods that violate these laws.
+Once federal forfeiture procedures are completed, seized items are donated to relief efforts and to charity, with the trademark owner's approval. Products that threaten the health and safety of American consumers are destroyed.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="596" end="731" text="federal officials working together to intercept shipments containing counterfeit items to prevent them from reaching the U.S. consumers" TYPE="BAR" />
+<person id="p1" start="713" end="731" text="the U.S. consumers" TYPE="NOM" />
+<person id="p2" start="739" end="796" text="Kevin Weeks, CBP director of Los Angeles Field Operations" TYPE="APP" />
+<person id="p3" start="739" end="750" text="Kevin Weeks" TYPE="NAM" />
+<person id="p4" start="752" end="796" text="CBP director of Los Angeles Field Operations" TYPE="BAR" />
+<person id="p7" start="984" end="989" text="Weeks" TYPE="NAM" />
+<person id="p8" start="1601" end="1619" text="American consumers" TYPE="BAR" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAM" />
+<organization id="o1" start="9" end="12" text="ICE" TYPE="NAM" />
+<organization id="o2" start="104" end="138" text="U.S. Customs and Border Protection" TYPE="NAM" />
+<organization id="o3" start="143" end="183" text="U.S. Immigration and Customs Enforcement" TYPE="NAM" />
+<organization id="o4" start="218" end="303" text="Samaritan's Feet and World Vision International, two non-profit charity organizations" TYPE="NAM" />
+<organization id="o5" start="218" end="303" text="Samaritan's Feet and World Vision International, two non-profit charity organizations" TYPE="NAM" />
+<organization id="o6" start="267" end="303" text="two non-profit charity organizations" TYPE="NOM" />
+<organization id="o7" start="372" end="386" text="a manufacturer" TYPE="NOM" />
+<organization id="o8" start="752" end="755" text="CBP" TYPE="NAMPRE" />
+<organization id="o9" start="798" end="828" text="The legitimate trademark owner" TYPE="NOM" />
+<organization id="o10" start="849" end="863" text="the government" TYPE="NOM" />
+<organization id="o11" start="920" end="922" text="We" TYPE="PRO" />
+<organization id="o12" start="1018" end="1021" text="CBP" TYPE="NAM" />
+<organization id="o13" start="1026" end="1029" text="ICE" TYPE="NAM" />
+<organization id="o14" start="1236" end="1239" text="CBP" TYPE="NAM" />
+<organization id="o15" start="1521" end="1540" text="the trademark owner" TYPE="NOM" />
+<geographical-political id="g0" start="89" end="100" text="Los Angeles" TYPE="NAM" />
+<geographical-political id="g1" start="717" end="721" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g2" start="768" end="779" text="Los Angeles" TYPE="NAMPRE" />
+<geographical-political id="g3" start="1601" end="1609" text="American" TYPE="NAMPRE" />
+<falicity id="f0" start="470" end="509" text="the Los Angeles and Long Beach seaports" TYPE="NAM" />
+<falicity id="f1" start="470" end="509" text="the Los Angeles and Long Beach seaports" TYPE="NAM" />
+<head id="h0" start="1" end="4" text="CBP" />
+<head id="h1" start="9" end="12" text="ICE" />
+<head id="h2" start="89" end="100" text="Los Angeles" />
+<head id="h3" start="104" end="138" text="U.S. Customs and Border Protection" />
+<head id="h4" start="143" end="183" text="U.S. Immigration and Customs Enforcement" />
+<head id="h5" start="218" end="234" text="Samaritan's Feet" />
+<head id="h6" start="239" end="265" text="World Vision International" />
+<head id="h7" start="290" end="303" text="organizations" />
+<head id="h8" start="374" end="386" text="manufacturer" />
+<head id="h9" start="474" end="485" text="Los Angeles" />
+<head id="h10" start="490" end="509" text="Long Beach seaports" />
+<head id="h11" start="604" end="613" text="officials" />
+<head id="h12" start="722" end="731" text="consumers" />
+<head id="h13" start="717" end="721" text="U.S." />
+<head id="h14" start="739" end="750" text="Kevin Weeks" />
+<head id="h15" start="756" end="764" text="director" />
+<head id="h16" start="752" end="755" text="CBP" />
+<head id="h17" start="768" end="779" text="Los Angeles" />
+<head id="h18" start="823" end="828" text="owner" />
+<head id="h19" start="853" end="863" text="government" />
+<head id="h20" start="920" end="922" text="We" />
+<head id="h21" start="984" end="989" text="Weeks" />
+<head id="h22" start="1018" end="1021" text="CBP" />
+<head id="h23" start="1026" end="1029" text="ICE" />
+<head id="h24" start="1236" end="1239" text="CBP" />
+<head id="h26" start="1535" end="1540" text="owner" />
+<head id="h27" start="1610" end="1619" text="consumers" />
+<head id="h28" start="1601" end="1609" text="American" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="9" end="12" text="ICE" />
+<name id="n2" start="89" end="100" text="Los Angeles" />
+<name id="n3" start="104" end="138" text="U.S. Customs and Border Protection" />
+<name id="n4" start="143" end="183" text="U.S. Immigration and Customs Enforcement" />
+<name id="n5" start="218" end="234" text="Samaritan's Feet" />
+<name id="n6" start="239" end="265" text="World Vision International" />
+<name id="n7" start="474" end="485" text="Los Angeles" />
+<name id="n8" start="490" end="509" text="Long Beach seaports" />
+<name id="n9" start="717" end="721" text="U.S." />
+<name id="n10" start="739" end="750" text="Kevin Weeks" />
+<name id="n11" start="752" end="755" text="CBP" />
+<name id="n12" start="768" end="779" text="Los Angeles" />
+<name id="n13" start="984" end="989" text="Weeks" />
+<name id="n14" start="1018" end="1021" text="CBP" />
+<name id="n15" start="1026" end="1029" text="ICE" />
+<name id="n16" start="1236" end="1239" text="CBP" />
+<name id="n17" start="1601" end="1609" text="American" />
+<located-mention id="lo0" start="752" end="796" text="CBP director of Los Angeles Field Operations" TYPE="Preposition" />
+<employment-mention id="e0" start="752" end="796" text="CBP director of Los Angeles Field Operations" TYPE="PreMod" />
+<CRRE id="C0" start="1601" end="1619" text="American consumers" TYPE="PreMod" />
+<CRRE id="C1" start="713" end="731" text="the U.S. consumers" TYPE="PreMod" />
+<entity_link id="en0" fromID="o2" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en1" fromID="o3" fromText="U.S. Immigration and Customs Enforcement" toID="o1" toText="ICE" />
+<entity_link id="en2" fromID="p3" fromText="Kevin Weeks" toID="p2" toText="Kevin Weeks, CBP director of Los Angeles Field Operations" />
+<entity_link id="en3" fromID="p4" fromText="CBP director of Los Angeles Field Operations" toID="p3" toText="Kevin Weeks" />
+<entity_link id="en4" fromID="o8" fromText="CBP" toID="o2" toText="U.S. Customs and Border Protection" />
+<entity_link id="en5" fromID="g2" fromText="Los Angeles" toID="g0" toText="Los Angeles" />
+<entity_link id="en6" fromID="o11" fromText="We" toID="o8" toText="CBP" />
+<entity_link id="en7" fromID="o12" fromText="CBP" toID="o8" toText="CBP" />
+<entity_link id="en8" fromID="o13" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement" />
+<entity_link id="en9" fromID="o14" fromText="CBP" toID="o12" toText="CBP" />
+<entity_link id="en10" fromID="p8" fromText="American consumers" toID="p1" toText="the U.S. consumers" />
+<entity_link id="en11" fromID="g3" fromText="American" toID="g1" toText="U.S." />
+<entity_link id="en12" fromID="p7" fromText="Weeks" toID="p3" toText="Kevin Weeks" />
+<head_link id="he0" fromID="o0" fromText="CBP" toID="h0" toText="CBP" />
+<head_link id="he1" fromID="o1" fromText="ICE" toID="h1" toText="ICE" />
+<head_link id="he2" fromID="g0" fromText="Los Angeles" toID="h2" toText="Los Angeles" />
+<head_link id="he3" fromID="o2" fromText="U.S. Customs and Border Protection" toID="h3" toText="U.S. Customs and Border Protection" />
+<head_link id="he4" fromID="o3" fromText="U.S. Immigration and Customs Enforcement" toID="h4" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he5" fromID="o4" fromText="Samaritan's Feet and World Vision International, two non-profit charity organizations" toID="h5" toText="Samaritan's Feet" />
+<head_link id="he6" fromID="o5" fromText="Samaritan's Feet and World Vision International, two non-profit charity organizations" toID="h6" toText="World Vision International" />
+<head_link id="he7" fromID="o6" fromText="two non-profit charity organizations" toID="h7" toText="organizations" />
+<head_link id="he9" fromID="o7" fromText="a manufacturer" toID="h8" toText="manufacturer" />
+<head_link id="he10" fromID="f0" fromText="the Los Angeles and Long Beach seaports" toID="h9" toText="Los Angeles" />
+<head_link id="he11" fromID="f1" fromText="the Los Angeles and Long Beach seaports" toID="h10" toText="Long Beach seaports" />
+<head_link id="he12" fromID="p0" fromText="federal officials working together to intercept shipments containing counterfeit items to prevent them from reaching the U.S. consumers" toID="h11" toText="officials" />
+<head_link id="he13" fromID="p1" fromText="the U.S. consumers" toID="h12" toText="consumers" />
+<head_link id="he14" fromID="g1" fromText="U.S." toID="h13" toText="U.S." />
+<head_link id="he15" fromID="p3" fromText="Kevin Weeks" toID="h14" toText="Kevin Weeks" />
+<head_link id="he16" fromID="p4" fromText="CBP director of Los Angeles Field Operations" toID="h15" toText="director" />
+<head_link id="he17" fromID="o8" fromText="CBP" toID="h16" toText="CBP" />
+<head_link id="he18" fromID="g2" fromText="Los Angeles" toID="h17" toText="Los Angeles" />
+<head_link id="he19" fromID="o9" fromText="The legitimate trademark owner" toID="h18" toText="owner" />
+<head_link id="he20" fromID="o10" fromText="the government" toID="h19" toText="government" />
+<head_link id="he21" fromID="o11" fromText="We" toID="h20" toText="We" />
+<head_link id="he22" fromID="p7" fromText="Weeks" toID="h21" toText="Weeks" />
+<head_link id="he23" fromID="o12" fromText="CBP" toID="h22" toText="CBP" />
+<head_link id="he24" fromID="o13" fromText="ICE" toID="h23" toText="ICE" />
+<head_link id="he25" fromID="o14" fromText="CBP" toID="h24" toText="CBP" />
+<head_link id="he26" fromID="o15" fromText="the trademark owner" toID="h26" toText="owner" />
+<head_link id="he27" fromID="p8" fromText="American consumers" toID="h27" toText="consumers" />
+<head_link id="he28" fromID="g3" fromText="American" toID="h28" toText="American" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="o1" fromText="ICE" toID="n1" toText="ICE" />
+<name_link id="na2" fromID="g0" fromText="Los Angeles" toID="n2" toText="Los Angeles" />
+<name_link id="na3" fromID="o2" fromText="U.S. Customs and Border Protection" toID="n3" toText="U.S. Customs and Border Protection" />
+<name_link id="na4" fromID="o3" fromText="U.S. Immigration and Customs Enforcement" toID="n4" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na5" fromID="o4" fromText="Samaritan's Feet and World Vision International, two non-profit charity organizations" toID="n5" toText="Samaritan's Feet" />
+<name_link id="na6" fromID="o5" fromText="Samaritan's Feet and World Vision International, two non-profit charity organizations" toID="n6" toText="World Vision International" />
+<name_link id="na7" fromID="f0" fromText="the Los Angeles and Long Beach seaports" toID="n7" toText="Los Angeles" />
+<name_link id="na8" fromID="f1" fromText="the Los Angeles and Long Beach seaports" toID="n8" toText="Long Beach seaports" />
+<name_link id="na9" fromID="g1" fromText="U.S." toID="n9" toText="U.S." />
+<name_link id="na10" fromID="p3" fromText="Kevin Weeks" toID="n10" toText="Kevin Weeks" />
+<name_link id="na11" fromID="o8" fromText="CBP" toID="n11" toText="CBP" />
+<name_link id="na12" fromID="g2" fromText="Los Angeles" toID="n12" toText="Los Angeles" />
+<name_link id="na13" fromID="p7" fromText="Weeks" toID="n13" toText="Weeks" />
+<name_link id="na14" fromID="o12" fromText="CBP" toID="n14" toText="CBP" />
+<name_link id="na15" fromID="o13" fromText="ICE" toID="n15" toText="ICE" />
+<name_link id="na16" fromID="o14" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na17" fromID="g3" fromText="American" toID="n17" toText="American" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP director of Los Angeles Field Operations" toID="p4" toText="CBP director of Los Angeles Field Operations" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP director of Los Angeles Field Operations" toID="p4" toText="CBP director of Los Angeles Field Operations" />
+<relation_link1 id="r2" fromID="C0" fromText="American consumers" toID="p8" toText="American consumers" />
+<relation_link1 id="r3" fromID="C1" fromText="the U.S. consumers" toID="p1" toText="the U.S. consumers" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP director of Los Angeles Field Operations" toID="o8" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP director of Los Angeles Field Operations" toID="g2" toText="Los Angeles" />
+<relation_link2 id="re2" fromID="C0" fromText="American consumers" toID="g3" toText="American" />
+<relation_link2 id="re3" fromID="C1" fromText="the U.S. consumers" toID="g1" toText="U.S." />
+</TAGS>
+</KddTask>

@@ -1,0 +1,27 @@
+Here's the NSA Employee Who Kept Top Secret Documents at Home 
+Swati Khandelwal
+
+A former employee—who worked for an elite hacking group operated by the U.S. National Security Agency—pleaded guilty on Friday to illegally taking classified documents home, which were later stolen by Russian hackers.
+In a press release published Friday, the US Justice Department announced that Nghia Hoang Pho, a 67-year-old of Ellicott City, Maryland, took documents that contained top-secret national information from the agency between 2010 and 2015.
+Pho, who worked as a developer for the Tailored Access Operations (TAO) hacking group at the NSA, reportedly moved the stolen classified documents and tools to his personal Windows computer at home, which was running Kaspersky Lab software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to authorities, the Kaspersky Labs' antivirus software was allegedly used, one way or another, by Russian hackers to steal top-secret NSA documents and hacking exploits from Pho's home PC in 2015.
+"Beginning in 2010 and continuing through March 2015, Pho removed and retained U.S. government documents and writings that contained national defense information, including information classified as Top Secret and Sensitive Compartmented Information," the DoJ said in disclosing Pho's guilty plea. 
+"This material was in both hard-copy and digital form, and was retained in Pho’s residence in Maryland."
+For those unaware, the U.S. Department of Homeland Security (DHS) has even banned Kaspersky Labs' antivirus software from all of its government computers over suspicion of the company's involvement with the Russian intelligence agency and spying fears.
+Kaspersky CEO Says He Would Leave If Russia Asked Him To Spy
+Though there's no substantial evidence yet available, an article published by US news agency WSJ in October claimed that Kaspersky software helped Russian spies steal highly classified documents and hacking tools belonging to the NSA in 2015 from a staffer's home PC.
+However, Kaspersky Labs has denied any direct involvement with the Russian spies in the alleged incident.
+Just last month, Kaspersky claimed that its antivirus package running on the Pho's home PC detected the copies of the NSA exploits as malicious software, and uploaded them to its cloud for further analysis by its team of researchers.
+According to the company, as soon as its analysts realized that its antivirus had collected more than malicious binaries, the company immediately deleted the copy of the classified documents, and also created a special software tweak, preventing those files from being downloaded again.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Even, when asked if Russian intel agency had ever asked him to help it spy on the West at a media briefing at the Kaspersky's offices in London on Tuesday, CEO Eugene Kaspersky said "They have never asked us to spy on people. Never."
+Kaspersky further added that "If the Russian government comes to me and asks me to anything wrong, or my employees, I will move the business out of Russia."
+NSA Hacker Faces A Prison Sentence Of Up To 10 Years
+In Pho's plea deal with prosecutors, the NSA hacker admitted that he copied information from NSA computers multiple times between 2010 and 2015 and took it all home with him.
+Taking classified documents at home is a clear violation of known security procedures—and in this process, Pho eventually exposed the top secret information to Russian spies.
+Pho has pleaded guilty in a United States district court in Baltimore to one count of willful removal and retention of national defense information, with no other charges filed against him and there's no mention of Pho selling or passing off that confidential data.
+The retention of national defense information offense carries a possible 10-year prison sentence.
+Federal prosecutors said they would seek an eight-year sentence for Mr. Pho. However, his attorney can ask for a more lenient sentence.
+Pho remains free while awaiting sentencing on 6th April next year.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,29 @@
+DDoS Attacks originated from thousands of .EDU and .GOV WordPress Blogs
+Mohit Kumar
+In a recent cyber attack on a Forum site, thousands of outdated legitimate WordPress blogs were abused to perform DDOS attacks using previously known vulnerabilities.
+After analyzing the Log file from the victim's server, we have noticed many Wordpress CMS based educational (.EDU) and Government (.GOV) websites from where the attack was originated.  (adsbygoogle = window.adsbygoogle || []).push({}); In the past we have reported about many such cyber attacks, where attackers hacked into the Wordpress blogs using password brute-force attack or they used the PINGBACK vulnerability in older versions of Wordpress without compromising the server.
+WordPress has a built in functionality called Pingback, which allows anyone to initiate a request from WordPress to an arbitrary site and it can be used for a single machine to originate millions of requests from multiple locations.
+We have seen more than 100,000 IP addresses involved in the recent DDOS attack and the victim's Forum website received more than 40,000 requests in 7 minutes from different Wordpress blogs and IP addresses.
+In this recent attack, we have noticed more than 4000 .EDU and .GOV sites along with thousands of other abused sites, including following:open.nasa.gov
+oversight.house.gov
+digitalbusiness.gov.au
+pilr.blogs.law.pace.edu
+itp.nyu.edu/~mlt324/MattTsBlog
+cctevents.creighton.edu
+tech.journalism.cuny.edu
+languagelog.ldc.upenn.edu/nll
+researchcenter.journalism.cuny.edu
+testkitchen.colorado.edu
+smartpyme.blogs.uoc.edu
+journalism.cuny.edu
+blogs.ei.columbia.edu
+cctevents.creighton.edu
+admissions.vanderbilt.edu/vandybloggers
+erb.umich.edu
+metalab.harvard.edu
+greenlaw.blogs.law.pace.edu
+and thousands more..
+These large servers can cause much more damage in DDoS attacks because the servers have the large network bandwidth and are capable of generating significant amounts of traffic.
+At this time it's not clear that either these Wordpress blogs are compromised or the Pingback vulnerability was used to perform the attack.
+But It’s always wise to learn from other’s mistake. If you still use 'admin' or common name as a user name on your blog, change it, use a strong password. There are also security plug-ins available, two-factor authentication options available for WordPress and of course make sure you are up-to-date on the latest version of WordPress.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

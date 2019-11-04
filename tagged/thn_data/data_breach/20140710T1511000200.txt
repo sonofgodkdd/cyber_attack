@@ -1,0 +1,14 @@
+Chinese Hackers Broke into the Database of U.S. Federal Employees
+Swati Khandelwal
+
+Chinese hackers broke into the computer systems of United States government agency that keeps the personal information of all federal employees, according to the paper published in the New York Times.
+The attack occurred on the Office of Personnel Management and Senior American officials believe that the attackers successfully gained access to some of the agency’s databases in March before the federal authorities detected the threat and blocked them from the network.
+The hackers targeted the files of tens of thousands of federal employees who have applied for top-secret security clearances, the newspaper reported.
+“The intrusion at the Office of Personnel Management was particularly disturbing because it oversees a system called e-QIP, in which federal employees applying for security clearances enter their most personal information, including financial data. Federal employees who have had security clearances for some time are often required to update their personal information through the website,” states the New York Times.
+Until now, it is not clear how far the hackers were able to infiltrate the networks of the US Office of Personnel Management. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But the databases they managed to hack include information such as employment records, people seeking security clearance list their foreign contacts, previous jobs and personal data like past drug use etc, which all could be at risk.
+In response to this matter, a senior Department of Homeland Security official confirmed that the attack had occurred but said that “at this time,” neither the personnel agency nor Homeland Security had “identified any loss of personally identifiable information.” The official said an emergency response team was assigned and handled over the matter “to assess and mitigate any risks identified.”
+Again it started a cold war between China and the United States, because according to the senior US officials, the attack was traced to China. But yet it is unclear if the hackers belonged to the government.
+Where China said that it faces a major threat from hackers, accused the NSA and U.S. Cyber Command for targeting Chinese politicians and military. The United States recently charged five Chinese military officials for carrying out cyber espionage against several American companies and stealing sensitive data by breaking into corporate systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,17 @@
+WikiLeaks Reveals 'Marble' Source Code that CIA Used to Frame Russia and China
+Mohit Kumar
+
+WikiLeaks published hundreds of more files from the Vault 7 series today which, it claims, show how CIA can mask its hacking attacks to make it look like it came from other countries, including Russia, China, North Korea and Iran.
+Dubbed "Marble," the part 3 of CIA files contains 676 source code files of a secret anti-forensic Marble Framework, which is basically an obfuscator or a packer used to hide the true source of CIA malware.
+The CIA's Marble Framework tool includes a variety of different algorithm with foreign language text intentionally inserted into the malware source code to fool security analysts and falsely attribute attacks to the wrong nation.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The leaked files indicate that the Marble's source code includes Chinese, Russian, Korean, Arabic and Farsi languages, as well as English, which shows that the CIA has engaged in clever hacking games.
+"Marble is used to hamper[ing] forensic investigators and anti-virus companies from attributing viruses, trojans and hacking attacks to the CIA," says the whistleblowing site.
+"...for example by pretending that the spoken language of the malware creator was not American English, but Chinese, but then showing attempts to conceal the use of Chinese, drawing forensic investigators even more strongly to the wrong conclusion," WikiLeaks explains.
+The released source code archive also contains a deobfuscator to reverse CIA text obfuscation.
+Since the Marble framework has now been made public, forensic investigators and anti-virus firms would be able to connect patterns and missing dots in order to reveal wrongly attributed previous cyber attacks and viruses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So far, Wikileaks has revealed the "Year Zero" batch which uncovered CIA hacking exploits for and security bugs in popular hardware and software, and the "Dark Matter" batch which focused on exploits and hacking techniques the agency designed to target iPhones and Macs.
+While WikiLeaks suggests that Marble was in use as recently as 2016, the organization does not provide any evidence to back this claim. Experts are still analyzing the Marble release, so there's no need to get too excited at this moment.
+The White House has condemned the revelations made by Wikileaks, saying that those responsible for leaking classified information from the agency should be held accountable by the law.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,21 @@
+Imgur—Popular Image Sharing Site Was Hacked In 2014; Passwords Compromised
+Swati Khandelwal
+
+Only after a few days of Uber admitting last year's data breach of 57 million customers, the popular image sharing site disclosed that it had suffered a major data breach in 2014 that compromised email addresses and passwords of 1.7 million user accounts.
+In a blog post published on Friday, Imgur claimed that the company had been notified of a three-year-old data breach on November 23 when a security researcher emailed the company after being sent the stolen data.
+Imgur Chief Operating Officer (COO) then alerted the company's founder and the Vice President of Engineering to the issue before began working to validate that the data belonged to Imgur users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After completing the data validation, the company confirmed Friday morning that the 2014 data breach impacted approximately 1.7 million Imgur user accounts (a small fraction of its 150 million user base) and that the compromised information included only email addresses and passwords.
+Since Imgur has never asked for people's real names, phone numbers, addresses, or any other personally-identifying information (PII), no other personal information was allegedly exposed in the data breach.
+The company also said that the stolen passwords were scrambled with older SHA-256 hashing algorithm—which can be easily cracked using brute force attacks.
+However, Imgur's COO Roy Sehgal said the website had already moved from SHA-256 to much stronger bcrypt password scrambler last year.
+"We have always encrypted your password in our database, but it may have been cracked with brute force due to an older hashing algorithm (SHA-256) that was used at the time," the image sharing service said. "We updated our algorithm to the new bcrypt algorithm last year."
+The company has begun notifying affected users along with enforcing a password change.
+Moreover, those using the same email address and password combination across multiple sites and applications are also advised to change those details as well.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It's still unknown how this incident occurred and went unnoticed for roughly three years. Imgur is still actively investigating the hacking intrusion and will be sharing details as soon as they become available.
+Security expert Troy Hunt who notified Imgur of the incident praised the company for its swift response to the breach notification and disclosure of the data breach.
+"I want to recognise @imgur's exemplary handling of this: that's 25 hours and 10 mins from my initial email to a press address to them mobilising people over Thanksgiving, assessing the data, beginning password resets and making a public disclosure. Kudos!" Hunt tweeted. 
+"This is really where we're at now: people recognise that data breaches are the new normal and they're judging organizations not on the fact that they've had one, but on how they've handled it when it happened."
+Imgur is yet another company in a series of security breaches that took place years ago but have only come to light in 2017. Other companies revealing previously-occurred major breaches years after included Yahoo, Uber, LinkedIn, Disqus, and MySpace.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

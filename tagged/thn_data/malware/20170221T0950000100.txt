@@ -1,0 +1,36 @@
+Malware Hijacks Microphones to Spy On Ukrainian Businesses, Scientists and Media
+Swati Khandelwal
+Ukraine has once again been a target of a potential hacking attack that infected computer systems from dozens of Ukrainian businesses with highly sophisticated malware, allowing hackers to exfiltrate sensitive data and eavesdrop on their network.
+Late last year, the country also suffered a power outage caused by the same group of hackers that targeted Ukraine's power grid with the BlackEnergy malware in late 2015, causing 225,000 residents to lose electricity.
+Now security researchers from threat intelligence firm CyberX have uncovered an advanced malware-based operation that has already siphoned over 600 gigabytes of data from about 70 victim organizations, including critical infrastructure, news media, and scientific research.
+Operation BugDrop: Damages and Modus Operandi
+Dubbed "Operation BugDrop," the large-scale malware campaign has been perpetrated against targets in the Ukraine, though targets from other countries include Russia, Saudi Arabia, and Austria.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+CyberX researchers did not identify the clandestine hacking collective but said Operation BugDrop was believed to be the work of highly skilled, government-backed nation-state hackers with nearly limitless resources.
+"Operation BugDrop is a well-organized operation that employs sophisticated malware and appears to be backed by an organization with substantial resources," reads the CyberX blog post published Wednesday. "In particular, the operation requires a massive back-end infrastructure to store, decrypt, and analyze several GB per day of unstructured data that is being captured from its targets. A large team of human analysts is also required to manually sort through captured data and process it manually and/or with Big Data-like analytics."Here's What the Malware Does:
+Operation BugDrop uses sophisticated malware that has been designed to infiltrate the victim's computer and capture screen shots, documents, and passwords, and turn on the PC's microphone to capture audio recordings of all conversations. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The mysterious hacking group infects victims using malicious Microsoft Word documents sent in phishing emails. Once infected, the compromised PCs send the pilfered audio and data to Dropbox, where the hackers retrieve it.
+Since the malware uses PC microphones to bug targets and then send the audio and other data files to Dropbox, the researchers have dubbed the malware campaign Operation BugDrop.
+Here's How BugDrop Work:The hackers spread the malware through phishing emails containing Microsoft Office file attachments that include malicious macros embedded in it.
+Once the targets open the malware-laden Word document, the hidden, malicious Visual Basic scripts start running in a temporary folder in the background.
+The main module of BugDrop downloads the various data-stealing plugins to infected machines and executes them. All the stolen data the malware collects is then uploaded to Dropbox.
+Although BugDrop has mainly been designed to record audio files, the malware can also steal the documents, password and other sensitive data from the computer's browsers.
+Techniques BugDrop Use to Avoid Detection:
+The main malware downloader has low detection rates as:
+The malware makes the audio data look like legitimate outgoing traffic.
+BugDrop encrypts the DLLs that are installed to avoid detection by traditional anti-virus and sandboxing systems.
+The malware uses public cloud service Dropbox.
+BugDrop also uses Reflective DLL (Dynamic Link Library) Injection, a malware injection technique that had also been leveraged by the BlackEnergy malware used in the Ukrainian power grid attacks and the Duqu malware in the Stuxnet attacks on Iranian nuclear facilities.
+Reflective DLL Injection is used to load malicious code and effectively sidestep security verification procedures without calling the standard Windows API.
+Targets of BugDrop:
+The malware has targeted a wide range of industries including critical infrastructures, research centers in Ukraine and media organizations.
+According to CyberX, BugDrop's primary target has been Ukraine, but it has also been traced to other parts of Russia, Saudi Arabia, and Austria.
+Operation BugDrop targets identified by the CyberX researchers so far include:
+A firm that designs remote monitoring systems for oil and gas pipeline infrastructures.
+An engineering firm that designs electrical substations, water supply plants and gas distribution pipelines.
+An international organization that monitors counter-terrorism, human rights, and cyber attacks on critical infrastructure in the Ukraine.
+A scientific research institute.
+Editors of Ukrainian newspapers.
+While concluding the report, CyberX said both private and public sector organizations need to be more vigilant in monitoring their networks and applying more modern technologies like behavioral analytics to identify and quickly respond to these increasingly sophisticated cyber attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

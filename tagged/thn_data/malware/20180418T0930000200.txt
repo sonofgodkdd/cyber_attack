@@ -1,0 +1,29 @@
+CCleaner Attack Timeline—Here's How Hackers Infected 2.3 Million PCs
+Swati Khandelwal
+
+Last year, the popular system cleanup software CCleaner suffered a massive supply-chain malware attack of all times, wherein hackers compromised the company's servers for more than a month and replaced the original version of the software with the malicious one.
+The malware attack infected over 2.3 million users who downloaded or updated their CCleaner app between August and September last year from the official website with the backdoored version of the software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, it turns out that the hackers managed to infiltrate the company's network almost five months before they first replaced the official CCleaner build with the backdoored version, revealed Avast executive VP and CTO Ondrej Vlcek at the RSA security conference in San Francisco on Tuesday.
+6-Months Timeline of CCleaner Supply Chain Attack
+Vlcek shared a brief timeline of the last year's incident that came out to be the worst nightmare for the company, detailing how and when unknown hackers breached Piriform, the company that created CCleaner and was acquired by Avast in July 2017.
+March 11, 2017 (5 AM local time)—Attackers first accessed an unattended workstation of one of the CCleaner developers, which was connected to Piriform network, using remote support software TeamViewer.
+The company believes attackers reused the developer's credentials obtained from previous data breaches to access the TeamViewer account and managed to install malware using VBScript on the third attempt.
+March 12, 2017 (4 AM local time)—Using the first machine, attackers penetrated into the second unattended computer connected to the same network and opened a backdoor through Windows RDP (Remote Desktop Service) protocol.
+Using RDP access, the attackers dropped a binary and a malicious payload—a second stage malware (older version) that was later delivered to 40 CCleaner users—on the target computer's registry.
+March 14, 2017—Attackers infected the first computer with the older version of the second stage malware as well.
+April 4, 2017—Attackers compiled a customised version of ShadowPad, an infamous backdoor that allows attackers to download further malicious modules or steal data, and this payload the company believes was the third stage of the CCleaner attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+April 12, 2017—A few days later, attackers installed the 3rd stage payload on four computers in the Piriform network (as a mscoree.dll library) and a build server (as a .NET runtime library).
+Between mid-April and July—During this period, the attackers prepared the malicious version of CCleaner, and tried to infiltrate other computers in the internal network by installing a keylogger on already compromised systems to steal credentials, and logging in with administrative privileges through RDP.
+July 18, 2017—Security company Avast acquired Piriform, the UK-based software development company behind CCleaner with more than 2 billion downloads.
+August 2, 2017—Attackers replaced the original version of CCleaner software from its official website with their backdoored version of CCleaner, which was distributed to millions of users.
+September 13, 2017—Researchers at Cisco Talos detected the malicious version of the software, which was being distributed through the company's official website for more than a month, and notified Avast immediately.
+The malicious version of CCleaner had a multi-stage malware payload designed to steal data from infected computers and send it back to an attacker-controlled command-and-control server.
+Although Avast, with the help of the FBI, was able to shut down the attackers' command-and-control server within three days of being notified of the incident, the malicious CCleaner software had already been downloaded by 2.27 million users.
+Moreover, it was found that the attackers were then able to install a second-stage payload on 40 selected computers operated by major international technology companies, including Google, Microsoft, Cisco, Intel, Samsung, Sony, HTC, Linksys, D-Link, Akamai and VMware.
+However, the company has no proofs if the third stage payload with ShadowPad was distributed to any of these targets.
+"Our investigation revealed that ShadowPad had been previously used in South Korea, and in Russia, where attackers intruded a computer, observing a money transfer." Avast said.
+"The oldest malicious executable used in the Russian attack was built in 2014, which means the group behind it might have been spying for years."
+Based on their analysis of the ShadowPad executable from the Piriform network, Avast believes that the malicious attackers behind the malware have been active for a long time, spying on institutions and organizations so thoroughly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,15 @@
+Finland's Ministry of Foreign Affairs networks hit by sophisticated Malware attack
+Mohit Kumar
+
+Finnish commercial broadcaster MTV3 reports that the Finnish Ministry of Foreign Affair networks has been targeted in a four-year-long cyber espionage operation.
+Finland's foreign minister said, "I can confirm there has been a severe and large hacking in the ministry's data network,"
+A large scale spying attack targeted the communications between Finland and the European Union using  a malware, similar to, and more sophisticated than Red October. The breach was uncovered during the early part of this year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+MTV3 also mentioned that the breach was not discovered by the Finns themselves, but from a foreign tip-off reported to CERT.FI. Further the Finnish authorities kept the information under wraps for continuing the forensics.
+There are indications that information with the lowest level security classification has been compromised, he said.
+In January, 2013, we had reported about Red October Cyber-espionage operation that targeted the computer networks of various international diplomatic service agencies. According security experts from Kaspersky Lab, the cyber-espionage campaign was started since 2007 and is still active.
+It is possible that Red October has been just one campaign from the same actor, and there could be others that haven't been discovered yet. 
+According to experts, Red October's exploits appear to have Chinese origins, whereas the malware modules may have a Russian background. So if this Finnish malware attack somewhere linked to Red October, then Russia and China are suspected of responsibility for the snooping. 
+Red October malware was sent via a spear-phishing email and has been tempting its targets into letting it exploit a number of relatively minor security vulnerabilities in programs such as Microsoft's Excel and Word, as well as poisoned PDFs and Java exploits.
+Besides Finland, other countries could be the victim of the same attack. The Finnish Security Intelligence Service is investigating the matter. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

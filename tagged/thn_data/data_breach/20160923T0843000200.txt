@@ -1,0 +1,22 @@
+Yahoo Confirms 500 Million Accounts Were Hacked by 'State Sponsored' Hackers
+Mohit Kumar
+500 million accounts — that's half a Billion users!
+That's how many Yahoo accounts were compromised in a massive data breach dating back to 2014 by what was believed to be a "state sponsored" hacking group.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Over a month ago, a hacker was found to be selling login information related to 200 million Yahoo accounts on the Dark Web, although Yahoo acknowledged that the breach was much worse than initially expected.
+"A recent investigation by Yahoo! Inc. has confirmed that a copy of certain user account information was stolen from the company's network in late 2014 by what it believes is a state-sponsored actor," reads the statement.
+Yahoo is investigating the breach with law enforcement agency and currently believes that users' names, email addresses, dates of birth, phone numbers, passwords, and in some cases, encrypted and unencrypted security questions-answers were stolen from millions of Yahoo users.
+However, the company does not believe the stolen information includes credit card information or any bank details of the affected users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yahoo has been criticized for its slow response to the data breach, but it is now in the process of notifying affected customers via emails and asking them to change their passwords, as well as security questions.
+At this moment Yahoo did not provide any evidence on why it believed the breach was work of state-sponsored hackers.
+Despite millions of people affected by the breach, the biggest victim here seems to be Yahoo itself.
+The data breach reports come just as the company is trying to negotiate a deal to sell itself to Verizon for $4.8 Billion. So, if the breach reports negatively impact its share price, even for the time being, it could cost the company and its shareholders a slice of its buyout value.
+Over past few months, a large number of data breaches have been reported to plague companies like LinkedIn, MySpace, Tumblr, and VK.com as hackers put up for sale massive data dumps of user credentials stolen earlier in the decade.
+Change your Password and Use Password Manager
+Needless to say, users should immediately change their Yahoo account password. The company will also be prompting anyone who hasn't changed their password since 2014 to do so now.
+"Additionally, Yahoo asks users to consider using Yahoo Account Key, a simple authentication tool that eliminates the need to use a password altogether," Yahoo suggests.Also make sure that you also change your passwords on other online accounts if they use the same password, and enable two-factor authentication for online accounts immediately.
+And once again, a strong recommendation: Don't reuse passwords.
+If you are unable to remember different passwords for each site, you can adopt a good password manager that allows you to create complex passwords for various sites as well as remember them for you.
+We have recently listed some best password managers that could help you understand the importance of password managers and help you choose a suitable one, according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

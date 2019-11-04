@@ -1,0 +1,23 @@
+Hostinger Suffers Data Breach – Resets Password For 14 Million Users
+Swati Khandelwal
+
+Popular web hosting provider Hostinger has been hit by a massive data breach, as a result of which the company has reset passwords for all customers as a precautionary measure.
+In a blog post published on Sunday, Hostinger revealed that "an unauthorized third party" breached one of its servers and gained access to "hashed passwords and other non-financial data" associated with its millions of customers.
+The incident occurred on August 23 when unknown hackers found an authorization token on one of the company's servers and used it to gain access to an internal system API, without requiring any username and password.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Immediately after the breach discovery, Hostinger restricted the vulnerable system, making this access no longer available, and contacted the respective authorities.
+"On August 23rd, 2019 we have received informational alerts that one of our servers has been accessed by an unauthorized third party," Hostinger said.
+"This server contained an authorization token, which was used to obtain further access and escalate privileges to our system RESTful API Server*. This API Server* is used to query the details about our clients and their accounts."
+The API database hosts personal information of nearly 14 million Hostinger customers, including their usernames, emails, hashed passwords, first names, and IP addresses, which have been accessed by hackers.
+Breach Affects Over Half of Hostinger's User Base
+The company has over 29 million users, so the data breach affected over half of its complete user base.
+However, it should be noted that the company used the weak SHA-1 hashing algorithm to scramble the Hostinger client passwords, making it easier for hackers to crack the passwords.
+As a precautionary measure, the company has reset all Hostinger Client login passwords using the stronger SHA-2 algorithm and sent out emails password recovery emails to the affected consumers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also, the company doesn't currently offer two-factor authentication (2FA) for its customers' accounts, though it says it is planning to provide this additional layer of security in the near future.
+Hostinger reassured its customers that no financial data is believed to have been accessed as the company never stores any payment card or other sensitive financial data on its servers, adding that third-party payment providers handle payments for its services.
+Furthermore, the company has also assured that a thorough internal investigation found that the Hostinger Client accounts and data stored on those accounts, including websites, domains, and hosted emails, remained untouched and unaffected.
+The investigation into the matter is still ongoing, and a team of internal and external forensics experts and data scientists has been assembled to discover the origin of the data breach and increase security measures of all the company's operations.
+Following the password reset, the company is also urging its customers to set a strong and unique password for their Hostinger accounts and to be cautious of suspicious emails asking them to click on the links or download attachments, as well as any unsolicited communications asking for login details, or other personal information.
+Customers who want to delete their details from Hostinger servers under GDPR rules should contact gdpr@hostinger.com.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

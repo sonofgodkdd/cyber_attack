@@ -1,0 +1,17 @@
+20 Million Credentials Stolen From Russian Dating Site 'Topface'
+Wang Wei
+
+A database containing details of more than 20 Million users of a Russian-based online dating website has been allegedly stolen by a hacker and made publicly available for sale through an online forum.
+A hacker using the online alias "Mastermind" on an online forum used by cybercriminals claims the responsibility of the hack into an unnamed online dating website, according to recent reports.
+The leaked credentials are claimed to be 100% valid in a posting to a paste site, and Daniel Ingevaldson, chief technology officer of Easy Solution, said that the list included email addresses from Hotmail, Yahoo and Gmail.
+"The list appears to be international in nature with hundreds of domains listed from all over the world," Ingevaldson said in a blog post on Sunday.
+"Hackers and fraudsters are likely to leverage stolen credentials to commit fraud not on the original hacked site, but to use them to exploit password re-use to automatically scan and compromise other sites including banking, travel and email providers."
+The list of leaked data contains over 7 million credentials from Hotmail, 2.5 million from Yahoo, and 2.2 million from Gmail. 50% of the credentials were for people based in Russia, and 40% came from the European Union. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, it is unclear how the credentials from the dating website were stolen and if the database contained the passwords in encrypted form or in plain text.
+Though, Easy Solutions draws attention to the fact that spear phishing attacks could also been used to steal the information directly from the users of targeted website. "This incident is an early indication that they are moving in that direction, as the first step is acquiring email databases with a relevant motive."
+So far, it is also not at all clear if the leaked credentials can be used to access the email accounts or the account of the dating website. But, hackers can still use the stolen usernames and passwords to try to access victims’ bank accounts, health records or even more sensitive data.
+According to different media outlets, the personal data believed to be stolen from the popular dating website, named TOPFACE, with more than 90 million registered users. The business is headquartered in Sankt Petersburg, Russia, and according to the website, more than 50% of its users are from outside Russia. 
+We haven’t heard from Topface yet. Also, the company neither confirmed nor deny if it suffered a breach recently that could have resulted in exposing a database of more than 20 million people. However, we have seen no indication of this data breach beyond the Pastebin post.
+Easy Solutions is a US-based company that provides security products for detecting and preventing cyber fraud across different computer platforms.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,41 @@
+Toymaker VTech Hack Exposes 4.8 Million Customers, including Photos of Children
+Swati Khandelwal
+
+Earlier this month, a massive data breach at VTech – the maker of tablets and gadgets aimed at children – exposed the personal details of about 4.8 Million parents and photos of more than 200,000 Children.
+If that was not bad enough…
+…it turns out that the massive cyber attack against the toymaker company also left hundreds of thousands of snaps of parents and children, as well as a year worth of chat logs kept online in a way easily accessible to hackers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+VTech Data Breach
+In a statement released Monday, the toymaker company VTech said the hacked database included victim's profile information including:
+Customers' names
+Email addresses
+Passwords (One-way encrypted using MD5 hash that can be cracked in no time)
+Secret questions and answers for password retrieval
+IP addresses
+Residential addresses
+Download history
+The database also included information on children including names, genders and date of births.
+Also Read: Caution! Hackers Can Easily Hijack Popular Baby Monitors to Watch Your Kids.
+However, the Hong Kong-based company noted the database didn't contain any credit card or personal identification information like social security numbers (SSNs) and driver license IDs.
+Hack Leaks Photos and Chat Logs of Children & Parents
+What's even more worrisome is that…
+In addition to the above information, data from Kid Connect – a service VTech offered to let parents communicate with their kids – was also hacked. Kid Connect information included:
+Pictures of Children and parents
+Chat logs between parents and children
+How did VTech Data Breach Happen?
+The massive data breach actually occurred on Nov. 14 and impacted VTech's Learning Lodge app store database, which features learning game apps and other educational tools for kids to download on their VTech devices.
+The kiddie toymaker company had alerted Learning Lodge customers of the recent hack, and had "temporarily suspended" the Learning Lodge site along with 13 of its associated websites as a precautionary measure, VTech said on its website Monday.
+The hacker that discovered the data breach told Motherboard that he has no plans to misuse the leaked information he gathered.
+However, now, when the information – including snaps and chat logs – is available online, it could be even harder for VTech to try to pretend that everything is all right.
+VTech says it is still investigating the matter, and will look into new ways to strengthen its security. It also alerted customers of potential exposure, encouraging them to follow up with the company via email (vtechkids@vtechkids.com in the U.S.).
+Experts Warn of More Cyber Attacks
+Now that the massive database from VTech is available online, security experts are warning that hackers and cyber criminals are likely to use this information in order target similar IoT (Internet of Things) companies that handle customer data.
+Also Read: How Drones Can Find and Hack Internet-of-Things Devices From the Sky
+Breaches like VTech are not unusual, but since it involves services aimed at children that generally do not get much of the attention when it comes to the security of data.
+Affected? How to Check and What to Do?
+If you are a parent holding a Learning Lodge account, you are advised to check Have I Been Pwned? website, which compiles all the data from breaches and now includes users accounts stolen from VTech.
+If you found your Learning Lodge account affected, you should:
+Change your password immediately
+Also, change your password retrieval information
+You are also advised to change the passwords on any other online accounts for which you are using the same password as for Learning Lodge account.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

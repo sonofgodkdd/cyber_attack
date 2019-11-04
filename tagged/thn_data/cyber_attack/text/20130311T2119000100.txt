@@ -1,0 +1,7 @@
+Iran blocks most virtual private network (VPN) services
+Mohit Kumar
+IRAN has spent years fending off cyber attacks, blocking access and isolated their own intranet off from the outside world. Many Iranians was using of virtual private network (VPNs), which provides encrypted links directly to private networks based abroad, to access Sites like YouTube and Facebook after bypassing the country's internet filter.  (adsbygoogle = window.adsbygoogle || []).push({}); But recently, Iranian authorities have blocked the use of most virtual private network to stop people in the country from circumventing the government's internet filter.
+A widespread government internet filter prevents Iranians from accessing many sites on the official grounds they are offensive or criminal.
+Ramezanali Sobhani-Fard, the head of parliament's information and communications technology committee said, "Within the last few days illegal VPN ports in the country have been blocked. Only legal and registered VPNs can from now on be used."
+Registered and legal VPN access can still be purchased, but the typical filter workarounds no longer work. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

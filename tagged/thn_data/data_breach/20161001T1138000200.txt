@@ -1,0 +1,28 @@
+Uh oh, Yahoo! Data Breach May Have Hit Over 1 Billion Users
+Swati Khandelwal
+
+The massive data breach that Yahoo! confirmed to the world last week is claimed by the company to have been carried out by a "state-sponsored actor" in 2014, which exposed the accounts of at least 500 Million Yahoo users.
+But, now it seems that Yahoo has downplayed a mega data breach and trying to hide it's own security blunder.
+Recently the information security firm InfoArmor that analyzed the data breach refuted the Yahoo's claim, stating that the data breach was the work of seasoned cyber criminals who later sold the compromised Yahoo accounts to an Eastern European nation-state.
+Over 1 Billion Accounts May Have Been Hacked
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, there's one more twist in the unprecedented data heist.
+A recent advancement in the report indicates that the number of affected Yahoo accounts may be between 1 Billion and 3 Billion.
+An unnamed, former Yahoo executive who is familiar with the company's security says that the Yahoo's back-end system's architecture is designed in such a way that all of its products use one main user database (UDB) to authenticate users, Business Insider reported Friday.
+So all usernames and passwords that users enter to log into services like Yahoo Mail, Sports or Finance goes to this one central database to ensure they are valid, allowing them access.
+This central database is what got compromised, and therefore, it's quite difficult to believe that the hackers who compromised the whole database walk away with just a small bunch of "the core crown jewels of Yahoo customer credentials."
+Whoever carried out the hack not only stole usernames and email addresses of affected users but also pilfered other personal information, including their dates of birth, phone numbers, hashed passwords, and unencrypted security answers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, it's unclear how Yahoo come up with the 500 Million number.
+The company had not commented further on how the data breach happened or when it was discovered, citing an active investigation.
+Yahoo! could have saved you, but decided not to:
+A lengthy report published by the New York Times seemingly explains that the company did not reset the passwords of its users after the breach due to the decisions made by Yahoo's CEO Marissa Mayer, who seemed to prioritize developing new products over making security improvements.
+The reason sounds stupid, as the article reads:
+"The 'Paranoids,' the internal name for Yahoo's security team, often clashed with other parts of the business over security costs. And their requests were often overridden because of concerns that the inconvenience of added protection would make people stop using the company's products."
+If Yahoo had reset the passwords of its affected users, proper security measures would have been taken by users to protect their personal data from hackers.
+Let's see what new advancements come to this unprecedented data breach.
+Already, the Yahoo hack is believed to be one of the biggest in history, and the company is still trying to negotiate a deal to sell its core business to Verizon for $4.8 Billion.
+Yahoo! has yet to respond to the recent revelation by the insider.
+Data breach news has already magnified company's problems, but if breach number reaches Billion, would the company be able to save its acquisition deal?
+Let us know in the comments below...
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

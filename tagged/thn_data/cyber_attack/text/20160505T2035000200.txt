@@ -1,0 +1,28 @@
+U.S. developing Technology to Identify and Track Hackers Worldwide 
+Mohit Kumar
+
+Without adequate analysis and algorithms, mass surveillance is not the answer to fighting terrorism and tracking suspects.
+That's what President Obama had learned last year when he signed the USA Freedom Act, which ends the bulk collection of domestic phone data by US Intelligence Agencies.
+There is no doubt that US Government is collecting a vast quantity of data from your smartphone to every connected device i.e. Internet of the things, but…
+Do they have enough capabilities to predict and identify terrorists or cyber criminals or state-sponsored hackers before they act?
+Well, if they had, I would not be getting chance to write about so many brutal cyber attacks, data breaches, and terrorist attacks that not only threatened Americans but also impacted people worldwide.
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+The Ex-NSA technical director William E. Binney, who served the US National Security Agency for over 30-years, said last year in the front of Parliamentary Joint Committee that forcing analysts to examine billions of records crush their ability to identify actual threats.
+Technology to Track and Identify Hackers
+Now, the Pentagon wants a better way to not only identify the malicious hacker but also looking for practical algorithms that can predict where that hacker might attack next.
+Defense Advanced Projects Agency (DARPA) is offering funding for security researchers who can help the agency to develop algorithms that can identify hackers under its new game-changing initiative called ‘Enhanced Attribution Program’.
+Although organizations and countries give their best to identify cyber campaigns who infiltrated their critical infrastructure, tracking down the culprits has always been a difficult task — thanks to TOR, Virtual Private Networks (VPNs), and other methods used to hide the attack source.
+However, through this new initiative, the United States military research agency DARPA hopes that agencies would quickly track and identify sophisticated hackers or criminal groups by monitoring their exact behavior and physical biometrics.
+The aim of Enhanced Attribution program is to track personas continuously and create “algorithms for developing predictive behavioral profiles.”
+"The goal of the Enhanced Attribution (EA) program is to develop technologies for generating operationally and tactically relevant information about multiple concurrent independent malicious cyber campaigns, each involving several operators; and the means to share such information with any of a number of interested parties without putting at risk the sources and methods used for collection," reads the project’s official site.
+In other words, the Enhanced Attribution Program will not only help the government characterize the cyber criminal but also share the criminal’s modus operandi with potential victims and predict the attacker’s next target.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Enhanced Attribution Project
+DARPA also wants the program to include algorithms to predictive behavioral profiles within the context of cyber campaigns, as well as technologies to validate and improve this knowledge base with public and commercial sources of information.
+The program is divided into three tracks:
+Behavior and Activity Tracking and Summarization
+Fusion and Predictive Analysis
+Validation and Enrichment
+Each track deals with different levels of behavior data collection and analysis.
+The Enhanced Attribution Program will last 18 months, so if you have a crazy idea to track down malicious hackers, you can submit your research proposal until June 7, 2016.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

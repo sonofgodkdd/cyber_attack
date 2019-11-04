@@ -1,0 +1,16 @@
+BASHLITE Malware leverages ShellShock Bug to Hijack Devices Running BusyBox
+Swati Khandelwal
+
+Cyber criminals are using new malware variants by exploiting GNU Bash vulnerability referred to as ShellShock (CVE-2014-6271) in order to infect embedded devices running BusyBox software, according to a researcher.
+A new variant of "Bashlite" malware targeting devices running BusyBox software was spotted by the researchers at Trend Micro shortly after the public disclosure of the ShellShock vulnerability. 
+BusyBox provides set of command line utilities that are specifically designed to run in constrained embedded environments. At compile time, different capabilities can be left out, reducing the size of the binaries, and efforts are made to make them memory efficient. This makes the software an excellent candidate for use in consumer electronics devices, which seem to have been the items of interest in this case.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malware variant, detected as ELF_BASHLITE.A (ELF_FLOODER.W), when executed on victim's machine, scans compromised networks for devices such as routers and Android phones running BusyBox to brute force logins through a preset list of usernames and passwords.
+The variant would then run a command to download and run bin.sh and bin2.sh scripts to gain control over Busybox systems once a connection was established. Therefore, this newer version of Bashlite is designed not only to identify systems running BusyBox, but also to hijack them.
+"Remote attackers can possibly maximize their control on affected devices by deploying other components or malicious software into the system depending on their motive," threat response engineer at Trend Micro, Rhena Inocencio wrote on a blog post.
+"As such, a remote attacker can issue commands or download other files on the devices thus compromising its security."
+Miscreants attempted to log in using a predefined list of usernames which include  'root', 'admin' and 'support' and common and default list of passwords such as 'root,' 'admin,' '12345,' 'pass,' 'password,' '123456' and so on. 
+Trend Micro's Inocencio urged users to change their default usernames and passwords in order to keep them on the safer side, and also to disable remote shells, if possible, to avoid its exploitation.
+Bashlite malware includes the payload of the ShellShock exploit code and threat actors have used this critical ShellShock Bash command vulnerability (CVE-2014-6271) to build botnets from hijacked devices, launch distributed denial-of-service (DDoS) attacks, and target network attached storage boxes among other exploits.
+The Critical ShellShock Bash bug was disclosed on September 24 and by September 30 security firms estimated that attacks using the exploit could top 1 billion, and more than 1000 organizations patched the ShellShock  bug as fixes became available.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

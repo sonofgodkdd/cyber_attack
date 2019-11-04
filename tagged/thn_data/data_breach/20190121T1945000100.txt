@@ -1,0 +1,27 @@
+Google fined $57 million by France for lack of transparency and consent
+Mohit Kumar
+
+The French data protection watchdog CNIL has issued its first fine of €50 million (around $57 million) under the European Union's new General Data Protection Regulation (GDPR) law that came into force in May last year.
+The fine has been levied on Google for "lack of transparency, inadequate information and lack of valid consent regarding the ads personalization," the CNIL (National Data Protection Commission) said in a press release issued today.
+The fine was imposed following the latest CNIL investigation into Google after receiving complaints against the company in May 2018 by two non-profit organizations—None Of Your Business (NOYB) and La Quadrature du Net (LQDN).
+Why Has Google Been Fined?
+According to the CNIL, Google has been found violating two core privacy rules of the GDPR—Transparency, and Consent.
+First, the search engine giant makes it too difficult for users to find essential information, like the "data-processing purposes, the data storage periods or the categories of personal data used for the ads personalisation," by excessively disseminating them across several documents with buttons and links and requiring up to 6 separate actions to get to the information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+And even when the users find the information they are looking for, the CNIL says that information is "not always clear nor comprehensive."
+"Users are not able to fully understand the extent of the processing operations carried out by Google," the Commission says. "Similarly, the information communicated is not clear enough so that the user can understand that the legal basis of processing operations for the ads personalization is the consent and not the legitimate interest of the company."
+Secondly, Google does not obtain its user's valid consent to process data for ads personalization purposes.
+Google Fined For Violating GDPR Law
+According to the CNIL, the option to personalize ads is "pre-ticked" when creating an account with Google, effectively making its users unable to exercise their right to opt out of data processing for ads personalization, which is illegal under the GDPR.
+Finally, the CNIL says Google by default ticks the boxes that say "I agree to Google’s Terms of Service" and that "I agree to the processing of my information as described above and further explained in the Privacy Policy" when users create an account.
+However, broader consent like this is also illegal under the GDPR rules.
+"The user gives his or her consent in full, for all the processing operations purposes carried out by Google based on this consent (ads personalization, speech recognition, etc.)," the Commission says.
+Although the 50 million euros fine seems large, it is small compared to the maximum penalty allowed by GDPR for large companies like Google, which is 20 million euros or 4 percent of the company's annual global revenue, whichever is higher.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides Google, NOYB and LQDN also filed a complaint against Facebook in May, so let's see what happens to Facebook next.
+Other Record Fines On Google
+It's not the first time when Google has been fined under privacy violation. Back in July, the company was levied with a record $5 billion fine by the EU in an Android antitrust case, which Google is currently appealing.
+However, a few months back, the search engine giant overhauled its Android business model in Europe, electing to charge a fee to European Android phone manufacturers who want to include its apps on their Android handsets.
+The EU also hit Google with a separate antitrust penalty of $2.7 billion (2.4 billion euros) in 2017 over shopping-search results in Google Search.
+In response to the GDPR fine imposed by France, Google said in a statement: "People expect high standards of transparency and control from us. We're deeply committed to meeting those expectations and the consent requirements of the GDPR. We’re studying the decision to determine our next steps."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

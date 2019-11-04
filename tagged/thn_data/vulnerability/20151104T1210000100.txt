@@ -1,0 +1,15 @@
+Fourth, a 16-year-old Hacker, Arrested over TalkTalk Hack
+Swati Khandelwal
+
+Police have arrested a fourth person, a 16-year-old boy, from London in connection with the high-profile hack of British telecoms giant TalkTalk.
+The investigating officers from the Metropolitan Police Cyber Crime Unit (MPCCU) arrested the teenager at his home in Norwich on suspicion of Computer Misuse Act offences.
+TalkTalk was subjected to a 'significant and sustained' hacking attack on its official website two weeks back, which put the Bank Details and Personally Identifiable Information (PII) of its 4 Million customers at risk.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The telco confirmed last week that at most 1.2 Million names, email addresses and phone numbers and around 21,000 unique bank account numbers and sort codes were compromised in the attack.
+However, TalkTalk said that the stolen credit card details were incomplete, so the payment cards could not be used for any false financial transactions. But, the company advised customers to remain vigilant against financial fraud.
+Security experts believe that the recent hacking attack on TalkTalk may have taken place due to SQL injection (SQLi) attack, a method used to inject SQL commands to breach the database and get access to the users' personal data.
+This is the fourth arrest since TalkTalk suffered a massive data breach and the 16-year-old boy remains in custody at a local police station.
+The Police Service of Northern Ireland and MET detectives arrested a 20-year-old Staffordshire man on Sunday while 2 teenagers were also arrested in connection with the Data breach incident.
+The first arrest came last week when police arrested and then bailed a 15-year-old boy from Northern Ireland while another 16-year-old boy from London was arrested and bailed on 30 October.
+However, the connection between these four persons has not been known yet.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

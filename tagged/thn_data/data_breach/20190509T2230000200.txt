@@ -1,0 +1,20 @@
+U.S. Charges Chinese Hacker For 2015 Anthem Data Breach
+Mohit Kumar
+
+The United States Justice Department today announced charges against a Chinese hacker and his hacking team member for their alleged role in the 2015 massive data breach at health insurance giant Anthem and three other unnamed American companies.
+Fujie Wang (王 福 杰) and another hacker named John Doe with three different aliases—Deniel Jack, Kim Young, and Zhou Zhihong—are charged with four counts of conspiracy to commit fraud, wire fraud, and damage to a protected computer, according to an indictment [pdf] unsealed today in federal court in Indianapolis.
+In 2015, the hackers managed to breach Anthem, the country's second-largest health insurance company and stole personal information of over 80 Millions of its customers, including their Social Security Numbers, birthdates, email addresses, residential addresses, medical identification numbers, employment information, and income data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The incident marked as one of the worst data breaches in history, with the company paying a record $115 million fine to settle U.S. lawsuits.
+According to the indictment, the hackers used sophisticated techniques, including spearfishing, to hack into the computer networks of the targeted businesses and then installed malware on their computers to further compromise the networks and gain access to sensitive users' data and confidential business information.
+"As part of this international computer hacking scheme, the indictment alleges that beginning in February 2014, the defendants used sophisticated techniques to hack into the computer networks of the victim businesses without authorization," the DoJ says.
+"On multiple occasions in January 2015, the defendants accessed the computer network of Anthem, accessed Anthem's enterprise data warehouse, and transferred encrypted archive files containing PII from Anthem's enterprise data warehouse from the United States to China."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides Anthem, the defendants also breached three other U.S. companies—a company in the technology sector, a basic materials company, and a communication services company—but the indictment does not reveal their names.
+Wang and Doe are both charged with a total of four federal counts:
+one count of conspiracy to commit fraud and related activity in relation to computers and identity theft
+one count of conspiracy to commit wire fraud
+two substantive counts of intentional damage to a protected computer
+However, the above charges are just allegations for now, and the "defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law."
+The case was investigated by the Federal Bureau of Investigation (FBI).
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+DDoS Extortionists made $100,000 without Launching a Single Attack
+Mohit Kumar
+
+In Brief
+Cyber crooks find a new and ingenious way to make hundreds of thousands of dollars with no effort.
+An unknown cyber gang, pretending to be Armada Collective, has made more than $100,000 in less than two months simply by threatening to launch DDoS attack on websites, but never actually launched a single attack.
+A group of Cyber Extortionists is sending threatening emails to businesses across the globe involves the launching of powerful distributed denial-of-service (DDoS) attacks against victim's website unless a ransom is paid.
+But, the group never actually launched a single DDoS attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a typical scenario, attackers disrupt a targeted website with a short-term DDoS attack in order to demonstrate its power, followed by an e-mail containing ransom note threatening further disruption, if the ransom does not get paid.
+Armada Collective is the same criminal gang that was responsible for one of largest DDoS attacks against ProtonMail in November 2015 and extorted $6,000 to stop sustained DDoS attack that knocked its service offline.
+It is suspected that this unknown group of scammers and blackmailers are leveraging the reputation of an already established cyber gang 'Armada Collective,' well known for extorting hundreds of thousands of dollars from the victim by launching DDoS attacks, according to a blog post published Monday by CloudFlare.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Some alleged members of Armada Collective were arrested in January this year, but now reports are coming that more than 100 companies have received emails from Armada Collective demanding as much as $23,000 in Bitcoins in exchange for not being attacked.
+Besides this, the criminals also warned the victims that the price will rise if they do not pay the ransom. However, no websites were actually flooded with traffic by the collective.
+The bottom line:
+If you get an email from the Armada Collective threatening to launch DDoS attack, just do not pay up.
+Though there are criminal gangs out there performing actual DDoS attacks if you do not pay, Armada Collective is not one of them.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

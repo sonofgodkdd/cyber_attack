@@ -1,0 +1,19 @@
+First-Ever Data Stealing Malware Found Using Intel AMT Tool to Bypass Firewall
+Swati Khandelwal
+
+It's not hard for a well-funded state-sponsored hacking group to break into corporate networks and compromise systems with malware, but what's challenging for them is to keep that backdoor and its communication undetectable from a firewall and other network monitoring applications.
+However, a cyber-espionage group known as "Platinum," that is actively targeting governmental organisations, defense institutes, and telecommunication providers since at least 2009, has found a way to hide its malicious activities from host-based protection mechanisms.
+Microsoft has recently discovered that the cyber-espionage group is now leveraging Intel's Active Management Technology (AMT) Serial-over-LAN (SOL) channel as a file-transfer tool to steal data from the targeted computers without detection.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Intel-based chip sets come with an embedded technology, called AMT, which is designed to allow IT administrators to remotely manage and repair PCs, workstations, and servers of their organisations.
+The Intel AMT technology operates independently of the operating system and works even when the system is turned off, as long as the platform is connected to a line power and a network cable.
+That means, when AMT is enabled, any packet sent to the PC's wired network port will be redirected to the Management Engine and passed on to AMT – the operating system, as well as network monitoring applications installed on a system, never knows what's going around.
+Moreover, Linux systems with Intel's chips and AMT enabled may also be exposed to Platinum's malware.
+"As this embedded processor is separate from the primary Intel processor, it can execute even when the main processor is powered off and is, therefore, able to provide out-of-band (OOB) remote administration capabilities such as remote power-cycling and keyboard, video, and mouse control (KVM)," Microsoft said. 
+"Furthermore, as the SOL traffic bypasses the host networking stack, it cannot be blocked by firewall applications running on the host device. To enable SOL functionality, the device AMT must be provisioned."
+Unlike the remote authentication flaw discovered last month that enabled hackers to take over full control of a system by using AMT features without the need of any password, Platinum does not exploit any flaw in AMT, instead, requires AMT to be enabled on infected systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Microsoft notes that SOL session requires a username and password, so either the hacking group is using stolen credentials to make its malware remotely communicate with the C&C servers, or "during the provisioning process, PLATINUM could select whichever username and password they wish."
+The Platinum hacking group has been using zero-day exploits, hot patching technique and other advanced tactics to penetrate in their target systems and networks in South Asian countries, but this is the first time someone is abusing legitimate management tools to evade detection.
+Microsoft said it has already updated its own Windows Defender Advanced Threat Protection software that will alert network administrators of any malicious attempts at using AMT SOL, but only for systems running Windows operating system.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

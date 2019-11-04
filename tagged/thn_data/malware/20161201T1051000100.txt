@@ -1,0 +1,22 @@
+Rule 41 — FBI Gets Expanded Power to Hack any Computer in the World
+Swati Khandelwal
+
+Hacking multiple computers across the world just got easier for the United States intelligence and law enforcement agencies from today onwards.
+The changes introduced to the Rule 41 of the Federal Rules of Criminal Procedure by the United States Department of Justice came into effect on Thursday, after an effort to block the changes failed on Wednesday.
+The change grants the FBI much greater powers to hack into multiple computers within the country, and perhaps anywhere in the world, with just a single warrant authorized by any US judge (even magistrate judges). Usually, magistrate judges only issue warrants for cases within their jurisdiction.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+That's the same the FBI did in its 2015 investigation into child pornography site Playpen, in which the agency hacked into some 8,700 computers across 120 different countries.
+The Supreme Court approved the changes to Rule 41 in April, allowing any U.S. judge to issue search warrants that give the FBI and law enforcement agencies authority to remotely hack computers in any jurisdiction, or even outside the United States.
+Democratic Senator Ron Wyden attempted three times to block changes to Rule 41 that potentially risks people using Tor, a VPN, or some other anonymizing software to hide their whereabouts, but the efforts were blocked by Republican Senator John Cornyn of Texas.
+The rule change should take effect on 1st December, today, barring surprises.
+On the one hand, privacy advocates and legal experts have described the rule change as the extensive expansion of extraterritorial surveillance power that will allow agencies like the FBI to carry out international hacking operations with a lot less of a hassle.
+On the other hand, the DOJ argued that the changes to the rule will help investigate modern internet criminals, allowing investigators access computers whose locations are "concealed through technological means," like the Tor anonymity network or VPNs (Virtual Private Networks), and devices used in botnets that have become powerful cyber weapons.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Assistant Attorney General Leslie Caldwell highlighted these concerns in a blog post published last week, saying if a criminal suspect is using Tor or VPN to hide its real location, it becomes tough for investigators to know his/her current location.
+"So in those cases, the Rules do not clearly identify which court the investigators should bring their warrant application to," Caldwell said.
+But what would happen if the FBI hacks the botnet victims, rather than the perpetrators? Or what if the government abuses this power to target nation states?
+In a speech, Wyden said that the changes to Rule 41 amounted to "one of the biggest mistakes in surveillance policy in years," giving federal investigators "unprecedented authority to hack into Americans' personal phones, computers, and other devices," Reuters reports.
+Other critics worry that the changes to Rule 41 would give the FBI unfettered ability to hack innocent users whose electronic devices have been infected with botnet malware without their knowledge, or anyone who keeps their identities private online.
+To this concern, Caldwell argued that investigators accessing the devices of botnet victims "would, typically, be done only to investigate the extent of the botnet," or in order to "obtain information necessary to liberate victims’ computers from the botnet."
+Caldwell further argued that the rule change would not allow the FBI to conduct "Mass Hacking;" in fact, failing to implement the rule change "would make it more difficult for law enforcement to combat mass hacking by actual criminals."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,37 @@
+Health Insurer Excellus Hacked; 10.5 Million Records Breached
+Khyati Jain
+
+Health Care Hacks —  the choice of hackers this year!
+In a delayed revelation made by Excellus BlueCross BlueShield (BCBS), which says that about 10.5 Millions of their clients' data and information has been compromised by hackers.
+Excellus BCBS headquartered in Rochester, New York, provides finance and health care services across upstate New York and long-term care insurance nationwide.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On August 5, 2015, Excellus BCBS discovered that the hackers targeted their IT systems back in December 2013, initiating a sophisticated attack to gain access to their systems and record client's personal data.
+The Compromised Data includes:
+Social Security Number (SSN)
+Date of birth
+Mailing address
+Telephone number
+Member identification number
+Financial account information
+Claims information
+Did they forget something?...It seems everything is gone!
+Moreover, it's been two years Excellus systems were open to the hackers. So, what the company was doing all this time?
+Excellus BlueCross BlueShield in their statement said:
+"This incident also affected members of other Blue Cross Blue Shield plans who sought treatment in the 31 county upstate New York service area of Excellus BCBS. Individuals who do business with us and provided us with their financial account information or Social Security number are also affected."
+The company has hired Mandiant Incident Response Team of FireEye Inc to help investigate the matter and to bring its systems back to normal by providing adequate remediation solutions.
+Though the investigation has gathered no such evidence relating to removal of data, use or misuse of the compromised data.
+Further, To save customers valuable data, the company showed concerns for the affected customers and said that they are going to:
+Mail letters to its customers to let them know the facts and how they can in future secure their identity.
+Offer cover of two years of free identity theft protection services and credit monitoring to affected individuals.
+Moreover, for others, who are worried regarding their security can contact Excellus on 1-877-589-3331 (Toll-free) to know about the incident.
+At the start of this year, Cyber attacks victims in health care were:
+Anthem Healthcare with data breach of 80 million (the largest of all)
+Premera with approximately 11 millions of users personal data being stolen
+UCLA Health System with 4.5 millions of data leaks leading to identity theft
+CareFirst with affecting 1.1 million (approx) customers
+All the above companies were using BlueCross BlueShield insurance plans except UCLA health system.
+Also, we need to think that for what purpose the hackers are going to use this bulk information...or is it the calm before the storm?
+If we notice, vendors running BCBS plans are the ones mostly affected by this data breach.
+So is the BCBS Association the target of the hackers? That one after the other its vendors offering insurance services are being victims of such massive data breaches.
+This indeed makes us think of the potential of not only the cyber attacks and security but also the current threats to health care and associated bio-medical devices.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

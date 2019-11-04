@@ -1,0 +1,29 @@
+Email Phishers Using New Way to Bypass Microsoft Office 365 Protections
+Swati Khandelwal
+
+Phishing works no matter how hard a company tries to protect its customers or employees.
+Security researchers have been warning of a new phishing attack that cybercriminals and email scammers are using in the wild to bypass the Advanced Threat Protection (ATP) mechanism implemented by widely used email services like Microsoft Office 365.
+Microsoft Office 365 is an all-in-solution for users that offers several different online services, including Exchange Online, SharePoint Online, Lync Online and other Office Web Apps, like Word, Excel, PowerPoint, Outlook and OneNote.
+On the top of these services, Microsoft also offers an artificial intelligence and machine learning powered security protection to help defend against potential phishing and other threats by going one level deep to scan the links in the email bodies to look for any blacklisted or suspicious domain.
+But as I said, phishers always find a way to bypass security protections in order to victimize users.
+Just over a month ago, the scammers were found using the ZeroFont technique to mimic a popular company and tricked users into giving away their personal and banking information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In May 2018, cybercriminals had also been found splitting up the malicious URL in a way that the Safe Links security feature in Office 365 fails to identify and replace the partial hyperlink, eventually redirecting victims to the phishing site.
+How SharePoint Phishing Attack Works?
+These issues were then addressed by Microsoft at its end, but phishers have now been found using a new trick to bypass Office 365's built-in security protections and phish users—this time by inserting malicious links into SharePoint documents.
+The same cloud security company Avanan, which discovered the two above-mentioned phishing attacks, uncovered a new phishing email campaign in the wild targeting Office 365 users, who are receiving emails from Microsoft containing a link to a SharePoint document.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The body of the email message looks identical to a standard SharePoint invitation from someone to collaborate. Once the user clicked the hyperlink in the email, the browser automatically opens a SharePoint file.
+The content of the SharePoint file impersonates a standard access request to a OneDrive file, but an 'Access Document' button on the file is actually hyperlinked to a malicious URL, according to the researchers.
+The malicious link then redirects the victim to a spoofed Office 365 login screen, asking the user to enter his/her login credentials, which are then harvested by hackers.
+Microsoft scans the body of an email, including the links provided in it, but since the links in the latest email campaign lead to an actual SharePoint document, the company did not identify it as a threat.
+"In order to identify this threat, Microsoft would have to scan links within shared documents for phishing URLs. This presents a clear vulnerability that hackers have taken advantage of to propagate phishing attacks," the researchers said.
+"Even if Microsoft were to scan links within files, they would face another challenge: they could not blacklist the URL without blacklisting links to all SharePoint files. If they blacklisted the full URL of the Sharepoint file, the hackers could easily create a new URL."
+Therefore no protection would be able to alert users of phishing, until and unless they are not trained enough to detect such phishing attempts.
+According to the cloud security company, this new phishing attack was leveraged against 10 percent of its Office 365 customers over the past two weeks, and the firm believes the same percentage applies to Office 365 users globally.
+So, in order to protect yourself, you should be suspicious of the URLs in the email body if it uses URGENT or ACTION REQUIRED in the subject line, even if you are receiving emails that appear safe.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+When presented a login page, you are recommended to always check the address bar in the web browser to know whether the URL is actually hosted by the legitimate service or not.
+Most importantly, always use two-factor authentication (2FA), so even if attackers gain access to your password, they still need to struggle for the second authentication step.
+However, researchers noted that if this attack would have involved links to trigger a malware download rather than directing users to a phishing page, "the attack would have caused damage by the time the user clicked and investigated the URL."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

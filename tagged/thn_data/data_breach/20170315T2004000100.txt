@@ -1,0 +1,31 @@
+US Charges Two Russian Spies & Two Hackers For Hacking 500 Million Yahoo Accounts
+Mohit Kumar
+
+The 2014 Yahoo hack disclosed late last year that compromised over 500 million Yahoo user accounts was believed to be carried out by a state-sponsored hacking group.
+Now, two Russian intelligence officers and two criminal hackers have been charged by the US government in connection with the 2014 Yahoo hack that compromised about 500 million Yahoo user accounts, the Department of Justice announced Wednesday.
+According to the prosecutors, at least 30 million accounts were accessed as part of a spam campaign to access the email contents of thousands of people, including journalists, government officials, and technology company employees.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The four defendants — Two officers from the Russian Federal Security Service (FSB) and two other hackers — are identified as:
+Dmitry Aleksandrovich Dokuchaev, 33 — an officer in the FSB Center for Information Security at the time of the hack, and now Russian national and resident.
+Igor Anatolyevich Sushchin, 43 — an FSB officer, a superior to Dokuchaev within the FSB, and Russian national and resident.
+Alexsey Alexseyevich Belan, aka "Magg," 29 — a Russian national and resident, who has been on the FBI’s Most Wanted Hackers list and indicted twice in 2012 and 2013 by U.S. Federal grand juries for hacking and fraud charges.
+Karim Baratov, aka "Kay," "Karim Taloverov" and "Karim Akehmet Tokbergenov," 22 — a Canadian and Kazakh national and a resident of Canada.
+In a 38-page indictment [PDF] unsealed Wednesday, the prosecutors said the two Russian spies worked with two other hackers to break into and gained initial access to Yahoo in early 2014.
+Belan, who is on the FBI's most-wanted cybercriminals list, used the file transfer protocol (FTP) to download the Yahoo database, containing usernames, recovery e-mail accounts, phone numbers as well as "certain information required to manually create, or "mint," account authentication web browser “cookies” for more than 500 million Yahoo accounts."
+The spies then used the stolen information to obtain unauthorized access to the contents of accounts at Yahoo, Google and other webmail providers, including those of Russian and American officials, Russian journalists, employees of financial services and other businesses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The range of charges are officially listed as:
+Conspiring to commit computer fraud and abuse
+Conspiring to engage in and the theft of trade secrets
+Conspiring to engage in and committing economic espionage
+Conspiring to commit wire fraud
+Counterfeit access device fraud
+Counterfeit access device making equipment
+Aggravated identity theft
+Transmitting code with the intent to cause damage to computers
+Unauthorized access to a computer for obtaining information for commercial advantage and private financial gain
+Baratov was arrested on Tuesday by the Toronto Police Department, while Belan and the two FSB officers are in Russia. The United States has requested all the three to be handed over to face charges, but the US has no extradition treaty with Russia.
+Meanwhile, Assistant Attorney General Mary McCord said that there was no connection between the Wednesday indictment and the investigation into the hacking of the Democratic National Committee (DNC) last year.
+The news of the arrest came few weeks after Yahoo and Verizon Communications Inc. agreed to reduce the price of the upcoming acquisition deal by $350 Million in the wake of the two data breaches.
+The deal, which was previously finalized at $4.8 Billion, now valued at about $4.48 Billion in cash and is expected to close in the second quarter.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

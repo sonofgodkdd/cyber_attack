@@ -1,0 +1,28 @@
+Almost Half A Million Delhi Citizens' Personal Data Exposed Online
+Mohit Kumar
+
+Exclusive — A security researcher has identified an unsecured server that was leaking detailed personal details of nearly half a million Indian citizens... thanks to another MongoDB database instance that company left unprotected on the Internet accessible to anyone without password.
+In a report shared with The Hacker News, Bob Diachenko disclosed that two days ago he found a 4.1 GB-sized highly sensitive database online, named "GNCTD," containing information collected on 458,388 individuals located in Delhi, including their Aadhaar numbers and voter ID numbers.
+Though it's not clear if the exposed database is linked to the Government of National Capital Territory of Delhi (GNCTD), Diachenko found that the database contains references and email addresses with "transerve.com" domain for users registered with "senior supervisor," and "super admin" designations.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Based upon the information available on Transerve Technologies website, it is a Goa-based company that specializes in smart city solutions and advanced data collection technology.
+The company's data collector, precision mapping and location intelligence tool help businesses across various sectors and Governments agencies to utilize Geo-location data to make smart decisions intelligently.
+The leaked database contains the following tables:
+EB Users (14,861 records)
+Households (102,863 records)
+Individuals (458,388 records)
+Registered Users (399 records)
+Users (2,983 records)
+Analyzed by Diachenko, one of the database tables containing registered users includes email addresses, hashed passwords and usernames for administrator access.
+"The most detailed information contained in 'Individuals' collection which was basically a pretty detailed portrait of a person, incl. health conditions, education, etc.," Diachenko said.
+"Households collection contained fields such as 'name', 'house no', 'floor number', 'geolocation', area details, 'email_ID' of a supervisor, 'is the household cooperating for survey' field, 'type of latrine', 'functional water meter', 'ration card number', 'internet facility available' and even 'informan name' field."
+"It remains unknown just how long database was online and if anyone else accessed it," Diachenko said.
+When Transerve didn't respond to the responsible disclosure sent via email, Diachenko contacted Indian CERT, which further coordinated with the company to take its exposed database offline immediately.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The danger of having an exposed MongoDB or similar NoSQL databases is a huge risk. We have previously reported that the lack of authentication allowed the installation of malware or ransomware on thousands of MongoDB servers," Diachenko said.
+"The public configuration allows the possibility of cybercriminals to manage the whole system with full administrative privileges. Once the malware is in place, criminals could remotely access the server resources and even launch a code execution to steal or completely destroy any saved data the server contains."
+MongoDB is the most popular, open-source NoSQL database used by companies of all sizes, from eBay and Sourceforge to The New York Times and LinkedIn.
+This isn't the first time when MongoDB instances are found exposed to the Internet. In recent years, we have published several reports where unprotected database servers have already exposed billions of records.
+None of this is MongoDBs fault, as administrators are always advised to follow the security checklist provided by the MongoDB maintainers.
+On older versions of MongoDB before version 2.6.0, the default configuration makes the database listening on a publicly accessible port, where admins are supposed to reconfigure it appropriately for online use, but, unfortunately, many don't.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+September 11, 2009
+Florida man found guilty of sex tourism following ICE investigation
+PHOENIX - A federal jury convicted a Florida man yesterday on charges of traveling with the intent to engage in illicit sexual contact with a minor, following an investigation by U.S. Immigration and Customs Enforcement (ICE).
+Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age. He was arrested on March 9, 2009, by ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative.
+"My agents are aggressively pursuing child predators across the state of Arizona," said Matt Allen, special agent in charge of the ICE Office of Investigations in Arizona. "We want to make sure that men like Charles Soderman are taken off of our streets and kept away from our children."
+Soderman will remain in federal custody pending sentencing which is set before Judge Frederick J. Martone on Nov. 23, 2009. A conviction for travel with the intent to engage in illicit sexual contact with a minor carries a maximum penalty of 30 years in federal prison, a $250,000 fine or both.
+The charges against Soderman are the result of the Department of Justice's Project Safe Childhood (PSC) and ICE's Operation Predator, initiatives designed to combat the growing epidemic of child sexual exploitation. PSC was launched by the Department of Justice in May 2006 to marshal federal, state and local resources to locate, apprehend and prosecute individuals who exploit children via the Internet, as well as to identify and rescue victims.
+Operation Predator is an ongoing ICE initiative to protect children from sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders and child sex traffickers. ICE encourages the public to report suspected child predators and any suspicious activity through its toll-free hotline at 1-866-347-2423. This hotline is staffed around the clock by investigators.
+Suspected child sexual exploitation or missing children may be reported to the National Center for Missing and Exploited Children, an Operation Predator partner, at 1-800-843-5678 orhttp://www.cybertipline.com .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="20" end="87" text="Florida man found guilty of sex tourism following ICE investigation" TYPE="BAR" />
+<person id="p1" start="98" end="112" text="A federal jury" TYPE="NOM" />
+<person id="p2" start="123" end="136" text="a Florida man" TYPE="NOM" />
+<person id="p3" start="228" end="235" text="a minor" TYPE="NOM" />
+<person id="p4" start="315" end="357" text="Charles A. Soderman, 31, of Marathon, Fla." TYPE="NAM" />
+<person id="p5" start="491" end="532" text="a male child as young as six years of age" TYPE="NOM" />
+<person id="p6" start="534" end="536" text="He" TYPE="PRO" />
+<person id="p7" start="571" end="701" text="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" TYPE="BAR" />
+<person id="p8" start="704" end="713" text="My agents" TYPE="NOM" />
+<person id="p9" start="704" end="706" text="My" TYPE="PRO" />
+<person id="p10" start="740" end="755" text="child predators" TYPE="BAR" />
+<person id="p11" start="740" end="745" text="child" TYPE="NOMPRE" />
+<person id="p12" start="791" end="873" text="Matt Allen, special agent in charge of the ICE Office of Investigations in Arizona" TYPE="APP" />
+<person id="p13" start="791" end="801" text="Matt Allen" TYPE="NAM" />
+<person id="p14" start="803" end="873" text="special agent in charge of the ICE Office of Investigations in Arizona" TYPE="BAR" />
+<person id="p15" start="902" end="927" text="men like Charles Soderman" TYPE="BAR" />
+<person id="p16" start="911" end="927" text="Charles Soderman" TYPE="NAM" />
+<person id="p17" start="976" end="988" text="our children" TYPE="NOM" />
+<person id="p18" start="991" end="999" text="Soderman" TYPE="NAM" />
+<person id="p19" start="1070" end="1096" text="Judge Frederick J. Martone" TYPE="NAM" />
+<person id="p20" start="1070" end="1075" text="Judge" TYPE="NOMPRE" />
+<person id="p21" start="1196" end="1203" text="a minor" TYPE="NOM" />
+<person id="p22" start="1306" end="1314" text="Soderman" TYPE="NAM" />
+<person id="p23" start="1475" end="1480" text="child" TYPE="NOMPRE" />
+<person id="p24" start="1641" end="1690" text="individuals who exploit children via the Internet" TYPE="BAR" />
+<person id="p25" start="1653" end="1656" text="who" TYPE="WHQ" />
+<person id="p26" start="1665" end="1673" text="children" TYPE="BAR" />
+<person id="p27" start="1726" end="1733" text="victims" TYPE="BAR" />
+<person id="p28" start="1794" end="1802" text="children" TYPE="BAR" />
+<person id="p30" start="1808" end="1967" text="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders and child sex traffickers" TYPE="BAR" />
+<person id="p32" start="1842" end="1845" text="who" TYPE="WHQ" />
+<person id="p33" start="1875" end="1881" text="minors" TYPE="BAR" />
+<person id="p34" start="1836" end="1881" text="those who travel overseas for sex with minors" TYPE="HLS" />
+<person id="p35" start="1883" end="1911" text="Internet child pornographers" TYPE="BAR" />
+<person id="p36" start="1892" end="1897" text="child" TYPE="NOMPRE" />
+<person id="p37" start="1913" end="1941" text="criminal alien sex offenders" TYPE="BAR" />
+<person id="p38" start="1946" end="1967" text="child sex traffickers" TYPE="BAR" />
+<person id="p39" start="1946" end="1951" text="child" TYPE="NOMPRE" />
+<person id="p40" start="2005" end="2030" text="suspected child predators" TYPE="BAR" />
+<person id="p41" start="2015" end="2020" text="child" TYPE="NOMPRE" />
+<person id="p42" start="2152" end="2165" text="investigators" TYPE="BAR" />
+<person id="p43" start="2177" end="2182" text="child" TYPE="NOMPRE" />
+<person id="p44" start="2206" end="2222" text="missing children" TYPE="BAR" />
+<organization id="o0" start="70" end="73" text="ICE" TYPE="NAMPRE" />
+<organization id="o1" start="267" end="312" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="309" end="312" text="ICE" TYPE="NAM" />
+<organization id="o3" start="571" end="574" text="ICE" TYPE="NAMPRE" />
+<organization id="o4" start="657" end="660" text="ICE" TYPE="NAM" />
+<organization id="o5" start="830" end="873" text="the ICE Office of Investigations in Arizona" TYPE="NAM" />
+<organization id="o6" start="876" end="878" text="We" TYPE="PRO" />
+<organization id="o7" start="1333" end="1358" text="the Department of Justice" TYPE="NAM" />
+<organization id="o8" start="1394" end="1397" text="ICE" TYPE="NAM" />
+<organization id="o9" start="1522" end="1547" text="the Department of Justice" TYPE="NAM" />
+<organization id="o11" start="1768" end="1771" text="ICE" TYPE="NAMPRE" />
+<organization id="o12" start="1969" end="1972" text="ICE" TYPE="NAM" />
+<organization id="o13" start="2067" end="2070" text="its" TYPE="PRO" />
+<organization id="o14" start="2242" end="2327" text="the National Center for Missing and Exploited Children, an Operation Predator partner" TYPE="APP" />
+<organization id="o15" start="2242" end="2296" text="the National Center for Missing and Exploited Children" TYPE="NAM" />
+<organization id="o16" start="2298" end="2327" text="an Operation Predator partner" TYPE="NOM" />
+<geographical-political id="g0" start="20" end="27" text="Florida" TYPE="NAMPRE" />
+<geographical-political id="g1" start="88" end="95" text="PHOENIX" TYPE="NAM" />
+<geographical-political id="g2" start="125" end="132" text="Florida" TYPE="NAMPRE" />
+<geographical-political id="g3" start="343" end="357" text="Marathon, Fla." TYPE="NAM" />
+<geographical-political id="g4" start="353" end="357" text="Fla." TYPE="NAM" />
+<geographical-political id="g5" start="394" end="402" text="Marathon" TYPE="NAM" />
+<geographical-political id="g6" start="406" end="417" text="Yuma, Ariz." TYPE="NAM" />
+<geographical-political id="g7" start="412" end="417" text="Ariz." TYPE="NAM" />
+<geographical-political id="g8" start="445" end="452" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g9" start="639" end="645" text="Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="763" end="783" text="the state of Arizona" TYPE="NOM" />
+<geographical-political id="g11" start="776" end="783" text="Arizona" TYPE="NAM" />
+<geographical-political id="g12" start="866" end="873" text="Arizona" TYPE="NAM" />
+<geographical-political id="g13" start="945" end="948" text="our" TYPE="PRO" />
+<geographical-political id="g14" start="976" end="979" text="our" TYPE="PRO" />
+<geographical-political id="g15" start="1984" end="1994" text="the public" TYPE="HLS" />
+<location id="l0" start="441" end="459" text="the Mexican border" TYPE="NOM" />
+<falicity id="f0" start="1245" end="1259" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="2067" end="2106" text="its toll-free hotline at 1-866-347-2423" TYPE="NOM" />
+<falicity id="f2" start="2108" end="2120" text="This hotline" TYPE="NOM" />
+<falicity id="f3" start="945" end="956" text="our streets" TYPE="NOM" />
+<head id="h0" start="28" end="31" text="man" />
+<head id="h1" start="20" end="27" text="Florida" />
+<head id="h2" start="70" end="73" text="ICE" />
+<head id="h3" start="88" end="95" text="PHOENIX" />
+<head id="h4" start="108" end="112" text="jury" />
+<head id="h5" start="133" end="136" text="man" />
+<head id="h6" start="125" end="132" text="Florida" />
+<head id="h7" start="230" end="235" text="minor" />
+<head id="h8" start="267" end="307" text="U.S. Immigration and Customs Enforcement" />
+<head id="h9" start="309" end="312" text="ICE" />
+<head id="h10" start="315" end="334" text="Charles A. Soderman" />
+<head id="h11" start="343" end="351" text="Marathon" />
+<head id="h12" start="353" end="357" text="Fla." />
+<head id="h13" start="394" end="402" text="Marathon" />
+<head id="h14" start="406" end="410" text="Yuma" />
+<head id="h15" start="412" end="417" text="Ariz." />
+<head id="h16" start="453" end="459" text="border" />
+<head id="h17" start="445" end="452" text="Mexican" />
+<head id="h18" start="498" end="503" text="child" />
+<head id="h19" start="534" end="536" text="He" />
+<head id="h20" start="575" end="581" text="agents" />
+<head id="h21" start="571" end="574" text="ICE" />
+<head id="h22" start="639" end="645" text="Mexico" />
+<head id="h23" start="657" end="660" text="ICE" />
+<head id="h24" start="707" end="713" text="agents" />
+<head id="h25" start="704" end="706" text="My" />
+<head id="h26" start="746" end="755" text="predators" />
+<head id="h27" start="740" end="745" text="child" />
+<head id="h28" start="767" end="772" text="state" />
+<head id="h29" start="776" end="783" text="Arizona" />
+<head id="h30" start="791" end="801" text="Matt Allen" />
+<head id="h31" start="811" end="816" text="agent" />
+<head id="h32" start="834" end="862" text="ICE Office of Investigations" />
+<head id="h33" start="866" end="873" text="Arizona" />
+<head id="h34" start="876" end="878" text="We" />
+<head id="h35" start="902" end="905" text="men" />
+<head id="h36" start="911" end="927" text="Charles Soderman" />
+<head id="h37" start="945" end="948" text="our" />
+<head id="h38" start="980" end="988" text="children" />
+<head id="h39" start="976" end="979" text="our" />
+<head id="h40" start="991" end="999" text="Soderman" />
+<head id="h41" start="1076" end="1096" text="Frederick J. Martone" />
+<head id="h42" start="1070" end="1075" text="Judge" />
+<head id="h43" start="1198" end="1203" text="minor" />
+<head id="h44" start="1253" end="1259" text="prison" />
+<head id="h45" start="1306" end="1314" text="Soderman" />
+<head id="h46" start="1337" end="1358" text="Department of Justice" />
+<head id="h47" start="1394" end="1397" text="ICE" />
+<head id="h48" start="1475" end="1480" text="child" />
+<head id="h49" start="1526" end="1547" text="Department of Justice" />
+<head id="h51" start="1641" end="1652" text="individuals" />
+<head id="h52" start="1653" end="1656" text="who" />
+<head id="h53" start="1665" end="1673" text="children" />
+<head id="h54" start="1726" end="1733" text="victims" />
+<head id="h55" start="1768" end="1771" text="ICE" />
+<head id="h56" start="1794" end="1802" text="children" />
+<head id="h57" start="1815" end="1824" text="predators" />
+<head id="h58" start="1836" end="1841" text="those" />
+<head id="h59" start="1842" end="1845" text="who" />
+<head id="h60" start="1875" end="1881" text="minors" />
+<head id="h61" start="1898" end="1911" text="pornographers" />
+<head id="h62" start="1892" end="1897" text="child" />
+<head id="h63" start="1932" end="1941" text="offenders" />
+<head id="h64" start="1956" end="1967" text="traffickers" />
+<head id="h65" start="1946" end="1951" text="child" />
+<head id="h66" start="1969" end="1972" text="ICE" />
+<head id="h67" start="1988" end="1994" text="public" />
+<head id="h68" start="2021" end="2030" text="predators" />
+<head id="h69" start="2015" end="2020" text="child" />
+<head id="h70" start="2067" end="2070" text="its" />
+<head id="h71" start="2081" end="2088" text="hotline" />
+<head id="h72" start="2113" end="2120" text="hotline" />
+<head id="h73" start="2152" end="2165" text="investigators" />
+<head id="h74" start="2177" end="2182" text="child" />
+<head id="h75" start="2214" end="2222" text="children" />
+<head id="h76" start="2246" end="2296" text="National Center for Missing and Exploited Children" />
+<head id="h77" start="2320" end="2327" text="partner" />
+<head id="h78" start="949" end="956" text="streets" />
+<name id="n0" start="20" end="27" text="Florida" />
+<name id="n1" start="70" end="73" text="ICE" />
+<name id="n2" start="88" end="95" text="PHOENIX" />
+<name id="n3" start="125" end="132" text="Florida" />
+<name id="n4" start="267" end="307" text="U.S. Immigration and Customs Enforcement" />
+<name id="n5" start="309" end="312" text="ICE" />
+<name id="n6" start="315" end="334" text="Charles A. Soderman" />
+<name id="n7" start="343" end="351" text="Marathon" />
+<name id="n8" start="353" end="357" text="Fla." />
+<name id="n9" start="394" end="402" text="Marathon" />
+<name id="n10" start="406" end="410" text="Yuma" />
+<name id="n11" start="412" end="417" text="Ariz." />
+<name id="n12" start="445" end="452" text="Mexican" />
+<name id="n13" start="571" end="574" text="ICE" />
+<name id="n14" start="639" end="645" text="Mexico" />
+<name id="n15" start="657" end="660" text="ICE" />
+<name id="n16" start="776" end="783" text="Arizona" />
+<name id="n17" start="791" end="801" text="Matt Allen" />
+<name id="n18" start="834" end="862" text="ICE Office of Investigations" />
+<name id="n19" start="866" end="873" text="Arizona" />
+<name id="n20" start="911" end="927" text="Charles Soderman" />
+<name id="n21" start="991" end="999" text="Soderman" />
+<name id="n22" start="1076" end="1096" text="Frederick J. Martone" />
+<name id="n23" start="1306" end="1314" text="Soderman" />
+<name id="n24" start="1337" end="1358" text="Department of Justice" />
+<name id="n25" start="1394" end="1397" text="ICE" />
+<name id="n26" start="1526" end="1547" text="Department of Justice" />
+<name id="n27" start="1768" end="1771" text="ICE" />
+<name id="n28" start="1969" end="1972" text="ICE" />
+<name id="n29" start="2246" end="2296" text="National Center for Missing and Exploited Children" />
+<located-mention id="lo0" start="315" end="532" text="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" TYPE="Other" />
+<located-mention id="lo1" start="315" end="532" text="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" TYPE="Other" />
+<located-mention id="lo2" start="315" end="532" text="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" TYPE="Other" />
+<CRRE id="C0" start="20" end="87" text="Florida man found guilty of sex tourism following ICE investigation" TYPE="PreMod" />
+<CRRE id="C1" start="123" end="136" text="a Florida man" TYPE="PreMod" />
+<M id="M0" start="571" end="701" text="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" TYPE="PreMod" />
+<M id="M1" start="803" end="873" text="special agent in charge of the ICE Office of Investigations in Arizona" TYPE="Preposition" />
+<entity_link id="en0" fromID="p2" fromText="a Florida man" toID="p0" toText="Florida man found guilty of sex tourism following ICE investigation" />
+<entity_link id="en1" fromID="g2" fromText="Florida" toID="g0" toText="Florida" />
+<entity_link id="en2" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en3" fromID="p4" fromText="Charles A. Soderman, 31, of Marathon, Fla." toID="p2" toText="a Florida man" />
+<entity_link id="en4" fromID="g4" fromText="Fla." toID="g2" toText="Florida" />
+<entity_link id="en5" fromID="p6" fromText="He" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<entity_link id="en6" fromID="o3" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en7" fromID="g9" fromText="Mexico" toID="g8" toText="Mexican" />
+<entity_link id="en8" fromID="g5" fromText="Marathon" toID="g3" toText="Marathon, Fla." />
+<entity_link id="en9" fromID="g10" fromText="the state of Arizona" toID="g7" toText="Ariz." />
+<entity_link id="en10" fromID="g11" fromText="Arizona" toID="g10" toText="the state of Arizona" />
+<entity_link id="en11" fromID="p13" fromText="Matt Allen" toID="p12" toText="Matt Allen, special agent in charge of the ICE Office of Investigations in Arizona" />
+<entity_link id="en12" fromID="p14" fromText="special agent in charge of the ICE Office of Investigations in Arizona" toID="p13" toText="Matt Allen" />
+<entity_link id="en13" fromID="g12" fromText="Arizona" toID="g11" toText="Arizona" />
+<entity_link id="en14" fromID="p13" fromText="Matt Allen" toID="p9" toText="My" />
+<entity_link id="en15" fromID="o6" fromText="We" toID="o5" toText="the ICE Office of Investigations in Arizona" />
+<entity_link id="en16" fromID="p16" fromText="Charles Soderman" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<entity_link id="en17" fromID="g14" fromText="our" toID="g13" toText="our" />
+<entity_link id="en18" fromID="p18" fromText="Soderman" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<entity_link id="en19" fromID="p20" fromText="Judge" toID="p19" toText="Judge Frederick J. Martone" />
+<entity_link id="en20" fromID="p5" fromText="a male child as young as six years of age" toID="p3" toText="a minor" />
+<entity_link id="en21" fromID="p22" fromText="Soderman" toID="p18" toText="Soderman" />
+<entity_link id="en22" fromID="o8" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en23" fromID="p23" fromText="child" toID="p11" toText="child" />
+<entity_link id="en24" fromID="o9" fromText="the Department of Justice" toID="o7" toText="the Department of Justice" />
+<entity_link id="en25" fromID="p25" fromText="who" toID="p24" toText="individuals who exploit children via the Internet" />
+<entity_link id="en26" fromID="o11" fromText="ICE" toID="o8" toText="ICE" />
+<entity_link id="en27" fromID="p28" fromText="children" toID="p26" toText="children" />
+<entity_link id="en29" fromID="p32" fromText="who" toID="p34" toText="those who travel overseas for sex with minors" />
+<entity_link id="en30" fromID="p36" fromText="child" toID="p23" toText="child" />
+<entity_link id="en31" fromID="p39" fromText="child" toID="p36" toText="child" />
+<entity_link id="en32" fromID="o12" fromText="ICE" toID="o11" toText="ICE" />
+<entity_link id="en33" fromID="p41" fromText="child" toID="p39" toText="child" />
+<entity_link id="en34" fromID="o13" fromText="its" toID="o12" toText="ICE" />
+<entity_link id="en35" fromID="f2" fromText="This hotline" toID="f1" toText="its toll-free hotline at 1-866-347-2423" />
+<entity_link id="en36" fromID="p43" fromText="child" toID="p41" toText="child" />
+<entity_link id="en37" fromID="o15" fromText="the National Center for Missing and Exploited Children" toID="o14" toText="the National Center for Missing and Exploited Children, an Operation Predator partner" />
+<entity_link id="en38" fromID="o16" fromText="an Operation Predator partner" toID="o15" toText="the National Center for Missing and Exploited Children" />
+<head_link id="he0" fromID="p0" fromText="Florida man found guilty of sex tourism following ICE investigation" toID="h0" toText="man" />
+<head_link id="he1" fromID="g0" fromText="Florida" toID="h1" toText="Florida" />
+<head_link id="he2" fromID="o0" fromText="ICE" toID="h2" toText="ICE" />
+<head_link id="he3" fromID="g1" fromText="PHOENIX" toID="h3" toText="PHOENIX" />
+<head_link id="he4" fromID="p1" fromText="A federal jury" toID="h4" toText="jury" />
+<head_link id="he5" fromID="p2" fromText="a Florida man" toID="h5" toText="man" />
+<head_link id="he6" fromID="g2" fromText="Florida" toID="h6" toText="Florida" />
+<head_link id="he7" fromID="p3" fromText="a minor" toID="h7" toText="minor" />
+<head_link id="he8" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h8" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he9" fromID="o2" fromText="ICE" toID="h9" toText="ICE" />
+<head_link id="he10" fromID="p4" fromText="Charles A. Soderman, 31, of Marathon, Fla." toID="h10" toText="Charles A. Soderman" />
+<head_link id="he11" fromID="g3" fromText="Marathon, Fla." toID="h11" toText="Marathon" />
+<head_link id="he12" fromID="g4" fromText="Fla." toID="h12" toText="Fla." />
+<head_link id="he13" fromID="g5" fromText="Marathon" toID="h13" toText="Marathon" />
+<head_link id="he14" fromID="g6" fromText="Yuma, Ariz." toID="h14" toText="Yuma" />
+<head_link id="he15" fromID="g7" fromText="Ariz." toID="h15" toText="Ariz." />
+<head_link id="he16" fromID="l0" fromText="the Mexican border" toID="h16" toText="border" />
+<head_link id="he17" fromID="g8" fromText="Mexican" toID="h17" toText="Mexican" />
+<head_link id="he18" fromID="p5" fromText="a male child as young as six years of age" toID="h18" toText="child" />
+<head_link id="he19" fromID="p6" fromText="He" toID="h19" toText="He" />
+<head_link id="he20" fromID="p7" fromText="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" toID="h20" toText="agents" />
+<head_link id="he21" fromID="o3" fromText="ICE" toID="h21" toText="ICE" />
+<head_link id="he22" fromID="g9" fromText="Mexico" toID="h22" toText="Mexico" />
+<head_link id="he23" fromID="o4" fromText="ICE" toID="h23" toText="ICE" />
+<head_link id="he24" fromID="p8" fromText="My agents" toID="h24" toText="agents" />
+<head_link id="he25" fromID="p9" fromText="My" toID="h25" toText="My" />
+<head_link id="he26" fromID="p10" fromText="child predators" toID="h26" toText="predators" />
+<head_link id="he27" fromID="p11" fromText="child" toID="h27" toText="child" />
+<head_link id="he28" fromID="g10" fromText="the state of Arizona" toID="h28" toText="state" />
+<head_link id="he29" fromID="g11" fromText="Arizona" toID="h29" toText="Arizona" />
+<head_link id="he30" fromID="p13" fromText="Matt Allen" toID="h30" toText="Matt Allen" />
+<head_link id="he31" fromID="p14" fromText="special agent in charge of the ICE Office of Investigations in Arizona" toID="h31" toText="agent" />
+<head_link id="he32" fromID="o5" fromText="the ICE Office of Investigations in Arizona" toID="h32" toText="ICE Office of Investigations" />
+<head_link id="he33" fromID="g12" fromText="Arizona" toID="h33" toText="Arizona" />
+<head_link id="he34" fromID="o6" fromText="We" toID="h34" toText="We" />
+<head_link id="he35" fromID="p15" fromText="men like Charles Soderman" toID="h35" toText="men" />
+<head_link id="he36" fromID="p16" fromText="Charles Soderman" toID="h36" toText="Charles Soderman" />
+<head_link id="he37" fromID="g13" fromText="our" toID="h37" toText="our" />
+<head_link id="he38" fromID="p17" fromText="our children" toID="h38" toText="children" />
+<head_link id="he39" fromID="g14" fromText="our" toID="h39" toText="our" />
+<head_link id="he40" fromID="p18" fromText="Soderman" toID="h40" toText="Soderman" />
+<head_link id="he41" fromID="p19" fromText="Judge Frederick J. Martone" toID="h41" toText="Frederick J. Martone" />
+<head_link id="he42" fromID="p20" fromText="Judge" toID="h42" toText="Judge" />
+<head_link id="he43" fromID="p21" fromText="a minor" toID="h43" toText="minor" />
+<head_link id="he44" fromID="f0" fromText="federal prison" toID="h44" toText="prison" />
+<head_link id="he45" fromID="p22" fromText="Soderman" toID="h45" toText="Soderman" />
+<head_link id="he46" fromID="o7" fromText="the Department of Justice" toID="h46" toText="Department of Justice" />
+<head_link id="he47" fromID="o8" fromText="ICE" toID="h47" toText="ICE" />
+<head_link id="he48" fromID="p23" fromText="child" toID="h48" toText="child" />
+<head_link id="he49" fromID="o9" fromText="the Department of Justice" toID="h49" toText="Department of Justice" />
+<head_link id="he51" fromID="p24" fromText="individuals who exploit children via the Internet" toID="h51" toText="individuals" />
+<head_link id="he52" fromID="p25" fromText="who" toID="h52" toText="who" />
+<head_link id="he53" fromID="p26" fromText="children" toID="h53" toText="children" />
+<head_link id="he54" fromID="p27" fromText="victims" toID="h54" toText="victims" />
+<head_link id="he55" fromID="o11" fromText="ICE" toID="h55" toText="ICE" />
+<head_link id="he56" fromID="p28" fromText="children" toID="h56" toText="children" />
+<head_link id="he58" fromID="p30" fromText="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders and child sex traffickers" toID="h57" toText="predators" />
+<head_link id="he60" fromID="p32" fromText="who" toID="h59" toText="who" />
+<head_link id="he61" fromID="p33" fromText="minors" toID="h60" toText="minors" />
+<head_link id="he62" fromID="p34" fromText="those who travel overseas for sex with minors" toID="h58" toText="those" />
+<head_link id="he63" fromID="p35" fromText="Internet child pornographers" toID="h61" toText="pornographers" />
+<head_link id="he64" fromID="p36" fromText="child" toID="h62" toText="child" />
+<head_link id="he65" fromID="p37" fromText="criminal alien sex offenders" toID="h63" toText="offenders" />
+<head_link id="he66" fromID="p38" fromText="child sex traffickers" toID="h64" toText="traffickers" />
+<head_link id="he67" fromID="p39" fromText="child" toID="h65" toText="child" />
+<head_link id="he68" fromID="o12" fromText="ICE" toID="h66" toText="ICE" />
+<head_link id="he69" fromID="g15" fromText="the public" toID="h67" toText="public" />
+<head_link id="he70" fromID="p40" fromText="suspected child predators" toID="h68" toText="predators" />
+<head_link id="he71" fromID="p41" fromText="child" toID="h69" toText="child" />
+<head_link id="he72" fromID="o13" fromText="its" toID="h70" toText="its" />
+<head_link id="he73" fromID="f1" fromText="its toll-free hotline at 1-866-347-2423" toID="h71" toText="hotline" />
+<head_link id="he74" fromID="f2" fromText="This hotline" toID="h72" toText="hotline" />
+<head_link id="he75" fromID="p42" fromText="investigators" toID="h73" toText="investigators" />
+<head_link id="he76" fromID="p43" fromText="child" toID="h74" toText="child" />
+<head_link id="he77" fromID="p44" fromText="missing children" toID="h75" toText="children" />
+<head_link id="he78" fromID="o15" fromText="the National Center for Missing and Exploited Children" toID="h76" toText="National Center for Missing and Exploited Children" />
+<head_link id="he79" fromID="o16" fromText="an Operation Predator partner" toID="h77" toText="partner" />
+<head_link id="he57" fromID="f3" fromText="our streets" toID="h78" toText="streets" />
+<name_link id="na0" fromID="g0" fromText="Florida" toID="n0" toText="Florida" />
+<name_link id="na1" fromID="o0" fromText="ICE" toID="n1" toText="ICE" />
+<name_link id="na2" fromID="g1" fromText="PHOENIX" toID="n2" toText="PHOENIX" />
+<name_link id="na3" fromID="g2" fromText="Florida" toID="n3" toText="Florida" />
+<name_link id="na4" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n4" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na5" fromID="o2" fromText="ICE" toID="n5" toText="ICE" />
+<name_link id="na6" fromID="p4" fromText="Charles A. Soderman, 31, of Marathon, Fla." toID="n6" toText="Charles A. Soderman" />
+<name_link id="na7" fromID="g3" fromText="Marathon, Fla." toID="n7" toText="Marathon" />
+<name_link id="na8" fromID="g4" fromText="Fla." toID="n8" toText="Fla." />
+<name_link id="na9" fromID="g5" fromText="Marathon" toID="n9" toText="Marathon" />
+<name_link id="na10" fromID="g6" fromText="Yuma, Ariz." toID="n10" toText="Yuma" />
+<name_link id="na11" fromID="g7" fromText="Ariz." toID="n11" toText="Ariz." />
+<name_link id="na12" fromID="g8" fromText="Mexican" toID="n12" toText="Mexican" />
+<name_link id="na13" fromID="o3" fromText="ICE" toID="n13" toText="ICE" />
+<name_link id="na14" fromID="g9" fromText="Mexico" toID="n14" toText="Mexico" />
+<name_link id="na15" fromID="o4" fromText="ICE" toID="n15" toText="ICE" />
+<name_link id="na16" fromID="g11" fromText="Arizona" toID="n16" toText="Arizona" />
+<name_link id="na17" fromID="p13" fromText="Matt Allen" toID="n17" toText="Matt Allen" />
+<name_link id="na18" fromID="o5" fromText="the ICE Office of Investigations in Arizona" toID="n18" toText="ICE Office of Investigations" />
+<name_link id="na19" fromID="g12" fromText="Arizona" toID="n19" toText="Arizona" />
+<name_link id="na20" fromID="p16" fromText="Charles Soderman" toID="n20" toText="Charles Soderman" />
+<name_link id="na21" fromID="p18" fromText="Soderman" toID="n21" toText="Soderman" />
+<name_link id="na22" fromID="p19" fromText="Judge Frederick J. Martone" toID="n22" toText="Frederick J. Martone" />
+<name_link id="na23" fromID="p22" fromText="Soderman" toID="n23" toText="Soderman" />
+<name_link id="na24" fromID="o7" fromText="the Department of Justice" toID="n24" toText="Department of Justice" />
+<name_link id="na25" fromID="o8" fromText="ICE" toID="n25" toText="ICE" />
+<name_link id="na26" fromID="o9" fromText="the Department of Justice" toID="n26" toText="Department of Justice" />
+<name_link id="na27" fromID="o11" fromText="ICE" toID="n27" toText="ICE" />
+<name_link id="na28" fromID="o12" fromText="ICE" toID="n28" toText="ICE" />
+<name_link id="na29" fromID="o15" fromText="the National Center for Missing and Exploited Children" toID="n29" toText="National Center for Missing and Exploited Children" />
+<relation_link1 id="r0" fromID="C0" fromText="Florida man found guilty of sex tourism following ICE investigation" toID="p0" toText="Florida man found guilty of sex tourism following ICE investigation" />
+<relation_link1 id="r1" fromID="C1" fromText="a Florida man" toID="p2" toText="a Florida man" />
+<relation_link1 id="r2" fromID="lo0" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<relation_link1 id="r3" fromID="lo1" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<relation_link1 id="r4" fromID="lo2" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="p4" toText="Charles A. Soderman, 31, of Marathon, Fla." />
+<relation_link1 id="r5" fromID="M0" fromText="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" toID="p7" toText="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" />
+<relation_link1 id="r6" fromID="M1" fromText="special agent in charge of the ICE Office of Investigations in Arizona" toID="p14" toText="special agent in charge of the ICE Office of Investigations in Arizona" />
+<relation_link2 id="re0" fromID="C0" fromText="Florida man found guilty of sex tourism following ICE investigation" toID="g0" toText="Florida" />
+<relation_link2 id="re1" fromID="C1" fromText="a Florida man" toID="g2" toText="Florida" />
+<relation_link2 id="re2" fromID="lo0" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="g5" toText="Marathon" />
+<relation_link2 id="re3" fromID="lo1" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="g6" toText="Yuma, Ariz." />
+<relation_link2 id="re4" fromID="lo2" fromText="Charles A. Soderman, 31, of Marathon, Fla., was found guilty after flying from Marathon to Yuma, Ariz., and then traveling to the Mexican border in an attempt to have sex with a male child as young as six years of age" toID="l0" toText="the Mexican border" />
+<relation_link2 id="re5" fromID="M0" fromText="ICE agents running an undercover operation to halt sex tourism into Mexico as part of ICE's national Operation Predator initiative" toID="o3" toText="ICE" />
+<relation_link2 id="re6" fromID="M1" fromText="special agent in charge of the ICE Office of Investigations in Arizona" toID="o5" toText="the ICE Office of Investigations in Arizona" />
+</TAGS>
+</KddTask>

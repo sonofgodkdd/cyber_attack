@@ -1,0 +1,18 @@
+New Cryptocurrency Mining Malware Infected Over 500,000 PCs in Just Few Hours
+Mohit Kumar
+
+Two days ago, Microsoft encountered a rapidly spreading cryptocurrency-mining malware that infected almost 500,000 computers within just 12 hours and successfully blocked it to a large extent.
+Dubbed Dofoil, aka Smoke Loader, the malware was found dropping a cryptocurrency miner program as payload on infected Windows computers that mines Electroneum coins, yet another cryptocurrency, for attackers using victims' CPUs.
+On March 6, Windows Defender suddenly detected more than 80,000 instances of several variants of Dofoil that raised the alarm at Microsoft Windows Defender research department, and within the next 12 hours, over 400,000 instances were recorded.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The research team found that all these instances, rapidly spreading across Russia, Turkey, and Ukraine, were carrying a digital coin-mining payload, which masqueraded as a legitimate Windows binary to evade detection.
+However, Microsoft has not mentioned how these instances were delivered to such a massive audience at the first place in this short period.
+Dofoil uses a customized mining application that can mine different cryptocurrencies, but in this campaign, the malware was programmed to mine Electroneum coins only.
+According to the researchers, Dofoil trojan uses an old code injection technique called 'process hollowing' that that involves spawning a new instance of a legitimate process with a malicious one so that the second code runs instead of the original, tricking process monitoring tools and antivirus into believing that the original process is running.
+"The hollowed explorer.exe process then spins up a second malicious instance, which drops and runs a coin mining malware masquerading as a legitimate Windows binary, wuauclt.exe."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To stay persistence on an infected system for a long time to mine Electroneum coins using stolen computer resources, Dofoil trojan modifies the Windows registry.
+"The hollowed explorer.exe process creates a copy of the original malware in the Roaming AppData folder and renames it to ditereah.exe," the researchers say. "It then creates a registry key or modifies an existing one to point to the newly created malware copy. In the sample we analyzed, the malware modified the OneDrive Run key."
+Dofoil also connects to a remote command and control (C&C) server hosted on decentralized Namecoin network infrastructure and listens for new commands, including the installation of additional malware.
+Microsoft says behavior monitoring and Artificial intelligence based machine learning techniques used by Windows Defender Antivirus have played an important role to detect and block this massive malware campaign.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

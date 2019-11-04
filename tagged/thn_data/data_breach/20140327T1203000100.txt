@@ -1,0 +1,14 @@
+25 Million 'NAVER' Accounts Breached using Stolen Data
+Anonymous
+
+A 31-year-old South Korean has been recently accused by the police for the allegation of infiltrating and hacking the accounts of 25 million users of Naver, one of the popular search portal in South Korea.
+On Wednesday, the Asian National Police Agency revealed that the suspect purchased the private information of 25 million users, including names, residential numbers, Internet IDs and passwords from a Korean-Chinese, back in August last year, Korea Herald reported.
+The suspect surnamed 'Seo', supposedly used the purchased information to hack into the accounts of Naver users and sent out spam messages and other ‘illicit emails’ to the account holders. He had made an illegal profit of some 160 million won ($148,000) using this, according to the report.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also a hacker surnamed 'Hong', has been arrested by the police who was suspected to develop the hacking program that automatically enter users’ IDs and passwords, which was apparently used by 'Seo' to sign-in to the Naver users' accounts.
+The police have charged three accomplices of Seo without detention and enhancing their investigation to 86 others who are suspected to buy the computer programs made by Hong.
+On this issue, a Naver official stressed that Naver was not at fault regarding the incident, rather the personal information of the users are ready to purchase from the black market of the Korea. So, the data are not abused by the internal sources, rather it is very easy for the people having a hand on users’ sensitive information.
+He added “the best preventive measure for now would be for users to change their passwords on a regular basis so that even if someone should access their accounts the impact would be minimal.”
+He might be right at this point, as earlier this month, 20 Million Credit Cards in South Korea were stolen in the country of 50 million population, which is approx 40% Population of the country who were affected by the Data breach.
+Also In 2012, two South Korean hackers were arrested for data from 8.7 million customers in the nation's second-biggest mobile operator.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

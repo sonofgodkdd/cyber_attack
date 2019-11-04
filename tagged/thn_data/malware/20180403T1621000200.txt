@@ -1,0 +1,36 @@
+New Android Malware Secretly Records Phone Calls and Steals Private Data
+Swati Khandelwal
+
+Security researchers at Cisco Talos have uncovered variants of a new Android Trojan that are being distributed in the wild disguising as a fake anti-virus application, dubbed "Naver Defender."
+Dubbed KevDroid, the malware is a remote administration tool (RAT) designed to steal sensitive information from compromised Android devices, as well as capable of recording phone calls.
+Talos researchers published Monday technical details about two recent variants of KevDroid detected in the wild, following the initial discovery of the Trojan by South Korean cybersecurity firm ESTsecurity two weeks ago.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though researchers haven't attributed the malware to any hacking or state-sponsored group, South Korean media have linked KevDroid with North Korea state-sponsored cyber espionage hacking group "Group 123," primarily known for targeting South Korean targets.
+The most recent variant of KevDroid malware, detected in March this year, has the following capabilities:
+record phone calls & audio
+steal web history and files
+gain root access
+steal call logs, SMS, emails
+collect device' location at every 10 seconds
+collect a list of installed applications
+Malware uses an open source library, available on GitHub, to gain the ability to record incoming and outgoing calls from the compromised Android device.
+Although both malware samples have the same capabilities of stealing information on the compromised device and recording the victim's phone calls, one of the variants even exploits a known Android flaw (CVE-2015-3636) to get root access on the compromised device.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+All stolen data is then sent to an attacker-controlled command and control (C2) server, hosted on PubNub global Data Stream Network, using an HTTP POST request.
+"If an adversary were successful in obtaining some of the information KevDroid is capable of collecting, it could result in a multitude of issues for the victim," resulting in "the leakage of data, which could lead to a number of things, such as the kidnapping of a loved one, blackmail by using images or information deemed secret, credential harvesting, multi-factor token access (SMS MFA), banking/financial implications and access to privileged information, perhaps via emails/texts," Talos says.
+"Many users access their corporate email via mobile devices. This could result in cyber espionage being a potential outcome for KevDroid."
+Researchers also discovered another RAT, designed to target Windows users, sharing the same C&C server and also uses PubNub API to send commands to the compromised devices.
+How to Keep Your Smartphone Secure
+Android users are advised to regularly cross-check apps installed on their devices to find and remove if any malicious/unknown/unnecessary app is there in the list without your knowledge or consent.
+Such Android malware can be used to target your devices as well, so you if own an Android device, you are strongly recommended to follow these simple steps to help avoid this happening to you:
+Never install applications from 3rd-party stores.
+Ensure that you have already opted for Google Play Protect.
+Enable 'verify apps' feature from settings.
+Keep "unknown sources" disabled while not using it.
+Install anti-virus and security software from a well-known cybersecurity vendor.
+Regularly back up your phone.
+Always use an encryption application for protecting any sensitive information on your phone.
+Never open documents that you are not expecting, even if it looks like it's from someone you know.
+Protect your devices with pin or password lock so that nobody can gain unauthorized access to your device when remains unattended.
+Keep your device always up-to-date with the latest security patches.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

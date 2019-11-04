@@ -1,0 +1,23 @@
+Crazy! Hacker Implants NFC Chip In His Hand To Hack Android Phones
+Mohit Kumar
+There is a very sleek line between hacking and security. The security used to protect the public could be misused by hackers against the public itself, and one shouldn’t forget that with the advance in technology, the techniques used by cyber criminals also improves.
+Today, What hackers need to conduct a successful cyber attack? 
+Maybe just a computing device injected under the skin of their bodies, who can bear the pain, would be enough to help complete a successful cyber attack – also known as Biohacking.
+This was exactly what presented by the former U.S. Navy petty officer and now engineer at APA Wireless Seth Wahle.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+With no malicious intention, Wahle implanted a small NFC chip in his left hand right between his thumb and his pointer finger in order to display the risks of Biohacking.
+Hacking Android devices using NFC implants:
+For those unaware, NFC (Near Field Communications) chips embedded in our smartphone devices are used for transferring files and in various mobile payment applications.
+Wahle's chip has an NFC antenna that is capable to hack Android devices and bypass almost all security measures. The chip can ping a nearby Android smartphone, prompting its user to open a link.
+Once the user of the smartphone agrees to open that link, the link installs a malicious piece of software on the phone that allows the phone to connect to a remote computer controlled by the hacker.
+The hacker would now be able to carry out further exploits on the victim's device, potentially putting all the important information and sensitive data of victim at risk.
+How is NFC implant done?
+In order to implant the NFC device, Wahle bought a chip designed to be injected into cattle and implanted the chip by an "unlicensed amateur" for $40 by using a needle which was larger than he had initially expected, Wahle told Forbes during a Skype call.
+The worst part about NFC implant:
+The chip implant into Wahle hand was almost invisible after few days. The major thing to worry about this technique is that the NFC chip goes completely undetected in almost all kinds of security measures, including the security checkpoints in airports and other high-security locations.
+Wahle said that with the chip implanted in himself, he went through daily scans prior to leaving the military and the chip was never detected. But, he also notes that the X-rays would be able to detect the chip.
+However, these Implantable NFC chips potentially open up a smart way for hackers to hack Android devices and networks and gain access to victims' sensitive information."This implanted chip can bypass pretty much any security measures that are in place at this point and we will show proof of that," said Rod Soto, the event’s secretary of the board and security consultant.Limitations of the attacks:
+There are some limitations to methods like this, as Wahle says that the remote connection made by a hacker to the server can only be kept if the affected Android device is not locked or rebooted.
+However, these limitations could be overcome by various means. Like if, say, the affected phone is rebooted, a software run as a background service that starts on boot would fix the problem.
+Wahle will be presenting his finding at the Hack Miami conference taking place this May, with Rod Soto. Both of them intended to alert about these latest strategies that can be used by hackers to hack terminals and networks.
+They also admitted that this NFC implant-based attack could provide hackers and cyber criminals with a particularly useful "tool in their social engineering toolset."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

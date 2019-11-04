@@ -1,0 +1,25 @@
+Google Researcher Finds Link Between WannaCry Attacks and North Korea
+Swati Khandelwal
+
+So far, nobody had an idea that who was behind WannaCry ransomware attacks?
+But now there is a clue that lies in the code.
+Neel Mehta, a security researcher at Google, found evidence that suggests the WannaCry ransomware, that infected 300,000 machines in 150 countries over the weekend, is linked to a state-sponsored hacking group in North Korea, known for cyber attacks against South Korean organizations.
+What's Happening? What is WannaCry?
+This is the fifth day since the WannaCry ransomware attack surfaced, that leverages a critical Windows SMB exploit and still infecting machines across the world using newly released variants that don't have any "kill switch" ability.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In case, if you have landed on WannaCry story for the first time, and don’t know what’s going on, you are advised to also read this simple, summarized, but detailed explanation:
+WannaCry: What Has Happened So Far & How to protect your PCs
+WannaCry: First Nation-State Powered Ransomware?
+Neel discovered that the code found in the WannaCry malware—one that first surfaced in February—was identical to the code used in an early 2015 version of Cantopee, a malicious backdoor developed by Lazarus Group, believed to be a state-sponsored hacking group linked to the North Korean government.
+Security researchers from Kaspersky Lab, Intezer, Symantec, and Comae Technologies immediately followed the tip from Neel and confirmed a strong link between WannaCry and other malware families, including Lazarus, Joanap, and Brambul, which suggests WannaCry was written or modified by the same author.
+Operating since at least 2011, Lazarus Group of hackers believed to be responsible for the 2013 DarkSeoul operation, the devastating 2014 Sony Pictures Hack, and the 2016 Bangladesh $81 Million bank heist.
+However, this finding is not yet sufficient to link the Lazarus Group to WannaCry, because it is possible that WannaCry authors may have purposely copied code from Lazarus' backdoor program in an attempt to mislead researchers and law enforcement as they investigate.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"We believe that there are sufficient connections to warrant further investigation. We will continue to share further details of our research as it unfolds," says Symantec, the security firm which has tracked the Lazarus over recent years.
+Agreeing to the same, Matt Suiche from Comaeio said:
+"The attribution to Lazarus Group would make sense regarding their narrative which in the past was dominated by infiltrating financial institutions in the goal of stealing money. If validated, this means the latest iteration of WannaCry would, in fact, be the first nation state powered ransomware."
+Is the WannaCry Attack Over? *NO*
+Absolutely Not; this is just the beginning.
+Security researchers have discovered some new variants of this ransomware, which could not be stopped by the kill switch, so you are advised to make sure you have applied the patch for SMB vulnerability and disabled SMBv1 protocol to keep your Windows computers safe from WannaCry and other similar attacks.
+The WannaCry attackers demand ransom fees between $300 to $600 to free the hijacked data. The three bitcoin wallets tied to #WannaCry ransomware have received 225 payments totaling 35.98003282 BTC (approx. $60,000) from ransomware victims.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

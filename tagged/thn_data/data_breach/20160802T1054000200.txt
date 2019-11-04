@@ -1,0 +1,22 @@
+Hacker Selling 200 Million Yahoo Accounts On Dark Web
+Swati Khandelwal
+
+Hardly a day goes without headlines about any significant data breach. In the past few months, over 1 Billion account credentials from popular social network sites, including LinkedIn, Tumblr, MySpace and VK.com were exposed on the Internet.
+Now, the same hacker who was responsible for selling data dumps for LinkedIn, MySpace, Tumblr and VK.com is now selling what is said to be the login information of 200 Million Yahoo! users on the Dark Web.
+200 Million Yahoo! Logins for 3 BTC
+The hacker, who goes by the pseudonym "Peace" or "peace_of_mind," has uploaded 200 Million Yahoo! credentials up for sale on an underground marketplace called The Real Deal for 3 Bitcoins (US$1,824).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yahoo! admitted the company was "aware" of the potential leak, but did not confirm the authenticity of the data.
+The leaked database includes usernames, MD5-hashed passwords and date of births from 200 Million Yahoo! Users. In some cases, there is also the backup email addresses used for the account, country of origin, as well as the ZIP codes for United States users.
+Easily Crackable Passwords
+Since the passwords are MD5-encrypted, hackers could easily decrypt them using an MD5 decrypter available online, making Yahoo! users open to hackers.
+In a brief description, Peace says the Yahoo! database "most likely" comes from 2012, the same year when Marissa Mayer became Yahoo's CEO.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Just last week, Verizon acquired Yahoo! for $4.8 Billion. So, the hacker decided to monetize the stolen user accounts before the data lose its value.
+When reached out, the company said in a statement:
+"We are committed to protecting the security of our users' information and we take such claim very seriously. Our security team is working to determine the facts...we always encourage our users to create strong passwords, or give up passwords altogether by using Yahoo Account Key, and use different passwords for different platforms."
+Use Password Managers to Secure Your Online Accounts
+Although the company has not confirmed the breach, users are still advised to change their passwords (and keep a longer and stronger one using a good password manager) and enable two-factor authentication for online accounts immediately, especially if you are using the same password for multiple websites.
+You can also adopt a good password manager that allows you to create complex passwords for different sites as well as remember them for you. 
+We have listed some best password managers here that could help you understand the importance of password manager and help you choose a suitable one, according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

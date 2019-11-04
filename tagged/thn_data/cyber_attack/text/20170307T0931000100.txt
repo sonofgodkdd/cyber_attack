@@ -1,0 +1,31 @@
+StoneDrill Disk Wiping Malware Found Targeting European Industries
+Mohit Kumar
+
+A new disk wiping malware has been uncovered targeting a petroleum company in Europe, which is quite similar to the mysterious disk wiper malware Shamoon that wiped data from 35,000 computers at Saudi Arabia's national oil company in 2012.
+Disk wiping malware has the ability to cripple any organization by permanently wiping out data from all hard drive and external storage on a targeted machine, causing great financial and reputational damage.
+Security researchers from Moscow-based antivirus provider Kaspersky Lab discovered the new wiper StoneDrill while researching last November's re-emergence of Shamoon malware (Shamoon 2.0) attacks – two attacks occurred in November and one in late January.
+Shamoon 2.0 is the more advanced version of Shamoon malware that reportedly hit 15 government agencies and organizations across the world, wipes data and takes control of the computer’s boot record, preventing the computers from being turned back on.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Meanwhile, Kaspersky researchers found that the newly discovered StoneDrill wiper malware was built in a similar "style" to Shamoon 2.0, but did not share the exact same code base.
+"The discovery of the StoneDrill wiper in Europe is a significant sign that the group is expanding its destructive attacks outside the Middle East," Kaspersky researchers say in a blog post. "The target for the attack appears to be a large corporation with a wide area of activity in the petrochemical sector, with no apparent connection or interest in Saudi Arabia."
+Researchers also noticed that the samples of Shamoon 2.0 and StoneDrill were also uploaded multiple times to online multi-scanner antivirus engines from Saudi Arabia last November.
+Here's How StoneDrill Malware Works:
+StoneDrill has been designed to as a service and target all systems connected within an organization to a Windows domain. In order to spread itself, the malware relies on a list of hard coded, previously stolen usernames and passwords belonging to administrators of the targeted domain.
+Once infected, StoneDrill automatically generates a custom wiper malware module without connecting to any command-and-control server, rendering the infected machines completely inoperable.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+StoneDrill wiper malware also includes the following characteristics:
+New Evasion Techniques
+StoneDrill features an impressive ability to evade detection and avoid sandbox execution. Unlike Shamoon, StoneDrill doesn't make use of disk drivers during installation.
+Instead, StoneDrill relies on memory injection of the data wiping module into the victim's preferred browser.
+StoneDrill also makes use of Visual Basic Scripts to run self-delete scripts, while Shamoon did not use any external scripts.
+Backdoor Ability
+Like Shamoon, StoneDrill also includes backdoor functions that are used for espionage operations, with screenshot and upload capabilities.
+Kaspersky researchers identified at least four command-and-control (C&C) servers that the attackers used to spy on and steal data from an unknown number of targets. 
+Furthermore, StoneDrill uses command and control communications to interact with the malware instead of using a "kill time" as in the Shamoon attacks analyzed in January 2017 that do not implement any C&C communication.
+Ransomware Component
+Besides wiping functionality, the new malware also includes a ransomware component.
+However, this feature is currently inactive but attackers can use leverage this part of the platform in future attacks to hold victims hostage for financial or idealistic gain.
+Like Shamoon 2.0, StoneDrill was reportedly compiled in October and November 2016. 
+Although StoneDrill mostly targets organizations in Saudi Arabia, Kaspersky researchers discovered the malware victims in Europe as well, meaning that the attackers might be widening their campaign.
+For more technical details about the StoneDrill and Shamoon 2.0 attacks, you can head on to Kaspersky's official blog.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

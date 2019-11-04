@@ -1,0 +1,20 @@
+Air Traffic Control System Failure Caused by Memory Shortage - A Cyber Attack?
+Wang Wei
+
+A shortage of computer memory in the $2.4 billion Air Traffic Control System caused a Computer crash that resulted in the System collapse, according to an insider close to the incident.
+The problems began on 30 April, when a U-2 spy plane flew over southwestern US caused the air traffic control system that manages the airspace around Los Angeles' LAX airport, built by Lockheed Martin, to crash due to which hundreds of flight delayed or cancelled two weeks ago.
+“In theory, the same vulnerability could have been used by an attacker in a deliberate shut-down,” security experts told Reuters. Now that the “very basic limitation of the system” is known, experts showed concerns about the cyber-attacks.
+Sources claimed to Reuters that on April 30, 2014 the aircraft traffic failed to obtain the altitude information for a single U-2 spy plane which was flying over the area because a controller entered the altitude of the spook flight into the En Route Automation Modernisation (ERAM) system, developed by Lockheed Martin.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Lockheed Martin created the En Route Automation Modernization (ERAM) air traffic control system, claims it conducts "robust testing" on all its systems, so the shortage of altitude information in the U-2’s flight plan caused the automated system to generate error messages and begin cycling through restarts.
+I NEED MORE MEMORY
+The system failure was caused due to the complex nature of the U-2’s flight plan. The U-2’s flight ERAM system failed because it limits how much data each plane can send it, however most of the aircraft have a simple flight plan do not exceed the limits as it restrict the data sent back to the ERAM.
+While an air traffic controller entered the usual altitude for a U-2 plane i.e. about 60,000 feet, the system began to calculate all possible altitudes between ground level and infinity for the flight, in order to ensure the U-2 plane wasn't on a crash course with other aircrafts.
+Now this process need “a large amount of available memory and interrupted the computer's other flight-processing functions," according to a Federal Aviation Administration (FAA) spokesperson, Laura Brown.
+As a result, the air traffic system was completely fails to access parts of the US skies from West Coast to Arizona and from Nevada to the Mexico border. No accidents or injuries were reported, however it caused inconvenience to thousands of passengers who had their flights delayed or cancelled.
+In response, the FAA said it has changed the way traffic controllers obtain flight plan information and upgraded the computer systems with more memory, which should prevent similar episodes from occurring in the future.
+A CYBER ATTACK?
+Where some security experts say that the incident could be a part of cyber attack deliberately caused by hackers, others argue it would be impossible to recreate such specific conditions. Sources told Reuters that the original error is very difficult to replicate and added that there’s no indication that it could be used to carry out any cyber attack.
+But according to security experts, it could be a cyber attack and the failure appeared to have been made possible by the sort of routine programming mistake that should have been identified in testing before it was deployed.
+Cyber attacks against physical infrastructure are becoming an interesting area for the hackers, however there are very few such activities seen in real scenario, the most famous among is Stuxnet case, used against uranium centrifuges in Iran.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,33 @@
+Popular Period Tracking Apps Share Your Sexual Health Data With Facebook
+Swati Khandelwal
+
+Hello Ladies, let's talk about periods, privacy, and Facebook.
+Are you using an app on your smartphone to keep tracks on your periods?
+Well, it's worrying, because it might be sharing your extremely sensitive information like menstrual cycle and sexual activities with Facebook.
+A new investigative report from UK-based advocacy group Privacy International revealed how some most popular period tracker apps used by millions of women share their most private health information—including monthly period cycles, contraception use, sexual life, symptoms, like swelling and cramps, and more—directly with Facebook.
+These period-tracking apps, listed below, transfer your data to Facebook the moment you open them, regardless of the fact that you have a Facebook account or not, and whether you are logged into the social network platform or not.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Period-tracking apps are used by women to keep tracks on their monthly period cycles, but mostly they are being used by those who want to conceive, as such apps can help them monitor ovulation days when there are more chances of conceiving a child.
+For accuracy in calculating the day of the month you're most fertile or the date of your next period, these apps ask you to log some of your most sensitive information into the app, like when you have sex, dates of your periods, physical and emotional symptoms and more—the information you would otherwise not prefer to share with anyone.
+These Period Tracking Apps Share Your Data With Facebook
+However, Privacy International found that some of the most popular period-tracking apps with millions of downloads on Google Play Store, listed below, share this information directly with Facebook or other third-party services.
+The apps share user-entered data with Facebook via its software development kit (SDK) integrated into the app to help app developers, among other functions, earn revenue by collecting user data so Facebook can show them targeted advertisements.
+Maya—owned by India-based Plackal Tech and has over 5 million downloads
+MIA Fem: Ovulation Calculator—by Cyprus-based Mobapp Development Limited and has over 1 million downloads
+My Period Tracker—owned by Linchpin Health and has over 1 million downloads
+Ovulation Calculator—owned by PinkBird and has over half a million downloads
+Mi Calendario—by Grupo Familia and has more than 1 million downloads
+"The wide reach of the apps that our research has looked at might mean that intimate details of the private lives of millions of users across the world are shared with Facebook and other third parties without those users' free unambiguous and informed or explicit consent, in the case of sensitive personal data, such as data relating to a user's health or sex life," the report reads.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides sharing users' data with third-party services, some period-tracking apps even ask them if they want to anonymize this data or not, as the report says: "If you have unprotected sex, MIA will tell you what to do. And share it with Facebook and others."
+"Confidentiality is at the heart of medical ethics and countries that have data protection laws traditionally have a separate regime for health data, which includes health data, which are considered sensitive data," the researchers said.
+"Our research highlights that the apps we have exposed raise serious concerns when it comes to their compliance with their GDPR obligations, especially around consent and transparency."
+Facebook and Affected Apps Responded
+When contacted, one of the app, called Maya, told PI that the app had "removed both the Facebook core SDK and Analytics SDK from Maya" and released a new version of its app, Version 3.6.7.7, on the Google Play Store that reflect these changes.
+Maya also said the app would continue to use the Facebook Ad SDK for users who had agreed to its terms and conditions and privacy policy, but added that it does not "share any personally identifiable data or medical data with the Facebook Ad SDK."
+PinkBird, who owns Ovulation Calculator, acknowledged that the app had integrated Facebook advertising SDK to maintain the development of PinkBird team, but said it would "investigate whether the advertising platform collects users' private data or not, and if it collects, we will remove it immediately."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the report, Facebook said its Terms require every app developer to be clear with their users about what information they are gathering and sharing with the social network and have a "lawful basis" for collecting this data.
+Facebook also added that it prohibits app developers from sharing customer data that "includes health, financial information, or other categories of sensitive information (including any information defined as sensitive under applicable law)."
+The social media giant also said it had got in touch with the period-tracking apps in question about potential violations of Facebook's terms of service.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

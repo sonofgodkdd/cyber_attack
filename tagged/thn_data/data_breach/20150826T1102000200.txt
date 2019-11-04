@@ -1,0 +1,33 @@
+Ashley Madison Hacker – An Insider Woman Employee?
+Swati Khandelwal
+
+"Ashley Madison was not hacked!"
+This is what declared by John McAfee, former founder of antivirus software company McAfee.
+So far everyone must be aware of Ashley Madison massive data breach. Last week, the hackers, who called themselves Impact Team, posted 10GB of personal data for tens of Millions of its customers, including their names and email addresses. 
+Frequently followed by another leak, where hackers released another 20GB of company's internal data, including personal emails from the CEO of Ashley Madison parent company Avid Life, Noel Biderman, along with the source code for its website and mobile apps.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+John McAfee: Ashley Madison is an Inside Job by a Woman
+However, in a post published in the International Business Times, McAfee made a controversial statement saying, "Ashley Madison was not hacked," and claiming that the alleged data breach was "an inside job."
+McAfee says Ashley Madison data was plundered by an ex-employee. A female ex-employee who worked for Toronto-based Avid Life Media, the parent company of the adultery website Ashley Madison.
+The reason, no doubt, sounds good enough, but I wonder where he get this idea from. Snowden?
+Conclusions by McAfee 
+McAfee claims that he discovered this by pouring over the 40-gigabytes of hacked database leaked so far by the alleged hacking group, which calls itself the Impact Team. 
+Data analysis has led him to draw three conclusions: 
+The hack was a solo affair
+The breach was perpetrated by an insider
+A woman is behind it
+Evidences by McAfee to Prove his Conclusions
+To prove his first claim that the hack was a solo affair, McAfee provided the details in his July post on IBTimes. He wrote, "I cannot tell you how I know, but the simple published data should help point to this fact." 
+Here's what he says for his conclusion that the hack was perpetrated by an insider:
+How did I discover that it was an inside job?
+From the [leaked data], it was clear that the perpetrator had intimate knowledge of the technology stack of the company...The data contains actual MySQL database dumps. [It] is not just someone copying a table and making into a .csv file. Hackers rarely have full knowledge of the technology stack of a target.
+Now at last, Why a Woman? 
+McAfee says the attacker used the words like "scumbags" and "cheating dirtbags" when referring to men, and her mentioning of someone who "spitefully" joined Ashley Madison the day after Valentine's Day, as decidedly feminine. 
+"If this does not convince you then you need to get out of the house more often," McAfee says.
+Wait what? Is he saying me to get out?  
+Okay, that is an understatement. 
+Well, we know McAfee is a bit of a character in the cyber security world. He always remains in controversies, like for murdering his neighbor, for claiming to be the target of assassins or for being arrested for driving while under the influence. 
+However, on the other side, McAfee is a well-established name in cyber security, an innovator who made Millions through an anti-virus software company named after him.
+For the hacker(s) part, Avid Life Media is offering a cash reward of up to $500,000 for information leading to the arrest of the hackers who breached the data of Ashley Madison.
+Well, The Hacker News lets you draw your own conclusions. So let us know your thoughts about the reasons given by John McAfee. Hit the comments below.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

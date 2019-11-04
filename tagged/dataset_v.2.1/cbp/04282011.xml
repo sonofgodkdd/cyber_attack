@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Announces Seasonal Opening of Cape Vincent, N.Y. Port of Entry
+(Thursday, April 28, 2011)
+Alexandria Bay, N.Y.  - U.S. Customs and Border Protection today announced that the Cape Vincent port of entry will open April 29 for the season, through October 31. Hours of operation are 8 a.m. until 8 p.m.
+The port works with the Horne's Ferry Service that provides a ferry service to Wolfe Island, Ontario, Canada during the open season of operation. The ferry, which is under contract to the Canadian Ministry of Transportation, transports vehicles, including buses and pedestrian passengers. CBP provides inspection services to the ferry dockside prior to the release of passengers and vehicles.
+In compliance with the Western Hemisphere Travel Initiative, implemented June 1, 2009, all travelers, including U.S. and Canadian citizens, need to present an approved travel document to enter the U.S. by land and sea. These documents include a valid Passport, U.S. Passport Card, trusted traveler card (NEXUS, SENTRI or FAST) or an enhanced driver's license. Children under the age of 16 can present an original or copy of their birth certificate. (getyouhome.gov  )
+]]></TEXT>
+<TAGS>
+<person id="p0" start="570" end="591" text="pedestrian passengers" TYPE="BAR" />
+<person id="p1" start="672" end="682" text="passengers" TYPE="BAR" />
+<person id="p2" start="784" end="835" text="all travelers, including U.S. and Canadian citizens" TYPE="NOM" />
+<person id="p3" start="986" end="994" text="traveler" TYPE="NOMPRE" />
+<person id="p5" start="1057" end="1085" text="Children under the age of 16" TYPE="BAR" />
+<person id="p6" start="1121" end="1126" text="their" TYPE="PRO" />
+<person id="p4" start="1027" end="1045" text="an enhanced driver" TYPE="NOM" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAM" />
+<organization id="o1" start="119" end="153" text="U.S. Customs and Border Protection" TYPE="NAM" />
+<organization id="o2" start="488" end="527" text="the Canadian Ministry of Transportation" TYPE="NAM" />
+<organization id="o3" start="593" end="596" text="CBP" TYPE="NAM" />
+<geographical-political id="g0" start="49" end="53" text="N.Y." TYPE="NAMPRE" />
+<geographical-political id="g1" start="95" end="114" text="Alexandria Bay, N.Y" TYPE="NAM" />
+<geographical-political id="g2" start="111" end="114" text="N.Y" TYPE="NAM" />
+<geographical-political id="g3" start="383" end="395" text="Wolfe Island" TYPE="NAM" />
+<geographical-political id="g4" start="397" end="404" text="Ontario" TYPE="NAM" />
+<geographical-political id="g5" start="406" end="412" text="Canada" TYPE="NAM" />
+<geographical-political id="g6" start="809" end="835" text="U.S. and Canadian citizens" TYPE="BAR" />
+<geographical-political id="g7" start="809" end="813" text="U.S." TYPE="NAM" />
+<geographical-political id="g8" start="818" end="826" text="Canadian" TYPE="NAM" />
+<geographical-political id="g9" start="890" end="898" text="the U.S." TYPE="NAM" />
+<geographical-political id="g10" start="958" end="962" text="U.S." TYPE="NAMPRE" />
+<falicity id="f0" start="35" end="67" text="Cape Vincent, N.Y. Port of Entry" TYPE="APP" />
+<falicity id="f1" start="35" end="47" text="Cape Vincent" TYPE="NAM" />
+<falicity id="f2" start="49" end="67" text="N.Y. Port of Entry" TYPE="BAR" />
+<falicity id="f3" start="175" end="205" text="the Cape Vincent port of entry" TYPE="NAM" />
+<falicity id="f4" start="304" end="312" text="The port" TYPE="NOM" />
+<head id="h0" start="1" end="4" text="CBP" />
+<head id="h1" start="35" end="47" text="Cape Vincent" />
+<head id="h2" start="54" end="58" text="Port" />
+<head id="h3" start="49" end="53" text="N.Y." />
+<head id="h4" start="95" end="109" text="Alexandria Bay" />
+<head id="h5" start="111" end="114" text="N.Y" />
+<head id="h6" start="119" end="153" text="U.S. Customs and Border Protection" />
+<head id="h7" start="179" end="205" text="Cape Vincent port of entry" />
+<head id="h8" start="308" end="312" text="port" />
+<head id="h9" start="383" end="395" text="Wolfe Island" />
+<head id="h10" start="397" end="404" text="Ontario" />
+<head id="h11" start="406" end="412" text="Canada" />
+<head id="h12" start="492" end="527" text="Canadian Ministry of Transportation" />
+<head id="h13" start="581" end="591" text="passengers" />
+<head id="h14" start="593" end="596" text="CBP" />
+<head id="h15" start="672" end="682" text="passengers" />
+<head id="h16" start="788" end="797" text="travelers" />
+<head id="h17" start="827" end="835" text="citizens" />
+<head id="h18" start="809" end="813" text="U.S." />
+<head id="h19" start="818" end="826" text="Canadian" />
+<head id="h20" start="894" end="898" text="U.S." />
+<head id="h21" start="958" end="962" text="U.S." />
+<head id="h22" start="986" end="994" text="traveler" />
+<head id="h23" start="1039" end="1045" text="driver" />
+<head id="h24" start="1057" end="1065" text="Children" />
+<head id="h25" start="1121" end="1126" text="their" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="35" end="47" text="Cape Vincent" />
+<name id="n2" start="49" end="53" text="N.Y." />
+<name id="n3" start="95" end="109" text="Alexandria Bay" />
+<name id="n4" start="111" end="114" text="N.Y" />
+<name id="n5" start="119" end="153" text="U.S. Customs and Border Protection" />
+<name id="n6" start="179" end="205" text="Cape Vincent port of entry" />
+<name id="n7" start="383" end="395" text="Wolfe Island" />
+<name id="n8" start="397" end="404" text="Ontario" />
+<name id="n9" start="406" end="412" text="Canada" />
+<name id="n10" start="492" end="527" text="Canadian Ministry of Transportation" />
+<name id="n11" start="593" end="596" text="CBP" />
+<name id="n12" start="809" end="813" text="U.S." />
+<name id="n13" start="818" end="826" text="Canadian" />
+<name id="n14" start="894" end="898" text="U.S." />
+<name id="n15" start="958" end="962" text="U.S." />
+<entity_link id="en0" fromID="f1" fromText="Cape Vincent" toID="f0" toText="Cape Vincent, N.Y. Port of Entry" />
+<entity_link id="en1" fromID="f2" fromText="N.Y. Port of Entry" toID="f1" toText="Cape Vincent" />
+<entity_link id="en2" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en3" fromID="f3" fromText="the Cape Vincent port of entry" toID="f2" toText="N.Y. Port of Entry" />
+<entity_link id="en4" fromID="f4" fromText="The port" toID="f3" toText="the Cape Vincent port of entry" />
+<entity_link id="en5" fromID="g2" fromText="N.Y" toID="g0" toText="N.Y." />
+<entity_link id="en6" fromID="o3" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en7" fromID="p1" fromText="passengers" toID="p0" toText="pedestrian passengers" />
+<entity_link id="en8" fromID="g8" fromText="Canadian" toID="g5" toText="Canada" />
+<entity_link id="en9" fromID="g9" fromText="the U.S." toID="g7" toText="U.S." />
+<entity_link id="en10" fromID="g10" fromText="U.S." toID="g9" toText="the U.S." />
+<entity_link id="en11" fromID="p6" fromText="their" toID="p5" toText="Children under the age of 16" />
+<head_link id="he0" fromID="o0" fromText="CBP" toID="h0" toText="CBP" />
+<head_link id="he1" fromID="f1" fromText="Cape Vincent" toID="h1" toText="Cape Vincent" />
+<head_link id="he2" fromID="f2" fromText="N.Y. Port of Entry" toID="h2" toText="Port" />
+<head_link id="he3" fromID="g0" fromText="N.Y." toID="h3" toText="N.Y." />
+<head_link id="he4" fromID="g1" fromText="Alexandria Bay, N.Y" toID="h4" toText="Alexandria Bay" />
+<head_link id="he5" fromID="g2" fromText="N.Y" toID="h5" toText="N.Y" />
+<head_link id="he6" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="f3" fromText="the Cape Vincent port of entry" toID="h7" toText="Cape Vincent port of entry" />
+<head_link id="he8" fromID="f4" fromText="The port" toID="h8" toText="port" />
+<head_link id="he9" fromID="g3" fromText="Wolfe Island" toID="h9" toText="Wolfe Island" />
+<head_link id="he10" fromID="g4" fromText="Ontario" toID="h10" toText="Ontario" />
+<head_link id="he11" fromID="g5" fromText="Canada" toID="h11" toText="Canada" />
+<head_link id="he12" fromID="o2" fromText="the Canadian Ministry of Transportation" toID="h12" toText="Canadian Ministry of Transportation" />
+<head_link id="he13" fromID="p0" fromText="pedestrian passengers" toID="h13" toText="passengers" />
+<head_link id="he14" fromID="o3" fromText="CBP" toID="h14" toText="CBP" />
+<head_link id="he15" fromID="p1" fromText="passengers" toID="h15" toText="passengers" />
+<head_link id="he16" fromID="p2" fromText="all travelers, including U.S. and Canadian citizens" toID="h16" toText="travelers" />
+<head_link id="he17" fromID="g6" fromText="U.S. and Canadian citizens" toID="h17" toText="citizens" />
+<head_link id="he18" fromID="g7" fromText="U.S." toID="h18" toText="U.S." />
+<head_link id="he19" fromID="g8" fromText="Canadian" toID="h19" toText="Canadian" />
+<head_link id="he20" fromID="g9" fromText="the U.S." toID="h20" toText="U.S." />
+<head_link id="he21" fromID="g10" fromText="U.S." toID="h21" toText="U.S." />
+<head_link id="he22" fromID="p3" fromText="traveler" toID="h22" toText="traveler" />
+<head_link id="he24" fromID="p5" fromText="Children under the age of 16" toID="h24" toText="Children" />
+<head_link id="he25" fromID="p6" fromText="their" toID="h25" toText="their" />
+<head_link id="he26" fromID="p4" fromText="an enhanced driver" toID="h23" toText="driver" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="f1" fromText="Cape Vincent" toID="n1" toText="Cape Vincent" />
+<name_link id="na2" fromID="g0" fromText="N.Y." toID="n2" toText="N.Y." />
+<name_link id="na3" fromID="g1" fromText="Alexandria Bay, N.Y" toID="n3" toText="Alexandria Bay" />
+<name_link id="na4" fromID="g2" fromText="N.Y" toID="n4" toText="N.Y" />
+<name_link id="na5" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n5" toText="U.S. Customs and Border Protection" />
+<name_link id="na6" fromID="f3" fromText="the Cape Vincent port of entry" toID="n6" toText="Cape Vincent port of entry" />
+<name_link id="na7" fromID="g3" fromText="Wolfe Island" toID="n7" toText="Wolfe Island" />
+<name_link id="na8" fromID="g4" fromText="Ontario" toID="n8" toText="Ontario" />
+<name_link id="na9" fromID="g5" fromText="Canada" toID="n9" toText="Canada" />
+<name_link id="na10" fromID="o2" fromText="the Canadian Ministry of Transportation" toID="n10" toText="Canadian Ministry of Transportation" />
+<name_link id="na11" fromID="o3" fromText="CBP" toID="n11" toText="CBP" />
+<name_link id="na12" fromID="g7" fromText="U.S." toID="n12" toText="U.S." />
+<name_link id="na13" fromID="g8" fromText="Canadian" toID="n13" toText="Canadian" />
+<name_link id="na14" fromID="g9" fromText="the U.S." toID="n14" toText="U.S." />
+<name_link id="na15" fromID="g10" fromText="U.S." toID="n15" toText="U.S." />
+</TAGS>
+</KddTask>

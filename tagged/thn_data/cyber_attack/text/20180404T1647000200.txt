@@ -1,0 +1,37 @@
+Critical flaw leaves thousands of Cisco Switches vulnerable to remote hacking
+Swati Khandelwal
+
+Security researchers at Embedi have disclosed a critical vulnerability in Cisco IOS Software and Cisco IOS XE Software that could allow an unauthenticated, remote attacker to execute arbitrary code, take full control over the vulnerable network equipment and intercept traffic.
+The stack-based buffer overflow vulnerability (CVE-2018-0171) resides due to improper validation of packet data in Smart Install Client, a plug-and-play configuration and image-management feature that helps administrators to deploy (client) network switches easily.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Embedi has published technical details and Proof-of-Concept (PoC) code after Cisco today released patch updates to address this remote code execution vulnerability, which has been given a base Common Vulnerability Scoring System (CVSS) score of 9.8 (critical).
+Researchers found a total of 8.5 million devices with the vulnerable port open on the Internet, leaving approximately 250,000 unpatched devices open to hackers.
+To exploit this vulnerability, an attacker needs to send a crafted Smart Install message to an affected device on TCP port 4786, which is opened by default.
+"To be more precise, the buffer overflow takes place in the function smi_ibc_handle_ibd_init_discovery_msg" and "because the size of the data copied to a fixed-size buffer is not checked, the size and data are taken directly from the network packet and are controlled by an attacker," Cisco explain in its advisory.
+The vulnerability can also result in a denial-of-service condition (watchdog crash) by triggering indefinite loop on the affected devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers demonstrated the vulnerability at a conference in Hong Kong after reporting it to Cisco in May 2017.
+Video Demonstrations of the Attack:
+In their first demonstration, as shown in the video below, researchers targeted Cisco Catalyst 2960 switch to reset/change the password and entered privileged EXEC mode:
+In their second demo, researchers exploited the flaw to successfully intercept the traffic between other devices connected to the vulnerable switch and the Internet.
+Affected Hardware and Software:
+The vulnerability was tested on Catalyst 4500 Supervisor Engines, Cisco Catalyst 3850 Series Switches, and Cisco Catalyst 2960 Series Switches devices, as well as all devices that fall into the Smart Install Client type are potentially vulnerable, including:
+Catalyst 4500 Supervisor Engines
+Catalyst 3850 Series
+Catalyst 3750 Series
+Catalyst 3650 Series
+Catalyst 3560 Series
+Catalyst 2960 Series
+Catalyst 2975 Series
+IE 2000
+IE 3000
+IE 3010
+IE 4000
+IE 4010
+IE 5000
+SM-ES2 SKUs
+SM-ES3 SKUs
+NME-16ES-1G-P
+SM-X-ES3 SKUs
+Cisco fixed the vulnerability in all of its affected products on 28th March 2018, and Embedi published a blog post detailing the vulnerability on 29th March. So, administrators are highly recommended to install free software updates to address the issue as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

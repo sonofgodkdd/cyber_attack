@@ -1,0 +1,17 @@
+British Hacker Admits Using Mirai Botnet to DDoS Deutsche Telekom
+Mohit Kumar
+An unnamed 29-year-old man, named by authorities as "Daniel K.," pleaded guilty in a German court on Friday to charges related to the hijacking of more than one Million Deutsche Telekom routers.
+According to reports in the German press, the British man, who was using online monikers "Peter Parker" and "Spiderman," linked to domains used to launch cyber attacks powered by the notorious Mirai malware has been pleaded guilty to "attempted computer sabotage."
+The suspect was arrested on 22nd February this year at Luton airport in London by Britain's National Crime Agency (NCA) at the request of the Federal Criminal Police Office of Germany, aka the Bundeskriminalamt (BKA).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hacker, also known as 'BestBuy,' admitted to the court on Friday that he was behind the cyber attack that knocked more than 1.25 Million customers of German telecommunications provider Deutsche Telekom offline last November.
+According to the German authorities, the attack was especially severe and was carried out to compromise the home routers to enrol them in a network of hijacked devices popularly called Botnet, which is being offered for sale on dark web markets for launching DDoS attacks.
+Late last year, Deutsche Telekom's routers became infected with a modified version of the Mirai malware – infamous IoT malware which scans for insecure routers, cameras, DVRs, and other IoT devices and enslaves them into a botnet network – causing over a million pounds' worth of damage, the company said at the time.
+Mirai is the same botnet that knocked the entire Internet offline last year by launching massive distributed denial of Service (DDoS) attacks against the Dyn DNS provider, crippling some of the world's biggest and most popular websites, including Twitter, Netflix, Amazon, Slack, and Spotify.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mirai leveraged attack experienced sudden rise after a cyber criminal in October 2016 publicly released the source code of Mirai, which is then used to by many cyber criminals to launch DDoS attacks.
+The hacker reportedly told the court that a Liberian internet service provider (ISP) paid him $10,000 to carry out the attack against its competitors., and that Deutsche Telekom was not the main target of his attack.
+At the time of his arrest, the suspect faced up to 10 years in prison. He's due to be sentenced on July 28.
+The BKA got involved in the investigation as the attack on Deutsche Telekom was deemed to be a threat to the nation's communication infrastructure. 
+The investigation involved close cooperation between British, German and Cypriot law enforcement agencies, backed by the European Union's law enforcement intelligence agency, Europol, and Eurojust.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

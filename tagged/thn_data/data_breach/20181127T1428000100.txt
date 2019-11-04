@@ -1,0 +1,20 @@
+Uber fined $1.1 million by UK and Dutch regulators over 2016 data breach
+Mohit Kumar
+
+British and Dutch data protection regulators Tuesday hit the ride-sharing company Uber with a total fine of $1,170,892 (~ 1.1 million) for failing to protect its customers’ personal information during a 2016 cyber attack involving millions of users.
+Late last year, Uber unveiled that the company had suffered a massive data breach in October 2016, exposing names, email addresses and phone numbers of 57 million Uber riders and drivers along with driving license numbers of around 600,000 drivers.
+Besides this, it was also reported that instead of disclosing the breach at the time, the company paid $100,000 in ransom to the two hackers with access to the stolen data in exchange for keeping the incident secret and deleting the information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Today Britain’s Information Commissioner’s Office (ICO) fined Uber 385,000 pounds ($491,102), while the Dutch Data Protection Authority (Dutch DPA) levied a 600,000 euro ($679,790) penalty on Uber for failing to protect the personal information of its 3 million British and 174,000 Dutch citizens, respectively.
+"In 2016 a data breach occurred at the Uber concern in the form of unauthorized access to personal data of customers and drivers. The Uber concern is fined because it did not report the data breach to the Dutch DPA and the data subjects within 72 hours after the discovery of the breach," the Dutch DPA says.
+The ICO also confirmed that the attackers were able to compromise Uber’s cloud-based storage system using stuffing attack—"a process by which compromised username and password pairs are injected into websites until they are matched to an existing account"—a loophole that could have been "avoided."
+"Uber US did not follow the normal operation of its bug bounty programme. In this incident Uber US paid outside attackers who were fundamentally different from legitimate bug bounty recipients: instead of merely identifying a vulnerability and disclosing it responsibly, they maliciously exploited the vulnerability and intentionally acquired personal information relating to Uber users," the ICO states.
+The UK watchdog also said that none of the affected customers compromised by the incident were notified of the breach. Instead, Uber started monitoring affected riders and drivers accounts for fraud 12 months after the cyber attack, when the incident was made public last year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the time, Uber notified regulatory authorities and offered affected drivers free credit monitoring and identity theft protection.
+The company assured its users that other personal details, such as trip location history, credit card numbers, bank account numbers, Social Security numbers or dates of birth, were not accessed in the attack.
+Since the data breach happened before the EU's General Data Protection Regulation (GDPR) took effect in May 2018, the fine of £385,000 imposed under the UK's old Data Protection Act 1998 is still lesser.
+The penalty could have been much larger had it fallen under EU's General Data Protection Regulation (GDPR), wherein a company could face a maximum fine of 17 million pounds or 4% of its annual global revenue, whichever is higher, for such a privacy breach.
+Last month, the UK's data protection watchdog also imposed a fine of £500,000 on Facebook for allowing political consultancy firm Cambridge Analytica to gather and misuse data of 87 million users improperly.
+In September, the ICO also issued the maximum allowed fine of £500,000 on credit reporting agency Equifax for its last year's massive data breach that exposed personal and financial data of hundreds of millions of its customers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

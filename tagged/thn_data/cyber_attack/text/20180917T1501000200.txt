@@ -1,0 +1,16 @@
+Ransomware Attack Takes Down Bristol Airport's Flight Display Screens
+Wang Wei
+
+Bristol Airport has blamed a ransomware attack for causing a blackout of flight information screens for two days over the weekend.
+The airport said that the attack started Friday morning, taking out several computers over the airport network, including its in-house display screens which provide details about the arrival and departure information of flights.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attack forced the airport officials to take down its systems and use whiteboards and paper posters to announce check-in and arrival information for flights going through the airport and luggage pickup points for all Friday, Saturday, and the subsequent night.
+"We are currently experiencing technical problems with our flight information screens," a post on the Bristol Airport's official Twitter feed read on Friday.
+"Flights are unaffected and details of check-in desks, boarding gates, and arrival/departure times will be made over the public address system. Additional staff are on hand to assist passengers."The airport also urged passengers to arrive early and "allow extra time for check-in and boarding processes," though this two days technical meltdown caused delays in baggage handling, with customers needed to wait longer than one hour for their bags.
+However, no flight delays were reportedly caused due to the cyber attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+An airport spokesman said that the information screens went offline due to a so-called "ransomware" attack, though he confirmed that no "ransom" had been paid to get the airport systems working again.
+Affected systems and flight information screens were finally restored on Sunday, officials said.
+"We are grateful to passengers for their patience while we have been working to resolve issues with flight information this weekend. Digital screens are now live in arrivals and departures. Work will continue to restore complete site-wide coverage as soon as possible," the airport tweeted on Sunday.
+At the moment, it is not clear how the ransomware got into the airport systems. Bristol is carrying out an investigation to find out what happened.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

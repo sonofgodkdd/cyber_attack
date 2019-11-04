@@ -1,0 +1,20 @@
+Vulnerable Texas Transportation Site 'TxTag' leaves 1.2 Million Credit Cards at Risk
+Swati Khandelwal
+
+Do you know, Why another major company is getting hacked every week? Because of poor policies, Laziness to Incident Response and lack in will-power to put efforts on applying important patches.
+Some companies are not taking their security more seriously, and best suitable example for this is TxTag, an electronic toll collection systems in Texas operated by Texas Department of Transportation (TxDOT).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+1.2 MILLION CREDIT CARD ARE AT RISK
+Security researcher, David Longenecker claimed a serious flaw at TxTag website that exposes the active Credit Card Details and Personal Information of 1.2 Million Drivers including active TxTags (vehicle stickers with microchips, which are scanned by electronic readers on toll roads), Names, phone numbers, full residence addresses, email addresses, along with their complete Credit card numbers and Expiration date.
+According to David, the account names could be easily predictable by anyone, which is typically an 8-digit number that begins with the number 2 and protected by only a 4-digit PIN Number, that could be itself another easy x-factor to abuse.
+But their stupidity didn’t end here, to make the case worst for their users; TxTag.org inexplicably stores the entire credit card details including Credit Card Numbers and expiration date, which meant to be partial visible to users, but available in the plaintext as the value of input field on the page source code.
+"I have no indication credit cards have actually been stolen. I merely found and reported a flaw that could very easily be exploited to obtain this information." he said.
+ NO LESSONS LEARNED FROM PREVIOUS CYBER ATTACK
+Texas Department of Transportation had not learned any lesson from their past experiences with hackers. Exactly two years back, they themselves confirmed a "cyber attack" in which the hackers overloaded the TxTag back office accounts servers, but according to TxTag, no accounts were compromised at the time.
+In the reply back in 2012, Karen Amacker, TxDOT spokesman said, "Customer service and information security are of paramount importance to TxDOT. Cyberattackers recently tried to get into TxTag.org, but were not successful. All of our customers' information, including credit card information, remains secure."
+But this security and so called paramount importance is seems to be a dilemma for them as they did nothing to improve the data security of their users after facing an attack.
+FLAW REPORTED, BUT YET NO RESPONSE
+The Flaw has been reported by the researcher, but neither TxTag nor TxDOT have so far responded to any of his request for comment. 
+"The problem lies in the AutoPay Method screen. If you do not have a credit card or bank account stored for automatic payments, then financial data cannot be stolen through this manner." david said.
+We should understand that no one is safe when bad hackers are out to do some damage. You are always advised to don't be lazy with your passwords, set tough-to-guess and long passwords and don't store information online that you don’t absolutely need to. Stay Tuned, Stay Safe.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

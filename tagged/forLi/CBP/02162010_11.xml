@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Smuggler Identified as White Supremacist Gang Member
+Del Rio Agents Seize 1,000 Pounds of Marijuana Over Valentine's Day Weekend
+(Tuesday, February 16, 2010)
+Del Rio, Texas  - Over the Valentine's Day weekend, Border Patrol agents assigned to the Del Rio station made two drug seizures totaling 1,000 pounds of marijuana, with an estimated street value of $800,000.
+An alleged marijuana smuggler's left arm identified him as a member of a violent white supremacist prison-based gang.
+Sunday morning an agent performed a vehicle stop on an F-150 Ford pick up truck that was departing the Vega Verde area, upriver from Del Rio. Vega Verde is an area favored by narcotic smugglers to cross contraband into the United States. After stopping the vehicle agents found 770 pounds of marijuana in the bed of the pickup truck. The marijuana has a value of $617,000. The driver, who is currently on probation, was found to have an extensive criminal history as well as being identified as a member of the Aryan Circle, a violent white supremacist prison-based gang. The marijuana, subject, and vehicle were turned over to the Drug Enforcement Administration.
+On Saturday morning, agents observed four subjects on hiding in a culvert on Las Vacas Road. When the agents confronted the subjects they fled, leaving behind large bundles of marijuana. The marijuana weighed 230 pounds with a value of $184,000.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="24" end="53" text="White Supremacist Gang Member" TYPE="BAR" />
+<person id="p1" start="24" end="46" text="White Supremacist Gang" TYPE="BAR" />
+<person id="p2" start="54" end="68" text="Del Rio Agents" TYPE="BAR" />
+<person id="p3" start="211" end="263" text="Border Patrol agents assigned to the Del Rio station" TYPE="BAR" />
+<person id="p4" start="367" end="396" text="An alleged marijuana smuggler" TYPE="NOM" />
+<person id="p5" start="419" end="422" text="him" TYPE="PRO" />
+<person id="p6" start="426" end="483" text="a member of a violent white supremacist prison-based gang" TYPE="NOM" />
+<person id="p7" start="438" end="483" text="a violent white supremacist prison-based gang" TYPE="NOM" />
+<person id="p8" start="500" end="508" text="an agent" TYPE="NOM" />
+<person id="p9" start="660" end="678" text="narcotic smugglers" TYPE="BAR" />
+<person id="p10" start="750" end="756" text="agents" TYPE="BAR" />
+<person id="p11" start="858" end="899" text="The driver, who is currently on probation" TYPE="NOM" />
+<person id="p12" start="870" end="873" text="who" TYPE="WHQ" />
+<person id="p13" start="980" end="1055" text="a member of the Aryan Circle, a violent white supremacist prison-based gang" TYPE="NOM" />
+<person id="p14" start="992" end="1055" text="the Aryan Circle, a violent white supremacist prison-based gang" TYPE="APP" />
+<person id="p15" start="992" end="1008" text="the Aryan Circle" TYPE="NAM" />
+<person id="p16" start="1010" end="1055" text="a violent white supremacist prison-based gang" TYPE="NOM" />
+<person id="p17" start="1" end="9" text="Smuggler" TYPE="BAR" />
+<person id="p18" start="1057" end="1092" text="The marijuana, subject, and vehicle" TYPE="NOM" />
+<person id="p19" start="1171" end="1177" text="agents" TYPE="BAR" />
+<person id="p20" start="1187" end="1241" text="four subjects on hiding in a culvert on Las Vacas Road" TYPE="NOM" />
+<person id="p21" start="1248" end="1258" text="the agents" TYPE="NOM" />
+<person id="p22" start="1270" end="1282" text="the subjects" TYPE="NOM" />
+<person id="p23" start="1283" end="1287" text="they" TYPE="PRO" />
+<organization id="o0" start="211" end="224" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="1113" end="1148" text="the Drug Enforcement Administration" TYPE="NAM" />
+<geographical-political id="g0" start="54" end="61" text="Del Rio" TYPE="NAMPRE" />
+<geographical-political id="g1" start="159" end="173" text="Del Rio, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="168" end="173" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="618" end="625" text="Del Rio" TYPE="NAM" />
+<geographical-political id="g4" start="704" end="721" text="the United States" TYPE="NAM" />
+<location id="l0" start="584" end="603" text="the Vega Verde area" TYPE="NOM" />
+<location id="l1" start="627" end="637" text="Vega Verde" TYPE="NAM" />
+<falicity id="f0" start="244" end="263" text="the Del Rio station" TYPE="NAM" />
+<falicity id="f1" start="1227" end="1241" text="Las Vacas Road" TYPE="NAM" />
+<head id="h0" start="47" end="53" text="Member" />
+<head id="h1" start="42" end="46" text="Gang" />
+<head id="h2" start="62" end="68" text="Agents" />
+<head id="h3" start="54" end="61" text="Del Rio" />
+<head id="h4" start="159" end="166" text="Del Rio" />
+<head id="h5" start="168" end="173" text="Texas" />
+<head id="h7" start="225" end="231" text="agents" />
+<head id="h8" start="211" end="224" text="Border Patrol" />
+<head id="h6" start="248" end="263" text="Del Rio station" />
+<head id="h9" start="388" end="396" text="smuggler" />
+<head id="h10" start="419" end="422" text="him" />
+<head id="h11" start="428" end="434" text="member" />
+<head id="h12" start="479" end="483" text="gang" />
+<head id="h13" start="503" end="508" text="agent" />
+<head id="h14" start="588" end="603" text="Vega Verde area" />
+<head id="h15" start="618" end="625" text="Del Rio" />
+<head id="h16" start="627" end="637" text="Vega Verde" />
+<head id="h17" start="669" end="678" text="smugglers" />
+<head id="h18" start="708" end="721" text="United States" />
+<head id="h19" start="750" end="756" text="agents" />
+<head id="h20" start="862" end="868" text="driver" />
+<head id="h21" start="870" end="873" text="who" />
+<head id="h22" start="982" end="988" text="member" />
+<head id="h23" start="996" end="1008" text="Aryan Circle" />
+<head id="h24" start="1051" end="1055" text="gang" />
+<head id="h26" start="1" end="9" text="Smuggler" />
+<head id="h27" start="1072" end="1079" text="subject" />
+<head id="h28" start="1117" end="1148" text="Drug Enforcement Administration" />
+<head id="h29" start="1171" end="1177" text="agents" />
+<head id="h30" start="1192" end="1200" text="subjects" />
+<head id="h31" start="1227" end="1241" text="Las Vacas Road" />
+<head id="h32" start="1252" end="1258" text="agents" />
+<head id="h33" start="1274" end="1282" text="subjects" />
+<head id="h34" start="1283" end="1287" text="they" />
+<name id="n0" start="54" end="61" text="Del Rio" />
+<name id="n1" start="159" end="166" text="Del Rio" />
+<name id="n2" start="168" end="173" text="Texas" />
+<name id="n3" start="211" end="224" text="Border Patrol" />
+<name id="n4" start="248" end="263" text="Del Rio station" />
+<name id="n5" start="588" end="603" text="Vega Verde area" />
+<name id="n6" start="618" end="625" text="Del Rio" />
+<name id="n7" start="627" end="637" text="Vega Verde" />
+<name id="n8" start="708" end="721" text="United States" />
+<name id="n9" start="996" end="1008" text="Aryan Circle" />
+<name id="n10" start="1117" end="1148" text="Drug Enforcement Administration" />
+<name id="n11" start="1227" end="1241" text="Las Vacas Road" />
+<located-mention id="lo0" start="211" end="263" text="Border Patrol agents assigned to the Del Rio station" TYPE="Participial" />
+<located-mention id="lo1" start="1187" end="1241" text="four subjects on hiding in a culvert on Las Vacas Road" TYPE="Preposition" />
+<employment-mention id="e0" start="211" end="263" text="Border Patrol agents assigned to the Del Rio station" TYPE="PreMod" />
+<entity_link id="en0" fromID="g1" fromText="Del Rio, Texas" toID="g0" toText="Del Rio" />
+<entity_link id="en1" fromID="p5" fromText="him" toID="p4" toText="An alleged marijuana smuggler" />
+<entity_link id="en2" fromID="p3" fromText="Border Patrol agents assigned to the Del Rio station" toID="p2" toText="Del Rio Agents" />
+<entity_link id="en3" fromID="p6" fromText="a member of a violent white supremacist prison-based gang" toID="p5" toText="him" />
+<entity_link id="en4" fromID="g3" fromText="Del Rio" toID="g1" toText="Del Rio, Texas" />
+<entity_link id="en5" fromID="l1" fromText="Vega Verde" toID="l0" toText="the Vega Verde area" />
+<entity_link id="en6" fromID="p10" fromText="agents" toID="p3" toText="Border Patrol agents assigned to the Del Rio station" />
+<entity_link id="en7" fromID="p12" fromText="who" toID="p11" toText="The driver, who is currently on probation" />
+<entity_link id="en8" fromID="p15" fromText="the Aryan Circle" toID="p14" toText="the Aryan Circle, a violent white supremacist prison-based gang" />
+<entity_link id="en9" fromID="p16" fromText="a violent white supremacist prison-based gang" toID="p15" toText="the Aryan Circle" />
+<entity_link id="en10" fromID="p13" fromText="a member of the Aryan Circle, a violent white supremacist prison-based gang" toID="p11" toText="The driver, who is currently on probation" />
+<entity_link id="en11" fromID="p11" fromText="The driver, who is currently on probation" toID="p4" toText="An alleged marijuana smuggler" />
+<entity_link id="en12" fromID="p15" fromText="the Aryan Circle" toID="p7" toText="a violent white supremacist prison-based gang" />
+<entity_link id="en13" fromID="p0" fromText="White Supremacist Gang Member" toID="p17" toText="Smuggler" />
+<entity_link id="en14" fromID="p4" fromText="An alleged marijuana smuggler" toID="p0" toText="White Supremacist Gang Member" />
+<entity_link id="en15" fromID="p7" fromText="a violent white supremacist prison-based gang" toID="p1" toText="White Supremacist Gang" />
+<entity_link id="en16" fromID="p18" fromText="The marijuana, subject, and vehicle" toID="p11" toText="The driver, who is currently on probation" />
+<entity_link id="en17" fromID="p19" fromText="agents" toID="p10" toText="agents" />
+<entity_link id="en18" fromID="p21" fromText="the agents" toID="p19" toText="agents" />
+<entity_link id="en19" fromID="p22" fromText="the subjects" toID="p20" toText="four subjects on hiding in a culvert on Las Vacas Road" />
+<entity_link id="en20" fromID="p23" fromText="they" toID="p22" toText="the subjects" />
+<head_link id="he0" fromID="p0" fromText="White Supremacist Gang Member" toID="h0" toText="Member" />
+<head_link id="he1" fromID="p1" fromText="White Supremacist Gang" toID="h1" toText="Gang" />
+<head_link id="he2" fromID="p2" fromText="Del Rio Agents" toID="h2" toText="Agents" />
+<head_link id="he3" fromID="g0" fromText="Del Rio" toID="h3" toText="Del Rio" />
+<head_link id="he4" fromID="g1" fromText="Del Rio, Texas" toID="h4" toText="Del Rio" />
+<head_link id="he5" fromID="g2" fromText="Texas" toID="h5" toText="Texas" />
+<head_link id="he6" fromID="p3" fromText="Border Patrol agents assigned to the Del Rio station" toID="h7" toText="agents" />
+<head_link id="he7" fromID="o0" fromText="Border Patrol" toID="h8" toText="Border Patrol" />
+<head_link id="he10" fromID="f0" fromText="the Del Rio station" toID="h6" toText="Del Rio station" />
+<head_link id="he11" fromID="p4" fromText="An alleged marijuana smuggler" toID="h9" toText="smuggler" />
+<head_link id="he12" fromID="p5" fromText="him" toID="h10" toText="him" />
+<head_link id="he13" fromID="p6" fromText="a member of a violent white supremacist prison-based gang" toID="h11" toText="member" />
+<head_link id="he14" fromID="p7" fromText="a violent white supremacist prison-based gang" toID="h12" toText="gang" />
+<head_link id="he15" fromID="p8" fromText="an agent" toID="h13" toText="agent" />
+<head_link id="he16" fromID="l0" fromText="the Vega Verde area" toID="h14" toText="Vega Verde area" />
+<head_link id="he17" fromID="g3" fromText="Del Rio" toID="h15" toText="Del Rio" />
+<head_link id="he18" fromID="l1" fromText="Vega Verde" toID="h16" toText="Vega Verde" />
+<head_link id="he19" fromID="p9" fromText="narcotic smugglers" toID="h17" toText="smugglers" />
+<head_link id="he20" fromID="g4" fromText="the United States" toID="h18" toText="United States" />
+<head_link id="he21" fromID="p10" fromText="agents" toID="h19" toText="agents" />
+<head_link id="he22" fromID="p11" fromText="The driver, who is currently on probation" toID="h20" toText="driver" />
+<head_link id="he23" fromID="p12" fromText="who" toID="h21" toText="who" />
+<head_link id="he24" fromID="p13" fromText="a member of the Aryan Circle, a violent white supremacist prison-based gang" toID="h22" toText="member" />
+<head_link id="he25" fromID="p15" fromText="the Aryan Circle" toID="h23" toText="Aryan Circle" />
+<head_link id="he26" fromID="p16" fromText="a violent white supremacist prison-based gang" toID="h24" toText="gang" />
+<head_link id="he27" fromID="p17" fromText="Smuggler" toID="h26" toText="Smuggler" />
+<head_link id="he28" fromID="p18" fromText="The marijuana, subject, and vehicle" toID="h27" toText="subject" />
+<head_link id="he29" fromID="o1" fromText="the Drug Enforcement Administration" toID="h28" toText="Drug Enforcement Administration" />
+<head_link id="he30" fromID="p19" fromText="agents" toID="h29" toText="agents" />
+<head_link id="he31" fromID="p20" fromText="four subjects on hiding in a culvert on Las Vacas Road" toID="h30" toText="subjects" />
+<head_link id="he32" fromID="f1" fromText="Las Vacas Road" toID="h31" toText="Las Vacas Road" />
+<head_link id="he33" fromID="p21" fromText="the agents" toID="h32" toText="agents" />
+<head_link id="he34" fromID="p22" fromText="the subjects" toID="h33" toText="subjects" />
+<head_link id="he35" fromID="p23" fromText="they" toID="h34" toText="they" />
+<name_link id="na0" fromID="g0" fromText="Del Rio" toID="n0" toText="Del Rio" />
+<name_link id="na1" fromID="g1" fromText="Del Rio, Texas" toID="n1" toText="Del Rio" />
+<name_link id="na2" fromID="g2" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="o0" fromText="Border Patrol" toID="n3" toText="Border Patrol" />
+<name_link id="na5" fromID="f0" fromText="the Del Rio station" toID="n4" toText="Del Rio station" />
+<name_link id="na6" fromID="l0" fromText="the Vega Verde area" toID="n5" toText="Vega Verde area" />
+<name_link id="na7" fromID="g3" fromText="Del Rio" toID="n6" toText="Del Rio" />
+<name_link id="na8" fromID="l1" fromText="Vega Verde" toID="n7" toText="Vega Verde" />
+<name_link id="na9" fromID="g4" fromText="the United States" toID="n8" toText="United States" />
+<name_link id="na10" fromID="p15" fromText="the Aryan Circle" toID="n9" toText="Aryan Circle" />
+<name_link id="na11" fromID="o1" fromText="the Drug Enforcement Administration" toID="n10" toText="Drug Enforcement Administration" />
+<name_link id="na12" fromID="f1" fromText="Las Vacas Road" toID="n11" toText="Las Vacas Road" />
+<relation_link1 id="r0" fromID="e0" fromText="Border Patrol agents assigned to the Del Rio station" toID="p3" toText="Border Patrol agents assigned to the Del Rio station" />
+<relation_link1 id="r1" fromID="lo0" fromText="Border Patrol agents assigned to the Del Rio station" toID="p3" toText="Border Patrol agents assigned to the Del Rio station" />
+<relation_link1 id="r2" fromID="lo1" fromText="four subjects on hiding in a culvert on Las Vacas Road" toID="p20" toText="four subjects on hiding in a culvert on Las Vacas Road" />
+<relation_link2 id="re0" fromID="e0" fromText="Border Patrol agents assigned to the Del Rio station" toID="o0" toText="Border Patrol" />
+<relation_link2 id="re1" fromID="lo0" fromText="Border Patrol agents assigned to the Del Rio station" toID="f0" toText="the Del Rio station" />
+<relation_link2 id="re2" fromID="lo1" fromText="four subjects on hiding in a culvert on Las Vacas Road" toID="f1" toText="Las Vacas Road" />
+</TAGS>
+</KddTask>

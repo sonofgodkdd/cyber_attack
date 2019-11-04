@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Date: January 08, 2009
+Contact: Rich Isaacson
+Number: (313) 234-4310
+Husband and Wife Team Plead Guilty to Distributing Anabolic Setroids
+-Kentucky couple face potential of 5 years in Federal Prison
+JAN 08  -- (LOUISVILLE, KY) - Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky, pled guilty on January 5, 2009, to distributing anabolic steroids, U.S. Attorney David L. Huber of the Western District of Kentucky announced today.
+Havens and Knuckles admitted that between January 2007 and May 2008 they distributed anabolic steroids throughout the Louisville metropolitan area. Anabolic steroids are Schedule III controlled substances.
+The maximum potential penalties are 5 years imprisonment, a $250,000 fine, and supervised release for minimum of 2 years. The case was prosecuted by Assistant United States Attorney David Weiser, and it was investigated by the U.S. Drug Enforcement Administration (DEA) and the Food and Drug Administration.
+The pleas were entered before U.S. District Judge John G. Heyburn, II. Havens is scheduled to be sentenced before Judge Heyburn on February 11, 2009, at 11:30 a.m. and Knuckles is scheduled to be sentenced before Judge Heyburn on April 8, 2009, at 11:30 a.m.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="33" end="46" text="Rich Isaacson" TYPE="NAM" />
+<person id="p1" start="70" end="91" text="Husband and Wife Team" TYPE="BAR" />
+<person id="p2" start="82" end="86" text="Wife" TYPE="NOMPRE" />
+<person id="p3" start="70" end="77" text="Husband" TYPE="NOMPRE" />
+<person id="p4" start="140" end="155" text="Kentucky couple" TYPE="BAR" />
+<person id="p5" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="NAM" />
+<person id="p6" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="BAR" />
+<person id="p7" start="257" end="260" text="his" TYPE="PRO" />
+<person id="p8" start="267" end="283" text="Crystal Knuckles" TYPE="NAMPRE" />
+<person id="p9" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="HLS" />
+<person id="p10" start="416" end="480" text="U.S. Attorney David L. Huber of the Western District of Kentucky" TYPE="NAM" />
+<person id="p11" start="416" end="429" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p12" start="498" end="504" text="Havens" TYPE="NAM" />
+<person id="p13" start="509" end="517" text="Knuckles" TYPE="NAM" />
+<person id="p14" start="566" end="570" text="they" TYPE="PRO" />
+<person id="p15" start="853" end="898" text="Assistant United States Attorney David Weiser" TYPE="NAM" />
+<person id="p16" start="853" end="885" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<person id="p17" start="1042" end="1081" text="U.S. District Judge John G. Heyburn, II" TYPE="NAM" />
+<person id="p18" start="1042" end="1061" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p19" start="1083" end="1089" text="Havens" TYPE="NAM" />
+<person id="p20" start="1126" end="1139" text="Judge Heyburn" TYPE="NAM" />
+<person id="p21" start="1126" end="1131" text="Judge" TYPE="NOMPRE" />
+<person id="p22" start="1180" end="1188" text="Knuckles" TYPE="NAM" />
+<person id="p23" start="1225" end="1238" text="Judge Heyburn" TYPE="NAM" />
+<person id="p24" start="1225" end="1230" text="Judge" TYPE="NOMPRE" />
+<organization id="o0" start="448" end="480" text="the Western District of Kentucky" TYPE="NAM" />
+<organization id="o1" start="927" end="972" text="the U.S. Drug Enforcement Administration (DEA" TYPE="NAM" />
+<organization id="o2" start="969" end="972" text="DEA" TYPE="NAM" />
+<organization id="o3" start="978" end="1010" text="the Food and Drug Administration" TYPE="NAM" />
+<organization id="o4" start="1047" end="1055" text="District" TYPE="NOMPRE" />
+<geographical-political id="g0" start="140" end="148" text="Kentucky" TYPE="NAMPRE" />
+<geographical-political id="g1" start="212" end="226" text="LOUISVILLE, KY" TYPE="NAM" />
+<geographical-political id="g2" start="224" end="226" text="KY" TYPE="NAM" />
+<geographical-political id="g3" start="327" end="347" text="Louisville, Kentucky" TYPE="NAM" />
+<geographical-political id="g4" start="339" end="347" text="Kentucky" TYPE="NAM" />
+<geographical-political id="g6" start="416" end="420" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g7" start="616" end="626" text="Louisville" TYPE="NAMPRE" />
+<geographical-political id="g8" start="863" end="876" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g9" start="1042" end="1046" text="U.S." TYPE="NAMPRE" />
+<location id="l0" start="612" end="644" text="the Louisville metropolitan area" TYPE="NOM" />
+<falicity id="f0" start="185" end="199" text="Federal Prison" TYPE="BAR" />
+<falicity id="f1" start="301" end="347" text="7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="NAM" />
+<falicity id="f2" start="306" end="347" text="Grand Cascade Drive, Louisville, Kentucky" TYPE="NAM" />
+<head id="h0" start="33" end="46" text="Rich Isaacson" />
+<head id="h1" start="87" end="91" text="Team" />
+<head id="h2" start="82" end="86" text="Wife" />
+<head id="h3" start="70" end="77" text="Husband" />
+<head id="h4" start="149" end="155" text="couple" />
+<head id="h5" start="140" end="148" text="Kentucky" />
+<head id="h6" start="193" end="199" text="Prison" />
+<head id="h7" start="212" end="222" text="LOUISVILLE" />
+<head id="h8" start="224" end="226" text="KY" />
+<head id="h9" start="230" end="243" text="Jamesy Havens" />
+<head id="h10" start="261" end="265" text="wife" />
+<head id="h11" start="257" end="260" text="his" />
+<head id="h12" start="267" end="283" text="Crystal Knuckles" />
+<head id="h13" start="301" end="305" text="7930" />
+<head id="h14" start="306" end="325" text="Grand Cascade Drive" />
+<head id="h15" start="327" end="337" text="Louisville" />
+<head id="h16" start="339" end="347" text="Kentucky" />
+<head id="h17" start="293" end="297" text="both" />
+<head id="h18" start="430" end="444" text="David L. Huber" />
+<head id="h19" start="421" end="429" text="Attorney" />
+<head id="h20" start="416" end="420" text="U.S." />
+<head id="h21" start="452" end="480" text="Western District of Kentucky" />
+<head id="h22" start="498" end="504" text="Havens" />
+<head id="h23" start="509" end="517" text="Knuckles" />
+<head id="h24" start="566" end="570" text="they" />
+<head id="h25" start="640" end="644" text="area" />
+<head id="h26" start="616" end="626" text="Louisville" />
+<head id="h27" start="886" end="898" text="David Weiser" />
+<head id="h28" start="877" end="885" text="Attorney" />
+<head id="h29" start="863" end="876" text="United States" />
+<head id="h30" start="931" end="967" text="U.S. Drug Enforcement Administration" />
+<head id="h31" start="969" end="972" text="DEA" />
+<head id="h32" start="982" end="1010" text="Food and Drug Administration" />
+<head id="h33" start="1062" end="1077" text="John G. Heyburn" />
+<head id="h34" start="1056" end="1061" text="Judge" />
+<head id="h35" start="1047" end="1055" text="District" />
+<head id="h36" start="1042" end="1046" text="U.S." />
+<head id="h37" start="1083" end="1089" text="Havens" />
+<head id="h38" start="1132" end="1139" text="Heyburn" />
+<head id="h39" start="1126" end="1131" text="Judge" />
+<head id="h40" start="1180" end="1188" text="Knuckles" />
+<head id="h41" start="1231" end="1238" text="Heyburn" />
+<head id="h42" start="1225" end="1230" text="Judge" />
+<name id="n0" start="33" end="46" text="Rich Isaacson" />
+<name id="n1" start="140" end="148" text="Kentucky" />
+<name id="n2" start="212" end="222" text="LOUISVILLE" />
+<name id="n3" start="224" end="226" text="KY" />
+<name id="n4" start="230" end="243" text="Jamesy Havens" />
+<name id="n5" start="267" end="283" text="Crystal Knuckles" />
+<name id="n6" start="301" end="305" text="7930" />
+<name id="n7" start="306" end="325" text="Grand Cascade Drive" />
+<name id="n8" start="327" end="337" text="Louisville" />
+<name id="n9" start="339" end="347" text="Kentucky" />
+<name id="n10" start="430" end="444" text="David L. Huber" />
+<name id="n11" start="416" end="420" text="U.S." />
+<name id="n12" start="452" end="480" text="Western District of Kentucky" />
+<name id="n13" start="498" end="504" text="Havens" />
+<name id="n14" start="509" end="517" text="Knuckles" />
+<name id="n15" start="616" end="626" text="Louisville" />
+<name id="n16" start="886" end="898" text="David Weiser" />
+<name id="n17" start="863" end="876" text="United States" />
+<name id="n18" start="931" end="967" text="U.S. Drug Enforcement Administration" />
+<name id="n19" start="969" end="972" text="DEA" />
+<name id="n20" start="982" end="1010" text="Food and Drug Administration" />
+<name id="n21" start="1062" end="1077" text="John G. Heyburn" />
+<name id="n22" start="1042" end="1046" text="U.S." />
+<name id="n23" start="1083" end="1089" text="Havens" />
+<name id="n24" start="1132" end="1139" text="Heyburn" />
+<name id="n25" start="1180" end="1188" text="Knuckles" />
+<name id="n26" start="1231" end="1238" text="Heyburn" />
+<located-mention id="lo0" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="Other" />
+<located-mention id="lo1" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="Other" />
+<located-mention id="lo2" start="230" end="347" text="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" TYPE="Other" />
+<located-mention id="lo3" start="498" end="644" text="Havens and Knuckles admitted that between January 2007 and May 2008 they distributed anabolic steroids throughout the Louisville metropolitan area" TYPE="Other" />
+<employment-mention id="e0" start="416" end="429" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="853" end="885" text="Assistant United States Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="1042" end="1061" text="U.S. District Judge" TYPE="PreMod" />
+<CRRE id="C0" start="140" end="155" text="Kentucky couple" TYPE="PreMod" />
+<M id="M0" start="416" end="480" text="U.S. Attorney David L. Huber of the Western District of Kentucky" TYPE="Preposition" />
+<M id="M1" start="1042" end="1061" text="U.S. District Judge" TYPE="PreMod" />
+<entity_link id="en0" fromID="p4" fromText="Kentucky couple" toID="p1" toText="Husband and Wife Team" />
+<entity_link id="en1" fromID="g2" fromText="KY" toID="g0" toText="Kentucky" />
+<entity_link id="en2" fromID="p7" fromText="his" toID="p5" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<entity_link id="en3" fromID="p8" fromText="Crystal Knuckles" toID="p6" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<entity_link id="en4" fromID="g3" fromText="Louisville, Kentucky" toID="g1" toText="LOUISVILLE, KY" />
+<entity_link id="en5" fromID="g4" fromText="Kentucky" toID="g2" toText="KY" />
+<entity_link id="en6" fromID="p11" fromText="U.S. Attorney" toID="p10" toText="U.S. Attorney David L. Huber of the Western District of Kentucky" />
+<entity_link id="en7" fromID="p12" fromText="Havens" toID="p5" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<entity_link id="en8" fromID="p13" fromText="Knuckles" toID="p6" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<entity_link id="en9" fromID="p14" fromText="they" toID="p9" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<entity_link id="en10" fromID="g7" fromText="Louisville" toID="g3" toText="Louisville, Kentucky" />
+<entity_link id="en11" fromID="p16" fromText="Assistant United States Attorney" toID="p15" toText="Assistant United States Attorney David Weiser" />
+<entity_link id="en12" fromID="g8" fromText="United States" toID="g6" toText="U.S." />
+<entity_link id="en13" fromID="o2" fromText="DEA" toID="o1" toText="the U.S. Drug Enforcement Administration (DEA" />
+<entity_link id="en14" fromID="g9" fromText="U.S." toID="g8" toText="United States" />
+<entity_link id="en15" fromID="p19" fromText="Havens" toID="p12" toText="Havens" />
+<entity_link id="en16" fromID="p20" fromText="Judge Heyburn" toID="p17" toText="U.S. District Judge John G. Heyburn, II" />
+<entity_link id="en17" fromID="p21" fromText="Judge" toID="p20" toText="Judge Heyburn" />
+<entity_link id="en18" fromID="p22" fromText="Knuckles" toID="p13" toText="Knuckles" />
+<entity_link id="en19" fromID="p23" fromText="Judge Heyburn" toID="p20" toText="Judge Heyburn" />
+<entity_link id="en20" fromID="p24" fromText="Judge" toID="p23" toText="Judge Heyburn" />
+<entity_link id="en21" fromID="p9" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="p4" toText="Kentucky couple" />
+<head_link id="he0" fromID="p0" fromText="Rich Isaacson" toID="h0" toText="Rich Isaacson" />
+<head_link id="he1" fromID="p1" fromText="Husband and Wife Team" toID="h1" toText="Team" />
+<head_link id="he2" fromID="p2" fromText="Wife" toID="h2" toText="Wife" />
+<head_link id="he3" fromID="p3" fromText="Husband" toID="h3" toText="Husband" />
+<head_link id="he4" fromID="p4" fromText="Kentucky couple" toID="h4" toText="couple" />
+<head_link id="he5" fromID="g0" fromText="Kentucky" toID="h5" toText="Kentucky" />
+<head_link id="he6" fromID="f0" fromText="Federal Prison" toID="h6" toText="Prison" />
+<head_link id="he7" fromID="g1" fromText="LOUISVILLE, KY" toID="h7" toText="LOUISVILLE" />
+<head_link id="he8" fromID="g2" fromText="KY" toID="h8" toText="KY" />
+<head_link id="he9" fromID="p5" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="h9" toText="Jamesy Havens" />
+<head_link id="he10" fromID="p6" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="h10" toText="wife" />
+<head_link id="he11" fromID="p7" fromText="his" toID="h11" toText="his" />
+<head_link id="he12" fromID="p8" fromText="Crystal Knuckles" toID="h12" toText="Crystal Knuckles" />
+<head_link id="he13" fromID="f1" fromText="7930 Grand Cascade Drive, Louisville, Kentucky" toID="h13" toText="7930" />
+<head_link id="he14" fromID="f2" fromText="Grand Cascade Drive, Louisville, Kentucky" toID="h14" toText="Grand Cascade Drive" />
+<head_link id="he15" fromID="g3" fromText="Louisville, Kentucky" toID="h15" toText="Louisville" />
+<head_link id="he16" fromID="g4" fromText="Kentucky" toID="h16" toText="Kentucky" />
+<head_link id="he17" fromID="p9" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="h17" toText="both" />
+<head_link id="he18" fromID="p10" fromText="U.S. Attorney David L. Huber of the Western District of Kentucky" toID="h18" toText="David L. Huber" />
+<head_link id="he19" fromID="p11" fromText="U.S. Attorney" toID="h19" toText="Attorney" />
+<head_link id="he20" fromID="g6" fromText="U.S." toID="h20" toText="U.S." />
+<head_link id="he21" fromID="o0" fromText="the Western District of Kentucky" toID="h21" toText="Western District of Kentucky" />
+<head_link id="he22" fromID="p12" fromText="Havens" toID="h22" toText="Havens" />
+<head_link id="he23" fromID="p13" fromText="Knuckles" toID="h23" toText="Knuckles" />
+<head_link id="he24" fromID="p14" fromText="they" toID="h24" toText="they" />
+<head_link id="he25" fromID="l0" fromText="the Louisville metropolitan area" toID="h25" toText="area" />
+<head_link id="he26" fromID="g7" fromText="Louisville" toID="h26" toText="Louisville" />
+<head_link id="he27" fromID="p15" fromText="Assistant United States Attorney David Weiser" toID="h27" toText="David Weiser" />
+<head_link id="he28" fromID="p16" fromText="Assistant United States Attorney" toID="h28" toText="Attorney" />
+<head_link id="he29" fromID="g8" fromText="United States" toID="h29" toText="United States" />
+<head_link id="he30" fromID="o1" fromText="the U.S. Drug Enforcement Administration (DEA" toID="h30" toText="U.S. Drug Enforcement Administration" />
+<head_link id="he31" fromID="o2" fromText="DEA" toID="h31" toText="DEA" />
+<head_link id="he32" fromID="o3" fromText="the Food and Drug Administration" toID="h32" toText="Food and Drug Administration" />
+<head_link id="he33" fromID="p17" fromText="U.S. District Judge John G. Heyburn, II" toID="h33" toText="John G. Heyburn" />
+<head_link id="he34" fromID="p18" fromText="U.S. District Judge" toID="h34" toText="Judge" />
+<head_link id="he35" fromID="o4" fromText="District" toID="h35" toText="District" />
+<head_link id="he36" fromID="g9" fromText="U.S." toID="h36" toText="U.S." />
+<head_link id="he37" fromID="p19" fromText="Havens" toID="h37" toText="Havens" />
+<head_link id="he38" fromID="p20" fromText="Judge Heyburn" toID="h38" toText="Heyburn" />
+<head_link id="he39" fromID="p21" fromText="Judge" toID="h39" toText="Judge" />
+<head_link id="he40" fromID="p22" fromText="Knuckles" toID="h40" toText="Knuckles" />
+<head_link id="he41" fromID="p23" fromText="Judge Heyburn" toID="h41" toText="Heyburn" />
+<head_link id="he42" fromID="p24" fromText="Judge" toID="h42" toText="Judge" />
+<name_link id="na0" fromID="p0" fromText="Rich Isaacson" toID="n0" toText="Rich Isaacson" />
+<name_link id="na1" fromID="g0" fromText="Kentucky" toID="n1" toText="Kentucky" />
+<name_link id="na2" fromID="g1" fromText="LOUISVILLE, KY" toID="n2" toText="LOUISVILLE" />
+<name_link id="na3" fromID="g2" fromText="KY" toID="n3" toText="KY" />
+<name_link id="na4" fromID="p5" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="n4" toText="Jamesy Havens" />
+<name_link id="na5" fromID="p8" fromText="Crystal Knuckles" toID="n5" toText="Crystal Knuckles" />
+<name_link id="na6" fromID="f1" fromText="7930 Grand Cascade Drive, Louisville, Kentucky" toID="n6" toText="7930" />
+<name_link id="na7" fromID="f2" fromText="Grand Cascade Drive, Louisville, Kentucky" toID="n7" toText="Grand Cascade Drive" />
+<name_link id="na8" fromID="g3" fromText="Louisville, Kentucky" toID="n8" toText="Louisville" />
+<name_link id="na9" fromID="g4" fromText="Kentucky" toID="n9" toText="Kentucky" />
+<name_link id="na10" fromID="p10" fromText="U.S. Attorney David L. Huber of the Western District of Kentucky" toID="n10" toText="David L. Huber" />
+<name_link id="na11" fromID="g6" fromText="U.S." toID="n11" toText="U.S." />
+<name_link id="na12" fromID="o0" fromText="the Western District of Kentucky" toID="n12" toText="Western District of Kentucky" />
+<name_link id="na13" fromID="p12" fromText="Havens" toID="n13" toText="Havens" />
+<name_link id="na14" fromID="p13" fromText="Knuckles" toID="n14" toText="Knuckles" />
+<name_link id="na15" fromID="g7" fromText="Louisville" toID="n15" toText="Louisville" />
+<name_link id="na16" fromID="p15" fromText="Assistant United States Attorney David Weiser" toID="n16" toText="David Weiser" />
+<name_link id="na17" fromID="g8" fromText="United States" toID="n17" toText="United States" />
+<name_link id="na18" fromID="o1" fromText="the U.S. Drug Enforcement Administration (DEA" toID="n18" toText="U.S. Drug Enforcement Administration" />
+<name_link id="na19" fromID="o2" fromText="DEA" toID="n19" toText="DEA" />
+<name_link id="na20" fromID="o3" fromText="the Food and Drug Administration" toID="n20" toText="Food and Drug Administration" />
+<name_link id="na21" fromID="p17" fromText="U.S. District Judge John G. Heyburn, II" toID="n21" toText="John G. Heyburn" />
+<name_link id="na22" fromID="g9" fromText="U.S." toID="n22" toText="U.S." />
+<name_link id="na23" fromID="p19" fromText="Havens" toID="n23" toText="Havens" />
+<name_link id="na24" fromID="p20" fromText="Judge Heyburn" toID="n24" toText="Heyburn" />
+<name_link id="na25" fromID="p22" fromText="Knuckles" toID="n25" toText="Knuckles" />
+<name_link id="na26" fromID="p23" fromText="Judge Heyburn" toID="n26" toText="Heyburn" />
+<relation_link1 id="r0" fromID="C0" fromText="Kentucky couple" toID="p4" toText="Kentucky couple" />
+<relation_link1 id="r4" fromID="lo0" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="p5" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link1 id="r5" fromID="lo1" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="p6" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link1 id="r6" fromID="lo2" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="p9" toText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link1 id="r7" fromID="e0" fromText="U.S. Attorney" toID="p11" toText="U.S. Attorney" />
+<relation_link1 id="r8" fromID="M0" fromText="U.S. Attorney David L. Huber of the Western District of Kentucky" toID="p10" toText="U.S. Attorney David L. Huber of the Western District of Kentucky" />
+<relation_link1 id="r9" fromID="lo3" fromText="Havens and Knuckles admitted that between January 2007 and May 2008 they distributed anabolic steroids throughout the Louisville metropolitan area" toID="p14" toText="they" />
+<relation_link1 id="r10" fromID="e1" fromText="Assistant United States Attorney" toID="p16" toText="Assistant United States Attorney" />
+<relation_link1 id="r11" fromID="M1" fromText="U.S. District Judge" toID="p18" toText="U.S. District Judge" />
+<relation_link1 id="r12" fromID="e2" fromText="U.S. District Judge" toID="p18" toText="U.S. District Judge" />
+<relation_link2 id="re0" fromID="C0" fromText="Kentucky couple" toID="g0" toText="Kentucky" />
+<relation_link2 id="re1" fromID="lo0" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="f1" toText="7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link2 id="re2" fromID="lo1" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="f1" toText="7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link2 id="re3" fromID="lo2" fromText="Jamesy Havens, age 32, and his wife, Crystal Knuckles, age 21, both of 7930 Grand Cascade Drive, Louisville, Kentucky" toID="f1" toText="7930 Grand Cascade Drive, Louisville, Kentucky" />
+<relation_link2 id="re4" fromID="e0" fromText="U.S. Attorney" toID="g6" toText="U.S." />
+<relation_link2 id="re5" fromID="M0" fromText="U.S. Attorney David L. Huber of the Western District of Kentucky" toID="o0" toText="the Western District of Kentucky" />
+<relation_link2 id="re6" fromID="lo3" fromText="Havens and Knuckles admitted that between January 2007 and May 2008 they distributed anabolic steroids throughout the Louisville metropolitan area" toID="l0" toText="the Louisville metropolitan area" />
+<relation_link2 id="re7" fromID="e1" fromText="Assistant United States Attorney" toID="g8" toText="United States" />
+<relation_link2 id="re8" fromID="M1" fromText="U.S. District Judge" toID="o4" toText="District" />
+<relation_link2 id="re9" fromID="e2" fromText="U.S. District Judge" toID="g9" toText="U.S." />
+</TAGS>
+</KddTask>

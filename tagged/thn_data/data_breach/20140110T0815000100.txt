@@ -1,0 +1,9 @@
+Rogue software update cause Malware attack on Japanese Nuclear Power Plant
+Wang Wei
+The most critical and worst target of a State-sponsored cyber-attacks could be Hospitals, Dams, Dykes and Nuclear power stations and this may cause military conflicts between countries.  (adsbygoogle = window.adsbygoogle || []).push({}); According to Japan Today, The Monju nuclear power plant in Tsuruga, Japan was accidentally targeted by a malware on 2nd January, when a worker updated the system to the latest version of the video playback program.
+Monju Nuclear Plant is a sodium-cooled fast reactor, was launched in April 1994. It has not been operational for most of the past 20 years, after an accident in which a sodium leak caused a major fire.
+Employees over there are only left with a regular job of company's paperwork and maintenance. So the malware could have stolen only some sensitive documents, emails, training records and employees' data sheets. The Malware command-and-control server suspected to be from South Korea.
+The malware itself is not much sophisticated like Stuxnet or Duqu, but the unmanaged software update and patch management system can seriously lead to a critical cyber attack. Even being isolated from the Internet does not prevent you from being infected.
+One of the best examples of flawed Internal policies is Stuxnet, one of the most infamous pieces of malware ever created to destroy Iranian Nuclear plants and infected the systems through a USB stick only.
+Also in November, The Kaspersky revealed that Russian astronauts carried a removable device into space which infected systems on the space station.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

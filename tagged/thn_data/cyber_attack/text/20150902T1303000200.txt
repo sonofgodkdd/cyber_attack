@@ -1,0 +1,24 @@
+FBI’s Cyber Task Force Identifies Stealthy FF-RATs used in Cyber Attack
+Wang Wei
+
+In both April and June this year, a series of cyber attacks was conducted against the United States Office of Personnel Management (OPM).
+These attacks resulted in 21 million current and former Federal government employees’ information being stolen.
+After months of investigation, the FBI’s Cyber Task Force identified several Remote Access Tools (RATs) that were used to carry out the attack. One of the more effective tools discovered is named ‘FF-RAT’.
+FF-RAT evades endpoint detection through stealth tactics, including the ability to download DLLs remotely and execute them in memory only.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers use RATs to gain unlimited access to infected endpoints. Once the victim’s access privilege is acquired, it is then used for malware deployment, command and control (C&C) server communication, and data exfiltration.
+Most Advanced Persistent Threat (APT) attacks also take advantage of RAT functionality for bypassing strong authentication, reconnaissance, spreading infection, and accessing sensitive applications to exfiltrate data. In order to mitigate these types of attacks, it is key that you have tools and methods in place for early detection.
+It’s important these attacks are identified in time for you to isolate infected assets and remediate issues before they spread or move to a second stage (deploying additional malware, stealing important data, acting as its own C&C server, etc.)
+How this affects you
+When deploying a RAT, a hacker’s primary goal is to create a backdoor to infected systems so they can gain complete control over that system.
+When a RAT is installed on your system, the attacker is then able to view, change, or manipulate data on the infected machine. This leaves you open to your, and possibly your clients’, sensitive data being stolen.
+Often, a single RAT is deployed as a pivot point to deploy additional malware in the local network or use the infected system to host malware for remote retrieval.
+How AlienVault Helps
+AlienVault Labs, AlienVault’s team of security researchers, continue to perform cutting edge research on these types of threats.
+They collect large amounts of data and then create expert threat intelligence correlation directives, IDS signatures, vulnerability audits, asset discovery signatures, IP reputation data, data source plugins, and report templates.
+Activity from FF-RAT can be detected through IDS signatures and a correlation rule that the Labs team has released to the AlienVault Unified Security Management (USM) platform.
+Learn more about AlienVault USM:
+Download a free 30-day trial
+Watch a demo on-demand
+Play with USM in our product sandbox (no download required)
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

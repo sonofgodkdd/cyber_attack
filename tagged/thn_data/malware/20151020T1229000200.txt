@@ -1,0 +1,25 @@
+More than 250 iOS Apps Caught Using Private APIs to Collect Users' Private Data
+Mohit Kumar
+Apple is cleaning up its iTunes App Store again – for the third time in two months – following another flood of iOS apps that secretly collect users’ personal information.
+Researchers discovered more than 250 iOS apps that were violating Apple's App Store privacy policy, gathering personal identifiable data from almost one Million users estimated to have downloaded those offending apps.
+The offending iOS applications have been pulled out of the App Store after an analytics service SourceDNA reported the issue. After XcodeGhost, this is the second time when Apple is cleaning its App Store.
+Malicious iOS Apps Stealing Users’ Private Info
+The malicious applications were developed using a third-party software development kit (SDK) provided by Youmi, a Chinese advertising company.   (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once compiled and distributed on Apple’s official App Store, those apps secretly accessed and stored users' personal information, including:A list of apps installed on the victim’s phone
+Serial number of iPhones or iPads themselves when they run older versions of iOS
+A list of hardware components on iPhones or iPads running newer versions of iOS along with the components’ serial numbers
+E-mail addresses associated with the users’ Apple IDs
+How iOS Malware Works?
+Youmi's SDK makes use of private Application Programming Interfaces (APIs) to gather users’ information that only Apple should be able to view. 
+The gathered information is then routed through Youmi's servers in China. 
+What’s even More Bothersome?
+The app developers who programmed those iOS applications aren't even aware of the fact that their apps are mining users’ data.
+Also Read: Popular Apple Store Apps Infected with Data-Theft Malware
+The app makers that made use of Youmi's SDK may not have knowingly violated Apple's security and privacy guidelines."We believe the developers of these apps aren’t aware of this since the SDK is delivered in binary form, obfuscated, and user info is uploaded to Youmi’s server, not the app’s," reads SourceDNA's blog post. "We recommend developers stop using this SDK until this code is removed."Apple App Store Review Process Needs to be Stronger
+However, the primary concern over here is that even after the discovery of XcodeGhost malware, Apple’s App Store review process wasn’t able to catch this malicious activity until being alerted by a third party.
+It's still unclear how Youmi's SDK did not raise red flags at Apple. 
+Also Read: Apple Kicks Out some Malicious Ad-Blocker Apps from its Online Store
+In an official statement Apple says all offended iOS apps relying on the Youmi's SDK have now been removed. The company is now working with its developers to ensure their applications is in compliance with the App Store guidelines:
+We’ve identified a group of apps that are using a third-party advertising SDK, developed by Youmi, a mobile advertising provider, that uses private APIs to gather private information, such as user email addresses and device identifiers, and route data to its company server. 
+This is a violation of our security and privacy guidelines. The apps using Youmi’s SDK have been removed from the App Store and any new apps submitted to the App Store using this SDK will be rejected. We are working closely with developers to help them get updated versions of their apps that are safe for customers and in compliance with our guidelines back in the App Store quickly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

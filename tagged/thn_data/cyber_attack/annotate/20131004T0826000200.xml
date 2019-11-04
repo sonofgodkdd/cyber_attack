@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Adobe Gets Hacked; Hackers Steal 2.9 million Adobe Customers accounts
+Mohit Kumar
+
+Hackers broke into Adobe Systems’ internal network on Thursday, stealing personal information on 2.9 million customers and the source code for several of Adobe’s most popular products. This an absolutely massive blow to Adobe, especially their reputation.
+Adobe, which makes Photoshop and other programs, revealed that cyber attackers had access user information, including account IDs and encrypted passwords as well as credit and debit card numbers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company did not specify which users of its various software programs were hit. But Products compromised in this attack include Adobe Acrobat, ColdFusion, and ColdFusion Builder.
+"We believe these attacks may be related. We are working diligently internally, as well as with external partners and law enforcement, to address the incident." the company said in a customer security alert.
+Adobe's Arkin says the company is not aware of zero-day exploits or other specific threats to its customers due to the source code theft. Adobe is resetting the passwords on breached Adobe customer IDs, and users will receive an email if they are affected.
+"We have notified the banks processing customer payments for Adobe, so that they can work with the payment card companies and card-issuing banks to help protect customers’ accounts."
+If you’ve given your Credit card details to Adobe through their site, it’s now a good idea to keep an eye on your transactions.
+Adobe has also promised to offer these customers with the option of enrolling in a one-year complimentary credit monitoring membership where available.
+In November, 2012 - An Egyptian Hacker named ViruS_HimA also hacked into Adobe servers and leaked private data of 150,000 emails and hashed passwords of Adobe employees and customers/partner of the firm such as the US Military, USAF, Google, NASA DHL and many other companies.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<root_compromise id="r0" start="92" end="97" text="broke" TYPE="USP" />
+<root_compromise id="r1" start="148" end="156" text="stealing" TYPE="SUP" />
+<root_compromise id="r2" start="423" end="429" text="access" TYPE="USP" />
+</TAGS>
+</KddTask>

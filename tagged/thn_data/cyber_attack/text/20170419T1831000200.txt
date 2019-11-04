@@ -1,0 +1,30 @@
+To Protect Your Devices, A Hacker Wants to Hack You Before Someone Else Does
+Swati Khandelwal
+
+It should be noted that hacking a system for unauthorised access that does not belong to you is an illegal practice, no matter what's the actual intention behind it.
+Now I am pointing out this because reportedly someone, who has been labeled as a 'vigilante hacker' by media, is hacking into vulnerable 'Internet of Things' devices in order to supposedly secure them.
+This is not the first time when any hacker has shown vigilance, as we have seen lots of previous incidents in which hackers have used malware to compromise thousands of devices, but instead of hacking them, they forced owners to make them secure.
+Dubbed Hajime, the latest IoT botnet malware, used by the hacker, has already infected at least 10,000 home routers, Internet-connected cameras, and other smart devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But reportedly, it's an attempt to wrestle their control from Mirai and other malicious threats.
+Mirai is an IoT botnet that threatened the Internet last year with record-setting distributed denial-of-service attacks against the popular DNS provider Dyn last October. The botnet designed to scan for IoT devices that are still using default passwords.
+How the Hajime IoT Botnet Works
+Hajime botnet works much like Mirai — it spreads via unsecured IoT devices that have open Telnet ports and uses default passwords — and also uses the same list of username and password combinations that Mirai botnet is programmed to use, with the addition of two more.
+However, what's interesting about Hajime botnet is that, unlike Mirai, it secures the target devices by blocking access to four ports (23, 7547, 5555, and 5358) known to be vectors used to attack many IoT devices, making Mirai or other threats out of their bay.
+Unlike Mirai, Hajime uses a decentralized peer-to-peer network (instead of command and control server) to issue commands and updates to infected devices, which makes it more difficult for ISPs and Internet backbone providers to take down the botnet.
+Hajime botnet also takes steps to hide its running processes and files on the file system, making the detection of infected systems more difficult.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, Hajime botnet also lacks DDoS capabilities or any other hacking code except for the propagation code that lets one infected device search for other vulnerable devices and infects them.
+One of the most interesting things about Hajime: the botnet displays a cryptographically signed message every 10 minutes or so on terminals. The message reads:
+Just a white hat, securing some systems.
+Important messages will be signed like this!
+Hajime Author.
+Contact CLOSED Stay sharp! 
+There's Nothing to Get Excited 
+No doubt, there's a temptation to applaud Hajime, but until users don't reboot their hacked devices.
+Since Hajime has no persistence mechanism, which gets loaded into the devices' RAM, once the IoT device is rebooted, it goes back to its unsecured state, complete with default passwords and the Telnet port open to the world.
+"One day a device may belong to the Mirai botnet, after the next reboot it could belong to Hajime, then the next any of the many other IoT malware/worms that are out there scanning for devices with hard coded passwords. This cycle will continue with each reboot until the device is updated with a newer, more secure firmware," the Symantec researchers explained.
+There's another problem...
+Hacking someone to prevent hacking is not a thing, that’s why we are also concerned about a related amendment passed by the United States — Rule 41 — which grants the FBI much greater powers to legally break into computers belonging to any country, take data, and engage in remote surveillance.
+So, the most concerning issue of all — Is there any guarantee that the author of Hajime will not add attack capabilities to the worm to use the hijacked devices for malicious purposes?
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

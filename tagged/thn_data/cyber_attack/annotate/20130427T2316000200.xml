@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Suspected Hacker arrested for World's Biggest DDoS attack against Spamhaus
+Mohit Kumar
+
+The Dutch police have confirmed the arrest of a 35-year-old man suspected of taking part in a massive DDoS attack against the anti-spam group Spamhaus back in March. The attack's bandwidth peaked at over 300Gbps, making it the largest DDoS attack in history. Their target, Spamhaus, is a company which creates blacklists of spam sites and sells them to Internet Service Providers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Spamhaus was attacked with DDOS and the website overcrowded with traffic and went offline. Later CloudFlare was hired by Spamhaus to protect against such attacks. The suspect was arrested by Spanish authorities in Barcelona based on a European arrest warrant and is expected to be transferred to the Netherlands soon.
+The man arrested is believed to be Sven Kamphuis, the owner and manager of Dutch hosting firm Cyberbunker that has been implicated in the attack. This DDoS attack was believed to have been sparked when Spamhaus placed CyberBunker on its spam blacklist.
+Cyberbunker is a Dutch company based in a former nuclear bunker that provides anonymous hosting of anything except terrorist or child pornography websites.
+"Spamhaus is delighted at the news that an individual has been arrested and is grateful to the Dutch police for the resources they have made available and the way they have worked with us," said a Spamhaus spokesman.
+The investigation was conducted in the Netherlands by the High Tech Crime Team and at the request of the National Prosecutor in Barcelona, the suspect's house was searched and authorities seized mobile phones, data carriers and computers from the property.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DoS id="D0" start="278" end="284" text="peaked" TYPE="SUP" />
+<DoS id="D1" start="537" end="545" text="attacked" TYPE="USP" />
+<DoS id="D2" start="572" end="583" text="overcrowded" TYPE="SUP" />
+<DoS id="D3" start="601" end="605" text="went" TYPE="SUP" />
+</TAGS>
+</KddTask>

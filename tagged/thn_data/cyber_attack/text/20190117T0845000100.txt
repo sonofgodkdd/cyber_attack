@@ -1,0 +1,19 @@
+Unprotected Government Server Exposes Years of FBI Investigations
+Swati Khandelwal
+
+A massive government data belonging to the Oklahoma Department of Securities (ODS) was left unsecured on a storage server for at least a week, exposing a whopping 3 terabytes of data containing millions of sensitive files.
+The unsecured storage server, discovered by Greg Pollock, a researcher with cybersecurity firm UpGuard, also contained decades worth of confidential case files from the Oklahoma Securities Commission and many sensitive FBI investigations—all wide open and accessible to anyone without any password.
+Other severe files exposed included emails, social security numbers, names, and addresses of 10,000 brokers, credentials for remote access to ODS workstations, and communications meant for the Oklahoma Securities Commission, along with a list of identifiable information related to AIDS patients.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While the researcher doesn't know exactly how long the server was open to the public, the Shodan search engine revealed that the server had been publicly open since at least November 30, 2018, almost a week after (on December 7) Pollock discovered it.
+The UpGuard research team notified the ODS department the next day, and the state agency removed 'public access' to the unsecured pathway immediately after they were notified, though it is still unclear whether anyone else accessed the unsecured server.
+According to the security firm, such exposure could have a "severe impact" on the department's network integrity.
+"By the best available measures of the files' contents and metadata, the data was generated over decades, with the oldest data originating in 1986 and the most recent modified in 2016," a blog post published on the UpGuard website reads.
+"The data was exposed via an unsecured rsync service at an IP address registered to the Oklahoma Office of Management and Enterprise Services, allowing any user from any IP address to download all the files stored on the server."
+The firm also found passwords that could have allowed hackers to remotely access the state agency's workstations, and a spreadsheet containing login information and passwords for several internet services, including popular antivirus software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the incident, the Oklahoma Securities Commission said in a press release published Wednesday that an "accidental vulnerability" of limited duration was discovered and immediately secured in the server and that the department is taking the issue seriously and ordered a forensic investigation.
+"The Oklahoma Department of Securities (ODS) has initiated a comprehensive review of the circumstances surrounding an incident involving the inadvertent exposure of information during installation of a firewall," the Commission added.
+"The ODS has notified law enforcement and OMES regarding the incident. A forensic team is currently conducting an analysis to determine the type and number of data files that may have been exposed and who may have accessed them."
+The Commission also said the department is also exploring remedial actions and notifications for anyone whose information may have been exposed, and reviewing internal procedures, controls and security measures to ensure such incidents can't occur in the future.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

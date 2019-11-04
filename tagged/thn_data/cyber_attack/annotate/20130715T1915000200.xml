@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Beware of Fraudulent Sites, phishing for Twitter accounts
+Mohit Kumar
+
+There's a scam spreading through Twitter Direct messages (DMs) and fake emails, appealing users to visit a fake twitter phishing site i.e "twittler.com". Scam uses a hijacked Twitter account to send out direct messages that appear completely legitimate.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security blogger, Janne Ahlberg blogged about this new phishing scam, "This is a nasty trick especially when the sender is someone you know and trust. If you receive a suspicious DM or email from a person you know and trust, just warn him/her – the account is most likely hijacked and controlled by the attackers."
+The webpage resembles a Twitter login page and is trying to obtain your Twitter login credentials with a domain name looks very similar to original Twitter.com, with two extra word "LL" in it. 
+To play it safe, double-check your browser address bar to make sure that's where you are on orginal website twitter.com before logging in.
+If you enter your Twitter username and password into this site, you will become a victim of and the hacker will then control your Twitter account to hack more users via spamming them on your behalf.
+What do you do if your account is hacked? Change your password immediately, Check what applications you've given access to your account, Revoke access for any suspicious applications, and delete tweets and DMs you sent and received while your account was compromised.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<user_compromise id="u0" start="266" end="270" text="send" TYPE="USP" />
+<user_compromise id="u1" start="652" end="660" text="hijacked" TYPE="USP" />
+<user_compromise id="u2" start="665" end="675" text="controlled" TYPE="USP" />
+<user_compromise id="u3" start="1145" end="1152" text="control" TYPE="USP" />
+<web_compromise id="w1" start="151" end="176" text=" appealing users to visit" TYPE="USP" />
+<web_compromise id="w2" start="755" end="761" text="obtain" TYPE="USP" />
+<web_compromise id="w3" start="1177" end="1181" text="hack" TYPE="USP" />
+</TAGS>
+</KddTask>

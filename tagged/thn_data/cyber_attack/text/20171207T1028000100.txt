@@ -1,0 +1,19 @@
+Largest Crypto-Mining Exchange Hacked; Over $70 Million in Bitcoin Stolen
+Mohit Kumar
+
+Bitcoin is breaking every record—after gaining 20% jump last week, Bitcoin price just crossed the $14,800 mark in less than 24 hours—and there can be no better reason for hackers to put all of their efforts to steal skyrocketing cryptocurrency.
+NiceHash, the largest Bitcoin mining marketplace, has been hacked, which resulted in the theft of more than 4,700 Bitcoins worth over $57 million (at the time of breach).
+And guess what? You'll be surprised to know that the stolen BTC now worth over $70 million—in less than 24 hours.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Founded in 2014, NiceHash is a cloud-based crypto-mining marketplace that connects people from all over the world to rent out their spare computing power to other in order to create new coins.
+On Wednesday, several NiceHash users reported that their BTC wallets had been emptied, which was later confirmed by NiceHash after its service went offline claiming to be undergoing maintenance.
+At the time of writing, the NiceHash service is still offline with a post on its website, confirming that "there has been a security breach involving NiceHash website," and that hackers stole the contents of the NiceHash Bitcoin wallet.
+The company did not provide any further details about the security incident, but it did say that NiceHash has paused its operations for next 24 hours while it figures out exactly how many numbers of BTC were swiped from its website and how it was taken.
+Although NiceHash has not confirmed the number of bitcoins stolen from its virtual wallet, some of its customers have circulated a wallet address that suggests around 4,736 BTC—worth more than $70 million based on today's price—in total were drained from the company's wallet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+NiceHash has initiated an investigation into the matter, and has reported the incident to the "relevant authorities and law enforcement" and has been "co-operating with them as a matter of urgency."
+The company also assured its customers that it is "fully committed to restoring the NiceHash service with the highest security measures at the earliest opportunity," but it's still unclear how the company will manage to settle everything if it is unable to compensate the total loss.
+"We understand that you will have a lot of questions, and we ask for patience and understanding while we investigate the causes and find the appropriate solutions for the future of the service. We will endeavor to update you at regular intervals," the company says.
+Following the security incident, NiceHash is recommending its customers to change their passwords—both on NiceHash and other services, if they are using the same credentials.
+NiceHash is the latest cryptocurrency company to suffer a significant blow in recent months. Another major hack took place last month due to a flaw in Parity's wallet that caused over $160 million in ETH (Ether) to be frozen, while nearly $32 million in ETH was stolen by hackers in July.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

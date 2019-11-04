@@ -1,0 +1,20 @@
+Hackers Exploit Recently Disclosed Microsoft Office Bug to Backdoor PCs
+Mohit Kumar
+
+A recently disclosed severe 17-year-old vulnerability in Microsoft Office that lets hackers install malware on targeted computers without user interaction is now being exploited in the wild to distribute a backdoor malware.
+First spotted by researchers at security firm Fortinet, the malware has been dubbed Cobalt because it uses a component from a powerful and legitimate penetration testing tool, called Cobalt Strike.
+Cobalt Strike is a form of software developed for Red Team Operations and Adversary Simulations for accessing covert channels of a system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The vulnerability (CVE-2017-11882) that Cobalt malware utilizes to deliver the backdoor is a memory-corruption issue that allows unauthenticated, remote attackers to execute malicious code on the targeted system when opened a malicious file and potentially take full control over it.
+This vulnerability impacts all versions of Microsoft Office and Windows operating system, though Microsoft has already released a patch update to address the issue. You can read more details and impact of the vulnerability in our previous article.
+Since cybercriminals are quite quick in taking advantage of newly disclosed vulnerabilities, the threat actors started delivering Cobalt malware using the CVE-2017-11882 exploit via spam just a few days after its disclosure.
+According to Fortinet researchers, the Cobalt malware is delivered through spam emails, which disguised as a notification from Visa regarding rule changes in Russia, with an attachment that includes a malicious RTF document, as shown.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The email also contains a password-protected archive with login credentials provided in the email to unlock it in order to trick victims into believing that the email came from the legitimate financial service.
+"This is [also] to prevent auto-analysis systems from extracting the malicious files for sandboxing and detection," Fortinet researchers Jasper Manual and Joie Salvio wrote.
+"Since a copy of the malicious document is out in the open... so it's possible that this is only to trick the user into thinking that securities are in place, which is something one would expect in an email from a widely used financial service."
+Once the document is opened, the user has displayed a plain document with the words "Enable Editing." However, a PowerShell script silently executes in the background, which eventually downloads a Cobalt Strike client to take control of the victim's machine.
+With control of the victim's system, hackers can "initiate lateral movement procedures in the network by executing a wide array of commands," the researchers said.
+According to the researchers, cybercriminals are always in look for such vulnerabilities to exploit them for their malware campaigns, and due to ignoring software updates, a significant number of users out there left their systems unpatched, making them vulnerable to such attacks.
+The best way to protect your computer against the Cobalt malware attack is to download the patch for the CVE-2017-11882 vulnerability and update your systems immediately.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

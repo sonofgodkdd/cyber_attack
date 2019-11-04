@@ -1,0 +1,35 @@
+Ukrainian Man Arrested For Distributing NotPetya Ransomware And Helping Tax Evaders
+Mohit Kumar
+
+Ukrainian authorities have arrested a 51-year-old man accused of distributing the infamous Petya ransomware (Petya.A, also known as NotPetya) — the same computer virus that massively hit numerous businesses, organisations and banks in Ukraine as well as different parts of Europe around 45 days ago.
+However, the story is not as simple as it seems, which portrayed this man as a criminal. I recommend you to read complete article to understand the case better and then have an opinion accordingly.
+Sergey Neverov (Сергей Неверов), father of two sons and the resident of the southern city of Nikopol, is a video blogger and computer enthusiast who was arrested by the Ukrainian police on Monday, August 7 from his home.
+What Neverov Did?
+According to a press release published on Thursday by the Ukrainian cyber police department, Neverov uploaded a video, showing how to infect a computer with Petya.A ransomware—and also shared a download link for NotPetya malware to his social media account.
+After searching Neverov's home, the authorities seized his computers and other equipment, which were later analysed by the officers from the Ukrainian cyber-crime department, who discovered some files containing the malicious software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the police confirmed that Neverov was neither the actual author of the NotPetya virus, nor he was behind the massive ransomware attack that crippled many businesses and banks in this summer.
+The authorities charged Neverov of spreading a copy of NotPetya virus via his social media account that eventually infected at least 400 computers in Ukraine, and also believe that he had helped tax evaders — directly or indirectly.
+Companies Intentionally Infected Their Computers to Avoid Paying Taxes & Fines
+If you are not aware, 30th June was the last date in Ukraine for filing tax returns and unfortunately, during the same time NotPetya outcry began that encrypted sensitive files and documents for several businesses and organisations across the country.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since firms that were infected by the virus were unable to submit tax reports on time and liable for paying huge fines for late submissions, the head of the parliamentary committee on tax and customs, Nina Yuzhanina, gave affected taxpayers some relief (through a statement on his Facebook profile) by extending the last date to 31st December, 2017.
+Police believe the malware sample distributed by Neverov is being used by some businesses to deliberately infect their systems to avoid paying taxes on time as well as late tax return penalty.
+Is Neverov a Hacker or Computer Enthusiast?
+However, the story has another angle that indicates charges on Neverov are baseless.
+As I mentioned, Neverov is a video-blogger with 11,000 followers on YouTube, who loves to play with computers and publish review videos on computer hardware and gadgets for informational purposes.
+Neverov never tried to hide his identity, and even in some of his videos, he revealed his face and the exact GPS location to his house in Nikopol, which suggests that he had nothing to hide, neither his intentions were wrong.
+When NotPetya outcry hit his country, Neverov got curious about the ransomware and started studying about the malware to understand how it works and to find a way to recover infected files without paying ransom to the attackers.
+To get started, he downloaded a sample of NotPetya ransomware from the Internet and tested it on his computer, just like other malware analysts do.
+In fact, while recording a video of the NotPetya infection to demonstrate its impact on a targeted computer, he failed two times in infecting his own computer.
+When succeeded in the third attempt, Neverov uploaded the copy of NotPetya malware on file hosting website and shared the link on his social media account just for the informational purpose, saying "use at your own risk."
+Moreover, it is important to note that Neverov would not be gaining any profit by distributing the ransomware because of NotPetya has been designed to blackmail victims into paying ransom amount to a specific Bitcoin address that belongs to the original attackers only.
+If Convicted, Neverov Could Face 3 Years In Prison
+Neverov, the computer enthusiast, has now been charged under article 361 (part 1) of the Criminal Code of Ukraine, which says:
+"Unauthorized interference with the work of electronic computing machines (computers), automated systems, computer networks or telecommunication networks, ...which led to the leak, loss, fake, blocking information, distortion of the information processing or violation the established order it's routing."
+Although this sanction provides maximum punishment of up to two years in prison, Neverov has been threatened to face up to three years in jail, according to the official comments from the law enforcement authorities.
+The case seems somewhat similar to the one currently being faced by Marcus Hutchins, also known as MalwareTech, who gained famed for stopping the WannaCry ransomware.
+Hutchins was arrested by the FBI while he was travelling to his home after attending Def Con event in the United States and has been charged with creating and distributing a banking malware.
+Since Hutchins is a malware researcher, many infosec community members believe possibly a proof-of-concept code written and published by him publicly was re-used by the criminals to create the banking malware, which mistakenly framed him as the criminal mastermind.
+Hutchins is set to face a hearing in the US district court on 14 August, so we still have to wait for more information about his case.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

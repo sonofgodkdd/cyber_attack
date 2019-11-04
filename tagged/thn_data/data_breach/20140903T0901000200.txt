@@ -1,0 +1,21 @@
+Namecheap Accounts Compromised in Data Breach
+Wang Wei
+
+LA-based domain name registrar and hosting company Namecheap warned its customers on Monday that cybercriminals have begun accessing their accounts by using the list of credentials gathered from third-party websites.
+The Hosting company confirmed the security breach and informed that the hackers have compromised some of its customers’ accounts, probably using the "biggest-ever" password theft via Russian Hackers that disclosed list of 1.2 billion usernames and passwords compiled by Russian CyberVor Gang.
+RUSSIAN GROUP BEHIND THE ATTACK - CYBERVOR
+The CyberVor Gang allegedly stolen a vast cache of compromised login credentials for "1.2 billion" accounts, belonging to over half a billion e-mail addresses, warned Hold Security, a Milwaukee-based security company that tracks stolen data on underground cybercriminal forums. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The gang appears to have broken into at least 420,000 websites vulnerable to SQL injection attacks, among other techniques, in order to fetch majority of these credentials.
+GOOD NEWS - NAMECHEAP BECOME AWARE OF THE ATTACK SOON
+Namecheap said it had become aware of the ongoing attacks, thanks to the company’s intrusion detection systems that alerted them to a "much higher than normal load against our login system [using] username and password data gathered from third party sites that were trying to be used to try and gain access to Namecheap.com accounts.” 
+The invaders were trying multiple times to log in to a number of accounts until they get the right combination and access. While most of their attempts were failed but some appear to be successful, prompting Namecheap to suspend some users’ accounts in the fear that it may have been compromised as well as blocking over 30,000 IP addresses associated with the attack, as detailed in on the corporate blog of the hosting firm.
+FAKE BROWSER USED IN MASSIVE BREACH
+It is believed that the hackers behind the attack are using the stored usernames and passwords to simulate a web browser login through fake browser software. This software replicates the actual login procedure a customer would use if they are making use of Firefox, Safari, or Chrome browsers to access their Namecheap account.
+“The hackers are going through their username/password list and trying each and every one to try and get into Namecheap user accounts. The vast majority of these login attempts have been unsuccessful as the data is incorrect or old and passwords have been changed,” the company said in a blog post entitled, Urgent Security Warning.
+“As a precaution, we are aggressively blocking the IP addresses that appear to be logging in with the stolen password data. We are also logging these IP addresses and will be exporting blocking rules across our network to completely eliminate access to any Namecheap system or service, as well as making this data available to law enforcement.”
+Namecheap believed that the hacking attack is linked to the Russian CyberVor gang and is not at all related to the recent data breaches such as the high-profile Target breach or the Adobe attack.
+HOW TO PROTECT YOURSELF
+“Our early investigation shows that those users who use the same password for their Namecheap account that are used on other websites are the ones who are vulnerable,” said Matt Russell, vice president of hosting company.
+Russell encourages Namecheap customers to enable two-factor authentication when they regain access to their Namecheap account. Two-factor authentication has been enabled at other web hosting companies as users look for ways to add an extra layer of security to their hosting and email accounts.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

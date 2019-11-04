@@ -1,0 +1,20 @@
+ISPs Caught Injecting Cryptocurrency Miners and Spyware In Some Countries
+Swati Khandelwal
+
+Governments in Turkey and Syria have been caught hijacking local internet users' connections to secretly inject surveillance malware, while the same mass interception technology has been found secretly injecting browser-based cryptocurrency mining scripts into users' web traffic in Egypt.
+Governments, or agencies linked to it, and ISPs in the three countries are using Deep Packet Inspection technology from Sandvine (which merged with Procera Networks last year), to intercept and alter Internet users' web traffic.
+Deep packet inspection technology allows ISPs to prioritize, degrade, block, inject, and log various types of Internet traffic, in other words, they can analyze each packet in order to see what you are doing online.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a new report by Citizen Lab, Turkey's Telecom network was using Sandvine PacketLogic devices to redirect hundreds of targeted users (journalists, lawyers, and human rights defenders) to malicious versions of legitimate programs bundled with FinFisher and StrongPity spyware, when they tried to download them from official sources.
+"This redirection was possible because official websites for these programs, even though they might have supported HTTPS, directed users to non-HTTPS downloads by default," the report reads.
+A similar campaign has been spotted in Syria, where Internet users were silently redirected to malicious versions of the various popular application, including Avast Antivirus, CCleaner, Opera, and 7-Zip applications bundled with government spyware.
+In Turkey, Sandvine PacketLogic devices were being used to block websites like Wikipedia, the sites of the Dutch Broadcast Foundation (NOS) and Kurdistan Workers' Party (PKK).
+ISPs Injected Cryptocurrency Mining Scripts Into Users' Web Browsers
+However, in Egypt, Sandvine PacketLogic devices were being used by a Telecom operator for making money by:
+Secretly injecting a cryptocurrency mining script into every HTTP web page users visited in order to mine the Monero cryptocurrency,
+Redirecting Egyptian users to web pages with affiliate ads.
+In Egypt, these devices were also being used to block access to human rights, political, and news outlets like Al Jazeera, HuffPost Arabic, Reporters Without Borders, and Mada Masr, as well as NGOs like Human Rights Watch.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Citizen Lab researchers reported Sandvine of their findings, but the company called their report "false, misleading, and wrong," and also demanded them to return the second-hand PacketLogic device they used to confirm attribution of their fingerprint.
+Citizen Lab started this investigation in September last year after ESET researchers published a report revealing that the downloads of several popular apps were reportedly compromised at the ISP level in two (unnamed) countries to distribute the FinFisher spyware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

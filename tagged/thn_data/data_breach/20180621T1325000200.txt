@@ -1,0 +1,24 @@
+Thousands of Mobile Apps Expose Their Unprotected Firebase Hosted Databases
+Mohit Kumar
+
+Mobile security researchers have discovered unprotected Firebase databases of thousands of iOS and Android mobile applications that are exposing over 100 million data records, including plain text passwords, user IDs, location, and in some cases, financial records such as banking and cryptocurrency transactions.
+Google’s Firebase service is one of the most popular back-end development platforms for mobile and web applications that offers developers a cloud-based database, which stores data in JSON format and synced it in the real-time with all connected clients.
+Researchers from mobile security firm Appthority discovered that many app developers' fail to properly secure their back-end Firebase endpoints with firewalls and authentication, leaving hundreds of gigabytes of sensitive data of their customers publicly accessible to anyone.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since Firebase offers app developers an API server, as shown below, to access their databases hosted with the service, attackers can gain access to unprotected data by just adding "/.json" with a blank database name at the end of the hostname.
+Sample API URL: https://<Firebase project name>.firebaseio.com/<database.json>
+Payload to Access: Data https://<Firebase project name>.firebaseio.com/.json
+To find the extent of this issue, researchers scanned over 2.7 million apps and found that more than 3,000 apps—2,446 Android and 600 iOS apps—were leaking a whole 2,300 databases with more than 100 million records, making it a giant breach of over 113 gigabytes of data.
+The vulnerable Android apps alone were downloaded more than 620 million times. 
+Affected apps belong to multiple categories such as telecommunication, cryptocurrency, finance, postal services, ride-sharing companies, educational institutions, hotels, productivity, health, fitness, tools and more.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers also provided a brief analysis, given below, of the obtained data they had downloaded from vulnerable applications.
+2.6 million plaintext passwords and user IDs
+4 million+ PHI (Protected Health Information) records (chat messages and prescription details)
+25 million GPS location records
+50,000 financial records including banking, payment and Bitcoin transactions
+4.5 million+ Facebook, LinkedIn, Firebase, and corporate data store user tokens.
+Researcher claims all this is happening at the first place because Google Firebase service does not secure user data by default, requiring developers to explicitly implement user authentication on all database rows and tables to protect their databases from unauthorized access.
+"The only security feature available to developers is authentication and rule-based authorization," the researchers explain. What's worse? There are no "third-party tools available to provide encryption for it."
+Researchers had already contacted Google and provided a list of all vulnerable app databases, and also contacted a few app developers helping them to patch this issue.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

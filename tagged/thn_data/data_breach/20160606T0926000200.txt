@@ -1,0 +1,22 @@
+Facebook CEO Zuckerberg's Twitter, Pinterest accounts Hacked! And the Password was...
+Mohit Kumar
+
+The man who runs the biggest social network and continuously implements new security measures to boost its billion users security, himself failed to follow basics of Internet security for his own online accounts.
+Yes, I’m talking about Facebook CEO Mark Zuckerberg, who had his Twitter and Pinterest accounts compromised on Sunday.
+The hacker group from Saudi Arabia, dubbed OurMine, claimed responsibility for the hack and guess how the group did it?
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Thanks to the LinkedIn data breach!
+The hackers tweeted that they found Zuck's account credentials in the recent LinkedIn data breach, from which they took his SHA1-hashed password string and then broke it and tried on several social media accounts.
+Also Read: Hacker Removed Zuckerberg's Facebook Cover Photo
+The group, which has more than 40,000 Twitter followers, then successfully broke into Zuck's Twitter (@finkd) and Pinterest profile and defaced its banners with its logo as well as tweeted out some offensive posts.
+Mr. Zuckerberg has not sent a tweet from the account since 2012.
+Now, what’s more surprising?
+Zuckerberg's LinkedIn password was "dadada", which he also used for his other online accounts, the group tweeted.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, this might be another alarm for those who haven’t yet changed passwords for their LinkedIn as well as other online accounts that used the same credentials.
+In tweets now deleted, the group also claimed to have gained accessed to Zuck’s Instagram account, but Facebook confirmed that the group did not access his Instagram account.
+"No Facebook systems or accounts were accessed," a Facebook spokesperson said. "The affected accounts have been re-secured."
+Also Read: Palestinian Hacker hacks Zuckerberg's Facebook Timeline
+More than 167 Million members' email and password combinations were hacked during a 2012 LinkedIn data breach and had just been posted online. The passwords were encrypted with the SHA1 algorithm with "no salt" that made it easier for hackers to crack them.
+Like other data breaches, I suggest you change your password immediately, especially if you use the same password for other websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

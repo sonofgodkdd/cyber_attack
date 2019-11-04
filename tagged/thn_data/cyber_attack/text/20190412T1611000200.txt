@@ -1,0 +1,24 @@
+Encrypted Messaging Project "Matrix" Suffers Extensive Cyber Attack
+Mohit Kumar
+
+Matrix—the organization behind an open source project that offers a protocol for secure and decentralized real-time communication—has suffered a massive cyber attack after unknown attackers gained access to the servers hosting its official website and data.
+Hackers defaced Matrix's website, and also stole unencrypted private messages, password hashes, access tokens, as well as GPG keys the project maintainers used for signing packages.
+The cyber attack eventually forced the organization to shut down its entire production infrastructure for several hours and log all users out of Matrix.org.
+So, if you have an account with Matrix.org service and do not have backups of your encryption keys or were not using server-side encryption key backup, unfortunately, you will not be able to read your entire encrypted conversation history.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Matrix is an open source end-to-end encrypted messaging protocol that allows anyone to self-host a messaging service on their own servers, powering many instant messengers, VoIP, WebRTC, bots and IoT communication.
+Vulnerable Jenkins Allowed Attackers to Access Server
+According to a press release published today by Matrix Project, unknown attackers exploited a sandbox bypass vulnerability in its production infrastructure on 4th April that was running on an outdated, vulnerable version of Jenkins automation server.
+The Jenkins flaw allowed attackers to steal internal SSH keys, which they used to access Matrix's production infrastructure, eventually granting them access to unencrypted content, including personal messages, password hashes, and access tokens.
+Screenshot Credit: David on Twitter
+After being informed of the vulnerability by JaikeySarraf on 9th April, Matrix.org identified the full scope of the attack and removed the vulnerable Jenkins server as well as revoked the attacker's access from its servers on 10th April.
+The next day, Matrix.org also took its home server down and started rebuilding its production infrastructure from scratch, which has now been back online.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Today at around 5 am UTC, the attackers behind the cyber attack also managed to repoint DNS for matrix.org to a defacement website hosted on GitHub using a Cloudflare API key, which was compromised in the attack and theoretically replaced during the rebuild.
+Since the latest defacement confirms that the stolen encrypted password hashes were exfiltrated from the production database, Matrix.org forced to log out all users and strongly advised them to change their passwords immediately.
+"This was a difficult choice to make. We weighed the risk of some users losing access to encrypted messages against that of all users' accounts being vulnerable to hijack via the compromised access tokens," the company says.
+"We hope you can see why we made the decision to prioritize account integrity over access to encrypted messages, but we're sorry for the inconvenience this may have caused."
+The company also confirms that the GPG keys used for signing packages were also compromised, but fortunately, the attackers did not use it to release malicious versions of the software signed with the stolen keys.
+Matrix project assures that both keys have now been revoked.
+The maintainers of the project also say they will shortly start emailing all affected users to inform them about the incident and advise them to change their passwords.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

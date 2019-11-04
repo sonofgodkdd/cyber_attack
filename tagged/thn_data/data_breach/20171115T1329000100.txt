@@ -1,0 +1,18 @@
+Forever 21 Warns Shoppers of Payment Card Breach at Some Stores
+Mohit Kumar
+
+Another day, another data breach. This time a fast-fashion retailer has fallen victim to payment card breach.
+American clothes retailer Forever 21 announced on Tuesday that the company had suffered a security breach that allowed unknown hackers to gain unauthorized access to data from payment cards used at a number of its retail locations.
+The Los Angeles based company, which operates over 815 stores in 57 countries, didn't say which of its stores were affected, but it did note that customers who shopped between March and October this year may be affected.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Forever 21 learned of the breach after the retailer received a report from a third-party monitoring service, suggesting there may have been "unauthorized access to data from payment cards that were used at certain FOREVER 21 stores."
+Besides this, the company also revealed that it implemented encryption and token-based authentication systems in 2015 that are intended to protect transaction data on its point-of-sale (PoS) machines in its stores.
+However, due to dysfunctional of the security layers on certain PoS devices, hackers were able to gain unauthorized access to data from payment cards at some Forever 21 stores, the company admitted.
+Since the investigation of its payment card systems is still ongoing, complete findings of the incident, including the number of customers potentially affected, are not available at the moment.
+"Forever 21 immediately began an investigation of its payment card systems and engaged a leading security and forensics firm to assist," the US clothing retailer said while announcing the data breach. 
+"We regret that this incident occurred and apologize for any inconvenience. We will continue to work to address this matter."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Meanwhile, customers who shopped at Forever 21 are advised to monitor their payment card statements carefully, and immediately notify their banks that issued the card for any unauthorized charge.
+This incident is yet another embarrassing breach disclosed recently, followed by Disqus' disclosure of a 5-year-old breach where hackers stole details of over 17.5 million users and Yahoo's disclosure that 2013 data breach affected all of its 3 Billion users.
+The recent incidents also include Equifax's disclosure of a breach of potentially 145.5 million customers, U.S. Securities and Exchange Commission (SEC) disclosure of a breach that profited hackers, and Deloitte's revelation of a cyber attack that resulted in the theft of its clients' private emails and documents.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

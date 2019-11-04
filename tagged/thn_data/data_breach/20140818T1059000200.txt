@@ -1,0 +1,20 @@
+Grocery Stores 'Supervalu' and 'Albertsons' Hacked for Credit Card Data
+Swati Khandelwal
+
+Albertson’s and SuperValu - Two nation’s most popular supermarket store chains announced last weekend that a data breach may have revealed the credit and debit card information of their customers at a number of grocery store locations in more than 18 states.
+Minnesota-based Supervalu announced that an unknown number of its customers who used their payment cards in around 180 stores between June 22 and July 17 may have had payment card data compromised by attackers who gained access to the Supervalu computer network that processes card transactions. 
+The affected information may includes names, payment card numbers, expiration dates, and other numerical information from cards used at POS devices.
+"The Company has not determined that any such cardholder data was in fact stolen by the intruder, and it has no evidence of any misuse of any such data, but is making this announcement out of an abundance of caution," SuperValu said in a statement.
+The massive data breach impacted Supervalu's other brands operating under the names Cub Foods, Farm Fresh, Hornbacher’s, Shop ’n Save, and Shoppers Food and Pharmacy in various parts of the country, including several in Minnesota, Virginia, Illinois, Missouri, Maryland and North Carolina.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In addition to Supervalu, the breach also hit the Albertsons, Acme Markets, Jewel-Osco, Shaw's and Star Markets brands in about 24 states.
+AB Acquisition LLC – the parent company of Albertsons, ACME Markets, Jewel-Osco, and Shaw's and Star Market – announced a similar breach on Thursday that, according to company, occurred between the same timeframe. 
+The company has notified the appropriate law enforcement agencies and is working with Supervalu, who it identifies as “its third party IT services provider,” to investigate the data breach.
+“Third-party data forensics experts are supporting an ongoing investigation. AB Acquisition has not determined that any cardholder data was in fact stolen, and currently it has no evidence of any misuse of any such data,” AB Acquisition LLC said in a statement.
+According to AB Acquisition LLC, Albertsons stores in Southern California, Idaho, Montana, North Dakota, Nevada, Oregon, Washington, Wyoming and Southern Utah were impacted by this data breach. However, stores in Arizona, Arkansas, Colorado, Florida, Louisiana, New Mexico, Texas and our two Super Saver Foods Stores in Northern Utah were not affected. 
+Moreover, ACME Markets in Pennsylvania, Maryland, Delaware and New Jersey; Jewel-Osco stores in Iowa, Illinois and Indiana; and Shaw’s and Star Markets stores in Maine, Massachusetts, Vermont, New Hampshire and Rhode Island were all affected by this incident.
+The companies did not revealed how the card data were stolen, but given the recent outbreak of point-of-sale (POS) hacks at the third-largest U.S. Retailer Target and other major retailers such as Neiman Marcus, Michaels Store, the POS systems would be a likely attack vector. 
+Still, it is unclear exactly how many number of payment cards were impacted in the data breaches, but both companies are taking necessary steps to notify the affected customers, as well as offering them one year of free credit monitoring services, as of the data breach standard.
+SuperValu said in a statement that the company "took immediate steps to secure the affected part of its network. Supervalu believes the intrusion has been contained and is confident that its customers can safely use their credit and debit cards in its stores."
+Both companies say they have no evidence that stolen payment card information is being misused at this time, but if the data was indeed stolen, it likely would turn up on underground markets for sale. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

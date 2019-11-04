@@ -1,0 +1,12 @@
+Pakistani Hacker Arrested for Hacking Telecom Company Database
+Swati Khandelwal
+
+Pakistan’s Federal Investigation Agency (FIA) has arrested a Pakistani Hacker allegedly involved in hacking into a telecom company and uploading their database on his website.
+With the help of the National Response Center for Cyber Crime (NR3C) of Pakistan’s Federal Investigation Agency, the local authorities were able to trace and arrest the hacker suspected of infiltrating into the systems of Warid Telecom, an Abu-Dhabi-based telecoms company that provides services in Congo, Pakistan and Uganda.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The suspect, Mubashar Shahzad, a resident of Kasur, is believed to have downloaded Warid Telecom’s customer information from the company’s databases and exposed it online, which was published on earlysms.com, a site hosted with HosterPK.
+Investigation started after one of the senior manager of a cellular company filed a complaint saying the ‘information of its consumers till 2006 had been exposed over the internet.’
+“A technical/forensic analysis found that the website was being hosted by hosterpk. The FIA traced the IP address, email address and phone number of the suspect through the host company,” Usman Anwar, the Director of FIA told The Express Tribune.
+The suspects IP address was traced to a shop in Ghalla Mandi, Kasur, from where the authorities arrested the suspect Mubashar Shahzad. The Investigation Team also detected and seized Shahzad’s computers which contained folders named ‘Warid Data’. In addition to that, two desktop systems, hard drives and portable Hard drives were also seized by the authorities.
+The website on which the stolen data was posted by the hacker has now been shut down.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

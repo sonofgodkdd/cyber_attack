@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Bharatiya Janata Party website defaced by Anonymous Hackers
+Mohit Kumar
+Hackers from Indian Anonymous Group hacked Bharatiya Janata Party’s website, BJP.org, last night, and defaced it.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+They post a set of messages with pictures, reflecting the group’s condemnation of recent events including the government’s approval of 51% FDI in multi-brand retail, diesel price hike, corruption, the cartoon controversy, and the Kudankulam Power Project, among others.
+Hackers also asked people to stand up and participate in the #OccupyIndiaground protest, which according to the message starts 23rd September 2012 (this Sunday) 3pm at India Gate, Delhi, Freedom Park, Bangalore, Marine Beach, Chennai, Park Street Crossing, Kolkata, MG Road, Pune and Subhash Park, Kochi. 
+Defaced domains are:
+http://bjp.org
+http://bjpmp.org.in/
+The group also posted a YouTube video with a message from anonymous:
+Video Saying that the group’s been observing the deteriorating condition of free speech in India, and the government’s attempts to block social media.
+Last month, Anonymous Operation India (AnonOps India), had defaced the online magazine of the Indian Youth Congress Yuvadesh.com, in support of India Against Corruption and protests against alleged internet censorship by the Indian government.
+Source
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<IMPACT.Destruct id="IMP0" start="175" end="182" text="defaced" TYPE="TRG" />
+<IMPACT.Destruct id="IMP1" start="816" end="823" text="Defaced" TYPE="TRG" />
+<IMPACT.Destruct id="IMP2" start="1152" end="1159" text="defaced" TYPE="TRG" />
+</TAGS>
+</KddTask>

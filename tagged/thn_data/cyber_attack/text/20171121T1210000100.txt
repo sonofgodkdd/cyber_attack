@@ -1,0 +1,22 @@
+Tether Hacked — Attacker Steals $31 Million of Digital Tokens
+Swati Khandelwal
+
+Again some bad news for cryptocurrency users.
+Tether, a Santa Monica-based start-up that provides a dollar-backed cryptocurrency tokens, has claimed that its systems have been hacked by an external attacker, who eventually stole around $31 million worth of its tokens.
+With a market capitalization of $673 million, Tether is the world's first blockchain-enabled platform to allow the traditional currency to be used like digital currency.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Tether serves as a proxy for the US dollar, Euro (and soon Japanese yen) that can be sent between exchanges including Bitfinex, Poloniex, Omni, GoCoin and other markets.
+According to an announcement on the company's official website posted today, the unknown hacker stole the tokens (worth $30,950,010) from the Tether Treasury wallet on November 19 and sent them to an unauthorized Bitcoin address.
+The stolen tokens will not be redeemed, but the company is in the process of attempting token recovery in order to prevent them from entering the broader cryptocurrency market.
+The attacker is holding stolen funds at the following bitcoin address:
+16tg2RJuEPtZooy18Wxn2me2RhUdC94N7r
+So, in case, you receive any USDT (that's what Tether calls its platform's USD currency; 1USDT=1USD) "tokens from the above address, or from any downstream address that receives these tokens, do not accept them, as they have been flagged and will not be redeemable by Tether for USD," the company warned.
+Bitcoin price dropped as much as 5.4 percent, the most since November 13.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To prevent the stolen coins from moving from the attacker's address, the company has temporarily suspended its back-end wallet service and also provided a new version of its software.
+"Accordingly, any and all exchanges, wallets, and other Tether integrators should install this software immediately in order to prevent loss: https://github.com/tetherto/omnicore/releases/tag/0.2.99.s," the company said.
+The Tether Team has also ensured that Tether issuances have not been affected by this attack, and all of its tokens remain fully backed by assets in the Tether reserve.
+Instead, the only tokens that won't be redeemed at this moment are those stolen from Tether treasury yesterday. However, these tokens will be returned to treasury once the software enhancements are in place. 
+Tether is also undertaking a thorough investigation of the incident in an attempt to prevent similar attacks in the future.
+This incident is the latest in a long list of attacks against the cryptocurrency markets. Just last week, about $300 million worth of Ether from dozens of Ethereum wallets was permanently locked up after someone triggered a flaw in Parity multi-sig wallets.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

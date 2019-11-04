@@ -1,0 +1,16 @@
+Google+ to Shut Down Early After New API Flaw Hits 52.5 Million Users
+Mohit Kumar
+
+Google today revealed that Google+ has suffered another massive data breach, forcing the tech giant to shut down its struggling social network four months earlier than its actual scheduled date, i.e., in April 2019 instead of August 2019.
+Google said it discovered another critical security vulnerability in one of Google+'s People APIs that could have allowed developers to steal private information on 52.5 million users, including their name, email address, occupation, and age.
+The vulnerable API in question is called "People: get" that has been designed to let developers request basic information associated with a user profile.
+However, software update in November introduced the bug in the Google+ People API that allowed apps to view users' information even if a user profile was set to not-public.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Google engineers discovered the security issue during standard testing procedures and addressed it within a week of the issue being introduced.
+The company said it found no evidence that the vulnerability was exploited or its users' data was misused by any third-party app developers.
+"No third party compromised our systems, and we have no evidence that the app developers that inadvertently had this access for six days were aware of it or misused it in any way," Google said.
+Google also assured its users that no passwords, financial data, national identification numbers or any other sensitive data were left exposed by this API bug.
+Almost two months ago, Google disclosed a massive data breach that exposed private data of more than 500,000 Google+ users to third-party developers, and also announced to shut down Google+ for consumers by the end of August 2019 due to its failure in gaining broad adoption or significant traction with its consumers.
+"Our review showed that Google+ is better suited as an enterprise product where co-workers can engage in internal discussions on a secure corporate social network," Google said in October.
+However, following yet another security incident, Google said the company is going to shut down its social media network in April 2019 instead of August.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+PyeongChang 2018 Winter Olympics Opening Ceremony Disrupted by Malware Attack
+Swati Khandelwal
+
+The Pyeongchang Winter Olympics taking place in South Korea was disrupted over the weekend following a malware attack before and during the opening ceremony on Friday.
+The cyber attack coincided with 12 hours of downtime on the official website for the Winter Games, the collapse of Wi-Fi in the Pyeongchang Olympic stadium and the failure of televisions and internet at the main press center, leaving attendees unable to print their tickets for events or get venue information.
+The Pyeongchang Winter Olympics organizing committee confirmed Sunday that a cyber attack hit its network helping run the event during the opening ceremony, which was fully restored on 8 am local time on Saturday—that's full 12 hours after the attack began.
+Multiple cybersecurity firms published reports on Monday, suggesting that the cause of the disruption was "destructive" wiper malware that had been spread throughout the Winter Games' official network using stolen credentials.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed "Olympic Destroyer" by the researchers at Cisco Talos, the wiper malware majorly focuses on taking down networks and systems and wiping data, rather than stealing information.
+The Talos researchers would not comment on attribution, but various security experts have already started attributing the Olympic Destroyer malware to hackers linked to either North Korea, China or Russia.
+According to the analysis by Cisco Talos, the attacker had intimate knowledge of the Pyeongchang 2018 network's systems and knew a "lot of technical details of the Olympic Game infrastructure such as username, domain name, server name, and obviously password."
+"The other factor to consider here is that by using the hard-coded credentials within this malware it's also possible the Olympic infrastructure was already compromised previously to allow the exfiltration of these credentials," researchers said.
+The Olympic Destroyer malware drops two credential stealers, a browser credential stealer and a system stealer, to obtain required credentials and then spreads to other systems as well using PsExec and Windows Management Instrumentation (WMI), two legitimate Windows administration tools used by network admins to access and carry out actions on other PCs on a network.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The researchers noted that both built-in tools were also abused by the Bad Rabbit ransomware and NotPetya wiper malware last year.
+Once installed, the malware then first deletes all possible "shadow" copies of files and Windows backup catalogs, turn off recovery mode and then deletes system logs to cover its tracks and making file recovery difficult.
+"Wiping all available methods of recovery shows this attacker had no intention of leaving the machine useable. The sole purpose of this malware is to perform destruction of the host and leave the computer system offline," reads the Talos blog post.
+It's difficult to accurately attribute this cyber attack to a specific group or nation-state hackers due to sparse of technical evidence to support such a conclusion as well as hackers often employing techniques to obfuscate their operations.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

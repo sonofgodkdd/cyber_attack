@@ -1,0 +1,23 @@
+LPG Gas Company Leaked Details, Aadhaar Numbers of 6.7 Million Indian Customers
+Swati Khandelwal
+
+Why would someone bother to hack a so-called "ultra-secure encrypted database that is being protected behind 13 feet high and 5 feet thick walls," when one can simply fetch a copy of the same data from other sources.
+French security researcher Baptiste Robert, who goes by the pseudonym "Elliot Alderson" on Twitter, with the help of an Indian researcher, who wants to remain anonymous, discovered that the official website of popular state-owned LPG gas company Indane is leaking personal details of its millions of customers, including their Aadhaar numbers.
+This is not the first time when an unprotected third-party database has leaked Aadhaar details of Indian citizens, which is a unique number assigned to each citizen as part of India's biometric identity programme maintained by the government's Unique Identification Authority of India (UIDAI).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Earlier this week an anonymous Indian researcher initially discovered a loophole in the Indane's online dealers portal that could allow anyone to access hundreds of thousands of customers data associated with their respective dealers without requiring any authentication.
+"Due to a lack of authentication in the local dealers portal, Indane is leaking the names, addresses and the Aadhaar numbers of their customers," Robert wrote in a blog post on Medium late Monday.
+To avoid getting into trouble from Indian authorities, the researcher shared his findings with Robert, who previously gained fame for exposing numerous Aadhaar-related leaks and security weaknesses in other Indian website and services.
+After analyzing the issue, Robert discovered that attackers can actually fetch millions of Indian citizens data from the Indane website if they know every dealer's username, which he later found using another vulnerability in the Indane's official mobile app.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The mobile app vulnerability allowed Robert to find 11,062 valid dealer IDs, out of which he used 9490 IDs against the online dealers portal to fetch personal data of 5.8 million users, including their Aadhaar numbers, names and residential addresses.
+"Unfortunately, Indane probably blocked my IP, so I didn't test the remaining 1572 dealers. By doing some basic math we can estimate the final number of affected customers around 6,791,200," Robert says.
+Robert shared his findings with Indane, an LPG brand owned by the Indian Oil Corporation, on 15th February, and made the public disclosure on 19th February after receiving no response from the company.
+Official Response From Indane LPG Company
+In response to this news, Indian Oil Corp Ltd, who owns Indane, ‏tweeted a statement saying, "There is no leak of Aadhaar data through Indane website."
+In an attached statement, instead of acknowledging the breach of its customers' data, the company tried to defend Aadhaar and Indian Government by saying:
+"IndianOil in its software captures only the Aadhaar number which is required for LPG subsidy transfer. No other Aadhaar related details are captured by IndianOil. Therefore, leakage of Aadhaar data is not possible through us."
+"In the past, Oil Marketing Companies on time to time basis were hosting the consumption of subsidized LPG refills by consumers, multiple connections list having customer information like consumer number, name, LPG ID and address, in public domain (transparency portal) in their respective websites which was available for social audits."
+"There is no Aadhaar number hosted on this website."
+However, The Hacker News has reviewed the sample database provided by Robert and can confirm that the website also hosts Aadhaar numbers of its customers, not directly displayed on the web page, but in the URL hyperlinked to each customer's ID.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,23 @@
+Hackers Exploiting Drupal Vulnerability to Inject Cryptocurrency Miners
+Mohit Kumar
+
+The Drupal vulnerability (CVE-2018-7600), dubbed Drupalgeddon2 that could allow attackers to completely take over vulnerable websites has now been exploited in the wild to deliver malware backdoors and cryptocurrency miners.
+Drupalgeddon2, a highly critical remote code execution vulnerability discovered two weeks ago in Drupal content management system software, was recently patched by the company without releasing its technical details.
+However, just a day after security researchers at Check Point and Dofinity published complete details, a Drupalgeddon2 proof-of-concept (PoC) exploit code was made widely available, and large-scale Internet scanning and exploitation attempts followed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the time, no incident of targets being hacked was reported, but over the weekend, several security firms noticed that attackers have now started exploiting the vulnerability to install cryptocurrency miner and other malware on vulnerable websites.
+The SANS Internet Storm Center spotted some attacks to deliver a cryptocurrency miner, a PHP backdoor, and an IRC bot written in Perl.
+The simple PHP backdoor allows attackers to upload additional files (backdoors) to the targeted server.
+A thread on SANS ISC Infosec forums also suggests that Drupalgeddon2 is being used to install the XMRig Monero miner on vulnerable websites. Besides the actual XMRig miner, the malicious script also downloads additional files, including a script to kill competing miners on the targeted system.
+Researchers from security firm Volexity have also observed a wide variety of actions and payloads attempted via the public exploit for Drupalgeddon2 to deliver malicious scripts that install backdoors and cryptocurrency miners on the vulnerable sites.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The researchers believed that one of the Monero miner campaigns, delivering XMRig, is associated with a criminal group that exploited the vulnerability (CVE-2017-10271) in Oracle WebLogic servers to deliver cryptocurrency miner malware shortly after its PoC exploit code was made public in late 2017.
+Volexity identified some of the group's wallets that had stored a total of 544.74 XMR (Monero coin), which is equivalent to almost $105,567.
+As we reported in our previous article, Imperva stats showed that 90% of the Drupalgeddon2 attacks are simply IP scanning in an attempt to find vulnerable systems, 3% are backdoor infection attempts, and 2% are attempting to run crypto miners on the targets.
+For those unaware, Drupalgeddon2 allows an unauthenticated, remote attacker to execute malicious code on default or common Drupal installations under the privileges of the user, affecting all versions of Drupal from 6 to 8.
+Therefore, site admins were highly recommended to patch the issue by updating their CMS to Drupal 7.58 or Drupal 8.5.1 as soon as possible.
+In its advisory, Drupal warned that "sites not patched by Wednesday, 2018-04-11 may be compromised" and "simply updating Drupal will not remove backdoors or fix compromised sites."
+Moreover,
+"If you find that your site is already patched, but you didn’t do it, that can be a symptom that the site was compromised. Some attacks in the past have applied the patch as a way to guarantee that only that attacker is in control of the site."
+Here's a guide Drupal team suggest to follow if your website has been hacked.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

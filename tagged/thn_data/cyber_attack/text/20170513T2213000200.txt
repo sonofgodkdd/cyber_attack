@@ -1,0 +1,71 @@
+WannaCry Kill-Switch(ed)? It’s Not Over! WannaCry 2.0 Ransomware Arrives
+Swati Khandelwal
+
+Update — After reading this article, if you want to know, what has happened so far in past 4 days and how to protect your computers from WannaCry, read our latest article "WannaCry Ransomware: Everything You Need To Know Immediately." 
+If you are following the news, by now you might be aware that a security researcher has activated a "Kill Switch" which apparently stopped the WannaCry ransomware from spreading further.
+But it's not true, neither the threat is over yet.
+However, the kill switch has just slowed down the infection rate.
+Updated: Multiple security researchers have claimed that there are more samples of WannaCry out there, with different 'kill-switch' domains and without any kill-switch function, continuing to infect unpatched computers worldwide (find more details below).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So far, over 237,000 computers across 99 countries around the world have been infected, and the infection is still rising even hours after the kill switch was triggered by the 22-years-old British security researcher behind the twitter handle 'MalwareTech.'
+Also Read — Google Researcher Finds Link Between WannaCry Attacks and North Korea.
+For those unaware, WannaCry is an insanely fast-spreading ransomware malware that leverages a Windows SMB exploit to remotely target a computer running on unpatched or unsupported versions of Windows.
+So far, Criminals behind WannaCry Ransomware have received nearly 100 payments from victims, total 15 Bitcoins, equals to USD $26,090.
+CLICK TO TWEET
+Once infected, WannaCry also scans for other vulnerable computers connected to the same network, as well scans random hosts on the wider Internet, to spread quickly.
+The SMB exploit, currently being used by WannaCry, has been identified as EternalBlue, a collection of hacking tools allegedly created by the NSA and then subsequently dumped by a hacking group calling itself "The Shadow Brokers" over a month ago.
+"If NSA had privately disclosed the flaw used to attack hospitals when they *found* it, not when they lost it, this may not have happened," NSA whistleblower Edward Snowden says.
+Kill-Switch for WannaCry? No, It's not over yet!
+In our previous two articles, we have put together more information about this massive ransomware campaign, explaining how MalwareTech accidentally halted the global spread of WannaCry by registering a domain name hidden in the malware.
+hxxp://www[.]iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com
+The above-mentioned domain is responsible for keeping WannaCry propagating and spreading like a worm, as I previously explained that if the connection to this domain fails, the SMB worm proceeds to infect the system.
+Fortunately, MalwareTech registered this domain in question and created a sinkhole – tactic researchers use to redirect traffic from the infected machines to a self-controlled system. (read his latest blog post for more details)
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Updated: Matthieu Suiche, a security researcher, has confirmed that he has found a new WannaCry variant with a different domain for kill-switch function, which he registered to redirect it to a sinkhole in an effort to slows down the infections.
+hxxp://ifferfsodp9ifjaposdfjhgosurijfaewrwergwea[.]com/
+The newly discovered WannaCry variant works exactly like the previous variant that wreaked havoc across the world Friday night.
+But, if you are thinking that activating the kill switch has completely stopped the infection, then you are mistaken.
+Since the kill-switch feature was in the SMB worm, not in the ransomware module itself., "WannaCrypt ransomware was spread normally long before this and will be long after, what we stopped was the SMB worm variant," MalwareTech told The Hacker News.
+You should know that the kill-switch would not prevent your unpatched PC from getting infected, in the following scenarios:
+If you receive WannaCry via an email, a malicious torrent, or other vectors (instead of SMB protocol).
+If by chance your ISP or antivirus or firewall blocks access to the sinkhole domain.
+If the targeted system requires a proxy to access the Internet, which is a common practice in the majority of corporate networks.
+If someone makes the sinkhole domain inaccessible for all, such as by using a large-scale DDoS attack.
+MalwareTech also confirmed THN that some "Mirai botnet skids tried to DDoS the [sinkhole] server for lulz," in order to make it unavailable for WannaCry SMB exploit, which triggers infection if the connection fails. But "it failed hardcore," at least for now.
+WannaCry 2.0, Ransomware With *NO* Kill-Switch Is On Hunt!
+CIRCL c/o securitymadein.lu
+Initially, this part of story was based on research of a security researcher, who earlier claimed to have the samples of new WannaCry ransomware that comes with no kill-switch function. But for some reason, he backed off. So, we have removed his references from this story for now.
+However, shortly after that, we were confirmed by Costin Raiu, the director of global research and analysis team at Kaspersky Labs, that his team had seen more WannaCry samples on Friday that did not have the kill switch.
+"I can confirm we've had versions without the kill switch domain connect since yesterday," told The Hacker News.
+Updated: WannaCry 2.0 is Someone Else's Work
+ Raiu from Kaspersky shared some samples, his team discovered, with Suiche, who analysed them and just confirmed that there is a WannaCrypt variant without kill switch, and equipped with SMB exploit that would help it to spread rapidly without disruption.
+What's even worse is that the new WannaCry variant without a kill-switch believed to be created by someone else, and not the hackers behind the initial WannaCry ransomware.
+"The patched version matt described does attempt to spread. It's a full set which was modified by someone with a hex editor to disable the kill switch," Raiu told me.
+Updated: However, Suiche also confirmed that the modified variant with no kill switch is corrupted, but this doesn't mean that other hackers and criminals would not come up with a working one.
+"Given the high profile of the original attack, it's going to be no surprise at all to see copycat attacks from others, and perhaps other attempts to infect even more computers from the original WannaCry gang. The message is simple: Patch your computers, harden your defences, run a decent anti-virus, and - for goodness sake - ensure that you have secure backups." Cyber security expert Graham Cluley told The Hacker News.
+Expect a new wave of ransomware attack, by initial attackers and new ones, which would be difficult to stop, until and unless all vulnerable systems get patched.
+"The next attacks are inevitable, you can simply patch the existing samples with a hex editor and it'll continue to spread," Matthew Hickey, a security expert and co-founder of Hacker House told me. 
+"We will see a number of variants of this attack over the coming weeks and months so it's important to patch hosts. The worm can be modified to spread other payloads not just WCry and we may see other malware campaigns piggybacking off this samples success."
+Even after WannaCry attacks made headlines all over the Internet and Media, there are still hundreds of thousands of unpatched systems out there that are open to the Internet and vulnerable to hacking.
+"The worm functionality attempts to infect unpatched Windows machines in the local network. At the same time, it also executes massive scanning on Internet IP addresses to find and infect other vulnerable computers. This activity results in large SMB traffic from the infected host," Microsoft says.
+Believe me, the new strain of WannaCry 2.0 malware would not take enough time to take over another hundred of thousand vulnerable systems.
+Video Demo of WannaCry Ransomware Infection
+Hickey has also provided us two video demonstrations, showing packet traces that confirm the use of Windows SMB vulnerability (MS17-010).
+ And Second one…
+Since WannaCry is a single executable file, it can also be spread through other regular exploit vectors, such as spear phishing, drive-by-download attack, and malicious torrent files download, warned Hickey.
+Get Prepared: Upgrade, Patch OS & Disable SMBv1
+MalwareTech also warned of the future threat, saying "It's very important [for] everyone [to] understand that all they [the attackers] need to do is change some code and start again. Patch your systems now!"
+"Informed NCSC, FBI, etc. I've done as much as I can do currently, it's up to everyone to patch," he added.
+As we notified today, Microsoft took an unusual step to protect its customers with an unsupported version of Windows — including Windows XP, Vista, Windows 8, Server 2003 and 2008 — by releasing security patches that fix SMB flaw currently being exploited by the WannaCry ransomware.
+Even after this, I believe, many individuals remain unaware of the new patches and many organizations, as well as embedded machines like ATM and digital billboard displays, running on older or unpatched versions of Windows, who are considering to upgrade their operating system, would take time as well as it’s going to cost them money for getting new licenses.
+So, users and organizations are strongly advised to install available Windows patches as soon as possible, and also consider disabling SMBv1 (follow these steps), to prevent similar future cyber attacks.
+For god sake: Apply Patches. Microsoft has been very generous to you.
+Almost all antivirus vendors have already been added signatures to protect against this latest threat. Make sure you are using a good antivirus, and keep it always up-to-date.
+Moreover, you can also follow some basic security practices I have listed to protect yourself from such malware threats.
+WannaCry has Hit Over 200,000 Systems in 150 Countries, Warned Europol
+Update: Speaking to Britain's ITV, Europol chief Rob Wainwright said the whole world is facing an "escalating threat," warning people that the numbers are going up and that they should ensure the security of their systems is up to date.
+"We are running around 200 global operations against cyber crime each year, but we've never seen anything like this," Wainwright said, as quoted by BBC. 
+"The latest count is over 200,000 victims in at least 150 countries. Many of those victims will be businesses, including large corporations. The global reach is unprecedented."
+Above map is showing the WannaCry ransomware infection in just 24 hours.
+This story is still updating, stay tuned to our Twitter page for more up-to-date information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

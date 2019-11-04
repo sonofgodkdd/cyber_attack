@@ -1,0 +1,23 @@
+Ticketmaster Suffers Security Breach – Personal and Payment Data Stolen
+Swati Khandelwal
+
+Global entertainment ticketing service Ticketmaster has admitted that the company has suffered a security breach, warning customers that their personal and payment information may have been accessed by an unknown third-party.
+The company has blamed a third-party support customer service chat application for the data breach that believed to affect tens of thousands of its customers.
+The customer support chat application, made by Inbenta Technologies—a third-party artificial intelligence tech supplier—used to help major websites interact with their customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In its statement, Ticketmaster said it discovered malicious software on the customer support application hosted on its UK website that allowed attackers to extract the personal and payment information from its customers buying tickets.
+Ticketmaster disabled the Inbenta product across all of its websites as soon as it recognized the malicious code.
+However, Inbenta Technologies turned away blame back to Ticketmaster, saying that the ticketing service deployed the chat application improperly on its website.
+"Upon further investigation by both parties, it has been confirmed that the source of the data breach was a single piece of JavaScript code, that was customized by Inbenta to meet Ticketmaster's particular requirements," Inbenta chief executive Jordi Torras said in a statement. 
+"This code is not part of any of Inbenta's products or present in any of our other implementations. Ticketmaster directly applied the script to its payments page, without notifying our team."
+Inbenta said by applying this Javascript to the payment page, Ticketmaster presented attackers with "a point of vulnerability that affects the capacity for web forms to upload files," allowing attackers to locate, modify, and use the script to "extract the payment information of Ticketmaster customers processed between February and June 2018."
+Compromised information includes name, address, email address, telephone number, payment details and Ticketmaster login details of its customers.
+"Forensic teams and security experts are working around the clock to understand how the data was compromised," Ticketmaster said. "We are working with relevant authorities, as well as credit card companies and banks."
+Neither Ticketmaster nor Inbenta did say the number of customers affected by the incident, but the ticketing service did confirm that less than 5% of its global customer base has been affected.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Inbenta is entirely confident that no other customer of Inbenta has been compromised in any way, and that the incident has "nothing to do with any of its industry-leading AI and machine learning products," which serve hundreds of customers on six continents.
+"We can fully assure our customers and end-users that no other implementation of Inbenta across any of our products or customer deployments has been affected," Inbenta said.
+Ticketmaster said that it has emailed all affected customers, and is offering 12 months of free identity monitoring service for those who have been impacted.
+Affected customers are also advised to keep a close eye on their bank account transactions for signs of any suspicious activity, and immediately notify their banks if found any.
+Users are also advised to be cautious if they receive any suspicious or unrecognized phone call, text message, or email from anyone saying you must pay taxes or a debt immediately—even if they provide your personal information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

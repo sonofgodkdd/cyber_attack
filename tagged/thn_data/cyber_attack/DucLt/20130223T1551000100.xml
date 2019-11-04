@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Microsoft becomes latest victim of Cyber attack
+Mohit Kumar
+
+Microsoft has become the latest victim of to Cyber attack and confirm that small number of its computers, including some in its Mac software business unit, were infected with malware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Microsoft added, malicious software used in a cyber attack is very similar to those experienced by Facebook and Apple recently. Microsoft gave few other details about the break-in, "We have no evidence of customer data being affected and our investigation is ongoing."
+“During our investigation, we found a small number of computers, including some in our Mac business unit that were infected by malicious software using techniques similar to those documented by other organizations. We have no evidence of customer data being affected and our investigation is ongoing,” Microsoft said.
+"This type of cyber attack is no surprise to Microsoft and other companies that must grapple with determined and persistent adversaries," the company said.
+Last week, Apple said its computers were attacked by the same hackers who targeted Facebook a week earlier and Facebook said it had traced a cyber attack back to China which had infiltrated employees' laptops.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Viruss id="ATTA0" start="223" end="231" text="infected" TYPE="TRG" />
+<ATTACK.Viruss id="ATTA1" start="471" end="479" text="break-in" TYPE="NUG" />
+<ATTACK.Viruss id="ATTA2" start="684" end="692" text="infected" TYPE="TRG" />
+<ATTACK.Viruss id="ATTA3" start="1084" end="1092" text="attacked" TYPE="NUG" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,20 @@
+LinkedIn Hack Tool Exposes Users' Emails without Exploiting Any Vulnerability
+Anonymous
+
+A Free Chrome, Firefox and Safari web browser plugin floating around the web, called 'Sell Hack' allows users to view the hidden email address of any LinkedIn user, means anyone can grab email addresses that we use for professional purposes.
+When installed, the 'Sell Hack' plugin will pop up a 'Hack In' button on LinkedIn profiles and further automatically mines email addresses of LinkedIn users.
+NOT A SECURITY BREACH
+It's not a Security breach, LinkedIn has confirmed that no LinkedIn data has been compromised, but rather this free extension rely on an algorithm that checks publicly available data in order to guess users’ email addresses.
+So without exploiting any loophole or vulnerability, Sell Hack is capable of predicting users' email addresses with OSINT (Open-Source Intelligence) techniques i.e. information collected from publicly available sources.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It is also possible that, the Sell Hack extension is gathering data from users who have installed it, allows plugin to watch your activity on the site and collect the information of any direct connection whose page you've decided to visit; so this way Sell Hack can cross-serve the collected data to other users.
+LinkedIn users who have downloaded Sell Hack should uninstall it immediately, "LinkedIn members who downloaded Sell Hack should uninstall it immediately and contact Sell Hack requesting that their data be deleted." LinkedIn officials warned.
+LINKEDIN IS NOT HAPPY
+The Professional Social Network giant LinkedIn has decided to take legal action and publicly criticised Sell Hack in statements. LinkedIn pulled SellHack Team to the door of judiciary for disclosing the email IDs of users to the un-connected users.
+"We are doing everything we can to shut Sell Hack down. On 31 March LinkedIn's legal team delivered Sell Hack a cease-and-desist letter as a result of several violations," a LinkedIn spokesman said.
+IS IT LEGAL?
+The Developers Sell Hack tool explained, “The data we process is all publicly available. We just do the heavy lifting and complicated computing to save you time. We aren't doing anything malicious to a Social website. We think browser extensions are the best way to personalize an individual's web experience.”
+On their website, Sell Hack answered, How does it work? "If we don't received a validation response, we'll present a 'copy all' button to copy & paste the list for your own uses: i.e. check your own data sources or BCC email the entire list etc." that Means, if service will not be able to guess the user's email address, it will ask you to enter your emails database for further match-search.
+SOLUTION
+Two days back LinkedIn has sent a cease-and-desist notice to Sell Hack for violating the LinkedIn Terms of Service and as a result the SellHack extension is no more working on the LinkedIn pages. "SellHack plugin no longer works on LinkedIn pages," developers stated.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

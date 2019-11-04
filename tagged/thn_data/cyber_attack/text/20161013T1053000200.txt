@@ -1,0 +1,32 @@
+Classified U.S. Defense Network Outage Hits Air Force’s Secret Drone Operations
+Swati Khandelwal
+
+U.S. drones are again in news for killing innocent people.
+The Air Force is investigating the connection between the failure of its classified network, dubbed SIPRNet, at Creech Air Force Base and a series of high-profile airstrikes that went terribly wrong in September this year.
+Creech Air Force Base is a secret facility outside Las Vegas, where military and Air Force pilots sitting in dark and air-conditioned rooms, 7100 miles from Syria and Afghanistan, remotely control their "targeted killing" drone campaign in a video-game-style warfare.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+From this ground zero, Air Force pilots fire missiles just by triggering a joystick on a targeted areas half a world away, as well as operate drones for surveillance and intelligence gathering.
+Drone operation facility at Creech Air Force Base -- a key base for worldwide drone and targeted killing operations -- has been assigned as ‘Special Access Programs’, to access SIPRnet.
+What is SIPRnet?
+SIPRNet, or Secret Internet Protocol Router Network, is a global United States military Internet system used for transmitting classified information, intelligence, targets, and messages at the secret level.
+In other words, SIPRNet is completely parallel Internet, uses the same communications procedures and has been kept separate from the ordinary civilian Internet.
+Approximately 3 Million people with secret clearances have access to SIPRNet, which includes Pentagon and military officials, Intelligence agencies, FBI, as well as diplomats in US embassies all around the World.
+Classified Network Crashed at Creech Base
+The network at Creech Air Force Base was crashed in early September that impacted "critical services," and has not been completely rebuilt, according to US government contracting records.
+"On 9 September 2016, the SIPRNet system currently in operation at Creech AFB failed, and critical services were impacted," reads a contracting notice posted by the US government in early October.
+"The services were somewhat restored with the use of multiple less powerful devices. This temporary solution stabilized the services, but will not be able to maintain the demand for very long. If this solution fails, there is currently no other backup system."
+The officials would not say whether the failure was due to internal technical faults, a cyber attack, or a state-sponsored hacker. They would also not say if JWICS — a separate internet system that handles top-secret information — at Creech was also affected.
+US Drones Killed around 100 Innocents within Two Weeks
+Within weeks of the computer disaster, a series of airstrikes went terribly wrong, which resulted in scores of deaths in Syria, Afghanistan, and Somalia, according to BuzzFeed News.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On September 17, 62 Syrian soldiers were accidentally killed by US airstrikes in the middle of a ceasefire. On September 28, 15 innocent civilians were reportedly killed in Afghanistan by a US drone, as well as 22 Somali soldiers were reportedly killed in Somalia by US drone strikes.
+All the cases are under review and investigation, and there has been no official explanation for targeting innocent people, though the United States expressed its regrets quickly after the incident, according to reports.
+On October 7, the Air Force quietly announced that Creech base would be subject to a surprise cyber security inspection and warned personnel to be wary of phishing attacks and to be extra careful in securing their login credentials.
+Has U.S. Classified Network Been Hacked?
+These classified networks are definitely not connected to the Internet, but this does not mean that malware or well-resourced hackers can never found their ways into these critical networks.
+If confirmed, this would not be the first time, when a classified computer network of US military has been compromised.
+In the year 2008, The Pentagon acknowledged a significant cyber attack, Operation Buckshot Yankee, where a foreign intelligence agent used a USB drive to infect military computers used by the Central Command in overseeing combat zones in Iraq and Afghanistan with a specially crafted malware.
+You might be aware of Chelsea Manning (then known as Bradley Manning), an army soldier who made headlines in 2013 when she was sentenced to 35 years in prison for leaking over 700,000 classified files to WikiLeaks.
+Manning allegedly downloaded those secret documents from SIPRNet using a Lady Gaga CD.
+Since these classified networks have a significant role in US national security, terrorist groups and state-sponsored hackers belonging to sophisticated nation-states like China, Russia, Iran, and North Korea have always shown large interest in targeting them.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

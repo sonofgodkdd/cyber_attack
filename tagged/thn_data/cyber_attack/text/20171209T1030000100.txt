@@ -1,0 +1,31 @@
+Android Flaw Lets Hackers Inject Malware Into Apps Without Altering Signatures
+Mohit Kumar
+
+Millions of Android devices are at serious risk of a newly disclosed critical vulnerability that allows attackers to secretly overwrite legitimate applications installed on your smartphone with their malicious versions.
+Dubbed Janus, the vulnerability allows attackers to modify the code of Android apps without affecting their signature verification certificates, eventually allowing them to distribute malicious update for the legitimate apps, which looks and works same as the original apps.
+The vulnerability (CVE-2017-13156) was discovered and reported to Google by security researchers from mobile security firm GuardSquare this summer and has been patched by Google, among four dozen vulnerabilities, as part of its December Android Security Bulletin.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the worrisome part is that majority of Android users would not receive these patches for next few month, until their device manufacturers (OEMs) release custom updates for them, apparently leaving a large number of smartphone users vulnerable to hackers.
+The vulnerability affects apps using APK signature scheme v1 installed on devices running Android versions 5 (Lollipop) and 6 (Marshmallow).
+Explained: How Android Janus Vulnerability Works?
+The vulnerability resides in the way Android handles APK installation for some apps, leaving a possibility to add extra bytes of code to an APK file without affecting the application's signature.
+Before proceeding further, you need to know some basics about an APK file.
+A valid APK file is a type of archive file, just like Zip, which includes application code, resources, assets, signatures, certificates, and manifest file.
+Earlier versions of Android operating system 5.0 (Lollipop) and 6.0 (Marshmallow) also support a process virtual machine that helps to execute APK archives containing a compiled version of application code and files, compressed with DEX (Dalvik EXecutable) file format.
+While installing an Android app or its update, your device checks APK header information to determine if the archive contains code in the compressed DEX files.
+If header says APK archive contains DEX files, the process virtual machine decompiles the code accordingly and executes it; otherwise, it runs the code as a regular APK file.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It turns out that an APK archive can contain DEX files as well as regular application code simultaneously, without affecting its validity and signatures.
+Researchers find that this ability to add extra bytes of code due to lack of file integrity checking could allow attackers to prepend malicious code compiled in DEX format into an APK archive containing legitimate code with valid signatures, eventually tricking app installation process to execute both code on the targeted device without being detected.
+In other words, the hack doesn't require attackers to modify the code of legitimate applications (that makes signatures invalid)—instead, the vulnerability allows malware authors to merely add some extra malicious lines of code to the original app.
+Attack Scenarios
+After creating malicious but valid versions of legitimate applications, hackers can distribute them using various attack vectors, including spam emails, third-party app stores delivering fake apps and updates, social engineering, and even man-in-the-middle attacks.
+According to the researchers, it may be "relatively easy to trick some users because the application can still look exactly like the original application and has the proper signature."
+I find man-in-the-middle attack more interesting, as it could allow hackers to push malicious installation for the apps designed to receive its updates over an unencrypted HTTP connection.
+"When the user downloads an update of an application, the Android runtime compares its signature with the signature of the original version. If the signatures match, the Android runtime proceeds to install the update," GuardSquare explains. 
+"The updated application inherits the permissions of the original application. Attackers can, therefore, use the Janus vulnerability to mislead the update process and get an unverified code with powerful permissions installed on the devices of unsuspecting users." 
+"For experts, the common reverse engineering tools do not show the injected code. Users should always be vigilant when downloading applications and updates," the security firm added.
+Since this vulnerability does not affect Android 7 (Nougat) and latest, which supports APK signature scheme version 2, users running older Android versions are highly recommended to upgrade their device OS (if available).
+It's unfortunate, but if your device manufacturer neither offers security patches nor the latest Android version, then you should not install apps and updates from outside of Google Play Store to minimise the risk of being hacked.
+Researchers also advised Android developers always to apply signature scheme v2 in order to ensure their apps cannot be tampered with.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

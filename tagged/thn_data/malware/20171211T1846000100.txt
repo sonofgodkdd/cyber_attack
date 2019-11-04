@@ -1,0 +1,33 @@
+Newly Uncovered 'MoneyTaker' Hacker Group Stole Millions from U.S. & Russian Banks
+Swati Khandelwal
+
+Security researchers have uncovered a previously undetected group of Russian-speaking hackers that has silently been targeting Banks, financial institutions, and legal firms, primarily in the United States, UK, and Russia.
+Moscow-based security firm Group-IB published a 36-page report on Monday, providing details about the newly-disclosed hacking group, dubbed MoneyTaker, which has been operating since at least May 2016.
+In the past 18 months, the hacking group is believed to have conducted more than 20 attacks against various financial organisations—stolen more than $11 Million and sensitive documents that could be used for next attacks.
+According to the security firm, the group has primarily been targeting card processing systems, including the AWS CBR (Russian Interbank System) and SWIFT international bank messaging service (United States).
+"Criminals stole documentation for OceanSystems’ FedLink card processing system, which is used by 200 banks in Latin America and the US." Group-IB says in its report.
+Group-IB also warned that the MoneyTaker attacks against financial organizations appear to be ongoing and banks in Latin America could be their next target.
+MoneyTaker: 1.5 Years of Silent Operations
+Since its first successful attack in May last year, MoneyTaker has targeted banks in California, Illinois, Utah, Oklahoma, Colorado, South Carolina, Missouri, North Carolina, Virginia and Florida, primarily targeting small community banks with limited cyber defenses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Even after a large number of attacks against so many targets, MoneyTaker group managed to keep their activities concealed and unattributed by using various publicly available penetration testing and hacking tools, including Metasploit, NirCmd, psexec, Mimikatz, Powershell Empire, and code demonstrated as proof-of-concepts at a Russian hacking conference in 2016.
+"To propagate across the network, hackers used a legitimate tool psexec, which is typical for network administrators." Group-IB says in its report.
+Besides using open-source tools, the group has also been heavily utilizing Citadel and Kronos banking trojans to deliver a Point-of-Sale (POS) malware, dubbed ScanPOS.
+"Upon execution, ScanPOS grabs information about the current running processes and collects the user name and privileges on the infected system. That said, it is primarily designed to dump process memory and search for payment card track data. The Trojan checks any collected data using Luhn’s algorithm for validation and then sends it outbound to the C&C server."
+"The group uses 'fileless' malware only existing in RAM and is destroyed after reboot. To ensure persistence in the system MoneyTaker relies on PowerShell and VBS scripts - they are both difficult to detect by antivirus and easy to modify. In some cases, they have made changes to source code 'on the fly' – during the attack,"
+ "To escalate privileges up to the local administrator (or SYSTEM local user), attackers use exploit modules from the standard Metasploit pack, or exploits designed to bypass the UAC technology. With local administrator privileges they can use the Mimikatz program, which is loaded into the memory using Meterpreter, to extract unencrypted Windows credentials." 
+Moreover, MoneyTaker also makes use of SSL certificates generated using names of well-known brands—including as Bank of America, Microsoft, Yahoo and Federal Reserve Bank—to hide its malicious traffic.
+The hacking group also configure their servers in a way that malicious payloads can only be delivered to a predetermined list of IP addresses belonging to the targeted company. Also, it relies on PowerShell and VBS scripts to ensure persistence in the targeted system.
+The very first attack, which Group-IB attributes to MoneyTaker was conducted in May 2016, when the group managed to gain access to First Data's STAR—the largest U.S. bank transfer messaging system connecting ATMs at over 5,000 organizations—and stole money.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In January 2017, the similar attack was repeated against another bank.
+Here's how the attack works:
+"The scheme is extremely simple. After taking control over the bank's network, the attackers checked if they could connect to the card processing system. Following this, they legally opened or bought cards of the bank whose IT system they had hacked," Group-IB explains.
+"Money mules – criminals who withdraw money from ATMs – with previously activated cards went abroad and waited for the operation to begin. After getting into the card processing system, the attackers removed or increased cash withdrawal limits for the cards held by the mules."
+The money mules then removed overdraft limits, which made it possible for them to overdraw cash even with debit cards. Using these cards, they "withdrew cash from ATMs, one by one."
+According to the report, the average money stolen by MoneyTaker from United States banks alone was about $500,000, and more than $3 million was stolen from at least three Russian banks.
+The report also detailed an attack against a Russian bank, wherein the MoneyTaker group used a modular malware program to target the AWS CBR (Automated Work Station Client of the Russian Central Bank)—a Russian interbank fund transfer system similar to SWIFT.
+The modular tool had capabilities to search for payment orders and modify them, replace original payment details with fraudulent ones, and carefully erase malware traces after completing its tasks.
+While it is still unclear how MoneyTaker managed to get its foothold in the corporate network, in one specific case, the entry point of compromise of the bank's internal network was the home computer of the bank's system administrator.
+Group-IB believes that the hackers are now looking for ways to compromise the SWIFT interbank communication system, although it found no evidence of MoneyTaker behind any of the recent cyber attacks on SWIFT systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,24 @@
+British Airways Fined £183 Million Under GDPR Over 2018 Data Breach
+Mohit Kumar
+
+Britain's Information Commissioner's Office (ICO) today hit British Airways with a record fine of £183 million for failing to protect the personal information of around half a million of its customers during last year's security breach.
+British Airways, who describes itself as "The World's Favorite Airline," disclosed a breach last year that exposed personal details and credit-card numbers of up to 380,000 customers and lasted for more than two weeks.
+At the time, the company confirmed that customers who booked flights on its official website (ba.com) and British Airways mobile app between August 21 and September 5 had had their details stolen by attackers.
+The cyberattack was later attributed to the infamous Magecart threat actor, one of the most notorious hacking groups specialized in stealing credit card details from poorly-secured websites, especially online eCommerce platforms.
+Magecart hackers have been known for using digital credit card skimmer wherein they secretly insert a few lines of malicious code into the checkout page of a compromised website that captures payment details of customers and then sends it to a remote server.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides British Airways, Magecart groups have also been responsible for card breaches on sites belonging to high-profile companies like TicketMaster, Newegg, as well as sites belonging to other small online merchants.
+In a statement released today, ICO said its extensive investigation found that a variety of information related to British Airways' customers was compromised by "poor security arrangements" at the company, including their names and addresses, log-ins, payment card data, and travel booking details.
+"People's personal data is just that – personal. When an organization fails to protect it from loss, damage or theft, it is more than an inconvenience," Information Commissioner Elizabeth Denham said.
+"That's why the law is clear – when you are entrusted with personal data, you must look after it. Those that don't will face scrutiny from my office to check they have taken appropriate steps to protect fundamental privacy rights."
+However, ICO also said that British Airways has cooperated with its investigation and has made improvements to the security arrangements since the last year data breach came to light.
+Since the data breach happened after the EU's General Data Protection Regulation (GDPR) took effect on May 2018, the fine of £183.39 million has been imposed on British Airways, which is the equivalent of 1.5% of the company's worldwide turnover for its 2017 financial year but is still less than the possible maximum of 4%.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the ICO announcement, British Airways, owned by IAG, said the company was "surprised and disappointed" by the ICO penalty.
+"British Airways responded quickly to a criminal act to steal customers' data," said British Airways chairman and chief executive Alex Cruz.
+"We have found no evidence of fraud/fraudulent activity on accounts linked to the theft. We apologize to our customers for any inconvenience this event caused."
+The company has 28 days to appeal the penalty.
+Until now, the most significant penalty by the UK's data protection watchdog was £500,000, which was imposed on Facebook last year for allowing political consultancy firm Cambridge Analytica to gather and misuse data of 87 million users improperly.
+The same penalty of £500,000 was also imposed on credit reporting agency Equifax last year for its 2017's massive data breach that exposed the personal and financial information of hundreds of millions of its customers.
+Since both the incidents in Facebook and Equifax occurred before GDPR took effect, £500,000 was the maximum penalty ICO can impose under the UK's old Data Protection Act.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

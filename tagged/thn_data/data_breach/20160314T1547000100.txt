@@ -1,0 +1,49 @@
+Anti-DDoS Firm Staminus HACKED! Customers Data Leaked
+Mohit Kumar
+
+Staminus Communications – a California-based hosting and DDoS (Distributed Denial of Service) protection company – is recovering a massive data breach after hackers broke down into its servers and leaked personal and sensitive details of its customers.
+Though the company acknowledged that there was a problem in a message posted to Twitter on Thursday morning, it did not specify a data breach.
+Staminus's website went offline at 8 am Eastern Time on Thursday, and on Friday afternoon, a representative said in a Twitter post that "a rare event cascaded across multiple routers in a system-wide event, making our backbone unavailable."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What type of information?
+The dump of information on Staminus' systems includes:
+Customer usernames
+Hashed passwords
+E-mail addresses
+Customer real names
+Customer credit card data in plain text
+Customer support tickets
+Server logs data
+Chat logs
+Source code of some of the company's services including Intreppid
+Staminus' main database
+Database of one of Staminus' clients, the Ku Klux Klan (KKK)
+The data was posted on the Internet Friday morning, and some Staminus customers who wish to remain anonymous confirmed that their data was part of the leaked data dump.
+However, the company says it does not store or collect its customers' Social Security numbers (SSNs) or tax IDs, so they are safe from the data breach.
+What happened?
+The Staminus data breach occurred after hackers infiltrated the company's server backbone, seized control of Staminus' routers and then reset them to factory settings, which effectively brought down the company's entire network.
+The hackers also stole the company's database and dumped it online. Links to downloads of the internal Staminus data were published in a file sarcastically headlined, "TIPS WHEN RUNNING A SECURITY COMPANY," detailing the security holes (given below) found during the data breach:
+Use one root password for all the boxes
+Expose PDU's [power distribution units in server racks] to WAN with telnet auth
+Never patch, upgrade or audit the stack
+Disregard PDO [PHP Data Objects] as inconvenient
+Hedge entire business on security theatre
+Store full credit card info in plaintext
+Write all code with wreckless abandon
+How many customers affected?
+Although the total number of victims has not been known yet, Forbes reported that the data breach included at least 15 gigabytes worth of data belonging to Staminus.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security researcher Nathan Malcolm from Sinthetic Labs told the publication that he analysed the data dump and found unencrypted credit card numbers, expiry dates and CVVs for as many as 1,971 Staminus customers.
+What was the motive for the breach?
+Potential motives for hacking Staminus are quite easy to figure out.
+Staminus' clients include the white supremacist group Ku Klux Klan (www.kkk.com). The company also hosts several IRC (Internet Relay Chat) channels for large-scale DDoS attack services, Krebs noted.
+What was the company's response?
+Staminus CEO Matt Mahvi published the following statement on the Staminus website (which again went offline), confirming the data breach.
+"We can now confirm the issue was a result of an unauthorized intrusion into our network. As a result of this intrusion, our systems were temporarily taken offline and customer information was exposed. Upon discovering this attack, Staminus took immediate action including launching an investigation into the attack, notifying law enforcement and restoring our systems.
+Based on the initial investigation, we believe that usernames, hashed passwords, customer record information, including name and contact information, and payment card data were exposed. It is important to note that we do not collect Social Security numbers or tax IDs.
+While the investigation continues, we have and will continue to put additional measures into place to harden our security to help prevent a future attack. While the exposed passwords were protected with a cryptographic hash, we also strongly recommend that customers change their Staminus password."
+Staminus' website came back online and believed to be wiped clean, but at the time of writing the website is still unavailable.
+What victims should do?
+Staminus customers are recommended to review their credit card statements carefully and to report any unauthorized bank transactions.
+Meanwhile, Staminus has also advised its customers to reset all their account passwords once the service is fully operational once again.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

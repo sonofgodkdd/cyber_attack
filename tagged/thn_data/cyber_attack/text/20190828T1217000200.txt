@@ -1,0 +1,22 @@
+French Police Remotely Removed RETADUP Malware from 850,000 Infected PCs
+Mohit Kumar
+
+The French law enforcement agency, National Gendarmerie, today announced the successful takedown of one of the largest wide-spread RETADUP botnet malware and how it remotely disinfected more than 850,000 computers worldwide with the help of researchers.
+Earlier this year, security researchers at Avast antivirus firm, who were actively monitoring the activities of RETADUP botnet, discovered a design flaw in the malware's C&C protocol that could have been exploited to remove the malware from victims' computer without executing any extra code.
+However, to do that, the plan required researchers to have control over the malware's C&C server, which was hosted with a hosting provider located in the Ile-de-France region in north-central France.
+Therefore, the researchers contacted the Cybercrime Fighting Center (C3N) of the French National Gendarmerie at the end of March this year, shared their findings, and proposed a secret plan to put an end to the RETADUP virus and protect victims.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the proposed plan, the French authorities took control over the RETADUP C&C server in July and replaced it with a prepared disinfection server that abused the design flaw in its protocol and commanded the connected instances of the RETADUP malware on infected computers to self-destruct.
+"In the very first second of its activity, several thousand bots connected to it in order to fetch commands from the server. The disinfection server responded to them and disinfected them, abusing the C&C protocol design flaw," the researchers explain in a blog post published today.
+"At the time of publishing this article, the collaboration has neutralized over 850,000 unique infections of RETADUP."
+According to Jean-Dominique Nollet, head of the National Criminal Intelligence Service at Gendarmerie Nationale, the authorities will keep the disinfection server online for a few more months as some infected computers have not yet made a connection with the police controlled C&C server—some have been offline since July while others have network problems.
+The French police also contacted the FBI after finding some parts of the RETADUP's C&C infrastructure in the United States. The FBI then took them down on July 8, leaving the malware authors with no control over the bots.
+"Since it was the C&C server's responsibility to give mining jobs to the bots, none of the bots received any new mining jobs to execute after this takedown," the researchers say. "This meant that they could no longer drain the computing power of their victims and that the malware authors no longer received any monetary gain from mining."
+Created in 2015 and primarily infected computers throughout Latin America, RETADUP is a multi-functional Windows malware that is capable of mining cryptocurrency using the computing power of infected machines, DDoSing targeted infrastructure utilizing the bandwidth of the victims, and gathering information for espionage.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+There are several variants of RETADUP, some of which have been either written in Autoit or using AutoHotkey. The malware has been designed to achieve persistence on Windows computers, install additional malware payloads on infected machines and also periodically perform other attempts to spread itself.
+Besides distributing cryptocurrency malware as payload, RETADUP, in some cases, has also been found spreading the Stop ransomware and the Arkei password stealer.
+"The C&C server also contained a .NET controller for an AutoIt RAT called HoudRat. Looking at samples of HoudRat, it is clear that HoudRat is just a more feature-rich and less prevalent variant of Retadup," the researchers learned after analyzing the seized C&C server.
+"HoudRat is capable of executing arbitrary commands, logging keystrokes, taking screenshots, stealing passwords, downloading arbitrary files, and more."
+At the time of publishing this article, the authorities have neutralized over 850,000 unique infections of Retadup, with most victims being from Spanish-speaking countries in Latin America.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

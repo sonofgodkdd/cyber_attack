@@ -1,0 +1,17 @@
+Github accounts Hacked in 'Password reuse attack'
+Swati Khandelwal
+
+Popular code repository site GitHub is warning that a number of users' accounts have been compromised by unknown hackers reusing email addresses and passwords obtained from other recent data breaches.
+Yes, GitHub has become the latest target of a password reuse attack after Facebook CEO Mark Zuckerberg and Twitter.
+According to a blog post published by Shawn Davenport, VP of Security at GitHub, an unknown attacker using a list of email addresses and passwords obtained from the data breach of "other online services" made a significant number of login attempts to GitHub's repository on June 14.
+After reviewing the logins, administrators at GitHub found that the attacker had gained access to a number of its users’ accounts in order to gain illicit access to their accounts’ data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the initial source of the leaked credentials isn't clear, the recent widespread "megabreaches" of LinkedIn, MySpace, Tumblr, and the dating site Fling, that have dumped more than 642 Million passwords over the past month could be the cause.
+GitHub didn't reveal the number of compromised accounts, though it does not appear that any data was lost; so your source code repos are safe. As Davenport wrote:
+"For some accounts, other personal information including listings of accessible repositories and organizations may have been exposed."
+GitHub informed users that it has already reset the passwords of an unspecified number of accounts accessed successfully by the hacker and has begun contacting all affected users to instruct them how to get back into their account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company advised its users to "practice good password hygiene" and to enable two-factor authentication for its service.
+Since the leaked credentials of recent widespread megabreach date back more than 3 years, there may have still been a possibility that those credentials were being re-used by many online users for other services.
+So, it's high time you changed your passwords for all social media sites as well as other online services, especially if you use the same password for different websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

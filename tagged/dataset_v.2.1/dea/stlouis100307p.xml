@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+October 3, 2007
+DEA CONTACT:
+Thomas Murphy
+314-538-4750
+Mt.  Vernon Men Convicted After Federal Jury Trial
+OCT 3  -- Benton, IL - Randy G. Massey, United States Attorney for the Southern District of Illinois, announced today that on September 26, 2007, DAMIAN Y. JAMES, a/k/a "Ree," age 34, of Mt. Vernon, Illinois, and ROBERT M. HARRIS, a/k/a "Trash," age 29, of Mt. Vernon, Illinois, were convicted on all counts following a jury trial in United States District Court in Benton, Illinois.
+Both JAMES and HARRIS were convicted of one count of conspiracy to distribute fifty (50) grams or more of crack cocaine. The conspiracy began in February 2003, and continued through March 2007, in Jefferson County, Illinois, St. Louis, Missouri, and Memphis, Tennessee. JAMES was also convicted of being a felon in possession of a firearm and on two separate counts of distribution of less than 5 grams of crack cocaine in violation of federal law. The two distributions occurred on October 2, 2003, in Jefferson County, and the firearm possession occurred on November 25, 2006.
+Both defendants are scheduled to be sentenced in January 2008. Both defendants are currently in the custody of the United States Marshal Service pending sentencing.
+The conspiracy conviction carries with it a potential sentence of a mandatory minimum penalty of 10 years in prison and a maximum penalty of life imprisonment, a fine of up to $4,000,000, and a term of at least 5 years of supervised release. A conviction for being a felon in possession of a firearm, carries with it a penalty of up to 10 years imprisonment, a fine of up to $250,000, and a term of up to 3 years of supervised release. Each of the distribution counts carries a penalty of up to 30 years imprisonment, a fine of up to $2,000,000, and a term of at least 6 years of supervised release.
+The investigation in this case was a cooperative effort between the Joint Narcotics Unit of the Mt. Vernon Police Department and the Jefferson County Sheriff's Department, the Drug Enforcement Administration, the Illinois State Police, the Pulaski County Sheriff's Office, and the Federal Bureau of Investigation, pursuant to their participation in the Project Safe Neighborhoods Initiative.
+Project Safe Neighborhoods is a joint and cooperative effort of the United States Attorney's
+Office, the Jefferson County State's Attorney's Office, the Drug Enforcement Administration, and other federal, state, and local law enforcement agencies directed at removing guns and drugs from our communities.
+The case was prosecuted by Assistant United States Attorney George Norwood.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="30" end="43" text="Thomas Murphy" TYPE="NAM" />
+<person id="p1" start="57" end="107" text="Mt.  Vernon Men Convicted After Federal Jury Trial" TYPE="BAR" />
+<person id="p2" start="97" end="101" text="Jury" TYPE="NOMPRE" />
+<person id="p3" start="131" end="208" text="Randy G. Massey, United States Attorney for the Southern District of Illinois" TYPE="APP" />
+<person id="p4" start="131" end="146" text="Randy G. Massey" TYPE="NAM" />
+<person id="p5" start="148" end="208" text="United States Attorney for the Southern District of Illinois" TYPE="BAR" />
+<person id="p6" start="254" end="315" text="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" TYPE="NAM" />
+<person id="p7" start="278" end="281" text="Ree" TYPE="NAM" />
+<person id="p8" start="321" end="385" text="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" TYPE="NAM" />
+<person id="p9" start="346" end="351" text="Trash" TYPE="NAM" />
+<person id="p10" start="428" end="432" text="jury" TYPE="NOMPRE" />
+<person id="p11" start="497" end="502" text="JAMES" TYPE="NAM" />
+<person id="p12" start="507" end="513" text="HARRIS" TYPE="NAM" />
+<person id="p13" start="762" end="767" text="JAMES" TYPE="NAM" />
+<person id="p14" start="796" end="939" text="a felon in possession of a firearm and on two separate counts of distribution of less than 5 grams of crack cocaine in violation of federal law" TYPE="NOM" />
+<person id="p15" start="1071" end="1086" text="Both defendants" TYPE="NOM" />
+<person id="p16" start="1134" end="1149" text="Both defendants" TYPE="NOM" />
+<person id="p17" start="1501" end="1535" text="a felon in possession of a firearm" TYPE="NOM" />
+<person id="p18" start="1965" end="1993" text="the Jefferson County Sheriff" TYPE="NOM" />
+<person id="p19" start="2072" end="2098" text="the Pulaski County Sheriff" TYPE="NOM" />
+<person id="p20" start="2292" end="2318" text="the United States Attorney" TYPE="NOM" />
+<person id="p21" start="2329" end="2366" text="the Jefferson County State's Attorney" TYPE="NOM" />
+<person id="p22" start="2560" end="2607" text="Assistant United States Attorney George Norwood" TYPE="NAM" />
+<person id="p23" start="2560" end="2592" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="175" end="208" text="the Southern District of Illinois" TYPE="NAM" />
+<organization id="o1" start="442" end="490" text="United States District Court in Benton, Illinois" TYPE="NAM" />
+<organization id="o2" start="1182" end="1215" text="the United States Marshal Service" TYPE="NAM" />
+<organization id="o3" start="1900" end="1960" text="the Joint Narcotics Unit of the Mt. Vernon Police Department" TYPE="NAM" />
+<organization id="o4" start="1965" end="2006" text="the Jefferson County Sheriff's Department" TYPE="NOM" />
+<organization id="o5" start="2008" end="2043" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o6" start="2045" end="2070" text="the Illinois State Police" TYPE="NAM" />
+<organization id="o7" start="2072" end="2107" text="the Pulaski County Sheriff's Office" TYPE="NOM" />
+<organization id="o8" start="2113" end="2148" text="the Federal Bureau of Investigation" TYPE="NAM" />
+<organization id="o9" start="2162" end="2167" text="their" TYPE="PRO" />
+<organization id="o10" start="2292" end="2327" text="the United States Attorney's Office" TYPE="NOM" />
+<organization id="o11" start="2329" end="2375" text="the Jefferson County State's Attorney's Office" TYPE="NOM" />
+<organization id="o12" start="17" end="20" text="DEA" TYPE="NAM" />
+<organization id="o13" start="2329" end="2355" text="the Jefferson County State" TYPE="NOM" />
+<organization id="o14" start="2377" end="2412" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o15" start="2418" end="2474" text="other federal, state, and local law enforcement agencies" TYPE="NOM" />
+<geographical-political id="g0" start="57" end="68" text="Mt.  Vernon" TYPE="NAMPRE" />
+<geographical-political id="g1" start="118" end="128" text="Benton, IL" TYPE="NAM" />
+<geographical-political id="g2" start="126" end="128" text="IL" TYPE="NAM" />
+<geographical-political id="g3" start="148" end="161" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="295" end="315" text="Mt. Vernon, Illinois" TYPE="NAM" />
+<geographical-political id="g5" start="307" end="315" text="Illinois" TYPE="NAM" />
+<geographical-political id="g6" start="365" end="385" text="Mt. Vernon, Illinois" TYPE="NAM" />
+<geographical-political id="g7" start="377" end="385" text="Illinois" TYPE="NAM" />
+<geographical-political id="g8" start="474" end="490" text="Benton, Illinois" TYPE="NAM" />
+<geographical-political id="g9" start="482" end="490" text="Illinois" TYPE="NAM" />
+<geographical-political id="g10" start="689" end="715" text="Jefferson County, Illinois" TYPE="NAM" />
+<geographical-political id="g11" start="707" end="715" text="Illinois" TYPE="NAM" />
+<geographical-political id="g12" start="717" end="736" text="St. Louis, Missouri" TYPE="NAM" />
+<geographical-political id="g13" start="728" end="736" text="Missouri" TYPE="NAM" />
+<geographical-political id="g14" start="742" end="760" text="Memphis, Tennessee" TYPE="NAM" />
+<geographical-political id="g15" start="751" end="760" text="Tennessee" TYPE="NAM" />
+<geographical-political id="g16" start="995" end="1011" text="Jefferson County" TYPE="NAM" />
+<geographical-political id="g17" start="1969" end="1985" text="Jefferson County" TYPE="NAMPRE" />
+<geographical-political id="g18" start="2076" end="2090" text="Pulaski County" TYPE="NAMPRE" />
+<geographical-political id="g19" start="2296" end="2309" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g20" start="2333" end="2349" text="Jefferson County" TYPE="NAMPRE" />
+<geographical-political id="g21" start="2516" end="2531" text="our communities" TYPE="BAR" />
+<geographical-political id="g22" start="2516" end="2519" text="our" TYPE="PRO" />
+<geographical-political id="g23" start="2570" end="2583" text="United States" TYPE="NAMPRE" />
+<falicity id="f0" start="1345" end="1351" text="prison" TYPE="BAR" />
+<head id="h0" start="30" end="43" text="Thomas Murphy" />
+<head id="h1" start="69" end="72" text="Men" />
+<head id="h2" start="57" end="68" text="Mt.  Vernon" />
+<head id="h3" start="97" end="101" text="Jury" />
+<head id="h4" start="118" end="124" text="Benton" />
+<head id="h5" start="126" end="128" text="IL" />
+<head id="h6" start="131" end="146" text="Randy G. Massey" />
+<head id="h7" start="162" end="170" text="Attorney" />
+<head id="h8" start="148" end="161" text="United States" />
+<head id="h9" start="179" end="208" text="Southern District of Illinois" />
+<head id="h10" start="254" end="269" text="DAMIAN Y. JAMES" />
+<head id="h11" start="278" end="281" text="Ree" />
+<head id="h12" start="295" end="305" text="Mt. Vernon" />
+<head id="h13" start="307" end="315" text="Illinois" />
+<head id="h14" start="321" end="337" text="ROBERT M. HARRIS" />
+<head id="h15" start="346" end="351" text="Trash" />
+<head id="h16" start="365" end="375" text="Mt. Vernon" />
+<head id="h17" start="377" end="385" text="Illinois" />
+<head id="h18" start="428" end="432" text="jury" />
+<head id="h19" start="442" end="470" text="United States District Court" />
+<head id="h20" start="474" end="480" text="Benton" />
+<head id="h21" start="482" end="490" text="Illinois" />
+<head id="h22" start="497" end="502" text="JAMES" />
+<head id="h23" start="507" end="513" text="HARRIS" />
+<head id="h24" start="689" end="705" text="Jefferson County" />
+<head id="h25" start="707" end="715" text="Illinois" />
+<head id="h26" start="717" end="726" text="St. Louis" />
+<head id="h27" start="728" end="736" text="Missouri" />
+<head id="h28" start="742" end="749" text="Memphis" />
+<head id="h29" start="751" end="760" text="Tennessee" />
+<head id="h30" start="762" end="767" text="JAMES" />
+<head id="h31" start="798" end="803" text="felon" />
+<head id="h32" start="995" end="1011" text="Jefferson County" />
+<head id="h33" start="1076" end="1086" text="defendants" />
+<head id="h34" start="1139" end="1149" text="defendants" />
+<head id="h35" start="1186" end="1215" text="United States Marshal Service" />
+<head id="h36" start="1345" end="1351" text="prison" />
+<head id="h37" start="1503" end="1508" text="felon" />
+<head id="h38" start="1904" end="1960" text="Joint Narcotics Unit of the Mt. Vernon Police Department" />
+<head id="h39" start="1996" end="2006" text="Department" />
+<head id="h40" start="1986" end="1993" text="Sheriff" />
+<head id="h41" start="1969" end="1985" text="Jefferson County" />
+<head id="h42" start="2012" end="2043" text="Drug Enforcement Administration" />
+<head id="h43" start="2049" end="2070" text="Illinois State Police" />
+<head id="h44" start="2101" end="2107" text="Office" />
+<head id="h45" start="2091" end="2098" text="Sheriff" />
+<head id="h46" start="2076" end="2090" text="Pulaski County" />
+<head id="h47" start="2117" end="2148" text="Federal Bureau of Investigation" />
+<head id="h48" start="2162" end="2167" text="their" />
+<head id="h49" start="2321" end="2327" text="Office" />
+<head id="h50" start="2310" end="2318" text="Attorney" />
+<head id="h51" start="2296" end="2309" text="United States" />
+<head id="h52" start="2369" end="2375" text="Office" />
+<head id="h53" start="2358" end="2366" text="Attorney" />
+<head id="h54" start="17" end="20" text="DEA" />
+<head id="h55" start="2350" end="2355" text="State" />
+<head id="h56" start="2333" end="2349" text="Jefferson County" />
+<head id="h57" start="2381" end="2412" text="Drug Enforcement Administration" />
+<head id="h58" start="2466" end="2474" text="agencies" />
+<head id="h60" start="2520" end="2531" text="communities" />
+<head id="h61" start="2516" end="2519" text="our" />
+<head id="h62" start="2593" end="2607" text="George Norwood" />
+<head id="h63" start="2584" end="2592" text="Attorney" />
+<head id="h64" start="2570" end="2583" text="United States" />
+<name id="n0" start="30" end="43" text="Thomas Murphy" />
+<name id="n1" start="57" end="68" text="Mt.  Vernon" />
+<name id="n2" start="118" end="124" text="Benton" />
+<name id="n3" start="126" end="128" text="IL" />
+<name id="n4" start="131" end="146" text="Randy G. Massey" />
+<name id="n5" start="148" end="161" text="United States" />
+<name id="n6" start="179" end="208" text="Southern District of Illinois" />
+<name id="n7" start="254" end="269" text="DAMIAN Y. JAMES" />
+<name id="n8" start="278" end="281" text="Ree" />
+<name id="n9" start="295" end="305" text="Mt. Vernon" />
+<name id="n10" start="307" end="315" text="Illinois" />
+<name id="n11" start="321" end="337" text="ROBERT M. HARRIS" />
+<name id="n12" start="346" end="351" text="Trash" />
+<name id="n13" start="365" end="375" text="Mt. Vernon" />
+<name id="n14" start="377" end="385" text="Illinois" />
+<name id="n15" start="442" end="470" text="United States District Court" />
+<name id="n16" start="474" end="480" text="Benton" />
+<name id="n17" start="482" end="490" text="Illinois" />
+<name id="n18" start="497" end="502" text="JAMES" />
+<name id="n19" start="507" end="513" text="HARRIS" />
+<name id="n20" start="689" end="705" text="Jefferson County" />
+<name id="n21" start="707" end="715" text="Illinois" />
+<name id="n22" start="717" end="726" text="St. Louis" />
+<name id="n23" start="728" end="736" text="Missouri" />
+<name id="n24" start="742" end="749" text="Memphis" />
+<name id="n25" start="751" end="760" text="Tennessee" />
+<name id="n26" start="762" end="767" text="JAMES" />
+<name id="n27" start="995" end="1011" text="Jefferson County" />
+<name id="n28" start="1186" end="1215" text="United States Marshal Service" />
+<name id="n29" start="1904" end="1960" text="Joint Narcotics Unit of the Mt. Vernon Police Department" />
+<name id="n30" start="1969" end="1985" text="Jefferson County" />
+<name id="n31" start="2012" end="2043" text="Drug Enforcement Administration" />
+<name id="n32" start="2049" end="2070" text="Illinois State Police" />
+<name id="n33" start="2076" end="2090" text="Pulaski County" />
+<name id="n34" start="2117" end="2148" text="Federal Bureau of Investigation" />
+<name id="n35" start="2296" end="2309" text="United States" />
+<name id="n36" start="17" end="20" text="DEA" />
+<name id="n37" start="2333" end="2349" text="Jefferson County" />
+<name id="n38" start="2381" end="2412" text="Drug Enforcement Administration" />
+<name id="n39" start="2593" end="2607" text="George Norwood" />
+<name id="n40" start="2570" end="2583" text="United States" />
+<employment-mention id="e0" start="148" end="208" text="United States Attorney for the Southern District of Illinois" TYPE="PreMod" />
+<employment-mention id="e1" start="1965" end="1993" text="the Jefferson County Sheriff" TYPE="PreMod" />
+<employment-mention id="e2" start="2072" end="2098" text="the Pulaski County Sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="2292" end="2318" text="the United States Attorney" TYPE="PreMod" />
+<employment-mention id="e5" start="2560" end="2592" text="Assistant United States Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="57" end="107" text="Mt.  Vernon Men Convicted After Federal Jury Trial" TYPE="PreMod" />
+<CRRE id="C1" start="254" end="315" text="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" TYPE="Preposition" />
+<CRRE id="C2" start="321" end="385" text="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" TYPE="Preposition" />
+<M id="M0" start="148" end="208" text="United States Attorney for the Southern District of Illinois" TYPE="Preposition" />
+<M id="M1" start="2329" end="2366" text="the Jefferson County State's Attorney" TYPE="Possessive" />
+<M id="M2" start="1965" end="2006" text="the Jefferson County Sheriff's Department" TYPE="Possessive" />
+<M id="M3" start="2072" end="2107" text="the Pulaski County Sheriff's Office" TYPE="Possessive" />
+<M id="M4" start="2292" end="2327" text="the United States Attorney's Office" TYPE="Possessive" />
+<M id="M5" start="2329" end="2375" text="the Jefferson County State's Attorney's Office" TYPE="Possessive" />
+<entity_link id="en0" fromID="p4" fromText="Randy G. Massey" toID="p3" toText="Randy G. Massey, United States Attorney for the Southern District of Illinois" />
+<entity_link id="en1" fromID="p5" fromText="United States Attorney for the Southern District of Illinois" toID="p4" toText="Randy G. Massey" />
+<entity_link id="en2" fromID="p7" fromText="Ree" toID="p6" toText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" />
+<entity_link id="en3" fromID="g4" fromText="Mt. Vernon, Illinois" toID="g0" toText="Mt.  Vernon" />
+<entity_link id="en4" fromID="g5" fromText="Illinois" toID="g2" toText="IL" />
+<entity_link id="en5" fromID="p9" fromText="Trash" toID="p8" toText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" />
+<entity_link id="en6" fromID="g6" fromText="Mt. Vernon, Illinois" toID="g4" toText="Mt. Vernon, Illinois" />
+<entity_link id="en7" fromID="g7" fromText="Illinois" toID="g5" toText="Illinois" />
+<entity_link id="en8" fromID="p10" fromText="jury" toID="p2" toText="Jury" />
+<entity_link id="en9" fromID="g8" fromText="Benton, Illinois" toID="g1" toText="Benton, IL" />
+<entity_link id="en10" fromID="g9" fromText="Illinois" toID="g7" toText="Illinois" />
+<entity_link id="en11" fromID="p11" fromText="JAMES" toID="p6" toText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" />
+<entity_link id="en12" fromID="p12" fromText="HARRIS" toID="p8" toText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" />
+<entity_link id="en13" fromID="g11" fromText="Illinois" toID="g9" toText="Illinois" />
+<entity_link id="en14" fromID="p13" fromText="JAMES" toID="p11" toText="JAMES" />
+<entity_link id="en15" fromID="p14" fromText="a felon in possession of a firearm and on two separate counts of distribution of less than 5 grams of crack cocaine in violation of federal law" toID="p13" toText="JAMES" />
+<entity_link id="en16" fromID="g16" fromText="Jefferson County" toID="g10" toText="Jefferson County, Illinois" />
+<entity_link id="en17" fromID="p16" fromText="Both defendants" toID="p15" toText="Both defendants" />
+<entity_link id="en18" fromID="g17" fromText="Jefferson County" toID="g16" toText="Jefferson County" />
+<entity_link id="en19" fromID="g19" fromText="United States" toID="g3" toText="United States" />
+<entity_link id="en20" fromID="o5" fromText="the Drug Enforcement Administration" toID="o12" toText="DEA" />
+<entity_link id="en21" fromID="g20" fromText="Jefferson County" toID="g17" toText="Jefferson County" />
+<entity_link id="en22" fromID="o14" fromText="the Drug Enforcement Administration" toID="o5" toText="the Drug Enforcement Administration" />
+<entity_link id="en24" fromID="g22" fromText="our" toID="g19" toText="United States" />
+<entity_link id="en25" fromID="g21" fromText="our communities" toID="g22" toText="our" />
+<entity_link id="en26" fromID="p23" fromText="Assistant United States Attorney" toID="p22" toText="Assistant United States Attorney George Norwood" />
+<entity_link id="en27" fromID="g23" fromText="United States" toID="g19" toText="United States" />
+<entity_link id="en28" fromID="p15" fromText="Both defendants" toID="p1" toText="Mt.  Vernon Men Convicted After Federal Jury Trial" />
+<head_link id="he0" fromID="p0" fromText="Thomas Murphy" toID="h0" toText="Thomas Murphy" />
+<head_link id="he1" fromID="p1" fromText="Mt.  Vernon Men Convicted After Federal Jury Trial" toID="h1" toText="Men" />
+<head_link id="he2" fromID="g0" fromText="Mt.  Vernon" toID="h2" toText="Mt.  Vernon" />
+<head_link id="he3" fromID="p2" fromText="Jury" toID="h3" toText="Jury" />
+<head_link id="he4" fromID="g1" fromText="Benton, IL" toID="h4" toText="Benton" />
+<head_link id="he5" fromID="g2" fromText="IL" toID="h5" toText="IL" />
+<head_link id="he6" fromID="p4" fromText="Randy G. Massey" toID="h6" toText="Randy G. Massey" />
+<head_link id="he7" fromID="p5" fromText="United States Attorney for the Southern District of Illinois" toID="h7" toText="Attorney" />
+<head_link id="he8" fromID="g3" fromText="United States" toID="h8" toText="United States" />
+<head_link id="he9" fromID="o0" fromText="the Southern District of Illinois" toID="h9" toText="Southern District of Illinois" />
+<head_link id="he10" fromID="p6" fromText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" toID="h10" toText="DAMIAN Y. JAMES" />
+<head_link id="he11" fromID="p7" fromText="Ree" toID="h11" toText="Ree" />
+<head_link id="he12" fromID="g4" fromText="Mt. Vernon, Illinois" toID="h12" toText="Mt. Vernon" />
+<head_link id="he13" fromID="g5" fromText="Illinois" toID="h13" toText="Illinois" />
+<head_link id="he14" fromID="p8" fromText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" toID="h14" toText="ROBERT M. HARRIS" />
+<head_link id="he15" fromID="p9" fromText="Trash" toID="h15" toText="Trash" />
+<head_link id="he16" fromID="g6" fromText="Mt. Vernon, Illinois" toID="h16" toText="Mt. Vernon" />
+<head_link id="he17" fromID="g7" fromText="Illinois" toID="h17" toText="Illinois" />
+<head_link id="he18" fromID="p10" fromText="jury" toID="h18" toText="jury" />
+<head_link id="he19" fromID="o1" fromText="United States District Court in Benton, Illinois" toID="h19" toText="United States District Court" />
+<head_link id="he20" fromID="g8" fromText="Benton, Illinois" toID="h20" toText="Benton" />
+<head_link id="he21" fromID="g9" fromText="Illinois" toID="h21" toText="Illinois" />
+<head_link id="he22" fromID="p11" fromText="JAMES" toID="h22" toText="JAMES" />
+<head_link id="he23" fromID="p12" fromText="HARRIS" toID="h23" toText="HARRIS" />
+<head_link id="he24" fromID="g10" fromText="Jefferson County, Illinois" toID="h24" toText="Jefferson County" />
+<head_link id="he25" fromID="g11" fromText="Illinois" toID="h25" toText="Illinois" />
+<head_link id="he26" fromID="g12" fromText="St. Louis, Missouri" toID="h26" toText="St. Louis" />
+<head_link id="he27" fromID="g13" fromText="Missouri" toID="h27" toText="Missouri" />
+<head_link id="he28" fromID="g14" fromText="Memphis, Tennessee" toID="h28" toText="Memphis" />
+<head_link id="he29" fromID="g15" fromText="Tennessee" toID="h29" toText="Tennessee" />
+<head_link id="he30" fromID="p13" fromText="JAMES" toID="h30" toText="JAMES" />
+<head_link id="he31" fromID="p14" fromText="a felon in possession of a firearm and on two separate counts of distribution of less than 5 grams of crack cocaine in violation of federal law" toID="h31" toText="felon" />
+<head_link id="he32" fromID="g16" fromText="Jefferson County" toID="h32" toText="Jefferson County" />
+<head_link id="he33" fromID="p15" fromText="Both defendants" toID="h33" toText="defendants" />
+<head_link id="he34" fromID="p16" fromText="Both defendants" toID="h34" toText="defendants" />
+<head_link id="he35" fromID="o2" fromText="the United States Marshal Service" toID="h35" toText="United States Marshal Service" />
+<head_link id="he36" fromID="f0" fromText="prison" toID="h36" toText="prison" />
+<head_link id="he37" fromID="p17" fromText="a felon in possession of a firearm" toID="h37" toText="felon" />
+<head_link id="he38" fromID="o3" fromText="the Joint Narcotics Unit of the Mt. Vernon Police Department" toID="h38" toText="Joint Narcotics Unit of the Mt. Vernon Police Department" />
+<head_link id="he39" fromID="o4" fromText="the Jefferson County Sheriff's Department" toID="h39" toText="Department" />
+<head_link id="he40" fromID="p18" fromText="the Jefferson County Sheriff" toID="h40" toText="Sheriff" />
+<head_link id="he41" fromID="g17" fromText="Jefferson County" toID="h41" toText="Jefferson County" />
+<head_link id="he42" fromID="o5" fromText="the Drug Enforcement Administration" toID="h42" toText="Drug Enforcement Administration" />
+<head_link id="he43" fromID="o6" fromText="the Illinois State Police" toID="h43" toText="Illinois State Police" />
+<head_link id="he44" fromID="o7" fromText="the Pulaski County Sheriff's Office" toID="h44" toText="Office" />
+<head_link id="he45" fromID="p19" fromText="the Pulaski County Sheriff" toID="h45" toText="Sheriff" />
+<head_link id="he46" fromID="g18" fromText="Pulaski County" toID="h46" toText="Pulaski County" />
+<head_link id="he47" fromID="o8" fromText="the Federal Bureau of Investigation" toID="h47" toText="Federal Bureau of Investigation" />
+<head_link id="he48" fromID="o9" fromText="their" toID="h48" toText="their" />
+<head_link id="he49" fromID="o10" fromText="the United States Attorney's Office" toID="h49" toText="Office" />
+<head_link id="he50" fromID="p20" fromText="the United States Attorney" toID="h50" toText="Attorney" />
+<head_link id="he51" fromID="g19" fromText="United States" toID="h51" toText="United States" />
+<head_link id="he52" fromID="o11" fromText="the Jefferson County State's Attorney's Office" toID="h52" toText="Office" />
+<head_link id="he53" fromID="p21" fromText="the Jefferson County State's Attorney" toID="h53" toText="Attorney" />
+<head_link id="he54" fromID="o12" fromText="DEA" toID="h54" toText="DEA" />
+<head_link id="he55" fromID="o13" fromText="the Jefferson County State" toID="h55" toText="State" />
+<head_link id="he56" fromID="g20" fromText="Jefferson County" toID="h56" toText="Jefferson County" />
+<head_link id="he57" fromID="o14" fromText="the Drug Enforcement Administration" toID="h57" toText="Drug Enforcement Administration" />
+<head_link id="he58" fromID="o15" fromText="other federal, state, and local law enforcement agencies" toID="h58" toText="agencies" />
+<head_link id="he60" fromID="g21" fromText="our communities" toID="h60" toText="communities" />
+<head_link id="he61" fromID="g22" fromText="our" toID="h61" toText="our" />
+<head_link id="he62" fromID="p22" fromText="Assistant United States Attorney George Norwood" toID="h62" toText="George Norwood" />
+<head_link id="he63" fromID="p23" fromText="Assistant United States Attorney" toID="h63" toText="Attorney" />
+<head_link id="he64" fromID="g23" fromText="United States" toID="h64" toText="United States" />
+<name_link id="na0" fromID="p0" fromText="Thomas Murphy" toID="n0" toText="Thomas Murphy" />
+<name_link id="na1" fromID="g0" fromText="Mt.  Vernon" toID="n1" toText="Mt.  Vernon" />
+<name_link id="na2" fromID="g1" fromText="Benton, IL" toID="n2" toText="Benton" />
+<name_link id="na3" fromID="g2" fromText="IL" toID="n3" toText="IL" />
+<name_link id="na4" fromID="p4" fromText="Randy G. Massey" toID="n4" toText="Randy G. Massey" />
+<name_link id="na5" fromID="g3" fromText="United States" toID="n5" toText="United States" />
+<name_link id="na6" fromID="o0" fromText="the Southern District of Illinois" toID="n6" toText="Southern District of Illinois" />
+<name_link id="na7" fromID="p6" fromText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" toID="n7" toText="DAMIAN Y. JAMES" />
+<name_link id="na8" fromID="p7" fromText="Ree" toID="n8" toText="Ree" />
+<name_link id="na9" fromID="g4" fromText="Mt. Vernon, Illinois" toID="n9" toText="Mt. Vernon" />
+<name_link id="na10" fromID="g5" fromText="Illinois" toID="n10" toText="Illinois" />
+<name_link id="na11" fromID="p8" fromText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" toID="n11" toText="ROBERT M. HARRIS" />
+<name_link id="na12" fromID="p9" fromText="Trash" toID="n12" toText="Trash" />
+<name_link id="na13" fromID="g6" fromText="Mt. Vernon, Illinois" toID="n13" toText="Mt. Vernon" />
+<name_link id="na14" fromID="g7" fromText="Illinois" toID="n14" toText="Illinois" />
+<name_link id="na15" fromID="o1" fromText="United States District Court in Benton, Illinois" toID="n15" toText="United States District Court" />
+<name_link id="na16" fromID="g8" fromText="Benton, Illinois" toID="n16" toText="Benton" />
+<name_link id="na17" fromID="g9" fromText="Illinois" toID="n17" toText="Illinois" />
+<name_link id="na18" fromID="p11" fromText="JAMES" toID="n18" toText="JAMES" />
+<name_link id="na19" fromID="p12" fromText="HARRIS" toID="n19" toText="HARRIS" />
+<name_link id="na20" fromID="g10" fromText="Jefferson County, Illinois" toID="n20" toText="Jefferson County" />
+<name_link id="na21" fromID="g11" fromText="Illinois" toID="n21" toText="Illinois" />
+<name_link id="na22" fromID="g12" fromText="St. Louis, Missouri" toID="n22" toText="St. Louis" />
+<name_link id="na23" fromID="g13" fromText="Missouri" toID="n23" toText="Missouri" />
+<name_link id="na24" fromID="g14" fromText="Memphis, Tennessee" toID="n24" toText="Memphis" />
+<name_link id="na25" fromID="g15" fromText="Tennessee" toID="n25" toText="Tennessee" />
+<name_link id="na26" fromID="p13" fromText="JAMES" toID="n26" toText="JAMES" />
+<name_link id="na27" fromID="g16" fromText="Jefferson County" toID="n27" toText="Jefferson County" />
+<name_link id="na28" fromID="o2" fromText="the United States Marshal Service" toID="n28" toText="United States Marshal Service" />
+<name_link id="na29" fromID="o3" fromText="the Joint Narcotics Unit of the Mt. Vernon Police Department" toID="n29" toText="Joint Narcotics Unit of the Mt. Vernon Police Department" />
+<name_link id="na30" fromID="g17" fromText="Jefferson County" toID="n30" toText="Jefferson County" />
+<name_link id="na31" fromID="o5" fromText="the Drug Enforcement Administration" toID="n31" toText="Drug Enforcement Administration" />
+<name_link id="na32" fromID="o6" fromText="the Illinois State Police" toID="n32" toText="Illinois State Police" />
+<name_link id="na33" fromID="g18" fromText="Pulaski County" toID="n33" toText="Pulaski County" />
+<name_link id="na34" fromID="o8" fromText="the Federal Bureau of Investigation" toID="n34" toText="Federal Bureau of Investigation" />
+<name_link id="na35" fromID="g19" fromText="United States" toID="n35" toText="United States" />
+<name_link id="na36" fromID="o12" fromText="DEA" toID="n36" toText="DEA" />
+<name_link id="na37" fromID="g20" fromText="Jefferson County" toID="n37" toText="Jefferson County" />
+<name_link id="na38" fromID="o14" fromText="the Drug Enforcement Administration" toID="n38" toText="Drug Enforcement Administration" />
+<name_link id="na39" fromID="p22" fromText="Assistant United States Attorney George Norwood" toID="n39" toText="George Norwood" />
+<name_link id="na40" fromID="g23" fromText="United States" toID="n40" toText="United States" />
+<relation_link1 id="r0" fromID="C0" fromText="Mt.  Vernon Men Convicted After Federal Jury Trial" toID="p1" toText="Mt.  Vernon Men Convicted After Federal Jury Trial" />
+<relation_link1 id="r1" fromID="e0" fromText="United States Attorney for the Southern District of Illinois" toID="p5" toText="United States Attorney for the Southern District of Illinois" />
+<relation_link1 id="r2" fromID="M0" fromText="United States Attorney for the Southern District of Illinois" toID="p5" toText="United States Attorney for the Southern District of Illinois" />
+<relation_link1 id="r3" fromID="C1" fromText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" toID="p6" toText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" />
+<relation_link1 id="r4" fromID="C2" fromText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" toID="p8" toText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" />
+<relation_link1 id="r5" fromID="e1" fromText="the Jefferson County Sheriff" toID="p18" toText="the Jefferson County Sheriff" />
+<relation_link1 id="r6" fromID="e2" fromText="the Pulaski County Sheriff" toID="p19" toText="the Pulaski County Sheriff" />
+<relation_link1 id="r7" fromID="e3" fromText="the United States Attorney" toID="p20" toText="the United States Attorney" />
+<relation_link1 id="r8" fromID="M1" fromText="the Jefferson County State's Attorney" toID="p21" toText="the Jefferson County State's Attorney" />
+<relation_link1 id="r10" fromID="e5" fromText="Assistant United States Attorney" toID="p23" toText="Assistant United States Attorney" />
+<relation_link1 id="r9" fromID="M2" fromText="the Jefferson County Sheriff's Department" toID="p18" toText="the Jefferson County Sheriff" />
+<relation_link1 id="r11" fromID="M3" fromText="the Pulaski County Sheriff's Office" toID="p19" toText="the Pulaski County Sheriff" />
+<relation_link1 id="r12" fromID="M4" fromText="the United States Attorney's Office" toID="p20" toText="the United States Attorney" />
+<relation_link1 id="r13" fromID="M5" fromText="the Jefferson County State's Attorney's Office" toID="p21" toText="the Jefferson County State's Attorney" />
+<relation_link2 id="re0" fromID="C0" fromText="Mt.  Vernon Men Convicted After Federal Jury Trial" toID="g0" toText="Mt.  Vernon" />
+<relation_link2 id="re1" fromID="e0" fromText="United States Attorney for the Southern District of Illinois" toID="g3" toText="United States" />
+<relation_link2 id="re2" fromID="M0" fromText="United States Attorney for the Southern District of Illinois" toID="o0" toText="the Southern District of Illinois" />
+<relation_link2 id="re3" fromID="C1" fromText="DAMIAN Y. JAMES, a/k/a 'Ree,' age 34, of Mt. Vernon, Illinois" toID="g4" toText="Mt. Vernon, Illinois" />
+<relation_link2 id="re4" fromID="C2" fromText="ROBERT M. HARRIS, a/k/a 'Trash,' age 29, of Mt. Vernon, Illinois" toID="g6" toText="Mt. Vernon, Illinois" />
+<relation_link2 id="re5" fromID="e1" fromText="the Jefferson County Sheriff" toID="g17" toText="Jefferson County" />
+<relation_link2 id="re6" fromID="e2" fromText="the Pulaski County Sheriff" toID="g18" toText="Pulaski County" />
+<relation_link2 id="re7" fromID="e3" fromText="the United States Attorney" toID="g19" toText="United States" />
+<relation_link2 id="re8" fromID="M1" fromText="the Jefferson County State's Attorney" toID="o13" toText="the Jefferson County State" />
+<relation_link2 id="re10" fromID="e5" fromText="Assistant United States Attorney" toID="g23" toText="United States" />
+<relation_link2 id="re9" fromID="M2" fromText="the Jefferson County Sheriff's Department" toID="o4" toText="the Jefferson County Sheriff's Department" />
+<relation_link2 id="re11" fromID="M3" fromText="the Pulaski County Sheriff's Office" toID="o7" toText="the Pulaski County Sheriff's Office" />
+<relation_link2 id="re12" fromID="M4" fromText="the United States Attorney's Office" toID="o10" toText="the United States Attorney's Office" />
+<relation_link2 id="re13" fromID="M5" fromText="the Jefferson County State's Attorney's Office" toID="o11" toText="the Jefferson County State's Attorney's Office" />
+</TAGS>
+</KddTask>

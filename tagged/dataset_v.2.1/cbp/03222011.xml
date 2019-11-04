@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Border Patrol Rescues 17 Near Jacumba Mountains
+(Tuesday, March 22, 2011)
+El Centro, Calif.  - On Monday morning, U.S. Border Patrol agents rescued 17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry.
+The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba.
+One of the stranded persons used a cellular telephone which allowed the CHP to generate GPS coordinates of the group's location.
+Border Patrol Search Trauma and Rescue team agents conducted a thorough search of the area. At the conclusion of a three-hour search, agents located the 17 individuals. BORSTAR agents provided the group with water, assessed their health and provided medical assistance to one individual.
+BORSTAR is one facet of the U.S. Border Patrol Border Security Initiative, which was implemented as a proactive, bi-national strategy to reduce injuries, prevent fatalities, and ultimately make the border region safer.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="23" end="25" text="17" TYPE="HLS" />
+<person id="p1" start="115" end="140" text="U.S. Border Patrol agents" TYPE="BAR" />
+<person id="p2" start="149" end="259" text="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" TYPE="NOM" />
+<person id="p3" start="167" end="170" text="who" TYPE="WHQ" />
+<person id="p4" start="315" end="332" text="radio dispatchers" TYPE="BAR" />
+<person id="p5" start="397" end="405" text="a female" TYPE="NOM" />
+<person id="p6" start="417" end="437" text="16 other individuals" TYPE="NOM" />
+<person id="p7" start="483" end="510" text="One of the stranded persons" TYPE="PTV" />
+<person id="p8" start="490" end="510" text="the stranded persons" TYPE="NOM" />
+<person id="p9" start="590" end="599" text="the group" TYPE="NOM" />
+<person id="p10" start="612" end="662" text="Border Patrol Search Trauma and Rescue team agents" TYPE="BAR" />
+<person id="p11" start="612" end="655" text="Border Patrol Search Trauma and Rescue team" TYPE="NAMPRE" />
+<person id="p12" start="746" end="752" text="agents" TYPE="BAR" />
+<person id="p13" start="761" end="779" text="the 17 individuals" TYPE="NOM" />
+<person id="p14" start="781" end="795" text="BORSTAR agents" TYPE="BAR" />
+<person id="p15" start="805" end="814" text="the group" TYPE="NOM" />
+<person id="p16" start="836" end="841" text="their" TYPE="PRO" />
+<person id="p17" start="884" end="898" text="one individual" TYPE="NOM" />
+<person id="p18" start="781" end="788" text="BORSTAR" TYPE="NAMPRE" />
+<person id="p19" start="900" end="907" text="BORSTAR" TYPE="NAM" />
+<organization id="o0" start="1" end="14" text="Border Patrol" TYPE="NAM" />
+<organization id="o1" start="115" end="133" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="354" end="383" text="the California Highway Patrol" TYPE="NAM" />
+<organization id="o3" start="551" end="558" text="the CHP" TYPE="NAM" />
+<organization id="o5" start="928" end="946" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<geographical-political id="g0" start="75" end="91" text="El Centro, Calif" TYPE="NAM" />
+<geographical-political id="g1" start="86" end="91" text="Calif" TYPE="NAM" />
+<geographical-political id="g2" start="474" end="481" text="Jacumba" TYPE="NAM" />
+<location id="l0" start="31" end="48" text="Jacumba Mountains" TYPE="NAM" />
+<location id="l1" start="188" end="259" text="the mountains approximately 29 miles west of the Calexico Port of Entry" TYPE="NOM" />
+<location id="l2" start="225" end="259" text="west of the Calexico Port of Entry" TYPE="BAR" />
+<location id="l3" start="455" end="481" text="the mountains near Jacumba" TYPE="NOM" />
+<location id="l4" start="590" end="610" text="the group's location" TYPE="NOM" />
+<location id="l6" start="694" end="702" text="the area" TYPE="NOM" />
+<location id="l7" start="947" end="953" text="Border" TYPE="NOMPRE" />
+<location id="l8" start="1094" end="1111" text="the border region" TYPE="NOM" />
+<location id="l5" start="1098" end="1104" text="border" TYPE="BAR" />
+<falicity id="f0" start="233" end="259" text="the Calexico Port of Entry" TYPE="NAM" />
+<head id="h0" start="1" end="14" text="Border Patrol" />
+<head id="h1" start="23" end="25" text="17" />
+<head id="h2" start="31" end="48" text="Jacumba Mountains" />
+<head id="h3" start="75" end="84" text="El Centro" />
+<head id="h4" start="86" end="91" text="Calif" />
+<head id="h5" start="134" end="140" text="agents" />
+<head id="h6" start="115" end="133" text="U.S. Border Patrol" />
+<head id="h7" start="160" end="166" text="aliens" />
+<head id="h8" start="167" end="170" text="who" />
+<head id="h9" start="192" end="201" text="mountains" />
+<head id="h10" start="225" end="229" text="west" />
+<head id="h11" start="237" end="259" text="Calexico Port of Entry" />
+<head id="h12" start="321" end="332" text="dispatchers" />
+<head id="h13" start="358" end="383" text="California Highway Patrol" />
+<head id="h14" start="399" end="405" text="female" />
+<head id="h15" start="426" end="437" text="individuals" />
+<head id="h16" start="459" end="468" text="mountains" />
+<head id="h17" start="474" end="481" text="Jacumba" />
+<head id="h18" start="483" end="486" text="One" />
+<head id="h19" start="503" end="510" text="persons" />
+<head id="h20" start="555" end="558" text="CHP" />
+<head id="h21" start="602" end="610" text="location" />
+<head id="h23" start="594" end="599" text="group" />
+<head id="h24" start="656" end="662" text="agents" />
+<head id="h25" start="612" end="655" text="Border Patrol Search Trauma and Rescue team" />
+<head id="h26" start="698" end="702" text="area" />
+<head id="h27" start="746" end="752" text="agents" />
+<head id="h28" start="768" end="779" text="individuals" />
+<head id="h29" start="789" end="795" text="agents" />
+<head id="h30" start="809" end="814" text="group" />
+<head id="h31" start="836" end="841" text="their" />
+<head id="h32" start="888" end="898" text="individual" />
+<head id="h33" start="781" end="788" text="BORSTAR" />
+<head id="h34" start="900" end="907" text="BORSTAR" />
+<head id="h35" start="928" end="946" text="U.S. Border Patrol" />
+<head id="h36" start="947" end="953" text="Border" />
+<head id="h37" start="1105" end="1111" text="region" />
+<head id="h22" start="1098" end="1104" text="border" />
+<name id="n0" start="1" end="14" text="Border Patrol" />
+<name id="n1" start="31" end="48" text="Jacumba Mountains" />
+<name id="n2" start="75" end="84" text="El Centro" />
+<name id="n3" start="86" end="91" text="Calif" />
+<name id="n4" start="115" end="133" text="U.S. Border Patrol" />
+<name id="n5" start="237" end="259" text="Calexico Port of Entry" />
+<name id="n6" start="358" end="383" text="California Highway Patrol" />
+<name id="n7" start="474" end="481" text="Jacumba" />
+<name id="n8" start="555" end="558" text="CHP" />
+<name id="n9" start="612" end="655" text="Border Patrol Search Trauma and Rescue team" />
+<name id="n10" start="781" end="788" text="BORSTAR" />
+<name id="n11" start="900" end="907" text="BORSTAR" />
+<name id="n12" start="928" end="946" text="U.S. Border Patrol" />
+<located-mention id="lo0" start="96" end="259" text="On Monday morning, U.S. Border Patrol agents rescued 17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" TYPE="Verbal" />
+<located-mention id="lo1" start="261" end="481" text="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" TYPE="Verbal" />
+<located-mention id="lo2" start="261" end="481" text="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" TYPE="Verbal" />
+<located-mention id="lo3" start="590" end="610" text="the group's location" TYPE="Possessive" />
+<located-mention id="lo4" start="612" end="702" text="Border Patrol Search Trauma and Rescue team agents conducted a thorough search of the area" TYPE="Other" />
+<M id="M0" start="115" end="140" text="U.S. Border Patrol agents" TYPE="PreMod" />
+<M id="M1" start="900" end="1117" text="BORSTAR is one facet of the U.S. Border Patrol Border Security Initiative, which was implemented as a proactive, bi-national strategy to reduce injuries, prevent fatalities, and ultimately make the border region safer" TYPE="Other" />
+<entity_link id="en0" fromID="o1" fromText="U.S. Border Patrol" toID="o0" toText="Border Patrol" />
+<entity_link id="en1" fromID="p2" fromText="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" toID="p0" toText="17" />
+<entity_link id="en2" fromID="p3" fromText="who" toID="p2" toText="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" />
+<entity_link id="en3" fromID="l1" fromText="the mountains approximately 29 miles west of the Calexico Port of Entry" toID="l0" toText="Jacumba Mountains" />
+<entity_link id="en4" fromID="l3" fromText="the mountains near Jacumba" toID="l1" toText="the mountains approximately 29 miles west of the Calexico Port of Entry" />
+<entity_link id="en5" fromID="p8" fromText="the stranded persons" toID="p2" toText="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" />
+<entity_link id="en6" fromID="o3" fromText="the CHP" toID="o2" toText="the California Highway Patrol" />
+<entity_link id="en7" fromID="p9" fromText="the group" toID="p8" toText="the stranded persons" />
+<entity_link id="en8" fromID="l6" fromText="the area" toID="l3" toText="the mountains near Jacumba" />
+<entity_link id="en9" fromID="p12" fromText="agents" toID="p10" toText="Border Patrol Search Trauma and Rescue team agents" />
+<entity_link id="en10" fromID="p13" fromText="the 17 individuals" toID="p2" toText="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" />
+<entity_link id="en11" fromID="p14" fromText="BORSTAR agents" toID="p12" toText="agents" />
+<entity_link id="en12" fromID="p15" fromText="the group" toID="p13" toText="the 17 individuals" />
+<entity_link id="en13" fromID="p16" fromText="their" toID="p15" toText="the group" />
+<entity_link id="en14" fromID="p18" fromText="BORSTAR" toID="p11" toText="Border Patrol Search Trauma and Rescue team" />
+<entity_link id="en15" fromID="p19" fromText="BORSTAR" toID="p18" toText="BORSTAR" />
+<entity_link id="en16" fromID="o5" fromText="U.S. Border Patrol" toID="o1" toText="U.S. Border Patrol" />
+<head_link id="he0" fromID="o0" fromText="Border Patrol" toID="h0" toText="Border Patrol" />
+<head_link id="he1" fromID="p0" fromText="17" toID="h1" toText="17" />
+<head_link id="he2" fromID="l0" fromText="Jacumba Mountains" toID="h2" toText="Jacumba Mountains" />
+<head_link id="he3" fromID="g0" fromText="El Centro, Calif" toID="h3" toText="El Centro" />
+<head_link id="he4" fromID="g1" fromText="Calif" toID="h4" toText="Calif" />
+<head_link id="he5" fromID="p1" fromText="U.S. Border Patrol agents" toID="h5" toText="agents" />
+<head_link id="he6" fromID="o1" fromText="U.S. Border Patrol" toID="h6" toText="U.S. Border Patrol" />
+<head_link id="he7" fromID="p2" fromText="17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" toID="h7" toText="aliens" />
+<head_link id="he8" fromID="p3" fromText="who" toID="h8" toText="who" />
+<head_link id="he9" fromID="l1" fromText="the mountains approximately 29 miles west of the Calexico Port of Entry" toID="h9" toText="mountains" />
+<head_link id="he10" fromID="l2" fromText="west of the Calexico Port of Entry" toID="h10" toText="west" />
+<head_link id="he11" fromID="f0" fromText="the Calexico Port of Entry" toID="h11" toText="Calexico Port of Entry" />
+<head_link id="he12" fromID="p4" fromText="radio dispatchers" toID="h12" toText="dispatchers" />
+<head_link id="he13" fromID="o2" fromText="the California Highway Patrol" toID="h13" toText="California Highway Patrol" />
+<head_link id="he14" fromID="p5" fromText="a female" toID="h14" toText="female" />
+<head_link id="he15" fromID="p6" fromText="16 other individuals" toID="h15" toText="individuals" />
+<head_link id="he16" fromID="l3" fromText="the mountains near Jacumba" toID="h16" toText="mountains" />
+<head_link id="he17" fromID="g2" fromText="Jacumba" toID="h17" toText="Jacumba" />
+<head_link id="he18" fromID="p7" fromText="One of the stranded persons" toID="h18" toText="One" />
+<head_link id="he19" fromID="p8" fromText="the stranded persons" toID="h19" toText="persons" />
+<head_link id="he20" fromID="o3" fromText="the CHP" toID="h20" toText="CHP" />
+<head_link id="he21" fromID="l4" fromText="the group's location" toID="h21" toText="location" />
+<head_link id="he23" fromID="p9" fromText="the group" toID="h23" toText="group" />
+<head_link id="he24" fromID="p10" fromText="Border Patrol Search Trauma and Rescue team agents" toID="h24" toText="agents" />
+<head_link id="he25" fromID="p11" fromText="Border Patrol Search Trauma and Rescue team" toID="h25" toText="Border Patrol Search Trauma and Rescue team" />
+<head_link id="he26" fromID="l6" fromText="the area" toID="h26" toText="area" />
+<head_link id="he27" fromID="p12" fromText="agents" toID="h27" toText="agents" />
+<head_link id="he28" fromID="p13" fromText="the 17 individuals" toID="h28" toText="individuals" />
+<head_link id="he29" fromID="p14" fromText="BORSTAR agents" toID="h29" toText="agents" />
+<head_link id="he30" fromID="p15" fromText="the group" toID="h30" toText="group" />
+<head_link id="he31" fromID="p16" fromText="their" toID="h31" toText="their" />
+<head_link id="he32" fromID="p17" fromText="one individual" toID="h32" toText="individual" />
+<head_link id="he33" fromID="p18" fromText="BORSTAR" toID="h33" toText="BORSTAR" />
+<head_link id="he34" fromID="p19" fromText="BORSTAR" toID="h34" toText="BORSTAR" />
+<head_link id="he35" fromID="o5" fromText="U.S. Border Patrol" toID="h35" toText="U.S. Border Patrol" />
+<head_link id="he36" fromID="l7" fromText="Border" toID="h36" toText="Border" />
+<head_link id="he37" fromID="l8" fromText="the border region" toID="h37" toText="region" />
+<head_link id="he22" fromID="l5" fromText="border" toID="h22" toText="border" />
+<name_link id="na0" fromID="o0" fromText="Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na1" fromID="l0" fromText="Jacumba Mountains" toID="n1" toText="Jacumba Mountains" />
+<name_link id="na2" fromID="g0" fromText="El Centro, Calif" toID="n2" toText="El Centro" />
+<name_link id="na3" fromID="g1" fromText="Calif" toID="n3" toText="Calif" />
+<name_link id="na4" fromID="o1" fromText="U.S. Border Patrol" toID="n4" toText="U.S. Border Patrol" />
+<name_link id="na5" fromID="f0" fromText="the Calexico Port of Entry" toID="n5" toText="Calexico Port of Entry" />
+<name_link id="na6" fromID="o2" fromText="the California Highway Patrol" toID="n6" toText="California Highway Patrol" />
+<name_link id="na7" fromID="g2" fromText="Jacumba" toID="n7" toText="Jacumba" />
+<name_link id="na8" fromID="o3" fromText="the CHP" toID="n8" toText="CHP" />
+<name_link id="na9" fromID="p11" fromText="Border Patrol Search Trauma and Rescue team" toID="n9" toText="Border Patrol Search Trauma and Rescue team" />
+<name_link id="na10" fromID="p18" fromText="BORSTAR" toID="n10" toText="BORSTAR" />
+<name_link id="na11" fromID="p19" fromText="BORSTAR" toID="n11" toText="BORSTAR" />
+<name_link id="na12" fromID="o5" fromText="U.S. Border Patrol" toID="n12" toText="U.S. Border Patrol" />
+<relation_link1 id="r0" fromID="M0" fromText="U.S. Border Patrol agents" toID="p1" toText="U.S. Border Patrol agents" />
+<relation_link1 id="r1" fromID="lo0" fromText="On Monday morning, U.S. Border Patrol agents rescued 17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" toID="p3" toText="who" />
+<relation_link1 id="r2" fromID="lo1" fromText="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" toID="p5" toText="a female" />
+<relation_link1 id="r3" fromID="lo2" fromText="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" toID="p6" toText="16 other individuals" />
+<relation_link1 id="r4" fromID="lo3" fromText="the group's location" toID="p9" toText="the group" />
+<relation_link1 id="r5" fromID="lo4" fromText="Border Patrol Search Trauma and Rescue team agents conducted a thorough search of the area" toID="p10" toText="Border Patrol Search Trauma and Rescue team agents" />
+<relation_link1 id="r6" fromID="M1" fromText="BORSTAR is one facet of the U.S. Border Patrol Border Security Initiative, which was implemented as a proactive, bi-national strategy to reduce injuries, prevent fatalities, and ultimately make the border region safer" toID="p19" toText="BORSTAR" />
+<relation_link2 id="re0" fromID="M0" fromText="U.S. Border Patrol agents" toID="o1" toText="U.S. Border Patrol" />
+<relation_link2 id="re1" fromID="lo0" fromText="On Monday morning, U.S. Border Patrol agents rescued 17 illegal aliens who were stranded in the mountains approximately 29 miles west of the Calexico Port of Entry" toID="l1" toText="the mountains approximately 29 miles west of the Calexico Port of Entry" />
+<relation_link2 id="re2" fromID="lo1" fromText="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" toID="l3" toText="the mountains near Jacumba" />
+<relation_link2 id="re3" fromID="lo2" fromText="The incident occurred at approximately 3:20 a.m. when radio dispatchers received a call from the California Highway Patrol stating that a female along with 16 other individuals were stranded in the mountains near Jacumba" toID="l3" toText="the mountains near Jacumba" />
+<relation_link2 id="re4" fromID="lo3" fromText="the group's location" toID="l4" toText="the group's location" />
+<relation_link2 id="re5" fromID="lo4" fromText="Border Patrol Search Trauma and Rescue team agents conducted a thorough search of the area" toID="l6" toText="the area" />
+<relation_link2 id="re6" fromID="M1" fromText="BORSTAR is one facet of the U.S. Border Patrol Border Security Initiative, which was implemented as a proactive, bi-national strategy to reduce injuries, prevent fatalities, and ultimately make the border region safer" toID="o5" toText="U.S. Border Patrol" />
+</TAGS>
+</KddTask>

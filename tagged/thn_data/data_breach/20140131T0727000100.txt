@@ -1,0 +1,17 @@
+Yahoo Mail hacked; Change your account password immediately
+Mohit Kumar
+
+A really bad year for the world's second-largest email service provider, Yahoo Mail! The company announced today, 'we identified a coordinated effort to gain unauthorized access to Yahoo Mail accounts', user names and passwords of its email customers have been stolen and are used to access multiple accounts.
+Yahoo did not say how many accounts have been affected, and neither they are sure about the source of the leaked users' credentials. It appears to have come from a third party database being compromised, and not an infiltration of Yahoo's own servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"We have no evidence that they were obtained directly from Yahoo’s systems. Our ongoing investigation shows that malicious computer software used the list of usernames and passwords to access Yahoo Mail accounts. The information sought in the attack seems to be names and email addresses from the affected accounts’ most recent sent emails."
+For now, Yahoo is taking proactive actions to protect their affected users, "We are resetting passwords on impacted accounts and we are using second sign-in verification to allow users to re-secure their accounts. Impacted users will be prompted (if not, already) to change their password and may receive an email notification or an SMS text if they have added a mobile number to their account." 
+People frequently use the same passwords on multiple accounts, so possibly hackers are brute-forcing Yahoo accounts with the user credentials stolen from other data breaches. 
+Yahoo users can prevent account hijacks by using a strong and unique password. You can use 'Random strong password generator' feature of DuckDuckGo search engine to get a unique & strong password. 
+Users are also recommended to enable two-factor authentication, which requires a code texted to the legitimate user's mobile phone whenever a login attempt is made from a new computer.
+Yahoo! was hacked in July 2012, with attackers stealing 450,000 email addresses and passwords from a Yahoo! contributor network.
+Readers can also download two free Whitepaper related to the Email and account security:
+Cloud-Based Email Archiving
+Email Data Loss Prevention
+Well, Yahoo is now working with federal law enforcement as a part of its  investigation.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

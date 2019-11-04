@@ -1,0 +1,16 @@
+Instagram Suffers Data Breach! Hacker Stole Contact Info of High-Profile Users 
+Swati Khandelwal
+Instagram has recently suffered a possibly serious data breach with hackers gaining access to the phone numbers and email addresses for many "high-profile" users.
+The 700 million-user-strong, Facebook-owned photo sharing service has currently notified all of its verified users that an unknown hacker has accessed some of their profile data, including email addresses and phone numbers, using a bug in Instagram.
+The flaw actually resides in Instagram's application programming interface (API), which the service uses to communicate with other apps.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the company did not reveal any details about the Instagram's API flaw, it assured its users that the bug has now been patched and its security team is further investigating the incident.
+"We recently discovered that one or more individuals obtained unlawful access to a number of high-profile Instagram users' contact information—specifically email address and phone number—by exploiting a bug in an Instagram API," Instagram said in a statement. "No account passwords were exposed. We fixed the bug swiftly and are running a thorough investigation."Instagram declined to name the high-profile users targeted in the breach, but the news comes two days after some unknown hacker hijacked most followed Instagram account belonged to Selena Gomez and posted her ex-boyfriend Justin Bieber's nude photographs.
+Selena's Instagram account with over 125 Million followers was restored later in the day and the photos were removed.
+However, Instagram did not mention if the recent data breach was related to Selena's hacked account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+With email addresses and phone numbers in their hands, the hackers next step could be used the information in tandem with social engineering techniques in an effort to gain access to verified users' Instagram accounts to embarrass them.
+The company notified all verified users of the issue via an email and also encouraged them to be cautious if they receive suspicious or unrecognised phone calls, text messages, or emails.
+Instagram users are also highly recommended to enable two-factor authentication on your accounts and always secure your accounts with a strong and different password.
+Also, avoid clicking on any suspicious link or attachment you received via an email and providing your personal or financial information without verifying the source properly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

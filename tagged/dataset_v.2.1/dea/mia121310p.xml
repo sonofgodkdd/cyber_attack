@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+December 13, 2010
+Contact: Special Agent David Melenkevitz
+Number: 954-660-4602
+Miami Resident Sentenced on Mortgage Fraud Charges
+DEC 13  -- MIAMI - Mark R. Trouville, Special Agent in Charge, Drug Enforcement Administration, Miami Field Division, Wifredo A. Ferrer, United States Attorney for the Southern District of Florida, and Daniel W.Auer, Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division, announce today's sentencing of defendant Sergio Caro, 37, of Miami-Dade, on mail fraud and money laundering charges in connection with a mortgage fraud scheme. United States District Judge Jose E. Martinez sentenced Caro to 37 months in prison and ordered him to pay$671,166.36 in restitution to victim mortgage lenders. This amount represents the total losses resulting from fraudulent mortgages obtained by Caro and other co-conspirators on houses bought during 2005-2006 in Palm Beach and St. Lucie Counties.
+This investigation began in May 2006; when law enforcement discovered marijuana growhouse operations in numerous homes in Port St. Lucie. During the investigation, many of those homes were linked to co-defendant Manuel Caro .  Manuel Caro was charged in 2006 for his participation in the marijuana grow house operation, but fled after being released on bond. He remains a fugitive.
+Continued investigation led to the discovery of additional marijuana grow houses in St. Lucie, Palm Beach, and Miami-Dade Counties. According to the superseding indictment, most of these homes were bought with funds obtained through mortgage fraud committed by defendant Hugo Oliva, a mortgage broker, through his company, MBA Mortgage Services, Inc., and his co-defendants, including Sergio Caro. To execute the scheme, the defendants submitted loan applications to mortgage lenders that contained false information, including false bank statements, W2 forms, pay stubs, verifications of deposit and verifications of employment.
+The defendants in the mortgage fraud scheme were charged with various counts of conspiracy, mail fraud, drug charges, and laundering drug-related money through the purchase of the homes. Two additional co-defendants,
+ Ilan Reyes,  37, and
+ Orlando Dominguez , 44, both of Miami, have also pled guilty. Sentencing for both defendants is scheduled for Monday, December 20, 2010.
+The Port St. Lucie Police Department, the St. Lucie County Sheriff's Office, and the U.S. Marshals Service also took part in this investigation.
+# # #
+]]></TEXT>
+<TAGS>
+<person id="p0" start="28" end="59" text="Special Agent David Melenkevitz" TYPE="NAM" />
+<person id="p1" start="28" end="41" text="Special Agent" TYPE="NOMPRE" />
+<person id="p2" start="81" end="131" text="Miami Resident Sentenced on Mortgage Fraud Charges" TYPE="BAR" />
+<person id="p4" start="151" end="248" text="Mark R. Trouville, Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" TYPE="APP" />
+<person id="p5" start="151" end="168" text="Mark R. Trouville" TYPE="NAM" />
+<person id="p6" start="170" end="248" text="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" TYPE="BAR" />
+<person id="p7" start="250" end="328" text="Wifredo A. Ferrer, United States Attorney for the Southern District of Florida" TYPE="APP" />
+<person id="p8" start="250" end="267" text="Wifredo A. Ferrer" TYPE="NAM" />
+<person id="p9" start="269" end="328" text="United States Attorney for the Southern District of Florida" TYPE="BAR" />
+<person id="p10" start="334" end="431" text="Daniel W.Auer, Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" TYPE="APP" />
+<person id="p11" start="334" end="347" text="Daniel W.Auer" TYPE="NAM" />
+<person id="p12" start="349" end="431" text="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" TYPE="BAR" />
+<person id="p13" start="464" end="504" text="defendant Sergio Caro, 37, of Miami-Dade" TYPE="NAM" />
+<person id="p14" start="464" end="473" text="defendant" TYPE="NOMPRE" />
+<person id="p15" start="593" end="638" text="United States District Judge Jose E. Martinez" TYPE="NAM" />
+<person id="p16" start="593" end="621" text="United States District Judge" TYPE="NOMPRE" />
+<person id="p17" start="649" end="653" text="Caro" TYPE="NAM" />
+<person id="p18" start="689" end="692" text="him" TYPE="PRO" />
+<person id="p19" start="729" end="752" text="victim mortgage lenders" TYPE="BAR" />
+<person id="p20" start="729" end="735" text="victim" TYPE="NOMPRE" />
+<person id="p21" start="842" end="846" text="Caro" TYPE="NAM" />
+<person id="p22" start="851" end="872" text="other co-conspirators" TYPE="NOM" />
+<person id="p3" start="1144" end="1168" text="co-defendant Manuel Caro" TYPE="NAM" />
+<person id="p23" start="1144" end="1156" text="co-defendant" TYPE="NOMPRE" />
+<person id="p24" start="1172" end="1183" text="Manuel Caro" TYPE="NAM" />
+<person id="p25" start="1208" end="1211" text="his" TYPE="PRO" />
+<person id="p26" start="1304" end="1306" text="He" TYPE="PRO" />
+<person id="p27" start="1315" end="1325" text="a fugitive" TYPE="NOM" />
+<person id="p28" start="1588" end="1627" text="defendant Hugo Oliva, a mortgage broker" TYPE="APP" />
+<person id="p30" start="1588" end="1608" text="defendant Hugo Oliva" TYPE="NAM" />
+<person id="p31" start="1588" end="1597" text="defendant" TYPE="NOMPRE" />
+<person id="p32" start="1610" end="1627" text="a mortgage broker" TYPE="NOM" />
+<person id="p33" start="1637" end="1640" text="his" TYPE="PRO" />
+<person id="p34" start="1683" end="1723" text="his co-defendants, including Sergio Caro" TYPE="NOM" />
+<person id="p35" start="1683" end="1686" text="his" TYPE="PRO" />
+<person id="p36" start="1712" end="1723" text="Sergio Caro" TYPE="NAM" />
+<person id="p37" start="1748" end="1762" text="the defendants" TYPE="NOM" />
+<person id="p38" start="1794" end="1810" text="mortgage lenders" TYPE="BAR" />
+<person id="p39" start="1957" end="2000" text="The defendants in the mortgage fraud scheme" TYPE="NOM" />
+<person id="p40" start="2144" end="2234" text="Two additional co-defendants,  Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" TYPE="NOM" />
+<person id="p41" start="2175" end="2234" text="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" TYPE="NAM" />
+<person id="p42" start="2175" end="2234" text="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" TYPE="NAM" />
+<person id="p43" start="2221" end="2234" text="both of Miami" TYPE="HLS" />
+<person id="p44" start="2274" end="2289" text="both defendants" TYPE="NOM" />
+<person id="p45" start="2372" end="2400" text="the St. Lucie County Sheriff" TYPE="NOM" />
+<organization id="o0" start="195" end="248" text="Drug Enforcement Administration, Miami Field Division" TYPE="NAM" />
+<organization id="o2" start="296" end="328" text="the Southern District of Florida" TYPE="NAM" />
+<organization id="o3" start="374" end="431" text="Internal Revenue Service, Criminal Investigation Division" TYPE="NAM" />
+<organization id="o5" start="607" end="615" text="District" TYPE="NOMPRE" />
+<organization id="o6" start="1637" end="1677" text="his company, MBA Mortgage Services, Inc." TYPE="NOM" />
+<organization id="o7" start="1650" end="1677" text="MBA Mortgage Services, Inc." TYPE="NAM" />
+<organization id="o8" start="2334" end="2370" text="The Port St. Lucie Police Department" TYPE="NAM" />
+<organization id="o9" start="2372" end="2409" text="the St. Lucie County Sheriff's Office" TYPE="NOM" />
+<organization id="o10" start="2415" end="2440" text="the U.S. Marshals Service" TYPE="NAM" />
+<organization id="o1" start="195" end="226" text="Drug Enforcement Administration" TYPE="NAMPRE" />
+<organization id="o4" start="374" end="398" text="Internal Revenue Service" TYPE="NAMPRE" />
+<geographical-political id="g0" start="81" end="86" text="Miami" TYPE="NAMPRE" />
+<geographical-political id="g1" start="143" end="148" text="MIAMI" TYPE="NAM" />
+<geographical-political id="g2" start="269" end="282" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g3" start="494" end="504" text="Miami-Dade" TYPE="NAM" />
+<geographical-political id="g4" start="593" end="606" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="910" end="943" text="Palm Beach and St. Lucie Counties" TYPE="BAR" />
+<geographical-political id="g7" start="1067" end="1081" text="Port St. Lucie" TYPE="NAM" />
+<geographical-political id="g8" start="1411" end="1457" text="St. Lucie, Palm Beach, and Miami-Dade Counties" TYPE="BAR" />
+<geographical-political id="g11" start="2229" end="2234" text="Miami" TYPE="NAM" />
+<geographical-political id="g12" start="2376" end="2392" text="St. Lucie County" TYPE="NAMPRE" />
+<geographical-political id="g6" start="910" end="920" text="Palm Beach" TYPE="NAMPRE" />
+<geographical-political id="g9" start="925" end="934" text="St. Lucie" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1411" end="1420" text="St. Lucie" TYPE="NAMPRE" />
+<geographical-political id="g13" start="1422" end="1432" text="Palm Beach" TYPE="NAMPRE" />
+<geographical-political id="g14" start="1438" end="1448" text="Miami-Dade" TYPE="NAMPRE" />
+<falicity id="f0" start="670" end="676" text="prison" TYPE="BAR" />
+<falicity id="f1" start="876" end="943" text="houses bought during 2005-2006 in Palm Beach and St. Lucie Counties" TYPE="BAR" />
+<falicity id="f2" start="1049" end="1081" text="numerous homes in Port St. Lucie" TYPE="BAR" />
+<falicity id="f3" start="1109" end="1128" text="many of those homes" TYPE="PTV" />
+<falicity id="f4" start="1117" end="1128" text="those homes" TYPE="NOM" />
+<falicity id="f5" start="1233" end="1253" text="marijuana grow house" TYPE="NOMPRE" />
+<falicity id="f6" start="1015" end="1034" text="marijuana growhouse" TYPE="NOMPRE" />
+<falicity id="f7" start="1375" end="1457" text="additional marijuana grow houses in St. Lucie, Palm Beach, and Miami-Dade Counties" TYPE="BAR" />
+<falicity id="f8" start="1500" end="1519" text="most of these homes" TYPE="PTV" />
+<falicity id="f9" start="1508" end="1519" text="these homes" TYPE="NOM" />
+<falicity id="f10" start="2133" end="2142" text="the homes" TYPE="NOM" />
+<head id="h0" start="42" end="59" text="David Melenkevitz" />
+<head id="h1" start="36" end="41" text="Agent" />
+<head id="h2" start="87" end="95" text="Resident" />
+<head id="h3" start="81" end="86" text="Miami" />
+<head id="h4" start="143" end="148" text="MIAMI" />
+<head id="h5" start="151" end="168" text="Mark R. Trouville" />
+<head id="h6" start="178" end="183" text="Agent" />
+<head id="h7" start="195" end="226" text="Drug Enforcement Administration" />
+<head id="h8" start="228" end="248" text="Miami Field Division" />
+<head id="h9" start="250" end="267" text="Wifredo A. Ferrer" />
+<head id="h10" start="283" end="291" text="Attorney" />
+<head id="h11" start="269" end="282" text="United States" />
+<head id="h12" start="300" end="328" text="Southern District of Florida" />
+<head id="h13" start="334" end="347" text="Daniel W.Auer" />
+<head id="h14" start="357" end="362" text="Agent" />
+<head id="h15" start="374" end="398" text="Internal Revenue Service" />
+<head id="h16" start="400" end="431" text="Criminal Investigation Division" />
+<head id="h17" start="474" end="485" text="Sergio Caro" />
+<head id="h18" start="464" end="473" text="defendant" />
+<head id="h19" start="494" end="504" text="Miami-Dade" />
+<head id="h20" start="622" end="638" text="Jose E. Martinez" />
+<head id="h21" start="616" end="621" text="Judge" />
+<head id="h22" start="607" end="615" text="District" />
+<head id="h23" start="593" end="606" text="United States" />
+<head id="h24" start="649" end="653" text="Caro" />
+<head id="h25" start="670" end="676" text="prison" />
+<head id="h26" start="689" end="692" text="him" />
+<head id="h27" start="745" end="752" text="lenders" />
+<head id="h28" start="729" end="735" text="victim" />
+<head id="h29" start="842" end="846" text="Caro" />
+<head id="h30" start="857" end="872" text="co-conspirators" />
+<head id="h31" start="876" end="882" text="houses" />
+<head id="h34" start="1058" end="1063" text="homes" />
+<head id="h35" start="1067" end="1081" text="Port St. Lucie" />
+<head id="h36" start="1109" end="1113" text="many" />
+<head id="h37" start="1123" end="1128" text="homes" />
+<head id="h38" start="1157" end="1168" text="Manuel Caro" />
+<head id="h39" start="1144" end="1156" text="co-defendant" />
+<head id="h40" start="1172" end="1183" text="Manuel Caro" />
+<head id="h41" start="1208" end="1211" text="his" />
+<head id="h42" start="1248" end="1253" text="house" />
+<head id="h43" start="1025" end="1034" text="growhouse" />
+<head id="h44" start="1304" end="1306" text="He" />
+<head id="h45" start="1317" end="1325" text="fugitive" />
+<head id="h46" start="1401" end="1407" text="houses" />
+<head id="h50" start="1500" end="1504" text="most" />
+<head id="h51" start="1514" end="1519" text="homes" />
+<head id="h52" start="1598" end="1608" text="Hugo Oliva" />
+<head id="h53" start="1588" end="1597" text="defendant" />
+<head id="h54" start="1621" end="1627" text="broker" />
+<head id="h55" start="1641" end="1648" text="company" />
+<head id="h56" start="1650" end="1671" text="MBA Mortgage Services" />
+<head id="h57" start="1637" end="1640" text="his" />
+<head id="h58" start="1687" end="1700" text="co-defendants" />
+<head id="h59" start="1683" end="1686" text="his" />
+<head id="h60" start="1712" end="1723" text="Sergio Caro" />
+<head id="h61" start="1752" end="1762" text="defendants" />
+<head id="h62" start="1803" end="1810" text="lenders" />
+<head id="h63" start="1961" end="1971" text="defendants" />
+<head id="h64" start="2137" end="2142" text="homes" />
+<head id="h65" start="2159" end="2172" text="co-defendants" />
+<head id="h66" start="2175" end="2185" text="Ilan Reyes" />
+<head id="h67" start="2197" end="2214" text="Orlando Dominguez" />
+<head id="h68" start="2221" end="2225" text="both" />
+<head id="h69" start="2229" end="2234" text="Miami" />
+<head id="h70" start="2279" end="2289" text="defendants" />
+<head id="h71" start="2338" end="2370" text="Port St. Lucie Police Department" />
+<head id="h72" start="2403" end="2409" text="Office" />
+<head id="h73" start="2393" end="2400" text="Sheriff" />
+<head id="h74" start="2376" end="2392" text="St. Lucie County" />
+<head id="h75" start="2419" end="2440" text="U.S. Marshals Service" />
+<head id="h32" start="935" end="943" text="Counties" />
+<head id="h33" start="1449" end="1457" text="Counties" />
+<head id="h47" start="910" end="920" text="Palm Beach" />
+<head id="h48" start="925" end="934" text="St. Lucie" />
+<head id="h49" start="1411" end="1420" text="St. Lucie" />
+<head id="h76" start="1422" end="1432" text="Palm Beach" />
+<head id="h77" start="1438" end="1448" text="Miami-Dade" />
+<name id="n0" start="42" end="59" text="David Melenkevitz" />
+<name id="n1" start="81" end="86" text="Miami" />
+<name id="n2" start="143" end="148" text="MIAMI" />
+<name id="n3" start="151" end="168" text="Mark R. Trouville" />
+<name id="n4" start="195" end="226" text="Drug Enforcement Administration" />
+<name id="n5" start="228" end="248" text="Miami Field Division" />
+<name id="n6" start="250" end="267" text="Wifredo A. Ferrer" />
+<name id="n7" start="269" end="282" text="United States" />
+<name id="n8" start="300" end="328" text="Southern District of Florida" />
+<name id="n9" start="334" end="347" text="Daniel W.Auer" />
+<name id="n10" start="374" end="398" text="Internal Revenue Service" />
+<name id="n11" start="400" end="431" text="Criminal Investigation Division" />
+<name id="n12" start="474" end="485" text="Sergio Caro" />
+<name id="n13" start="494" end="504" text="Miami-Dade" />
+<name id="n14" start="622" end="638" text="Jose E. Martinez" />
+<name id="n15" start="593" end="606" text="United States" />
+<name id="n16" start="649" end="653" text="Caro" />
+<name id="n17" start="842" end="846" text="Caro" />
+<name id="n20" start="1067" end="1081" text="Port St. Lucie" />
+<name id="n21" start="1157" end="1168" text="Manuel Caro" />
+<name id="n22" start="1172" end="1183" text="Manuel Caro" />
+<name id="n26" start="1598" end="1608" text="Hugo Oliva" />
+<name id="n27" start="1650" end="1671" text="MBA Mortgage Services" />
+<name id="n28" start="1712" end="1723" text="Sergio Caro" />
+<name id="n29" start="2175" end="2185" text="Ilan Reyes" />
+<name id="n30" start="2197" end="2214" text="Orlando Dominguez" />
+<name id="n31" start="2229" end="2234" text="Miami" />
+<name id="n32" start="2338" end="2370" text="Port St. Lucie Police Department" />
+<name id="n33" start="2376" end="2392" text="St. Lucie County" />
+<name id="n34" start="2419" end="2440" text="U.S. Marshals Service" />
+<name id="n18" start="910" end="920" text="Palm Beach" />
+<name id="n19" start="925" end="934" text="St. Lucie" />
+<name id="n23" start="1411" end="1420" text="St. Lucie" />
+<name id="n24" start="1422" end="1432" text="Palm Beach" />
+<name id="n25" start="1438" end="1448" text="Miami-Dade" />
+<located-mention id="lo0" start="1083" end="1168" text="During the investigation, many of those homes were linked to co-defendant Manuel Caro" TYPE="Verbal" />
+<employment-mention id="e0" start="269" end="328" text="United States Attorney for the Southern District of Florida" TYPE="PreMod" />
+<employment-mention id="e1" start="593" end="621" text="United States District Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="1637" end="1677" text="his company, MBA Mortgage Services, Inc." TYPE="PreMod" />
+<employment-mention id="e3" start="2372" end="2400" text="the St. Lucie County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="81" end="131" text="Miami Resident Sentenced on Mortgage Fraud Charges" TYPE="PreMod" />
+<CRRE id="C1" start="464" end="504" text="defendant Sergio Caro, 37, of Miami-Dade" TYPE="Preposition" />
+<CRRE id="C2" start="2221" end="2234" text="both of Miami" TYPE="Preposition" />
+<M id="M0" start="170" end="248" text="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" TYPE="Formulaic" />
+<M id="M1" start="269" end="328" text="United States Attorney for the Southern District of Florida" TYPE="Preposition" />
+<M id="M2" start="349" end="431" text="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" TYPE="Formulaic" />
+<M id="M3" start="593" end="621" text="United States District Judge" TYPE="PreMod" />
+<M id="M4" start="2372" end="2409" text="the St. Lucie County Sheriff's Office" TYPE="Possessive" />
+<entity_link id="en0" fromID="p1" fromText="Special Agent" toID="p0" toText="Special Agent David Melenkevitz" />
+<entity_link id="en1" fromID="g1" fromText="MIAMI" toID="g0" toText="Miami" />
+<entity_link id="en2" fromID="p5" fromText="Mark R. Trouville" toID="p4" toText="Mark R. Trouville, Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" />
+<entity_link id="en3" fromID="p6" fromText="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" toID="p5" toText="Mark R. Trouville" />
+<entity_link id="en4" fromID="p8" fromText="Wifredo A. Ferrer" toID="p7" toText="Wifredo A. Ferrer, United States Attorney for the Southern District of Florida" />
+<entity_link id="en5" fromID="p9" fromText="United States Attorney for the Southern District of Florida" toID="p8" toText="Wifredo A. Ferrer" />
+<entity_link id="en6" fromID="p11" fromText="Daniel W.Auer" toID="p10" toText="Daniel W.Auer, Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" />
+<entity_link id="en7" fromID="p12" fromText="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" toID="p11" toText="Daniel W.Auer" />
+<entity_link id="en8" fromID="p14" fromText="defendant" toID="p13" toText="defendant Sergio Caro, 37, of Miami-Dade" />
+<entity_link id="en9" fromID="p16" fromText="United States District Judge" toID="p15" toText="United States District Judge Jose E. Martinez" />
+<entity_link id="en10" fromID="g4" fromText="United States" toID="g2" toText="United States" />
+<entity_link id="en11" fromID="p17" fromText="Caro" toID="p13" toText="defendant Sergio Caro, 37, of Miami-Dade" />
+<entity_link id="en12" fromID="p18" fromText="him" toID="p17" toText="Caro" />
+<entity_link id="en13" fromID="p21" fromText="Caro" toID="p17" toText="Caro" />
+<entity_link id="en14" fromID="f4" fromText="those homes" toID="f2" toText="numerous homes in Port St. Lucie" />
+<entity_link id="en15" fromID="p23" fromText="co-defendant" toID="p3" toText="co-defendant Manuel Caro" />
+<entity_link id="en16" fromID="p24" fromText="Manuel Caro" toID="p3" toText="co-defendant Manuel Caro" />
+<entity_link id="en17" fromID="p25" fromText="his" toID="p24" toText="Manuel Caro" />
+<entity_link id="en18" fromID="f5" fromText="marijuana grow house" toID="f6" toText="marijuana growhouse" />
+<entity_link id="en19" fromID="p26" fromText="He" toID="p24" toText="Manuel Caro" />
+<entity_link id="en20" fromID="p27" fromText="a fugitive" toID="p26" toText="He" />
+<entity_link id="en26" fromID="p30" fromText="defendant Hugo Oliva" toID="p28" toText="defendant Hugo Oliva, a mortgage broker" />
+<entity_link id="en27" fromID="p31" fromText="defendant" toID="p30" toText="defendant Hugo Oliva" />
+<entity_link id="en28" fromID="p32" fromText="a mortgage broker" toID="p30" toText="defendant Hugo Oliva" />
+<entity_link id="en29" fromID="o7" fromText="MBA Mortgage Services, Inc." toID="o6" toText="his company, MBA Mortgage Services, Inc." />
+<entity_link id="en30" fromID="p33" fromText="his" toID="p30" toText="defendant Hugo Oliva" />
+<entity_link id="en31" fromID="p35" fromText="his" toID="p30" toText="defendant Hugo Oliva" />
+<entity_link id="en32" fromID="p36" fromText="Sergio Caro" toID="p13" toText="defendant Sergio Caro, 37, of Miami-Dade" />
+<entity_link id="en33" fromID="p38" fromText="mortgage lenders" toID="p19" toText="victim mortgage lenders" />
+<entity_link id="en34" fromID="p39" fromText="The defendants in the mortgage fraud scheme" toID="p37" toText="the defendants" />
+<entity_link id="en35" fromID="f10" fromText="the homes" toID="f8" toText="most of these homes" />
+<entity_link id="en36" fromID="p43" fromText="both of Miami" toID="p40" toText="Two additional co-defendants,  Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" />
+<entity_link id="en37" fromID="g11" fromText="Miami" toID="g1" toText="MIAMI" />
+<entity_link id="en38" fromID="p44" fromText="both defendants" toID="p40" toText="Two additional co-defendants,  Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" />
+<entity_link id="en39" fromID="g12" fromText="St. Lucie County" toID="g8" toText="St. Lucie, Palm Beach, and Miami-Dade Counties" />
+<entity_link id="en24" fromID="g10" fromText="St. Lucie" toID="g9" toText="St. Lucie" />
+<entity_link id="en25" fromID="g13" fromText="Palm Beach" toID="g6" toText="Palm Beach" />
+<entity_link id="en40" fromID="g14" fromText="Miami-Dade" toID="g3" toText="Miami-Dade" />
+<head_link id="he0" fromID="p0" fromText="Special Agent David Melenkevitz" toID="h0" toText="David Melenkevitz" />
+<head_link id="he1" fromID="p1" fromText="Special Agent" toID="h1" toText="Agent" />
+<head_link id="he2" fromID="p2" fromText="Miami Resident Sentenced on Mortgage Fraud Charges" toID="h2" toText="Resident" />
+<head_link id="he3" fromID="g0" fromText="Miami" toID="h3" toText="Miami" />
+<head_link id="he4" fromID="g1" fromText="MIAMI" toID="h4" toText="MIAMI" />
+<head_link id="he5" fromID="p5" fromText="Mark R. Trouville" toID="h5" toText="Mark R. Trouville" />
+<head_link id="he6" fromID="p6" fromText="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" toID="h6" toText="Agent" />
+<head_link id="he9" fromID="p8" fromText="Wifredo A. Ferrer" toID="h9" toText="Wifredo A. Ferrer" />
+<head_link id="he10" fromID="p9" fromText="United States Attorney for the Southern District of Florida" toID="h10" toText="Attorney" />
+<head_link id="he11" fromID="g2" fromText="United States" toID="h11" toText="United States" />
+<head_link id="he12" fromID="o2" fromText="the Southern District of Florida" toID="h12" toText="Southern District of Florida" />
+<head_link id="he13" fromID="p11" fromText="Daniel W.Auer" toID="h13" toText="Daniel W.Auer" />
+<head_link id="he14" fromID="p12" fromText="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" toID="h14" toText="Agent" />
+<head_link id="he17" fromID="p13" fromText="defendant Sergio Caro, 37, of Miami-Dade" toID="h17" toText="Sergio Caro" />
+<head_link id="he18" fromID="p14" fromText="defendant" toID="h18" toText="defendant" />
+<head_link id="he19" fromID="g3" fromText="Miami-Dade" toID="h19" toText="Miami-Dade" />
+<head_link id="he20" fromID="p15" fromText="United States District Judge Jose E. Martinez" toID="h20" toText="Jose E. Martinez" />
+<head_link id="he21" fromID="p16" fromText="United States District Judge" toID="h21" toText="Judge" />
+<head_link id="he23" fromID="o5" fromText="District" toID="h22" toText="District" />
+<head_link id="he24" fromID="g4" fromText="United States" toID="h23" toText="United States" />
+<head_link id="he25" fromID="p17" fromText="Caro" toID="h24" toText="Caro" />
+<head_link id="he26" fromID="f0" fromText="prison" toID="h25" toText="prison" />
+<head_link id="he27" fromID="p18" fromText="him" toID="h26" toText="him" />
+<head_link id="he28" fromID="p19" fromText="victim mortgage lenders" toID="h27" toText="lenders" />
+<head_link id="he29" fromID="p20" fromText="victim" toID="h28" toText="victim" />
+<head_link id="he30" fromID="p21" fromText="Caro" toID="h29" toText="Caro" />
+<head_link id="he31" fromID="p22" fromText="other co-conspirators" toID="h30" toText="co-conspirators" />
+<head_link id="he32" fromID="f1" fromText="houses bought during 2005-2006 in Palm Beach and St. Lucie Counties" toID="h31" toText="houses" />
+<head_link id="he34" fromID="f2" fromText="numerous homes in Port St. Lucie" toID="h34" toText="homes" />
+<head_link id="he35" fromID="g7" fromText="Port St. Lucie" toID="h35" toText="Port St. Lucie" />
+<head_link id="he36" fromID="f3" fromText="many of those homes" toID="h36" toText="many" />
+<head_link id="he37" fromID="f4" fromText="those homes" toID="h37" toText="homes" />
+<head_link id="he38" fromID="p3" fromText="co-defendant Manuel Caro" toID="h38" toText="Manuel Caro" />
+<head_link id="he39" fromID="p23" fromText="co-defendant" toID="h39" toText="co-defendant" />
+<head_link id="he40" fromID="p24" fromText="Manuel Caro" toID="h40" toText="Manuel Caro" />
+<head_link id="he41" fromID="p25" fromText="his" toID="h41" toText="his" />
+<head_link id="he42" fromID="f5" fromText="marijuana grow house" toID="h42" toText="house" />
+<head_link id="he43" fromID="f6" fromText="marijuana growhouse" toID="h43" toText="growhouse" />
+<head_link id="he44" fromID="p26" fromText="He" toID="h44" toText="He" />
+<head_link id="he45" fromID="p27" fromText="a fugitive" toID="h45" toText="fugitive" />
+<head_link id="he46" fromID="f7" fromText="additional marijuana grow houses in St. Lucie, Palm Beach, and Miami-Dade Counties" toID="h46" toText="houses" />
+<head_link id="he50" fromID="f8" fromText="most of these homes" toID="h50" toText="most" />
+<head_link id="he51" fromID="f9" fromText="these homes" toID="h51" toText="homes" />
+<head_link id="he54" fromID="p30" fromText="defendant Hugo Oliva" toID="h52" toText="Hugo Oliva" />
+<head_link id="he55" fromID="p31" fromText="defendant" toID="h53" toText="defendant" />
+<head_link id="he56" fromID="p32" fromText="a mortgage broker" toID="h54" toText="broker" />
+<head_link id="he57" fromID="o6" fromText="his company, MBA Mortgage Services, Inc." toID="h55" toText="company" />
+<head_link id="he58" fromID="o7" fromText="MBA Mortgage Services, Inc." toID="h56" toText="MBA Mortgage Services" />
+<head_link id="he59" fromID="p33" fromText="his" toID="h57" toText="his" />
+<head_link id="he60" fromID="p34" fromText="his co-defendants, including Sergio Caro" toID="h58" toText="co-defendants" />
+<head_link id="he61" fromID="p35" fromText="his" toID="h59" toText="his" />
+<head_link id="he62" fromID="p36" fromText="Sergio Caro" toID="h60" toText="Sergio Caro" />
+<head_link id="he63" fromID="p37" fromText="the defendants" toID="h61" toText="defendants" />
+<head_link id="he64" fromID="p38" fromText="mortgage lenders" toID="h62" toText="lenders" />
+<head_link id="he65" fromID="p39" fromText="The defendants in the mortgage fraud scheme" toID="h63" toText="defendants" />
+<head_link id="he66" fromID="f10" fromText="the homes" toID="h64" toText="homes" />
+<head_link id="he67" fromID="p40" fromText="Two additional co-defendants,  Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" toID="h65" toText="co-defendants" />
+<head_link id="he68" fromID="p41" fromText="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" toID="h66" toText="Ilan Reyes" />
+<head_link id="he69" fromID="p42" fromText="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" toID="h67" toText="Orlando Dominguez" />
+<head_link id="he70" fromID="p43" fromText="both of Miami" toID="h68" toText="both" />
+<head_link id="he71" fromID="g11" fromText="Miami" toID="h69" toText="Miami" />
+<head_link id="he72" fromID="p44" fromText="both defendants" toID="h70" toText="defendants" />
+<head_link id="he73" fromID="o8" fromText="The Port St. Lucie Police Department" toID="h71" toText="Port St. Lucie Police Department" />
+<head_link id="he74" fromID="o9" fromText="the St. Lucie County Sheriff's Office" toID="h72" toText="Office" />
+<head_link id="he75" fromID="p45" fromText="the St. Lucie County Sheriff" toID="h73" toText="Sheriff" />
+<head_link id="he76" fromID="g12" fromText="St. Lucie County" toID="h74" toText="St. Lucie County" />
+<head_link id="he77" fromID="o10" fromText="the U.S. Marshals Service" toID="h75" toText="U.S. Marshals Service" />
+<head_link id="he52" fromID="o0" fromText="Drug Enforcement Administration, Miami Field Division" toID="h8" toText="Miami Field Division" />
+<head_link id="he53" fromID="o1" fromText="Drug Enforcement Administration" toID="h7" toText="Drug Enforcement Administration" />
+<head_link id="he78" fromID="o3" fromText="Internal Revenue Service, Criminal Investigation Division" toID="h16" toText="Criminal Investigation Division" />
+<head_link id="he79" fromID="o4" fromText="Internal Revenue Service" toID="h15" toText="Internal Revenue Service" />
+<head_link id="he80" fromID="g5" fromText="Palm Beach and St. Lucie Counties" toID="h32" toText="Counties" />
+<head_link id="he81" fromID="g8" fromText="St. Lucie, Palm Beach, and Miami-Dade Counties" toID="h33" toText="Counties" />
+<head_link id="he82" fromID="g6" fromText="Palm Beach" toID="h47" toText="Palm Beach" />
+<head_link id="he83" fromID="g9" fromText="St. Lucie" toID="h48" toText="St. Lucie" />
+<head_link id="he84" fromID="g10" fromText="St. Lucie" toID="h49" toText="St. Lucie" />
+<head_link id="he85" fromID="g13" fromText="Palm Beach" toID="h76" toText="Palm Beach" />
+<head_link id="he86" fromID="g14" fromText="Miami-Dade" toID="h77" toText="Miami-Dade" />
+<name_link id="na0" fromID="p0" fromText="Special Agent David Melenkevitz" toID="n0" toText="David Melenkevitz" />
+<name_link id="na1" fromID="g0" fromText="Miami" toID="n1" toText="Miami" />
+<name_link id="na2" fromID="g1" fromText="MIAMI" toID="n2" toText="MIAMI" />
+<name_link id="na3" fromID="p5" fromText="Mark R. Trouville" toID="n3" toText="Mark R. Trouville" />
+<name_link id="na6" fromID="p8" fromText="Wifredo A. Ferrer" toID="n6" toText="Wifredo A. Ferrer" />
+<name_link id="na7" fromID="g2" fromText="United States" toID="n7" toText="United States" />
+<name_link id="na8" fromID="o2" fromText="the Southern District of Florida" toID="n8" toText="Southern District of Florida" />
+<name_link id="na9" fromID="p11" fromText="Daniel W.Auer" toID="n9" toText="Daniel W.Auer" />
+<name_link id="na12" fromID="p13" fromText="defendant Sergio Caro, 37, of Miami-Dade" toID="n12" toText="Sergio Caro" />
+<name_link id="na13" fromID="g3" fromText="Miami-Dade" toID="n13" toText="Miami-Dade" />
+<name_link id="na14" fromID="p15" fromText="United States District Judge Jose E. Martinez" toID="n14" toText="Jose E. Martinez" />
+<name_link id="na15" fromID="g4" fromText="United States" toID="n15" toText="United States" />
+<name_link id="na16" fromID="p17" fromText="Caro" toID="n16" toText="Caro" />
+<name_link id="na17" fromID="p21" fromText="Caro" toID="n17" toText="Caro" />
+<name_link id="na20" fromID="g7" fromText="Port St. Lucie" toID="n20" toText="Port St. Lucie" />
+<name_link id="na21" fromID="p3" fromText="co-defendant Manuel Caro" toID="n21" toText="Manuel Caro" />
+<name_link id="na22" fromID="p24" fromText="Manuel Caro" toID="n22" toText="Manuel Caro" />
+<name_link id="na27" fromID="p30" fromText="defendant Hugo Oliva" toID="n26" toText="Hugo Oliva" />
+<name_link id="na28" fromID="o7" fromText="MBA Mortgage Services, Inc." toID="n27" toText="MBA Mortgage Services" />
+<name_link id="na29" fromID="p36" fromText="Sergio Caro" toID="n28" toText="Sergio Caro" />
+<name_link id="na30" fromID="p41" fromText="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" toID="n29" toText="Ilan Reyes" />
+<name_link id="na31" fromID="p42" fromText="Ilan Reyes,  37, and  Orlando Dominguez , 44, both of Miami" toID="n30" toText="Orlando Dominguez" />
+<name_link id="na32" fromID="g11" fromText="Miami" toID="n31" toText="Miami" />
+<name_link id="na33" fromID="o8" fromText="The Port St. Lucie Police Department" toID="n32" toText="Port St. Lucie Police Department" />
+<name_link id="na34" fromID="g12" fromText="St. Lucie County" toID="n33" toText="St. Lucie County" />
+<name_link id="na35" fromID="o10" fromText="the U.S. Marshals Service" toID="n34" toText="U.S. Marshals Service" />
+<name_link id="na26" fromID="o0" fromText="Drug Enforcement Administration, Miami Field Division" toID="n5" toText="Miami Field Division" />
+<name_link id="na36" fromID="o1" fromText="Drug Enforcement Administration" toID="n4" toText="Drug Enforcement Administration" />
+<name_link id="na37" fromID="o3" fromText="Internal Revenue Service, Criminal Investigation Division" toID="n11" toText="Criminal Investigation Division" />
+<name_link id="na38" fromID="o4" fromText="Internal Revenue Service" toID="n10" toText="Internal Revenue Service" />
+<name_link id="na39" fromID="g6" fromText="Palm Beach" toID="n18" toText="Palm Beach" />
+<name_link id="na40" fromID="g9" fromText="St. Lucie" toID="n19" toText="St. Lucie" />
+<name_link id="na41" fromID="g10" fromText="St. Lucie" toID="n23" toText="St. Lucie" />
+<name_link id="na42" fromID="g13" fromText="Palm Beach" toID="n24" toText="Palm Beach" />
+<name_link id="na43" fromID="g14" fromText="Miami-Dade" toID="n25" toText="Miami-Dade" />
+<relation_link1 id="r0" fromID="C0" fromText="Miami Resident Sentenced on Mortgage Fraud Charges" toID="p2" toText="Miami Resident Sentenced on Mortgage Fraud Charges" />
+<relation_link1 id="r1" fromID="M0" fromText="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" toID="p6" toText="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" />
+<relation_link1 id="r2" fromID="e0" fromText="United States Attorney for the Southern District of Florida" toID="p9" toText="United States Attorney for the Southern District of Florida" />
+<relation_link1 id="r3" fromID="M1" fromText="United States Attorney for the Southern District of Florida" toID="p9" toText="United States Attorney for the Southern District of Florida" />
+<relation_link1 id="r4" fromID="M2" fromText="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" toID="p12" toText="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" />
+<relation_link1 id="r5" fromID="C1" fromText="defendant Sergio Caro, 37, of Miami-Dade" toID="p13" toText="defendant Sergio Caro, 37, of Miami-Dade" />
+<relation_link1 id="r6" fromID="M3" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r7" fromID="e1" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r8" fromID="lo0" fromText="During the investigation, many of those homes were linked to co-defendant Manuel Caro" toID="p3" toText="co-defendant Manuel Caro" />
+<relation_link1 id="r9" fromID="e2" fromText="his company, MBA Mortgage Services, Inc." toID="p33" toText="his" />
+<relation_link1 id="r10" fromID="C2" fromText="both of Miami" toID="p43" toText="both of Miami" />
+<relation_link1 id="r11" fromID="e3" fromText="the St. Lucie County Sheriff" toID="p45" toText="the St. Lucie County Sheriff" />
+<relation_link1 id="r12" fromID="M4" fromText="the St. Lucie County Sheriff's Office" toID="p45" toText="the St. Lucie County Sheriff" />
+<relation_link2 id="re0" fromID="C0" fromText="Miami Resident Sentenced on Mortgage Fraud Charges" toID="g0" toText="Miami" />
+<relation_link2 id="re1" fromID="M0" fromText="Special Agent in Charge, Drug Enforcement Administration, Miami Field Division" toID="o0" toText="Drug Enforcement Administration, Miami Field Division" />
+<relation_link2 id="re2" fromID="e0" fromText="United States Attorney for the Southern District of Florida" toID="g2" toText="United States" />
+<relation_link2 id="re3" fromID="M1" fromText="United States Attorney for the Southern District of Florida" toID="o2" toText="the Southern District of Florida" />
+<relation_link2 id="re4" fromID="M2" fromText="Special Agent in Charge, Internal Revenue Service, Criminal Investigation Division" toID="o3" toText="Internal Revenue Service, Criminal Investigation Division" />
+<relation_link2 id="re5" fromID="C1" fromText="defendant Sergio Caro, 37, of Miami-Dade" toID="g3" toText="Miami-Dade" />
+<relation_link2 id="re6" fromID="M3" fromText="United States District Judge" toID="o5" toText="District" />
+<relation_link2 id="re7" fromID="e1" fromText="United States District Judge" toID="g4" toText="United States" />
+<relation_link2 id="re8" fromID="lo0" fromText="During the investigation, many of those homes were linked to co-defendant Manuel Caro" toID="f3" toText="many of those homes" />
+<relation_link2 id="re9" fromID="e2" fromText="his company, MBA Mortgage Services, Inc." toID="o6" toText="his company, MBA Mortgage Services, Inc." />
+<relation_link2 id="re10" fromID="C2" fromText="both of Miami" toID="g11" toText="Miami" />
+<relation_link2 id="re11" fromID="e3" fromText="the St. Lucie County Sheriff" toID="g12" toText="St. Lucie County" />
+<relation_link2 id="re12" fromID="M4" fromText="the St. Lucie County Sheriff's Office" toID="o9" toText="the St. Lucie County Sheriff's Office" />
+</TAGS>
+</KddTask>

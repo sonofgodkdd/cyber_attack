@@ -1,0 +1,18 @@
+BitTorrent Forum Hacked; Change your Password Immediately
+Mohit Kumar
+
+If you are a torrent lover and have registered on BitTorrent community forum website, then you may have had your personal details compromised, along with your hashed passwords.
+The BitTorrent team has announced that its community forums have been hacked, which exposed private information of hundreds of thousands of its users.
+As of now, BitTorrent is the most visited torrent client around the world with more than 150 Million monthly active users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, BitTorrent also has a dedicated community forum that has over hundreds of thousands of registered members with tens of thousands of daily visitors.
+A recent security alert by the team says the forum database has been compromised by hackers who were able to get their hands on its users’ passwords, warning its users to update their passwords as soon as possible.
+The vulnerability is believed to be originated at one of its vendors, who alerted the BitTorrent team about the issue earlier this week.
+"The vulnerability appears to have been through one of the vendor’s other clients. However, it allowed attackers to access some information on other accounts," μTorrent forum writes "As a result, attackers were able to download a list of our forum users."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+BitTorrent and other torrent forums are also using Invision Power Board software and if the unnamed vendor in question is Invision Power Services Inc., then hundreds of popular discussion forums might have also been affected.
+The team is also investigating further to learn if any other information of its users was accessed.
+Security researcher Troy Hunt somehow got access to the stolen database and which he has already been uploaded to his Data breach Notification Site: Have I Been Pwned, which includes 34,000 BitTorrent Forum users' email addresses, usernames, IP addresses, and salted SHA1 hashed passwords.
+All users are strongly advised to change their forum passwords as well as passwords for other sites, in case they are using identical to the one used on the forum.
+Update: μTorrent forum not hacked. I mistakenly named μTorrent previously, instead of BitTorrent. As soon as we realized it, I have updated this article with correct information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

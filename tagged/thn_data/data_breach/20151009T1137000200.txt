@@ -1,0 +1,33 @@
+Samsung LoopPay Hacked, but 'Samsung Pay' is Safe
+Khyati Jain
+
+Samsung has been surrounded by a lot of controversies since the past few years, but that has not influenced its productivity.
+But this report has raised a few eyebrows...
+Samsung's mobile payment system company, LoopPay, was hacked back in March this year, just a month after Samsung bought it to help make Samsung Pay a reality. 
+Samsung acquired LoopPay for more than $250 Million in February this year, and a group of Chinese Hackers were able to access LoopPay computer systems in March.
+The most worrisome part is – the hack was discovered 5 months later in August. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers were After Technology; Not Money or Sensitive Data 
+The hackers, believed to be from a group called 'Codoso Group' or 'Sunshock Group,' were after the company's Magnetic Secure Transmission (MST) Technology.
+The group injected LoopPay's computer network with a hidden sophisticated attack in March, but the investigation kicked off when LoopPay learned of the breach in late August.
+During the investigation the two private forensics teams appointed by LoopPay discovered several facts about the Codoso Group which revealed:
+The hackers broke into LoopPay's corporate network, but not the production system that helps manage payments.
+It seems the hackers were after the MST technology, which is the key part of the Samsung Pay mobile payment system that made its public debut in the US last week.
+So, there is less possibility of leaking user credentials online. 
+Samsung Pay and the MST Technology
+Samsung Pay is a similar method of mobile payment which is earlier adopted by Apple (Apple Pay) and Google (Android Wallet), allowing consumers to pay for products using their smartphones with Near-Field Communications (NFC) technology.
+While most tap-and-pay mobile wallets need a point-of-sale system with NFC capabilities, LoopPay's MST technology gives an advantage to Samsung Pay by:
+Supporting older payment systems by emulating a commonly used magnetic stripe card.
+With its reach on limited Samsung smartphones, MST works with 90% of legacy terminals in use by the United States retailers. 
+LoopPay Hacked! But Samsung Pay Not Affected
+Samsung said that Samsung Pay was not affected by the LoopPay hack and that no user data was compromised. 
+In a statement, Samsung's chief privacy officer Darlene Cedres said, "Samsung Pay was not impacted and at no point was any personal payment information at risk. This was an isolated incident that targeted the LoopPay corporate network, which is a physically separate network from Samsung Pay."
+Adding more to it, Will Graylin, LoopPay's chief executive and co-general manager of Samsung Pay told that they have not filed a lawsuit at present, but…
+...if the Codoso Group would ever misuse the information against Samsung Pay or make a Copycat product, LoopPay could file a patent lawsuit.
+Codoso Group creates Havoc when they arrive!
+LoopPay is not their first victim; previously the Chinese Government-affiliated hacking group has launched attacks on Forbes.com in February and conquered security of many other entities.
+In other cases, investigators and security experts have established the Modus Operandi of the Codoso Group, which reveal that the group plans their attack with an everlasting effect, as in they are famous for...
+Planting hidden backdoors across victims' systems so that they continue to spread their virus long after the initial breach. 
+It is like the Codoso group spreads the infection across the systems and secure and separate their hideout.   
+However, the investigation is still going in this case. Further, the experts say that it takes a longer period to recover from such attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+Tor-enabled Point-of-Sale malware 'ChewBacca' stole Credit Card data from 11 Countries
+Swati Khandelwal
+
+After the massive data breaches at U.S retailers Target and Neiman Marcus in which financial credentials of more than 110 million and 1.1 million customers were compromised respectively, shows that the Point of Sale (POS) system has become a new target for the cyber criminals.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Despite the BlackPOS malware of Point of Sale (POS) system that  comes out as the major cause of these data breaches, malware writers are upgrading and developing more Trojans to target POS system.
+In December, the security researchers at anti-virus firm Kaspersky Lab discovered a Tor-based banking trojan, dubbed "ChewBacca", that was initially categorized as a Financial trojan, but recently security researchers at  RSA have uncovered that 'ChewBacca' is also capable of stealing  credit card details from point of sale systems.
+‘ChewBacca’, a relatively new and private Trojan, used in the 11 countries as a POS malware is behind the electronic theft. ChewBacca communicates with its C&C (Command and Control) server over the Tor network obscuring the IP addresses of parties.
+ChewBacca steals data from the POS system in two ways:
+Generic keylogger that captures all the keystrokes.
+Memory scanner that reads process memory and dumps the credit card details.
+The botnet has been collecting track 1 and track 2 data of payment card since October 25, according to RSA.
+During installation, ChewBacca creates a copy of itself as a file named “spoolsv.exe“and place it in the windows Start > Startup folder, so that it can automatically start-up at the login time. 
+After installation, the keylogger program creates a log file called “system.log” inside the system %temp% folder that contains the keystroke events along with the window focus changes.
+“The ChewBacca Trojan appears to be a simple piece of malware that, despite its lack of sophistication and defense mechanisms, succeeded in stealing payment card information from several dozen retailers around the world in a little more than two months.”
+Neither the RSA nor the Kaspersky descriptions explain how the ChewBacca bot is propagated, but the RSA investigation has observed it mostly in the US and also detected in 10 other countries, including Russia, Canada and Australia.
+The RSA has provided the data to the FBI on the ChewBacca operation, including the location of a command-and-control server used by the hackers.
+They advised retailers to increase staffing levels and develop leading-edge capabilities to detect and stop attackers (comprehensive monitoring and incident response), encrypt or tokenize data at the point of capture and ensure that it is not in plain text view on their networks, thereby shifting the risk and burden of protection to the card issuers and their payment processors.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

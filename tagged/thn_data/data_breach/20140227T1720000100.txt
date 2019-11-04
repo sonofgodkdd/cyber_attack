@@ -1,0 +1,17 @@
+360 Million Stolen Credential FOR SALE on Underground Black Market
+Swati Khandelwal
+
+Your Financial Credentials are on SALE on the Underground Black Market without your Knowledge… sounds like a nightmare, but it’s TRUE.
+Cyber security firm, Hold Security, said it has traced over 360 million stolen account credentials that are available for Sale on Hacker's black market websites over past three weeks. The credentials include usernames, email addresses, and passwords that are in unencrypted in most cases, according to the report released on Tuesday.
+It is not known till now from where these credentials exactly were stolen, but the security researchers estimated that these credentials are a result of multiple breaches. Since the banking credentials are one of the most ‘valuable bounties’ for the cyber criminals, and the ways to steal these credentials can be directly from the companies and from the services in which users entrust data as well.
+According to Hold Security, in addition to the sale of 360 million credentials, the cyber criminals are selling about 1.25 billion email addresses, which would be of an interest to the spammers.
+Alex Holden, chief information security officer at Hold Security, told Reuters, “E-mail addresses in the credentials are from all major services, including Gmail and Yahoo, and almost all Fortune 500 companies and nonprofit organizations,” and that his company is working to discover where the credentials came from and what they can access.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The sale of this tremendous number of users’ credentials in the underground market can risk consumers and companies, because these wide ranges of compromised users’ credentials could access anything from online bank accounts to corporate networks.
+"The sheer volume is overwhelming," Holden told Reuters, adding, “He believes the 360 million records were obtained in separate attacks, including one that yielded some 105 million records, which would make it the largest single credential breaches known to date.”
+Hold security is the one, which uncovered the ever big Adobe breach in October 2013, in which 153 million users' credentials, including user names and passwords were stolen from Adobe system, and a month later identified another large breach of 42 million plain-text password credentials from a niche dating service Cupid Media.
+There is no way out to secure yourself from these types of attacks because cyber criminals are trying to heist your money every second of time and by using the same password for multiple accounts, you yourself give them an open invitation.
+You can reduce the risk of these attacks by choosing different passwords for different accounts, as the risks are more for the users who choose the same password for multiple services they adopt, because once an attacker has your single account’s email address and password, he can use those credentials to compromise your every other sites account that uses the same username and password.
+Only the best practical way to do that is with a best password manager. If you aren't using a password manager, you need to start now, like LastPass, KeePass, RoboForm Desktop 7, PasswordBox, and Dashlane 2.0.
+Stay Safe! Stay Secure! Stay Tuned!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

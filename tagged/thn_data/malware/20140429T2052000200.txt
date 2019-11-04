@@ -1,0 +1,21 @@
+AOL Hit by Massive Data Breach, Urges Users to Change Passwords
+Wang Wei
+
+If you are a user of the American On-Line (AOL) mail service then you are advised to change your password as soon as possible.
+AOL Inc. on Monday confirmed the company suffered a massive data breach that may have affected a "significant number" of email accounts.
+The company has issued a warning to users that their personal information including email addresses, postal addresses, address books, encrypted passwords and the encrypted answers to security question-answers, has been stolen by attackers, the New York-based company said Monday.
+"The ongoing investigation of this serious criminal activity is our top priority," AOL said in a blog post. "We are working closely with federal authorities to pursue this investigation to its resolution. Our security team has put enhanced protective measures in place, and we urge our users to take proactive steps to help ensure the security of their accounts."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+AOL said it began investigating the matter after it noticed a spike in spoofed emails from AOL user accounts. The company believes that hackers used the contact information to send spoofed emails that appear to come from roughly 2 percent of its email accounts.
+"Spoofed" emails are kind of phishing emails or messages that masquerade itself as if they have come from legitimate user accounts known to the recipient in order to trick the recipient into opening it, but in real are the links to malicious websites or malware.
+The company believes that neither the financial data of users such as credit and debit cards number, nor the passwords or the answer to the security questions has been revealed as the hackers weren’t be able to break the encryption.
+"Importantly, we have no indication that the encryption on the passwords or the answers to security questions was broken," AOL wrote. "In addition, at this point in the investigation, there is no indication that this incident resulted in disclosure of users' financial information, including debit and credit cards, which is also fully encrypted."
+Nevertheless, AOL suggests all its users to reset their passwords and also change their security questions and answers in order to protect themselves from such breaches.
+"Although there is no indication that the encryption on the passwords or answers to security questions was broken, as a precautionary measure, we nevertheless strongly encourage our users and employees to reset their passwords used for any AOL service and, when doing so, also to change their security question and answer," AOL said.
+In addition, it also provided some steps to protect its users from cyber threats:
+Do not click on any suspicious links or attachments in the email you received.
+When in doubt, contact the sender to confirm that he or she actually sent the email to you or not.
+Never provide your personal or financial information through an email to someone you do not know.
+AOL will never ask you for your password or any other sensitive personal information over an email.
+If you found yourself a victim of spoofing, inform your friends that your emails may have been spoofed and warn them to avoid clicking the links in suspicious emails.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

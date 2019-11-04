@@ -1,0 +1,12 @@
+BIOS Malware that can remotely destroy any computer, NSA claimed
+Wang Wei
+During a CBS Interview show "60 Minutes", The National Security Agency (NSA) officials claimed that China has developed a BIOS based malware that can remotely destroy any computer.
+Obviously NSA is struggling to repair its image and in an effort to justify their extensive Surveillance programs, The NSA Director General Keith Alexander and Information Assurance Director Debora Plunkett made a number of claims.  (adsbygoogle = window.adsbygoogle || []).push({}); During that interview NSA officials said that they had foiled a malware attack that could have taken down the U.S. economy.
+"One of our analysts actually saw that the nation state had the intention to develop and to deliver, to actually use this capability to destroy computers," Plunkett said.
+They have mentioned that this malware was distributed via social engineering and targeted emails, although the NSA director mentioned that their researchers worked with computer manufacturers and able to close the respective vulnerability.
+"This is the BIOS system which starts most computers. The attack would have been disguised as a request for a software update. If the user agreed, the virus would've infected the computer." he added.
+"Think about the impact of that across the entire globe. It could literally take down the U.S. economy." (BULLSHIT)
+If this Malware was intentionally born to threat U.S Economy, then what about DNS Changer malware or Zeus banking Trojan or infomous CryptoLocker ransomware that extensively spread across USA? So, Why NSA's Surveillance programs are failed to defend us from similar known threats ?
+ Complete Interview Video:
+The BIOS malware is not new in the cyber world, and really not a big threat, but if NSA seriously justifying their Surveillance program by saying that this so called BIOS malware was one of the biggest threat they has taken down, then LET ME LAUGH. (Score Card = Snowden : 3, NSA: 0)
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

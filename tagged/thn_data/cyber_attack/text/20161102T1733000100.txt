@@ -1,0 +1,16 @@
+19-Year-Old Teenage Hacker Behind DDoS-for-Hire Service Pleads Guilty
+Wang Wei
+
+Due to the worldwide promotion of Mirai botnet that knocked down half of the Internet last Friday, hackers and even script kiddies have started creating their own botnet networks by hacking millions of IoT devices and selling them as DDoS-for-hire service to overwhelm targets with data.
+A 19-year-old student from Hertford has pled guilty to running one such DDoS-for-hire service that shortly became one of the most popular DDoS booter tools in the market to conduct distributed denial of service (DDoS) attacks.
+Dubbed Titanium Stresser, the tool was used to conduct coordinated DDoS attacks around the world and brought Adam Mudd an income of more than US$385,000 (£315,000 A$505,000), according to the Eastern Region Special Operations Unit (ERSOU).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On 28 October at the Old Bailey, Mudd pleaded guilty to two counts of the Computer Misuse Act and one count of money laundering offense and will be sentenced in December.
+Mudd, who was arrested at his home in 2015, admitted to committing unauthorized acts of creating the DDoS service, using it himself, and then renting it to other cyber criminals through the service's website.
+Prosecutor Jonathan Polnay says the teenager allegedly launched 592 DDoS attacks against 181 IP addresses between December 2013 and March last year.
+"Titanium Stresser is a computer program created by the defendant, and it is not an unimpressive piece of software in terms of design," Polnay told the court. "It carried out DDoS attacks, and it takes down computer networks and websites."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, from the detailed logs authorities discovered in his home, investigators were able to determine that other criminals had used Titanium Stresser to launch a whopping 1.7 Million DDoS attacks on targets worldwide.
+It has also been believed that the infamous Lizard Squad gang used the source code of  Titanium Stresser as a base for its Lizard Stresser -- another DDoS-for-hire service most famously used to take down the PlayStation and Xbox Live networks in 2014.
+Mudd is scheduled to be sentenced in December 2016.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

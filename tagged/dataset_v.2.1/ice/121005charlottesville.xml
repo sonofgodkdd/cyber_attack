@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+October 5, 2012
+ICE deports Mexican murder suspect captured in Charlottesville
+CHARLOTTESVILLE, Va. - A Mexican murder suspect captured in Charlottesville, Va., was removed from the United States late Friday and turned over to Mexican law enforcement officials by officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO).
+Alfredo Santana Miranda, 40, is wanted on anoutstanding arrest warrant
+ in Mexico for the murder of Alcindo Roman Roman on Feb. 12, 2006.
+Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle. He was removed by U.S Customs and Border Protection (CBP) officers the same day. He then reentered the United States illegally on an unknown date.
+ICE officers in Virginia received a tip about Miranda's whereabouts and confirmation from the Mexican Attorney General's Office (Procuradura General de la Repblica) of the active murder warrant.
+Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense.
+"Criminals who seek to escape responsibility for their actions by fleeing to the United States will find no sanctuary in our communities," said M. Yvonne Evans, field office director for ERO Washington. "As this case makes clear, U.S. law enforcement agencies are working closely together to promote public safety and hold criminals accountable - no matter where they commit their crimes."
+Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials. Prior to his removal, Miranda was being held in ICE custody at the Hampton Roads Regional Jail in Portsmouth, Va.
+Since Oct. 1, 2009, ERO has removed more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder. ERO works with ICE's Office of International Affairs, foreign consular offices in the United States, and Interpol to identify foreign fugitives illegally present in the country.PreviousNext
+]]></TEXT>
+<TAGS>
+<person id="p0" start="29" end="79" text="Mexican murder suspect captured in Charlottesville" TYPE="BAR" />
+<person id="p1" start="103" end="160" text="A Mexican murder suspect captured in Charlottesville, Va." TYPE="NOM" />
+<person id="p2" start="228" end="261" text="Mexican law enforcement officials" TYPE="BAR" />
+<person id="p3" start="265" end="367" text="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="BAR" />
+<person id="p4" start="370" end="397" text="Alfredo Santana Miranda, 40" TYPE="NAM" />
+<person id="p5" start="470" end="489" text="Alcindo Roman Roman" TYPE="NAM" />
+<person id="p6" start="545" end="552" text="Miranda" TYPE="NAM" />
+<person id="p7" start="712" end="714" text="He" TYPE="PRO" />
+<person id="p8" start="730" end="778" text="U.S Customs and Border Protection (CBP) officers" TYPE="BAR" />
+<person id="p9" start="793" end="795" text="He" TYPE="PRO" />
+<person id="p10" start="859" end="883" text="ICE officers in Virginia" TYPE="BAR" />
+<person id="p11" start="905" end="912" text="Miranda" TYPE="NAM" />
+<person id="p12" start="949" end="977" text="the Mexican Attorney General" TYPE="NOM" />
+<person id="p13" start="961" end="969" text="Attorney" TYPE="NOMPRE" />
+<person id="p14" start="1054" end="1061" text="Miranda" TYPE="NAM" />
+<person id="p15" start="1105" end="1108" text="his" TYPE="PRO" />
+<person id="p16" start="1162" end="1228" text="ICE's fugitive operations teams based in Richmond and Fairfax, Va." TYPE="NOM" />
+<person id="p17" start="1168" end="1176" text="fugitive" TYPE="NOMPRE" />
+<person id="p18" start="1305" end="1398" text="Criminals who seek to escape responsibility for their actions by fleeing to the United States" TYPE="BAR" />
+<person id="p19" start="1315" end="1318" text="who" TYPE="WHQ" />
+<person id="p20" start="1353" end="1358" text="their" TYPE="PRO" />
+<person id="p21" start="1448" end="1505" text="M. Yvonne Evans, field office director for ERO Washington" TYPE="APP" />
+<person id="p22" start="1448" end="1463" text="M. Yvonne Evans" TYPE="NAM" />
+<person id="p23" start="1465" end="1505" text="field office director for ERO Washington" TYPE="BAR" />
+<person id="p24" start="1627" end="1636" text="criminals" TYPE="BAR" />
+<person id="p25" start="1667" end="1671" text="they" TYPE="PRO" />
+<person id="p26" start="1679" end="1684" text="their" TYPE="PRO" />
+<person id="p27" start="1694" end="1701" text="Miranda" TYPE="NAM" />
+<person id="p28" start="1812" end="1851" text="ERO San Antonio's special response team" TYPE="NOM" />
+<person id="p29" start="1931" end="1933" text="he" TYPE="PRO" />
+<person id="p30" start="1968" end="2001" text="Mexican law enforcement officials" TYPE="BAR" />
+<person id="p31" start="2012" end="2015" text="his" TYPE="PRO" />
+<person id="p32" start="2025" end="2032" text="Miranda" TYPE="NAM" />
+<person id="p33" start="2153" end="2313" text="more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" TYPE="NOM" />
+<person id="p34" start="2208" end="2211" text="who" TYPE="WHQ" />
+<person id="p35" start="2233" end="2238" text="their" TYPE="PRO" />
+<person id="p36" start="2441" end="2491" text="foreign fugitives illegally present in the country" TYPE="BAR" />
+<organization id="o0" start="17" end="20" text="ICE" TYPE="NAM" />
+<organization id="o1" start="279" end="367" text="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="NAM" />
+<organization id="o2" start="364" end="367" text="ERO" TYPE="NAM" />
+<organization id="o3" start="279" end="326" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="323" end="326" text="ICE" TYPE="NAM" />
+<organization id="o5" start="730" end="768" text="U.S Customs and Border Protection (CBP" TYPE="NAMPRE" />
+<organization id="o6" start="765" end="768" text="CBP" TYPE="NAM" />
+<organization id="o7" start="859" end="862" text="ICE" TYPE="NAMPRE" />
+<organization id="o8" start="949" end="1022" text="the Mexican Attorney General's Office (Procuradura General de la Repblica" TYPE="NOM" />
+<organization id="o9" start="1162" end="1165" text="ICE" TYPE="NAM" />
+<organization id="o10" start="1491" end="1505" text="ERO Washington" TYPE="NAM" />
+<organization id="o11" start="1465" end="1477" text="field office" TYPE="NOMPRE" />
+<organization id="o12" start="1534" end="1563" text="U.S. law enforcement agencies" TYPE="BAR" />
+<organization id="o13" start="1719" end="1722" text="ICE" TYPE="NAMPRE" />
+<organization id="o14" start="1812" end="1827" text="ERO San Antonio" TYPE="NAM" />
+<organization id="o15" start="2051" end="2054" text="ICE" TYPE="NAMPRE" />
+<organization id="o16" start="2137" end="2140" text="ERO" TYPE="NAM" />
+<organization id="o17" start="2315" end="2318" text="ERO" TYPE="NAM" />
+<organization id="o18" start="2330" end="2367" text="ICE's Office of International Affairs" TYPE="NAM" />
+<organization id="o19" start="2330" end="2333" text="ICE" TYPE="NAM" />
+<organization id="o20" start="2369" end="2414" text="foreign consular offices in the United States" TYPE="BAR" />
+<organization id="o21" start="2420" end="2428" text="Interpol" TYPE="NAM" />
+<geographical-political id="g0" start="29" end="36" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g1" start="64" end="79" text="Charlottesville" TYPE="NAM" />
+<geographical-political id="g2" start="80" end="99" text="CHARLOTTESVILLE, Va" TYPE="NAM" />
+<geographical-political id="g3" start="97" end="99" text="Va" TYPE="NAM" />
+<geographical-political id="g4" start="105" end="112" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g5" start="140" end="160" text="Charlottesville, Va." TYPE="NAM" />
+<geographical-political id="g6" start="157" end="160" text="Va." TYPE="NAM" />
+<geographical-political id="g7" start="179" end="196" text="the United States" TYPE="NAM" />
+<geographical-political id="g8" start="228" end="235" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g9" start="445" end="451" text="Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="596" end="613" text="the United States" TYPE="NAM" />
+<geographical-political id="g11" start="619" end="625" text="Mexico" TYPE="NAM" />
+<geographical-political id="g12" start="811" end="828" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="875" end="883" text="Virginia" TYPE="NAM" />
+<geographical-political id="g14" start="953" end="960" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1143" end="1158" text="Charlottesville" TYPE="NAM" />
+<geographical-political id="g16" start="1203" end="1228" text="Richmond and Fairfax, Va." TYPE="NAM" />
+<geographical-political id="g17" start="1203" end="1228" text="Richmond and Fairfax, Va." TYPE="NAM" />
+<geographical-political id="g18" start="1225" end="1228" text="Va." TYPE="NAM" />
+<geographical-political id="g19" start="1255" end="1266" text="the country" TYPE="NOM" />
+<geographical-political id="g20" start="1381" end="1398" text="the United States" TYPE="NAM" />
+<geographical-political id="g21" start="1425" end="1440" text="our communities" TYPE="NOM" />
+<geographical-political id="g22" start="1425" end="1428" text="our" TYPE="PRO" />
+<geographical-political id="g23" start="1534" end="1538" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g24" start="1773" end="1789" text="Harlingen, Texas" TYPE="NAM" />
+<geographical-political id="g25" start="1784" end="1789" text="Texas" TYPE="NAM" />
+<geographical-political id="g26" start="1905" end="1923" text="Brownsville, Texas" TYPE="NAM" />
+<geographical-political id="g27" start="1918" end="1923" text="Texas" TYPE="NAM" />
+<geographical-political id="g28" start="1968" end="1975" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g29" start="2101" end="2115" text="Portsmouth, Va" TYPE="NAM" />
+<geographical-political id="g30" start="2113" end="2115" text="Va" TYPE="NAM" />
+<geographical-political id="g31" start="2190" end="2207" text="the United States" TYPE="NAM" />
+<geographical-political id="g32" start="2233" end="2255" text="their native countries" TYPE="NOM" />
+<geographical-political id="g33" start="2397" end="2414" text="the United States" TYPE="NAM" />
+<geographical-political id="g34" start="2480" end="2491" text="the country" TYPE="NOM" />
+<falicity id="f0" start="634" end="662" text="the San Ysidro Port of Entry" TYPE="NAM" />
+<falicity id="f1" start="1132" end="1158" text="a hotel in Charlottesville" TYPE="NOM" />
+<falicity id="f2" start="1741" end="1789" text="Valley International Airport in Harlingen, Texas" TYPE="NAM" />
+<falicity id="f5" start="1855" end="2001" text="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="NAM" />
+<falicity id="f6" start="1925" end="1930" text="where" TYPE="WHQ" />
+<falicity id="f7" start="2066" end="2115" text="the Hampton Roads Regional Jail in Portsmouth, Va" TYPE="NAM" />
+<head id="h0" start="17" end="20" text="ICE" />
+<head id="h1" start="44" end="51" text="suspect" />
+<head id="h2" start="29" end="36" text="Mexican" />
+<head id="h3" start="64" end="79" text="Charlottesville" />
+<head id="h4" start="80" end="95" text="CHARLOTTESVILLE" />
+<head id="h5" start="97" end="99" text="Va" />
+<head id="h6" start="120" end="127" text="suspect" />
+<head id="h7" start="105" end="112" text="Mexican" />
+<head id="h8" start="140" end="155" text="Charlottesville" />
+<head id="h9" start="157" end="160" text="Va." />
+<head id="h10" start="183" end="196" text="United States" />
+<head id="h11" start="252" end="261" text="officials" />
+<head id="h12" start="228" end="235" text="Mexican" />
+<head id="h13" start="265" end="273" text="officers" />
+<head id="h14" start="328" end="362" text="Enforcement and Removal Operations" />
+<head id="h15" start="364" end="367" text="ERO" />
+<head id="h16" start="279" end="319" text="U.S. Immigration and Customs Enforcement" />
+<head id="h17" start="323" end="326" text="ICE" />
+<head id="h18" start="370" end="393" text="Alfredo Santana Miranda" />
+<head id="h19" start="445" end="451" text="Mexico" />
+<head id="h20" start="470" end="489" text="Alcindo Roman Roman" />
+<head id="h21" start="545" end="552" text="Miranda" />
+<head id="h22" start="600" end="613" text="United States" />
+<head id="h23" start="619" end="625" text="Mexico" />
+<head id="h24" start="638" end="662" text="San Ysidro Port of Entry" />
+<head id="h25" start="712" end="714" text="He" />
+<head id="h26" start="770" end="778" text="officers" />
+<head id="h27" start="730" end="763" text="U.S Customs and Border Protection" />
+<head id="h28" start="765" end="768" text="CBP" />
+<head id="h29" start="793" end="795" text="He" />
+<head id="h30" start="815" end="828" text="United States" />
+<head id="h31" start="863" end="871" text="officers" />
+<head id="h32" start="859" end="862" text="ICE" />
+<head id="h33" start="875" end="883" text="Virginia" />
+<head id="h34" start="905" end="912" text="Miranda" />
+<head id="h35" start="980" end="986" text="Office" />
+<head id="h36" start="970" end="977" text="General" />
+<head id="h37" start="961" end="969" text="Attorney" />
+<head id="h38" start="953" end="960" text="Mexican" />
+<head id="h39" start="1054" end="1061" text="Miranda" />
+<head id="h40" start="1105" end="1108" text="his" />
+<head id="h41" start="1134" end="1139" text="hotel" />
+<head id="h42" start="1143" end="1158" text="Charlottesville" />
+<head id="h43" start="1188" end="1193" text="teams" />
+<head id="h44" start="1162" end="1165" text="ICE" />
+<head id="h45" start="1203" end="1211" text="Richmond" />
+<head id="h46" start="1216" end="1223" text="Fairfax" />
+<head id="h47" start="1225" end="1228" text="Va." />
+<head id="h48" start="1168" end="1176" text="fugitive" />
+<head id="h49" start="1259" end="1266" text="country" />
+<head id="h50" start="1305" end="1314" text="Criminals" />
+<head id="h51" start="1315" end="1318" text="who" />
+<head id="h52" start="1353" end="1358" text="their" />
+<head id="h53" start="1385" end="1398" text="United States" />
+<head id="h54" start="1429" end="1440" text="communities" />
+<head id="h55" start="1425" end="1428" text="our" />
+<head id="h56" start="1448" end="1463" text="M. Yvonne Evans" />
+<head id="h57" start="1478" end="1486" text="director" />
+<head id="h58" start="1491" end="1505" text="ERO Washington" />
+<head id="h59" start="1471" end="1477" text="office" />
+<head id="h60" start="1555" end="1563" text="agencies" />
+<head id="h61" start="1534" end="1538" text="U.S." />
+<head id="h62" start="1627" end="1636" text="criminals" />
+<head id="h63" start="1667" end="1671" text="they" />
+<head id="h64" start="1679" end="1684" text="their" />
+<head id="h65" start="1694" end="1701" text="Miranda" />
+<head id="h66" start="1719" end="1722" text="ICE" />
+<head id="h67" start="1741" end="1769" text="Valley International Airport" />
+<head id="h68" start="1773" end="1782" text="Harlingen" />
+<head id="h69" start="1784" end="1789" text="Texas" />
+<head id="h70" start="1847" end="1851" text="team" />
+<head id="h71" start="1812" end="1827" text="ERO San Antonio" />
+<head id="h72" start="1859" end="1901" text="Gateway International Bridge Port of Entry" />
+<head id="h73" start="1905" end="1916" text="Brownsville" />
+<head id="h74" start="1918" end="1923" text="Texas" />
+<head id="h75" start="1925" end="1930" text="where" />
+<head id="h76" start="1931" end="1933" text="he" />
+<head id="h77" start="1992" end="2001" text="officials" />
+<head id="h78" start="1968" end="1975" text="Mexican" />
+<head id="h79" start="2012" end="2015" text="his" />
+<head id="h80" start="2025" end="2032" text="Miranda" />
+<head id="h81" start="2051" end="2054" text="ICE" />
+<head id="h82" start="2070" end="2097" text="Hampton Roads Regional Jail" />
+<head id="h83" start="2101" end="2111" text="Portsmouth" />
+<head id="h84" start="2113" end="2115" text="Va" />
+<head id="h85" start="2137" end="2140" text="ERO" />
+<head id="h86" start="2175" end="2184" text="fugitives" />
+<head id="h87" start="2208" end="2211" text="who" />
+<head id="h88" start="2233" end="2238" text="their" />
+<head id="h89" start="2194" end="2207" text="United States" />
+<head id="h90" start="2246" end="2255" text="countries" />
+<head id="h91" start="2315" end="2318" text="ERO" />
+<head id="h92" start="2336" end="2367" text="Office of International Affairs" />
+<head id="h93" start="2330" end="2333" text="ICE" />
+<head id="h94" start="2386" end="2393" text="offices" />
+<head id="h95" start="2401" end="2414" text="United States" />
+<head id="h96" start="2420" end="2428" text="Interpol" />
+<head id="h97" start="2449" end="2458" text="fugitives" />
+<head id="h98" start="2484" end="2491" text="country" />
+<name id="n0" start="17" end="20" text="ICE" />
+<name id="n1" start="29" end="36" text="Mexican" />
+<name id="n2" start="64" end="79" text="Charlottesville" />
+<name id="n3" start="80" end="95" text="CHARLOTTESVILLE" />
+<name id="n4" start="97" end="99" text="Va" />
+<name id="n5" start="105" end="112" text="Mexican" />
+<name id="n6" start="140" end="155" text="Charlottesville" />
+<name id="n7" start="157" end="160" text="Va." />
+<name id="n8" start="183" end="196" text="United States" />
+<name id="n9" start="228" end="235" text="Mexican" />
+<name id="n10" start="328" end="362" text="Enforcement and Removal Operations" />
+<name id="n11" start="364" end="367" text="ERO" />
+<name id="n12" start="279" end="319" text="U.S. Immigration and Customs Enforcement" />
+<name id="n13" start="323" end="326" text="ICE" />
+<name id="n14" start="370" end="393" text="Alfredo Santana Miranda" />
+<name id="n15" start="445" end="451" text="Mexico" />
+<name id="n16" start="470" end="489" text="Alcindo Roman Roman" />
+<name id="n17" start="545" end="552" text="Miranda" />
+<name id="n18" start="600" end="613" text="United States" />
+<name id="n19" start="619" end="625" text="Mexico" />
+<name id="n20" start="638" end="662" text="San Ysidro Port of Entry" />
+<name id="n21" start="730" end="763" text="U.S Customs and Border Protection" />
+<name id="n22" start="765" end="768" text="CBP" />
+<name id="n23" start="815" end="828" text="United States" />
+<name id="n24" start="859" end="862" text="ICE" />
+<name id="n25" start="875" end="883" text="Virginia" />
+<name id="n26" start="905" end="912" text="Miranda" />
+<name id="n27" start="953" end="960" text="Mexican" />
+<name id="n28" start="1054" end="1061" text="Miranda" />
+<name id="n29" start="1143" end="1158" text="Charlottesville" />
+<name id="n30" start="1162" end="1165" text="ICE" />
+<name id="n31" start="1203" end="1211" text="Richmond" />
+<name id="n32" start="1216" end="1223" text="Fairfax" />
+<name id="n33" start="1225" end="1228" text="Va." />
+<name id="n34" start="1385" end="1398" text="United States" />
+<name id="n35" start="1448" end="1463" text="M. Yvonne Evans" />
+<name id="n36" start="1491" end="1505" text="ERO Washington" />
+<name id="n37" start="1534" end="1538" text="U.S." />
+<name id="n38" start="1694" end="1701" text="Miranda" />
+<name id="n39" start="1719" end="1722" text="ICE" />
+<name id="n40" start="1741" end="1769" text="Valley International Airport" />
+<name id="n41" start="1773" end="1782" text="Harlingen" />
+<name id="n42" start="1784" end="1789" text="Texas" />
+<name id="n43" start="1812" end="1827" text="ERO San Antonio" />
+<name id="n44" start="1859" end="1901" text="Gateway International Bridge Port of Entry" />
+<name id="n45" start="1905" end="1916" text="Brownsville" />
+<name id="n46" start="1918" end="1923" text="Texas" />
+<name id="n47" start="1968" end="1975" text="Mexican" />
+<name id="n48" start="2025" end="2032" text="Miranda" />
+<name id="n49" start="2051" end="2054" text="ICE" />
+<name id="n50" start="2070" end="2097" text="Hampton Roads Regional Jail" />
+<name id="n51" start="2101" end="2111" text="Portsmouth" />
+<name id="n52" start="2113" end="2115" text="Va" />
+<name id="n53" start="2137" end="2140" text="ERO" />
+<name id="n54" start="2194" end="2207" text="United States" />
+<name id="n55" start="2315" end="2318" text="ERO" />
+<name id="n56" start="2336" end="2367" text="Office of International Affairs" />
+<name id="n57" start="2330" end="2333" text="ICE" />
+<name id="n58" start="2401" end="2414" text="United States" />
+<name id="n59" start="2420" end="2428" text="Interpol" />
+<located-mention id="lo0" start="29" end="79" text="Mexican murder suspect captured in Charlottesville" TYPE="Participial" />
+<located-mention id="lo1" start="103" end="160" text="A Mexican murder suspect captured in Charlottesville, Va." TYPE="Participial" />
+<located-mention id="lo2" start="103" end="367" text="A Mexican murder suspect captured in Charlottesville, Va., was removed from the United States late Friday and turned over to Mexican law enforcement officials by officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="Verbal" />
+<located-mention id="lo3" start="508" end="710" text="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" TYPE="Other" />
+<located-mention id="lo4" start="508" end="710" text="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" TYPE="Other" />
+<located-mention id="lo5" start="508" end="710" text="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" TYPE="Other" />
+<located-mention id="lo6" start="793" end="857" text="He then reentered the United States illegally on an unknown date" TYPE="Verbal" />
+<located-mention id="lo7" start="859" end="883" text="ICE officers in Virginia" TYPE="Preposition" />
+<located-mention id="lo8" start="1162" end="1228" text="ICE's fugitive operations teams based in Richmond and Fairfax, Va." TYPE="Participial" />
+<located-mention id="lo9" start="1162" end="1228" text="ICE's fugitive operations teams based in Richmond and Fairfax, Va." TYPE="Participial" />
+<located-mention id="lo10" start="1054" end="1302" text="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" TYPE="Other" />
+<located-mention id="lo11" start="1054" end="1302" text="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" TYPE="Other" />
+<located-mention id="lo12" start="1054" end="1302" text="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" TYPE="Other" />
+<located-mention id="lo14" start="1305" end="1505" text="Criminals who seek to escape responsibility for their actions by fleeing to the United States will find no sanctuary in our communities,' said M. Yvonne Evans, field office director for ERO Washington" TYPE="Other" />
+<located-mention id="lo13" start="1694" end="2001" text="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="Other" />
+<located-mention id="lo15" start="1694" end="2001" text="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="Other" />
+<located-mention id="lo16" start="1694" end="2001" text="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="Other" />
+<located-mention id="lo17" start="1694" end="2001" text="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="Other" />
+<located-mention id="lo18" start="1694" end="2001" text="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" TYPE="Other" />
+<located-mention id="lo19" start="370" end="506" text="Alfredo Santana Miranda, 40, is wanted on anoutstanding arrest warrant  in Mexico for the murder of Alcindo Roman Roman on Feb. 12, 2006" TYPE="Other" />
+<located-mention id="lo20" start="2003" end="2115" text="Prior to his removal, Miranda was being held in ICE custody at the Hampton Roads Regional Jail in Portsmouth, Va" TYPE="Other" />
+<located-mention id="lo21" start="2117" end="2313" text="Since Oct. 1, 2009, ERO has removed more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" TYPE="Other" />
+<located-mention id="lo22" start="2441" end="2491" text="foreign fugitives illegally present in the country" TYPE="Participial" />
+<employment-mention id="e0" start="228" end="261" text="Mexican law enforcement officials" TYPE="PreMod" />
+<employment-mention id="e1" start="949" end="977" text="the Mexican Attorney General" TYPE="PreMod" />
+<employment-mention id="e2" start="1968" end="2001" text="Mexican law enforcement officials" TYPE="PreMod" />
+<CRRE id="C0" start="29" end="79" text="Mexican murder suspect captured in Charlottesville" TYPE="PreMod" />
+<CRRE id="C1" start="103" end="160" text="A Mexican murder suspect captured in Charlottesville, Va." TYPE="PreMod" />
+<CRRE id="C2" start="2233" end="2255" text="their native countries" TYPE="Possessive" />
+<M id="M0" start="265" end="367" text="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" TYPE="Preposition" />
+<M id="M1" start="730" end="778" text="U.S Customs and Border Protection (CBP) officers" TYPE="PreMod" />
+<M id="M2" start="859" end="883" text="ICE officers in Virginia" TYPE="PreMod" />
+<M id="M3" start="949" end="1022" text="the Mexican Attorney General's Office (Procuradura General de la Repblica" TYPE="Possessive" />
+<M id="M4" start="1162" end="1228" text="ICE's fugitive operations teams based in Richmond and Fairfax, Va." TYPE="Possessive" />
+<M id="M5" start="1465" end="1505" text="field office director for ERO Washington" TYPE="PreMod" />
+<M id="M6" start="1465" end="1505" text="field office director for ERO Washington" TYPE="Preposition" />
+<M id="M7" start="1812" end="1851" text="ERO San Antonio's special response team" TYPE="Possessive" />
+<entity_link id="en0" fromID="g2" fromText="CHARLOTTESVILLE, Va" toID="g1" toText="Charlottesville" />
+<entity_link id="en1" fromID="p1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="p0" toText="Mexican murder suspect captured in Charlottesville" />
+<entity_link id="en2" fromID="g4" fromText="Mexican" toID="g0" toText="Mexican" />
+<entity_link id="en3" fromID="g5" fromText="Charlottesville, Va." toID="g2" toText="CHARLOTTESVILLE, Va" />
+<entity_link id="en4" fromID="g6" fromText="Va." toID="g3" toText="Va" />
+<entity_link id="en5" fromID="g8" fromText="Mexican" toID="g4" toText="Mexican" />
+<entity_link id="en6" fromID="o2" fromText="ERO" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<entity_link id="en7" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en8" fromID="p4" fromText="Alfredo Santana Miranda, 40" toID="p1" toText="A Mexican murder suspect captured in Charlottesville, Va." />
+<entity_link id="en9" fromID="g9" fromText="Mexico" toID="g8" toText="Mexican" />
+<entity_link id="en10" fromID="p6" fromText="Miranda" toID="p4" toText="Alfredo Santana Miranda, 40" />
+<entity_link id="en11" fromID="g10" fromText="the United States" toID="g7" toText="the United States" />
+<entity_link id="en12" fromID="g11" fromText="Mexico" toID="g9" toText="Mexico" />
+<entity_link id="en13" fromID="p7" fromText="He" toID="p6" toText="Miranda" />
+<entity_link id="en14" fromID="o6" fromText="CBP" toID="o5" toText="U.S Customs and Border Protection (CBP" />
+<entity_link id="en15" fromID="p9" fromText="He" toID="p7" toText="He" />
+<entity_link id="en16" fromID="g12" fromText="the United States" toID="g10" toText="the United States" />
+<entity_link id="en17" fromID="g13" fromText="Virginia" toID="g6" toText="Va." />
+<entity_link id="en18" fromID="p11" fromText="Miranda" toID="p6" toText="Miranda" />
+<entity_link id="en19" fromID="p14" fromText="Miranda" toID="p11" toText="Miranda" />
+<entity_link id="en20" fromID="g14" fromText="Mexican" toID="g11" toText="Mexico" />
+<entity_link id="en21" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="o0" toText="ICE" />
+<entity_link id="en22" fromID="o7" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en23" fromID="p15" fromText="his" toID="p14" toText="Miranda" />
+<entity_link id="en24" fromID="g15" fromText="Charlottesville" toID="g5" toText="Charlottesville, Va." />
+<entity_link id="en25" fromID="o9" fromText="ICE" toID="o7" toText="ICE" />
+<entity_link id="en26" fromID="g18" fromText="Va." toID="g13" toText="Virginia" />
+<entity_link id="en27" fromID="g19" fromText="the country" toID="g12" toText="the United States" />
+<entity_link id="en28" fromID="p19" fromText="who" toID="p18" toText="Criminals who seek to escape responsibility for their actions by fleeing to the United States" />
+<entity_link id="en29" fromID="p20" fromText="their" toID="p18" toText="Criminals who seek to escape responsibility for their actions by fleeing to the United States" />
+<entity_link id="en30" fromID="g20" fromText="the United States" toID="g12" toText="the United States" />
+<entity_link id="en31" fromID="g22" fromText="our" toID="g20" toText="the United States" />
+<entity_link id="en32" fromID="g21" fromText="our communities" toID="g20" toText="the United States" />
+<entity_link id="en33" fromID="p22" fromText="M. Yvonne Evans" toID="p21" toText="M. Yvonne Evans, field office director for ERO Washington" />
+<entity_link id="en34" fromID="p23" fromText="field office director for ERO Washington" toID="p22" toText="M. Yvonne Evans" />
+<entity_link id="en35" fromID="g23" fromText="U.S." toID="g20" toText="the United States" />
+<entity_link id="en36" fromID="p25" fromText="they" toID="p24" toText="criminals" />
+<entity_link id="en37" fromID="p26" fromText="their" toID="p25" toText="they" />
+<entity_link id="en38" fromID="p27" fromText="Miranda" toID="p14" toText="Miranda" />
+<entity_link id="en39" fromID="o13" fromText="ICE" toID="o9" toText="ICE" />
+<entity_link id="en40" fromID="g27" fromText="Texas" toID="g25" toText="Texas" />
+<entity_link id="en41" fromID="f6" fromText="where" toID="f5" toText="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" />
+<entity_link id="en42" fromID="p29" fromText="he" toID="p27" toText="Miranda" />
+<entity_link id="en43" fromID="p30" fromText="Mexican law enforcement officials" toID="p2" toText="Mexican law enforcement officials" />
+<entity_link id="en44" fromID="g28" fromText="Mexican" toID="g14" toText="Mexican" />
+<entity_link id="en45" fromID="p31" fromText="his" toID="p32" toText="Miranda" />
+<entity_link id="en46" fromID="p32" fromText="Miranda" toID="p27" toText="Miranda" />
+<entity_link id="en47" fromID="o15" fromText="ICE" toID="o13" toText="ICE" />
+<entity_link id="en48" fromID="g30" fromText="Va" toID="g13" toText="Virginia" />
+<entity_link id="en49" fromID="o16" fromText="ERO" toID="o2" toText="ERO" />
+<entity_link id="en50" fromID="p34" fromText="who" toID="p33" toText="more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" />
+<entity_link id="en51" fromID="p35" fromText="their" toID="p33" toText="more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" />
+<entity_link id="en52" fromID="g31" fromText="the United States" toID="g23" toText="U.S." />
+<entity_link id="en53" fromID="o17" fromText="ERO" toID="o16" toText="ERO" />
+<entity_link id="en54" fromID="o19" fromText="ICE" toID="o15" toText="ICE" />
+<entity_link id="en55" fromID="g33" fromText="the United States" toID="g31" toText="the United States" />
+<entity_link id="en56" fromID="g34" fromText="the country" toID="g33" toText="the United States" />
+<head_link id="he0" fromID="o0" fromText="ICE" toID="h0" toText="ICE" />
+<head_link id="he1" fromID="p0" fromText="Mexican murder suspect captured in Charlottesville" toID="h1" toText="suspect" />
+<head_link id="he2" fromID="g0" fromText="Mexican" toID="h2" toText="Mexican" />
+<head_link id="he3" fromID="g1" fromText="Charlottesville" toID="h3" toText="Charlottesville" />
+<head_link id="he4" fromID="g2" fromText="CHARLOTTESVILLE, Va" toID="h4" toText="CHARLOTTESVILLE" />
+<head_link id="he5" fromID="g3" fromText="Va" toID="h5" toText="Va" />
+<head_link id="he6" fromID="p1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="h6" toText="suspect" />
+<head_link id="he7" fromID="g4" fromText="Mexican" toID="h7" toText="Mexican" />
+<head_link id="he8" fromID="g5" fromText="Charlottesville, Va." toID="h8" toText="Charlottesville" />
+<head_link id="he9" fromID="g6" fromText="Va." toID="h9" toText="Va." />
+<head_link id="he10" fromID="g7" fromText="the United States" toID="h10" toText="United States" />
+<head_link id="he11" fromID="p2" fromText="Mexican law enforcement officials" toID="h11" toText="officials" />
+<head_link id="he12" fromID="g8" fromText="Mexican" toID="h12" toText="Mexican" />
+<head_link id="he13" fromID="p3" fromText="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="h13" toText="officers" />
+<head_link id="he14" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="h14" toText="Enforcement and Removal Operations" />
+<head_link id="he15" fromID="o2" fromText="ERO" toID="h15" toText="ERO" />
+<head_link id="he16" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h16" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he17" fromID="o4" fromText="ICE" toID="h17" toText="ICE" />
+<head_link id="he18" fromID="p4" fromText="Alfredo Santana Miranda, 40" toID="h18" toText="Alfredo Santana Miranda" />
+<head_link id="he19" fromID="g9" fromText="Mexico" toID="h19" toText="Mexico" />
+<head_link id="he20" fromID="p5" fromText="Alcindo Roman Roman" toID="h20" toText="Alcindo Roman Roman" />
+<head_link id="he21" fromID="p6" fromText="Miranda" toID="h21" toText="Miranda" />
+<head_link id="he22" fromID="g10" fromText="the United States" toID="h22" toText="United States" />
+<head_link id="he23" fromID="g11" fromText="Mexico" toID="h23" toText="Mexico" />
+<head_link id="he24" fromID="f0" fromText="the San Ysidro Port of Entry" toID="h24" toText="San Ysidro Port of Entry" />
+<head_link id="he25" fromID="p7" fromText="He" toID="h25" toText="He" />
+<head_link id="he26" fromID="p8" fromText="U.S Customs and Border Protection (CBP) officers" toID="h26" toText="officers" />
+<head_link id="he27" fromID="o5" fromText="U.S Customs and Border Protection (CBP" toID="h27" toText="U.S Customs and Border Protection" />
+<head_link id="he28" fromID="o6" fromText="CBP" toID="h28" toText="CBP" />
+<head_link id="he29" fromID="p9" fromText="He" toID="h29" toText="He" />
+<head_link id="he30" fromID="g12" fromText="the United States" toID="h30" toText="United States" />
+<head_link id="he31" fromID="p10" fromText="ICE officers in Virginia" toID="h31" toText="officers" />
+<head_link id="he32" fromID="o7" fromText="ICE" toID="h32" toText="ICE" />
+<head_link id="he33" fromID="g13" fromText="Virginia" toID="h33" toText="Virginia" />
+<head_link id="he34" fromID="p11" fromText="Miranda" toID="h34" toText="Miranda" />
+<head_link id="he35" fromID="o8" fromText="the Mexican Attorney General's Office (Procuradura General de la Repblica" toID="h35" toText="Office" />
+<head_link id="he36" fromID="p12" fromText="the Mexican Attorney General" toID="h36" toText="General" />
+<head_link id="he37" fromID="p13" fromText="Attorney" toID="h37" toText="Attorney" />
+<head_link id="he38" fromID="g14" fromText="Mexican" toID="h38" toText="Mexican" />
+<head_link id="he39" fromID="p14" fromText="Miranda" toID="h39" toText="Miranda" />
+<head_link id="he40" fromID="p15" fromText="his" toID="h40" toText="his" />
+<head_link id="he41" fromID="f1" fromText="a hotel in Charlottesville" toID="h41" toText="hotel" />
+<head_link id="he42" fromID="g15" fromText="Charlottesville" toID="h42" toText="Charlottesville" />
+<head_link id="he43" fromID="p16" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="h43" toText="teams" />
+<head_link id="he44" fromID="o9" fromText="ICE" toID="h44" toText="ICE" />
+<head_link id="he45" fromID="g16" fromText="Richmond and Fairfax, Va." toID="h45" toText="Richmond" />
+<head_link id="he46" fromID="g17" fromText="Richmond and Fairfax, Va." toID="h46" toText="Fairfax" />
+<head_link id="he47" fromID="g18" fromText="Va." toID="h47" toText="Va." />
+<head_link id="he48" fromID="p17" fromText="fugitive" toID="h48" toText="fugitive" />
+<head_link id="he49" fromID="g19" fromText="the country" toID="h49" toText="country" />
+<head_link id="he50" fromID="p18" fromText="Criminals who seek to escape responsibility for their actions by fleeing to the United States" toID="h50" toText="Criminals" />
+<head_link id="he51" fromID="p19" fromText="who" toID="h51" toText="who" />
+<head_link id="he52" fromID="p20" fromText="their" toID="h52" toText="their" />
+<head_link id="he53" fromID="g20" fromText="the United States" toID="h53" toText="United States" />
+<head_link id="he54" fromID="g21" fromText="our communities" toID="h54" toText="communities" />
+<head_link id="he55" fromID="g22" fromText="our" toID="h55" toText="our" />
+<head_link id="he56" fromID="p22" fromText="M. Yvonne Evans" toID="h56" toText="M. Yvonne Evans" />
+<head_link id="he57" fromID="p23" fromText="field office director for ERO Washington" toID="h57" toText="director" />
+<head_link id="he58" fromID="o10" fromText="ERO Washington" toID="h58" toText="ERO Washington" />
+<head_link id="he59" fromID="o11" fromText="field office" toID="h59" toText="office" />
+<head_link id="he60" fromID="o12" fromText="U.S. law enforcement agencies" toID="h60" toText="agencies" />
+<head_link id="he61" fromID="g23" fromText="U.S." toID="h61" toText="U.S." />
+<head_link id="he62" fromID="p24" fromText="criminals" toID="h62" toText="criminals" />
+<head_link id="he63" fromID="p25" fromText="they" toID="h63" toText="they" />
+<head_link id="he64" fromID="p26" fromText="their" toID="h64" toText="their" />
+<head_link id="he65" fromID="p27" fromText="Miranda" toID="h65" toText="Miranda" />
+<head_link id="he66" fromID="o13" fromText="ICE" toID="h66" toText="ICE" />
+<head_link id="he67" fromID="f2" fromText="Valley International Airport in Harlingen, Texas" toID="h67" toText="Valley International Airport" />
+<head_link id="he68" fromID="g24" fromText="Harlingen, Texas" toID="h68" toText="Harlingen" />
+<head_link id="he69" fromID="g25" fromText="Texas" toID="h69" toText="Texas" />
+<head_link id="he70" fromID="p28" fromText="ERO San Antonio's special response team" toID="h70" toText="team" />
+<head_link id="he71" fromID="o14" fromText="ERO San Antonio" toID="h71" toText="ERO San Antonio" />
+<head_link id="he74" fromID="g26" fromText="Brownsville, Texas" toID="h73" toText="Brownsville" />
+<head_link id="he75" fromID="g27" fromText="Texas" toID="h74" toText="Texas" />
+<head_link id="he76" fromID="f5" fromText="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="h72" toText="Gateway International Bridge Port of Entry" />
+<head_link id="he77" fromID="f6" fromText="where" toID="h75" toText="where" />
+<head_link id="he78" fromID="p29" fromText="he" toID="h76" toText="he" />
+<head_link id="he79" fromID="p30" fromText="Mexican law enforcement officials" toID="h77" toText="officials" />
+<head_link id="he80" fromID="g28" fromText="Mexican" toID="h78" toText="Mexican" />
+<head_link id="he81" fromID="p31" fromText="his" toID="h79" toText="his" />
+<head_link id="he82" fromID="p32" fromText="Miranda" toID="h80" toText="Miranda" />
+<head_link id="he83" fromID="o15" fromText="ICE" toID="h81" toText="ICE" />
+<head_link id="he84" fromID="f7" fromText="the Hampton Roads Regional Jail in Portsmouth, Va" toID="h82" toText="Hampton Roads Regional Jail" />
+<head_link id="he85" fromID="g29" fromText="Portsmouth, Va" toID="h83" toText="Portsmouth" />
+<head_link id="he86" fromID="g30" fromText="Va" toID="h84" toText="Va" />
+<head_link id="he87" fromID="o16" fromText="ERO" toID="h85" toText="ERO" />
+<head_link id="he72" fromID="p33" fromText="more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" toID="h86" toText="fugitives" />
+<head_link id="he73" fromID="p34" fromText="who" toID="h87" toText="who" />
+<head_link id="he88" fromID="p35" fromText="their" toID="h88" toText="their" />
+<head_link id="he89" fromID="g31" fromText="the United States" toID="h89" toText="United States" />
+<head_link id="he90" fromID="g32" fromText="their native countries" toID="h90" toText="countries" />
+<head_link id="he91" fromID="o17" fromText="ERO" toID="h91" toText="ERO" />
+<head_link id="he92" fromID="o18" fromText="ICE's Office of International Affairs" toID="h92" toText="Office of International Affairs" />
+<head_link id="he93" fromID="o19" fromText="ICE" toID="h93" toText="ICE" />
+<head_link id="he94" fromID="o20" fromText="foreign consular offices in the United States" toID="h94" toText="offices" />
+<head_link id="he95" fromID="g33" fromText="the United States" toID="h95" toText="United States" />
+<head_link id="he96" fromID="o21" fromText="Interpol" toID="h96" toText="Interpol" />
+<head_link id="he97" fromID="p36" fromText="foreign fugitives illegally present in the country" toID="h97" toText="fugitives" />
+<head_link id="he98" fromID="g34" fromText="the country" toID="h98" toText="country" />
+<name_link id="na0" fromID="o0" fromText="ICE" toID="n0" toText="ICE" />
+<name_link id="na1" fromID="g0" fromText="Mexican" toID="n1" toText="Mexican" />
+<name_link id="na2" fromID="g1" fromText="Charlottesville" toID="n2" toText="Charlottesville" />
+<name_link id="na3" fromID="g2" fromText="CHARLOTTESVILLE, Va" toID="n3" toText="CHARLOTTESVILLE" />
+<name_link id="na4" fromID="g3" fromText="Va" toID="n4" toText="Va" />
+<name_link id="na5" fromID="g4" fromText="Mexican" toID="n5" toText="Mexican" />
+<name_link id="na6" fromID="g5" fromText="Charlottesville, Va." toID="n6" toText="Charlottesville" />
+<name_link id="na7" fromID="g6" fromText="Va." toID="n7" toText="Va." />
+<name_link id="na8" fromID="g7" fromText="the United States" toID="n8" toText="United States" />
+<name_link id="na9" fromID="g8" fromText="Mexican" toID="n9" toText="Mexican" />
+<name_link id="na10" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="n10" toText="Enforcement and Removal Operations" />
+<name_link id="na11" fromID="o2" fromText="ERO" toID="n11" toText="ERO" />
+<name_link id="na12" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n12" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na13" fromID="o4" fromText="ICE" toID="n13" toText="ICE" />
+<name_link id="na14" fromID="p4" fromText="Alfredo Santana Miranda, 40" toID="n14" toText="Alfredo Santana Miranda" />
+<name_link id="na15" fromID="g9" fromText="Mexico" toID="n15" toText="Mexico" />
+<name_link id="na16" fromID="p5" fromText="Alcindo Roman Roman" toID="n16" toText="Alcindo Roman Roman" />
+<name_link id="na17" fromID="p6" fromText="Miranda" toID="n17" toText="Miranda" />
+<name_link id="na18" fromID="g10" fromText="the United States" toID="n18" toText="United States" />
+<name_link id="na19" fromID="g11" fromText="Mexico" toID="n19" toText="Mexico" />
+<name_link id="na20" fromID="f0" fromText="the San Ysidro Port of Entry" toID="n20" toText="San Ysidro Port of Entry" />
+<name_link id="na21" fromID="o5" fromText="U.S Customs and Border Protection (CBP" toID="n21" toText="U.S Customs and Border Protection" />
+<name_link id="na22" fromID="o6" fromText="CBP" toID="n22" toText="CBP" />
+<name_link id="na23" fromID="g12" fromText="the United States" toID="n23" toText="United States" />
+<name_link id="na24" fromID="o7" fromText="ICE" toID="n24" toText="ICE" />
+<name_link id="na25" fromID="g13" fromText="Virginia" toID="n25" toText="Virginia" />
+<name_link id="na26" fromID="p11" fromText="Miranda" toID="n26" toText="Miranda" />
+<name_link id="na27" fromID="g14" fromText="Mexican" toID="n27" toText="Mexican" />
+<name_link id="na28" fromID="p14" fromText="Miranda" toID="n28" toText="Miranda" />
+<name_link id="na29" fromID="g15" fromText="Charlottesville" toID="n29" toText="Charlottesville" />
+<name_link id="na30" fromID="o9" fromText="ICE" toID="n30" toText="ICE" />
+<name_link id="na31" fromID="g16" fromText="Richmond and Fairfax, Va." toID="n31" toText="Richmond" />
+<name_link id="na32" fromID="g17" fromText="Richmond and Fairfax, Va." toID="n32" toText="Fairfax" />
+<name_link id="na33" fromID="g18" fromText="Va." toID="n33" toText="Va." />
+<name_link id="na34" fromID="g20" fromText="the United States" toID="n34" toText="United States" />
+<name_link id="na35" fromID="p22" fromText="M. Yvonne Evans" toID="n35" toText="M. Yvonne Evans" />
+<name_link id="na36" fromID="o10" fromText="ERO Washington" toID="n36" toText="ERO Washington" />
+<name_link id="na37" fromID="g23" fromText="U.S." toID="n37" toText="U.S." />
+<name_link id="na38" fromID="p27" fromText="Miranda" toID="n38" toText="Miranda" />
+<name_link id="na39" fromID="o13" fromText="ICE" toID="n39" toText="ICE" />
+<name_link id="na40" fromID="f2" fromText="Valley International Airport in Harlingen, Texas" toID="n40" toText="Valley International Airport" />
+<name_link id="na41" fromID="g24" fromText="Harlingen, Texas" toID="n41" toText="Harlingen" />
+<name_link id="na42" fromID="g25" fromText="Texas" toID="n42" toText="Texas" />
+<name_link id="na43" fromID="o14" fromText="ERO San Antonio" toID="n43" toText="ERO San Antonio" />
+<name_link id="na46" fromID="g26" fromText="Brownsville, Texas" toID="n45" toText="Brownsville" />
+<name_link id="na47" fromID="g27" fromText="Texas" toID="n46" toText="Texas" />
+<name_link id="na48" fromID="f5" fromText="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="n44" toText="Gateway International Bridge Port of Entry" />
+<name_link id="na49" fromID="g28" fromText="Mexican" toID="n47" toText="Mexican" />
+<name_link id="na50" fromID="p32" fromText="Miranda" toID="n48" toText="Miranda" />
+<name_link id="na51" fromID="o15" fromText="ICE" toID="n49" toText="ICE" />
+<name_link id="na52" fromID="f7" fromText="the Hampton Roads Regional Jail in Portsmouth, Va" toID="n50" toText="Hampton Roads Regional Jail" />
+<name_link id="na53" fromID="g29" fromText="Portsmouth, Va" toID="n51" toText="Portsmouth" />
+<name_link id="na54" fromID="g30" fromText="Va" toID="n52" toText="Va" />
+<name_link id="na55" fromID="o16" fromText="ERO" toID="n53" toText="ERO" />
+<name_link id="na44" fromID="g31" fromText="the United States" toID="n54" toText="United States" />
+<name_link id="na45" fromID="o17" fromText="ERO" toID="n55" toText="ERO" />
+<name_link id="na56" fromID="o18" fromText="ICE's Office of International Affairs" toID="n56" toText="Office of International Affairs" />
+<name_link id="na57" fromID="o19" fromText="ICE" toID="n57" toText="ICE" />
+<name_link id="na58" fromID="g33" fromText="the United States" toID="n58" toText="United States" />
+<name_link id="na59" fromID="o21" fromText="Interpol" toID="n59" toText="Interpol" />
+<relation_link1 id="r0" fromID="C0" fromText="Mexican murder suspect captured in Charlottesville" toID="p0" toText="Mexican murder suspect captured in Charlottesville" />
+<relation_link1 id="r1" fromID="lo0" fromText="Mexican murder suspect captured in Charlottesville" toID="p0" toText="Mexican murder suspect captured in Charlottesville" />
+<relation_link1 id="r2" fromID="C1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="p1" toText="A Mexican murder suspect captured in Charlottesville, Va." />
+<relation_link1 id="r3" fromID="lo1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="p1" toText="A Mexican murder suspect captured in Charlottesville, Va." />
+<relation_link1 id="r4" fromID="e0" fromText="Mexican law enforcement officials" toID="p2" toText="Mexican law enforcement officials" />
+<relation_link1 id="r5" fromID="M0" fromText="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="p3" toText="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<relation_link1 id="r6" fromID="lo2" fromText="A Mexican murder suspect captured in Charlottesville, Va., was removed from the United States late Friday and turned over to Mexican law enforcement officials by officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="p1" toText="A Mexican murder suspect captured in Charlottesville, Va." />
+<relation_link1 id="r7" fromID="lo3" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="p6" toText="Miranda" />
+<relation_link1 id="r8" fromID="lo4" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="p6" toText="Miranda" />
+<relation_link1 id="r9" fromID="lo5" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="p6" toText="Miranda" />
+<relation_link1 id="r10" fromID="M1" fromText="U.S Customs and Border Protection (CBP) officers" toID="p8" toText="U.S Customs and Border Protection (CBP) officers" />
+<relation_link1 id="r11" fromID="lo6" fromText="He then reentered the United States illegally on an unknown date" toID="p9" toText="He" />
+<relation_link1 id="r12" fromID="M2" fromText="ICE officers in Virginia" toID="p10" toText="ICE officers in Virginia" />
+<relation_link1 id="r13" fromID="lo7" fromText="ICE officers in Virginia" toID="p10" toText="ICE officers in Virginia" />
+<relation_link1 id="r14" fromID="e1" fromText="the Mexican Attorney General" toID="p12" toText="the Mexican Attorney General" />
+<relation_link1 id="r15" fromID="M3" fromText="the Mexican Attorney General's Office (Procuradura General de la Repblica" toID="p12" toText="the Mexican Attorney General" />
+<relation_link1 id="r16" fromID="M4" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="p16" toText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." />
+<relation_link1 id="r17" fromID="lo8" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="p16" toText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." />
+<relation_link1 id="r18" fromID="lo9" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="p16" toText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." />
+<relation_link1 id="r19" fromID="lo10" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="p14" toText="Miranda" />
+<relation_link1 id="r20" fromID="lo11" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="p16" toText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." />
+<relation_link1 id="r21" fromID="lo12" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="p14" toText="Miranda" />
+<relation_link1 id="r22" fromID="lo14" fromText="Criminals who seek to escape responsibility for their actions by fleeing to the United States will find no sanctuary in our communities,' said M. Yvonne Evans, field office director for ERO Washington" toID="p19" toText="who" />
+<relation_link1 id="r23" fromID="M5" fromText="field office director for ERO Washington" toID="p23" toText="field office director for ERO Washington" />
+<relation_link1 id="r24" fromID="M6" fromText="field office director for ERO Washington" toID="p23" toText="field office director for ERO Washington" />
+<relation_link1 id="r25" fromID="e2" fromText="Mexican law enforcement officials" toID="p30" toText="Mexican law enforcement officials" />
+<relation_link1 id="r26" fromID="M7" fromText="ERO San Antonio's special response team" toID="p28" toText="ERO San Antonio's special response team" />
+<relation_link1 id="r27" fromID="lo13" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="p27" toText="Miranda" />
+<relation_link1 id="r28" fromID="lo15" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="p27" toText="Miranda" />
+<relation_link1 id="r29" fromID="lo16" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="p28" toText="ERO San Antonio's special response team" />
+<relation_link1 id="r30" fromID="lo17" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="p29" toText="he" />
+<relation_link1 id="r31" fromID="lo18" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="p30" toText="Mexican law enforcement officials" />
+<relation_link1 id="r32" fromID="lo19" fromText="Alfredo Santana Miranda, 40, is wanted on anoutstanding arrest warrant  in Mexico for the murder of Alcindo Roman Roman on Feb. 12, 2006" toID="p4" toText="Alfredo Santana Miranda, 40" />
+<relation_link1 id="r33" fromID="lo20" fromText="Prior to his removal, Miranda was being held in ICE custody at the Hampton Roads Regional Jail in Portsmouth, Va" toID="p32" toText="Miranda" />
+<relation_link1 id="r34" fromID="C2" fromText="their native countries" toID="p35" toText="their" />
+<relation_link1 id="r35" fromID="lo21" fromText="Since Oct. 1, 2009, ERO has removed more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" toID="p33" toText="more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" />
+<relation_link1 id="r36" fromID="lo22" fromText="foreign fugitives illegally present in the country" toID="p36" toText="foreign fugitives illegally present in the country" />
+<relation_link2 id="re0" fromID="C0" fromText="Mexican murder suspect captured in Charlottesville" toID="g0" toText="Mexican" />
+<relation_link2 id="re1" fromID="lo0" fromText="Mexican murder suspect captured in Charlottesville" toID="g1" toText="Charlottesville" />
+<relation_link2 id="re2" fromID="C1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="g4" toText="Mexican" />
+<relation_link2 id="re3" fromID="lo1" fromText="A Mexican murder suspect captured in Charlottesville, Va." toID="g5" toText="Charlottesville, Va." />
+<relation_link2 id="re4" fromID="e0" fromText="Mexican law enforcement officials" toID="g8" toText="Mexican" />
+<relation_link2 id="re5" fromID="M0" fromText="officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" />
+<relation_link2 id="re6" fromID="lo2" fromText="A Mexican murder suspect captured in Charlottesville, Va., was removed from the United States late Friday and turned over to Mexican law enforcement officials by officers from U.S. Immigration and Customs Enforcement's (ICE) Enforcement and Removal Operations (ERO" toID="g7" toText="the United States" />
+<relation_link2 id="re7" fromID="lo3" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="g10" toText="the United States" />
+<relation_link2 id="re8" fromID="lo4" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="g11" toText="Mexico" />
+<relation_link2 id="re10" fromID="lo5" fromText="Seven days after the alleged murder, Miranda had attempted to elude inspection to enter the United States from Mexico through the San Ysidro Port of Entry by concealment under the back seat of a vehicle" toID="f0" toText="the San Ysidro Port of Entry" />
+<relation_link2 id="re11" fromID="M1" fromText="U.S Customs and Border Protection (CBP) officers" toID="o5" toText="U.S Customs and Border Protection (CBP" />
+<relation_link2 id="re9" fromID="lo6" fromText="He then reentered the United States illegally on an unknown date" toID="g12" toText="the United States" />
+<relation_link2 id="re12" fromID="M2" fromText="ICE officers in Virginia" toID="o7" toText="ICE" />
+<relation_link2 id="re13" fromID="lo7" fromText="ICE officers in Virginia" toID="g13" toText="Virginia" />
+<relation_link2 id="re14" fromID="e1" fromText="the Mexican Attorney General" toID="g14" toText="Mexican" />
+<relation_link2 id="re15" fromID="M3" fromText="the Mexican Attorney General's Office (Procuradura General de la Repblica" toID="o8" toText="the Mexican Attorney General's Office (Procuradura General de la Repblica" />
+<relation_link2 id="re16" fromID="M4" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="o9" toText="ICE" />
+<relation_link2 id="re17" fromID="lo8" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="g16" toText="Richmond and Fairfax, Va." />
+<relation_link2 id="re19" fromID="lo9" fromText="ICE's fugitive operations teams based in Richmond and Fairfax, Va." toID="g17" toText="Richmond and Fairfax, Va." />
+<relation_link2 id="re20" fromID="lo10" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="f1" toText="a hotel in Charlottesville" />
+<relation_link2 id="re21" fromID="lo11" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="f1" toText="a hotel in Charlottesville" />
+<relation_link2 id="re22" fromID="lo12" fromText="Miranda was arrested Sept. 7 on a reinstatement of his prior removal order at a hotel in Charlottesville by ICE's fugitive operations teams based in Richmond and Fairfax, Va., for illegally reentering the country after deportation, a felony offense" toID="g19" toText="the country" />
+<relation_link2 id="re23" fromID="lo14" fromText="Criminals who seek to escape responsibility for their actions by fleeing to the United States will find no sanctuary in our communities,' said M. Yvonne Evans, field office director for ERO Washington" toID="g20" toText="the United States" />
+<relation_link2 id="re18" fromID="M5" fromText="field office director for ERO Washington" toID="o11" toText="field office" />
+<relation_link2 id="re24" fromID="M6" fromText="field office director for ERO Washington" toID="o10" toText="ERO Washington" />
+<relation_link2 id="re25" fromID="e2" fromText="Mexican law enforcement officials" toID="g28" toText="Mexican" />
+<relation_link2 id="re26" fromID="M7" fromText="ERO San Antonio's special response team" toID="o14" toText="ERO San Antonio" />
+<relation_link2 id="re27" fromID="lo13" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="f2" toText="Valley International Airport in Harlingen, Texas" />
+<relation_link2 id="re28" fromID="lo15" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="f5" toText="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" />
+<relation_link2 id="re29" fromID="lo16" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="f5" toText="the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" />
+<relation_link2 id="re30" fromID="lo17" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="f6" toText="where" />
+<relation_link2 id="re31" fromID="lo18" fromText="Miranda was flown via an ICE charter flight to Valley International Airport in Harlingen, Texas, and then escorted by ERO San Antonio's special response team to the Gateway International Bridge Port of Entry in Brownsville, Texas, where he was turned over to the custody of Mexican law enforcement officials" toID="f6" toText="where" />
+<relation_link2 id="re32" fromID="lo19" fromText="Alfredo Santana Miranda, 40, is wanted on anoutstanding arrest warrant  in Mexico for the murder of Alcindo Roman Roman on Feb. 12, 2006" toID="g9" toText="Mexico" />
+<relation_link2 id="re33" fromID="lo20" fromText="Prior to his removal, Miranda was being held in ICE custody at the Hampton Roads Regional Jail in Portsmouth, Va" toID="f7" toText="the Hampton Roads Regional Jail in Portsmouth, Va" />
+<relation_link2 id="re34" fromID="C2" fromText="their native countries" toID="g32" toText="their native countries" />
+<relation_link2 id="re35" fromID="lo21" fromText="Since Oct. 1, 2009, ERO has removed more than 500 foreign fugitives from the United States who were being sought in their native countries for serious crimes, including kidnapping, rape and murder" toID="g31" toText="the United States" />
+<relation_link2 id="re36" fromID="lo22" fromText="foreign fugitives illegally present in the country" toID="g34" toText="the country" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,22 @@
+FBI Mapping 'Joanap Malware' Victims to Disrupt the North Korean Botnet
+Swati Khandelwal
+
+The United States Department of Justice (DoJ) announced Wednesday its effort to "map and further disrupt" a botnet tied to North Korea that has infected numerous Microsoft Windows computers across the globe over the last decade.
+Dubbed Joanap, the botnet is believed to be part of "Hidden Cobra"—an Advanced Persistent Threat (APT) actors' group often known as Lazarus Group and Guardians of Peace and backed by the North Korean government.
+Hidden Cobra is the same hacking group that has been allegedly associated with the WannaCry ransomware menace in 2016, the SWIFT Banking attack in 2016, as well as Sony Motion Pictures hack in 2014.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dates back to 2009, Joanap is a remote access tool (RAT) that lands on a victim's system with the help an SMB worm called Brambul, which crawls from one computer to another by brute-forcing Windows Server Message Block (SMB) file-sharing services using a list of common passwords.
+Once there, Brambul downloads Joanap on the infected Windows computers, effectively opening a backdoor for its masterminds and giving them remote control of the network of infected Windows computers.
+If You Want to Beat Them, Then First Join Them
+Interestingly, the computers infected by Joanap botnet don’t take commands from a centralized command-and-control server; instead it relies on peer-to-peer (P2P) communications infrastructure, making every infected computer a part of its command and control system.
+Even though Joanap is currently being detected by many malware protection systems, including Windows Defender, the malware's peer-to-peer (P2P) communications infrastructure still leaves large numbers of infected computers connected to the Internet.
+So to identify infected hosts and take down the botnet, the FBI and the Air Force Office of Special Investigations (AFOSI) obtained legal search warrants that allowed the agencies to join the botnet by creating and running "intentionally infected" computers mimicking its peers to collect both technical and "limited" identifying information in an attempt to map them, the DoJ said in its press release.
+"While the Joanap botnet was identified years ago and can be defeated with antivirus software, we identified numerous unprotected computers that hosted the malware underlying the botnet," said U.S. Attorney Nicola T. Hanna.
+"The search warrants and court orders announced today as part of our efforts to eradicate this botnet are just one of the many tools we will use to prevent cybercriminals from using botnets to stage damaging computer intrusions."
+The collected information about computers infected with the Joanap malware included IP addresses, port numbers, and connection timestamps which allowed the FBI and AFOSI to build a map of the current Joanap botnet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The agencies are now notifying victims of the presence of Joanap on their infected computers through their Internet Service Providers (ISPs) and even sending personal notifications to people who don't have a router or firewall protecting their systems.
+The US Justice Department and FBI will also coordinate the notification of overseas victims of the Joanap malware by sharing the data with the government of other countries.
+The efforts to disrupt the Joanap botnet began after the United States unsealed charges against a North Korean computer programmer named Park Jin Hyok in September last year for his role in masterminding the Sony Pictures and WannaCry ransomware attacks.
+Joanap and Brambul were also recovered from computers of the victims of the campaigns listed in the Hyok's September indictment, suggesting that he aided the development of the Joanap botnet.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

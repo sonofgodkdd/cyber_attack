@@ -1,0 +1,19 @@
+Quora Gets Hacked – 100 Million Users Data Stolen
+Swati Khandelwal
+
+The World's most popular question-and-answer website Quora has suffered a massive data breach with unknown hackers gaining unauthorized access to potentially sensitive personal information of about 100 million of its users.
+Quora announced the incident late Monday after its team last Friday discovered that an unidentified malicious third-party managed to gain unauthorized access to one of its systems and stole data on approximately 100 million users—that's almost half of its entire user base.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to Adam D'Angelo, the chief executive officer and co-founder of Quora, the personal user information compromised in the breach includes:
+Account information, such as names, email addresses, encrypted (hashed) passwords, and data imported from linked social networks like Facebook and Twitter when authorized by users.
+Public content and actions, like questions, answers, comments, and upvotes.
+Non-public content and actions, including answer requests, downvotes, direct and messages (note that a low percentage of Quora users have sent or received such messages).
+Quora said it stores salted and hashed passwords to prevent them from cracking, but as a precaution, the company has logged all compromised users out of their Quora accounts, and forcing them to reset their passwords.
+Quora said it is still investigating the breach and assured its users that it working rapidly to "take the appropriate steps to prevent such incidents in the future."
+"We're still investigating the precise causes, and in addition to the work being conducted by our internal security teams, we have retained leading digital forensics and security firm to assist us. We have also notified law enforcement officials," Adam said in a blog post.
+Quora is notifying affected users of the breach through emails, but if you think you are compromised, you can head on to the company's FAQ to find out every detail about the incident.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Quora's data breach is the latest in a series of high-profile hacks.
+Just last week, the world's biggest hotel chain Marriott confirmed a breach of its Starwood properties that potentially exposed personal and, in some cases, financial information from half a billion guests, making it the second largest data breaches in the history behind Yahoo 2016 hacking of nearly 3 billion users.
+In September, Facebook also announced a breach of its network that allowed hackers to steal personal details for about 30 million users using a zero-day flaw in the platform's "View As" feature.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

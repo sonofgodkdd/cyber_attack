@@ -1,0 +1,21 @@
+Hackers infect e-commerce sites by compromising their advertising partner
+Mohit Kumar
+
+Magecart strikes again, one of the most notorious hacking groups specializes in stealing credit card details from poorly-secured e-commerce websites.
+According to security researchers from RiskIQ and Trend Micro, cybercriminals of a new subgroup of Magecart, labeled as "Magecart Group 12," recently successfully compromised nearly 277 e-commerce websites by using supply-chain attacks.
+Magecart is the same group of digital credit card skimmers which made headlines last year for carrying out attacks against some big businesses including Ticketmaster, British Airways, and Newegg.
+Typically, the Magecart hackers compromise e-commerce sites and insert malicious JavaScript code into their checkout pages that silently captures payment information of customers making purchasing on the sites and then send it to the attacker's remote server.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the researchers from the two firms today revealed that instead of directly compromising targeted websites, the Magecart Group 12 hacked and inserted its skimming code into a third-party JavaScript library, enabling all websites using that script to load the malicious code.
+The third-party library targeted by Magecart Group 12 is by a French online advertising company, called Adverline, whose service is being used by hundreds of European e-commerce websites to display ads.
+"At the time of our research, the websites embedded with Adverline’s re-targeting script loaded Magecart Group 12’s skimming code, which, in turn, skims payment information entered on web pages then sends it to its remote server," Trend Micro says.
+What's more? Security researcher Yonathan Klijnsma at RiskIQ discovered that the skimmer code for MageCart Group 12 protects itself from de-obfuscation and analysis by performing an integrity check twice on itself.
+"Magecart Group 12 uses a skimming toolkit that employs two obfuscated scripts. The first script is mostly for anti-reversing while the second script is the main data-skimming code," the researchers say.
+Upon infection, the data-skimming code first checks if it is executed on an appropriate shopping cart web page. It does so by detecting related strings in the URL like 'checkout,' 'billing,' 'purchase,' 'panier,' which means 'basket' in French, and 'kasse,' which means 'checkout' in German.
+Once it detects any of these strings in the URL, the script will start performing the skimming behavior by copying both the form name and values keyed in by the user on the webpage's typing form.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen payment and billing data are then stored in the JavaScript LocalStorage with the key name 'Cache' in Base64 format. To specify individual victims, the code also generates a random number which it reserves into LocalStorage with key name E-tag.
+"A JavaScript event 'unload' is triggered whenever the user closes or refreshes the payment web-page. The script then sends the skimmed payment data, the random number (E-tag), and the e-commerce website's domain to a remote server through HTTP POST, with Base64 coding on the entire, sent date," Trend Micro researchers explain.
+The researchers also published the IOCs associated with this Group 12's operation, which includes the domains the skimmers used for injecting their code into the affected websites and receiving the stolen payment information.
+Upon contacting, Adverline patched the issue immediately and removed the malicious code from its JavaScript library.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

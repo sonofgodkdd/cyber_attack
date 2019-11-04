@@ -1,0 +1,13 @@
+Ultrasonic Password Security for Google Accounts
+Anonymous
+
+Does a Strong Password Guarantee you the Security of your Online Account? If yes, then you should once check out our 'Data breaches' section on the website.
+A Startup Company, SlickLogin has developed a technology that enables you to login into online accounts using Ultrasonic sound, instead of entering username and password on your.
+The company claims its technology offers "military-grade security" that replaces passwords in the two-step process simply by placing your Phone next to their laptop or tablet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+When you sign-in via SlickLogin enabled website, the computer will play a sound which is encrypted into Ultrasonic Sound, inaudible to the human ear, but your Smartphone can hear it.
+The Smartphone Sends data back to the SlickLogin Servers for authentication and grants immediate access. Each sound is different, unique and cannot be reused to hack an account.
+Recently, Google has acquired this two month old Israeli Startup, "Today we're announcing that the SlickLogin team is joining Google, a company that shares our core beliefs that logging in should be easy instead of frustrating, and authentication should be effective without getting in the way." SlickLogin website said.
+SlickLogin also uses WiFi, Bluetooth, NFC, QR codes and GPS to prevent your account from hackers on the other side of the world.
+SlickLogin Technology gives you a way to set an unforgettable password, but at the same time physical access to the Smartphone may pose critical threat to your online accounts and Smartphones with Low battery Backup may trouble you most of the times.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

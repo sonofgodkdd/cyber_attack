@@ -1,0 +1,24 @@
+Yahoo Reveals 32 Million Accounts Were Hacked Using 'Cookie Forging Attack'
+Mohit Kumar
+
+Yahoo has just revealed that around 32 million user accounts were accessed by hackers in the last two years using a sophisticated cookie forging attack without any password.
+These compromised accounts are in addition to the Yahoo accounts affected by the two massive data breaches that the company disclosed in last few months.
+The former tech giant said that in a regulatory filing Wednesday that the cookie caper is likely linked to the "same state-sponsored actor" thought to be behind a separate, 2014 data breach that resulted in the theft of 500 Million user accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Based on the investigation, we believe an unauthorized third party accessed the company's proprietary code to learn how to forge certain cookies," Yahoo said in its annual report filed with the US Securities and Exchange Commission (SEC).
+"The outside forensic experts have identified approximately 32 million user accounts for which they believe forged cookies were used or taken in 2015 and 2016. We believe that some of this activity is connected to the same state-sponsored actor believed to be responsible for the 2014 security incident."
+"Forged cookies" are digital keys that allow access to accounts without re-entering passwords.
+Instead of stealing passwords, hackers trick a web browser into telling Yahoo that the victim had already logged in by forging little web browser tokens called cookies.
+Yahoo revealed the cookie caper in December last year, but the news was largely overlooked, as the statement from Yahoo provided information on a separate data breach that occurred in August 2013 involving more than 1 Billion Yahoo accounts.
+In a statement, the company said the hackers might have stolen names, email addresses, hashed passwords, telephone numbers, dates of birth, and, in some cases, encrypted or unencrypted security questions and answers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yahoo began warning its customers just last month that some state-sponsored actors had accessed their Yahoo accounts by using the sophisticated cookie forging attack.
+However, the good news is that the forged cookies have since been "invalidated" by Yahoo so they cannot be used to access user accounts.
+Yahoo's CEO Marissa Mayer Loses Bonus
+In the meantime when Yahoo revealed about the scope of the cookie caper, Yahoo CEO Marissa Mayer said she would forgo her annual bonus, which is US$2 Million, and any 2017 equity award, which is usually about $12 Million of stock, in response to the security incidents occurred during her tenure.
+"When I learned in September 2016 that a large number of our user database files had been stolen, I worked with the team to disclose the incident to users, regulators, and government agencies," Mayer wrote in a note published Monday on Tumblr.
+"However, I am the CEO of the company and since this incident happened during my tenure, I have agreed to forgo my annual bonus and my annual equity grant this year and have expressed my desire that my bonus be redistributed to our company’s hardworking employees, who contributed so much to Yahoo’s success in 2016."
+Besides this, Yahoo's general counsel and secretary Ronald Bell also resigned as of Wednesday after the company revealed that "senior executives and relevant legal staff were aware that a state-sponsored actor had accessed certain user accounts by exploiting the Company’s account management tool."
+The ongoing revelation of security incidents in the company has hit Yahoo's credibility badly. Just last month, Yahoo and Verizon Communications Inc. agreed to reduce the price of the upcoming acquisition deal by $350 Million in the wake of the two data breaches.
+The deal, which was previously finalized at $4.8 Billion, now valued at about $4.48 Billion in cash and is expected to close in the second quarter.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Laredo CBP Officers Seize $100,000 in Marijuana, Arrest 2 Nuevo Laredo Residents
+(Monday, March 16, 2009)
+Laredo, Texas -  U.S. Customs and Border Protection officers at the Laredo port of entry seized 100 pounds of marijuana from a vehicle in an enforcement action occurring on one of the unluckiest days of the year that resulted in the arrest of two Nuevo Laredo residents.
+The seizure occurred about 11:30 p.m., on Friday, March 13, at the Lincoln-Juarez Bridge. A CBP officer referred a 2002 Chevy Impala driven by Aniceto Alvarado Contreras, a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico for a secondary inspection. At secondary, a CBP canine alerted to the odor of narcotics emanating from the vehicle's interior. A non-intrusive imaging system scan indicated anomalies within the rear floor area.
+CBP officers conducted an intensive examination of the area and discovered 20 bundles containing a total of 100 pounds of marijuana wedged inside a floor compartment. The marijuana has an estimated street value of $100,000.
+CBP officers arrested Alvarado Contreras and passenger Agueda Raquel Hernandez Manrique, 36, also a Mexican citizen from Nuevo Laredo, Mexico and turned the pair over to U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges. CBP officers seized the narcotics and the vehicle.
+"Our officers utilized their keen inspection skills, canines and non-intrusive imaging systems to seize a significant load of narcotics this weekend," said Gene Garza, CBP port director, Laredo. "It does not matter if it's Friday the 13th or any other day, our officers are well trained, experienced and remain firmly committed to securing the border 24
+7, 365 days a year."
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="20" text="Laredo CBP Officers" TYPE="BAR" />
+<person id="p1" start="124" end="195" text="U.S. Customs and Border Protection officers at the Laredo port of entry" TYPE="BAR" />
+<person id="p2" start="350" end="376" text="two Nuevo Laredo residents" TYPE="NOM" />
+<person id="p3" start="468" end="481" text="A CBP officer" TYPE="NOM" />
+<person id="p5" start="521" end="547" text="Aniceto Alvarado Contreras" TYPE="NAM" />
+<person id="p9" start="832" end="844" text="CBP officers" TYPE="BAR" />
+<person id="p10" start="521" end="620" text="Aniceto Alvarado Contreras, a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" TYPE="APP" />
+<person id="p11" start="549" end="620" text="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" TYPE="NOM" />
+<person id="p12" start="1056" end="1068" text="CBP officers" TYPE="BAR" />
+<person id="p13" start="1078" end="1096" text="Alvarado Contreras" TYPE="NAM" />
+<person id="p14" start="1101" end="1197" text="passenger Agueda Raquel Hernandez Manrique, 36, also a Mexican citizen from Nuevo Laredo, Mexico" TYPE="APP" />
+<person id="p15" start="1101" end="1147" text="passenger Agueda Raquel Hernandez Manrique, 36" TYPE="NAM" />
+<person id="p16" start="1154" end="1197" text="a Mexican citizen from Nuevo Laredo, Mexico" TYPE="NOM" />
+<person id="p17" start="1101" end="1110" text="passenger" TYPE="BAR" />
+<person id="p18" start="1209" end="1217" text="the pair" TYPE="NOM" />
+<person id="p20" start="1226" end="1353" text="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" TYPE="BAR" />
+<person id="p21" start="1282" end="1285" text="who" TYPE="PRO" />
+<person id="p4" start="1325" end="1329" text="them" TYPE="PRO" />
+<person id="p6" start="1355" end="1367" text="CBP officers" TYPE="BAR" />
+<person id="p7" start="1407" end="1419" text="Our officers" TYPE="BAR" />
+<person id="p8" start="1429" end="1434" text="their" TYPE="PRO" />
+<person id="p19" start="1562" end="1599" text="Gene Garza, CBP port director, Laredo" TYPE="APP" />
+<person id="p22" start="1562" end="1572" text="Gene Garza" TYPE="NAM" />
+<person id="p23" start="1574" end="1599" text="CBP port director, Laredo" TYPE="NOM" />
+<person id="p24" start="1663" end="1675" text="our officers" TYPE="BAR" />
+<person id="p25" start="57" end="81" text="2 Nuevo Laredo Residents" TYPE="NOM" />
+<organization id="o0" start="8" end="11" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="124" end="158" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="470" end="473" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="665" end="668" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="832" end="835" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="1056" end="1059" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1226" end="1266" text="U.S. Immigration and Customs Enforcement" TYPE="NAMPRE" />
+<organization id="o7" start="1355" end="1358" text="CBP" TYPE="NAMPRE" />
+<organization id="o8" start="1407" end="1410" text="Our" TYPE="PRO" />
+<organization id="o9" start="1574" end="1577" text="CBP" TYPE="NAMPRE" />
+<organization id="o10" start="1663" end="1666" text="our" TYPE="PRO" />
+<geographical-political id="g0" start="1" end="7" text="Laredo" TYPE="NAMPRE" />
+<geographical-political id="g1" start="107" end="120" text="Laredo, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="115" end="120" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="354" end="366" text="Nuevo Laredo" TYPE="NAMPRE" />
+<geographical-political id="g4" start="568" end="575" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g5" start="589" end="620" text="Nuevo Laredo Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g6" start="602" end="620" text="Tamaulipas, Mexico" TYPE="NAM" />
+<geographical-political id="g7" start="614" end="620" text="Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="1156" end="1163" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g9" start="1177" end="1197" text="Nuevo Laredo, Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="1191" end="1197" text="Mexico" TYPE="NAM" />
+<geographical-political id="g11" start="1593" end="1599" text="Laredo" TYPE="NAM" />
+<geographical-political id="g12" start="59" end="71" text="Nuevo Laredo" TYPE="NAMPRE" />
+<location id="l0" start="1746" end="1756" text="the border" TYPE="NOM" />
+<falicity id="f1" start="171" end="195" text="the Laredo port of entry" TYPE="NAM" />
+<falicity id="f2" start="441" end="466" text="the Lincoln-Juarez Bridge" TYPE="NAM" />
+<falicity id="f0" start="1578" end="1582" text="port" TYPE="BAR" />
+<head id="h0" start="12" end="20" text="Officers" />
+<head id="h1" start="8" end="11" text="CBP" />
+<head id="h2" start="1" end="7" text="Laredo" />
+<head id="h3" start="107" end="113" text="Laredo" />
+<head id="h4" start="115" end="120" text="Texas" />
+<head id="h5" start="159" end="167" text="officers" />
+<head id="h6" start="124" end="158" text="U.S. Customs and Border Protection" />
+<head id="h7" start="175" end="195" text="Laredo port of entry" />
+<head id="h8" start="367" end="376" text="residents" />
+<head id="h9" start="354" end="366" text="Nuevo Laredo" />
+<head id="h10" start="445" end="466" text="Lincoln-Juarez Bridge" />
+<head id="h11" start="474" end="481" text="officer" />
+<head id="h12" start="470" end="473" text="CBP" />
+<head id="h13" start="521" end="547" text="Aniceto Alvarado Contreras" />
+<head id="h14" start="576" end="583" text="citizen" />
+<head id="h15" start="568" end="575" text="Mexican" />
+<head id="h16" start="589" end="601" text="Nuevo Laredo" />
+<head id="h17" start="602" end="612" text="Tamaulipas" />
+<head id="h18" start="614" end="620" text="Mexico" />
+<head id="h19" start="665" end="668" text="CBP" />
+<head id="h20" start="836" end="844" text="officers" />
+<head id="h21" start="832" end="835" text="CBP" />
+<head id="h22" start="1060" end="1068" text="officers" />
+<head id="h23" start="1056" end="1059" text="CBP" />
+<head id="h24" start="1078" end="1096" text="Alvarado Contreras" />
+<head id="h25" start="1111" end="1143" text="Agueda Raquel Hernandez Manrique" />
+<head id="h26" start="1164" end="1171" text="citizen" />
+<head id="h27" start="1101" end="1110" text="passenger" />
+<head id="h28" start="1156" end="1163" text="Mexican" />
+<head id="h29" start="1177" end="1189" text="Nuevo Laredo" />
+<head id="h30" start="1191" end="1197" text="Mexico" />
+<head id="h31" start="1213" end="1217" text="pair" />
+<head id="h32" start="1275" end="1281" text="agents" />
+<head id="h33" start="1282" end="1285" text="who" />
+<head id="h34" start="1226" end="1266" text="U.S. Immigration and Customs Enforcement" />
+<head id="h35" start="1325" end="1329" text="them" />
+<head id="h36" start="1359" end="1367" text="officers" />
+<head id="h37" start="1355" end="1358" text="CBP" />
+<head id="h38" start="1411" end="1419" text="officers" />
+<head id="h39" start="1407" end="1410" text="Our" />
+<head id="h40" start="1429" end="1434" text="their" />
+<head id="h41" start="1562" end="1572" text="Gene Garza" />
+<head id="h42" start="1583" end="1591" text="director" />
+<head id="h43" start="1574" end="1577" text="CBP" />
+<head id="h44" start="1593" end="1599" text="Laredo" />
+<head id="h45" start="1578" end="1582" text="port" />
+<head id="h46" start="1667" end="1675" text="officers" />
+<head id="h47" start="1663" end="1666" text="our" />
+<head id="h48" start="1750" end="1756" text="border" />
+<head id="h49" start="72" end="81" text="Residents" />
+<head id="h50" start="59" end="71" text="Nuevo Laredo" />
+<name id="n0" start="8" end="11" text="CBP" />
+<name id="n1" start="1" end="7" text="Laredo" />
+<name id="n2" start="107" end="113" text="Laredo" />
+<name id="n3" start="115" end="120" text="Texas" />
+<name id="n4" start="124" end="158" text="U.S. Customs and Border Protection" />
+<name id="n5" start="175" end="195" text="Laredo port of entry" />
+<name id="n6" start="354" end="366" text="Nuevo Laredo" />
+<name id="n7" start="445" end="466" text="Lincoln-Juarez Bridge" />
+<name id="n8" start="470" end="473" text="CBP" />
+<name id="n9" start="521" end="547" text="Aniceto Alvarado Contreras" />
+<name id="n10" start="568" end="575" text="Mexican" />
+<name id="n11" start="589" end="601" text="Nuevo Laredo" />
+<name id="n12" start="602" end="612" text="Tamaulipas" />
+<name id="n13" start="614" end="620" text="Mexico" />
+<name id="n14" start="665" end="668" text="CBP" />
+<name id="n15" start="832" end="835" text="CBP" />
+<name id="n16" start="1056" end="1059" text="CBP" />
+<name id="n17" start="1078" end="1096" text="Alvarado Contreras" />
+<name id="n18" start="1111" end="1143" text="Agueda Raquel Hernandez Manrique" />
+<name id="n19" start="1156" end="1163" text="Mexican" />
+<name id="n20" start="1177" end="1189" text="Nuevo Laredo" />
+<name id="n21" start="1191" end="1197" text="Mexico" />
+<name id="n22" start="1226" end="1266" text="U.S. Immigration and Customs Enforcement" />
+<name id="n23" start="1355" end="1358" text="CBP" />
+<name id="n24" start="1562" end="1572" text="Gene Garza" />
+<name id="n25" start="1574" end="1577" text="CBP" />
+<name id="n26" start="1593" end="1599" text="Laredo" />
+<name id="n27" start="59" end="71" text="Nuevo Laredo" />
+<located-mention id="lo0" start="1" end="20" text="Laredo CBP Officers" TYPE="PreMod" />
+<located-mention id="lo1" start="124" end="195" text="U.S. Customs and Border Protection officers at the Laredo port of entry" TYPE="Preposition" />
+<located-mention id="lo4" start="1574" end="1599" text="CBP port director, Laredo" TYPE="Formulaic" />
+<located-mention id="lo5" start="1574" end="1599" text="CBP port director, Laredo" TYPE="PreMod" />
+<employment-mention id="e0" start="1" end="20" text="Laredo CBP Officers" TYPE="PreMod" />
+<employment-mention id="e1" start="124" end="195" text="U.S. Customs and Border Protection officers at the Laredo port of entry" TYPE="PreMod" />
+<employment-mention id="e2" start="468" end="481" text="A CBP officer" TYPE="PreMod" />
+<employment-mention id="e3" start="832" end="844" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e4" start="1056" end="1068" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e5" start="1226" end="1353" text="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" TYPE="PreMod" />
+<employment-mention id="e6" start="1355" end="1367" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e7" start="1407" end="1419" text="Our officers" TYPE="PreMod" />
+<employment-mention id="e8" start="1574" end="1599" text="CBP port director, Laredo" TYPE="PreMod" />
+<employment-mention id="e9" start="1663" end="1675" text="our officers" TYPE="PreMod" />
+<CRRE id="C0" start="57" end="81" text="2 Nuevo Laredo Residents" TYPE="PreMod" />
+<CRRE id="C1" start="350" end="376" text="two Nuevo Laredo residents" TYPE="PreMod" />
+<CRRE id="C2" start="549" end="620" text="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" TYPE="PreMod" />
+<CRRE id="C3" start="549" end="620" text="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" TYPE="Preposition" />
+<CRRE id="C4" start="1154" end="1197" text="a Mexican citizen from Nuevo Laredo, Mexico" TYPE="PreMod" />
+<CRRE id="C5" start="1154" end="1197" text="a Mexican citizen from Nuevo Laredo, Mexico" TYPE="Preposition" />
+<entity_link id="en0" fromID="g1" fromText="Laredo, Texas" toID="g0" toText="Laredo" />
+<entity_link id="en1" fromID="p1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="p0" toText="Laredo CBP Officers" />
+<entity_link id="en2" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en3" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en6" fromID="g5" fromText="Nuevo Laredo Tamaulipas, Mexico" toID="g3" toText="Nuevo Laredo" />
+<entity_link id="en7" fromID="g7" fromText="Mexico" toID="g4" toText="Mexican" />
+<entity_link id="en10" fromID="o3" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en11" fromID="p9" fromText="CBP officers" toID="p1" toText="U.S. Customs and Border Protection officers at the Laredo port of entry" />
+<entity_link id="en12" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en13" fromID="p5" fromText="Aniceto Alvarado Contreras" toID="p10" toText="Aniceto Alvarado Contreras, a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" />
+<entity_link id="en14" fromID="p11" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="p5" toText="Aniceto Alvarado Contreras" />
+<entity_link id="en15" fromID="p12" fromText="CBP officers" toID="p9" toText="CBP officers" />
+<entity_link id="en16" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en17" fromID="p13" fromText="Alvarado Contreras" toID="p5" toText="Aniceto Alvarado Contreras" />
+<entity_link id="en18" fromID="p15" fromText="passenger Agueda Raquel Hernandez Manrique, 36" toID="p14" toText="passenger Agueda Raquel Hernandez Manrique, 36, also a Mexican citizen from Nuevo Laredo, Mexico" />
+<entity_link id="en19" fromID="p16" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="p15" toText="passenger Agueda Raquel Hernandez Manrique, 36" />
+<entity_link id="en20" fromID="p17" fromText="passenger" toID="p15" toText="passenger Agueda Raquel Hernandez Manrique, 36" />
+<entity_link id="en21" fromID="g8" fromText="Mexican" toID="g7" toText="Mexico" />
+<entity_link id="en22" fromID="g9" fromText="Nuevo Laredo, Mexico" toID="g5" toText="Nuevo Laredo Tamaulipas, Mexico" />
+<entity_link id="en23" fromID="g10" fromText="Mexico" toID="g8" toText="Mexican" />
+<entity_link id="en24" fromID="p21" fromText="who" toID="p20" toText="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" />
+<entity_link id="en4" fromID="p4" fromText="them" toID="p18" toText="the pair" />
+<entity_link id="en5" fromID="p6" fromText="CBP officers" toID="p12" toText="CBP officers" />
+<entity_link id="en8" fromID="o7" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en9" fromID="p7" fromText="Our officers" toID="p12" toText="CBP officers" />
+<entity_link id="en25" fromID="o8" fromText="Our" toID="o7" toText="CBP" />
+<entity_link id="en26" fromID="p8" fromText="their" toID="p7" toText="Our officers" />
+<entity_link id="en27" fromID="p22" fromText="Gene Garza" toID="p19" toText="Gene Garza, CBP port director, Laredo" />
+<entity_link id="en28" fromID="p23" fromText="CBP port director, Laredo" toID="p22" toText="Gene Garza" />
+<entity_link id="en29" fromID="o9" fromText="CBP" toID="o7" toText="CBP" />
+<entity_link id="en30" fromID="g11" fromText="Laredo" toID="g1" toText="Laredo, Texas" />
+<entity_link id="en31" fromID="p24" fromText="our officers" toID="p7" toText="Our officers" />
+<entity_link id="en32" fromID="o10" fromText="our" toID="o8" toText="Our" />
+<entity_link id="en33" fromID="p2" fromText="two Nuevo Laredo residents" toID="p25" toText="2 Nuevo Laredo Residents" />
+<entity_link id="en34" fromID="g3" fromText="Nuevo Laredo" toID="g12" toText="Nuevo Laredo" />
+<entity_link id="en35" fromID="p18" fromText="the pair" toID="p2" toText="two Nuevo Laredo residents" />
+<head_link id="he0" fromID="p0" fromText="Laredo CBP Officers" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="g1" fromText="Laredo, Texas" toID="h3" toText="Laredo" />
+<head_link id="he3" fromID="g2" fromText="Texas" toID="h4" toText="Texas" />
+<head_link id="he4" fromID="p1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="h5" toText="officers" />
+<head_link id="he5" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he6" fromID="f1" fromText="the Laredo port of entry" toID="h7" toText="Laredo port of entry" />
+<head_link id="he7" fromID="p2" fromText="two Nuevo Laredo residents" toID="h8" toText="residents" />
+<head_link id="he8" fromID="g3" fromText="Nuevo Laredo" toID="h9" toText="Nuevo Laredo" />
+<head_link id="he9" fromID="f2" fromText="the Lincoln-Juarez Bridge" toID="h10" toText="Lincoln-Juarez Bridge" />
+<head_link id="he10" fromID="p3" fromText="A CBP officer" toID="h11" toText="officer" />
+<head_link id="he11" fromID="o2" fromText="CBP" toID="h12" toText="CBP" />
+<head_link id="he12" fromID="p5" fromText="Aniceto Alvarado Contreras" toID="h13" toText="Aniceto Alvarado Contreras" />
+<head_link id="he14" fromID="g4" fromText="Mexican" toID="h15" toText="Mexican" />
+<head_link id="he15" fromID="g5" fromText="Nuevo Laredo Tamaulipas, Mexico" toID="h16" toText="Nuevo Laredo" />
+<head_link id="he16" fromID="g6" fromText="Tamaulipas, Mexico" toID="h17" toText="Tamaulipas" />
+<head_link id="he17" fromID="g7" fromText="Mexico" toID="h18" toText="Mexico" />
+<head_link id="he19" fromID="o3" fromText="CBP" toID="h19" toText="CBP" />
+<head_link id="he20" fromID="p9" fromText="CBP officers" toID="h20" toText="officers" />
+<head_link id="he21" fromID="o4" fromText="CBP" toID="h21" toText="CBP" />
+<head_link id="he22" fromID="p11" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="h14" toText="citizen" />
+<head_link id="he23" fromID="p12" fromText="CBP officers" toID="h22" toText="officers" />
+<head_link id="he24" fromID="o5" fromText="CBP" toID="h23" toText="CBP" />
+<head_link id="he25" fromID="p13" fromText="Alvarado Contreras" toID="h24" toText="Alvarado Contreras" />
+<head_link id="he26" fromID="p15" fromText="passenger Agueda Raquel Hernandez Manrique, 36" toID="h25" toText="Agueda Raquel Hernandez Manrique" />
+<head_link id="he27" fromID="p16" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="h26" toText="citizen" />
+<head_link id="he28" fromID="p17" fromText="passenger" toID="h27" toText="passenger" />
+<head_link id="he29" fromID="g8" fromText="Mexican" toID="h28" toText="Mexican" />
+<head_link id="he30" fromID="g9" fromText="Nuevo Laredo, Mexico" toID="h29" toText="Nuevo Laredo" />
+<head_link id="he31" fromID="g10" fromText="Mexico" toID="h30" toText="Mexico" />
+<head_link id="he32" fromID="p18" fromText="the pair" toID="h31" toText="pair" />
+<head_link id="he34" fromID="p20" fromText="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" toID="h32" toText="agents" />
+<head_link id="he35" fromID="p21" fromText="who" toID="h33" toText="who" />
+<head_link id="he13" fromID="o6" fromText="U.S. Immigration and Customs Enforcement" toID="h34" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he18" fromID="p4" fromText="them" toID="h35" toText="them" />
+<head_link id="he33" fromID="p6" fromText="CBP officers" toID="h36" toText="officers" />
+<head_link id="he36" fromID="o7" fromText="CBP" toID="h37" toText="CBP" />
+<head_link id="he37" fromID="p7" fromText="Our officers" toID="h38" toText="officers" />
+<head_link id="he38" fromID="o8" fromText="Our" toID="h39" toText="Our" />
+<head_link id="he39" fromID="p8" fromText="their" toID="h40" toText="their" />
+<head_link id="he40" fromID="p22" fromText="Gene Garza" toID="h41" toText="Gene Garza" />
+<head_link id="he41" fromID="p23" fromText="CBP port director, Laredo" toID="h42" toText="director" />
+<head_link id="he42" fromID="o9" fromText="CBP" toID="h43" toText="CBP" />
+<head_link id="he43" fromID="g11" fromText="Laredo" toID="h44" toText="Laredo" />
+<head_link id="he44" fromID="f0" fromText="port" toID="h45" toText="port" />
+<head_link id="he45" fromID="p24" fromText="our officers" toID="h46" toText="officers" />
+<head_link id="he46" fromID="o10" fromText="our" toID="h47" toText="our" />
+<head_link id="he47" fromID="l0" fromText="the border" toID="h48" toText="border" />
+<head_link id="he48" fromID="p25" fromText="2 Nuevo Laredo Residents" toID="h49" toText="Residents" />
+<head_link id="he49" fromID="g12" fromText="Nuevo Laredo" toID="h50" toText="Nuevo Laredo" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g1" fromText="Laredo, Texas" toID="n2" toText="Laredo" />
+<name_link id="na2" fromID="g2" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na3" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na4" fromID="f1" fromText="the Laredo port of entry" toID="n5" toText="Laredo port of entry" />
+<name_link id="na5" fromID="g3" fromText="Nuevo Laredo" toID="n6" toText="Nuevo Laredo" />
+<name_link id="na6" fromID="f2" fromText="the Lincoln-Juarez Bridge" toID="n7" toText="Lincoln-Juarez Bridge" />
+<name_link id="na7" fromID="o2" fromText="CBP" toID="n8" toText="CBP" />
+<name_link id="na8" fromID="p5" fromText="Aniceto Alvarado Contreras" toID="n9" toText="Aniceto Alvarado Contreras" />
+<name_link id="na9" fromID="g4" fromText="Mexican" toID="n10" toText="Mexican" />
+<name_link id="na10" fromID="g5" fromText="Nuevo Laredo Tamaulipas, Mexico" toID="n11" toText="Nuevo Laredo" />
+<name_link id="na11" fromID="g6" fromText="Tamaulipas, Mexico" toID="n12" toText="Tamaulipas" />
+<name_link id="na12" fromID="g7" fromText="Mexico" toID="n13" toText="Mexico" />
+<name_link id="na13" fromID="o3" fromText="CBP" toID="n14" toText="CBP" />
+<name_link id="na14" fromID="o4" fromText="CBP" toID="n15" toText="CBP" />
+<name_link id="na15" fromID="o5" fromText="CBP" toID="n16" toText="CBP" />
+<name_link id="na16" fromID="p13" fromText="Alvarado Contreras" toID="n17" toText="Alvarado Contreras" />
+<name_link id="na17" fromID="p15" fromText="passenger Agueda Raquel Hernandez Manrique, 36" toID="n18" toText="Agueda Raquel Hernandez Manrique" />
+<name_link id="na18" fromID="g8" fromText="Mexican" toID="n19" toText="Mexican" />
+<name_link id="na19" fromID="g9" fromText="Nuevo Laredo, Mexico" toID="n20" toText="Nuevo Laredo" />
+<name_link id="na20" fromID="g10" fromText="Mexico" toID="n21" toText="Mexico" />
+<name_link id="na21" fromID="o6" fromText="U.S. Immigration and Customs Enforcement" toID="n22" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na22" fromID="o7" fromText="CBP" toID="n23" toText="CBP" />
+<name_link id="na23" fromID="p22" fromText="Gene Garza" toID="n24" toText="Gene Garza" />
+<name_link id="na24" fromID="o9" fromText="CBP" toID="n25" toText="CBP" />
+<name_link id="na25" fromID="g11" fromText="Laredo" toID="n26" toText="Laredo" />
+<name_link id="na26" fromID="g12" fromText="Nuevo Laredo" toID="n27" toText="Nuevo Laredo" />
+<relation_link1 id="r0" fromID="e0" fromText="Laredo CBP Officers" toID="p0" toText="Laredo CBP Officers" />
+<relation_link1 id="r1" fromID="lo0" fromText="Laredo CBP Officers" toID="p0" toText="Laredo CBP Officers" />
+<relation_link1 id="r2" fromID="e1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="p1" toText="U.S. Customs and Border Protection officers at the Laredo port of entry" />
+<relation_link1 id="r3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="p1" toText="U.S. Customs and Border Protection officers at the Laredo port of entry" />
+<relation_link1 id="r4" fromID="e2" fromText="A CBP officer" toID="p3" toText="A CBP officer" />
+<relation_link1 id="r6" fromID="e3" fromText="CBP officers" toID="p9" toText="CBP officers" />
+<relation_link1 id="r7" fromID="e4" fromText="CBP officers" toID="p12" toText="CBP officers" />
+<relation_link1 id="r5" fromID="e5" fromText="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" toID="p20" toText="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" />
+<relation_link1 id="r10" fromID="e6" fromText="CBP officers" toID="p6" toText="CBP officers" />
+<relation_link1 id="r11" fromID="e7" fromText="Our officers" toID="p7" toText="Our officers" />
+<relation_link1 id="r12" fromID="e8" fromText="CBP port director, Laredo" toID="p23" toText="CBP port director, Laredo" />
+<relation_link1 id="r13" fromID="lo4" fromText="CBP port director, Laredo" toID="p23" toText="CBP port director, Laredo" />
+<relation_link1 id="r14" fromID="lo5" fromText="CBP port director, Laredo" toID="p23" toText="CBP port director, Laredo" />
+<relation_link1 id="r15" fromID="e9" fromText="our officers" toID="p24" toText="our officers" />
+<relation_link1 id="r16" fromID="C0" fromText="2 Nuevo Laredo Residents" toID="p25" toText="2 Nuevo Laredo Residents" />
+<relation_link1 id="r17" fromID="C1" fromText="two Nuevo Laredo residents" toID="p2" toText="two Nuevo Laredo residents" />
+<relation_link1 id="r18" fromID="C2" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="p11" toText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" />
+<relation_link1 id="r19" fromID="C3" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="p11" toText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" />
+<relation_link1 id="r20" fromID="C4" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="p16" toText="a Mexican citizen from Nuevo Laredo, Mexico" />
+<relation_link1 id="r21" fromID="C5" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="p16" toText="a Mexican citizen from Nuevo Laredo, Mexico" />
+<relation_link2 id="re0" fromID="e0" fromText="Laredo CBP Officers" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="Laredo CBP Officers" toID="g0" toText="Laredo" />
+<relation_link2 id="re2" fromID="e1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at the Laredo port of entry" toID="f1" toText="the Laredo port of entry" />
+<relation_link2 id="re4" fromID="e2" fromText="A CBP officer" toID="o2" toText="CBP" />
+<relation_link2 id="re6" fromID="e3" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re7" fromID="e4" fromText="CBP officers" toID="o5" toText="CBP" />
+<relation_link2 id="re5" fromID="e5" fromText="U.S. Immigration and Customs Enforcement special agents who investigated the seizure and processed them on federal drug charges" toID="o6" toText="U.S. Immigration and Customs Enforcement" />
+<relation_link2 id="re10" fromID="e6" fromText="CBP officers" toID="o7" toText="CBP" />
+<relation_link2 id="re11" fromID="e7" fromText="Our officers" toID="o8" toText="Our" />
+<relation_link2 id="re12" fromID="e8" fromText="CBP port director, Laredo" toID="o9" toText="CBP" />
+<relation_link2 id="re13" fromID="lo4" fromText="CBP port director, Laredo" toID="g11" toText="Laredo" />
+<relation_link2 id="re14" fromID="lo5" fromText="CBP port director, Laredo" toID="f0" toText="port" />
+<relation_link2 id="re15" fromID="e9" fromText="our officers" toID="o10" toText="our" />
+<relation_link2 id="re16" fromID="C0" fromText="2 Nuevo Laredo Residents" toID="g12" toText="Nuevo Laredo" />
+<relation_link2 id="re17" fromID="C1" fromText="two Nuevo Laredo residents" toID="g3" toText="Nuevo Laredo" />
+<relation_link2 id="re18" fromID="C2" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="g4" toText="Mexican" />
+<relation_link2 id="re19" fromID="C3" fromText="a 37-year-old male Mexican citizen from Nuevo Laredo Tamaulipas, Mexico" toID="g5" toText="Nuevo Laredo Tamaulipas, Mexico" />
+<relation_link2 id="re20" fromID="C4" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="g8" toText="Mexican" />
+<relation_link2 id="re21" fromID="C5" fromText="a Mexican citizen from Nuevo Laredo, Mexico" toID="g9" toText="Nuevo Laredo, Mexico" />
+</TAGS>
+</KddTask>

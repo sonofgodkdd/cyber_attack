@@ -1,0 +1,23 @@
+Third Critical Drupal Flaw Discovered—Patch Your Sites Immediately
+Mohit Kumar
+
+Damn! You have to update your Drupal websites.
+Yes, of course once again—literally it’s the third time in last 30 days.
+As notified in advance two days back, Drupal has now released new versions of its software to patch yet another critical remote code execution (RCE) vulnerability, affecting its Drupal 7 and 8 core.
+Drupal is a popular open-source content management system software that powers millions of websites, and unfortunately, the CMS has been under active attacks since after the disclosure of a highly critical remote code execution vulnerability.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The new vulnerability was discovered while exploring the previously disclosed RCE vulnerability, dubbed Drupalgeddon2 (CVE-2018-7600) that was patched on March 28, forcing the Drupal team to release this follow-up patch update.
+According to a new advisory released by the team, the new remote code execution vulnerability (CVE-2018-7602) could also allow attackers to take over vulnerable websites completely.
+How to Patch Drupal Vulnerability
+Since the previously disclosed flaw derived much attention and motivated attackers to target websites running over Drupal, the company has urged all website administrators to install new security patches as soon as possible.
+If you are running 7.x, upgrade to Drupal 7.59.
+If you are running 8.5.x, upgrade to Drupal 8.5.3.
+If you are running 8.4.x, which is no longer supported, you need first to update your site to 8.4.8 release and then install the latest 8.5.3 release as soon as possible.
+It should also be noted that the new patches will only work if your site has already applied patches for Drupalgeddon2 flaw.
+"We are not aware of any active exploits in the wild for the new vulnerability," a drupal spokesperson told The Hacker News. "Moreover, the new flaw is more complex to string together into an exploit."
+Technical details of the flaw, can be named Drupalgeddon3, have not been released in the advisory, but that does not mean you can wait until next morning to update your website, believing it won't be attacked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+We have seen how attackers developed automated exploits leveraging Drupalgeddon2 vulnerability to inject cryptocurrency miners, backdoors, and other malware into websites, within few hours after it's detailed went public.
+Besides these two flaws, the team also patched a moderately critical cross-site scripting (XSS) vulnerability last week, which could have allowed remote attackers to pull off advanced attacks including cookie theft, keylogging, phishing and identity theft.
+Therefore, Drupal website admins are highly recommended to update their websites as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

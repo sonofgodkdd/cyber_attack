@@ -1,0 +1,28 @@
+Massive Breach Exposes Keyboard App that Collects Personal Data On Its 31 Million Users
+Mohit Kumar
+
+In the digital age, one of the most popular sayings is—if you're not paying, then you're not the customer, you're the product.
+While downloading apps on their smartphones, most users may not realize how much data they collect on you.
+Believe me; it’s way more than you can imagine.
+Nowadays, many app developers are following irresponsible practices that are worth understanding, and we don't have a better example than this newly-reported incident about a virtual keyboard app.
+A team of security researchers at the Kromtech Security Center has discovered a massive trove of personal data belonging to more than 31 million users of the popular virtual keyboard app, AI.type, accidentally leaked online for anyone to download without requiring any password.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Founded in 2010, Ai.type is a customizable and personalizable on-screen keyboard for mobile phones and tablets, with more than 40 million users worldwide.
+Apparently, a misconfigured MongoDB database, owned by the Tel Aviv-based startup AI.type, exposed their entire 577 GB of the database online that includes a shocking amount of sensitive details on their users, which is not even necessary for the app to work.
+"...they appear to collect everything from contacts to keystrokes."
+The leaked database of over 31 million users includes:
+Full name, phone number, and email address
+Device name, screen resolution and model details
+Android version, IMSI number, and IMEI number
+Mobile network name, country of residence and even user enabled languages
+IP address (if available), along with GPS location (longitude/latitude).
+Links and the information associated with the social media profiles, including birth date, emails, photos.
+"When researchers installed Ai.Type they were shocked to discover that users must allow 'Full Access' to all of their data stored on the testing iPhone, including all keyboard data past and present," the researchers say.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's more?
+Moreover, the leaked database also reveals that the virtual keyboard app is also stealing users' contact books, including the contacts' names and phone numbers—and already scraped more than 373 million records.
+"There was a range of other statistics like the most popular users’ Google queries for different regions. Data like average messages per day, words per message, the age of users, words_per_day': 0.0, 'word_per_session and a detailed look at their customers," the researchers say.
+Researchers go on to raise a question that "why would like a keyboard, and emoji application need to gather the entire data of the user's phone or tablet?"
+Even the recent data breaches have taught us that once our personal data gets in the hands of cybercriminals, it makes us vulnerable forever.
+Therefore, the best defense to protect yourself is always—awareness.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

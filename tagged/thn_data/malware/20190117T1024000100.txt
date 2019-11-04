@@ -1,0 +1,18 @@
+Ukrainian Police Arrest 6 Hackers Linked to DDoS and Financial Attacks
+Swati Khandelwal
+
+Ukrainian Police have this week busted out two separate groups of hackers involved in carrying out DDoS attacks against news agencies and stealing money from Ukrainian citizens, respectively.
+According to the authorities, the four suspected hackers they arrested last week, all aged from 26 to 30 years, stole more than 5 million Hryvnia (around 178,380 USD) from the bank accounts of Ukrainian citizens by hacking into their computers.
+The suspects carried out their attacks by scanning vulnerable computers on the Internet and infecting them with a custom Trojan malware to take full remote control of the systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The group then apparently enabled key-logging on the infected computers in an attempt to capture banking credentials of victims when the owners of those infected computers fill in that information on any banking site or their digital currency wallet.
+Once getting a hold on the victims banking and financial data, the attackers logged into their online banking accounts and transferred the funds or cryptocurrencies to the accounts controlled by the attackers.
+"Usually such actions were carried out at night," the authorities said. "At the same time, the bank did not react to these operations, as they were carried out by the trusted user. The operation was completely legitimate."
+Besides stealing money, the suspects also left the backdoor on the victims' computers for further control, so that they can use them in the future for carrying out other illicit activities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Criminal proceedings against all the four people have been initiated under several articles of the Criminal Code of Ukraine, including theft and unauthorized interference with the work of computers, automated systems, computer networks or telecommunication networks.
+Two Ukrainian DDoS Hackers Arrested
+In a separate press release, Police today announced the arrest of two other hackers, 21- and 22-years-old, suspected of performing DDoS attacks against several critical Ukrainian resources, including news sites of the city of Mariupol and several state educational institutions.
+According to the authorities, the duo developed two DDoS hacking tools which they used to send hundreds of automatic queries to their targeted regional information resources every second, eventually making their service unavailable.
+The pair is currently facing up to six years in prison under article 361 of the Criminal Code of Ukraine, which includes unlawful interference with the work of computers, automated systems, computer networks or telecommunication networks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

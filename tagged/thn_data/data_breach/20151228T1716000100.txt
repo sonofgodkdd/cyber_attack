@@ -1,0 +1,30 @@
+191 Million US Voters' Personal Info Exposed by Misconfigured Database
+Swati Khandelwal
+
+BREAKING: A misconfigured database has resulted in the exposure of around 191 Million voter records including voters' full names, their home addresses, unique voter IDs, date of births and phone numbers.
+The database was discovered on December 20th by Chris Vickery, a white hat hacker, who was able to access over 191 Million Americans’ personal identifying information (PII) that are just sitting in the public to be found by anyone looking for it.
+Vickery is the same security researcher who uncovered personal details of 13 Million MacKeeper users two weeks ago, which included names, email addresses, usernames, password hashes, IP addresses, phone numbers, and system information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the recent discovery made him shocked when he saw his own information in the database, according to DataBreaches.net, whom the researcher contacted and provided all the details about his finding.
+300GB Trove of Voters' Information Leaked
+Vickery has his hands on all 300GB of database contains a long list of voter records including:
+Full name (first, middle, last)
+Residential address
+Mailing address
+A unique voter ID
+State voter ID
+Gender
+Date of birth
+Date of registration
+Phone number
+Political affiliation
+A detailed voting history since 2000
+Fields for voter prediction scores
+Not just his own, but Vickery also looked up a number of police officers in his city and confirmed the information was all correct. Reporters from CSO and DataBreaches.net also did the same and upheld the accuracy as well.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Fortunately, the database doesn't contain Social Security Numbers, driver license numbers, or any financial data, but it's still a massive amount of data when it comes to protecting users privacy and security.
+What's even more Shocking?
+The crazy part of the data breach is no one is taking responsibility for the exposed database. 
+Vickery, CSO and DataBreaches.net contacted various political tech groups and known voter information companies, but all denied the database belonged to them.
+The FBI and Internet Crime Complaint Center were all approached by Vickery and DataBreaches.net; so let’s now see how long this information remains alive and accessible for anyone to see.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

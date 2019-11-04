@@ -1,0 +1,22 @@
+Hundreds of High-Profile Twitter Accounts Hacked through 3rd-Party App
+Wang Wei
+In a large-scale Twitter hack, thousands of Twitter accounts from media outlets to celebrities, including the European Parliament, Forbes, BlockChain, Amnesty International, UNICEF, Nike Spain and numerous other individuals and organizations, were compromised early Wednesday.
+The compromised Twitter accounts is pushing a disturbing spam message written in Turkish comparing the Dutch to the Nazis, with Swastikas and a "#NaziHollanda" or "#Nazialmanya" (Nazi Germany) hashtag, and changed some of the victims' profile pictures to an image of the Turkish flag and Ottoman Empire coat of arms.
+In addition to the message, the hackers are also posting a link to a YouTube video and the Twitter account Sebo.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the latest reports, this weird Twitter activity on numerous high-profile accounts is the result of a vulnerability in the third-party app called Twitter Counter.
+Twitter Counter is a social media analytics service that helps Twitter users to track their stats and also offers a variety of widgets and buttons.
+"We're aware that our service was hacked and have started an investigation into the matter. We've already taken measures to contain such abuse", Twitter Counter said on Twitter.However, the company has made it very clear that no "Twitter account credentials (passwords)" or "credit card information" has been compromised, as the company does not store this information on users.
+TIP — Revoke TwitterCounter app permissions immediately to protect your Twitter Account from being hacked.CLICK TO TWEETTwitter Counter is actively working on fixing the issue over its end.
+"Assuming this abuse is indeed done using our system, we’ve blocked all ability to post tweets and changed our Twitter app key," the company said on Twitter.Although many of the compromised Twitter accounts have seemed to have taken back control from hackers, the embarrassed tweets are still visible on many compromised accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Forbes appears to have regained access to their Twitter accounts, but are still in the process of getting fully restored. For instance, Forbes Twitter account has an egg avatar, at the time of writing.
+How To Protect Your Twitter AccountSince the attack appears to be coming through a vulnerability in the third-party app, users are advised to revoke permission to this app, as well as other unnecessary third party apps.
+If you have ever used Twitter Counter, you should:
+Go to "Settings and Privacy."
+Click on the "Apps" section.
+Revoke the third-party access to Twitter Counter.
+Remove old apps that are no longer in use or ones you don't recognise.
+Also, if you haven't yet, you are strongly advised to enable two-factor authentication on your account via the account settings section of Twitter. This will help you protect your accounts against password attacks in the future.
+Besides enabling 2FA, always choose a strong password for your accounts. If you are unable to create and remember different passwords for each site, you can use a good password manager.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+February 18, 2010
+Paul Knierim
+Public Information Officer
+202-307-8244
+Leader of Bronx Crack Gang Sentenced in Manhattan Federal Court to Life in Prison for Murder and Crack Conspiracy
+FEB 18  -- 
+(MANHATTAN, NY)  JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division and PREET BHARARA, the United States Attorney for the Southern District of New York, announced that ANGEL MARTINEZ, a/k/a "Druggie Lou," was sentenced today to a term of life in prison for committing the 1992 murder of a rival drug dealer and for running a gang that distributed crack cocaine in Bronx, New York.
+The sentence was imposed by United States District Judge DENNY CHIN in Manhattan federal court. MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy.
+According to documents filed in this case and the evidence at trial: From 1991 until November 2006, MARTINEZ led a large scale retail crack distribution business centered on Gerard Avenue and 167th Street in the Bronx.
+For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a "Geo," and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings. MARTINEZ, TORRES, and another co-conspirator ("CC-1") shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992. Believing ORTIZ was a rival drug dealer, MARTINEZ, TORRES, and CC-1 shot ORTIZ seven times as ORTIZ was on a payphone in front of 1147 River Avenue, a territory controlled by MARTINEZ. MARTINEZ, TORRES, and 15 of their workers were arrested between October 2006 and March 2007 by agents of the United States Drug Enforcement Administration's New York Field Division ("DEA"). The 15 workers have each previously pleaded guilty to conspiring to distribute crack cocaine. TORRES pleaded guilty to the murder of HERBERT ORTIZ on August 20, 2009. He is scheduled to be sentenced on a later date.
+In sentencing MARTINEZ, Judge CHIN stated that MARTINEZ had committed "a heinous crime" in carrying out "the execution of a young man for daring to sell drugs on MARTINEZ's turf." United States Attorney BHARARA praised the work of the DEA in this case.
+Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA are in charge of the prosecution.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="19" end="31" text="Paul Knierim" TYPE="NAM" />
+<person id="p1" start="32" end="58" text="Public Information Officer" TYPE="BAR" />
+<person id="p2" start="72" end="185" text="Leader of Bronx Crack Gang Sentenced in Manhattan Federal Court to Life in Prison for Murder and Crack Conspiracy" TYPE="BAR" />
+<person id="p3" start="82" end="98" text="Bronx Crack Gang" TYPE="BAR" />
+<person id="p4" start="215" end="321" text="JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" TYPE="APP" />
+<person id="p5" start="215" end="231" text="JOHN P. GILBRIDE" TYPE="NAM" />
+<person id="p6" start="233" end="321" text="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" TYPE="NOM" />
+<person id="p7" start="326" end="405" text="PREET BHARARA, the United States Attorney for the Southern District of New York" TYPE="APP" />
+<person id="p8" start="326" end="339" text="PREET BHARARA" TYPE="NAM" />
+<person id="p9" start="341" end="405" text="the United States Attorney for the Southern District of New York" TYPE="NOM" />
+<person id="p10" start="422" end="458" text="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" TYPE="NAM" />
+<person id="p11" start="445" end="456" text="Druggie Lou" TYPE="NAM" />
+<person id="p12" start="541" end="560" text="a rival drug dealer" TYPE="NOM" />
+<person id="p13" start="577" end="633" text="a gang that distributed crack cocaine in Bronx, New York" TYPE="NOM" />
+<person id="p14" start="584" end="588" text="that" TYPE="PRO" />
+<person id="p16" start="663" end="691" text="United States District Judge" TYPE="NOMPRE" />
+<person id="p17" start="731" end="743" text="MARTINEZ, 39" TYPE="NAM" />
+<person id="p18" start="800" end="804" text="jury" TYPE="NOMPRE" />
+<person id="p19" start="818" end="828" text="Judge CHIN" TYPE="NAM" />
+<person id="p20" start="818" end="823" text="Judge" TYPE="NOMPRE" />
+<person id="p21" start="841" end="914" text="a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York" TYPE="NOM" />
+<person id="p22" start="848" end="852" text="that" TYPE="PRO" />
+<person id="p23" start="992" end="1005" text="HERBERT ORTIZ" TYPE="NAM" />
+<person id="p24" start="1044" end="1052" text="MARTINEZ" TYPE="NAM" />
+<person id="p25" start="1173" end="1181" text="MARTINEZ" TYPE="NAM" />
+<person id="p26" start="1311" end="1319" text="MARTINEZ" TYPE="NAM" />
+<person id="p27" start="1324" end="1351" text="GEORGE TORRES, a/k/a 'Geo,'" TYPE="NAM" />
+<person id="p28" start="1346" end="1349" text="Geo" TYPE="NAM" />
+<person id="p29" start="1356" end="1372" text="their associates" TYPE="NOM" />
+<person id="p30" start="1498" end="1506" text="MARTINEZ" TYPE="NAM" />
+<person id="p31" start="1508" end="1514" text="TORRES" TYPE="NAM" />
+<person id="p32" start="1520" end="1549" text="another co-conspirator ('CC-1" TYPE="NOM" />
+<person id="p33" start="1545" end="1549" text="CC-1" TYPE="NAMPRE" />
+<person id="p34" start="1568" end="1581" text="HERBERT ORTIZ" TYPE="NAM" />
+<person id="p35" start="1679" end="1684" text="ORTIZ" TYPE="NAM" />
+<person id="p36" start="1689" end="1708" text="a rival drug dealer" TYPE="NOM" />
+<person id="p37" start="1710" end="1718" text="MARTINEZ" TYPE="NAM" />
+<person id="p38" start="1720" end="1726" text="TORRES" TYPE="NAM" />
+<person id="p39" start="1732" end="1736" text="CC-1" TYPE="NAM" />
+<person id="p40" start="1742" end="1747" text="ORTIZ" TYPE="NAM" />
+<person id="p41" start="1763" end="1768" text="ORTIZ" TYPE="NAM" />
+<person id="p42" start="1844" end="1852" text="MARTINEZ" TYPE="NAM" />
+<person id="p43" start="1854" end="1862" text="MARTINEZ" TYPE="NAM" />
+<person id="p44" start="1864" end="1870" text="TORRES" TYPE="NAM" />
+<person id="p45" start="1876" end="1895" text="15 of their workers" TYPE="PTV" />
+<person id="p46" start="1882" end="1895" text="their workers" TYPE="NOM" />
+<person id="p47" start="1882" end="1887" text="their" TYPE="PRO" />
+<person id="p48" start="1949" end="2040" text="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" TYPE="BAR" />
+<person id="p49" start="2044" end="2058" text="The 15 workers" TYPE="NOM" />
+<person id="p50" start="2064" end="2068" text="each" TYPE="HLS" />
+<person id="p51" start="2138" end="2144" text="TORRES" TYPE="NAM" />
+<person id="p52" start="2177" end="2190" text="HERBERT ORTIZ" TYPE="NAM" />
+<person id="p53" start="2211" end="2213" text="He" TYPE="PRO" />
+<person id="p54" start="2274" end="2282" text="MARTINEZ" TYPE="NAM" />
+<person id="p55" start="2284" end="2294" text="Judge CHIN" TYPE="NAM" />
+<person id="p56" start="2284" end="2289" text="Judge" TYPE="NOMPRE" />
+<person id="p57" start="663" end="729" text="United States District Judge DENNY CHIN in Manhattan federal court" TYPE="NAM" />
+<person id="p58" start="2307" end="2315" text="MARTINEZ" TYPE="NAM" />
+<person id="p59" start="2382" end="2393" text="a young man" TYPE="NOM" />
+<person id="p60" start="2422" end="2430" text="MARTINEZ" TYPE="NAM" />
+<person id="p61" start="2440" end="2470" text="United States Attorney BHARARA" TYPE="NAM" />
+<person id="p62" start="2440" end="2462" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p63" start="2513" end="2588" text="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" TYPE="NAM" />
+<person id="p64" start="2513" end="2588" text="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" TYPE="NAM" />
+<person id="p65" start="2513" end="2546" text="Assistant United States Attorneys" TYPE="NOMPRE" />
+<organization id="o0" start="112" end="135" text="Manhattan Federal Court" TYPE="BAR" />
+<organization id="o1" start="233" end="264" text="Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o2" start="294" end="321" text="the New York Field Division" TYPE="NAM" />
+<organization id="o3" start="372" end="405" text="the Southern District of New York" TYPE="NAM" />
+<organization id="o4" start="677" end="685" text="District" TYPE="NOMPRE" />
+<organization id="o5" start="706" end="729" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o6" start="1959" end="2040" text="the United States Drug Enforcement Administration's New York Field Division ('DEA" TYPE="NAM" />
+<organization id="o7" start="1959" end="2008" text="the United States Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o8" start="2037" end="2040" text="DEA" TYPE="NAM" />
+<organization id="o9" start="2491" end="2498" text="the DEA" TYPE="NAM" />
+<geographical-political id="g0" start="82" end="87" text="Bronx" TYPE="NAMPRE" />
+<geographical-political id="g1" start="112" end="121" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g2" start="199" end="212" text="MANHATTAN, NY" TYPE="NAM" />
+<geographical-political id="g3" start="210" end="212" text="NY" TYPE="NAM" />
+<geographical-political id="g4" start="345" end="358" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="618" end="633" text="Bronx, New York" TYPE="NAM" />
+<geographical-political id="g6" start="625" end="633" text="New York" TYPE="NAM" />
+<geographical-political id="g7" start="663" end="676" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g8" start="706" end="715" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g9" start="899" end="914" text="Bronx, New York" TYPE="NAM" />
+<geographical-political id="g10" start="906" end="914" text="New York" TYPE="NAM" />
+<geographical-political id="g11" start="1009" end="1018" text="the Bronx" TYPE="NAM" />
+<geographical-political id="g12" start="1281" end="1290" text="the Bronx" TYPE="NAM" />
+<geographical-political id="g13" start="2440" end="2453" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g14" start="2523" end="2536" text="United States" TYPE="NAMPRE" />
+<location id="l0" start="1585" end="1632" text="the corner of River Avenue and McClellan Street" TYPE="NOM" />
+<falicity id="f0" start="147" end="153" text="Prison" TYPE="BAR" />
+<falicity id="f1" start="882" end="914" text="Gerard Avenue in Bronx, New York" TYPE="NAM" />
+<falicity id="f2" start="1247" end="1290" text="Gerard Avenue and 167th Street in the Bronx" TYPE="NAM" />
+<falicity id="f3" start="1247" end="1290" text="Gerard Avenue and 167th Street in the Bronx" TYPE="NAM" />
+<falicity id="f4" start="1446" end="1464" text="1170 Gerard Avenue" TYPE="NAM" />
+<falicity id="f5" start="1451" end="1464" text="Gerard Avenue" TYPE="NAM" />
+<falicity id="f6" start="1469" end="1496" text="other surrounding buildings" TYPE="NOM" />
+<falicity id="f7" start="1599" end="1611" text="River Avenue" TYPE="NAM" />
+<falicity id="f8" start="1616" end="1632" text="McClellan Street" TYPE="NAM" />
+<falicity id="f9" start="1799" end="1852" text="1147 River Avenue, a territory controlled by MARTINEZ" TYPE="NAM" />
+<falicity id="f11" start="1804" end="1852" text="River Avenue, a territory controlled by MARTINEZ" TYPE="NAM" />
+<head id="h0" start="19" end="31" text="Paul Knierim" />
+<head id="h1" start="51" end="58" text="Officer" />
+<head id="h2" start="72" end="78" text="Leader" />
+<head id="h3" start="94" end="98" text="Gang" />
+<head id="h4" start="82" end="87" text="Bronx" />
+<head id="h5" start="130" end="135" text="Court" />
+<head id="h6" start="112" end="121" text="Manhattan" />
+<head id="h7" start="147" end="153" text="Prison" />
+<head id="h8" start="199" end="208" text="MANHATTAN" />
+<head id="h9" start="210" end="212" text="NY" />
+<head id="h10" start="215" end="231" text="JOHN P. GILBRIDE" />
+<head id="h11" start="275" end="280" text="Agent" />
+<head id="h12" start="233" end="264" text="Drug Enforcement Administration" />
+<head id="h13" start="298" end="321" text="New York Field Division" />
+<head id="h14" start="326" end="339" text="PREET BHARARA" />
+<head id="h15" start="359" end="367" text="Attorney" />
+<head id="h16" start="345" end="358" text="United States" />
+<head id="h17" start="376" end="405" text="Southern District of New York" />
+<head id="h18" start="422" end="436" text="ANGEL MARTINEZ" />
+<head id="h19" start="445" end="456" text="Druggie Lou" />
+<head id="h20" start="554" end="560" text="dealer" />
+<head id="h21" start="579" end="583" text="gang" />
+<head id="h22" start="618" end="623" text="Bronx" />
+<head id="h23" start="625" end="633" text="New York" />
+<head id="h24" start="584" end="588" text="that" />
+<head id="h25" start="692" end="702" text="DENNY CHIN" />
+<head id="h26" start="686" end="691" text="Judge" />
+<head id="h27" start="677" end="685" text="District" />
+<head id="h28" start="663" end="676" text="United States" />
+<head id="h29" start="724" end="729" text="court" />
+<head id="h30" start="706" end="715" text="Manhattan" />
+<head id="h31" start="731" end="739" text="MARTINEZ" />
+<head id="h32" start="800" end="804" text="jury" />
+<head id="h33" start="824" end="828" text="CHIN" />
+<head id="h34" start="818" end="823" text="Judge" />
+<head id="h35" start="843" end="847" text="gang" />
+<head id="h36" start="848" end="852" text="that" />
+<head id="h37" start="882" end="895" text="Gerard Avenue" />
+<head id="h38" start="899" end="904" text="Bronx" />
+<head id="h39" start="906" end="914" text="New York" />
+<head id="h40" start="992" end="1005" text="HERBERT ORTIZ" />
+<head id="h41" start="1013" end="1018" text="Bronx" />
+<head id="h42" start="1044" end="1052" text="MARTINEZ" />
+<head id="h43" start="1173" end="1181" text="MARTINEZ" />
+<head id="h44" start="1247" end="1260" text="Gerard Avenue" />
+<head id="h45" start="1265" end="1277" text="167th Street" />
+<head id="h46" start="1285" end="1290" text="Bronx" />
+<head id="h47" start="1311" end="1319" text="MARTINEZ" />
+<head id="h48" start="1324" end="1337" text="GEORGE TORRES" />
+<head id="h49" start="1346" end="1349" text="Geo" />
+<head id="h50" start="1362" end="1372" text="associates" />
+<head id="h51" start="1446" end="1450" text="1170" />
+<head id="h52" start="1451" end="1464" text="Gerard Avenue" />
+<head id="h53" start="1487" end="1496" text="buildings" />
+<head id="h54" start="1498" end="1506" text="MARTINEZ" />
+<head id="h55" start="1508" end="1514" text="TORRES" />
+<head id="h56" start="1528" end="1542" text="co-conspirator" />
+<head id="h57" start="1545" end="1549" text="CC-1" />
+<head id="h58" start="1568" end="1581" text="HERBERT ORTIZ" />
+<head id="h59" start="1589" end="1595" text="corner" />
+<head id="h60" start="1599" end="1611" text="River Avenue" />
+<head id="h61" start="1616" end="1632" text="McClellan Street" />
+<head id="h62" start="1679" end="1684" text="ORTIZ" />
+<head id="h63" start="1702" end="1708" text="dealer" />
+<head id="h64" start="1710" end="1718" text="MARTINEZ" />
+<head id="h65" start="1720" end="1726" text="TORRES" />
+<head id="h66" start="1732" end="1736" text="CC-1" />
+<head id="h67" start="1742" end="1747" text="ORTIZ" />
+<head id="h68" start="1763" end="1768" text="ORTIZ" />
+<head id="h69" start="1799" end="1803" text="1147" />
+<head id="h70" start="1804" end="1816" text="River Avenue" />
+<head id="h71" start="1844" end="1852" text="MARTINEZ" />
+<head id="h72" start="1854" end="1862" text="MARTINEZ" />
+<head id="h73" start="1864" end="1870" text="TORRES" />
+<head id="h74" start="1876" end="1878" text="15" />
+<head id="h75" start="1888" end="1895" text="workers" />
+<head id="h76" start="1882" end="1887" text="their" />
+<head id="h77" start="1949" end="1955" text="agents" />
+<head id="h78" start="2011" end="2034" text="New York Field Division" />
+<head id="h79" start="1963" end="2008" text="United States Drug Enforcement Administration" />
+<head id="h80" start="2037" end="2040" text="DEA" />
+<head id="h81" start="2051" end="2058" text="workers" />
+<head id="h82" start="2064" end="2068" text="each" />
+<head id="h83" start="2138" end="2144" text="TORRES" />
+<head id="h84" start="2177" end="2190" text="HERBERT ORTIZ" />
+<head id="h85" start="2211" end="2213" text="He" />
+<head id="h86" start="2274" end="2282" text="MARTINEZ" />
+<head id="h87" start="2290" end="2294" text="CHIN" />
+<head id="h88" start="2284" end="2289" text="Judge" />
+<head id="h89" start="2307" end="2315" text="MARTINEZ" />
+<head id="h90" start="2390" end="2393" text="man" />
+<head id="h91" start="2422" end="2430" text="MARTINEZ" />
+<head id="h92" start="2463" end="2470" text="BHARARA" />
+<head id="h93" start="2454" end="2462" text="Attorney" />
+<head id="h94" start="2440" end="2453" text="United States" />
+<head id="h95" start="2495" end="2498" text="DEA" />
+<head id="h96" start="2547" end="2565" text="MICHAEL Q. ENGLISH" />
+<head id="h97" start="2570" end="2588" text="JESSICA A. MASELLA" />
+<head id="h98" start="2537" end="2546" text="Attorneys" />
+<head id="h99" start="2523" end="2536" text="United States" />
+<name id="n0" start="19" end="31" text="Paul Knierim" />
+<name id="n1" start="82" end="87" text="Bronx" />
+<name id="n2" start="112" end="121" text="Manhattan" />
+<name id="n3" start="199" end="208" text="MANHATTAN" />
+<name id="n4" start="210" end="212" text="NY" />
+<name id="n5" start="215" end="231" text="JOHN P. GILBRIDE" />
+<name id="n6" start="233" end="264" text="Drug Enforcement Administration" />
+<name id="n7" start="298" end="321" text="New York Field Division" />
+<name id="n8" start="326" end="339" text="PREET BHARARA" />
+<name id="n9" start="345" end="358" text="United States" />
+<name id="n10" start="376" end="405" text="Southern District of New York" />
+<name id="n11" start="422" end="436" text="ANGEL MARTINEZ" />
+<name id="n12" start="445" end="456" text="Druggie Lou" />
+<name id="n13" start="618" end="623" text="Bronx" />
+<name id="n14" start="625" end="633" text="New York" />
+<name id="n15" start="692" end="702" text="DENNY CHIN" />
+<name id="n16" start="663" end="676" text="United States" />
+<name id="n17" start="706" end="715" text="Manhattan" />
+<name id="n18" start="731" end="739" text="MARTINEZ" />
+<name id="n19" start="824" end="828" text="CHIN" />
+<name id="n20" start="882" end="895" text="Gerard Avenue" />
+<name id="n21" start="899" end="904" text="Bronx" />
+<name id="n22" start="906" end="914" text="New York" />
+<name id="n23" start="992" end="1005" text="HERBERT ORTIZ" />
+<name id="n24" start="1013" end="1018" text="Bronx" />
+<name id="n25" start="1044" end="1052" text="MARTINEZ" />
+<name id="n26" start="1173" end="1181" text="MARTINEZ" />
+<name id="n27" start="1247" end="1260" text="Gerard Avenue" />
+<name id="n28" start="1265" end="1277" text="167th Street" />
+<name id="n29" start="1285" end="1290" text="Bronx" />
+<name id="n30" start="1311" end="1319" text="MARTINEZ" />
+<name id="n31" start="1324" end="1337" text="GEORGE TORRES" />
+<name id="n32" start="1346" end="1349" text="Geo" />
+<name id="n33" start="1446" end="1450" text="1170" />
+<name id="n34" start="1451" end="1464" text="Gerard Avenue" />
+<name id="n35" start="1498" end="1506" text="MARTINEZ" />
+<name id="n36" start="1508" end="1514" text="TORRES" />
+<name id="n37" start="1545" end="1549" text="CC-1" />
+<name id="n38" start="1568" end="1581" text="HERBERT ORTIZ" />
+<name id="n39" start="1599" end="1611" text="River Avenue" />
+<name id="n40" start="1616" end="1632" text="McClellan Street" />
+<name id="n41" start="1679" end="1684" text="ORTIZ" />
+<name id="n42" start="1710" end="1718" text="MARTINEZ" />
+<name id="n43" start="1720" end="1726" text="TORRES" />
+<name id="n44" start="1732" end="1736" text="CC-1" />
+<name id="n45" start="1742" end="1747" text="ORTIZ" />
+<name id="n46" start="1763" end="1768" text="ORTIZ" />
+<name id="n47" start="1799" end="1803" text="1147" />
+<name id="n48" start="1804" end="1816" text="River Avenue" />
+<name id="n49" start="1844" end="1852" text="MARTINEZ" />
+<name id="n50" start="1854" end="1862" text="MARTINEZ" />
+<name id="n51" start="1864" end="1870" text="TORRES" />
+<name id="n52" start="2011" end="2034" text="New York Field Division" />
+<name id="n53" start="1963" end="2008" text="United States Drug Enforcement Administration" />
+<name id="n54" start="2037" end="2040" text="DEA" />
+<name id="n55" start="2138" end="2144" text="TORRES" />
+<name id="n56" start="2177" end="2190" text="HERBERT ORTIZ" />
+<name id="n57" start="2274" end="2282" text="MARTINEZ" />
+<name id="n58" start="2290" end="2294" text="CHIN" />
+<name id="n59" start="2307" end="2315" text="MARTINEZ" />
+<name id="n60" start="2422" end="2430" text="MARTINEZ" />
+<name id="n61" start="2463" end="2470" text="BHARARA" />
+<name id="n62" start="2440" end="2453" text="United States" />
+<name id="n63" start="2495" end="2498" text="DEA" />
+<name id="n64" start="2547" end="2565" text="MICHAEL Q. ENGLISH" />
+<name id="n65" start="2570" end="2588" text="JESSICA A. MASELLA" />
+<name id="n66" start="2523" end="2536" text="United States" />
+<located-mention id="lo1" start="215" end="633" text="JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division and PREET BHARARA, the United States Attorney for the Southern District of New York, announced that ANGEL MARTINEZ, a/k/a 'Druggie Lou,' was sentenced today to a term of life in prison for committing the 1992 murder of a rival drug dealer and for running a gang that distributed crack cocaine in Bronx, New York" TYPE="Other" />
+<located-mention id="lo2" start="731" end="1071" text="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" TYPE="Other" />
+<located-mention id="lo3" start="731" end="1071" text="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" TYPE="Other" />
+<located-mention id="lo4" start="731" end="1071" text="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" TYPE="Other" />
+<located-mention id="lo5" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo6" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo7" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo8" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo9" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo10" start="1292" end="1496" text="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" TYPE="Other" />
+<located-mention id="lo11" start="1498" end="1667" text="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" TYPE="Other" />
+<located-mention id="lo12" start="1498" end="1667" text="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" TYPE="Other" />
+<located-mention id="lo13" start="1498" end="1667" text="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" TYPE="Other" />
+<located-mention id="lo14" start="1498" end="1667" text="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" TYPE="Other" />
+<employment-mention id="e0" start="341" end="405" text="the United States Attorney for the Southern District of New York" TYPE="PreMod" />
+<employment-mention id="e1" start="663" end="691" text="United States District Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="2440" end="2462" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e3" start="2513" end="2546" text="Assistant United States Attorneys" TYPE="PreMod" />
+<M id="M0" start="233" end="321" text="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" TYPE="Possessive" />
+<M id="M1" start="233" end="321" text="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" TYPE="Preposition" />
+<M id="M2" start="341" end="405" text="the United States Attorney for the Southern District of New York" TYPE="Preposition" />
+<M id="M4" start="663" end="691" text="United States District Judge" TYPE="PreMod" />
+<M id="M3" start="1949" end="2040" text="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" TYPE="Preposition" />
+<M id="M5" start="663" end="729" text="United States District Judge DENNY CHIN in Manhattan federal court" TYPE="Preposition" />
+<entity_link id="en0" fromID="p1" fromText="Public Information Officer" toID="p0" toText="Paul Knierim" />
+<entity_link id="en1" fromID="g2" fromText="MANHATTAN, NY" toID="g1" toText="Manhattan" />
+<entity_link id="en2" fromID="p5" fromText="JOHN P. GILBRIDE" toID="p4" toText="JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" />
+<entity_link id="en3" fromID="p6" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="p5" toText="JOHN P. GILBRIDE" />
+<entity_link id="en4" fromID="p8" fromText="PREET BHARARA" toID="p7" toText="PREET BHARARA, the United States Attorney for the Southern District of New York" />
+<entity_link id="en5" fromID="p9" fromText="the United States Attorney for the Southern District of New York" toID="p8" toText="PREET BHARARA" />
+<entity_link id="en6" fromID="p10" fromText="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" toID="p2" toText="Leader of Bronx Crack Gang Sentenced in Manhattan Federal Court to Life in Prison for Murder and Crack Conspiracy" />
+<entity_link id="en7" fromID="p11" fromText="Druggie Lou" toID="p10" toText="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" />
+<entity_link id="en8" fromID="p13" fromText="a gang that distributed crack cocaine in Bronx, New York" toID="p3" toText="Bronx Crack Gang" />
+<entity_link id="en9" fromID="g5" fromText="Bronx, New York" toID="g0" toText="Bronx" />
+<entity_link id="en10" fromID="g6" fromText="New York" toID="g3" toText="NY" />
+<entity_link id="en11" fromID="p14" fromText="that" toID="p13" toText="a gang that distributed crack cocaine in Bronx, New York" />
+<entity_link id="en13" fromID="g7" fromText="United States" toID="g4" toText="United States" />
+<entity_link id="en14" fromID="o5" fromText="Manhattan federal court" toID="o0" toText="Manhattan Federal Court" />
+<entity_link id="en15" fromID="g8" fromText="Manhattan" toID="g2" toText="MANHATTAN, NY" />
+<entity_link id="en16" fromID="p17" fromText="MARTINEZ, 39" toID="p10" toText="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" />
+<entity_link id="en18" fromID="p20" fromText="Judge" toID="p19" toText="Judge CHIN" />
+<entity_link id="en19" fromID="p21" fromText="a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York" toID="p13" toText="a gang that distributed crack cocaine in Bronx, New York" />
+<entity_link id="en20" fromID="p22" fromText="that" toID="p21" toText="a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York" />
+<entity_link id="en21" fromID="g9" fromText="Bronx, New York" toID="g5" toText="Bronx, New York" />
+<entity_link id="en22" fromID="g10" fromText="New York" toID="g6" toText="New York" />
+<entity_link id="en23" fromID="g11" fromText="the Bronx" toID="g9" toText="Bronx, New York" />
+<entity_link id="en24" fromID="p24" fromText="MARTINEZ" toID="p17" toText="MARTINEZ, 39" />
+<entity_link id="en25" fromID="p25" fromText="MARTINEZ" toID="p24" toText="MARTINEZ" />
+<entity_link id="en26" fromID="f2" fromText="Gerard Avenue and 167th Street in the Bronx" toID="f1" toText="Gerard Avenue in Bronx, New York" />
+<entity_link id="en27" fromID="g12" fromText="the Bronx" toID="g11" toText="the Bronx" />
+<entity_link id="en28" fromID="p26" fromText="MARTINEZ" toID="p25" toText="MARTINEZ" />
+<entity_link id="en29" fromID="p28" fromText="Geo" toID="p27" toText="GEORGE TORRES, a/k/a 'Geo,'" />
+<entity_link id="en30" fromID="f5" fromText="Gerard Avenue" toID="f2" toText="Gerard Avenue and 167th Street in the Bronx" />
+<entity_link id="en32" fromID="p30" fromText="MARTINEZ" toID="p26" toText="MARTINEZ" />
+<entity_link id="en33" fromID="p31" fromText="TORRES" toID="p27" toText="GEORGE TORRES, a/k/a 'Geo,'" />
+<entity_link id="en34" fromID="p33" fromText="CC-1" toID="p32" toText="another co-conspirator ('CC-1" />
+<entity_link id="en35" fromID="p34" fromText="HERBERT ORTIZ" toID="p23" toText="HERBERT ORTIZ" />
+<entity_link id="en36" fromID="p35" fromText="ORTIZ" toID="p34" toText="HERBERT ORTIZ" />
+<entity_link id="en37" fromID="p23" fromText="HERBERT ORTIZ" toID="p12" toText="a rival drug dealer" />
+<entity_link id="en38" fromID="p36" fromText="a rival drug dealer" toID="p35" toText="ORTIZ" />
+<entity_link id="en39" fromID="p37" fromText="MARTINEZ" toID="p30" toText="MARTINEZ" />
+<entity_link id="en40" fromID="p38" fromText="TORRES" toID="p31" toText="TORRES" />
+<entity_link id="en41" fromID="p39" fromText="CC-1" toID="p32" toText="another co-conspirator ('CC-1" />
+<entity_link id="en42" fromID="p40" fromText="ORTIZ" toID="p35" toText="ORTIZ" />
+<entity_link id="en43" fromID="p41" fromText="ORTIZ" toID="p40" toText="ORTIZ" />
+<entity_link id="en45" fromID="f11" fromText="River Avenue, a territory controlled by MARTINEZ" toID="f7" toText="River Avenue" />
+<entity_link id="en46" fromID="p42" fromText="MARTINEZ" toID="p37" toText="MARTINEZ" />
+<entity_link id="en47" fromID="p43" fromText="MARTINEZ" toID="p42" toText="MARTINEZ" />
+<entity_link id="en48" fromID="p44" fromText="TORRES" toID="p38" toText="TORRES" />
+<entity_link id="en49" fromID="o6" fromText="the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="o2" toText="the New York Field Division" />
+<entity_link id="en50" fromID="o7" fromText="the United States Drug Enforcement Administration" toID="o1" toText="Drug Enforcement Administration" />
+<entity_link id="en51" fromID="o8" fromText="DEA" toID="o7" toText="the United States Drug Enforcement Administration" />
+<entity_link id="en52" fromID="p49" fromText="The 15 workers" toID="p45" toText="15 of their workers" />
+<entity_link id="en53" fromID="p51" fromText="TORRES" toID="p44" toText="TORRES" />
+<entity_link id="en54" fromID="p52" fromText="HERBERT ORTIZ" toID="p41" toText="ORTIZ" />
+<entity_link id="en55" fromID="p53" fromText="He" toID="p51" toText="TORRES" />
+<entity_link id="en56" fromID="p54" fromText="MARTINEZ" toID="p43" toText="MARTINEZ" />
+<entity_link id="en58" fromID="p56" fromText="Judge" toID="p55" toText="Judge CHIN" />
+<entity_link id="en59" fromID="p16" fromText="United States District Judge" toID="p57" toText="United States District Judge DENNY CHIN in Manhattan federal court" />
+<entity_link id="en60" fromID="p19" fromText="Judge CHIN" toID="p57" toText="United States District Judge DENNY CHIN in Manhattan federal court" />
+<entity_link id="en61" fromID="p55" fromText="Judge CHIN" toID="p57" toText="United States District Judge DENNY CHIN in Manhattan federal court" />
+<entity_link id="en62" fromID="p58" fromText="MARTINEZ" toID="p54" toText="MARTINEZ" />
+<entity_link id="en63" fromID="p59" fromText="a young man" toID="p52" toText="HERBERT ORTIZ" />
+<entity_link id="en64" fromID="p60" fromText="MARTINEZ" toID="p58" toText="MARTINEZ" />
+<entity_link id="en65" fromID="p61" fromText="United States Attorney BHARARA" toID="p8" toText="PREET BHARARA" />
+<entity_link id="en66" fromID="p62" fromText="United States Attorney" toID="p61" toText="United States Attorney BHARARA" />
+<entity_link id="en67" fromID="g13" fromText="United States" toID="g7" toText="United States" />
+<entity_link id="en68" fromID="o9" fromText="the DEA" toID="o7" toText="the United States Drug Enforcement Administration" />
+<entity_link id="en69" fromID="g14" fromText="United States" toID="g13" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Paul Knierim" toID="h0" toText="Paul Knierim" />
+<head_link id="he1" fromID="p1" fromText="Public Information Officer" toID="h1" toText="Officer" />
+<head_link id="he2" fromID="p2" fromText="Leader of Bronx Crack Gang Sentenced in Manhattan Federal Court to Life in Prison for Murder and Crack Conspiracy" toID="h2" toText="Leader" />
+<head_link id="he3" fromID="p3" fromText="Bronx Crack Gang" toID="h3" toText="Gang" />
+<head_link id="he4" fromID="g0" fromText="Bronx" toID="h4" toText="Bronx" />
+<head_link id="he5" fromID="o0" fromText="Manhattan Federal Court" toID="h5" toText="Court" />
+<head_link id="he6" fromID="g1" fromText="Manhattan" toID="h6" toText="Manhattan" />
+<head_link id="he7" fromID="f0" fromText="Prison" toID="h7" toText="Prison" />
+<head_link id="he8" fromID="g2" fromText="MANHATTAN, NY" toID="h8" toText="MANHATTAN" />
+<head_link id="he9" fromID="g3" fromText="NY" toID="h9" toText="NY" />
+<head_link id="he10" fromID="p5" fromText="JOHN P. GILBRIDE" toID="h10" toText="JOHN P. GILBRIDE" />
+<head_link id="he11" fromID="p6" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="h11" toText="Agent" />
+<head_link id="he12" fromID="o1" fromText="Drug Enforcement Administration" toID="h12" toText="Drug Enforcement Administration" />
+<head_link id="he13" fromID="o2" fromText="the New York Field Division" toID="h13" toText="New York Field Division" />
+<head_link id="he14" fromID="p8" fromText="PREET BHARARA" toID="h14" toText="PREET BHARARA" />
+<head_link id="he15" fromID="p9" fromText="the United States Attorney for the Southern District of New York" toID="h15" toText="Attorney" />
+<head_link id="he16" fromID="g4" fromText="United States" toID="h16" toText="United States" />
+<head_link id="he17" fromID="o3" fromText="the Southern District of New York" toID="h17" toText="Southern District of New York" />
+<head_link id="he18" fromID="p10" fromText="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" toID="h18" toText="ANGEL MARTINEZ" />
+<head_link id="he19" fromID="p11" fromText="Druggie Lou" toID="h19" toText="Druggie Lou" />
+<head_link id="he20" fromID="p12" fromText="a rival drug dealer" toID="h20" toText="dealer" />
+<head_link id="he21" fromID="p13" fromText="a gang that distributed crack cocaine in Bronx, New York" toID="h21" toText="gang" />
+<head_link id="he22" fromID="g5" fromText="Bronx, New York" toID="h22" toText="Bronx" />
+<head_link id="he23" fromID="g6" fromText="New York" toID="h23" toText="New York" />
+<head_link id="he24" fromID="p14" fromText="that" toID="h24" toText="that" />
+<head_link id="he26" fromID="p16" fromText="United States District Judge" toID="h26" toText="Judge" />
+<head_link id="he27" fromID="o4" fromText="District" toID="h27" toText="District" />
+<head_link id="he28" fromID="g7" fromText="United States" toID="h28" toText="United States" />
+<head_link id="he29" fromID="o5" fromText="Manhattan federal court" toID="h29" toText="court" />
+<head_link id="he30" fromID="g8" fromText="Manhattan" toID="h30" toText="Manhattan" />
+<head_link id="he31" fromID="p17" fromText="MARTINEZ, 39" toID="h31" toText="MARTINEZ" />
+<head_link id="he32" fromID="p18" fromText="jury" toID="h32" toText="jury" />
+<head_link id="he33" fromID="p19" fromText="Judge CHIN" toID="h33" toText="CHIN" />
+<head_link id="he34" fromID="p20" fromText="Judge" toID="h34" toText="Judge" />
+<head_link id="he35" fromID="p21" fromText="a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York" toID="h35" toText="gang" />
+<head_link id="he36" fromID="p22" fromText="that" toID="h36" toText="that" />
+<head_link id="he37" fromID="f1" fromText="Gerard Avenue in Bronx, New York" toID="h37" toText="Gerard Avenue" />
+<head_link id="he38" fromID="g9" fromText="Bronx, New York" toID="h38" toText="Bronx" />
+<head_link id="he39" fromID="g10" fromText="New York" toID="h39" toText="New York" />
+<head_link id="he40" fromID="p23" fromText="HERBERT ORTIZ" toID="h40" toText="HERBERT ORTIZ" />
+<head_link id="he41" fromID="g11" fromText="the Bronx" toID="h41" toText="Bronx" />
+<head_link id="he42" fromID="p24" fromText="MARTINEZ" toID="h42" toText="MARTINEZ" />
+<head_link id="he43" fromID="p25" fromText="MARTINEZ" toID="h43" toText="MARTINEZ" />
+<head_link id="he44" fromID="f2" fromText="Gerard Avenue and 167th Street in the Bronx" toID="h44" toText="Gerard Avenue" />
+<head_link id="he45" fromID="f3" fromText="Gerard Avenue and 167th Street in the Bronx" toID="h45" toText="167th Street" />
+<head_link id="he46" fromID="g12" fromText="the Bronx" toID="h46" toText="Bronx" />
+<head_link id="he47" fromID="p26" fromText="MARTINEZ" toID="h47" toText="MARTINEZ" />
+<head_link id="he48" fromID="p27" fromText="GEORGE TORRES, a/k/a 'Geo,'" toID="h48" toText="GEORGE TORRES" />
+<head_link id="he49" fromID="p28" fromText="Geo" toID="h49" toText="Geo" />
+<head_link id="he50" fromID="p29" fromText="their associates" toID="h50" toText="associates" />
+<head_link id="he51" fromID="f4" fromText="1170 Gerard Avenue" toID="h51" toText="1170" />
+<head_link id="he52" fromID="f5" fromText="Gerard Avenue" toID="h52" toText="Gerard Avenue" />
+<head_link id="he53" fromID="f6" fromText="other surrounding buildings" toID="h53" toText="buildings" />
+<head_link id="he54" fromID="p30" fromText="MARTINEZ" toID="h54" toText="MARTINEZ" />
+<head_link id="he55" fromID="p31" fromText="TORRES" toID="h55" toText="TORRES" />
+<head_link id="he56" fromID="p32" fromText="another co-conspirator ('CC-1" toID="h56" toText="co-conspirator" />
+<head_link id="he57" fromID="p33" fromText="CC-1" toID="h57" toText="CC-1" />
+<head_link id="he58" fromID="p34" fromText="HERBERT ORTIZ" toID="h58" toText="HERBERT ORTIZ" />
+<head_link id="he59" fromID="l0" fromText="the corner of River Avenue and McClellan Street" toID="h59" toText="corner" />
+<head_link id="he60" fromID="f7" fromText="River Avenue" toID="h60" toText="River Avenue" />
+<head_link id="he61" fromID="f8" fromText="McClellan Street" toID="h61" toText="McClellan Street" />
+<head_link id="he62" fromID="p35" fromText="ORTIZ" toID="h62" toText="ORTIZ" />
+<head_link id="he63" fromID="p36" fromText="a rival drug dealer" toID="h63" toText="dealer" />
+<head_link id="he64" fromID="p37" fromText="MARTINEZ" toID="h64" toText="MARTINEZ" />
+<head_link id="he65" fromID="p38" fromText="TORRES" toID="h65" toText="TORRES" />
+<head_link id="he66" fromID="p39" fromText="CC-1" toID="h66" toText="CC-1" />
+<head_link id="he67" fromID="p40" fromText="ORTIZ" toID="h67" toText="ORTIZ" />
+<head_link id="he68" fromID="p41" fromText="ORTIZ" toID="h68" toText="ORTIZ" />
+<head_link id="he69" fromID="f9" fromText="1147 River Avenue, a territory controlled by MARTINEZ" toID="h69" toText="1147" />
+<head_link id="he71" fromID="f11" fromText="River Avenue, a territory controlled by MARTINEZ" toID="h70" toText="River Avenue" />
+<head_link id="he72" fromID="p42" fromText="MARTINEZ" toID="h71" toText="MARTINEZ" />
+<head_link id="he73" fromID="p43" fromText="MARTINEZ" toID="h72" toText="MARTINEZ" />
+<head_link id="he74" fromID="p44" fromText="TORRES" toID="h73" toText="TORRES" />
+<head_link id="he75" fromID="p45" fromText="15 of their workers" toID="h74" toText="15" />
+<head_link id="he76" fromID="p46" fromText="their workers" toID="h75" toText="workers" />
+<head_link id="he77" fromID="p47" fromText="their" toID="h76" toText="their" />
+<head_link id="he78" fromID="p48" fromText="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="h77" toText="agents" />
+<head_link id="he79" fromID="o6" fromText="the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="h78" toText="New York Field Division" />
+<head_link id="he80" fromID="o7" fromText="the United States Drug Enforcement Administration" toID="h79" toText="United States Drug Enforcement Administration" />
+<head_link id="he81" fromID="o8" fromText="DEA" toID="h80" toText="DEA" />
+<head_link id="he82" fromID="p49" fromText="The 15 workers" toID="h81" toText="workers" />
+<head_link id="he83" fromID="p50" fromText="each" toID="h82" toText="each" />
+<head_link id="he84" fromID="p51" fromText="TORRES" toID="h83" toText="TORRES" />
+<head_link id="he85" fromID="p52" fromText="HERBERT ORTIZ" toID="h84" toText="HERBERT ORTIZ" />
+<head_link id="he86" fromID="p53" fromText="He" toID="h85" toText="He" />
+<head_link id="he87" fromID="p54" fromText="MARTINEZ" toID="h86" toText="MARTINEZ" />
+<head_link id="he88" fromID="p55" fromText="Judge CHIN" toID="h87" toText="CHIN" />
+<head_link id="he89" fromID="p56" fromText="Judge" toID="h88" toText="Judge" />
+<head_link id="he90" fromID="p57" fromText="United States District Judge DENNY CHIN in Manhattan federal court" toID="h25" toText="DENNY CHIN" />
+<head_link id="he91" fromID="p58" fromText="MARTINEZ" toID="h89" toText="MARTINEZ" />
+<head_link id="he92" fromID="p59" fromText="a young man" toID="h90" toText="man" />
+<head_link id="he93" fromID="p60" fromText="MARTINEZ" toID="h91" toText="MARTINEZ" />
+<head_link id="he94" fromID="p61" fromText="United States Attorney BHARARA" toID="h92" toText="BHARARA" />
+<head_link id="he95" fromID="p62" fromText="United States Attorney" toID="h93" toText="Attorney" />
+<head_link id="he96" fromID="g13" fromText="United States" toID="h94" toText="United States" />
+<head_link id="he97" fromID="o9" fromText="the DEA" toID="h95" toText="DEA" />
+<head_link id="he98" fromID="p63" fromText="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" toID="h96" toText="MICHAEL Q. ENGLISH" />
+<head_link id="he99" fromID="p64" fromText="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" toID="h97" toText="JESSICA A. MASELLA" />
+<head_link id="he100" fromID="p65" fromText="Assistant United States Attorneys" toID="h98" toText="Attorneys" />
+<head_link id="he101" fromID="g14" fromText="United States" toID="h99" toText="United States" />
+<name_link id="na0" fromID="p0" fromText="Paul Knierim" toID="n0" toText="Paul Knierim" />
+<name_link id="na1" fromID="g0" fromText="Bronx" toID="n1" toText="Bronx" />
+<name_link id="na2" fromID="g1" fromText="Manhattan" toID="n2" toText="Manhattan" />
+<name_link id="na3" fromID="g2" fromText="MANHATTAN, NY" toID="n3" toText="MANHATTAN" />
+<name_link id="na4" fromID="g3" fromText="NY" toID="n4" toText="NY" />
+<name_link id="na5" fromID="p5" fromText="JOHN P. GILBRIDE" toID="n5" toText="JOHN P. GILBRIDE" />
+<name_link id="na6" fromID="o1" fromText="Drug Enforcement Administration" toID="n6" toText="Drug Enforcement Administration" />
+<name_link id="na7" fromID="o2" fromText="the New York Field Division" toID="n7" toText="New York Field Division" />
+<name_link id="na8" fromID="p8" fromText="PREET BHARARA" toID="n8" toText="PREET BHARARA" />
+<name_link id="na9" fromID="g4" fromText="United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="o3" fromText="the Southern District of New York" toID="n10" toText="Southern District of New York" />
+<name_link id="na11" fromID="p10" fromText="ANGEL MARTINEZ, a/k/a 'Druggie Lou,'" toID="n11" toText="ANGEL MARTINEZ" />
+<name_link id="na12" fromID="p11" fromText="Druggie Lou" toID="n12" toText="Druggie Lou" />
+<name_link id="na13" fromID="g5" fromText="Bronx, New York" toID="n13" toText="Bronx" />
+<name_link id="na14" fromID="g6" fromText="New York" toID="n14" toText="New York" />
+<name_link id="na16" fromID="g7" fromText="United States" toID="n16" toText="United States" />
+<name_link id="na17" fromID="g8" fromText="Manhattan" toID="n17" toText="Manhattan" />
+<name_link id="na18" fromID="p17" fromText="MARTINEZ, 39" toID="n18" toText="MARTINEZ" />
+<name_link id="na19" fromID="p19" fromText="Judge CHIN" toID="n19" toText="CHIN" />
+<name_link id="na20" fromID="f1" fromText="Gerard Avenue in Bronx, New York" toID="n20" toText="Gerard Avenue" />
+<name_link id="na21" fromID="g9" fromText="Bronx, New York" toID="n21" toText="Bronx" />
+<name_link id="na22" fromID="g10" fromText="New York" toID="n22" toText="New York" />
+<name_link id="na23" fromID="p23" fromText="HERBERT ORTIZ" toID="n23" toText="HERBERT ORTIZ" />
+<name_link id="na24" fromID="g11" fromText="the Bronx" toID="n24" toText="Bronx" />
+<name_link id="na25" fromID="p24" fromText="MARTINEZ" toID="n25" toText="MARTINEZ" />
+<name_link id="na26" fromID="p25" fromText="MARTINEZ" toID="n26" toText="MARTINEZ" />
+<name_link id="na27" fromID="f2" fromText="Gerard Avenue and 167th Street in the Bronx" toID="h44" toText="Gerard Avenue" />
+<name_link id="na28" fromID="f3" fromText="Gerard Avenue and 167th Street in the Bronx" toID="n28" toText="167th Street" />
+<name_link id="na29" fromID="g12" fromText="the Bronx" toID="n29" toText="Bronx" />
+<name_link id="na30" fromID="p26" fromText="MARTINEZ" toID="n30" toText="MARTINEZ" />
+<name_link id="na31" fromID="p27" fromText="GEORGE TORRES, a/k/a 'Geo,'" toID="n31" toText="GEORGE TORRES" />
+<name_link id="na32" fromID="p28" fromText="Geo" toID="n32" toText="Geo" />
+<name_link id="na33" fromID="f4" fromText="1170 Gerard Avenue" toID="n33" toText="1170" />
+<name_link id="na34" fromID="f5" fromText="Gerard Avenue" toID="n34" toText="Gerard Avenue" />
+<name_link id="na35" fromID="p30" fromText="MARTINEZ" toID="n35" toText="MARTINEZ" />
+<name_link id="na36" fromID="p31" fromText="TORRES" toID="n36" toText="TORRES" />
+<name_link id="na37" fromID="p33" fromText="CC-1" toID="n37" toText="CC-1" />
+<name_link id="na38" fromID="p34" fromText="HERBERT ORTIZ" toID="n38" toText="HERBERT ORTIZ" />
+<name_link id="na39" fromID="f7" fromText="River Avenue" toID="n39" toText="River Avenue" />
+<name_link id="na40" fromID="f8" fromText="McClellan Street" toID="n40" toText="McClellan Street" />
+<name_link id="na41" fromID="p35" fromText="ORTIZ" toID="n41" toText="ORTIZ" />
+<name_link id="na42" fromID="p37" fromText="MARTINEZ" toID="n42" toText="MARTINEZ" />
+<name_link id="na43" fromID="p38" fromText="TORRES" toID="n43" toText="TORRES" />
+<name_link id="na44" fromID="p39" fromText="CC-1" toID="n44" toText="CC-1" />
+<name_link id="na45" fromID="p40" fromText="ORTIZ" toID="n45" toText="ORTIZ" />
+<name_link id="na46" fromID="p41" fromText="ORTIZ" toID="n46" toText="ORTIZ" />
+<name_link id="na47" fromID="f9" fromText="1147 River Avenue, a territory controlled by MARTINEZ" toID="n47" toText="1147" />
+<name_link id="na49" fromID="f11" fromText="River Avenue, a territory controlled by MARTINEZ" toID="n48" toText="River Avenue" />
+<name_link id="na50" fromID="p42" fromText="MARTINEZ" toID="n49" toText="MARTINEZ" />
+<name_link id="na51" fromID="p43" fromText="MARTINEZ" toID="n50" toText="MARTINEZ" />
+<name_link id="na52" fromID="p44" fromText="TORRES" toID="n51" toText="TORRES" />
+<name_link id="na53" fromID="o6" fromText="the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="n52" toText="New York Field Division" />
+<name_link id="na54" fromID="o7" fromText="the United States Drug Enforcement Administration" toID="n53" toText="United States Drug Enforcement Administration" />
+<name_link id="na55" fromID="o8" fromText="DEA" toID="n54" toText="DEA" />
+<name_link id="na56" fromID="p51" fromText="TORRES" toID="n55" toText="TORRES" />
+<name_link id="na57" fromID="p52" fromText="HERBERT ORTIZ" toID="n56" toText="HERBERT ORTIZ" />
+<name_link id="na58" fromID="p54" fromText="MARTINEZ" toID="n57" toText="MARTINEZ" />
+<name_link id="na59" fromID="p55" fromText="Judge CHIN" toID="n58" toText="CHIN" />
+<name_link id="na60" fromID="p57" fromText="United States District Judge DENNY CHIN in Manhattan federal court" toID="n15" toText="DENNY CHIN" />
+<name_link id="na61" fromID="p58" fromText="MARTINEZ" toID="n59" toText="MARTINEZ" />
+<name_link id="na62" fromID="p60" fromText="MARTINEZ" toID="n60" toText="MARTINEZ" />
+<name_link id="na63" fromID="p61" fromText="United States Attorney BHARARA" toID="n61" toText="BHARARA" />
+<name_link id="na64" fromID="g13" fromText="United States" toID="n62" toText="United States" />
+<name_link id="na65" fromID="o9" fromText="the DEA" toID="n63" toText="DEA" />
+<name_link id="na66" fromID="p63" fromText="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" toID="n64" toText="MICHAEL Q. ENGLISH" />
+<name_link id="na67" fromID="p64" fromText="Assistant United States Attorneys MICHAEL Q. ENGLISH and JESSICA A. MASELLA" toID="n65" toText="JESSICA A. MASELLA" />
+<name_link id="na68" fromID="g14" fromText="United States" toID="n66" toText="United States" />
+<relation_link1 id="r0" fromID="M0" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="p6" toText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" />
+<relation_link1 id="r1" fromID="M1" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="p6" toText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" />
+<relation_link1 id="r2" fromID="e0" fromText="the United States Attorney for the Southern District of New York" toID="p9" toText="the United States Attorney for the Southern District of New York" />
+<relation_link1 id="r3" fromID="M2" fromText="the United States Attorney for the Southern District of New York" toID="p9" toText="the United States Attorney for the Southern District of New York" />
+<relation_link1 id="r4" fromID="lo1" fromText="JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division and PREET BHARARA, the United States Attorney for the Southern District of New York, announced that ANGEL MARTINEZ, a/k/a 'Druggie Lou,' was sentenced today to a term of life in prison for committing the 1992 murder of a rival drug dealer and for running a gang that distributed crack cocaine in Bronx, New York" toID="p14" toText="that" />
+<relation_link1 id="r5" fromID="e1" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r6" fromID="M4" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r7" fromID="lo2" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="p22" toText="that" />
+<relation_link1 id="r8" fromID="lo3" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="p17" toText="MARTINEZ, 39" />
+<relation_link1 id="r9" fromID="lo4" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="p23" toText="HERBERT ORTIZ" />
+<relation_link1 id="r10" fromID="lo5" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p26" toText="MARTINEZ" />
+<relation_link1 id="r11" fromID="lo6" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p26" toText="MARTINEZ" />
+<relation_link1 id="r12" fromID="lo8" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p27" toText="GEORGE TORRES, a/k/a 'Geo,'" />
+<relation_link1 id="r13" fromID="lo9" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p29" toText="their associates" />
+<relation_link1 id="r14" fromID="lo10" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p29" toText="their associates" />
+<relation_link1 id="r15" fromID="lo7" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="p27" toText="GEORGE TORRES, a/k/a 'Geo,'" />
+<relation_link1 id="r17" fromID="lo11" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="p30" toText="MARTINEZ" />
+<relation_link1 id="r18" fromID="lo12" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="p31" toText="TORRES" />
+<relation_link1 id="r19" fromID="lo13" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="p32" toText="another co-conspirator ('CC-1" />
+<relation_link1 id="r20" fromID="lo14" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="p34" toText="HERBERT ORTIZ" />
+<relation_link1 id="r21" fromID="M3" fromText="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="p48" toText="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" />
+<relation_link1 id="r22" fromID="M5" fromText="United States District Judge DENNY CHIN in Manhattan federal court" toID="p57" toText="United States District Judge DENNY CHIN in Manhattan federal court" />
+<relation_link1 id="r23" fromID="e2" fromText="United States Attorney" toID="p62" toText="United States Attorney" />
+<relation_link1 id="r24" fromID="e3" fromText="Assistant United States Attorneys" toID="p65" toText="Assistant United States Attorneys" />
+<relation_link2 id="re0" fromID="M0" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="o1" toText="Drug Enforcement Administration" />
+<relation_link2 id="re1" fromID="M1" fromText="Drug Enforcement Administration's Special Agent in Charge of the New York Field Division" toID="o2" toText="the New York Field Division" />
+<relation_link2 id="re2" fromID="e0" fromText="the United States Attorney for the Southern District of New York" toID="g4" toText="United States" />
+<relation_link2 id="re3" fromID="M2" fromText="the United States Attorney for the Southern District of New York" toID="o3" toText="the Southern District of New York" />
+<relation_link2 id="re4" fromID="lo1" fromText="JOHN P. GILBRIDE, Drug Enforcement Administration's Special Agent in Charge of the New York Field Division and PREET BHARARA, the United States Attorney for the Southern District of New York, announced that ANGEL MARTINEZ, a/k/a 'Druggie Lou,' was sentenced today to a term of life in prison for committing the 1992 murder of a rival drug dealer and for running a gang that distributed crack cocaine in Bronx, New York" toID="g5" toText="Bronx, New York" />
+<relation_link2 id="re5" fromID="e1" fromText="United States District Judge" toID="g7" toText="United States" />
+<relation_link2 id="re6" fromID="M4" fromText="United States District Judge" toID="o4" toText="District" />
+<relation_link2 id="re7" fromID="lo2" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="f1" toText="Gerard Avenue in Bronx, New York" />
+<relation_link2 id="re8" fromID="lo3" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="g11" toText="the Bronx" />
+<relation_link2 id="re9" fromID="lo4" fromText="MARTINEZ, 39, was found guilty in October 2009, following a two-week jury trial before Judge CHIN, of running a gang that distributed crack cocaine on Gerard Avenue in Bronx, New York, and murder in connection with the November 2, 1992, shooting and killing of HERBERT ORTIZ in the Bronx during the course of the MARTINEZ'S crack conspiracy" toID="g11" toText="the Bronx" />
+<relation_link2 id="re10" fromID="lo5" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f4" toText="1170 Gerard Avenue" />
+<relation_link2 id="re11" fromID="lo6" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f6" toText="other surrounding buildings" />
+<relation_link2 id="re12" fromID="lo7" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f4" toText="1170 Gerard Avenue" />
+<relation_link2 id="re13" fromID="lo8" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f6" toText="other surrounding buildings" />
+<relation_link2 id="re14" fromID="lo9" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f4" toText="1170 Gerard Avenue" />
+<relation_link2 id="re15" fromID="lo10" fromText="For over 15 years, MARTINEZ and GEORGE TORRES, a/k/a 'Geo,' and their associates sold kilograms of crack cocaine, all packaged in $5 and $10 bags, out of 1170 Gerard Avenue and other surrounding buildings" toID="f6" toText="other surrounding buildings" />
+<relation_link2 id="re16" fromID="lo11" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="l0" toText="the corner of River Avenue and McClellan Street" />
+<relation_link2 id="re17" fromID="lo12" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="l0" toText="the corner of River Avenue and McClellan Street" />
+<relation_link2 id="re18" fromID="lo13" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="l0" toText="the corner of River Avenue and McClellan Street" />
+<relation_link2 id="re19" fromID="lo14" fromText="MARTINEZ, TORRES, and another co-conspirator ('CC-1') shot and killed HERBERT ORTIZ on the corner of River Avenue and McClellan Street on the evening of November 2, 1992" toID="l0" toText="the corner of River Avenue and McClellan Street" />
+<relation_link2 id="re20" fromID="M3" fromText="agents of the United States Drug Enforcement Administration's New York Field Division ('DEA" toID="o6" toText="the United States Drug Enforcement Administration's New York Field Division ('DEA" />
+<relation_link2 id="re21" fromID="M5" fromText="United States District Judge DENNY CHIN in Manhattan federal court" toID="o5" toText="Manhattan federal court" />
+<relation_link2 id="re22" fromID="e2" fromText="United States Attorney" toID="g13" toText="United States" />
+<relation_link2 id="re23" fromID="e3" fromText="Assistant United States Attorneys" toID="g14" toText="United States" />
+</TAGS>
+</KddTask>

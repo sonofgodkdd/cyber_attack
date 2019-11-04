@@ -1,0 +1,26 @@
+Snapchat Hack — Hacker Leaked Snapchat Source Code On GitHub
+Swati Khandelwal
+
+The source code of the popular social media app Snapchat was recently surfaced online after a hacker leaked and posted it on the Microsoft-owned code repository GitHub.
+A GitHub account under the name Khaled Alshehri with the handle i5xx, who claimed to be from Pakistan, created a GitHub repository called Source-Snapchat with a description "Source Code for SnapChat," publishing the code of what purported to be Snapchat's iOS app.
+The underlying code could potentially expose the company's extremely confidential information, like the entire design of the hugely-successful messaging app, how the app works and what future features are planned for the app.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Snapchat's parent company, Snap Inc., responded to the leak by filing a copyright act request under the Digital Millennium Copyright Act (DMCA), helping it takedown the online repository hosting the Snapchat code.
+SnapChat Hack: Github Took Down Repository After DMCA Notice
+Though it is not clear precisely what secret information the leaked SnapChat code contained, the company's panic can be seen in the DMCA request (written in all-caps) which suggests the contents of the repository were legitimate.
+"I AM [private] AT SNAP INC., OWNER OF THE LEAKED SOURCE CODE," a reply from a Snap employee, whose name is redacted, on the DMCA notice reads.
+Upon asking "Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online," the Snap employee responded:
+"SNAPCHAT SOURCE CODE. IT WAS LEAKED AND A USER HAS PUT IT IN THIS GITHUB REPO. THERE IS NO URL TO POINT TO BECAUSE SNAP INC. DOESN'T PUBLISH IT PUBLICLY."
+"WE WOULD APPRECIATE YOU TAKE DOWN THE WHOLE THING."
+Snap told several online news outlets that an iOS update in May exposed a "small amount" of its iOS source code.
+Although the company identified and rectified the mistake immediately, it discovered that some of the exposed code had been posted online.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Snap did confirm that the code has been subsequently removed and that the event did not compromise its application and had no impact on its community.
+Hacker Threatens to Re-Upload Snapchat's Source Code
+It appears that the online user behind the source code leak created the Github account with the sole purpose of sharing the code as nothing else was posted on the account before or after the Snapchat leak.
+Moreover, some posts on Twitter by at least two individuals (one based in Pakistan and another in France) who appear to be behind the i5xx GitHub account suggest that they tried contacting Snapchat about the source-code and expecting a bug bounty reward.
+But when they did not get any response from the company, the account threatened to re-upload the source code until they get a reply from Snapchat.
+The snapchat app code has now been taken down by GitHub after the DMCA request, and will not be restored unless the original publisher comes up with a legal counterclaim proving he/she is the owner of the source-code.
+However, this does not rectify the issue completely. Since the Snapchat source code is still in the hands of outsiders, they could re-publish it on other online forums, or could use it for individual profit.
+But you should not worry, as the code can not be turned into spy apps or hacking tools to hack someone snapchat account.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

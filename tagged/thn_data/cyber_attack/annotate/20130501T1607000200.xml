@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+UK banks hit by Ramnit banking malware and social engineering attacks
+Mohit Kumar
+
+A dangerous variant of the Ramnit malware has been discovered targeting the UK's financial sector. Trusteer claims to have discovered an interesting trojan based attack technique that injects highly convincing and interactive real-time messages into the user Web stream that they encounter when logging into a UK online banking session.
+The Ramnit worm was discovered in 2010, but in 2011 researchers spotted a new strain that had incorporated source code from the notorious Zeus banking trojan.
+Cyber criminals are stepping up their use of social engineering techniques to bypass increasingly security-aware users of online banking and e-commerce sites.  
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malware reportedly avoids detection by going into an idle sleep mode until its intended victim logs into their online bank account, at which point it activates and presents them with a fraudulent phishing message.
+Ramnit circumvented the OTP feature at the target bank using a ‘Man in the Browser’ attack to inject bogus HTML pages into a customer’s online banking session. Malware variants present the victim with new input fields, security warnings and customized text during login, account navigation and transactions. Some malware variants go as far as creating custom, localized pages that are generated based on the victim’s language preference.
+This semi-automated approach, says Maor, allows the cybercriminals to inject highly specific `error messages’ that pop up on the screens of the online banking user in their local language. While the victim is reading the messages, Ramnit connects to its command and control server and obtains the details of a designated money laundering bank account and sets up a wire transfer.
+“The fact that they’ve changed the FAQ section to support this fake new process is astonishing to me in terms of details,” Moar said. “The attackers are exploiting the trust relationship the user has with the bank. They have no idea the malware is in the middle and injecting new screens. It’s amazing how much effort they put into making sure someone falls victim; it’s a new level of social engineering.”
+Online scammers have become increasingly sophisticated in attacks. So far, fewer than 10 banks have been targeted in the U.K.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<trojan id="t0" start="268" end="275" text="injects" TYPE="USP" />
+<trojan id="t1" start="857" end="862" text="sleep" TYPE="USP" />
+<trojan id="t2" start="963" end="971" text="presents" TYPE="USP" />
+<trojan id="t3" start="1068" end="1073" text="using" TYPE="USP" />
+<trojan id="t4" start="1107" end="1113" text="inject" TYPE="SUP" />
+<trojan id="t5" start="1190" end="1197" text="present" TYPE="USP" />
+<trojan id="t6" start="1292" end="1302" text="navigation" TYPE="SUP" />
+<trojan id="t7" start="1356" end="1371" text="creating custom" TYPE="SUP" />
+<trojan id="t8" start="1521" end="1527" text="inject" TYPE="USP" />
+<trojan id="t10" start="1689" end="1697" text="connects" TYPE="SUP" />
+<trojan id="t11" start="1736" end="1743" text="obtains" TYPE="SUP" />
+<trojan id="t12" start="1805" end="1813" text=" sets up" TYPE="SUP" />
+</TAGS>
+</KddTask>

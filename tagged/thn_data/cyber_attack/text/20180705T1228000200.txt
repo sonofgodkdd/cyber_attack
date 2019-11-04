@@ -1,0 +1,34 @@
+Password-Guessing Was Used to Hack Gentoo Linux Github Account
+Swati Khandelwal
+
+Maintainers of the Gentoo Linux distribution have now revealed the impact and "root cause" of the attack that saw unknown hackers taking control of its GitHub account last week and modifying the content of its repositories and pages.
+The hackers not only managed to change the content in compromised repositories but also locked out Gentoo developers from their GitHub organisation.
+As a result of the incident, the developers were unable to use GitHub for five days.
+What Went Wrong?
+Gentoo developers have revealed that the attackers were able to gain administrative privileges for its Github account, after guessing the account password.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The organisation could have been saved if it was using a two-factor authentication, which requires an additional passcode besides the password in order to gain access to the account.
+"The attacker gained access to a password of an organization administrator. Evidence collected suggests a password scheme where disclosure on one site made it easy to guess passwords for unrelated web pages," Gentoo wrote in its incident report.
+Besides this, Gentoo developers did not also have a backup copy of its GitHub Organization detail. What's more? The systemd repo was also not mirrored from Gentoo but was stored directly on GitHub.
+What Went Well? (Luckily)
+However, Gentoo believed the project got lucky that the attack was "loud," as knocking all other developers out of the targeted GitHub account caused them to be emailed.
+Quick action from both Gentoo and Github put an end to the attack in about 70 minutes.
+"The attack was loud; removing all developers caused everyone to get emailed," the Gentoo maintainers said. "Given the credential taken, it's likely a quieter attack would have provided a longer opportunity window."
+Moreover, the report also added that by force pushing commits that attempted to remove all files, the attacker made "downstream consumption more conspicuous," which could have eventually "blocked git from silently pulling in new content to existing checkouts on 'git pull'."
+As the project previously said, the main Gentoo repositories are kept on Gentoo hosted infrastructure, and Gentoo mirrors to GitHub in order to "be where the contributors are." 
+Therefore, the private keys of the account were not impacted by the incident, and so the Gentoo-hosted infrastructure.
+Impact of the Cyber Attack
+As a result of the incident, the Gentoo Proxy Maintainers Project was impacted as many proxy maintainers contributors use GitHub to submit pull requests, and all past pull requests were also disconnected from their original commits and closed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers also attempted to add "rm -rf" commands to various repositories, which if executed, would have deleted user data recursively. However, this code was unlikely to be executed by end users due to various technical guards in place.
+rm is a Unix command which is used for removing files, directories and similar, and rm -rf denotes a more forcible removal, which "would cause every file accessible from the present file system to be deleted from the machine."
+Steps Taken to Prevent Future Cyber Attacks
+Following the incident, Gentoo has taken many actions to prevent such attacks in the future. These actions include:
+Making frequent backups of its GitHub Organization.
+Enabling two-factor authentication by default in Gentoo's GitHub Organization, which will eventually come to all users the project's repositories.
+Working on an incident response plan, particularly for sharing information about a security incident with users.
+Tightening up procedures around credential revocation.
+Reducing the number of users with elevated privileges, auditing logins, and publishing password policies that mandate password managers.
+Introducing support for hardware-based 2FA for Gentoo developers
+Currently, it is not known who was behind the Gentoo Hack. Gentoo did not say if the incident has been reported to law enforcement to hunt for the hacker(s).
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

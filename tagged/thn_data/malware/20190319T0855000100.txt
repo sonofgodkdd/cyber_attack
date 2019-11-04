@@ -1,0 +1,26 @@
+Mirai Variant Adds Dozen New Exploits to Target Enterprise IoT Devices
+Swati Khandelwal
+
+Security researchers have uncovered a new variant of the infamous Mirai Internet of Things botnet, this time targeting embedded devices intended for use within business environments in an attempt to gain control over larger bandwidth to carry out devastating DDoS attacks.
+Although the original creators of Mirai botnet have already been arrested and jailed, variants of the infamous IoT malware, including Satori and Okiru, keep emerging due to the availability of its source code on the Internet since 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+First emerged in 2016, Mirai is well known IoT botnet malware that has the ability to infect routers, and security cameras, DVRs, and other smart devices—which typically use default credentials and run outdated versions of Linux—and enslaves the compromised devices to form a botnet, which is then used to conduct DDoS attacks.
+New Mirai Variant Targets Enterprise IoT Devices
+Now, Palo Alto Network Unit 42 researchers have spotted the newest variant of Mirai that's for the first time targeting enterprise-focused devices, including WePresent WiPG-1000 Wireless Presentation systems and LG Supersign TVs.
+The Mirai variant adds 11 new exploits to its "multi-exploit battery," making it a total of 27 exploits, as well as a new set of "unusual default credentials" to use in brute force attacks against Internet-connected devices.
+"These new features afford the botnet a large attack surface," Unit 42 researchers reported in a blog post published Monday. "In particular, targeting enterprise links also grants it access to larger bandwidth, ultimately resulting in greater firepower for the botnet for DDoS attacks."
+While a remote code execution exploit for LG Supersign TVs (CVE-2018-17173) was made available in September last year, attack code exploiting a command-injection vulnerability in the WePresent WiPG-1000 was published in 2017.
+Besides these two exploits, the new Mirai variant is also targeting various embedded hardware like:
+Linksys routers
+ZTE routers
+DLink routers
+Network Storage Devices
+NVRs and IP cameras
+After scanning and identifying vulnerable devices, the malware fetches the new Mirai payload from a compromised website and downloads it on a target device, which is then added to the botnet network and eventually can be used to launch HTTP Flood DDoS attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mirai is the infamous botnet that was responsible for some of the record-breaking DDoS attacks, including those against France-based hosting provider OVH and Dyn DNS service that crippled some of the world's biggest sites, including Twitter, Netflix, Amazon, and Spotify.
+Mirai-based attacks experienced sudden rise after someone publicly released its source code in October 2016, allowing attackers to upgrade the malware threat with newly disclosed exploits according to their needs and targets.
+"These [new] developments underscore the importance for enterprises to be aware of the IoT devices on their network, change default passwords, ensure that devices are fully up-to-date on patches," researchers said.
+"And in the case of devices that cannot be patched, to remove those devices from the network as a last resort."
+So the takeaway? Make sure you change the default passwords for your internet-connected devices as soon as you bring them home or in office, and always keep them fully updated with new security patches.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

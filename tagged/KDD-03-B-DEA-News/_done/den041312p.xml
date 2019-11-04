@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Date: 
+April 13, 2012
+Contact: Special Agent Mike Turner
+Number: 720-895-4214
+Long Sentence for Drug Lord Oscar Arriola
+--Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado--
+April 13 (Denver)  - Oscar Arriola was sentenced today by U.S. District Court Judge Robert E. Blackburn to serve 22 1/2 years in federal prison for drug trafficking related charges, United States Attorney John Walsh and Drug Enforcement Administration Special Agent in Charge Barbra Roach announced. Following his prison sentence, Arriola was ordered to serve five years on supervised release. He was also ordered by Judge Blackburn to pay a $1,000,000 fine.
+Arriola was indicted by a federal grand jury in Denver on December 16, 2003. On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States. The extradition took place on March 2, 2010 so that Arriola could face the Colorado drug trafficking charges. On February 22, 2011 Arriola pled guilty to conspiracy to distribute and possess with intent to distribute 5 kilograms or more of cocaine, conspiracy to import five kilograms or more of cocaine into the United States, and money laundering conspiracy. The defendant was sentenced on April 13, 2012.
+According to court documents, the DEA Colorado Springs Resident Office initiated an investigation in June 2002 that eventually led to the identification of Oscar Arriola as the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States. In addition, the Arriola organization allegedly collected hundreds of millions of dollars in drug proceeds in the United States and transported the cash to Arriola and other leaders of the organization in Mexico.
+The Colorado Springs investigation began with an anonymous telephone tip to a Pueblo, Colorado crime stoppers tip line regarding a ranch property in Peyton, Colorado (east of Colorado Springs) that was suspected of being used to store large shipments of cocaine. During a lengthy investigation, agents determined that the Peyton ranch served as a cocaine storage and transportation center for the Arriola organization.
+From 2002 through 2004, DEA offices in Colorado Springs, Denver, El Paso, Chicago, New York, Albuquerque, North Carolina, and Mexico coordinated investigative efforts against the Arriola organization. Law enforcement officers in the U.S. and Mexico seized more than 5,000 pounds of cocaine, approximately $50,000,000 in cash and other assets, and arrested 60 key members of the Arriola organization in the U.S.
+Agents obtained evidence indicating that the organization had extensive U.S. cocaine distribution networks in Texas, Colorado, Illinois, New York, Georgia, Missouri, Arizona, New Mexico, Oklahoma, Maryland, Indiana, Michigan, Kansas, New Jersey, South Carolina, Pennsylvania, and North Carolina. The organization allegedly had dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico. One money transporter stated that he alone had collected and transported $43,000,000 in a 12-month period.
+"The most significant international drug trafficking organization ever to operate in the state of Colorado ended today with the sentencing of its leader, Oscar Arriola," said DEA Special Agent in Charge Barbra Roach. "With this sentencing, our message is that the DEA will continue to focus its resources on those major organizations operating in our state which are profiting significantly from the sale of illegal drugs."
+"I would like to thank the many people that worked tirelessly to bring Oscar Arriola to justice," said U.S. Attorney John Walsh. "Thanks goes to the men and women of the U.S. Attorney's Office for consistently pursuing this defendant. Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking. Lastly, I'd like to thank those with the Department of Justice in Washington who assisted in the extradition of Arriola from Mexico to Colorado."
+The U.S. Marshals Service assisted in the extradition of Arriola. The Criminal Division's Office of International Affairs provided assistance in the extradition as well.
+This case was prosecuted by Assistant U.S. Attorneys M.J. Menendez and Susan "Zeke" Knox.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="32" end="57" text="Special Agent Mike Turner" TYPE="NAM" />
+<person id="p1" start="32" end="45" text="Special Agent" TYPE="NOMPRE" />
+<person id="p2" start="97" end="120" text="Drug Lord Oscar Arriola" TYPE="NAM" />
+<person id="p3" start="97" end="106" text="Drug Lord" TYPE="NOMPRE" />
+<person id="p4" start="123" end="222" text="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" TYPE="BAR" />
+<person id="p5" start="246" end="259" text="Oscar Arriola" TYPE="NAM" />
+<person id="p6" start="283" end="328" text="U.S. District Court Judge Robert E. Blackburn" TYPE="NAM" />
+<person id="p7" start="283" end="308" text="U.S. District Court Judge" TYPE="NOMPRE" />
+<person id="p8" start="407" end="440" text="United States Attorney John Walsh" TYPE="NAM" />
+<person id="p9" start="407" end="429" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p10" start="445" end="513" text="Drug Enforcement Administration Special Agent in Charge Barbra Roach" TYPE="NAM" />
+<person id="p11" start="445" end="500" text="Drug Enforcement Administration Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p12" start="535" end="538" text="his" TYPE="PRO" />
+<person id="p13" start="556" end="563" text="Arriola" TYPE="NAM" />
+<person id="p14" start="619" end="621" text="He" TYPE="PRO" />
+<person id="p15" start="642" end="657" text="Judge Blackburn" TYPE="NAM" />
+<person id="p16" start="642" end="647" text="Judge" TYPE="NOMPRE" />
+<person id="p17" start="684" end="691" text="Arriola" TYPE="NAM" />
+<person id="p18" start="708" end="738" text="a federal grand jury in Denver" TYPE="NOM" />
+<person id="p19" start="782" end="789" text="Arriola" TYPE="NAM" />
+<person id="p20" start="816" end="835" text="Mexican authorities" TYPE="BAR" />
+<person id="p21" start="863" end="866" text="his" TYPE="PRO" />
+<person id="p22" start="981" end="988" text="Arriola" TYPE="NAM" />
+<person id="p23" start="1060" end="1067" text="Arriola" TYPE="NAM" />
+<person id="p24" start="1290" end="1303" text="The defendant" TYPE="NOM" />
+<person id="p25" start="1493" end="1506" text="Oscar Arriola" TYPE="NAM" />
+<person id="p26" start="1510" end="1662" text="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" TYPE="NOM" />
+<person id="p27" start="1681" end="1688" text="Arriola" TYPE="NAMPRE" />
+<person id="p28" start="1820" end="1827" text="Arriola" TYPE="NAM" />
+<person id="p29" start="1832" end="1875" text="other leaders of the organization in Mexico" TYPE="BAR" />
+<person id="p30" start="1972" end="1986" text="crime stoppers" TYPE="NOMPRE" />
+<person id="p31" start="2172" end="2178" text="agents" TYPE="BAR" />
+<person id="p32" start="2274" end="2281" text="Arriola" TYPE="NAMPRE" />
+<person id="p33" start="2475" end="2482" text="Arriola" TYPE="NAMPRE" />
+<person id="p34" start="2497" end="2544" text="Law enforcement officers in the U.S. and Mexico" TYPE="BAR" />
+<person id="p35" start="2652" end="2705" text="60 key members of the Arriola organization in the U.S" TYPE="NOM" />
+<person id="p36" start="2674" end="2681" text="Arriola" TYPE="NAMPRE" />
+<person id="p37" start="2707" end="2713" text="Agents" TYPE="BAR" />
+<person id="p38" start="3034" end="3229" text="dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" TYPE="NOM" />
+<person id="p39" start="3188" end="3229" text="the Arriola organization bosses in Mexico" TYPE="NOM" />
+<person id="p40" start="3192" end="3199" text="Arriola" TYPE="NAMPRE" />
+<person id="p41" start="3231" end="3252" text="One money transporter" TYPE="NOM" />
+<person id="p42" start="3265" end="3267" text="he" TYPE="PRO" />
+<person id="p43" start="3480" end="3505" text="its leader, Oscar Arriola" TYPE="BAR" />
+<person id="p44" start="3492" end="3505" text="Oscar Arriola" TYPE="NAMPRE" />
+<person id="p45" start="3513" end="3553" text="DEA Special Agent in Charge Barbra Roach" TYPE="NAM" />
+<person id="p46" start="3513" end="3540" text="DEA Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p47" start="3763" end="3764" text="I" TYPE="PRO" />
+<person id="p48" start="3785" end="3857" text="the many people that worked tirelessly to bring Oscar Arriola to justice" TYPE="NOM" />
+<person id="p49" start="3801" end="3805" text="that" TYPE="PRO" />
+<person id="p50" start="3833" end="3846" text="Oscar Arriola" TYPE="NAM" />
+<person id="p51" start="3865" end="3889" text="U.S. Attorney John Walsh" TYPE="NAM" />
+<person id="p52" start="3865" end="3878" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p53" start="3907" end="3954" text="the men and women of the U.S. Attorney's Office" TYPE="NOM" />
+<person id="p54" start="3907" end="3954" text="the men and women of the U.S. Attorney's Office" TYPE="NOM" />
+<person id="p55" start="3928" end="3945" text="the U.S. Attorney" TYPE="NOM" />
+<person id="p56" start="3981" end="3995" text="this defendant" TYPE="NOM" />
+<person id="p57" start="4020" end="4126" text="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" TYPE="NOM" />
+<person id="p58" start="4040" end="4044" text="that" TYPE="PRO" />
+<person id="p59" start="4088" end="4095" text="Arriola" TYPE="NAM" />
+<person id="p60" start="4136" end="4137" text="I" TYPE="PRO" />
+<person id="p62" start="4240" end="4247" text="Arriola" TYPE="NAM" />
+<person id="p63" start="4331" end="4338" text="Arriola" TYPE="NAM" />
+<person id="p64" start="4472" end="4532" text="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" TYPE="NAM" />
+<person id="p65" start="4472" end="4532" text="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" TYPE="NAM" />
+<person id="p66" start="4472" end="4496" text="Assistant U.S. Attorneys" TYPE="NOMPRE" />
+<organization id="o0" start="133" end="222" text="the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" TYPE="NOM" />
+<organization id="o1" start="283" end="302" text="U.S. District Court" TYPE="NOMPRE" />
+<organization id="o2" start="288" end="296" text="District" TYPE="NOMPRE" />
+<organization id="o3" start="445" end="476" text="Drug Enforcement Administration" TYPE="NAMPRE" />
+<organization id="o4" start="1350" end="1355" text="court" TYPE="NOMPRE" />
+<organization id="o5" start="1367" end="1407" text="the DEA Colorado Springs Resident Office" TYPE="NAM" />
+<organization id="o6" start="1522" end="1662" text="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" TYPE="NOM" />
+<organization id="o7" start="1572" end="1576" text="that" TYPE="PRO" />
+<organization id="o8" start="1677" end="1701" text="the Arriola organization" TYPE="NOM" />
+<organization id="o9" start="1849" end="1865" text="the organization" TYPE="NOM" />
+<organization id="o11" start="2270" end="2294" text="the Arriola organization" TYPE="NOM" />
+<organization id="o10" start="2320" end="2428" text="DEA offices in Colorado Springs, Denver, El Paso, Chicago, New York, Albuquerque, North Carolina, and Mexico" TYPE="BAR" />
+<organization id="o12" start="2320" end="2323" text="DEA" TYPE="NAMPRE" />
+<organization id="o13" start="2471" end="2495" text="the Arriola organization" TYPE="NOM" />
+<organization id="o14" start="2670" end="2694" text="the Arriola organization" TYPE="NOM" />
+<organization id="o15" start="2748" end="2764" text="the organization" TYPE="NOM" />
+<organization id="o16" start="3003" end="3019" text="The organization" TYPE="NOM" />
+<organization id="o17" start="3192" end="3212" text="Arriola organization" TYPE="NOMPRE" />
+<organization id="o18" start="3339" end="3444" text="The most significant international drug trafficking organization ever to operate in the state of Colorado" TYPE="NOM" />
+<organization id="o19" start="3480" end="3483" text="its" TYPE="PRO" />
+<organization id="o20" start="3513" end="3516" text="DEA" TYPE="NAMPRE" />
+<organization id="o21" start="3578" end="3581" text="our" TYPE="PRO" />
+<organization id="o22" start="3598" end="3605" text="the DEA" TYPE="NAM" />
+<organization id="o23" start="3629" end="3632" text="its" TYPE="PRO" />
+<organization id="o24" start="3646" end="3759" text="those major organizations operating in our state which are profiting significantly from the sale of illegal drugs" TYPE="BAR" />
+<organization id="o25" start="3695" end="3700" text="which" TYPE="WHQ" />
+<organization id="o26" start="3928" end="3954" text="the U.S. Attorney's Office" TYPE="NOM" />
+<organization id="o27" start="4029" end="4032" text="DEA" TYPE="NAMPRE" />
+<organization id="o28" start="4165" end="4204" text="the Department of Justice in Washington" TYPE="NAM" />
+<organization id="o29" start="4154" end="4271" text="those with the Department of Justice in Washington who assisted in the extradition of Arriola from Mexico to Colorado" TYPE="HLS" />
+<organization id="o30" start="4205" end="4208" text="who" TYPE="WHQ" />
+<organization id="o31" start="4274" end="4299" text="The U.S. Marshals Service" TYPE="NAM" />
+<organization id="o32" start="4340" end="4395" text="The Criminal Division's Office of International Affairs" TYPE="NAM" />
+<organization id="o33" start="4340" end="4361" text="The Criminal Division" TYPE="NAM" />
+<geographical-political id="g0" start="214" end="222" text="Colorado" TYPE="NAM" />
+<geographical-political id="g1" start="235" end="241" text="Denver" TYPE="NAM" />
+<geographical-political id="g2" start="283" end="287" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g3" start="407" end="420" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="732" end="738" text="Denver" TYPE="NAM" />
+<geographical-political id="g5" start="806" end="812" text="Mexico" TYPE="NAM" />
+<geographical-political id="g6" start="816" end="823" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g7" start="884" end="906" text="the Republic of Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="910" end="927" text="the United States" TYPE="NAM" />
+<geographical-political id="g9" start="1004" end="1012" text="Colorado" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1238" end="1255" text="the United States" TYPE="NAM" />
+<geographical-political id="g11" start="1645" end="1662" text="the United States" TYPE="NAM" />
+<geographical-political id="g12" start="1774" end="1791" text="the United States" TYPE="NAM" />
+<geographical-political id="g13" start="1869" end="1875" text="Mexico" TYPE="NAM" />
+<geographical-political id="g14" start="1881" end="1897" text="Colorado Springs" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1955" end="1971" text="Pueblo, Colorado" TYPE="NAMPRE" />
+<geographical-political id="g16" start="1963" end="1971" text="Colorado" TYPE="NAM" />
+<geographical-political id="g17" start="2026" end="2068" text="Peyton, Colorado (east of Colorado Springs" TYPE="NAM" />
+<geographical-political id="g18" start="2034" end="2042" text="Colorado" TYPE="NAM" />
+<geographical-political id="g19" start="2052" end="2068" text="Colorado Springs" TYPE="NAM" />
+<geographical-political id="g20" start="2199" end="2205" text="Peyton" TYPE="NAMPRE" />
+<geographical-political id="g21" start="2335" end="2351" text="Colorado Springs" TYPE="NAM" />
+<geographical-political id="g22" start="2353" end="2359" text="Denver" TYPE="NAM" />
+<geographical-political id="g23" start="2361" end="2368" text="El Paso" TYPE="NAM" />
+<geographical-political id="g24" start="2370" end="2377" text="Chicago" TYPE="NAM" />
+<geographical-political id="g25" start="2379" end="2387" text="New York" TYPE="NAM" />
+<geographical-political id="g26" start="2389" end="2400" text="Albuquerque" TYPE="NAM" />
+<geographical-political id="g27" start="2402" end="2416" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g28" start="2422" end="2428" text="Mexico" TYPE="NAM" />
+<geographical-political id="g29" start="2525" end="2533" text="the U.S." TYPE="NAM" />
+<geographical-political id="g30" start="2538" end="2544" text="Mexico" TYPE="NAM" />
+<geographical-political id="g31" start="2698" end="2705" text="the U.S" TYPE="NAM" />
+<geographical-political id="g32" start="2779" end="2783" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g33" start="2817" end="2822" text="Texas" TYPE="NAM" />
+<geographical-political id="g34" start="2824" end="2832" text="Colorado" TYPE="NAM" />
+<geographical-political id="g35" start="2834" end="2842" text="Illinois" TYPE="NAM" />
+<geographical-political id="g36" start="2844" end="2852" text="New York" TYPE="NAM" />
+<geographical-political id="g37" start="2854" end="2861" text="Georgia" TYPE="NAM" />
+<geographical-political id="g38" start="2863" end="2871" text="Missouri" TYPE="NAM" />
+<geographical-political id="g39" start="2873" end="2880" text="Arizona" TYPE="NAM" />
+<geographical-political id="g40" start="2882" end="2892" text="New Mexico" TYPE="NAM" />
+<geographical-political id="g41" start="2894" end="2902" text="Oklahoma" TYPE="NAM" />
+<geographical-political id="g42" start="2904" end="2912" text="Maryland" TYPE="NAM" />
+<geographical-political id="g43" start="2914" end="2921" text="Indiana" TYPE="NAM" />
+<geographical-political id="g44" start="2923" end="2931" text="Michigan" TYPE="NAM" />
+<geographical-political id="g45" start="2933" end="2939" text="Kansas" TYPE="NAM" />
+<geographical-political id="g46" start="2941" end="2951" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g47" start="2953" end="2967" text="South Carolina" TYPE="NAM" />
+<geographical-political id="g48" start="2969" end="2981" text="Pennsylvania" TYPE="NAM" />
+<geographical-political id="g49" start="2987" end="3001" text="North Carolina" TYPE="NAM" />
+<geographical-political id="g51" start="3121" end="3129" text="the U.S." TYPE="NAM" />
+<geographical-political id="g52" start="3223" end="3229" text="Mexico" TYPE="NAM" />
+<geographical-political id="g53" start="3423" end="3444" text="the state of Colorado" TYPE="NOM" />
+<geographical-political id="g54" start="3436" end="3444" text="Colorado" TYPE="NAM" />
+<geographical-political id="g55" start="3685" end="3694" text="our state" TYPE="BAR" />
+<geographical-political id="g56" start="3685" end="3688" text="our" TYPE="PRO" />
+<geographical-political id="g57" start="3865" end="3869" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g50" start="3932" end="3936" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g58" start="4057" end="4061" text="here" TYPE="PRO" />
+<geographical-political id="g59" start="4069" end="4075" text="Mexico" TYPE="NAM" />
+<geographical-political id="g60" start="4194" end="4204" text="Washington" TYPE="NAM" />
+<geographical-political id="g61" start="4253" end="4259" text="Mexico" TYPE="NAM" />
+<geographical-political id="g62" start="4263" end="4271" text="Colorado" TYPE="NAM" />
+<geographical-political id="g63" start="4482" end="4486" text="U.S." TYPE="NAMPRE" />
+<falicity id="f0" start="354" end="368" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="539" end="545" text="prison" TYPE="NOMPRE" />
+<falicity id="f2" start="1953" end="1995" text="a Pueblo, Colorado crime stoppers tip line" TYPE="NOM" />
+<falicity id="f3" start="2006" end="2138" text="a ranch property in Peyton, Colorado (east of Colorado Springs) that was suspected of being used to store large shipments of cocaine" TYPE="NOM" />
+<falicity id="f4" start="2008" end="2013" text="ranch" TYPE="NOMPRE" />
+<falicity id="f5" start="2070" end="2074" text="that" TYPE="PRO" />
+<falicity id="f6" start="2195" end="2211" text="the Peyton ranch" TYPE="NOM" />
+<falicity id="f7" start="2222" end="2294" text="a cocaine storage and transportation center for the Arriola organization" TYPE="NOM" />
+<falicity id="f8" start="2222" end="2294" text="a cocaine storage and transportation center for the Arriola organization" TYPE="NOM" />
+<head id="h0" start="46" end="57" text="Mike Turner" />
+<head id="h1" start="40" end="45" text="Agent" />
+<head id="h2" start="107" end="120" text="Oscar Arriola" />
+<head id="h3" start="102" end="106" text="Lord" />
+<head id="h4" start="123" end="129" text="Leader" />
+<head id="h5" start="185" end="197" text="Organization" />
+<head id="h6" start="214" end="222" text="Colorado" />
+<head id="h7" start="235" end="241" text="Denver" />
+<head id="h8" start="246" end="259" text="Oscar Arriola" />
+<head id="h9" start="309" end="328" text="Robert E. Blackburn" />
+<head id="h10" start="303" end="308" text="Judge" />
+<head id="h11" start="297" end="302" text="Court" />
+<head id="h12" start="288" end="296" text="District" />
+<head id="h13" start="283" end="287" text="U.S." />
+<head id="h14" start="362" end="368" text="prison" />
+<head id="h15" start="430" end="440" text="John Walsh" />
+<head id="h16" start="421" end="429" text="Attorney" />
+<head id="h17" start="407" end="420" text="United States" />
+<head id="h18" start="501" end="513" text="Barbra Roach" />
+<head id="h19" start="485" end="490" text="Agent" />
+<head id="h20" start="445" end="476" text="Drug Enforcement Administration" />
+<head id="h21" start="535" end="538" text="his" />
+<head id="h22" start="556" end="563" text="Arriola" />
+<head id="h23" start="619" end="621" text="He" />
+<head id="h24" start="539" end="545" text="prison" />
+<head id="h25" start="648" end="657" text="Blackburn" />
+<head id="h26" start="642" end="647" text="Judge" />
+<head id="h27" start="684" end="691" text="Arriola" />
+<head id="h28" start="724" end="728" text="jury" />
+<head id="h29" start="732" end="738" text="Denver" />
+<head id="h30" start="782" end="789" text="Arriola" />
+<head id="h31" start="806" end="812" text="Mexico" />
+<head id="h32" start="824" end="835" text="authorities" />
+<head id="h33" start="816" end="823" text="Mexican" />
+<head id="h34" start="863" end="866" text="his" />
+<head id="h35" start="888" end="906" text="Republic of Mexico" />
+<head id="h36" start="914" end="927" text="United States" />
+<head id="h37" start="981" end="988" text="Arriola" />
+<head id="h38" start="1004" end="1012" text="Colorado" />
+<head id="h39" start="1060" end="1067" text="Arriola" />
+<head id="h40" start="1242" end="1255" text="United States" />
+<head id="h41" start="1294" end="1303" text="defendant" />
+<head id="h42" start="1350" end="1355" text="court" />
+<head id="h43" start="1371" end="1407" text="DEA Colorado Springs Resident Office" />
+<head id="h44" start="1493" end="1506" text="Oscar Arriola" />
+<head id="h45" start="1514" end="1518" text="head" />
+<head id="h46" start="1559" end="1571" text="organization" />
+<head id="h47" start="1572" end="1576" text="that" />
+<head id="h48" start="1649" end="1662" text="United States" />
+<head id="h49" start="1689" end="1701" text="organization" />
+<head id="h50" start="1681" end="1688" text="Arriola" />
+<head id="h51" start="1778" end="1791" text="United States" />
+<head id="h52" start="1820" end="1827" text="Arriola" />
+<head id="h53" start="1838" end="1845" text="leaders" />
+<head id="h54" start="1853" end="1865" text="organization" />
+<head id="h55" start="1869" end="1875" text="Mexico" />
+<head id="h56" start="1881" end="1897" text="Colorado Springs" />
+<head id="h57" start="1991" end="1995" text="line" />
+<head id="h58" start="1978" end="1986" text="stoppers" />
+<head id="h59" start="1955" end="1961" text="Pueblo" />
+<head id="h60" start="1963" end="1971" text="Colorado" />
+<head id="h61" start="2014" end="2022" text="property" />
+<head id="h62" start="2008" end="2013" text="ranch" />
+<head id="h63" start="2070" end="2074" text="that" />
+<head id="h64" start="2026" end="2032" text="Peyton" />
+<head id="h65" start="2034" end="2042" text="Colorado" />
+<head id="h66" start="2052" end="2068" text="Colorado Springs" />
+<head id="h67" start="2172" end="2178" text="agents" />
+<head id="h68" start="2206" end="2211" text="ranch" />
+<head id="h69" start="2199" end="2205" text="Peyton" />
+<head id="h70" start="2232" end="2239" text="storage" />
+<head id="h71" start="2259" end="2265" text="center" />
+<head id="h72" start="2282" end="2294" text="organization" />
+<head id="h73" start="2274" end="2281" text="Arriola" />
+<head id="h74" start="2324" end="2331" text="offices" />
+<head id="h75" start="2320" end="2323" text="DEA" />
+<head id="h76" start="2335" end="2351" text="Colorado Springs" />
+<head id="h77" start="2353" end="2359" text="Denver" />
+<head id="h78" start="2361" end="2368" text="El Paso" />
+<head id="h79" start="2370" end="2377" text="Chicago" />
+<head id="h80" start="2379" end="2387" text="New York" />
+<head id="h81" start="2389" end="2400" text="Albuquerque" />
+<head id="h82" start="2402" end="2416" text="North Carolina" />
+<head id="h83" start="2422" end="2428" text="Mexico" />
+<head id="h84" start="2483" end="2495" text="organization" />
+<head id="h85" start="2475" end="2482" text="Arriola" />
+<head id="h86" start="2513" end="2521" text="officers" />
+<head id="h87" start="2529" end="2533" text="U.S." />
+<head id="h88" start="2538" end="2544" text="Mexico" />
+<head id="h89" start="2659" end="2666" text="members" />
+<head id="h90" start="2682" end="2694" text="organization" />
+<head id="h91" start="2674" end="2681" text="Arriola" />
+<head id="h92" start="2702" end="2705" text="U.S" />
+<head id="h93" start="2707" end="2713" text="Agents" />
+<head id="h94" start="2752" end="2764" text="organization" />
+<head id="h95" start="2779" end="2783" text="U.S." />
+<head id="h96" start="2817" end="2822" text="Texas" />
+<head id="h97" start="2824" end="2832" text="Colorado" />
+<head id="h98" start="2834" end="2842" text="Illinois" />
+<head id="h99" start="2844" end="2852" text="New York" />
+<head id="h100" start="2854" end="2861" text="Georgia" />
+<head id="h101" start="2863" end="2871" text="Missouri" />
+<head id="h102" start="2873" end="2880" text="Arizona" />
+<head id="h103" start="2882" end="2892" text="New Mexico" />
+<head id="h104" start="2894" end="2902" text="Oklahoma" />
+<head id="h105" start="2904" end="2912" text="Maryland" />
+<head id="h106" start="2914" end="2921" text="Indiana" />
+<head id="h107" start="2923" end="2931" text="Michigan" />
+<head id="h108" start="2933" end="2939" text="Kansas" />
+<head id="h109" start="2941" end="2951" text="New Jersey" />
+<head id="h110" start="2953" end="2967" text="South Carolina" />
+<head id="h111" start="2969" end="2981" text="Pennsylvania" />
+<head id="h112" start="2987" end="3001" text="North Carolina" />
+<head id="h113" start="3007" end="3019" text="organization" />
+<head id="h114" start="3059" end="3071" text="transporters" />
+<head id="h115" start="3125" end="3129" text="U.S." />
+<head id="h116" start="3213" end="3219" text="bosses" />
+<head id="h117" start="3200" end="3212" text="organization" />
+<head id="h118" start="3192" end="3199" text="Arriola" />
+<head id="h119" start="3223" end="3229" text="Mexico" />
+<head id="h120" start="3241" end="3252" text="transporter" />
+<head id="h121" start="3265" end="3267" text="he" />
+<head id="h122" start="3391" end="3403" text="organization" />
+<head id="h123" start="3427" end="3432" text="state" />
+<head id="h124" start="3436" end="3444" text="Colorado" />
+<head id="h125" start="3484" end="3490" text="leader" />
+<head id="h126" start="3480" end="3483" text="its" />
+<head id="h127" start="3492" end="3505" text="Oscar Arriola" />
+<head id="h129" start="3541" end="3553" text="Barbra Roach" />
+<head id="h130" start="3525" end="3530" text="Agent" />
+<head id="h131" start="3513" end="3516" text="DEA" />
+<head id="h132" start="3578" end="3581" text="our" />
+<head id="h133" start="3602" end="3605" text="DEA" />
+<head id="h134" start="3629" end="3632" text="its" />
+<head id="h135" start="3658" end="3671" text="organizations" />
+<head id="h136" start="3695" end="3700" text="which" />
+<head id="h137" start="3689" end="3694" text="state" />
+<head id="h138" start="3685" end="3688" text="our" />
+<head id="h139" start="3763" end="3764" text="I" />
+<head id="h140" start="3794" end="3800" text="people" />
+<head id="h141" start="3801" end="3805" text="that" />
+<head id="h142" start="3833" end="3846" text="Oscar Arriola" />
+<head id="h143" start="3879" end="3889" text="John Walsh" />
+<head id="h144" start="3870" end="3878" text="Attorney" />
+<head id="h145" start="3865" end="3869" text="U.S." />
+<head id="h128" start="3911" end="3914" text="men" />
+<head id="h146" start="3919" end="3924" text="women" />
+<head id="h147" start="3948" end="3954" text="Office" />
+<head id="h148" start="3937" end="3945" text="Attorney" />
+<head id="h149" start="3932" end="3936" text="U.S." />
+<head id="h150" start="3986" end="3995" text="defendant" />
+<head id="h151" start="4033" end="4039" text="agents" />
+<head id="h152" start="4040" end="4044" text="that" />
+<head id="h153" start="4029" end="4032" text="DEA" />
+<head id="h154" start="4057" end="4061" text="here" />
+<head id="h155" start="4069" end="4075" text="Mexico" />
+<head id="h156" start="4088" end="4095" text="Arriola" />
+<head id="h157" start="4136" end="4137" text="I" />
+<head id="h158" start="4154" end="4159" text="those" />
+<head id="h159" start="4169" end="4190" text="Department of Justice" />
+<head id="h160" start="4194" end="4204" text="Washington" />
+<head id="h161" start="4205" end="4208" text="who" />
+<head id="h162" start="4240" end="4247" text="Arriola" />
+<head id="h163" start="4253" end="4259" text="Mexico" />
+<head id="h164" start="4263" end="4271" text="Colorado" />
+<head id="h165" start="4278" end="4299" text="U.S. Marshals Service" />
+<head id="h166" start="4331" end="4338" text="Arriola" />
+<head id="h167" start="4364" end="4395" text="Office of International Affairs" />
+<head id="h168" start="4344" end="4361" text="Criminal Division" />
+<head id="h169" start="4497" end="4510" text="M.J. Menendez" />
+<head id="h170" start="4515" end="4532" text="Susan 'Zeke' Knox" />
+<head id="h171" start="4487" end="4496" text="Attorneys" />
+<head id="h172" start="4482" end="4486" text="U.S." />
+<name id="n0" start="46" end="57" text="Mike Turner" />
+<name id="n1" start="107" end="120" text="Oscar Arriola" />
+<name id="n2" start="214" end="222" text="Colorado" />
+<name id="n3" start="235" end="241" text="Denver" />
+<name id="n4" start="246" end="259" text="Oscar Arriola" />
+<name id="n5" start="309" end="328" text="Robert E. Blackburn" />
+<name id="n6" start="283" end="287" text="U.S." />
+<name id="n7" start="430" end="440" text="John Walsh" />
+<name id="n8" start="407" end="420" text="United States" />
+<name id="n9" start="501" end="513" text="Barbra Roach" />
+<name id="n10" start="445" end="476" text="Drug Enforcement Administration" />
+<name id="n11" start="556" end="563" text="Arriola" />
+<name id="n12" start="648" end="657" text="Blackburn" />
+<name id="n13" start="684" end="691" text="Arriola" />
+<name id="n14" start="732" end="738" text="Denver" />
+<name id="n15" start="782" end="789" text="Arriola" />
+<name id="n16" start="806" end="812" text="Mexico" />
+<name id="n17" start="816" end="823" text="Mexican" />
+<name id="n18" start="888" end="906" text="Republic of Mexico" />
+<name id="n19" start="914" end="927" text="United States" />
+<name id="n20" start="981" end="988" text="Arriola" />
+<name id="n21" start="1004" end="1012" text="Colorado" />
+<name id="n22" start="1060" end="1067" text="Arriola" />
+<name id="n23" start="1242" end="1255" text="United States" />
+<name id="n24" start="1371" end="1407" text="DEA Colorado Springs Resident Office" />
+<name id="n25" start="1493" end="1506" text="Oscar Arriola" />
+<name id="n26" start="1649" end="1662" text="United States" />
+<name id="n27" start="1681" end="1688" text="Arriola" />
+<name id="n28" start="1778" end="1791" text="United States" />
+<name id="n29" start="1820" end="1827" text="Arriola" />
+<name id="n30" start="1869" end="1875" text="Mexico" />
+<name id="n31" start="1881" end="1897" text="Colorado Springs" />
+<name id="n32" start="1955" end="1961" text="Pueblo" />
+<name id="n33" start="1963" end="1971" text="Colorado" />
+<name id="n34" start="2026" end="2032" text="Peyton" />
+<name id="n35" start="2034" end="2042" text="Colorado" />
+<name id="n36" start="2052" end="2068" text="Colorado Springs" />
+<name id="n37" start="2199" end="2205" text="Peyton" />
+<name id="n38" start="2274" end="2281" text="Arriola" />
+<name id="n39" start="2320" end="2323" text="DEA" />
+<name id="n40" start="2335" end="2351" text="Colorado Springs" />
+<name id="n41" start="2353" end="2359" text="Denver" />
+<name id="n42" start="2361" end="2368" text="El Paso" />
+<name id="n43" start="2370" end="2377" text="Chicago" />
+<name id="n44" start="2379" end="2387" text="New York" />
+<name id="n45" start="2389" end="2400" text="Albuquerque" />
+<name id="n46" start="2402" end="2416" text="North Carolina" />
+<name id="n47" start="2422" end="2428" text="Mexico" />
+<name id="n48" start="2475" end="2482" text="Arriola" />
+<name id="n49" start="2529" end="2533" text="U.S." />
+<name id="n50" start="2538" end="2544" text="Mexico" />
+<name id="n51" start="2674" end="2681" text="Arriola" />
+<name id="n52" start="2702" end="2705" text="U.S" />
+<name id="n53" start="2779" end="2783" text="U.S." />
+<name id="n54" start="2817" end="2822" text="Texas" />
+<name id="n55" start="2824" end="2832" text="Colorado" />
+<name id="n56" start="2834" end="2842" text="Illinois" />
+<name id="n57" start="2844" end="2852" text="New York" />
+<name id="n58" start="2854" end="2861" text="Georgia" />
+<name id="n59" start="2863" end="2871" text="Missouri" />
+<name id="n60" start="2873" end="2880" text="Arizona" />
+<name id="n61" start="2882" end="2892" text="New Mexico" />
+<name id="n62" start="2894" end="2902" text="Oklahoma" />
+<name id="n63" start="2904" end="2912" text="Maryland" />
+<name id="n64" start="2914" end="2921" text="Indiana" />
+<name id="n65" start="2923" end="2931" text="Michigan" />
+<name id="n66" start="2933" end="2939" text="Kansas" />
+<name id="n67" start="2941" end="2951" text="New Jersey" />
+<name id="n68" start="2953" end="2967" text="South Carolina" />
+<name id="n69" start="2969" end="2981" text="Pennsylvania" />
+<name id="n70" start="2987" end="3001" text="North Carolina" />
+<name id="n71" start="3125" end="3129" text="U.S." />
+<name id="n72" start="3192" end="3199" text="Arriola" />
+<name id="n73" start="3223" end="3229" text="Mexico" />
+<name id="n74" start="3436" end="3444" text="Colorado" />
+<name id="n75" start="3492" end="3505" text="Oscar Arriola" />
+<name id="n76" start="3541" end="3553" text="Barbra Roach" />
+<name id="n77" start="3513" end="3516" text="DEA" />
+<name id="n78" start="3602" end="3605" text="DEA" />
+<name id="n79" start="3833" end="3846" text="Oscar Arriola" />
+<name id="n80" start="3879" end="3889" text="John Walsh" />
+<name id="n81" start="3865" end="3869" text="U.S." />
+<name id="n82" start="3932" end="3936" text="U.S." />
+<name id="n83" start="4029" end="4032" text="DEA" />
+<name id="n84" start="4069" end="4075" text="Mexico" />
+<name id="n85" start="4088" end="4095" text="Arriola" />
+<name id="n86" start="4169" end="4190" text="Department of Justice" />
+<name id="n87" start="4194" end="4204" text="Washington" />
+<name id="n88" start="4240" end="4247" text="Arriola" />
+<name id="n89" start="4253" end="4259" text="Mexico" />
+<name id="n90" start="4263" end="4271" text="Colorado" />
+<name id="n91" start="4278" end="4299" text="U.S. Marshals Service" />
+<name id="n92" start="4331" end="4338" text="Arriola" />
+<name id="n93" start="4364" end="4395" text="Office of International Affairs" />
+<name id="n94" start="4344" end="4361" text="Criminal Division" />
+<name id="n95" start="4497" end="4510" text="M.J. Menendez" />
+<name id="n96" start="4515" end="4532" text="Susan 'Zeke' Knox" />
+<name id="n97" start="4482" end="4486" text="U.S." />
+<located-mention id="lo0" start="684" end="759" text="Arriola was indicted by a federal grand jury in Denver on December 16, 2003" TYPE="Other" />
+<located-mention id="lo1" start="708" end="738" text="a federal grand jury in Denver" TYPE="Preposition" />
+<located-mention id="lo2" start="761" end="927" text="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" TYPE="Verbal" />
+<located-mention id="lo3" start="761" end="927" text="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" TYPE="Other" />
+<located-mention id="lo4" start="863" end="927" text="his extradition from the Republic of Mexico to the United States" TYPE="Preposition" />
+<located-mention id="lo5" start="863" end="927" text="his extradition from the Republic of Mexico to the United States" TYPE="Preposition" />
+<located-mention id="lo6" start="1832" end="1875" text="other leaders of the organization in Mexico" TYPE="Preposition" />
+<located-mention id="lo7" start="2652" end="2705" text="60 key members of the Arriola organization in the U.S" TYPE="Preposition" />
+<located-mention id="lo8" start="3188" end="3229" text="the Arriola organization bosses in Mexico" TYPE="Preposition" />
+<located-mention id="lo12" start="3997" end="4126" text="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" TYPE="Other" />
+<located-mention id="lo13" start="3997" end="4126" text="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" TYPE="Other" />
+<located-mention id="lo14" start="4221" end="4271" text="the extradition of Arriola from Mexico to Colorado" TYPE="Preposition" />
+<located-mention id="lo15" start="4221" end="4271" text="the extradition of Arriola from Mexico to Colorado" TYPE="Preposition" />
+<located-mention id="lo16" start="3003" end="3229" text="The organization allegedly had dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" TYPE="Other" />
+<employment-mention id="e0" start="407" end="429" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="816" end="835" text="Mexican authorities" TYPE="PreMod" />
+<employment-mention id="e2" start="2497" end="2544" text="Law enforcement officers in the U.S. and Mexico" TYPE="Preposition" />
+<employment-mention id="e3" start="2497" end="2544" text="Law enforcement officers in the U.S. and Mexico" TYPE="Preposition" />
+<employment-mention id="e4" start="3865" end="3878" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e5" start="3928" end="3945" text="the U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e6" start="4472" end="4496" text="Assistant U.S. Attorneys" TYPE="PreMod" />
+<M id="M0" start="123" end="222" text="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" TYPE="Preposition" />
+<M id="M1" start="283" end="308" text="U.S. District Court Judge" TYPE="PreMod" />
+<M id="M2" start="445" end="500" text="Drug Enforcement Administration Special Agent in Charge" TYPE="PreMod" />
+<M id="M3" start="1510" end="1662" text="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" TYPE="Preposition" />
+<M id="M4" start="1677" end="1701" text="the Arriola organization" TYPE="Other" />
+<M id="M5" start="1832" end="1875" text="other leaders of the organization in Mexico" TYPE="Preposition" />
+<M id="M6" start="2270" end="2294" text="the Arriola organization" TYPE="Other" />
+<M id="M7" start="2471" end="2495" text="the Arriola organization" TYPE="Other" />
+<M id="M8" start="2652" end="2705" text="60 key members of the Arriola organization in the U.S" TYPE="Preposition" />
+<M id="M9" start="3192" end="3212" text="Arriola organization" TYPE="Other" />
+<M id="M10" start="3188" end="3229" text="the Arriola organization bosses in Mexico" TYPE="PreMod" />
+<M id="M11" start="3480" end="3505" text="its leader, Oscar Arriola" TYPE="PreMod" />
+<M id="M12" start="3513" end="3540" text="DEA Special Agent in Charge" TYPE="PreMod" />
+<M id="M13" start="3907" end="3954" text="the men and women of the U.S. Attorney's Office" TYPE="Preposition" />
+<M id="M14" start="3907" end="3954" text="the men and women of the U.S. Attorney's Office" TYPE="Preposition" />
+<M id="M15" start="4020" end="4126" text="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" TYPE="PreMod" />
+<entity_link id="en0" fromID="p1" fromText="Special Agent" toID="p0" toText="Special Agent Mike Turner" />
+<entity_link id="en1" fromID="p3" fromText="Drug Lord" toID="p2" toText="Drug Lord Oscar Arriola" />
+<entity_link id="en2" fromID="p4" fromText="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" toID="p2" toText="Drug Lord Oscar Arriola" />
+<entity_link id="en3" fromID="p5" fromText="Oscar Arriola" toID="p2" toText="Drug Lord Oscar Arriola" />
+<entity_link id="en4" fromID="p7" fromText="U.S. District Court Judge" toID="p6" toText="U.S. District Court Judge Robert E. Blackburn" />
+<entity_link id="en5" fromID="g3" fromText="United States" toID="g2" toText="U.S." />
+<entity_link id="en6" fromID="p11" fromText="Drug Enforcement Administration Special Agent in Charge" toID="p10" toText="Drug Enforcement Administration Special Agent in Charge Barbra Roach" />
+<entity_link id="en7" fromID="p13" fromText="Arriola" toID="p5" toText="Oscar Arriola" />
+<entity_link id="en8" fromID="p12" fromText="his" toID="p13" toText="Arriola" />
+<entity_link id="en9" fromID="p14" fromText="He" toID="p13" toText="Arriola" />
+<entity_link id="en10" fromID="p15" fromText="Judge Blackburn" toID="p6" toText="U.S. District Court Judge Robert E. Blackburn" />
+<entity_link id="en11" fromID="p16" fromText="Judge" toID="p15" toText="Judge Blackburn" />
+<entity_link id="en12" fromID="p17" fromText="Arriola" toID="p13" toText="Arriola" />
+<entity_link id="en13" fromID="g4" fromText="Denver" toID="g1" toText="Denver" />
+<entity_link id="en14" fromID="p19" fromText="Arriola" toID="p17" toText="Arriola" />
+<entity_link id="en15" fromID="p21" fromText="his" toID="p19" toText="Arriola" />
+<entity_link id="en16" fromID="g7" fromText="the Republic of Mexico" toID="g5" toText="Mexico" />
+<entity_link id="en17" fromID="g8" fromText="the United States" toID="g2" toText="U.S." />
+<entity_link id="en18" fromID="p22" fromText="Arriola" toID="p19" toText="Arriola" />
+<entity_link id="en19" fromID="g9" fromText="Colorado" toID="g0" toText="Colorado" />
+<entity_link id="en20" fromID="g6" fromText="Mexican" toID="g5" toText="Mexico" />
+<entity_link id="en21" fromID="p23" fromText="Arriola" toID="p22" toText="Arriola" />
+<entity_link id="en22" fromID="g10" fromText="the United States" toID="g8" toText="the United States" />
+<entity_link id="en23" fromID="p24" fromText="The defendant" toID="p23" toText="Arriola" />
+<entity_link id="en24" fromID="p25" fromText="Oscar Arriola" toID="p24" toText="The defendant" />
+<entity_link id="en25" fromID="p26" fromText="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="p25" toText="Oscar Arriola" />
+<entity_link id="en26" fromID="o6" fromText="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="o0" toText="the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" />
+<entity_link id="en27" fromID="o7" fromText="that" toID="o6" toText="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" />
+<entity_link id="en28" fromID="g11" fromText="the United States" toID="g10" toText="the United States" />
+<entity_link id="en29" fromID="o8" fromText="the Arriola organization" toID="o6" toText="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" />
+<entity_link id="en30" fromID="p27" fromText="Arriola" toID="p25" toText="Oscar Arriola" />
+<entity_link id="en31" fromID="g12" fromText="the United States" toID="g11" toText="the United States" />
+<entity_link id="en32" fromID="p28" fromText="Arriola" toID="p27" toText="Arriola" />
+<entity_link id="en33" fromID="o9" fromText="the organization" toID="o8" toText="the Arriola organization" />
+<entity_link id="en34" fromID="g13" fromText="Mexico" toID="g5" toText="Mexico" />
+<entity_link id="en36" fromID="g16" fromText="Colorado" toID="g9" toText="Colorado" />
+<entity_link id="en37" fromID="f5" fromText="that" toID="f3" toText="a ranch property in Peyton, Colorado (east of Colorado Springs) that was suspected of being used to store large shipments of cocaine" />
+<entity_link id="en38" fromID="g18" fromText="Colorado" toID="g16" toText="Colorado" />
+<entity_link id="en39" fromID="g19" fromText="Colorado Springs" toID="g14" toText="Colorado Springs" />
+<entity_link id="en40" fromID="f6" fromText="the Peyton ranch" toID="f3" toText="a ranch property in Peyton, Colorado (east of Colorado Springs) that was suspected of being used to store large shipments of cocaine" />
+<entity_link id="en41" fromID="g20" fromText="Peyton" toID="g17" toText="Peyton, Colorado (east of Colorado Springs" />
+<entity_link id="en42" fromID="f7" fromText="a cocaine storage and transportation center for the Arriola organization" toID="f6" toText="the Peyton ranch" />
+<entity_link id="en43" fromID="f8" fromText="a cocaine storage and transportation center for the Arriola organization" toID="f6" toText="the Peyton ranch" />
+<entity_link id="en44" fromID="o11" fromText="the Arriola organization" toID="o8" toText="the Arriola organization" />
+<entity_link id="en45" fromID="p32" fromText="Arriola" toID="p28" toText="Arriola" />
+<entity_link id="en35" fromID="o12" fromText="DEA" toID="o3" toText="Drug Enforcement Administration" />
+<entity_link id="en46" fromID="g21" fromText="Colorado Springs" toID="g19" toText="Colorado Springs" />
+<entity_link id="en47" fromID="g22" fromText="Denver" toID="g4" toText="Denver" />
+<entity_link id="en48" fromID="g28" fromText="Mexico" toID="g13" toText="Mexico" />
+<entity_link id="en49" fromID="o13" fromText="the Arriola organization" toID="o11" toText="the Arriola organization" />
+<entity_link id="en50" fromID="p33" fromText="Arriola" toID="p32" toText="Arriola" />
+<entity_link id="en51" fromID="g29" fromText="the U.S." toID="g12" toText="the United States" />
+<entity_link id="en52" fromID="g30" fromText="Mexico" toID="g28" toText="Mexico" />
+<entity_link id="en53" fromID="o14" fromText="the Arriola organization" toID="o13" toText="the Arriola organization" />
+<entity_link id="en54" fromID="p36" fromText="Arriola" toID="p33" toText="Arriola" />
+<entity_link id="en55" fromID="g31" fromText="the U.S" toID="g29" toText="the U.S." />
+<entity_link id="en56" fromID="p37" fromText="Agents" toID="p31" toText="agents" />
+<entity_link id="en57" fromID="o15" fromText="the organization" toID="o14" toText="the Arriola organization" />
+<entity_link id="en58" fromID="g32" fromText="U.S." toID="g31" toText="the U.S" />
+<entity_link id="en59" fromID="g34" fromText="Colorado" toID="g18" toText="Colorado" />
+<entity_link id="en60" fromID="g36" fromText="New York" toID="g25" toText="New York" />
+<entity_link id="en61" fromID="g49" fromText="North Carolina" toID="g27" toText="North Carolina" />
+<entity_link id="en62" fromID="o16" fromText="The organization" toID="o15" toText="the organization" />
+<entity_link id="en63" fromID="g51" fromText="the U.S." toID="g32" toText="U.S." />
+<entity_link id="en64" fromID="o17" fromText="Arriola organization" toID="o16" toText="The organization" />
+<entity_link id="en65" fromID="p40" fromText="Arriola" toID="p36" toText="Arriola" />
+<entity_link id="en66" fromID="g52" fromText="Mexico" toID="g30" toText="Mexico" />
+<entity_link id="en67" fromID="p42" fromText="he" toID="p41" toText="One money transporter" />
+<entity_link id="en68" fromID="o18" fromText="The most significant international drug trafficking organization ever to operate in the state of Colorado" toID="o16" toText="The organization" />
+<entity_link id="en69" fromID="g53" fromText="the state of Colorado" toID="g34" toText="Colorado" />
+<entity_link id="en70" fromID="g54" fromText="Colorado" toID="g53" toText="the state of Colorado" />
+<entity_link id="en71" fromID="o19" fromText="its" toID="o18" toText="The most significant international drug trafficking organization ever to operate in the state of Colorado" />
+<entity_link id="en72" fromID="p44" fromText="Oscar Arriola" toID="p40" toText="Arriola" />
+<entity_link id="en73" fromID="p43" fromText="its leader, Oscar Arriola" toID="p44" toText="Oscar Arriola" />
+<entity_link id="en74" fromID="p46" fromText="DEA Special Agent in Charge" toID="p45" toText="DEA Special Agent in Charge Barbra Roach" />
+<entity_link id="en75" fromID="o20" fromText="DEA" toID="o12" toText="DEA" />
+<entity_link id="en76" fromID="o21" fromText="our" toID="o20" toText="DEA" />
+<entity_link id="en77" fromID="o22" fromText="the DEA" toID="o20" toText="DEA" />
+<entity_link id="en78" fromID="o23" fromText="its" toID="o22" toText="the DEA" />
+<entity_link id="en79" fromID="o25" fromText="which" toID="o24" toText="those major organizations operating in our state which are profiting significantly from the sale of illegal drugs" />
+<entity_link id="en80" fromID="g56" fromText="our" toID="g51" toText="the U.S." />
+<entity_link id="en81" fromID="p49" fromText="that" toID="p48" toText="the many people that worked tirelessly to bring Oscar Arriola to justice" />
+<entity_link id="en82" fromID="p50" fromText="Oscar Arriola" toID="p44" toText="Oscar Arriola" />
+<entity_link id="en83" fromID="p51" fromText="U.S. Attorney John Walsh" toID="p8" toText="United States Attorney John Walsh" />
+<entity_link id="en84" fromID="p47" fromText="I" toID="p51" toText="U.S. Attorney John Walsh" />
+<entity_link id="en85" fromID="p52" fromText="U.S. Attorney" toID="p51" toText="U.S. Attorney John Walsh" />
+<entity_link id="en86" fromID="g57" fromText="U.S." toID="g51" toText="the U.S." />
+<entity_link id="en87" fromID="p45" fromText="DEA Special Agent in Charge Barbra Roach" toID="p10" toText="Drug Enforcement Administration Special Agent in Charge Barbra Roach" />
+<entity_link id="en88" fromID="g50" fromText="U.S." toID="g57" toText="U.S." />
+<entity_link id="en89" fromID="p56" fromText="this defendant" toID="p50" toText="Oscar Arriola" />
+<entity_link id="en90" fromID="p58" fromText="that" toID="p57" toText="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" />
+<entity_link id="en91" fromID="g58" fromText="here" toID="g50" toText="U.S." />
+<entity_link id="en92" fromID="g59" fromText="Mexico" toID="g52" toText="Mexico" />
+<entity_link id="en93" fromID="p59" fromText="Arriola" toID="p50" toText="Oscar Arriola" />
+<entity_link id="en94" fromID="o27" fromText="DEA" toID="o22" toText="the DEA" />
+<entity_link id="en95" fromID="p60" fromText="I" toID="p51" toText="U.S. Attorney John Walsh" />
+<entity_link id="en96" fromID="p62" fromText="Arriola" toID="p59" toText="Arriola" />
+<entity_link id="en97" fromID="g61" fromText="Mexico" toID="g59" toText="Mexico" />
+<entity_link id="en98" fromID="g62" fromText="Colorado" toID="g54" toText="Colorado" />
+<entity_link id="en99" fromID="p63" fromText="Arriola" toID="p62" toText="Arriola" />
+<entity_link id="en100" fromID="g63" fromText="U.S." toID="g50" toText="U.S." />
+<head_link id="he0" fromID="p0" fromText="Special Agent Mike Turner" toID="h0" toText="Mike Turner" />
+<head_link id="he1" fromID="p1" fromText="Special Agent" toID="h1" toText="Agent" />
+<head_link id="he2" fromID="p2" fromText="Drug Lord Oscar Arriola" toID="h2" toText="Oscar Arriola" />
+<head_link id="he3" fromID="p3" fromText="Drug Lord" toID="h3" toText="Lord" />
+<head_link id="he4" fromID="p4" fromText="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" toID="h4" toText="Leader" />
+<head_link id="he5" fromID="o0" fromText="the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" toID="h5" toText="Organization" />
+<head_link id="he6" fromID="g0" fromText="Colorado" toID="h6" toText="Colorado" />
+<head_link id="he7" fromID="g1" fromText="Denver" toID="h7" toText="Denver" />
+<head_link id="he8" fromID="p5" fromText="Oscar Arriola" toID="h8" toText="Oscar Arriola" />
+<head_link id="he9" fromID="p6" fromText="U.S. District Court Judge Robert E. Blackburn" toID="h9" toText="Robert E. Blackburn" />
+<head_link id="he10" fromID="p7" fromText="U.S. District Court Judge" toID="h10" toText="Judge" />
+<head_link id="he11" fromID="o1" fromText="U.S. District Court" toID="h11" toText="Court" />
+<head_link id="he12" fromID="o2" fromText="District" toID="h12" toText="District" />
+<head_link id="he13" fromID="g2" fromText="U.S." toID="h13" toText="U.S." />
+<head_link id="he14" fromID="f0" fromText="federal prison" toID="h14" toText="prison" />
+<head_link id="he15" fromID="p8" fromText="United States Attorney John Walsh" toID="h15" toText="John Walsh" />
+<head_link id="he16" fromID="p9" fromText="United States Attorney" toID="h16" toText="Attorney" />
+<head_link id="he17" fromID="g3" fromText="United States" toID="h17" toText="United States" />
+<head_link id="he18" fromID="p10" fromText="Drug Enforcement Administration Special Agent in Charge Barbra Roach" toID="h18" toText="Barbra Roach" />
+<head_link id="he19" fromID="p11" fromText="Drug Enforcement Administration Special Agent in Charge" toID="h19" toText="Agent" />
+<head_link id="he20" fromID="o3" fromText="Drug Enforcement Administration" toID="h20" toText="Drug Enforcement Administration" />
+<head_link id="he21" fromID="p12" fromText="his" toID="h21" toText="his" />
+<head_link id="he22" fromID="p13" fromText="Arriola" toID="h22" toText="Arriola" />
+<head_link id="he23" fromID="p14" fromText="He" toID="h23" toText="He" />
+<head_link id="he24" fromID="f1" fromText="prison" toID="h24" toText="prison" />
+<head_link id="he25" fromID="p15" fromText="Judge Blackburn" toID="h25" toText="Blackburn" />
+<head_link id="he26" fromID="p16" fromText="Judge" toID="h26" toText="Judge" />
+<head_link id="he27" fromID="p17" fromText="Arriola" toID="h27" toText="Arriola" />
+<head_link id="he28" fromID="p18" fromText="a federal grand jury in Denver" toID="h28" toText="jury" />
+<head_link id="he29" fromID="g4" fromText="Denver" toID="h29" toText="Denver" />
+<head_link id="he30" fromID="p19" fromText="Arriola" toID="h30" toText="Arriola" />
+<head_link id="he31" fromID="g5" fromText="Mexico" toID="h31" toText="Mexico" />
+<head_link id="he32" fromID="p20" fromText="Mexican authorities" toID="h32" toText="authorities" />
+<head_link id="he33" fromID="g6" fromText="Mexican" toID="h33" toText="Mexican" />
+<head_link id="he34" fromID="p21" fromText="his" toID="h34" toText="his" />
+<head_link id="he35" fromID="g7" fromText="the Republic of Mexico" toID="h35" toText="Republic of Mexico" />
+<head_link id="he36" fromID="g8" fromText="the United States" toID="h36" toText="United States" />
+<head_link id="he37" fromID="p22" fromText="Arriola" toID="h37" toText="Arriola" />
+<head_link id="he38" fromID="g9" fromText="Colorado" toID="h38" toText="Colorado" />
+<head_link id="he39" fromID="p23" fromText="Arriola" toID="h39" toText="Arriola" />
+<head_link id="he40" fromID="g10" fromText="the United States" toID="h40" toText="United States" />
+<head_link id="he41" fromID="p24" fromText="The defendant" toID="h41" toText="defendant" />
+<head_link id="he42" fromID="o4" fromText="court" toID="h42" toText="court" />
+<head_link id="he43" fromID="o5" fromText="the DEA Colorado Springs Resident Office" toID="h43" toText="DEA Colorado Springs Resident Office" />
+<head_link id="he44" fromID="p25" fromText="Oscar Arriola" toID="h44" toText="Oscar Arriola" />
+<head_link id="he45" fromID="p26" fromText="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="h45" toText="head" />
+<head_link id="he46" fromID="o6" fromText="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="h46" toText="organization" />
+<head_link id="he47" fromID="o7" fromText="that" toID="h47" toText="that" />
+<head_link id="he48" fromID="g11" fromText="the United States" toID="h48" toText="United States" />
+<head_link id="he49" fromID="o8" fromText="the Arriola organization" toID="h49" toText="organization" />
+<head_link id="he50" fromID="p27" fromText="Arriola" toID="h50" toText="Arriola" />
+<head_link id="he51" fromID="g12" fromText="the United States" toID="h51" toText="United States" />
+<head_link id="he52" fromID="p28" fromText="Arriola" toID="h52" toText="Arriola" />
+<head_link id="he53" fromID="p29" fromText="other leaders of the organization in Mexico" toID="h53" toText="leaders" />
+<head_link id="he54" fromID="o9" fromText="the organization" toID="h54" toText="organization" />
+<head_link id="he55" fromID="g13" fromText="Mexico" toID="h55" toText="Mexico" />
+<head_link id="he57" fromID="g14" fromText="Colorado Springs" toID="h56" toText="Colorado Springs" />
+<head_link id="he58" fromID="f2" fromText="a Pueblo, Colorado crime stoppers tip line" toID="h57" toText="line" />
+<head_link id="he59" fromID="p30" fromText="crime stoppers" toID="h58" toText="stoppers" />
+<head_link id="he60" fromID="g15" fromText="Pueblo, Colorado" toID="h59" toText="Pueblo" />
+<head_link id="he61" fromID="g16" fromText="Colorado" toID="h60" toText="Colorado" />
+<head_link id="he62" fromID="f3" fromText="a ranch property in Peyton, Colorado (east of Colorado Springs) that was suspected of being used to store large shipments of cocaine" toID="h61" toText="property" />
+<head_link id="he63" fromID="f4" fromText="ranch" toID="h62" toText="ranch" />
+<head_link id="he64" fromID="f5" fromText="that" toID="h63" toText="that" />
+<head_link id="he65" fromID="g17" fromText="Peyton, Colorado (east of Colorado Springs" toID="h64" toText="Peyton" />
+<head_link id="he66" fromID="g18" fromText="Colorado" toID="h65" toText="Colorado" />
+<head_link id="he67" fromID="g19" fromText="Colorado Springs" toID="h66" toText="Colorado Springs" />
+<head_link id="he68" fromID="p31" fromText="agents" toID="h67" toText="agents" />
+<head_link id="he69" fromID="f6" fromText="the Peyton ranch" toID="h68" toText="ranch" />
+<head_link id="he70" fromID="g20" fromText="Peyton" toID="h69" toText="Peyton" />
+<head_link id="he71" fromID="f7" fromText="a cocaine storage and transportation center for the Arriola organization" toID="h70" toText="storage" />
+<head_link id="he72" fromID="f8" fromText="a cocaine storage and transportation center for the Arriola organization" toID="h71" toText="center" />
+<head_link id="he73" fromID="o11" fromText="the Arriola organization" toID="h72" toText="organization" />
+<head_link id="he74" fromID="p32" fromText="Arriola" toID="h73" toText="Arriola" />
+<head_link id="he56" fromID="o10" fromText="DEA offices in Colorado Springs, Denver, El Paso, Chicago, New York, Albuquerque, North Carolina, and Mexico" toID="h74" toText="offices" />
+<head_link id="he75" fromID="o12" fromText="DEA" toID="h75" toText="DEA" />
+<head_link id="he76" fromID="g21" fromText="Colorado Springs" toID="h76" toText="Colorado Springs" />
+<head_link id="he77" fromID="g22" fromText="Denver" toID="h77" toText="Denver" />
+<head_link id="he78" fromID="g23" fromText="El Paso" toID="h78" toText="El Paso" />
+<head_link id="he79" fromID="g24" fromText="Chicago" toID="h79" toText="Chicago" />
+<head_link id="he80" fromID="g25" fromText="New York" toID="h80" toText="New York" />
+<head_link id="he81" fromID="g26" fromText="Albuquerque" toID="h81" toText="Albuquerque" />
+<head_link id="he82" fromID="g27" fromText="North Carolina" toID="h82" toText="North Carolina" />
+<head_link id="he83" fromID="g28" fromText="Mexico" toID="h83" toText="Mexico" />
+<head_link id="he84" fromID="o13" fromText="the Arriola organization" toID="h84" toText="organization" />
+<head_link id="he85" fromID="p33" fromText="Arriola" toID="h85" toText="Arriola" />
+<head_link id="he86" fromID="p34" fromText="Law enforcement officers in the U.S. and Mexico" toID="h86" toText="officers" />
+<head_link id="he87" fromID="g29" fromText="the U.S." toID="h87" toText="U.S." />
+<head_link id="he88" fromID="g30" fromText="Mexico" toID="h88" toText="Mexico" />
+<head_link id="he89" fromID="p35" fromText="60 key members of the Arriola organization in the U.S" toID="h89" toText="members" />
+<head_link id="he90" fromID="o14" fromText="the Arriola organization" toID="h90" toText="organization" />
+<head_link id="he91" fromID="p36" fromText="Arriola" toID="h91" toText="Arriola" />
+<head_link id="he92" fromID="g31" fromText="the U.S" toID="h92" toText="U.S" />
+<head_link id="he93" fromID="p37" fromText="Agents" toID="h93" toText="Agents" />
+<head_link id="he94" fromID="o15" fromText="the organization" toID="h94" toText="organization" />
+<head_link id="he95" fromID="g32" fromText="U.S." toID="h95" toText="U.S." />
+<head_link id="he96" fromID="g33" fromText="Texas" toID="h96" toText="Texas" />
+<head_link id="he97" fromID="g34" fromText="Colorado" toID="h97" toText="Colorado" />
+<head_link id="he98" fromID="g35" fromText="Illinois" toID="h98" toText="Illinois" />
+<head_link id="he99" fromID="g36" fromText="New York" toID="h99" toText="New York" />
+<head_link id="he100" fromID="g37" fromText="Georgia" toID="h100" toText="Georgia" />
+<head_link id="he101" fromID="g38" fromText="Missouri" toID="h101" toText="Missouri" />
+<head_link id="he102" fromID="g39" fromText="Arizona" toID="h102" toText="Arizona" />
+<head_link id="he103" fromID="g40" fromText="New Mexico" toID="h103" toText="New Mexico" />
+<head_link id="he104" fromID="g41" fromText="Oklahoma" toID="h104" toText="Oklahoma" />
+<head_link id="he105" fromID="g42" fromText="Maryland" toID="h105" toText="Maryland" />
+<head_link id="he106" fromID="g43" fromText="Indiana" toID="h106" toText="Indiana" />
+<head_link id="he107" fromID="g44" fromText="Michigan" toID="h107" toText="Michigan" />
+<head_link id="he108" fromID="g45" fromText="Kansas" toID="h108" toText="Kansas" />
+<head_link id="he109" fromID="g46" fromText="New Jersey" toID="h109" toText="New Jersey" />
+<head_link id="he110" fromID="g47" fromText="South Carolina" toID="h110" toText="South Carolina" />
+<head_link id="he111" fromID="g48" fromText="Pennsylvania" toID="h111" toText="Pennsylvania" />
+<head_link id="he112" fromID="g49" fromText="North Carolina" toID="h112" toText="North Carolina" />
+<head_link id="he113" fromID="o16" fromText="The organization" toID="h113" toText="organization" />
+<head_link id="he114" fromID="p38" fromText="dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" toID="h114" toText="transporters" />
+<head_link id="he115" fromID="g51" fromText="the U.S." toID="h115" toText="U.S." />
+<head_link id="he116" fromID="p39" fromText="the Arriola organization bosses in Mexico" toID="h116" toText="bosses" />
+<head_link id="he117" fromID="o17" fromText="Arriola organization" toID="h117" toText="organization" />
+<head_link id="he118" fromID="p40" fromText="Arriola" toID="h118" toText="Arriola" />
+<head_link id="he119" fromID="g52" fromText="Mexico" toID="h119" toText="Mexico" />
+<head_link id="he120" fromID="p41" fromText="One money transporter" toID="h120" toText="transporter" />
+<head_link id="he121" fromID="p42" fromText="he" toID="h121" toText="he" />
+<head_link id="he122" fromID="o18" fromText="The most significant international drug trafficking organization ever to operate in the state of Colorado" toID="h122" toText="organization" />
+<head_link id="he123" fromID="g53" fromText="the state of Colorado" toID="h123" toText="state" />
+<head_link id="he124" fromID="g54" fromText="Colorado" toID="h124" toText="Colorado" />
+<head_link id="he125" fromID="p43" fromText="its leader, Oscar Arriola" toID="h125" toText="leader" />
+<head_link id="he126" fromID="o19" fromText="its" toID="h126" toText="its" />
+<head_link id="he127" fromID="p44" fromText="Oscar Arriola" toID="h127" toText="Oscar Arriola" />
+<head_link id="he128" fromID="p45" fromText="DEA Special Agent in Charge Barbra Roach" toID="h129" toText="Barbra Roach" />
+<head_link id="he129" fromID="p46" fromText="DEA Special Agent in Charge" toID="h130" toText="Agent" />
+<head_link id="he130" fromID="o20" fromText="DEA" toID="h131" toText="DEA" />
+<head_link id="he131" fromID="o21" fromText="our" toID="h132" toText="our" />
+<head_link id="he132" fromID="o22" fromText="the DEA" toID="h133" toText="DEA" />
+<head_link id="he133" fromID="o23" fromText="its" toID="h134" toText="its" />
+<head_link id="he134" fromID="o24" fromText="those major organizations operating in our state which are profiting significantly from the sale of illegal drugs" toID="h135" toText="organizations" />
+<head_link id="he135" fromID="o25" fromText="which" toID="h136" toText="which" />
+<head_link id="he136" fromID="g55" fromText="our state" toID="h137" toText="state" />
+<head_link id="he137" fromID="g56" fromText="our" toID="h138" toText="our" />
+<head_link id="he138" fromID="p47" fromText="I" toID="h139" toText="I" />
+<head_link id="he139" fromID="p48" fromText="the many people that worked tirelessly to bring Oscar Arriola to justice" toID="h140" toText="people" />
+<head_link id="he140" fromID="p49" fromText="that" toID="h141" toText="that" />
+<head_link id="he141" fromID="p50" fromText="Oscar Arriola" toID="h142" toText="Oscar Arriola" />
+<head_link id="he142" fromID="p51" fromText="U.S. Attorney John Walsh" toID="h143" toText="John Walsh" />
+<head_link id="he143" fromID="p52" fromText="U.S. Attorney" toID="h144" toText="Attorney" />
+<head_link id="he144" fromID="g57" fromText="U.S." toID="h145" toText="U.S." />
+<head_link id="he145" fromID="p53" fromText="the men and women of the U.S. Attorney's Office" toID="h128" toText="men" />
+<head_link id="he146" fromID="p54" fromText="the men and women of the U.S. Attorney's Office" toID="h146" toText="women" />
+<head_link id="he147" fromID="o26" fromText="the U.S. Attorney's Office" toID="h147" toText="Office" />
+<head_link id="he148" fromID="p55" fromText="the U.S. Attorney" toID="h148" toText="Attorney" />
+<head_link id="he149" fromID="g50" fromText="U.S." toID="h149" toText="U.S." />
+<head_link id="he150" fromID="p56" fromText="this defendant" toID="h150" toText="defendant" />
+<head_link id="he151" fromID="p57" fromText="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="h151" toText="agents" />
+<head_link id="he152" fromID="p58" fromText="that" toID="h152" toText="that" />
+<head_link id="he153" fromID="o27" fromText="DEA" toID="h153" toText="DEA" />
+<head_link id="he154" fromID="g58" fromText="here" toID="h154" toText="here" />
+<head_link id="he155" fromID="g59" fromText="Mexico" toID="h155" toText="Mexico" />
+<head_link id="he156" fromID="p59" fromText="Arriola" toID="h156" toText="Arriola" />
+<head_link id="he157" fromID="p60" fromText="I" toID="h157" toText="I" />
+<head_link id="he159" fromID="o28" fromText="the Department of Justice in Washington" toID="h159" toText="Department of Justice" />
+<head_link id="he160" fromID="g60" fromText="Washington" toID="h160" toText="Washington" />
+<head_link id="he161" fromID="o29" fromText="those with the Department of Justice in Washington who assisted in the extradition of Arriola from Mexico to Colorado" toID="h158" toText="those" />
+<head_link id="he162" fromID="o30" fromText="who" toID="h161" toText="who" />
+<head_link id="he163" fromID="p62" fromText="Arriola" toID="h162" toText="Arriola" />
+<head_link id="he164" fromID="g61" fromText="Mexico" toID="h163" toText="Mexico" />
+<head_link id="he165" fromID="g62" fromText="Colorado" toID="h164" toText="Colorado" />
+<head_link id="he166" fromID="o31" fromText="The U.S. Marshals Service" toID="h165" toText="U.S. Marshals Service" />
+<head_link id="he167" fromID="p63" fromText="Arriola" toID="h166" toText="Arriola" />
+<head_link id="he168" fromID="o32" fromText="The Criminal Division's Office of International Affairs" toID="h167" toText="Office of International Affairs" />
+<head_link id="he169" fromID="o33" fromText="The Criminal Division" toID="h168" toText="Criminal Division" />
+<head_link id="he170" fromID="p64" fromText="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" toID="h169" toText="M.J. Menendez" />
+<head_link id="he171" fromID="p65" fromText="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" toID="h170" toText="Susan 'Zeke' Knox" />
+<head_link id="he172" fromID="p66" fromText="Assistant U.S. Attorneys" toID="h171" toText="Attorneys" />
+<head_link id="he173" fromID="g63" fromText="U.S." toID="h172" toText="U.S." />
+<name_link id="na0" fromID="p0" fromText="Special Agent Mike Turner" toID="n0" toText="Mike Turner" />
+<name_link id="na1" fromID="p2" fromText="Drug Lord Oscar Arriola" toID="n1" toText="Oscar Arriola" />
+<name_link id="na2" fromID="g0" fromText="Colorado" toID="n2" toText="Colorado" />
+<name_link id="na3" fromID="g1" fromText="Denver" toID="n3" toText="Denver" />
+<name_link id="na4" fromID="p5" fromText="Oscar Arriola" toID="n4" toText="Oscar Arriola" />
+<name_link id="na5" fromID="p6" fromText="U.S. District Court Judge Robert E. Blackburn" toID="n5" toText="Robert E. Blackburn" />
+<name_link id="na6" fromID="g2" fromText="U.S." toID="n6" toText="U.S." />
+<name_link id="na7" fromID="p8" fromText="United States Attorney John Walsh" toID="n7" toText="John Walsh" />
+<name_link id="na8" fromID="g3" fromText="United States" toID="n8" toText="United States" />
+<name_link id="na9" fromID="p10" fromText="Drug Enforcement Administration Special Agent in Charge Barbra Roach" toID="n9" toText="Barbra Roach" />
+<name_link id="na10" fromID="o3" fromText="Drug Enforcement Administration" toID="n10" toText="Drug Enforcement Administration" />
+<name_link id="na11" fromID="p13" fromText="Arriola" toID="n11" toText="Arriola" />
+<name_link id="na12" fromID="p15" fromText="Judge Blackburn" toID="n12" toText="Blackburn" />
+<name_link id="na13" fromID="p17" fromText="Arriola" toID="n13" toText="Arriola" />
+<name_link id="na14" fromID="g4" fromText="Denver" toID="n14" toText="Denver" />
+<name_link id="na15" fromID="p19" fromText="Arriola" toID="n15" toText="Arriola" />
+<name_link id="na16" fromID="g5" fromText="Mexico" toID="n16" toText="Mexico" />
+<name_link id="na17" fromID="g6" fromText="Mexican" toID="n17" toText="Mexican" />
+<name_link id="na18" fromID="g7" fromText="the Republic of Mexico" toID="n18" toText="Republic of Mexico" />
+<name_link id="na19" fromID="g8" fromText="the United States" toID="n19" toText="United States" />
+<name_link id="na20" fromID="p22" fromText="Arriola" toID="n20" toText="Arriola" />
+<name_link id="na21" fromID="g9" fromText="Colorado" toID="n21" toText="Colorado" />
+<name_link id="na22" fromID="p23" fromText="Arriola" toID="n22" toText="Arriola" />
+<name_link id="na23" fromID="g10" fromText="the United States" toID="n23" toText="United States" />
+<name_link id="na24" fromID="o5" fromText="the DEA Colorado Springs Resident Office" toID="n24" toText="DEA Colorado Springs Resident Office" />
+<name_link id="na25" fromID="p25" fromText="Oscar Arriola" toID="n25" toText="Oscar Arriola" />
+<name_link id="na26" fromID="g11" fromText="the United States" toID="n26" toText="United States" />
+<name_link id="na27" fromID="p27" fromText="Arriola" toID="n27" toText="Arriola" />
+<name_link id="na28" fromID="g12" fromText="the United States" toID="n28" toText="United States" />
+<name_link id="na29" fromID="p28" fromText="Arriola" toID="n29" toText="Arriola" />
+<name_link id="na30" fromID="g13" fromText="Mexico" toID="n30" toText="Mexico" />
+<name_link id="na32" fromID="g14" fromText="Colorado Springs" toID="n31" toText="Colorado Springs" />
+<name_link id="na33" fromID="g15" fromText="Pueblo, Colorado" toID="n32" toText="Pueblo" />
+<name_link id="na34" fromID="g16" fromText="Colorado" toID="n33" toText="Colorado" />
+<name_link id="na35" fromID="g17" fromText="Peyton, Colorado (east of Colorado Springs" toID="n34" toText="Peyton" />
+<name_link id="na36" fromID="g18" fromText="Colorado" toID="n35" toText="Colorado" />
+<name_link id="na37" fromID="g19" fromText="Colorado Springs" toID="n36" toText="Colorado Springs" />
+<name_link id="na38" fromID="g20" fromText="Peyton" toID="n37" toText="Peyton" />
+<name_link id="na39" fromID="p32" fromText="Arriola" toID="n38" toText="Arriola" />
+<name_link id="na31" fromID="o12" fromText="DEA" toID="n39" toText="DEA" />
+<name_link id="na40" fromID="g21" fromText="Colorado Springs" toID="n40" toText="Colorado Springs" />
+<name_link id="na41" fromID="g22" fromText="Denver" toID="n41" toText="Denver" />
+<name_link id="na42" fromID="g23" fromText="El Paso" toID="n42" toText="El Paso" />
+<name_link id="na43" fromID="g24" fromText="Chicago" toID="n43" toText="Chicago" />
+<name_link id="na44" fromID="g25" fromText="New York" toID="n44" toText="New York" />
+<name_link id="na45" fromID="g26" fromText="Albuquerque" toID="n45" toText="Albuquerque" />
+<name_link id="na46" fromID="g27" fromText="North Carolina" toID="n46" toText="North Carolina" />
+<name_link id="na47" fromID="g28" fromText="Mexico" toID="n47" toText="Mexico" />
+<name_link id="na48" fromID="p33" fromText="Arriola" toID="n48" toText="Arriola" />
+<name_link id="na49" fromID="g29" fromText="the U.S." toID="n49" toText="U.S." />
+<name_link id="na50" fromID="g30" fromText="Mexico" toID="n50" toText="Mexico" />
+<name_link id="na51" fromID="p36" fromText="Arriola" toID="n51" toText="Arriola" />
+<name_link id="na52" fromID="g31" fromText="the U.S" toID="n52" toText="U.S" />
+<name_link id="na53" fromID="g32" fromText="U.S." toID="n53" toText="U.S." />
+<name_link id="na54" fromID="g33" fromText="Texas" toID="n54" toText="Texas" />
+<name_link id="na55" fromID="g34" fromText="Colorado" toID="n55" toText="Colorado" />
+<name_link id="na56" fromID="g35" fromText="Illinois" toID="n56" toText="Illinois" />
+<name_link id="na57" fromID="g36" fromText="New York" toID="n57" toText="New York" />
+<name_link id="na58" fromID="g37" fromText="Georgia" toID="n58" toText="Georgia" />
+<name_link id="na59" fromID="g38" fromText="Missouri" toID="n59" toText="Missouri" />
+<name_link id="na60" fromID="g39" fromText="Arizona" toID="n60" toText="Arizona" />
+<name_link id="na61" fromID="g40" fromText="New Mexico" toID="n61" toText="New Mexico" />
+<name_link id="na62" fromID="g41" fromText="Oklahoma" toID="n62" toText="Oklahoma" />
+<name_link id="na63" fromID="g42" fromText="Maryland" toID="n63" toText="Maryland" />
+<name_link id="na64" fromID="g43" fromText="Indiana" toID="n64" toText="Indiana" />
+<name_link id="na65" fromID="g44" fromText="Michigan" toID="n65" toText="Michigan" />
+<name_link id="na66" fromID="g45" fromText="Kansas" toID="n66" toText="Kansas" />
+<name_link id="na67" fromID="g46" fromText="New Jersey" toID="n67" toText="New Jersey" />
+<name_link id="na68" fromID="g47" fromText="South Carolina" toID="n68" toText="South Carolina" />
+<name_link id="na69" fromID="g48" fromText="Pennsylvania" toID="n69" toText="Pennsylvania" />
+<name_link id="na70" fromID="g49" fromText="North Carolina" toID="n70" toText="North Carolina" />
+<name_link id="na71" fromID="g51" fromText="the U.S." toID="n71" toText="U.S." />
+<name_link id="na72" fromID="p40" fromText="Arriola" toID="n72" toText="Arriola" />
+<name_link id="na73" fromID="g52" fromText="Mexico" toID="n73" toText="Mexico" />
+<name_link id="na74" fromID="g54" fromText="Colorado" toID="n74" toText="Colorado" />
+<name_link id="na75" fromID="p44" fromText="Oscar Arriola" toID="n75" toText="Oscar Arriola" />
+<name_link id="na76" fromID="p45" fromText="DEA Special Agent in Charge Barbra Roach" toID="n76" toText="Barbra Roach" />
+<name_link id="na77" fromID="o20" fromText="DEA" toID="n77" toText="DEA" />
+<name_link id="na78" fromID="o22" fromText="the DEA" toID="n78" toText="DEA" />
+<name_link id="na79" fromID="p50" fromText="Oscar Arriola" toID="n79" toText="Oscar Arriola" />
+<name_link id="na80" fromID="p51" fromText="U.S. Attorney John Walsh" toID="n80" toText="John Walsh" />
+<name_link id="na81" fromID="g57" fromText="U.S." toID="n81" toText="U.S." />
+<name_link id="na82" fromID="g50" fromText="U.S." toID="n82" toText="U.S." />
+<name_link id="na83" fromID="o27" fromText="DEA" toID="n83" toText="DEA" />
+<name_link id="na84" fromID="g59" fromText="Mexico" toID="n84" toText="Mexico" />
+<name_link id="na85" fromID="p59" fromText="Arriola" toID="n85" toText="Arriola" />
+<name_link id="na86" fromID="o28" fromText="the Department of Justice in Washington" toID="n86" toText="Department of Justice" />
+<name_link id="na87" fromID="g60" fromText="Washington" toID="n87" toText="Washington" />
+<name_link id="na88" fromID="p62" fromText="Arriola" toID="n88" toText="Arriola" />
+<name_link id="na89" fromID="g61" fromText="Mexico" toID="n89" toText="Mexico" />
+<name_link id="na90" fromID="g62" fromText="Colorado" toID="n90" toText="Colorado" />
+<name_link id="na91" fromID="o31" fromText="The U.S. Marshals Service" toID="n91" toText="U.S. Marshals Service" />
+<name_link id="na92" fromID="p63" fromText="Arriola" toID="n92" toText="Arriola" />
+<name_link id="na93" fromID="o32" fromText="The Criminal Division's Office of International Affairs" toID="n93" toText="Office of International Affairs" />
+<name_link id="na94" fromID="o33" fromText="The Criminal Division" toID="n94" toText="Criminal Division" />
+<name_link id="na95" fromID="p64" fromText="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" toID="n95" toText="M.J. Menendez" />
+<name_link id="na96" fromID="p65" fromText="Assistant U.S. Attorneys M.J. Menendez and Susan 'Zeke' Knox" toID="n96" toText="Susan 'Zeke' Knox" />
+<name_link id="na97" fromID="g63" fromText="U.S." toID="n97" toText="U.S." />
+<relation_link1 id="r0" fromID="M0" fromText="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" toID="p4" toText="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" />
+<relation_link1 id="r1" fromID="M1" fromText="U.S. District Court Judge" toID="p7" toText="U.S. District Court Judge" />
+<relation_link1 id="r2" fromID="e0" fromText="United States Attorney" toID="p9" toText="United States Attorney" />
+<relation_link1 id="r3" fromID="M2" fromText="Drug Enforcement Administration Special Agent in Charge" toID="p11" toText="Drug Enforcement Administration Special Agent in Charge" />
+<relation_link1 id="r4" fromID="lo0" fromText="Arriola was indicted by a federal grand jury in Denver on December 16, 2003" toID="p17" toText="Arriola" />
+<relation_link1 id="r5" fromID="lo1" fromText="a federal grand jury in Denver" toID="p18" toText="a federal grand jury in Denver" />
+<relation_link1 id="r6" fromID="e1" fromText="Mexican authorities" toID="p20" toText="Mexican authorities" />
+<relation_link1 id="r7" fromID="lo2" fromText="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" toID="p19" toText="Arriola" />
+<relation_link1 id="r8" fromID="lo3" fromText="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" toID="p20" toText="Mexican authorities" />
+<relation_link1 id="r9" fromID="lo4" fromText="his extradition from the Republic of Mexico to the United States" toID="p21" toText="his" />
+<relation_link1 id="r10" fromID="lo5" fromText="his extradition from the Republic of Mexico to the United States" toID="p21" toText="his" />
+<relation_link1 id="r11" fromID="M3" fromText="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="p26" toText="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" />
+<relation_link1 id="r12" fromID="M4" fromText="the Arriola organization" toID="p27" toText="Arriola" />
+<relation_link1 id="r13" fromID="M5" fromText="other leaders of the organization in Mexico" toID="p29" toText="other leaders of the organization in Mexico" />
+<relation_link1 id="r14" fromID="lo6" fromText="other leaders of the organization in Mexico" toID="p29" toText="other leaders of the organization in Mexico" />
+<relation_link1 id="r15" fromID="M6" fromText="the Arriola organization" toID="p32" toText="Arriola" />
+<relation_link1 id="r16" fromID="M7" fromText="the Arriola organization" toID="p33" toText="Arriola" />
+<relation_link1 id="r17" fromID="e2" fromText="Law enforcement officers in the U.S. and Mexico" toID="p34" toText="Law enforcement officers in the U.S. and Mexico" />
+<relation_link1 id="r18" fromID="e3" fromText="Law enforcement officers in the U.S. and Mexico" toID="p34" toText="Law enforcement officers in the U.S. and Mexico" />
+<relation_link1 id="r19" fromID="M8" fromText="60 key members of the Arriola organization in the U.S" toID="p35" toText="60 key members of the Arriola organization in the U.S" />
+<relation_link1 id="r20" fromID="lo7" fromText="60 key members of the Arriola organization in the U.S" toID="p35" toText="60 key members of the Arriola organization in the U.S" />
+<relation_link1 id="r21" fromID="M9" fromText="Arriola organization" toID="p40" toText="Arriola" />
+<relation_link1 id="r22" fromID="M10" fromText="the Arriola organization bosses in Mexico" toID="p39" toText="the Arriola organization bosses in Mexico" />
+<relation_link1 id="r23" fromID="lo8" fromText="the Arriola organization bosses in Mexico" toID="p39" toText="the Arriola organization bosses in Mexico" />
+<relation_link1 id="r25" fromID="M11" fromText="its leader, Oscar Arriola" toID="p43" toText="its leader, Oscar Arriola" />
+<relation_link1 id="r26" fromID="M12" fromText="DEA Special Agent in Charge" toID="p46" toText="DEA Special Agent in Charge" />
+<relation_link1 id="r27" fromID="e4" fromText="U.S. Attorney" toID="p52" toText="U.S. Attorney" />
+<relation_link1 id="r28" fromID="e5" fromText="the U.S. Attorney" toID="p55" toText="the U.S. Attorney" />
+<relation_link1 id="r29" fromID="M13" fromText="the men and women of the U.S. Attorney's Office" toID="p53" toText="the men and women of the U.S. Attorney's Office" />
+<relation_link1 id="r30" fromID="M14" fromText="the men and women of the U.S. Attorney's Office" toID="p54" toText="the men and women of the U.S. Attorney's Office" />
+<relation_link1 id="r31" fromID="M15" fromText="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="p57" toText="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" />
+<relation_link1 id="r34" fromID="lo12" fromText="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="p58" toText="that" />
+<relation_link1 id="r35" fromID="lo13" fromText="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="p58" toText="that" />
+<relation_link1 id="r36" fromID="lo14" fromText="the extradition of Arriola from Mexico to Colorado" toID="p62" toText="Arriola" />
+<relation_link1 id="r37" fromID="lo15" fromText="the extradition of Arriola from Mexico to Colorado" toID="p62" toText="Arriola" />
+<relation_link1 id="r38" fromID="e6" fromText="Assistant U.S. Attorneys" toID="p66" toText="Assistant U.S. Attorneys" />
+<relation_link1 id="r39" fromID="lo16" fromText="The organization allegedly had dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" toID="p38" toText="dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" />
+<relation_link2 id="re0" fromID="M0" fromText="Leader of the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" toID="o0" toText="the Most Significant International Drug Trafficking Organization to Ever Operate Colorado" />
+<relation_link2 id="re1" fromID="M1" fromText="U.S. District Court Judge" toID="o1" toText="U.S. District Court" />
+<relation_link2 id="re2" fromID="e0" fromText="United States Attorney" toID="g3" toText="United States" />
+<relation_link2 id="re3" fromID="M2" fromText="Drug Enforcement Administration Special Agent in Charge" toID="o3" toText="Drug Enforcement Administration" />
+<relation_link2 id="re4" fromID="lo0" fromText="Arriola was indicted by a federal grand jury in Denver on December 16, 2003" toID="g4" toText="Denver" />
+<relation_link2 id="re5" fromID="lo1" fromText="a federal grand jury in Denver" toID="g4" toText="Denver" />
+<relation_link2 id="re6" fromID="e1" fromText="Mexican authorities" toID="g6" toText="Mexican" />
+<relation_link2 id="re7" fromID="lo2" fromText="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" toID="g5" toText="Mexico" />
+<relation_link2 id="re8" fromID="lo3" fromText="On February 2, 2006, Arriola was arrested in Mexico by Mexican authorities, and held in custody until his extradition from the Republic of Mexico to the United States" toID="g5" toText="Mexico" />
+<relation_link2 id="re9" fromID="lo4" fromText="his extradition from the Republic of Mexico to the United States" toID="g7" toText="the Republic of Mexico" />
+<relation_link2 id="re10" fromID="lo5" fromText="his extradition from the Republic of Mexico to the United States" toID="g8" toText="the United States" />
+<relation_link2 id="re11" fromID="M3" fromText="the head of an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" toID="o6" toText="an international cocaine trafficking organization that smuggled and distributed more than two tons of cocaine per month in the United States" />
+<relation_link2 id="re12" fromID="M4" fromText="the Arriola organization" toID="o8" toText="the Arriola organization" />
+<relation_link2 id="re13" fromID="M5" fromText="other leaders of the organization in Mexico" toID="o9" toText="the organization" />
+<relation_link2 id="re14" fromID="lo6" fromText="other leaders of the organization in Mexico" toID="g13" toText="Mexico" />
+<relation_link2 id="re15" fromID="M6" fromText="the Arriola organization" toID="o11" toText="the Arriola organization" />
+<relation_link2 id="re16" fromID="M7" fromText="the Arriola organization" toID="o13" toText="the Arriola organization" />
+<relation_link2 id="re17" fromID="e2" fromText="Law enforcement officers in the U.S. and Mexico" toID="g29" toText="the U.S." />
+<relation_link2 id="re18" fromID="e3" fromText="Law enforcement officers in the U.S. and Mexico" toID="g30" toText="Mexico" />
+<relation_link2 id="re19" fromID="M8" fromText="60 key members of the Arriola organization in the U.S" toID="o14" toText="the Arriola organization" />
+<relation_link2 id="re20" fromID="lo7" fromText="60 key members of the Arriola organization in the U.S" toID="g31" toText="the U.S" />
+<relation_link2 id="re21" fromID="M9" fromText="Arriola organization" toID="o17" toText="Arriola organization" />
+<relation_link2 id="re22" fromID="M10" fromText="the Arriola organization bosses in Mexico" toID="o17" toText="Arriola organization" />
+<relation_link2 id="re23" fromID="lo8" fromText="the Arriola organization bosses in Mexico" toID="g52" toText="Mexico" />
+<relation_link2 id="re25" fromID="M11" fromText="its leader, Oscar Arriola" toID="o19" toText="its" />
+<relation_link2 id="re26" fromID="M12" fromText="DEA Special Agent in Charge" toID="o20" toText="DEA" />
+<relation_link2 id="re27" fromID="e4" fromText="U.S. Attorney" toID="g57" toText="U.S." />
+<relation_link2 id="re28" fromID="e5" fromText="the U.S. Attorney" toID="g50" toText="U.S." />
+<relation_link2 id="re29" fromID="M13" fromText="the men and women of the U.S. Attorney's Office" toID="o26" toText="the U.S. Attorney's Office" />
+<relation_link2 id="re30" fromID="M14" fromText="the men and women of the U.S. Attorney's Office" toID="o26" toText="the U.S. Attorney's Office" />
+<relation_link2 id="re31" fromID="M15" fromText="the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="o27" toText="DEA" />
+<relation_link2 id="re32" fromID="lo12" fromText="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="g58" toText="here" />
+<relation_link2 id="re33" fromID="lo13" fromText="Special thanks goes to the many DEA agents that worked both here and in Mexico to document Arriola's large scale drug trafficking" toID="g59" toText="Mexico" />
+<relation_link2 id="re34" fromID="lo14" fromText="the extradition of Arriola from Mexico to Colorado" toID="g61" toText="Mexico" />
+<relation_link2 id="re35" fromID="lo15" fromText="the extradition of Arriola from Mexico to Colorado" toID="g62" toText="Colorado" />
+<relation_link2 id="re36" fromID="e6" fromText="Assistant U.S. Attorneys" toID="g63" toText="U.S." />
+<relation_link2 id="re37" fromID="lo16" fromText="The organization allegedly had dozens of drug and money transporters operating almost non-stop, delivering cocaine to the U.S., then collecting the drug proceeds and delivering them to the Arriola organization bosses in Mexico" toID="g51" toText="the U.S." />
+</TAGS>
+</KddTask>

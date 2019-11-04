@@ -1,0 +1,22 @@
+Vulnerability Allows Anyone to DDoS Websites Using Facebook Servers
+Mohit Kumar
+
+Reading a 'Note' created by anyone on the Facebook could trick you automatically to do malicious attacks against others unknowingly.
+A Security researcher Chaman Thapa, also known as chr13 claims that the flaw resides in 'Notes' section of the most popular social networking site - Facebook, that could allow anyone to launch the distributed denial-of-service (DDoS) attack of more than 800 Mbps Bandwidth on any website.
+A Distributed Denial-of-Service (DDoS) attack is one in which multiple compromised systems attacks a single target system or service to make it unavailable to its intended users. The flood of incoming requests essentially forces the target system or service to shut down, thereby denying service to the system to its legitimate users.
+While demonstrating the vulnerability on his blog, he explained that Facebook allows its users to include  tags inside the post in order to draft a note with beautiful related images from any source.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Facebook basically downloads external images from the original source for the first time only, and then cache them, but if the image url have dynamic parameters, then Facebook cache mechanism could be bypassed to force the Facebook servers to download all included images each time whenever anybodys open the note in its browser.
+'Facebook will only cache the image once however using random get parameters the cache can be by-passed and the feature can be abused to cause a huge HTTP GET flood.' he said.
+DDoS FACTOR, A SCENARIO
+Let's suppose if you want to DDoS a website target.com, that have an image of 1 MB Size on its server. An attacker can create a Facebook Note with some text, including same image multiple times with dynamic parameters, i.e.
+This way one can force Facebook servers to load 1 mb of file 1000 times in one pageview and if 100 Facebook users are reading the same crafted note at the same time, then Facebook servers will be forced to download 1 x 1000 x 100 = 100,000 Mb or 97.65Gb bandwidth within few seconds from the targeted servers.
+400 MBPS DDoS ATTACK DEMO
+Researcher demonstrated the proof-of-concept with 400 Mbps attack, by attacking on his own web server. Stats shown below:
+The factor and danger of DDoS attack could be even higher when the image is replaced by a pdf or video of larger size, in case Facebook would crawl a huge file but the user gets nothing.
+Facebook allows a user to create maximum of 100 Notes in a short span of time and each Note could support more than 1000 links, but because there is no captcha for the Facebook Notes creation, so all this operation can be performed automatically and an attacker could easily creates hundreds of notes using multiple users at the time of performing attack.
+"It seems there is no restriction put on Facebook servers and with so many servers crawling at once we can only imagine how high this traffic can get" he concluded.
+STILL UNPATCHED AND DON'T EXPECT ANY PATCH FROM FACEBOOK 
+Unfortunately, Facebook has no plans to fix this critical vulnerability, "In the end, the conclusion is that there's no real way to us fix this that would stop attacks against small consumer grade sites without also significantly degrading the overall functionality," Facebook replied to the researcher.
+Similar kind of attack was noticed in mid of 2011 year when a security penetration tester at Italian security firm AIR Sicurezza Informatica discovered flaws in Google's Plus servers that allowed hackers to exploit the search giant's bandwidth and launch a distributed denial-of-service (DDoS) attack on a server of their choice.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

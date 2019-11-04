@@ -1,0 +1,18 @@
+Watch Out! This New Web Exploit Can Crash and Restart Your iPhone
+Wang Wei
+
+It's 2018, and just a few lines of code can crash and restart any iPhone or iPad and can cause a Mac computer to freeze.
+Sabri Haddouche, a security researcher at encrypted instant messaging app Wire, revealed a proof-of-concept (PoC) web page containing an exploit that uses only a few lines of specially crafted CSS & HTML code.
+Beyond just a simple crash, the web page, if visited, causes a full device kernel panic and an entire system reboot.
+The Haddouche’s PoC exploits a weakness in Apple's web rendering engine WebKit, which is used by all apps and web browsers running on the Apple's operating system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since the Webkit issue failed to properly load multiple elements such as "div" tags inside a backdrop filter property in CSS, Haddouche created a web page that uses up all of the device's resources, causing shut down and restart of the device due to kernel panic.
+You can also watch the video demonstration published by the researcher, which shows the iPhone crash attack in action.
+All web browsers, including Microsoft Edge, Internet Explorer, and Safari on iOS, as well as Safari and Mail in macOS, are vulnerable to this CSS-based web attack, because all of them use the WebKit rendering engine.
+Windows and Linux users are not affected by this vulnerability.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Hacker News tested the attack on different web browsers, including Chrome, Safari, and Edge (on MacBook Pro and iPhone X) and it still worked on the latest version of both macOS and iOS operating systems.
+So, Apple users are advised to be vigilant while visiting any web page including the code or clicking on links sent over their Facebook or WhatsApp account, or in an email.
+Haddouche has posted the source code of the CSS & HTML web page that causes this attack on his GitHub page
+Haddouche said he already reported the issue to Apple about the Webkit vulnerability and the company is possibly investigating the issue and working on a fix to address it in a future release.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

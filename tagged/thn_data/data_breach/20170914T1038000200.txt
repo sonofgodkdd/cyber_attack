@@ -1,0 +1,23 @@
+Equifax Suffered Data Breach After It Failed to Patch Old Apache Struts Flaw
+Swati Khandelwal
+
+The massive Equifax data breach that exposed highly sensitive data of as many as 143 million people was caused by exploiting a flaw in Apache Struts framework, which Apache patched over two months earlier of the security incident, Equifax has confirmed.
+Credit rating agency Equifax is yet another example of the companies that became victims of massive cyber attacks due to not patching a critical vulnerability on time, for which patches were already issued by the respected companies.
+Rated critical with a maximum 10.0 score, the Apache Struts2 vulnerability (CVE-2017-5638) exploited in the Equifax breach was disclosed and fixed by Apache on March 6 with the release of Apache Struts version 2.3.32 or 2.5.10.1.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This flaw is separate from CVE-2017-9805, another Apache Struts2 vulnerability that was patched earlier this month, which was a programming bug that manifests due to the way Struts REST plugin handles XML payloads while deserializing them, and was fixed in Struts version 2.5.13.
+Right after the disclosure of the vulnerability, hackers started actively exploiting the flaw in the wild to install rogue applications on affected web servers after its proof-of-concept (PoC) exploit code was uploaded to a Chinese site.
+Despite patches were made available and proofs that the flaw was already under mass attack by hackers, Equifax failed to patched its Web applications against the flaw, which resulted in the breach of personal data of nearly half of the US population.
+"Equifax has been intensely investigating the scope of the intrusion with the assistance of a leading, independent cyber security firm to determine what information was accessed and who have been impacted," the company officials wrote in an update on the website with a new "A Progress Update for Consumers." 
+"We know that criminals exploited a US website application vulnerability. The vulnerability was Apache Struts CVE-2017-5638. We continue to work with law enforcement as part of our criminal investigation, and have shared indicators of compromise with law enforcement."
+CVE-2017-5638 was a then-zero-day vulnerability discovered in the popular Apache Struts web application framework by Cisco's Threat intelligence firm Talos, which observed a number of active attacks exploiting the flaw.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The issue was a remote code execution bug in the Jakarta Multipart parser of Apache Struts2 that could allow an attacker to execute malicious commands on the server when uploading files based on the parser.
+At the time, Apache warned it was possible to perform a remote code execution attack with "a malicious Content-Type value," and if this value is not valid "an exception is thrown which is then used to display an error message to a user."
+Also Read: Steps You Should Follow to Protect Yourself From Equifax Breach
+For those unaware, Apache Struts is a free, open-source MVC framework for developing web applications in the Java programming language that run both front-end and back-end Web servers. The framework is used by 65n per cent of the Fortune 100 companies, including Lockheed Martin, Vodafone, Virgin Atlantic, and the IRS.
+Since the hackers are actively exploiting the vulnerabilities in the Apache Struts web framework, Cisco has also initiated an investigation into its products against four newly discovered security vulnerabilities in Apache Struts2.
+Other companies that also incorporate a version of Apache Struts 2 should also check their infrastructures against these vulnerabilities.
+Equifax is currently offering free credit-monitoring and identity theft protection services for people who are affected by the massive data leak and has also enabled a security freeze for access to people's information.
+While the company was initially criticised for generating a PIN that was simply a time and date stamp and easy-to-guess, the PIN generation method was later changed to randomly generate numbers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

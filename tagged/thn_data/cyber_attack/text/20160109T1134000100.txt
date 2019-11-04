@@ -1,0 +1,22 @@
+602 Gbps! This May Have Been the Largest DDoS Attack in History
+Swati Khandelwal
+
+Cyber attacks are getting evil and worst nightmare for companies day-by-day, and the Distributed Denial of Service (DDoS) attack is one of the favorite weapon for hackers to temporarily suspend services of a host connected to the Internet.
+Until now, nearly every big website had been a victim of this attack, and the most recent one was conducted against the BBC's websites and Republican presidential candidate Donald Trump's main campaign website over this past holiday weekend.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Out of two, the largest DDoS attack in the history was carried out against the BBC website: Over 600 Gbps.
+Largest DDoS Attack in the History
+The group calling itself New World Hacking claimed responsibility for taking down both the BBC's global website and Donald Trump's website last week.
+The group targeted all BBC sites, including its iPlayer on-demand service, and took them down for at least three hours on New Year's Eve.
+At the moment, the BBC news organization announced that the outage was caused due to some "technical" fault, but later it stated that "New World Hacking" group had claimed responsibility for launching a DDoS attack against BBC, as a "test of its capabilities."
+BangStresser DDoS Attack Tool
+One of the members of the New World Hacking group, identified himself as Ownz, claimed that the group allegedly used their own tool called BangStresser to launch a DDoS attack of up to 602 Gbps on the BBC's website. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+As a proof, the group provided ZDNet a screenshot of a web interface that was allegedly used to attack the BBC website.
+Although the authenticity of the screenshot has not been verified, if the attack size is proven true, it would vastly surpass the largest DDoS attack record of 334 Gbps, recorded by Arbor Networks last year.
+The recent massive DDoS attack apparently utilizes two Amazon Web Services servers that employ a large number of automated detection and mitigation techniques in order to prevent the misuse of the services, Amazon previously claimed.
+"We have our ways of bypassing Amazon," said Ownz. "The best way to describe it is we tap into a few administrative services that Amazon is use to using. The [sic] simply set our bandwidth limit as unlimited and program our own scripts to hide it."
+More details about the attack have yet not disclosed, but Ownz claimed that their main purpose behind the development of the BangStresser DDoS tool is to unmask ISIS and possibly end its online propaganda.
+"We have been taking down ISIS websites in the past," said Ownz, "this is just the start of a new year."
+A similar group named Lizard Squad, conducted a marketing campaign for promoting their DDoS tool, known as the Lizard Stresser, using which the group took down Sony's PlayStation Network and Microsoft's Xbox Live last year on Christmas Eve. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

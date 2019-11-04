@@ -1,0 +1,19 @@
+Largest Cryptocurrency Exchange Hacked! Over $1 Million Worth Bitcoin and Ether Stolen
+Swati Khandelwal
+
+One of the world's largest Bitcoin and Ether cryptocurrencies exchanges Bithumb has recently been hacked, resulting in loss of more than $1 Million in cryptocurrencies after a number of its user accounts compromised.
+Bithumb is South Korea's largest cryptocurrency exchange with 20% of global ether trades, and roughly 10% of the global bitcoin trade is exchanged for South Korea's currency, the Won.
+Bithumb is currently the fourth largest Bitcoin exchange and the biggest Ethereum exchange in the world.
+Last week, a cyber attack on the cryptocurrency exchange giant resulted in a number of user accounts being compromised, and billions of South Korean Won were stolen from customers accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Around 10 Million Won worth of bitcoins were allegedly stolen from a single victim's account, according to the Kyunghyang Shinmun, a major local newspaper.
+A survey of users who lost cryptocurrencies in the cyber attack reveals "it is estimated that hundreds of millions of won [worth of cryptocurrencies] have been withdrawn from accounts of one hundred investors. One member claims to have had 1.2 billion won stolen."
+Besides digital currencies, hackers were succeeded in stealing the personal information of 31,800 Bithumb website users, including their names, email addresses, and mobile phone numbers, the South Korean government-funded Yonhap News reported.
+However, Bithumb claims that this number represents approximately 3% of its customers. 
+The exchange also told Yonhap that it contacted South Korea's cybercrime watchdog on June 30, Friday after it learned of the hack on June 29.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bithumb believes that one of its employee's home computer was hacked in the attack and not its entire network and no passwords were compromised, so it is impossible for hackers to gain direct access to user accounts.
+The digital currency exchange says that the loss of funds is the result of using "disposable passwords" in order to carry out digital transactions online.
+"The employee PC, not the head office server, was hacked. Personal information such as mobile phone and email address of some users were leaked," Bithumb told the newspaper. "However, some customers were found to have been stolen from because of the disposable password used in electronic financial transactions."
+While more than 100 Bithumb customers have already filed a complaint with the National Police Agency's cybercrime report center regarding the hack, South Korean officials are now investigating the incident.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

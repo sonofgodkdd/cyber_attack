@@ -1,0 +1,21 @@
+Warning! 32 Million Twitter Passwords May Have Been Hacked and Leaked
+Swati Khandelwal
+
+The world came to know about massive data breaches in some of the most popular social media websites including LinkedIn, MySpace, Tumblr, Fling, and VK.com when an unknown Russian hacker published the data dumps for sale on the underground black marketplace.
+However, these are only data breaches that have been publicly disclosed by the hacker.
+I wonder how much more stolen data sets this Russian, or other hackers are holding that have yet to be released.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The answer is still unknown, but the same hacker is now claiming another major data breach, this time, in Twitter.
+Login credentials of more than 32 Million Twitter users are now being sold on the dark web marketplace for 10 Bitcoins (over $5,800).
+LeakedSource, a search engine site that indexes leaked login credentials from data breaches, noted in a blog post that it received a copy of the Twitter database from Tessa88, the same alias used by the hacker who provided it hacked data from Russian social network VK.com last week.
+The database includes usernames, email addresses, sometimes second email addresses, and plain-text passwords for more than 32 Million Twitter accounts.
+Twitter strongly denied the claims by saying that "these usernames and credentials were not obtained by a Twitter data breach" – their "systems have not been breached," but LeakedSource believed that the data leak was the result of malware.
+"Tens of millions of people have become infected by malware, and the malware sent every saved username and password from browsers like Chrome and Firefox back to the hackers from all websites including Twitter," LeakedSource wrote in its blog post.
+But, do you remember how Facebook CEO Mark Zuckerberg Twitter account was compromised?
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hackers obtained Zuck's account credentials from the recent LinkedIn data breach, then broke his SHA1-hashed password string, tried on his several social media accounts and successfully hacked Zuckerberg’s Twitter and Pinterest account.
+So, one possibility could also be that the alleged Twitter database dump of over 32 Million users is made up of already available records from the previous LinkedIn, MySpace and Tumblr data breaches.
+The hacker might just have published already leaked data from other sites and services as a new hack against Twitter that actually never happened.
+Whatever the reason is, the fact remain that hackers may have had their hands on your personal data, including your online credentials.
+So, it’s high time you changed your passwords for all social media sites as well as other online sites if you are using the same password.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

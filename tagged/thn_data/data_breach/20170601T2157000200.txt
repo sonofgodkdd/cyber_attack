@@ -1,0 +1,25 @@
+OneLogin Password Manager Hacked; Users’ Data Can be Decrypted
+Swati Khandelwal
+
+Do you use OneLogin password manager? If yes, then immediately change all your account passwords right now.
+OneLogin, the cloud-based password management and identity management software company, has admitted that the company has suffered a data breach.
+The company announced on Thursday that it had "detected unauthorised access" in its United States data region.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the company did not provide many details about the nature of the cyber attack, the statement released by the firm suggest that the data breach is extensive.
+What Happened? OneLogin, which aims at offering a service that "secures connections across all users, all devices, and every application," has not yet revealed potential weaknesses in its service that may have exposed its users’ data in the first place.
+"Today We detected unauthorised access to OneLogin data in our US data region," OneLogin chief information security officer Alvaro Hoyos said in a brief blog post-Wednesday night.
+What type of Information? Although it is not clear exactly what data has been stolen in the hack, a detailed post on a support page that is accessible to customers only, apparently says that all customers served by the company's US data centre are affected, whose data has been compromised.
+The stolen data also includes "the ability to decrypt encrypted data."
+What is OneLogin doing? OneLogin has blocked the unauthorised access to its data centre and is actively working with law enforcement and security firm to investigate the incident and verify the extent of the impact.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"We have since blocked this unauthorised access, reported the matter to law enforcement, and are working with an independent security firm to determine how the unauthorised access happened and verify the extent of the impact of this incident," Hoyos said.
+"We are actively working to determine how best to prevent such an incident from occurring in the future."
+What Should You Do Now? First of all, change passwords for all your accounts that you have linked with OneLogin.
+The company has given customers an extensive list of actions to do to protect themselves and minimise the risk to their data, which includes:
+Forcing a password reset for all of its customers.
+Generating new security credentials, OAuth tokens, and certificates for apps and websites.
+Recycling secrets stored in OneLogin's secure notes.
+For any other queries, OneLogin customers can contact the company at security-support@onelogin.com.
+You should also particularly be alert of the Phishing emails, which are usually the next step of cyber criminals after a breach. Phishing is designed to trick users into giving up further details like passwords and bank information.
+This is the second data breach the company has suffered within a year. In August 2016, a OneLogin suffered a separate data breach in which an unauthorized hacker gained access to one of the company’s standalone systems, which it used for "log storage and analytics."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,17 @@
+Hackers Stole Over $20 Million in Ethereum from Insecurely Configured Clients
+Wang Wei
+
+Security researchers have been warning about cybercriminals who have made over 20 million dollars in just past few months by hijacking insecurely configured Ethereum nodes exposed on the Internet.
+Qihoo 360 Netlab in March tweeted about a group of cybercriminals who were scanning the Internet for port 8545 to find insecure geth clients running Ethereum nodes and, at that time, stole 3.96234 units of Ethereum cryptocurrency (Ether).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, researchers now noticed that another cybercriminal group have managed to steal a total 38,642 Ether, worth more than $20,500,000 at the time of writing, in past few months by hijacking Ethereum wallets of users who had opened their JSON-RPC port 8545 to the outside world.
+Geth is one of the most popular clients for running Ethereum node and enabling JSON-RPC interface on it allows users to remotely access the Ethereum blockchain and node functionalities, including the ability to send transactions from any account which has been unlocked before sending a transaction and will stay unlocked for the entire session.
+Here's the attackers' Ethereum account address, where all the stolen funds have been collected:
+0x957cD4Ff9b3894FC78b5134A8DC72b032fFbC464
+By simply searching this address on the Internet, we found dozens of forums and websites where users have posted details of similar incidents happened with them, describing about the same account address hackers used to stole their funds from the insecurely configured Ethereum nodes.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to an advisory issued by Ethereum Project three years ago, leaving the JSON-RPC interface on an internet-accessible machine without a firewall policy opens up your cryptocurrency wallet to theft "by anybody who knows your [wallet] address in combination with your IP."
+NetLab researchers warned that not only the above-mentioned cybercriminal group but other attackers are also actively scanning the Internet for insecure JSON-RPC interface to steal funds from cryptocurrency wallets.
+"If you have honeypot running on port 8545, you should be able to see the requests in the payload. Which has the wallet addresses. And there are quite a few ips scanning heavily on this port now," 360 Netlab tweeted.
+Users who have implemented Ethereum nodes are advised only to allow connections to the geth client originating from the local computer, or to implement user-authorization if remote RPC connections need to be enabled.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

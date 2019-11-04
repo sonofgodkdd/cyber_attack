@@ -1,0 +1,25 @@
+Sophisticated 'TajMahal APT Framework' Remained Undetected for 5 Years
+Swati Khandelwal
+
+Cybersecurity researchers yesterday unveiled the existence of a highly sophisticated spyware framework that has been in operation for at least last 5 years—but remained undetected until recently.
+Dubbed TajMahal by researchers at Kaspersky Lab, the APT framework is a high-tech modular-based malware toolkit that not only supports a vast number of malicious plugins for distinct espionage operations, but also comprises never-before-seen and obscure tricks.
+Kaspersky named the framework after Taj Mahal, one of the Seven Wonders of the World located in India, not because it found any connection between the malware and the country, but because the stolen data was transferred to the attackers' C&C server in an XML file named TajMahal.
+TajMahal toolkit was first discovered by security researchers late last year when hackers used it to spy on the computers of a diplomatic organization belonging to a Central Asian country whose nationality and location have not been disclosed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, malware samples examined by the researchers suggest the cyberespionage group behind the attack has been active since at least August 2014.
+The TajMahal framework consists of two main packages—"Tokyo" and "Yokohama"—that together contain over 80 distinct malicious modules, which according to researchers, is one of the highest numbers of plugins ever seen for an APT toolset.
+"It includes backdoors, loaders, orchestrators, C2 communicators, audio recorders, keyloggers, screen and webcam grabbers, documents and cryptography key stealers, and even its own file indexer for the victim's machine," the researchers say.
+Researchers have not yet figured out how TajMahal infected its targets at the first place, but they do reveal that once accessed, first stage infection Tokyo is downloaded on targeted machines, which then deliver the fully-functional second-stage malware Yokohama.
+Yokohama stores malicious modules in its encrypted Virtual File System which allows the malware to:
+log keystrokes,
+steal browser cookies and data, including backup for Apple mobile devices,
+record and take screenshots of VoIP calls,
+steal written CD images,
+steal documents sent to the printer queue.
+Besides usual spying capabilities, the malware also includes some more unique features like requesting to steal a particular file from a previously plugged in USB stick. So, next time when the USB is connected to the infected computer, the file will be stolen.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though the researchers found only one TajMahal victim so far but given the framework's sophistication, they believe there are other victims that have yet to be discovered.
+"So far we have detected a single victim based on our telemetry," Kaspersky said.
+"This theory is reinforced by the fact that we couldn't see how one of the files in the VFS was used by the malware, opening the door to the possibility of additional versions of the malware that have yet to be detected."
+Additional technical details can be found on the SecureList blog, where the researchers have also published a full set of Indicators of compromise (IOCs) and a complete list of 80 malicious modules stored in the malware with a short description describing what they do.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

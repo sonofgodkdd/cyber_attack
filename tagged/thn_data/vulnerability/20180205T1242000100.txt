@@ -1,0 +1,31 @@
+Unpatched DoS Flaw Could Help Anyone Take Down WordPress Websites
+Mohit Kumar
+
+A simple yet serious application-level denial of service (DoS) vulnerability has been discovered in WordPress CMS platform that could allow anyone to take down most WordPress websites even with a single machine—without hitting with a massive amount of bandwidth, as required in network-level DDoS attacks to achieve the same.
+Since the company has denied patching the issue, the vulnerability (CVE-2018-6389) remains unpatched and affects almost all versions of WordPress released in last nine years, including the latest stable release of WordPress (Version 4.9.2).
+Discovered by Israeli security researcher Barak Tawily, the vulnerability resides in the way "load-scripts.php," a built-in script in WordPress CMS, processes user-defined requests.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For those unaware, load-scripts.php file has only been designed for admin users to help a website improve performance and load page faster by combining (on the server end) multiple JavaScript files into a single request.
+However, to make "load-scripts.php" work on the admin login page (wp-login.php) before login, WordPress authors did not keep any authentication in place, eventually making the feature accessible to anyone.
+Depending upon the plugins and modules you have installed, the load-scripts.php file selectively calls required JavaScript files by passing their names into the "load" parameter, separated by a comma, like in the following URL:
+https://your-wordpress-site.com/wp-admin/load-scripts.php?c=1&load=editor,common,user-profile,media-widgets,media-gallery
+While loading the website, the 'load-scripts.php' (mentioned in the head of the page) tries to find each JavaScript file name given in the URL, append their content into a single file and then send back it to the user's web browser.
+How WordPress DoS Attack Works
+According to the researcher, one can simply force load-scripts.php to call all possible JavaScript files (i.e., 181 scripts) in one go by passing their names into the above URL, making the targeted website slightly slow by consuming high CPU and server memory.
+"There is a well-defined list ($wp_scripts), that can be requested by users as part of the load[] parameter. If the requested value exists, the server will perform an I/O read action for a well-defined path associated with the supplied value from the user," Tawily says.
+Although a single request would not be enough to take down the whole website for its visitors, Tawily used a proof-of-concept (PoC) python script, doser.py, which makes large numbers of concurrent requests to the same URL in an attempt to use up as much of the target servers CPU resources as possible and bring it down.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Hacker News has verified the authenticity of the DoS exploit that successfully took down one of our demo WordPress websites running on a medium-sized VPS server.
+"It is time to mention again that load-scripts.php does not require any authentication, an anonymous user can do so. After ~500 requests, the server didn't respond at all any more, or returned 502/503/504 status code errors," Tawily says.
+However, attack from a single machine, with some 40 Mbps connection, was not enough to take down another demo website running on a dedicated server with high processing power and memory.
+But that doesn't mean the flaw is not effective against WordPress websites running over a heavy-server, as application-level attack generally requires a lot fewer packets and bandwidth to achieve the same goal—to take down a site.
+So attackers with more bandwidth or a few bots can exploit this flaw to target big and popular WordPress websites as well.
+No Patch Available  – Mitigation Guide
+Along with the full disclosure, Tawily has also provided a video demonstration for the WordPress Denial of Service attack. You can watch the video to see the attack in action.
+Knowing that DoS vulnerabilities are out-of-scope from the WordPress bug bounty program, Tawily responsibly reported this DoS vulnerability to the WordPress team through HackerOne platform.
+However, the company refused to acknowledge the issue, saying that this kind of bug "should really get mitigated at the server end or network level rather than the application level," which is outside of WordPress's control.
+The vulnerability seems to be serious because WordPress powers nearly 29 percent of the Web, placing millions of websites vulnerable to hackers and making them unavailable for their legitimate users.
+For websites that can't afford services offering DDoS protection against application-layer attacks, the researcher has provided a forked version of WordPress, which includes mitigation against this vulnerability.
+However, I personally wouldn't recommend users to install modified CMS, even if it is from a trusted source other than the original author.
+Besides this, the researcher has also released a simple bash script that fixes the issue, in case you have already installed WordPress.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

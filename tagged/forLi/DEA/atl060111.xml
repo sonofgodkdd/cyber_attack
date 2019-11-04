@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+ATLANTA NEWS
+June 01, 2011
+Contact: Chuvalo J. Truesdell
+Atlanta Division
+404-893-7124
+Former DeKalb Police Officer Indicted for Abusing His Position and Lying To Federal Agents
+ATLANTA, GA. -  DONALD BRISTOL, 41, of Lilburn, Georgia, was arraigned late yesterday on federal charges of aiding others to possess and conceal a stolen vehicle, failing to report a federal felony, unlawfully accessing government computer systems, and making false statements. BRISTOL made the appearance late yesterday afternoon before United States Magistrate Judge E. Clayton Scofield III.
+United States Attorney Sally Quillian Yates said, "Our citizens are entitled to police officers who will obey the laws that they have sworn to enforce. Not only did this officer violate the law, but his criminal conduct betrayed the trust of the people of DeKalb County and its police department."
+Rodney G. Benson, Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD) said, "This case is a reminder that officers are held to a higher standard and are not above the law. This officer is not representative of the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily."
+"It is an inescapable truth that law enforcement officers who choose to abdicate their sworn oaths of office add to the already immense challenges that the remaining law enforcement community must face. While it is understandable that these types of cases add to some erosion of public trust, it should be noted that the vast majority of the law enforcement community takes their sworn oaths very seriously as well as such deviations from that oath as we've seen here," said Brian D. Lamkin, Special Agent in Charge, FBI Atlanta Field Office.
+"The alleged criminal actions of this former officer tarnishes the DeKalb County Police badge, it erodes the public's trust in law enforcement and undermines the continued efforts of the men and women who honorably serve the residents of DeKalb County," said DeKalb County Police Chief William O'Brien.
+According to Yates, the charges and other information presented in court were: Starting in April 2010, BRISTOL used his position as a DeKalb County Police Officer to help two separately-charged defendants to hide the fact that they possessed a stolen car. In addition, BRISTOL misused his access to a sensitive law enforcement database to provide his associates with information about criminal histories and outstanding arrest warrants. Finally, BRISTOL made numerous false statements to federal agents.
+BRISTOL was indicted by a federal grand jury on May 25, 2011. The indictment charges BRISTOL with aiding others to possess and hide a stolen vehicle, with failing to report and attempting to conceal a federal crime, with unlawfully accessing governmental information, and with lying to federal agents. The most serious of the charges carries a maximum sentence of 10 years in prison and a fine of up to $250,000. In determining the actual sentence, the Court will consider the United States Sentencing Guidelines, which are not binding but provide appropriate sentencing ranges for most offenders.
+Members of the public are reminded that the indictment only contains charges. The defendant is presumed innocent of the charges and it will be the government's burden to prove the defendant's guilt beyond a reasonable doubt at trial.
+This case is being investigated by Special Agents of the Federal Bureau of Investigation, the DeKalb County Police Department, and Special Agents of the Drug Enforcement Administration. Assistant United States Attorney Jeffrey W. Davis is prosecuting the case.
+DEA AFD's SAC Rodney G. Benson, encourages parents, along with their children, to educate themselves about the dangers of legal and illegal drugs by visiting DEA's interactive websites atwww.justhinktwice.com ,www.GetSmartAboutDrugs.com
+ andwww.dea.gov .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="37" end="57" text="Chuvalo J. Truesdell" TYPE="NAM" />
+<person id="p1" start="88" end="116" text="Former DeKalb Police Officer" TYPE="BAR" />
+<person id="p2" start="138" end="141" text="His" TYPE="PRO" />
+<person id="p3" start="164" end="178" text="Federal Agents" TYPE="BAR" />
+<person id="p4" start="195" end="234" text="DONALD BRISTOL, 41, of Lilburn, Georgia" TYPE="NAM" />
+<person id="p5" start="294" end="300" text="others" TYPE="BAR" />
+<person id="p6" start="457" end="464" text="BRISTOL" TYPE="NAM" />
+<person id="p7" start="517" end="571" text="United States Magistrate Judge E. Clayton Scofield III" TYPE="NAM" />
+<person id="p8" start="517" end="547" text="United States Magistrate Judge" TYPE="NOMPRE" />
+<person id="p9" start="531" end="541" text="Magistrate" TYPE="NOMPRE" />
+<person id="p10" start="573" end="616" text="United States Attorney Sally Quillian Yates" TYPE="NAM" />
+<person id="p11" start="573" end="595" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p13" start="653" end="723" text="police officers who will obey the laws that they have sworn to enforce" TYPE="BAR" />
+<person id="p14" start="669" end="672" text="who" TYPE="WHQ" />
+<person id="p15" start="697" end="701" text="they" TYPE="PRO" />
+<person id="p16" start="738" end="750" text="this officer" TYPE="NOM" />
+<person id="p17" start="772" end="775" text="his" TYPE="PRO" />
+<person id="p18" start="871" end="957" text="Rodney G. Benson, Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" TYPE="APP" />
+<person id="p19" start="871" end="887" text="Rodney G. Benson" TYPE="NAM" />
+<person id="p20" start="889" end="957" text="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" TYPE="BAR" />
+<person id="p21" start="914" end="917" text="SAC" TYPE="BAR" />
+<person id="p22" start="995" end="1003" text="officers" TYPE="BAR" />
+<person id="p23" start="1061" end="1073" text="This officer" TYPE="NOM" />
+<person id="p24" start="1081" end="1226" text="representative of the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" TYPE="BAR" />
+<person id="p25" start="1099" end="1226" text="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" TYPE="NOM" />
+<person id="p26" start="1099" end="1226" text="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" TYPE="NOM" />
+<person id="p27" start="1157" end="1160" text="who" TYPE="WHQ" />
+<person id="p28" start="1176" end="1181" text="their" TYPE="PRO" />
+<person id="p29" start="1262" end="1337" text="law enforcement officers who choose to abdicate their sworn oaths of office" TYPE="BAR" />
+<person id="p30" start="1287" end="1290" text="who" TYPE="WHQ" />
+<person id="p31" start="1310" end="1315" text="their" TYPE="PRO" />
+<person id="p32" start="1381" end="1420" text="the remaining law enforcement community" TYPE="NOM" />
+<person id="p33" start="1546" end="1596" text="the vast majority of the law enforcement community" TYPE="NOM" />
+<person id="p34" start="1567" end="1596" text="the law enforcement community" TYPE="NOM" />
+<person id="p35" start="1603" end="1608" text="their" TYPE="PRO" />
+<person id="p36" start="1704" end="1770" text="Brian D. Lamkin, Special Agent in Charge, FBI Atlanta Field Office" TYPE="APP" />
+<person id="p37" start="1704" end="1719" text="Brian D. Lamkin" TYPE="NAM" />
+<person id="p38" start="1721" end="1770" text="Special Agent in Charge, FBI Atlanta Field Office" TYPE="BAR" />
+<person id="p39" start="1805" end="1824" text="this former officer" TYPE="NOM" />
+<person id="p40" start="1955" end="2023" text="the men and women who honorably serve the residents of DeKalb County" TYPE="NOM" />
+<person id="p41" start="1955" end="2023" text="the men and women who honorably serve the residents of DeKalb County" TYPE="NOM" />
+<person id="p42" start="1973" end="1976" text="who" TYPE="WHQ" />
+<person id="p43" start="2031" end="2073" text="DeKalb County Police Chief William O'Brien" TYPE="NAM" />
+<person id="p44" start="2031" end="2057" text="DeKalb County Police Chief" TYPE="BAR" />
+<person id="p45" start="2088" end="2093" text="Yates" TYPE="NAM" />
+<person id="p46" start="2178" end="2185" text="BRISTOL" TYPE="NAM" />
+<person id="p12" start="2191" end="2194" text="his" TYPE="PRO" />
+<person id="p47" start="2207" end="2237" text="a DeKalb County Police Officer" TYPE="NOM" />
+<person id="p48" start="2246" end="2279" text="two separately-charged defendants" TYPE="NOM" />
+<person id="p49" start="2302" end="2306" text="they" TYPE="PRO" />
+<person id="p50" start="2344" end="2351" text="BRISTOL" TYPE="NAM" />
+<person id="p51" start="2360" end="2363" text="his" TYPE="PRO" />
+<person id="p52" start="2422" end="2436" text="his associates" TYPE="BAR" />
+<person id="p53" start="2422" end="2425" text="his" TYPE="PRO" />
+<person id="p54" start="2521" end="2528" text="BRISTOL" TYPE="NAM" />
+<person id="p55" start="2563" end="2577" text="federal agents" TYPE="BAR" />
+<person id="p56" start="2579" end="2586" text="BRISTOL" TYPE="NAM" />
+<person id="p57" start="2603" end="2623" text="a federal grand jury" TYPE="NOM" />
+<person id="p58" start="2664" end="2671" text="BRISTOL" TYPE="NAM" />
+<person id="p59" start="2684" end="2690" text="others" TYPE="BAR" />
+<person id="p60" start="2865" end="2879" text="federal agents" TYPE="BAR" />
+<person id="p61" start="3161" end="3175" text="most offenders" TYPE="NOM" />
+<person id="p62" start="3177" end="3198" text="Members of the public" TYPE="BAR" />
+<person id="p63" start="3255" end="3268" text="The defendant" TYPE="NOM" />
+<person id="p64" start="3353" end="3366" text="the defendant" TYPE="NOM" />
+<person id="p65" start="3446" end="3499" text="Special Agents of the Federal Bureau of Investigation" TYPE="BAR" />
+<person id="p66" start="3542" end="3595" text="Special Agents of the Drug Enforcement Administration" TYPE="BAR" />
+<person id="p67" start="3597" end="3646" text="Assistant United States Attorney Jeffrey W. Davis" TYPE="NAM" />
+<person id="p68" start="3597" end="3629" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<person id="p69" start="3672" end="3702" text="DEA AFD's SAC Rodney G. Benson" TYPE="NAM" />
+<person id="p70" start="3672" end="3685" text="DEA AFD's SAC" TYPE="NOMPRE" />
+<person id="p71" start="3715" end="3722" text="parents" TYPE="BAR" />
+<person id="p72" start="3735" end="3749" text="their children" TYPE="NOM" />
+<person id="p73" start="3735" end="3740" text="their" TYPE="PRO" />
+<person id="p74" start="3762" end="3772" text="themselves" TYPE="PRO" />
+<organization id="o0" start="58" end="74" text="Atlanta Division" TYPE="BAR" />
+<organization id="o1" start="102" end="108" text="Police" TYPE="NOMPRE" />
+<organization id="o2" start="653" end="659" text="police" TYPE="NOMPRE" />
+<organization id="o3" start="847" end="868" text="its police department" TYPE="BAR" />
+<organization id="o4" start="851" end="857" text="police" TYPE="NOMPRE" />
+<organization id="o5" start="922" end="957" text="the DEA Atlanta Field Division (AFD" TYPE="NAM" />
+<organization id="o6" start="954" end="957" text="AFD" TYPE="NAM" />
+<organization id="o7" start="1746" end="1770" text="FBI Atlanta Field Office" TYPE="NAM" />
+<organization id="o8" start="1853" end="1859" text="Police" TYPE="NOMPRE" />
+<organization id="o9" start="2045" end="2051" text="Police" TYPE="NOMPRE" />
+<organization id="o10" start="2142" end="2147" text="court" TYPE="BAR" />
+<organization id="o11" start="2223" end="2229" text="Police" TYPE="NOMPRE" />
+<organization id="o12" start="399" end="409" text="government" TYPE="NOMPRE" />
+<organization id="o13" start="3028" end="3037" text="the Court" TYPE="NOM" />
+<organization id="o14" start="3320" end="3334" text="the government" TYPE="NOM" />
+<organization id="o15" start="3464" end="3499" text="the Federal Bureau of Investigation" TYPE="NAM" />
+<organization id="o16" start="3501" end="3536" text="the DeKalb County Police Department" TYPE="NAM" />
+<organization id="o17" start="3560" end="3595" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o18" start="3672" end="3679" text="DEA AFD" TYPE="NAM" />
+<organization id="o19" start="3830" end="3833" text="DEA" TYPE="NAM" />
+<geographical-political id="g0" start="1" end="8" text="ATLANTA" TYPE="NAMPRE" />
+<geographical-political id="g1" start="58" end="65" text="Atlanta" TYPE="NAMPRE" />
+<geographical-political id="g2" start="95" end="101" text="DeKalb" TYPE="NAMPRE" />
+<geographical-political id="g3" start="179" end="191" text="ATLANTA, GA." TYPE="NAM" />
+<geographical-political id="g4" start="188" end="191" text="GA." TYPE="NAM" />
+<geographical-political id="g5" start="218" end="234" text="Lilburn, Georgia" TYPE="NAM" />
+<geographical-political id="g6" start="227" end="234" text="Georgia" TYPE="NAM" />
+<geographical-political id="g7" start="517" end="530" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g8" start="573" end="586" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g9" start="624" end="636" text="Our citizens" TYPE="BAR" />
+<geographical-political id="g10" start="624" end="627" text="Our" TYPE="PRO" />
+<geographical-political id="g11" start="815" end="842" text="the people of DeKalb County" TYPE="NOM" />
+<geographical-political id="g12" start="829" end="842" text="DeKalb County" TYPE="NAM" />
+<geographical-political id="g13" start="847" end="850" text="its" TYPE="PRO" />
+<geographical-political id="g14" start="1210" end="1220" text="the public" TYPE="HLS" />
+<geographical-political id="g15" start="1839" end="1852" text="DeKalb County" TYPE="NAMPRE" />
+<geographical-political id="g16" start="1993" end="2023" text="the residents of DeKalb County" TYPE="NOM" />
+<geographical-political id="g17" start="2010" end="2023" text="DeKalb County" TYPE="NAM" />
+<geographical-political id="g18" start="2031" end="2044" text="DeKalb County" TYPE="NAMPRE" />
+<geographical-political id="g19" start="2209" end="2222" text="DeKalb County" TYPE="NAMPRE" />
+<geographical-political id="g20" start="3056" end="3069" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g21" start="3188" end="3198" text="the public" TYPE="HLS" />
+<geographical-political id="g22" start="3607" end="3620" text="United States" TYPE="NAMPRE" />
+<falicity id="f0" start="2955" end="2961" text="prison" TYPE="BAR" />
+<head id="h0" start="1" end="8" text="ATLANTA" />
+<head id="h1" start="37" end="57" text="Chuvalo J. Truesdell" />
+<head id="h2" start="66" end="74" text="Division" />
+<head id="h3" start="58" end="65" text="Atlanta" />
+<head id="h4" start="109" end="116" text="Officer" />
+<head id="h5" start="102" end="108" text="Police" />
+<head id="h6" start="95" end="101" text="DeKalb" />
+<head id="h7" start="138" end="141" text="His" />
+<head id="h8" start="172" end="178" text="Agents" />
+<head id="h9" start="179" end="186" text="ATLANTA" />
+<head id="h10" start="188" end="191" text="GA." />
+<head id="h11" start="195" end="209" text="DONALD BRISTOL" />
+<head id="h12" start="218" end="225" text="Lilburn" />
+<head id="h13" start="227" end="234" text="Georgia" />
+<head id="h14" start="294" end="300" text="others" />
+<head id="h15" start="457" end="464" text="BRISTOL" />
+<head id="h16" start="548" end="571" text="E. Clayton Scofield III" />
+<head id="h17" start="542" end="547" text="Judge" />
+<head id="h18" start="531" end="541" text="Magistrate" />
+<head id="h19" start="517" end="530" text="United States" />
+<head id="h20" start="596" end="616" text="Sally Quillian Yates" />
+<head id="h21" start="587" end="595" text="Attorney" />
+<head id="h22" start="573" end="586" text="United States" />
+<head id="h23" start="628" end="636" text="citizens" />
+<head id="h24" start="624" end="627" text="Our" />
+<head id="h25" start="660" end="668" text="officers" />
+<head id="h26" start="653" end="659" text="police" />
+<head id="h27" start="669" end="672" text="who" />
+<head id="h28" start="697" end="701" text="they" />
+<head id="h29" start="743" end="750" text="officer" />
+<head id="h30" start="772" end="775" text="his" />
+<head id="h31" start="819" end="825" text="people" />
+<head id="h32" start="829" end="842" text="DeKalb County" />
+<head id="h33" start="847" end="850" text="its" />
+<head id="h34" start="858" end="868" text="department" />
+<head id="h35" start="851" end="857" text="police" />
+<head id="h36" start="871" end="887" text="Rodney G. Benson" />
+<head id="h37" start="897" end="902" text="Agent" />
+<head id="h38" start="926" end="952" text="DEA Atlanta Field Division" />
+<head id="h39" start="954" end="957" text="AFD" />
+<head id="h40" start="914" end="917" text="SAC" />
+<head id="h41" start="995" end="1003" text="officers" />
+<head id="h42" start="1066" end="1073" text="officer" />
+<head id="h43" start="1081" end="1095" text="representative" />
+<head id="h44" start="1124" end="1127" text="men" />
+<head id="h45" start="1132" end="1137" text="women" />
+<head id="h46" start="1157" end="1160" text="who" />
+<head id="h47" start="1176" end="1181" text="their" />
+<head id="h48" start="1214" end="1220" text="public" />
+<head id="h49" start="1278" end="1286" text="officers" />
+<head id="h50" start="1287" end="1290" text="who" />
+<head id="h51" start="1310" end="1315" text="their" />
+<head id="h52" start="1411" end="1420" text="community" />
+<head id="h53" start="1555" end="1563" text="majority" />
+<head id="h54" start="1587" end="1596" text="community" />
+<head id="h55" start="1603" end="1608" text="their" />
+<head id="h56" start="1704" end="1719" text="Brian D. Lamkin" />
+<head id="h57" start="1729" end="1734" text="Agent" />
+<head id="h58" start="1746" end="1770" text="FBI Atlanta Field Office" />
+<head id="h59" start="1817" end="1824" text="officer" />
+<head id="h60" start="1853" end="1859" text="Police" />
+<head id="h61" start="1839" end="1852" text="DeKalb County" />
+<head id="h62" start="1959" end="1962" text="men" />
+<head id="h63" start="1967" end="1972" text="women" />
+<head id="h64" start="1973" end="1976" text="who" />
+<head id="h65" start="1997" end="2006" text="residents" />
+<head id="h66" start="2010" end="2023" text="DeKalb County" />
+<head id="h67" start="2058" end="2073" text="William O'Brien" />
+<head id="h68" start="2052" end="2057" text="Chief" />
+<head id="h69" start="2045" end="2051" text="Police" />
+<head id="h70" start="2031" end="2044" text="DeKalb County" />
+<head id="h71" start="2088" end="2093" text="Yates" />
+<head id="h72" start="2142" end="2147" text="court" />
+<head id="h73" start="2178" end="2185" text="BRISTOL" />
+<head id="h74" start="2191" end="2194" text="his" />
+<head id="h75" start="2223" end="2229" text="Police" />
+<head id="h76" start="2230" end="2237" text="Officer" />
+<head id="h77" start="2209" end="2222" text="DeKalb County" />
+<head id="h78" start="2269" end="2279" text="defendants" />
+<head id="h79" start="2302" end="2306" text="they" />
+<head id="h80" start="2344" end="2351" text="BRISTOL" />
+<head id="h81" start="2360" end="2363" text="his" />
+<head id="h82" start="2426" end="2436" text="associates" />
+<head id="h83" start="2422" end="2425" text="his" />
+<head id="h84" start="2521" end="2528" text="BRISTOL" />
+<head id="h85" start="2571" end="2577" text="agents" />
+<head id="h86" start="399" end="409" text="government" />
+<head id="h87" start="2579" end="2586" text="BRISTOL" />
+<head id="h88" start="2619" end="2623" text="jury" />
+<head id="h89" start="2664" end="2671" text="BRISTOL" />
+<head id="h90" start="2684" end="2690" text="others" />
+<head id="h91" start="2873" end="2879" text="agents" />
+<head id="h92" start="2955" end="2961" text="prison" />
+<head id="h93" start="3032" end="3037" text="Court" />
+<head id="h94" start="3056" end="3069" text="United States" />
+<head id="h95" start="3166" end="3175" text="offenders" />
+<head id="h96" start="3177" end="3184" text="Members" />
+<head id="h97" start="3192" end="3198" text="public" />
+<head id="h98" start="3259" end="3268" text="defendant" />
+<head id="h99" start="3324" end="3334" text="government" />
+<head id="h100" start="3357" end="3366" text="defendant" />
+<head id="h101" start="3454" end="3460" text="Agents" />
+<head id="h102" start="3468" end="3499" text="Federal Bureau of Investigation" />
+<head id="h103" start="3505" end="3536" text="DeKalb County Police Department" />
+<head id="h104" start="3550" end="3556" text="Agents" />
+<head id="h105" start="3564" end="3595" text="Drug Enforcement Administration" />
+<head id="h106" start="3630" end="3646" text="Jeffrey W. Davis" />
+<head id="h107" start="3621" end="3629" text="Attorney" />
+<head id="h108" start="3607" end="3620" text="United States" />
+<head id="h109" start="3686" end="3702" text="Rodney G. Benson" />
+<head id="h110" start="3682" end="3685" text="SAC" />
+<head id="h111" start="3672" end="3679" text="DEA AFD" />
+<head id="h112" start="3715" end="3722" text="parents" />
+<head id="h113" start="3741" end="3749" text="children" />
+<head id="h114" start="3735" end="3740" text="their" />
+<head id="h115" start="3762" end="3772" text="themselves" />
+<head id="h116" start="3830" end="3833" text="DEA" />
+<name id="n0" start="1" end="8" text="ATLANTA" />
+<name id="n1" start="37" end="57" text="Chuvalo J. Truesdell" />
+<name id="n2" start="58" end="65" text="Atlanta" />
+<name id="n3" start="95" end="101" text="DeKalb" />
+<name id="n4" start="179" end="186" text="ATLANTA" />
+<name id="n5" start="188" end="191" text="GA." />
+<name id="n6" start="195" end="209" text="DONALD BRISTOL" />
+<name id="n7" start="218" end="225" text="Lilburn" />
+<name id="n8" start="227" end="234" text="Georgia" />
+<name id="n9" start="457" end="464" text="BRISTOL" />
+<name id="n10" start="548" end="571" text="E. Clayton Scofield III" />
+<name id="n11" start="517" end="530" text="United States" />
+<name id="n12" start="596" end="616" text="Sally Quillian Yates" />
+<name id="n13" start="573" end="586" text="United States" />
+<name id="n14" start="829" end="842" text="DeKalb County" />
+<name id="n15" start="871" end="887" text="Rodney G. Benson" />
+<name id="n16" start="926" end="952" text="DEA Atlanta Field Division" />
+<name id="n17" start="954" end="957" text="AFD" />
+<name id="n18" start="1704" end="1719" text="Brian D. Lamkin" />
+<name id="n19" start="1746" end="1770" text="FBI Atlanta Field Office" />
+<name id="n20" start="1839" end="1852" text="DeKalb County" />
+<name id="n21" start="2010" end="2023" text="DeKalb County" />
+<name id="n22" start="2058" end="2073" text="William O'Brien" />
+<name id="n23" start="2031" end="2044" text="DeKalb County" />
+<name id="n24" start="2088" end="2093" text="Yates" />
+<name id="n25" start="2178" end="2185" text="BRISTOL" />
+<name id="n27" start="2209" end="2222" text="DeKalb County" />
+<name id="n28" start="2344" end="2351" text="BRISTOL" />
+<name id="n29" start="2521" end="2528" text="BRISTOL" />
+<name id="n30" start="2579" end="2586" text="BRISTOL" />
+<name id="n31" start="2664" end="2671" text="BRISTOL" />
+<name id="n32" start="3056" end="3069" text="United States" />
+<name id="n33" start="3468" end="3499" text="Federal Bureau of Investigation" />
+<name id="n34" start="3505" end="3536" text="DeKalb County Police Department" />
+<name id="n35" start="3564" end="3595" text="Drug Enforcement Administration" />
+<name id="n36" start="3630" end="3646" text="Jeffrey W. Davis" />
+<name id="n37" start="3607" end="3620" text="United States" />
+<name id="n38" start="3686" end="3702" text="Rodney G. Benson" />
+<name id="n39" start="3672" end="3679" text="DEA AFD" />
+<name id="n40" start="3830" end="3833" text="DEA" />
+<employment-mention id="e0" start="88" end="116" text="Former DeKalb Police Officer" TYPE="PreMod" />
+<employment-mention id="e1" start="88" end="116" text="Former DeKalb Police Officer" TYPE="PreMod" />
+<employment-mention id="e2" start="517" end="547" text="United States Magistrate Judge" TYPE="PreMod" />
+<employment-mention id="e3" start="573" end="595" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e4" start="889" end="957" text="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" TYPE="Preposition" />
+<employment-mention id="e5" start="1721" end="1770" text="Special Agent in Charge, FBI Atlanta Field Office" TYPE="Formulaic" />
+<employment-mention id="e6" start="2031" end="2057" text="DeKalb County Police Chief" TYPE="PreMod" />
+<employment-mention id="e7" start="2207" end="2237" text="a DeKalb County Police Officer" TYPE="PreMod" />
+<employment-mention id="e8" start="653" end="723" text="police officers who will obey the laws that they have sworn to enforce" TYPE="PreMod" />
+<employment-mention id="e9" start="2031" end="2057" text="DeKalb County Police Chief" TYPE="PreMod" />
+<employment-mention id="e10" start="2207" end="2237" text="a DeKalb County Police Officer" TYPE="PreMod" />
+<employment-mention id="e11" start="3446" end="3499" text="Special Agents of the Federal Bureau of Investigation" TYPE="Preposition" />
+<employment-mention id="e12" start="3542" end="3595" text="Special Agents of the Drug Enforcement Administration" TYPE="Preposition" />
+<employment-mention id="e13" start="3597" end="3629" text="Assistant United States Attorney" TYPE="PreMod" />
+<employment-mention id="e14" start="3672" end="3685" text="DEA AFD's SAC" TYPE="Possessive" />
+<CRRE id="C0" start="195" end="234" text="DONALD BRISTOL, 41, of Lilburn, Georgia" TYPE="Preposition" />
+<entity_link id="en0" fromID="g1" fromText="Atlanta" toID="g0" toText="ATLANTA" />
+<entity_link id="en1" fromID="p2" fromText="His" toID="p1" toText="Former DeKalb Police Officer" />
+<entity_link id="en2" fromID="g3" fromText="ATLANTA, GA." toID="g1" toText="Atlanta" />
+<entity_link id="en3" fromID="p6" fromText="BRISTOL" toID="p4" toText="DONALD BRISTOL, 41, of Lilburn, Georgia" />
+<entity_link id="en4" fromID="p8" fromText="United States Magistrate Judge" toID="p7" toText="United States Magistrate Judge E. Clayton Scofield III" />
+<entity_link id="en5" fromID="p11" fromText="United States Attorney" toID="p10" toText="United States Attorney Sally Quillian Yates" />
+<entity_link id="en6" fromID="g8" fromText="United States" toID="g7" toText="United States" />
+<entity_link id="en7" fromID="g9" fromText="Our citizens" toID="g8" toText="United States" />
+<entity_link id="en8" fromID="g10" fromText="Our" toID="g8" toText="United States" />
+<entity_link id="en9" fromID="o2" fromText="police" toID="o1" toText="Police" />
+<entity_link id="en10" fromID="p14" fromText="who" toID="p13" toText="police officers who will obey the laws that they have sworn to enforce" />
+<entity_link id="en11" fromID="p16" fromText="this officer" toID="p6" toText="BRISTOL" />
+<entity_link id="en12" fromID="p17" fromText="his" toID="p16" toText="this officer" />
+<entity_link id="en13" fromID="g11" fromText="the people of DeKalb County" toID="g2" toText="DeKalb" />
+<entity_link id="en14" fromID="g12" fromText="DeKalb County" toID="g11" toText="the people of DeKalb County" />
+<entity_link id="en15" fromID="g13" fromText="its" toID="g12" toText="DeKalb County" />
+<entity_link id="en16" fromID="o4" fromText="police" toID="o2" toText="police" />
+<entity_link id="en17" fromID="p19" fromText="Rodney G. Benson" toID="p18" toText="Rodney G. Benson, Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" />
+<entity_link id="en18" fromID="p20" fromText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" toID="p19" toText="Rodney G. Benson" />
+<entity_link id="en19" fromID="o6" fromText="AFD" toID="o5" toText="the DEA Atlanta Field Division (AFD" />
+<entity_link id="en20" fromID="p21" fromText="SAC" toID="p20" toText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" />
+<entity_link id="en21" fromID="p15" fromText="they" toID="p13" toText="police officers who will obey the laws that they have sworn to enforce" />
+<entity_link id="en22" fromID="p4" fromText="DONALD BRISTOL, 41, of Lilburn, Georgia" toID="p1" toText="Former DeKalb Police Officer" />
+<entity_link id="en23" fromID="p23" fromText="This officer" toID="p16" toText="this officer" />
+<entity_link id="en24" fromID="p28" fromText="their" toID="p27" toText="who" />
+<entity_link id="en25" fromID="p27" fromText="who" toID="p25" toText="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" />
+<entity_link id="en26" fromID="p27" fromText="who" toID="p26" toText="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" />
+<entity_link id="en27" fromID="p30" fromText="who" toID="p29" toText="law enforcement officers who choose to abdicate their sworn oaths of office" />
+<entity_link id="en28" fromID="p31" fromText="their" toID="p29" toText="law enforcement officers who choose to abdicate their sworn oaths of office" />
+<entity_link id="en29" fromID="p35" fromText="their" toID="p33" toText="the vast majority of the law enforcement community" />
+<entity_link id="en30" fromID="p37" fromText="Brian D. Lamkin" toID="p36" toText="Brian D. Lamkin, Special Agent in Charge, FBI Atlanta Field Office" />
+<entity_link id="en31" fromID="p38" fromText="Special Agent in Charge, FBI Atlanta Field Office" toID="p37" toText="Brian D. Lamkin" />
+<entity_link id="en32" fromID="p39" fromText="this former officer" toID="p23" toText="This officer" />
+<entity_link id="en33" fromID="o8" fromText="Police" toID="o2" toText="police" />
+<entity_link id="en34" fromID="g15" fromText="DeKalb County" toID="g12" toText="DeKalb County" />
+<entity_link id="en35" fromID="p42" fromText="who" toID="p40" toText="the men and women who honorably serve the residents of DeKalb County" />
+<entity_link id="en36" fromID="p42" fromText="who" toID="p41" toText="the men and women who honorably serve the residents of DeKalb County" />
+<entity_link id="en37" fromID="g16" fromText="the residents of DeKalb County" toID="g11" toText="the people of DeKalb County" />
+<entity_link id="en38" fromID="g17" fromText="DeKalb County" toID="g16" toText="the residents of DeKalb County" />
+<entity_link id="en39" fromID="p44" fromText="DeKalb County Police Chief" toID="p43" toText="DeKalb County Police Chief William O'Brien" />
+<entity_link id="en40" fromID="o9" fromText="Police" toID="o8" toText="Police" />
+<entity_link id="en41" fromID="g18" fromText="DeKalb County" toID="g17" toText="DeKalb County" />
+<entity_link id="en42" fromID="p45" fromText="Yates" toID="p10" toText="United States Attorney Sally Quillian Yates" />
+<entity_link id="en43" fromID="p46" fromText="BRISTOL" toID="p6" toText="BRISTOL" />
+<entity_link id="en44" fromID="p12" fromText="his" toID="p46" toText="BRISTOL" />
+<entity_link id="en45" fromID="p47" fromText="a DeKalb County Police Officer" toID="p46" toText="BRISTOL" />
+<entity_link id="en46" fromID="o11" fromText="Police" toID="o9" toText="Police" />
+<entity_link id="en47" fromID="g19" fromText="DeKalb County" toID="g18" toText="DeKalb County" />
+<entity_link id="en48" fromID="p49" fromText="they" toID="p48" toText="two separately-charged defendants" />
+<entity_link id="en49" fromID="p50" fromText="BRISTOL" toID="p46" toText="BRISTOL" />
+<entity_link id="en50" fromID="p51" fromText="his" toID="p50" toText="BRISTOL" />
+<entity_link id="en51" fromID="p53" fromText="his" toID="p51" toText="his" />
+<entity_link id="en52" fromID="p54" fromText="BRISTOL" toID="p50" toText="BRISTOL" />
+<entity_link id="en53" fromID="p55" fromText="federal agents" toID="p3" toText="Federal Agents" />
+<entity_link id="en54" fromID="p56" fromText="BRISTOL" toID="p54" toText="BRISTOL" />
+<entity_link id="en55" fromID="p58" fromText="BRISTOL" toID="p56" toText="BRISTOL" />
+<entity_link id="en56" fromID="p59" fromText="others" toID="p5" toText="others" />
+<entity_link id="en57" fromID="p60" fromText="federal agents" toID="p55" toText="federal agents" />
+<entity_link id="en58" fromID="g20" fromText="United States" toID="g8" toText="United States" />
+<entity_link id="en59" fromID="p64" fromText="the defendant" toID="p63" toText="The defendant" />
+<entity_link id="en60" fromID="o14" fromText="the government" toID="o12" toText="government" />
+<entity_link id="en61" fromID="o13" fromText="the Court" toID="o10" toText="court" />
+<entity_link id="en62" fromID="o16" fromText="the DeKalb County Police Department" toID="o3" toText="its police department" />
+<entity_link id="en63" fromID="p68" fromText="Assistant United States Attorney" toID="p67" toText="Assistant United States Attorney Jeffrey W. Davis" />
+<entity_link id="en64" fromID="g22" fromText="United States" toID="g20" toText="United States" />
+<entity_link id="en65" fromID="p69" fromText="DEA AFD's SAC Rodney G. Benson" toID="p19" toText="Rodney G. Benson" />
+<entity_link id="en66" fromID="p70" fromText="DEA AFD's SAC" toID="p69" toText="DEA AFD's SAC Rodney G. Benson" />
+<entity_link id="en67" fromID="o18" fromText="DEA AFD" toID="o5" toText="the DEA Atlanta Field Division (AFD" />
+<entity_link id="en68" fromID="p73" fromText="their" toID="p71" toText="parents" />
+<entity_link id="en69" fromID="o19" fromText="DEA" toID="o17" toText="the Drug Enforcement Administration" />
+<head_link id="he0" fromID="g0" fromText="ATLANTA" toID="h0" toText="ATLANTA" />
+<head_link id="he1" fromID="p0" fromText="Chuvalo J. Truesdell" toID="h1" toText="Chuvalo J. Truesdell" />
+<head_link id="he2" fromID="o0" fromText="Atlanta Division" toID="h2" toText="Division" />
+<head_link id="he3" fromID="g1" fromText="Atlanta" toID="h3" toText="Atlanta" />
+<head_link id="he4" fromID="p1" fromText="Former DeKalb Police Officer" toID="h4" toText="Officer" />
+<head_link id="he5" fromID="o1" fromText="Police" toID="h5" toText="Police" />
+<head_link id="he6" fromID="g2" fromText="DeKalb" toID="h6" toText="DeKalb" />
+<head_link id="he7" fromID="p2" fromText="His" toID="h7" toText="His" />
+<head_link id="he8" fromID="p3" fromText="Federal Agents" toID="h8" toText="Agents" />
+<head_link id="he9" fromID="g3" fromText="ATLANTA, GA." toID="h9" toText="ATLANTA" />
+<head_link id="he10" fromID="g4" fromText="GA." toID="h10" toText="GA." />
+<head_link id="he11" fromID="p4" fromText="DONALD BRISTOL, 41, of Lilburn, Georgia" toID="h11" toText="DONALD BRISTOL" />
+<head_link id="he12" fromID="g5" fromText="Lilburn, Georgia" toID="h12" toText="Lilburn" />
+<head_link id="he13" fromID="g6" fromText="Georgia" toID="h13" toText="Georgia" />
+<head_link id="he14" fromID="p5" fromText="others" toID="h14" toText="others" />
+<head_link id="he15" fromID="p6" fromText="BRISTOL" toID="h15" toText="BRISTOL" />
+<head_link id="he16" fromID="p7" fromText="United States Magistrate Judge E. Clayton Scofield III" toID="h16" toText="E. Clayton Scofield III" />
+<head_link id="he17" fromID="p8" fromText="United States Magistrate Judge" toID="h17" toText="Judge" />
+<head_link id="he18" fromID="p9" fromText="Magistrate" toID="h18" toText="Magistrate" />
+<head_link id="he19" fromID="g7" fromText="United States" toID="h19" toText="United States" />
+<head_link id="he20" fromID="p10" fromText="United States Attorney Sally Quillian Yates" toID="h20" toText="Sally Quillian Yates" />
+<head_link id="he21" fromID="p11" fromText="United States Attorney" toID="h21" toText="Attorney" />
+<head_link id="he22" fromID="g8" fromText="United States" toID="h22" toText="United States" />
+<head_link id="he23" fromID="g9" fromText="Our citizens" toID="h23" toText="citizens" />
+<head_link id="he24" fromID="g10" fromText="Our" toID="h24" toText="Our" />
+<head_link id="he26" fromID="o2" fromText="police" toID="h26" toText="police" />
+<head_link id="he27" fromID="p13" fromText="police officers who will obey the laws that they have sworn to enforce" toID="h25" toText="officers" />
+<head_link id="he28" fromID="p14" fromText="who" toID="h27" toText="who" />
+<head_link id="he29" fromID="p15" fromText="they" toID="h28" toText="they" />
+<head_link id="he30" fromID="p16" fromText="this officer" toID="h29" toText="officer" />
+<head_link id="he31" fromID="p17" fromText="his" toID="h30" toText="his" />
+<head_link id="he32" fromID="g11" fromText="the people of DeKalb County" toID="h31" toText="people" />
+<head_link id="he33" fromID="g12" fromText="DeKalb County" toID="h32" toText="DeKalb County" />
+<head_link id="he34" fromID="g13" fromText="its" toID="h33" toText="its" />
+<head_link id="he35" fromID="o3" fromText="its police department" toID="h34" toText="department" />
+<head_link id="he36" fromID="o4" fromText="police" toID="h35" toText="police" />
+<head_link id="he37" fromID="p19" fromText="Rodney G. Benson" toID="h36" toText="Rodney G. Benson" />
+<head_link id="he38" fromID="p20" fromText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" toID="h37" toText="Agent" />
+<head_link id="he39" fromID="o5" fromText="the DEA Atlanta Field Division (AFD" toID="h38" toText="DEA Atlanta Field Division" />
+<head_link id="he40" fromID="o6" fromText="AFD" toID="h39" toText="AFD" />
+<head_link id="he41" fromID="p21" fromText="SAC" toID="h40" toText="SAC" />
+<head_link id="he42" fromID="p22" fromText="officers" toID="h41" toText="officers" />
+<head_link id="he43" fromID="p23" fromText="This officer" toID="h42" toText="officer" />
+<head_link id="he44" fromID="p24" fromText="representative of the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" toID="h43" toText="representative" />
+<head_link id="he45" fromID="p25" fromText="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" toID="h44" toText="men" />
+<head_link id="he46" fromID="p26" fromText="the honest, hard working men and women in law enforcement who do not violate their oaths, but faithfully serve the public daily" toID="h45" toText="women" />
+<head_link id="he47" fromID="p27" fromText="who" toID="h46" toText="who" />
+<head_link id="he48" fromID="p28" fromText="their" toID="h47" toText="their" />
+<head_link id="he49" fromID="g14" fromText="the public" toID="h48" toText="public" />
+<head_link id="he50" fromID="p29" fromText="law enforcement officers who choose to abdicate their sworn oaths of office" toID="h49" toText="officers" />
+<head_link id="he51" fromID="p30" fromText="who" toID="h50" toText="who" />
+<head_link id="he52" fromID="p31" fromText="their" toID="h51" toText="their" />
+<head_link id="he53" fromID="p32" fromText="the remaining law enforcement community" toID="h52" toText="community" />
+<head_link id="he54" fromID="p33" fromText="the vast majority of the law enforcement community" toID="h53" toText="majority" />
+<head_link id="he55" fromID="p34" fromText="the law enforcement community" toID="h54" toText="community" />
+<head_link id="he56" fromID="p35" fromText="their" toID="h55" toText="their" />
+<head_link id="he57" fromID="p37" fromText="Brian D. Lamkin" toID="h56" toText="Brian D. Lamkin" />
+<head_link id="he58" fromID="p38" fromText="Special Agent in Charge, FBI Atlanta Field Office" toID="h57" toText="Agent" />
+<head_link id="he59" fromID="o7" fromText="FBI Atlanta Field Office" toID="h58" toText="FBI Atlanta Field Office" />
+<head_link id="he60" fromID="p39" fromText="this former officer" toID="h59" toText="officer" />
+<head_link id="he61" fromID="o8" fromText="Police" toID="h60" toText="Police" />
+<head_link id="he62" fromID="g15" fromText="DeKalb County" toID="h61" toText="DeKalb County" />
+<head_link id="he63" fromID="p40" fromText="the men and women who honorably serve the residents of DeKalb County" toID="h62" toText="men" />
+<head_link id="he64" fromID="p41" fromText="the men and women who honorably serve the residents of DeKalb County" toID="h63" toText="women" />
+<head_link id="he65" fromID="p42" fromText="who" toID="h64" toText="who" />
+<head_link id="he66" fromID="g16" fromText="the residents of DeKalb County" toID="h65" toText="residents" />
+<head_link id="he67" fromID="g17" fromText="DeKalb County" toID="h66" toText="DeKalb County" />
+<head_link id="he68" fromID="p43" fromText="DeKalb County Police Chief William O'Brien" toID="h67" toText="William O'Brien" />
+<head_link id="he69" fromID="p44" fromText="DeKalb County Police Chief" toID="h68" toText="Chief" />
+<head_link id="he70" fromID="o9" fromText="Police" toID="h69" toText="Police" />
+<head_link id="he71" fromID="g18" fromText="DeKalb County" toID="h70" toText="DeKalb County" />
+<head_link id="he72" fromID="p45" fromText="Yates" toID="h71" toText="Yates" />
+<head_link id="he73" fromID="o10" fromText="court" toID="h72" toText="court" />
+<head_link id="he74" fromID="p46" fromText="BRISTOL" toID="h73" toText="BRISTOL" />
+<head_link id="he25" fromID="p12" fromText="his" toID="h74" toText="his" />
+<head_link id="he76" fromID="p47" fromText="a DeKalb County Police Officer" toID="h76" toText="Officer" />
+<head_link id="he77" fromID="o11" fromText="Police" toID="h75" toText="Police" />
+<head_link id="he78" fromID="g19" fromText="DeKalb County" toID="h77" toText="DeKalb County" />
+<head_link id="he79" fromID="p48" fromText="two separately-charged defendants" toID="h78" toText="defendants" />
+<head_link id="he80" fromID="p49" fromText="they" toID="h79" toText="they" />
+<head_link id="he81" fromID="p50" fromText="BRISTOL" toID="h80" toText="BRISTOL" />
+<head_link id="he82" fromID="p51" fromText="his" toID="h81" toText="his" />
+<head_link id="he83" fromID="p52" fromText="his associates" toID="h82" toText="associates" />
+<head_link id="he84" fromID="p53" fromText="his" toID="h83" toText="his" />
+<head_link id="he85" fromID="p54" fromText="BRISTOL" toID="h84" toText="BRISTOL" />
+<head_link id="he86" fromID="p55" fromText="federal agents" toID="h85" toText="agents" />
+<head_link id="he87" fromID="o12" fromText="government" toID="h86" toText="government" />
+<head_link id="he88" fromID="p56" fromText="BRISTOL" toID="h87" toText="BRISTOL" />
+<head_link id="he89" fromID="p57" fromText="a federal grand jury" toID="h88" toText="jury" />
+<head_link id="he90" fromID="p58" fromText="BRISTOL" toID="h89" toText="BRISTOL" />
+<head_link id="he91" fromID="p59" fromText="others" toID="h90" toText="others" />
+<head_link id="he92" fromID="p60" fromText="federal agents" toID="h91" toText="agents" />
+<head_link id="he93" fromID="f0" fromText="prison" toID="h92" toText="prison" />
+<head_link id="he94" fromID="o13" fromText="the Court" toID="h93" toText="Court" />
+<head_link id="he95" fromID="g20" fromText="United States" toID="h94" toText="United States" />
+<head_link id="he96" fromID="p61" fromText="most offenders" toID="h95" toText="offenders" />
+<head_link id="he97" fromID="p62" fromText="Members of the public" toID="h96" toText="Members" />
+<head_link id="he98" fromID="g21" fromText="the public" toID="h97" toText="public" />
+<head_link id="he99" fromID="p63" fromText="The defendant" toID="h98" toText="defendant" />
+<head_link id="he100" fromID="o14" fromText="the government" toID="h99" toText="government" />
+<head_link id="he102" fromID="p64" fromText="the defendant" toID="h100" toText="defendant" />
+<head_link id="he103" fromID="p65" fromText="Special Agents of the Federal Bureau of Investigation" toID="h101" toText="Agents" />
+<head_link id="he104" fromID="o15" fromText="the Federal Bureau of Investigation" toID="h102" toText="Federal Bureau of Investigation" />
+<head_link id="he105" fromID="o16" fromText="the DeKalb County Police Department" toID="h103" toText="DeKalb County Police Department" />
+<head_link id="he106" fromID="p66" fromText="Special Agents of the Drug Enforcement Administration" toID="h104" toText="Agents" />
+<head_link id="he107" fromID="o17" fromText="the Drug Enforcement Administration" toID="h105" toText="Drug Enforcement Administration" />
+<head_link id="he108" fromID="p67" fromText="Assistant United States Attorney Jeffrey W. Davis" toID="h106" toText="Jeffrey W. Davis" />
+<head_link id="he109" fromID="p68" fromText="Assistant United States Attorney" toID="h107" toText="Attorney" />
+<head_link id="he110" fromID="g22" fromText="United States" toID="h108" toText="United States" />
+<head_link id="he111" fromID="p69" fromText="DEA AFD's SAC Rodney G. Benson" toID="h109" toText="Rodney G. Benson" />
+<head_link id="he112" fromID="p70" fromText="DEA AFD's SAC" toID="h110" toText="SAC" />
+<head_link id="he113" fromID="o18" fromText="DEA AFD" toID="h111" toText="DEA AFD" />
+<head_link id="he114" fromID="p71" fromText="parents" toID="h112" toText="parents" />
+<head_link id="he115" fromID="p72" fromText="their children" toID="h113" toText="children" />
+<head_link id="he116" fromID="p73" fromText="their" toID="h114" toText="their" />
+<head_link id="he117" fromID="p74" fromText="themselves" toID="h115" toText="themselves" />
+<head_link id="he118" fromID="o19" fromText="DEA" toID="h116" toText="DEA" />
+<name_link id="na0" fromID="g0" fromText="ATLANTA" toID="n0" toText="ATLANTA" />
+<name_link id="na1" fromID="p0" fromText="Chuvalo J. Truesdell" toID="n1" toText="Chuvalo J. Truesdell" />
+<name_link id="na2" fromID="g1" fromText="Atlanta" toID="n2" toText="Atlanta" />
+<name_link id="na3" fromID="g2" fromText="DeKalb" toID="n3" toText="DeKalb" />
+<name_link id="na4" fromID="g3" fromText="ATLANTA, GA." toID="n4" toText="ATLANTA" />
+<name_link id="na5" fromID="g4" fromText="GA." toID="n5" toText="GA." />
+<name_link id="na6" fromID="p4" fromText="DONALD BRISTOL, 41, of Lilburn, Georgia" toID="n6" toText="DONALD BRISTOL" />
+<name_link id="na7" fromID="g5" fromText="Lilburn, Georgia" toID="n7" toText="Lilburn" />
+<name_link id="na8" fromID="g6" fromText="Georgia" toID="n8" toText="Georgia" />
+<name_link id="na9" fromID="p6" fromText="BRISTOL" toID="n9" toText="BRISTOL" />
+<name_link id="na10" fromID="p7" fromText="United States Magistrate Judge E. Clayton Scofield III" toID="n10" toText="E. Clayton Scofield III" />
+<name_link id="na11" fromID="g7" fromText="United States" toID="n11" toText="United States" />
+<name_link id="na12" fromID="p10" fromText="United States Attorney Sally Quillian Yates" toID="n12" toText="Sally Quillian Yates" />
+<name_link id="na13" fromID="g8" fromText="United States" toID="n13" toText="United States" />
+<name_link id="na14" fromID="g12" fromText="DeKalb County" toID="n14" toText="DeKalb County" />
+<name_link id="na15" fromID="p19" fromText="Rodney G. Benson" toID="n15" toText="Rodney G. Benson" />
+<name_link id="na16" fromID="o5" fromText="the DEA Atlanta Field Division (AFD" toID="n16" toText="DEA Atlanta Field Division" />
+<name_link id="na17" fromID="o6" fromText="AFD" toID="n17" toText="AFD" />
+<name_link id="na18" fromID="p37" fromText="Brian D. Lamkin" toID="n18" toText="Brian D. Lamkin" />
+<name_link id="na19" fromID="o7" fromText="FBI Atlanta Field Office" toID="n19" toText="FBI Atlanta Field Office" />
+<name_link id="na20" fromID="g15" fromText="DeKalb County" toID="n20" toText="DeKalb County" />
+<name_link id="na21" fromID="g17" fromText="DeKalb County" toID="n21" toText="DeKalb County" />
+<name_link id="na22" fromID="p43" fromText="DeKalb County Police Chief William O'Brien" toID="n22" toText="William O'Brien" />
+<name_link id="na23" fromID="g18" fromText="DeKalb County" toID="n23" toText="DeKalb County" />
+<name_link id="na24" fromID="p45" fromText="Yates" toID="n24" toText="Yates" />
+<name_link id="na25" fromID="p46" fromText="BRISTOL" toID="n25" toText="BRISTOL" />
+<name_link id="na26" fromID="g19" fromText="DeKalb County" toID="n27" toText="DeKalb County" />
+<name_link id="na27" fromID="p50" fromText="BRISTOL" toID="n28" toText="BRISTOL" />
+<name_link id="na28" fromID="p54" fromText="BRISTOL" toID="n29" toText="BRISTOL" />
+<name_link id="na29" fromID="p56" fromText="BRISTOL" toID="n30" toText="BRISTOL" />
+<name_link id="na30" fromID="p58" fromText="BRISTOL" toID="n31" toText="BRISTOL" />
+<name_link id="na31" fromID="g20" fromText="United States" toID="n32" toText="United States" />
+<name_link id="na32" fromID="o15" fromText="the Federal Bureau of Investigation" toID="n33" toText="Federal Bureau of Investigation" />
+<name_link id="na33" fromID="o16" fromText="the DeKalb County Police Department" toID="n34" toText="DeKalb County Police Department" />
+<name_link id="na34" fromID="o17" fromText="the Drug Enforcement Administration" toID="n35" toText="Drug Enforcement Administration" />
+<name_link id="na35" fromID="p67" fromText="Assistant United States Attorney Jeffrey W. Davis" toID="n36" toText="Jeffrey W. Davis" />
+<name_link id="na36" fromID="g22" fromText="United States" toID="n37" toText="United States" />
+<name_link id="na37" fromID="p69" fromText="DEA AFD's SAC Rodney G. Benson" toID="n38" toText="Rodney G. Benson" />
+<name_link id="na38" fromID="o18" fromText="DEA AFD" toID="n39" toText="DEA AFD" />
+<name_link id="na39" fromID="o19" fromText="DEA" toID="n40" toText="DEA" />
+<relation_link1 id="r0" fromID="e0" fromText="Former DeKalb Police Officer" toID="p1" toText="Former DeKalb Police Officer" />
+<relation_link1 id="r1" fromID="e1" fromText="Former DeKalb Police Officer" toID="p1" toText="Former DeKalb Police Officer" />
+<relation_link1 id="r2" fromID="C0" fromText="DONALD BRISTOL, 41, of Lilburn, Georgia" toID="p4" toText="DONALD BRISTOL, 41, of Lilburn, Georgia" />
+<relation_link1 id="r3" fromID="e2" fromText="United States Magistrate Judge" toID="p8" toText="United States Magistrate Judge" />
+<relation_link1 id="r4" fromID="e3" fromText="United States Attorney" toID="p11" toText="United States Attorney" />
+<relation_link1 id="r5" fromID="e4" fromText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" toID="p20" toText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" />
+<relation_link1 id="r6" fromID="e5" fromText="Special Agent in Charge, FBI Atlanta Field Office" toID="p38" toText="Special Agent in Charge, FBI Atlanta Field Office" />
+<relation_link1 id="r7" fromID="e6" fromText="DeKalb County Police Chief" toID="p44" toText="DeKalb County Police Chief" />
+<relation_link1 id="r8" fromID="e7" fromText="a DeKalb County Police Officer" toID="p47" toText="a DeKalb County Police Officer" />
+<relation_link1 id="r9" fromID="e8" fromText="police officers who will obey the laws that they have sworn to enforce" toID="p13" toText="police officers who will obey the laws that they have sworn to enforce" />
+<relation_link1 id="r10" fromID="e9" fromText="DeKalb County Police Chief" toID="p44" toText="DeKalb County Police Chief" />
+<relation_link1 id="r11" fromID="e10" fromText="a DeKalb County Police Officer" toID="p47" toText="a DeKalb County Police Officer" />
+<relation_link1 id="r12" fromID="e11" fromText="Special Agents of the Federal Bureau of Investigation" toID="p65" toText="Special Agents of the Federal Bureau of Investigation" />
+<relation_link1 id="r13" fromID="e12" fromText="Special Agents of the Drug Enforcement Administration" toID="p66" toText="Special Agents of the Drug Enforcement Administration" />
+<relation_link1 id="r14" fromID="e13" fromText="Assistant United States Attorney" toID="p68" toText="Assistant United States Attorney" />
+<relation_link1 id="r15" fromID="e14" fromText="DEA AFD's SAC" toID="p70" toText="DEA AFD's SAC" />
+<relation_link2 id="re0" fromID="e0" fromText="Former DeKalb Police Officer" toID="o1" toText="Police" />
+<relation_link2 id="re1" fromID="e1" fromText="Former DeKalb Police Officer" toID="g2" toText="DeKalb" />
+<relation_link2 id="re2" fromID="C0" fromText="DONALD BRISTOL, 41, of Lilburn, Georgia" toID="g5" toText="Lilburn, Georgia" />
+<relation_link2 id="re3" fromID="e2" fromText="United States Magistrate Judge" toID="g7" toText="United States" />
+<relation_link2 id="re4" fromID="e3" fromText="United States Attorney" toID="g8" toText="United States" />
+<relation_link2 id="re5" fromID="e4" fromText="Special Agent in Charge (SAC) of the DEA Atlanta Field Division (AFD" toID="o5" toText="the DEA Atlanta Field Division (AFD" />
+<relation_link2 id="re6" fromID="e5" fromText="Special Agent in Charge, FBI Atlanta Field Office" toID="o7" toText="FBI Atlanta Field Office" />
+<relation_link2 id="re7" fromID="e6" fromText="DeKalb County Police Chief" toID="g18" toText="DeKalb County" />
+<relation_link2 id="re8" fromID="e7" fromText="a DeKalb County Police Officer" toID="g19" toText="DeKalb County" />
+<relation_link2 id="re9" fromID="e8" fromText="police officers who will obey the laws that they have sworn to enforce" toID="o2" toText="police" />
+<relation_link2 id="re10" fromID="e9" fromText="DeKalb County Police Chief" toID="o9" toText="Police" />
+<relation_link2 id="re11" fromID="e7" fromText="a DeKalb County Police Officer" toID="o11" toText="Police" />
+<relation_link2 id="re12" fromID="e11" fromText="Special Agents of the Federal Bureau of Investigation" toID="o15" toText="the Federal Bureau of Investigation" />
+<relation_link2 id="re13" fromID="e12" fromText="Special Agents of the Drug Enforcement Administration" toID="o17" toText="the Drug Enforcement Administration" />
+<relation_link2 id="re14" fromID="e13" fromText="Assistant United States Attorney" toID="g22" toText="United States" />
+<relation_link2 id="re15" fromID="e14" fromText="DEA AFD's SAC" toID="o18" toText="DEA AFD" />
+</TAGS>
+</KddTask>

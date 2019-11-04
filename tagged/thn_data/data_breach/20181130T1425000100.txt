@@ -1,0 +1,19 @@
+500 Million Marriott Guest Records Stolen in Starwood Data Breach
+Mohit Kumar
+
+The world's biggest hotel chain Marriott International today disclosed that unknown hackers compromised guest reservation database its subsidiary Starwood hotels and walked away with personal details of about 500 million guests.
+Starwood Hotels and Resorts Worldwide was acquired by Marriott International for $13 billion in 2016. The brand includes St. Regis, Sheraton Hotels & Resorts, W Hotels, Westin Hotels & Resorts, Aloft Hotels, Tribute Portfolio,  Element Hotels, Le Méridien Hotels & Resorts, The Luxury Collection, Four Points by Sheraton and Design Hotels.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The incident is believed to be one of the largest data breaches in history, behind 2016 Yahoo hacking in which nearly 3 billion user accounts were stolen.
+The breach of Starwood properties has been happening since 2014 after an "unauthorized party" managed to gain unauthorized access to the Starwood's guest reservation database, and had copied and encrypted the information.
+Marriott discovered the breach on September 8 this year after it received an alert from an internal security tool "regarding an attempt to access the Starwood guest reservation database in the United States."
+On November 19, the investigation into the incident revealed that there was unauthorized access to the database, containing "guest information relating to reservations at Starwood properties on or before September 10, 2018."
+The stolen hotel database contains sensitive personal information of nearly 327 million guests, including their names, mailing addresses, phone numbers, email addresses, passport numbers, dates of birth, genders, arrival and departure information, reservation date, and communication preferences.
+What's worrisome? For some users, stolen data also includes payment card numbers and payment card expiration dates.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But, according to Marriott, "the payment card numbers were encrypted using Advanced Encryption Standard encryption (AES-128)." Attackers need two components to decrypt the payment card numbers, and "at this point, Marriott has not been able to rule out the possibility that both were taken."
+"The company has not finished identifying duplicate information in the database, but believes it contains information on up to approximately 500 million guests who made a reservation at a Starwood property," the company said in a statement.
+Marriott confirmed that its investigation into the incident only identified unauthorized access to the separate Starwood network and not the Marriott network. It has also begun informing potentially impacted customers of the security incident.
+The hotel company has begun notifying regulatory authorities and also informed law enforcement of the incident and continues to support their investigation.
+Since the data breach falls under European Union's General Data Protection Regulation (GDPR) rules, Marriott could face a maximum fine of 17 million pounds or 4 percent of its annual global revenue, whichever is higher, if found breaking any of these rules.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

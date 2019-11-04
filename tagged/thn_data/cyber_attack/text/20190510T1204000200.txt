@@ -1,0 +1,21 @@
+North Korean Hackers Using ELECTRICFISH Tunnels to Exfiltrate Data
+Swati Khandelwal
+
+The U.S. Department of Homeland Security (DHS) and the FBI have issued another joint alert about a new piece of malware that the prolific North Korean APT hacking group Hidden Cobra has actively been using in the wild.
+Hidden Cobra, also known as Lazarus Group and Guardians of Peace, is believed to be backed by North Korean government and known to launch cyber attacks against media organizations, aerospace, financial and critical infrastructure sectors across the world.
+The hacking group was the same associated with the 2017 WannaCry ransomware menace, the 2014 Sony Pictures hack, and the SWIFT Banking attack in 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, the DHS and the FBI have uncovered a new malware variant, dubbed ELECTRICFISH, that Hidden Cobra hackers have been using for secretly tunneling traffic out of compromised computer systems.
+The malware implements a custom protocol configured with a proxy server/port and proxy username and password, allowing hackers to bypass the compromised system's required authentication to reach outside of the network.
+The ElectricFish malware is a command-line utility whose primary purpose is to quickly funnel traffic between two IP addresses.
+The malware allows Hidden Cobra hackers to configure with a proxy server/port and proxy username and password, making it possible to connect to a system sitting inside of a proxy server, which allows the attackers to bypass the infected system's required authentication.
+"It will attempt to establish TCP sessions with the source IP address and the destination IP address. If a connection is made to both the source and destination IPs, this malicious utility will implement a custom protocol, which will allow traffic to rapidly and efficiently be funneled between two machines," the alert reads.
+"If necessary, the malware can authenticate with a proxy to be able to reach the destination IP address. A configured proxy server is not required for this utility."
+Once ElectricFish authenticates with the configured proxy, it immediately attempts to establish a session with the destination IP address, located outside of the victim network and the source IP address. The attack would use command prompts to specify the source and destination for tunneling traffic.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though the US-CERT website doesn't state whether or if yes, which US organizations have already been infected with this new malware, the joint malware analysis report (MAR) does say that the alert has been issued "to enable network defense and reduce exposure to North Korean government malicious cyber activity."
+This is not the very first time the DHS and the FBI have issued a joint alert to warn users and organizations about the Hidden Cobra malware.
+Late last year, the U.S. departments warned about the FastCash malware that Hidden Cobra had been using since 2016 to compromise payment switch application servers in banks in Africa and Asia in an attempt to cash out bank ATMs.
+Little less than a year ago, the DHS and the FBI also published an advisory alerting users of two different malware—a fully functional Remote Access Trojan (RAT) known as Joanap and a Server Message Block (SMB) worm called Brambul—linked to Hidden Cobra.
+In 2017, the US-CERT also issued an alert detailing Hidden Cobra malware called Delta Charlie—a DDoS tool that they believed the North Korean hackers use to launch distributed denial-of-service attacks against its targets.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

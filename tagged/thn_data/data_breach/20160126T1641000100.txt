@@ -1,0 +1,73 @@
+Password Security — Who's to Blame for Weak Passwords? Users, Really?
+Swati Khandelwal
+
+The majority of Internet users are vulnerable to cyber threats because of their own weaknesses in setting up a strong password. But, are end-users completely responsible for choosing weak passwords?
+Give a thought.
+Recently we wrote an article revealing the list of Worst Passwords of 2015 that proved most of us are still using bad passwords, like '123456' or 'password,' to secure our online accounts that when breached could result in critical information loss.
+If the end-user is to blame for weak password security, then the solution is to educate each and every Internet user to follow the best password security practice.
+But is that really possible? Practically, No.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Even after being aware of best password security measures, do we really set strong passwords for every website? I mean EVERY. Ask yourself.
+Who's Responsible for allowing Users to Set a Weak Password?
+It's the websites and their developers, who didn't enforce a strong password policy on their users and allow them to sign up with weak passwords.
+So what should be the perfect solution, where every registered member of a website or service should have a strong password?
+Most of the Internet users get annoyed while signing up with a website that tells them their password:
+Must be at least 8 characters long
+Must include both uppercase and lowercase
+Must contain at least one special character
+Must have at least one numeric character
+Don't get annoyed of such website, because that website, at least, has its users' safety and security in mind.
+Also Read: Best Password Manager — For Windows, Linux, Mac, Android, iOS and Enterprise
+However, not every site provides a strong password setting mechanism, and this is why users are taking advantage of by relying on absolutely awful passwords.
+"In this age, knowing all we know now, it's negligent of websites to allow users to choose “password” “1234567” and millions of known weak passwords," Dan Goodin, Security Editor at Ars Technica told THN.
+"Security researchers have often talked about developing a means for allowing websites to blacklist a large body of weak passwords — say, every single password in the RockYou dump and other major password breach — but so far I'm not aware of any websites that use something like this. Until they do, passwords will continue to be cracked," he said.
+After Data Breaches, the organizations tend to blame the end user for poor password security. However, they themselves forget to provide them one.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Even Google and Facebook allows users to set a weak password for their accounts, with just minimum 8 character condition, in order to target mass audience with better usability.
+Microsoft MVP of developer security and creator of Have I Been Pwned, Troy Hunt agrees to this by saying:
+"The problem is that website operators are faced with this paradox of security versus usability. If they enforced a minimum of 30 characters they'd be enormously secure... and have no customers."
+"They're forced to dumb down requirements in order to make the system appealing to the vast majority of people who don't use password managers."
+However, to be very clear, there is really no such thing as an unbreakable password. Yes, you heard me right…
+...even Strong Passwords are Crackable.
+Hackers Can Crack Every Single Password
+Stealing password is one of the oldest moves in hackers' book. And before proceeding, you also need to know that how they are able to crack every password that you can ever think of.
+There is a password brute-force technique, where a simple password-cracking tool can test or try every possible combination of letters, numbers, and symbols until it matches your secret or encrypted (hashed) password.
+It requires a lot of computing power to do so, but for shorter passwords, it's a pretty reliable and faster technique.
+However, if your password is strong (with uppercase, lowercase, special and numeric characters), it will be much harder for hackers to break it within reasonable time period — and, therefore, strong passwords are much safer.
+The more complex your password is, the harder it is to guess and the more secure it is.
+How to Create and Manage Strong Passwords
+So, until every or most of the organizations make themselves strong enough to accept only strong passwords from their customers, you need to make a hobby of setting up strong passwords for your online safety.
+Here's How to create strong passwords, which are easy to remember as well.
+Beside this, always remember to create different passwords for different sites. So that if one website is breached, your other online accounts on other sites are secure enough from being hacked.
+"Even when we see fairly stringent minimum requirements, they have no way of enforcing uniqueness, and inevitably many of the passwords they hold have been reused across other services," Hunt added.
+I know this is a real pain to memorize 15+ uniquely random alphanumeric and special character strings like this, '$#%fa4$0', which is only 8 characters in length.
+Can it really be done? 
+Yes, there is a solution, i.e. Password Manager, available to you that can significantly reduce the password memorizing problem, along with a cure for users' bad habit of setting weak passwords.
+Best Password manager exist and have come a very long way in the past few years to help resolve this issue.
+Why Some Websites Block 'Password Managers'?
+Typically, Password Managers generate long, complex, and – most importantly – unique passwords for you, and then store them in encrypted form on either your computer or a remote service. All you need to do is remember one master password to enter all of your others.
+However, the problem is, there are a number of websites, especially banking and financial, that intentionally block password managers, making it difficult for people to use stronger passwords more easily.
+Those sites don't allow you to paste passwords into the login screens, instead forcing you to type the passwords by yourself.
+"Some websites actively block users from creating credentials with password managers," Joseph Cox, freelance security journalist for Motherboard, told The Hacker News.
+"This is because they stop users pasting passwords into the login page, sometimes making it a real hassle to use strong, and more importantly, unique passwords generated by managers. There are some workarounds, but when dealing with something as important as passwords, why to make it harder for users at all?"
+So why do these companies stop users from copying and pasting their passwords?
+These companies say that disabling the pasting of passwords is a security feature that prevents password phishing as well as brute force attacks.
+Although the companies may give a reason that by doing so, they are helping their customers, preventing users from pasting passwords into the login page is pretty weak practice overall.
+"Websites sometimes say they have disabled the pasting of passwords to stop certain types of malware, for example," Cox added. "But the fact is that re-using password is a much, much more common problem than password stealing malware."
+Advanced Password Security Practices
+Both weak and strong passwords are vulnerable to human error, so you need to keep some points in your mind in order to keep your data safe from hackers.
+1 — Use Different Passwords On Different Accounts:
+If you are using the same password twice, it is an invitation for hackers to double-dip into your data.
+If you are reusing your passwords on multiple websites, and a hacker steals one of your passwords, they have got access to all other accounts that use the same password.
+Therefore, mix things up to stay safe. Use different passwords on different websites and accounts.
+Also, you are recommended to change your password every few months, which limits how long a stolen password is useful to a hacker.
+2 — Use a Good Password Manager:
+Password Manager is an excellent solution to your failure to keeping a strong password for different accounts. The issue is that today lots of people subscribe to a lot of different services, and it is usually hard to generate different passwords for every single account.
+Password manager creates a random, different password strings for every website you visit, and then saves them for you, and in general, you only need to remember one master password to open your password manager or vault.
+To do so, you need a good password management tool. Dashlane, KeePassX, and LastPass are some good options for password managers that are free, and you should try one.
+3 — Use Two-Factor Authentication:
+Two-Factor Authentication has always been a hurdle for hackers who managed to steal your account credentials.
+"Instead of tackling the problem with minimum requirements, using approaches such as two-step verification and other fraud detection methods are a more palatable approach to increasing security without losing customers," says Hunt.
+Many websites, like Google and Facebook, offer a mechanism known as Two-factor authentication that besides verifying your password, generates an OTP (One Time Password) verification code that is either sent to your mobile via SMS or phone call.
+Even hackers with your passwords can not easily access your accounts if you are using two-factor authentication.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

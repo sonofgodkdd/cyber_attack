@@ -1,0 +1,24 @@
+Anonymous Hackers Target Israeli Websites and Leak Credentials
+Wang Wei
+
+The infamous hacking group Anonymous that vowed an 'Electronic Holocaust' against Israel and promised to 'erase Israel from cyberspace' on 7th April, managed to launch a cyber attack, beginning Tuesday morning.
+In a spooky video "message to Israel" posted on YouTube March 4, Anonymous declared cyber attack against Israel on April 7 in response to what the group calls 'crimes in the Palestinian territories.'
+Today we noticed a number of hacking incidents against Israeli cyberspace under #OpIsrael. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Anonymous conduct #OpIsrael attack against Israel every year on 7th April and this is the fourth annual cyber attack on Israel in order to protest against Israeli bombing on the Palestinian territory.
+CYBER ATTACKS AGAINST ISRAEL
+Today, Anonymous and Pro-Palestinian hackers targeted dozens of Israeli Government websites, including the Knesset portal (parliament), as well as websites related to the Israeli court system and the Education Ministry.
+In Brief, Anonymous group claimed following cyber attacks:
+At least 150,000 phone numbers, Facebook, Gmail and Hotmail Israel accounts have been hacked.
+The official website of Israeli Singer Shalom Hanoch was hacked.
+The website of the Israeli Center for Educational Excellence was also taken down.
+The hacktivist group replaced the affected websites’ homepages with photos of a Muslim holy site in Jerusalem and militants holding the Islamic State militant flag, with a message signed by "AnonGhost."
+While many website owners have taken the threats seriously. However, Israel's Computer Emergency Response Team issued a statement saying that no major government sites were affected, as they were already aware of this and was ready to foil the attacks.
+ANONYMOUS HACKER LEAKS LOGINS TO 6,000 ROUTERS
+Anonymous published log-in credentials (usernames and passwords) for nearly 6,000 Israel Routers publicly.
+However, router password dump doesn't damage the Israeli cyber-infrastructure instantly, but these sensitive credentials for Israel network could be used later by anyone, hackers or law enforcement, to penetrate into the affected modems.
+In addition, the Israel Security Agency, Shin Bet and the National Cyber Defense Center -- a part of the Prime Minister’s Office, are providing measures to civilian Internet websites on how to defend themselves against the cyber attack.
+In April 2013, the Anonymous unit caused $3 Billion worth of damage to Israel, when the group targeted about 30,000 Israeli bank accounts, 100,000 websites, 5,000 Twitter accounts and over 40,000 Facebook pages under #OpIsrael.
+During Operation OpIsrael, Anonymous hacking group published the personal data of 5,000 Israeli officials over the Internet, which included names, ID numbers and personal email addresses.
+When we talk about the damage caused to Israeli websites, it is a temporary damage caused to the country that could be recovered in few hours or days. However, the damage caused by Israel in the Palestinian territories, including last summer's Gaza conflict, is something that could take years to recover.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

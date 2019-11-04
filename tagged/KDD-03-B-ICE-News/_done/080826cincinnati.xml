@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+August 26, 2008
+Two arrested for roles in marriage fraud scam
+CINCINNATI - Agents from U.S. Immigration and Customs Enforcement (ICE) on Tuesday arrested Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati, on marriage fraud-related charges. U.S. Attorney Gregory G. Lockhart, Southern District of Ohio, and ICE Special Agent in Charge Brian Moskowitz announced the arrests.
+Bakalov, 38, also known as Steven R. Campbell, is charged with conspiracy to commit marriage fraud, punishable by up to five years imprisonment, and with aggravated identity theft, punishable by up to two years imprisonment and requiring a consecutive prison sentence. Harbstreit, 23, is charged with one count of conspiracy to commit marriage fraud. The federal complaint was filed in U.S. District Court in Cincinnati Aug. 26.
+According to an affidavit filed with the complaint, Bakalov, a naturalized U.S. citizen, operated a fraudulent marriage scheme between U.S. citizens and Eastern European aliens. Bakalov, with the assistance of Harbstreit, allegedly recruited women in the Cincinnati to marry men from these countries in exchange for cash. The marriages were allegedly arranged to allow the men to fraudulently obtain U.S. permanent resident cards, also known as "green cards."
+Initial appearances for both were held before a U.S. Magistrate Judge Aug. 26; their detention hearings are scheduled for Aug. 28.
+Lockhart commended the investigation by ICE agents, and Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case.
+Charges filed in a criminal complaint are merely accusations. The defendants should be presumed innocent until and unless the government proves guilt beyond a reasonable doubt.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="17" end="62" text="Two arrested for roles in marriage fraud scam" TYPE="HLS" />
+<person id="p1" start="76" end="133" text="Agents from U.S. Immigration and Customs Enforcement (ICE" TYPE="BAR" />
+<person id="p2" start="155" end="212" text="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" TYPE="NAM" />
+<person id="p3" start="155" end="212" text="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" TYPE="NAM" />
+<person id="p4" start="194" end="212" text="both of Cincinnati" TYPE="HLS" />
+<person id="p5" start="249" end="309" text="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" TYPE="NAM" />
+<person id="p6" start="249" end="262" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p7" start="315" end="358" text="ICE Special Agent in Charge Brian Moskowitz" TYPE="NAM" />
+<person id="p8" start="315" end="342" text="ICE Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p9" start="382" end="427" text="Bakalov, 38, also known as Steven R. Campbell" TYPE="NAM" />
+<person id="p10" start="409" end="427" text="Steven R. Campbell" TYPE="NAM" />
+<person id="p11" start="651" end="665" text="Harbstreit, 23" TYPE="NAM" />
+<person id="p12" start="863" end="898" text="Bakalov, a naturalized U.S. citizen" TYPE="APP" />
+<person id="p13" start="863" end="870" text="Bakalov" TYPE="NAM" />
+<person id="p14" start="872" end="898" text="a naturalized U.S. citizen" TYPE="NOM" />
+<person id="p15" start="946" end="959" text="U.S. citizens" TYPE="BAR" />
+<person id="p16" start="964" end="987" text="Eastern European aliens" TYPE="BAR" />
+<person id="p18" start="989" end="1031" text="Bakalov, with the assistance of Harbstreit" TYPE="NAM" />
+<person id="p19" start="1021" end="1031" text="Harbstreit" TYPE="NAM" />
+<person id="p20" start="1053" end="1076" text="women in the Cincinnati" TYPE="BAR" />
+<person id="p21" start="1086" end="1110" text="men from these countries" TYPE="BAR" />
+<person id="p22" start="1180" end="1187" text="the men" TYPE="NOM" />
+<person id="p23" start="1226" end="1234" text="resident" TYPE="NOMPRE" />
+<person id="p24" start="1295" end="1299" text="both" TYPE="HLS" />
+<person id="p25" start="1317" end="1340" text="a U.S. Magistrate Judge" TYPE="NOM" />
+<person id="p26" start="1324" end="1334" text="Magistrate" TYPE="NOMPRE" />
+<person id="p27" start="1350" end="1355" text="their" TYPE="PRO" />
+<person id="p28" start="1402" end="1410" text="Lockhart" TYPE="NAM" />
+<person id="p29" start="1442" end="1452" text="ICE agents" TYPE="BAR" />
+<person id="p30" start="1458" end="1527" text="Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case" TYPE="NAM" />
+<person id="p31" start="1500" end="1503" text="who" TYPE="WHQ" />
+<person id="p32" start="1458" end="1481" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<person id="p33" start="1591" end="1605" text="The defendants" TYPE="NOM" />
+<organization id="o0" start="88" end="133" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o1" start="130" end="133" text="ICE" TYPE="NAM" />
+<organization id="o2" start="284" end="309" text="Southern District of Ohio" TYPE="NAM" />
+<organization id="o3" start="315" end="318" text="ICE" TYPE="NAMPRE" />
+<organization id="o4" start="768" end="801" text="U.S. District Court in Cincinnati" TYPE="NAM" />
+<organization id="o5" start="1442" end="1445" text="ICE" TYPE="NAM" />
+<geographical-political id="g0" start="63" end="73" text="CINCINNATI" TYPE="NAM" />
+<geographical-political id="g2" start="202" end="212" text="Cincinnati" TYPE="NAM" />
+<geographical-political id="g3" start="249" end="252" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g4" start="791" end="801" text="Cincinnati" TYPE="NAM" />
+<geographical-political id="g5" start="886" end="889" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g6" start="946" end="949" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g1" start="964" end="980" text="Eastern European" TYPE="NAMPRE" />
+<geographical-political id="g7" start="1062" end="1076" text="the Cincinnati" TYPE="NAM" />
+<geographical-political id="g8" start="1095" end="1110" text="these countries" TYPE="NOM" />
+<geographical-political id="g9" start="1211" end="1214" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1319" end="1322" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1468" end="1471" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g12" start="1651" end="1665" text="the government" TYPE="NOM" />
+<falicity id="f0" start="634" end="640" text="prison" TYPE="NOMPRE" />
+<head id="h0" start="17" end="20" text="Two" />
+<head id="h1" start="63" end="73" text="CINCINNATI" />
+<head id="h2" start="76" end="82" text="Agents" />
+<head id="h3" start="88" end="128" text="U.S. Immigration and Customs Enforcement" />
+<head id="h4" start="130" end="133" text="ICE" />
+<head id="h5" start="155" end="171" text="Bozhidar Bakalov" />
+<head id="h6" start="176" end="192" text="Stacy Harbstreit" />
+<head id="h7" start="194" end="198" text="both" />
+<head id="h8" start="202" end="212" text="Cincinnati" />
+<head id="h9" start="263" end="282" text="Gregory G. Lockhart" />
+<head id="h10" start="254" end="262" text="Attorney" />
+<head id="h11" start="249" end="252" text="U.S" />
+<head id="h12" start="284" end="309" text="Southern District of Ohio" />
+<head id="h13" start="343" end="358" text="Brian Moskowitz" />
+<head id="h14" start="327" end="332" text="Agent" />
+<head id="h15" start="315" end="318" text="ICE" />
+<head id="h16" start="382" end="389" text="Bakalov" />
+<head id="h17" start="409" end="427" text="Steven R. Campbell" />
+<head id="h18" start="634" end="640" text="prison" />
+<head id="h19" start="651" end="661" text="Harbstreit" />
+<head id="h20" start="768" end="787" text="U.S. District Court" />
+<head id="h21" start="791" end="801" text="Cincinnati" />
+<head id="h22" start="863" end="870" text="Bakalov" />
+<head id="h23" start="891" end="898" text="citizen" />
+<head id="h24" start="886" end="889" text="U.S" />
+<head id="h25" start="951" end="959" text="citizens" />
+<head id="h26" start="946" end="949" text="U.S" />
+<head id="h27" start="981" end="987" text="aliens" />
+<head id="h28" start="964" end="980" text="Eastern European" />
+<head id="h29" start="989" end="996" text="Bakalov" />
+<head id="h30" start="1021" end="1031" text="Harbstreit" />
+<head id="h31" start="1053" end="1058" text="women" />
+<head id="h32" start="1066" end="1076" text="Cincinnati" />
+<head id="h33" start="1086" end="1089" text="men" />
+<head id="h34" start="1101" end="1110" text="countries" />
+<head id="h35" start="1184" end="1187" text="men" />
+<head id="h36" start="1211" end="1214" text="U.S" />
+<head id="h37" start="1226" end="1234" text="resident" />
+<head id="h38" start="1295" end="1299" text="both" />
+<head id="h39" start="1335" end="1340" text="Judge" />
+<head id="h40" start="1319" end="1322" text="U.S" />
+<head id="h41" start="1324" end="1334" text="Magistrate" />
+<head id="h42" start="1350" end="1355" text="their" />
+<head id="h43" start="1402" end="1410" text="Lockhart" />
+<head id="h44" start="1446" end="1452" text="agents" />
+<head id="h45" start="1442" end="1445" text="ICE" />
+<head id="h46" start="1482" end="1498" text="J. Richard Chema" />
+<head id="h47" start="1500" end="1503" text="who" />
+<head id="h48" start="1473" end="1481" text="Attorney" />
+<head id="h49" start="1468" end="1471" text="U.S" />
+<head id="h50" start="1595" end="1605" text="defendants" />
+<head id="h51" start="1655" end="1665" text="government" />
+<name id="n0" start="63" end="73" text="CINCINNATI" />
+<name id="n1" start="88" end="128" text="U.S. Immigration and Customs Enforcement" />
+<name id="n2" start="130" end="133" text="ICE" />
+<name id="n3" start="155" end="171" text="Bozhidar Bakalov" />
+<name id="n4" start="176" end="192" text="Stacy Harbstreit" />
+<name id="n5" start="202" end="212" text="Cincinnati" />
+<name id="n6" start="263" end="282" text="Gregory G. Lockhart" />
+<name id="n7" start="249" end="252" text="U.S" />
+<name id="n8" start="284" end="309" text="Southern District of Ohio" />
+<name id="n9" start="343" end="358" text="Brian Moskowitz" />
+<name id="n10" start="315" end="318" text="ICE" />
+<name id="n11" start="382" end="389" text="Bakalov" />
+<name id="n12" start="409" end="427" text="Steven R. Campbell" />
+<name id="n13" start="651" end="661" text="Harbstreit" />
+<name id="n14" start="768" end="787" text="U.S. District Court" />
+<name id="n15" start="791" end="801" text="Cincinnati" />
+<name id="n16" start="863" end="870" text="Bakalov" />
+<name id="n17" start="886" end="889" text="U.S" />
+<name id="n18" start="946" end="949" text="U.S" />
+<name id="n19" start="964" end="980" text="Eastern European" />
+<name id="n20" start="989" end="996" text="Bakalov" />
+<name id="n21" start="1021" end="1031" text="Harbstreit" />
+<name id="n22" start="1066" end="1076" text="Cincinnati" />
+<name id="n23" start="1211" end="1214" text="U.S" />
+<name id="n24" start="1319" end="1322" text="U.S" />
+<name id="n25" start="1402" end="1410" text="Lockhart" />
+<name id="n26" start="1442" end="1445" text="ICE" />
+<name id="n27" start="1482" end="1498" text="J. Richard Chema" />
+<name id="n28" start="1468" end="1471" text="U.S" />
+<employment-mention id="e0" start="249" end="262" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="1317" end="1340" text="a U.S. Magistrate Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="1458" end="1481" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="194" end="212" text="both of Cincinnati" TYPE="Preposition" />
+<CRRE id="C1" start="872" end="898" text="a naturalized U.S. citizen" TYPE="PreMod" />
+<CRRE id="C2" start="946" end="959" text="U.S. citizens" TYPE="PreMod" />
+<CRRE id="C3" start="964" end="987" text="Eastern European aliens" TYPE="PreMod" />
+<CRRE id="C4" start="1053" end="1076" text="women in the Cincinnati" TYPE="Preposition" />
+<CRRE id="C5" start="1086" end="1110" text="men from these countries" TYPE="Preposition" />
+<M id="M0" start="76" end="133" text="Agents from U.S. Immigration and Customs Enforcement (ICE" TYPE="Preposition" />
+<M id="M1" start="249" end="309" text="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" TYPE="Formulaic" />
+<M id="M2" start="315" end="342" text="ICE Special Agent in Charge" TYPE="PreMod" />
+<M id="M3" start="1442" end="1452" text="ICE agents" TYPE="PreMod" />
+<entity_link id="en0" fromID="o1" fromText="ICE" toID="o0" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en1" fromID="g2" fromText="Cincinnati" toID="g0" toText="CINCINNATI" />
+<entity_link id="en2" fromID="p4" fromText="both of Cincinnati" toID="p0" toText="Two arrested for roles in marriage fraud scam" />
+<entity_link id="en3" fromID="p6" fromText="U.S. Attorney" toID="p5" toText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" />
+<entity_link id="en4" fromID="p8" fromText="ICE Special Agent in Charge" toID="p7" toText="ICE Special Agent in Charge Brian Moskowitz" />
+<entity_link id="en5" fromID="o3" fromText="ICE" toID="o0" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en6" fromID="p9" fromText="Bakalov, 38, also known as Steven R. Campbell" toID="p2" toText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" />
+<entity_link id="en7" fromID="p10" fromText="Steven R. Campbell" toID="p9" toText="Bakalov, 38, also known as Steven R. Campbell" />
+<entity_link id="en8" fromID="p11" fromText="Harbstreit, 23" toID="p3" toText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" />
+<entity_link id="en9" fromID="g4" fromText="Cincinnati" toID="g2" toText="Cincinnati" />
+<entity_link id="en10" fromID="p13" fromText="Bakalov" toID="p12" toText="Bakalov, a naturalized U.S. citizen" />
+<entity_link id="en11" fromID="p13" fromText="Bakalov" toID="p9" toText="Bakalov, 38, also known as Steven R. Campbell" />
+<entity_link id="en12" fromID="p14" fromText="a naturalized U.S. citizen" toID="p13" toText="Bakalov" />
+<entity_link id="en13" fromID="g5" fromText="U.S" toID="g3" toText="U.S" />
+<entity_link id="en14" fromID="g6" fromText="U.S" toID="g5" toText="U.S" />
+<entity_link id="en15" fromID="p18" fromText="Bakalov, with the assistance of Harbstreit" toID="p12" toText="Bakalov, a naturalized U.S. citizen" />
+<entity_link id="en16" fromID="p19" fromText="Harbstreit" toID="p11" toText="Harbstreit, 23" />
+<entity_link id="en17" fromID="g7" fromText="the Cincinnati" toID="g4" toText="Cincinnati" />
+<entity_link id="en18" fromID="g8" fromText="these countries" toID="g1" toText="Eastern European" />
+<entity_link id="en19" fromID="p22" fromText="the men" toID="p21" toText="men from these countries" />
+<entity_link id="en20" fromID="g9" fromText="U.S" toID="g6" toText="U.S" />
+<entity_link id="en21" fromID="p24" fromText="both" toID="p4" toText="both of Cincinnati" />
+<entity_link id="en22" fromID="g10" fromText="U.S" toID="g9" toText="U.S" />
+<entity_link id="en23" fromID="p27" fromText="their" toID="p24" toText="both" />
+<entity_link id="en24" fromID="p28" fromText="Lockhart" toID="p5" toText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" />
+<entity_link id="en25" fromID="p29" fromText="ICE agents" toID="p1" toText="Agents from U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en26" fromID="o5" fromText="ICE" toID="o3" toText="ICE" />
+<entity_link id="en27" fromID="p31" fromText="who" toID="p30" toText="Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case" />
+<entity_link id="en28" fromID="p32" fromText="Assistant U.S. Attorney" toID="p30" toText="Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case" />
+<entity_link id="en29" fromID="g11" fromText="U.S" toID="g10" toText="U.S" />
+<entity_link id="en30" fromID="g12" fromText="the government" toID="g11" toText="U.S" />
+<head_link id="he0" fromID="p0" fromText="Two arrested for roles in marriage fraud scam" toID="h0" toText="Two" />
+<head_link id="he1" fromID="g0" fromText="CINCINNATI" toID="h1" toText="CINCINNATI" />
+<head_link id="he2" fromID="p1" fromText="Agents from U.S. Immigration and Customs Enforcement (ICE" toID="h2" toText="Agents" />
+<head_link id="he3" fromID="o0" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h3" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he5" fromID="o1" fromText="ICE" toID="h4" toText="ICE" />
+<head_link id="he6" fromID="p2" fromText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" toID="h5" toText="Bozhidar Bakalov" />
+<head_link id="he7" fromID="p3" fromText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" toID="h6" toText="Stacy Harbstreit" />
+<head_link id="he8" fromID="p4" fromText="both of Cincinnati" toID="h7" toText="both" />
+<head_link id="he9" fromID="g2" fromText="Cincinnati" toID="h8" toText="Cincinnati" />
+<head_link id="he10" fromID="p5" fromText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" toID="h9" toText="Gregory G. Lockhart" />
+<head_link id="he11" fromID="p6" fromText="U.S. Attorney" toID="h10" toText="Attorney" />
+<head_link id="he12" fromID="g3" fromText="U.S" toID="h11" toText="U.S" />
+<head_link id="he13" fromID="o2" fromText="Southern District of Ohio" toID="h12" toText="Southern District of Ohio" />
+<head_link id="he14" fromID="p7" fromText="ICE Special Agent in Charge Brian Moskowitz" toID="h13" toText="Brian Moskowitz" />
+<head_link id="he15" fromID="p8" fromText="ICE Special Agent in Charge" toID="h14" toText="Agent" />
+<head_link id="he16" fromID="o3" fromText="ICE" toID="h15" toText="ICE" />
+<head_link id="he17" fromID="p9" fromText="Bakalov, 38, also known as Steven R. Campbell" toID="h16" toText="Bakalov" />
+<head_link id="he18" fromID="p10" fromText="Steven R. Campbell" toID="h17" toText="Steven R. Campbell" />
+<head_link id="he19" fromID="f0" fromText="prison" toID="h18" toText="prison" />
+<head_link id="he20" fromID="p11" fromText="Harbstreit, 23" toID="h19" toText="Harbstreit" />
+<head_link id="he21" fromID="o4" fromText="U.S. District Court in Cincinnati" toID="h20" toText="U.S. District Court" />
+<head_link id="he22" fromID="g4" fromText="Cincinnati" toID="h21" toText="Cincinnati" />
+<head_link id="he23" fromID="p13" fromText="Bakalov" toID="h22" toText="Bakalov" />
+<head_link id="he24" fromID="p14" fromText="a naturalized U.S. citizen" toID="h23" toText="citizen" />
+<head_link id="he25" fromID="g5" fromText="U.S" toID="h24" toText="U.S" />
+<head_link id="he26" fromID="p15" fromText="U.S. citizens" toID="h25" toText="citizens" />
+<head_link id="he27" fromID="g6" fromText="U.S" toID="h26" toText="U.S" />
+<head_link id="he28" fromID="p16" fromText="Eastern European aliens" toID="h27" toText="aliens" />
+<head_link id="he4" fromID="g1" fromText="Eastern European" toID="h28" toText="Eastern European" />
+<head_link id="he29" fromID="p18" fromText="Bakalov, with the assistance of Harbstreit" toID="h29" toText="Bakalov" />
+<head_link id="he30" fromID="p19" fromText="Harbstreit" toID="h30" toText="Harbstreit" />
+<head_link id="he31" fromID="p20" fromText="women in the Cincinnati" toID="h31" toText="women" />
+<head_link id="he32" fromID="g7" fromText="the Cincinnati" toID="h32" toText="Cincinnati" />
+<head_link id="he33" fromID="p21" fromText="men from these countries" toID="h33" toText="men" />
+<head_link id="he34" fromID="g8" fromText="these countries" toID="h34" toText="countries" />
+<head_link id="he35" fromID="p22" fromText="the men" toID="h35" toText="men" />
+<head_link id="he36" fromID="g9" fromText="U.S" toID="h36" toText="U.S" />
+<head_link id="he37" fromID="p23" fromText="resident" toID="h37" toText="resident" />
+<head_link id="he38" fromID="p24" fromText="both" toID="h38" toText="both" />
+<head_link id="he39" fromID="p25" fromText="a U.S. Magistrate Judge" toID="h39" toText="Judge" />
+<head_link id="he40" fromID="g10" fromText="U.S" toID="h40" toText="U.S" />
+<head_link id="he41" fromID="p26" fromText="Magistrate" toID="h41" toText="Magistrate" />
+<head_link id="he42" fromID="p27" fromText="their" toID="h42" toText="their" />
+<head_link id="he43" fromID="p28" fromText="Lockhart" toID="h43" toText="Lockhart" />
+<head_link id="he44" fromID="p29" fromText="ICE agents" toID="h44" toText="agents" />
+<head_link id="he45" fromID="o5" fromText="ICE" toID="h45" toText="ICE" />
+<head_link id="he46" fromID="p30" fromText="Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case" toID="h46" toText="J. Richard Chema" />
+<head_link id="he47" fromID="p31" fromText="who" toID="h47" toText="who" />
+<head_link id="he48" fromID="p32" fromText="Assistant U.S. Attorney" toID="h48" toText="Attorney" />
+<head_link id="he49" fromID="g11" fromText="U.S" toID="h49" toText="U.S" />
+<head_link id="he50" fromID="p33" fromText="The defendants" toID="h50" toText="defendants" />
+<head_link id="he51" fromID="g12" fromText="the government" toID="h51" toText="government" />
+<name_link id="na0" fromID="g0" fromText="CINCINNATI" toID="n0" toText="CINCINNATI" />
+<name_link id="na1" fromID="o0" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n1" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na3" fromID="o1" fromText="ICE" toID="n2" toText="ICE" />
+<name_link id="na4" fromID="p2" fromText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" toID="n3" toText="Bozhidar Bakalov" />
+<name_link id="na5" fromID="p3" fromText="Bozhidar Bakalov and Stacy Harbstreit, both of Cincinnati" toID="n4" toText="Stacy Harbstreit" />
+<name_link id="na6" fromID="g2" fromText="Cincinnati" toID="n5" toText="Cincinnati" />
+<name_link id="na7" fromID="p5" fromText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" toID="n6" toText="Gregory G. Lockhart" />
+<name_link id="na8" fromID="g3" fromText="U.S" toID="n7" toText="U.S" />
+<name_link id="na9" fromID="o2" fromText="Southern District of Ohio" toID="n8" toText="Southern District of Ohio" />
+<name_link id="na10" fromID="p7" fromText="ICE Special Agent in Charge Brian Moskowitz" toID="n9" toText="Brian Moskowitz" />
+<name_link id="na11" fromID="o3" fromText="ICE" toID="n10" toText="ICE" />
+<name_link id="na12" fromID="p9" fromText="Bakalov, 38, also known as Steven R. Campbell" toID="n11" toText="Bakalov" />
+<name_link id="na13" fromID="p10" fromText="Steven R. Campbell" toID="n12" toText="Steven R. Campbell" />
+<name_link id="na14" fromID="p11" fromText="Harbstreit, 23" toID="n13" toText="Harbstreit" />
+<name_link id="na15" fromID="o4" fromText="U.S. District Court in Cincinnati" toID="n14" toText="U.S. District Court" />
+<name_link id="na16" fromID="g4" fromText="Cincinnati" toID="n15" toText="Cincinnati" />
+<name_link id="na17" fromID="p13" fromText="Bakalov" toID="n16" toText="Bakalov" />
+<name_link id="na18" fromID="g5" fromText="U.S" toID="n17" toText="U.S" />
+<name_link id="na19" fromID="g6" fromText="U.S" toID="n18" toText="U.S" />
+<name_link id="na2" fromID="g1" fromText="Eastern European" toID="n19" toText="Eastern European" />
+<name_link id="na20" fromID="p18" fromText="Bakalov, with the assistance of Harbstreit" toID="n20" toText="Bakalov" />
+<name_link id="na21" fromID="p19" fromText="Harbstreit" toID="n21" toText="Harbstreit" />
+<name_link id="na22" fromID="g7" fromText="the Cincinnati" toID="n22" toText="Cincinnati" />
+<name_link id="na23" fromID="g9" fromText="U.S" toID="n23" toText="U.S" />
+<name_link id="na24" fromID="g10" fromText="U.S" toID="n24" toText="U.S" />
+<name_link id="na25" fromID="p28" fromText="Lockhart" toID="n25" toText="Lockhart" />
+<name_link id="na26" fromID="o5" fromText="ICE" toID="n26" toText="ICE" />
+<name_link id="na27" fromID="p30" fromText="Assistant U.S. Attorney J. Richard Chema, who is prosecuting the case" toID="n27" toText="J. Richard Chema" />
+<name_link id="na28" fromID="g11" fromText="U.S" toID="n28" toText="U.S" />
+<relation_link1 id="r0" fromID="M0" fromText="Agents from U.S. Immigration and Customs Enforcement (ICE" toID="p1" toText="Agents from U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link1 id="r1" fromID="C0" fromText="both of Cincinnati" toID="p4" toText="both of Cincinnati" />
+<relation_link1 id="r2" fromID="e0" fromText="U.S. Attorney" toID="p6" toText="U.S. Attorney" />
+<relation_link1 id="r3" fromID="M1" fromText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" toID="p5" toText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" />
+<relation_link1 id="r4" fromID="M2" fromText="ICE Special Agent in Charge" toID="p8" toText="ICE Special Agent in Charge" />
+<relation_link1 id="r5" fromID="C1" fromText="a naturalized U.S. citizen" toID="p14" toText="a naturalized U.S. citizen" />
+<relation_link1 id="r6" fromID="C2" fromText="U.S. citizens" toID="p15" toText="U.S. citizens" />
+<relation_link1 id="r7" fromID="C3" fromText="Eastern European aliens" toID="p16" toText="Eastern European aliens" />
+<relation_link1 id="r8" fromID="C4" fromText="women in the Cincinnati" toID="p20" toText="women in the Cincinnati" />
+<relation_link1 id="r9" fromID="C5" fromText="men from these countries" toID="p21" toText="men from these countries" />
+<relation_link1 id="r10" fromID="e1" fromText="a U.S. Magistrate Judge" toID="p25" toText="a U.S. Magistrate Judge" />
+<relation_link1 id="r11" fromID="M3" fromText="ICE agents" toID="p29" toText="ICE agents" />
+<relation_link1 id="r12" fromID="e2" fromText="Assistant U.S. Attorney" toID="p32" toText="Assistant U.S. Attorney" />
+<relation_link2 id="re0" fromID="M0" fromText="Agents from U.S. Immigration and Customs Enforcement (ICE" toID="o0" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link2 id="re1" fromID="C0" fromText="both of Cincinnati" toID="g2" toText="Cincinnati" />
+<relation_link2 id="re2" fromID="e0" fromText="U.S. Attorney" toID="g3" toText="U.S" />
+<relation_link2 id="re3" fromID="M1" fromText="U.S. Attorney Gregory G. Lockhart, Southern District of Ohio" toID="o2" toText="Southern District of Ohio" />
+<relation_link2 id="re4" fromID="M2" fromText="ICE Special Agent in Charge" toID="o3" toText="ICE" />
+<relation_link2 id="re5" fromID="C1" fromText="a naturalized U.S. citizen" toID="g5" toText="U.S" />
+<relation_link2 id="re6" fromID="C2" fromText="U.S. citizens" toID="g6" toText="U.S" />
+<relation_link2 id="re7" fromID="C3" fromText="Eastern European aliens" toID="g1" toText="Eastern European" />
+<relation_link2 id="re8" fromID="C4" fromText="women in the Cincinnati" toID="g7" toText="the Cincinnati" />
+<relation_link2 id="re9" fromID="C5" fromText="men from these countries" toID="g8" toText="these countries" />
+<relation_link2 id="re10" fromID="e1" fromText="a U.S. Magistrate Judge" toID="g10" toText="U.S" />
+<relation_link2 id="re11" fromID="M3" fromText="ICE agents" toID="o5" toText="ICE" />
+<relation_link2 id="re12" fromID="e2" fromText="Assistant U.S. Attorney" toID="g11" toText="U.S" />
+</TAGS>
+</KddTask>

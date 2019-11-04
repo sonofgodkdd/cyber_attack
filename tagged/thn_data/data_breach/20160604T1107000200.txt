@@ -1,0 +1,39 @@
+Has Your TeamViewer Account Been Hacked? Here's What to Do Immediately
+Swati Khandelwal
+
+Do you have remote login software TeamViewer installed on your desktop?
+If Yes, then it could be possible that your system can be accessed by attackers to steal your personal details, including your bank and PayPal accounts, as several reports on Reddit and Twitter suggests.
+According to recent reports, the popular TeamViewer software that is used to remotely control PCs appears to have been HACKED! 
+Over the past few days, a number of users headed on to the Internet forums to report that unknown attackers are taking control of their computers through their TeamViewer accounts and, in some cases, trying to steal money through services like eBay or PayPal.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This same behavior has also been reported by the IBM security researcher Nick Bradley, who said:
+"In the middle of my gaming session, I lose control of my mouse, and the TeamViewer window pops up in the bottom right corner of my screen. As soon as I realize what is happening, I kill the application. Then it dawns on me: I have other machines running TeamViewer!"
+But, the question still remains: What really happened to TeamViewer?
+Actually, no one knows, at least, for now. 
+Because no evidence indicates a system-wide security breach at TeamViewer that could have given the attackers some sort of backdoor into users' PCs.
+TeamViewer has also reacted by strongly denying the claims that the intrusions are the result of a hack on TeamViewer's network. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Instead, the account takeovers are the result of end users' carelessness. Moreover, the company referred to the recent widespread "mega breaches" that have dumped over 642 Million passwords over the past month.
+"As you have probably heard, there have been unprecedented large-scale data thefts on popular social media platforms and other web service providers," the company wrote. 
+"Unfortunately, credentials stolen in these external breaches have been used to access TeamViewer accounts, as well as other services."
+However, TeamViewer stands strong by its statement that a Denial of Service (DoS) attack knocked some of its servers offline on Wednesday, but the company managed to bring them back online after a few hours.
+Also Read: Best Password Manager — For Windows, Linux, Mac, Android, iOS and Enterprise
+The company advised its users to avoid careless use of its service and always:
+Use a different password for each account.
+Use two-factor authentication.
+Use a password manager.
+Don't tell other people your passwords.
+Moreover, TeamViewer also announced two new features on Friday aimed at boosting its users' security after numerous users flocked online to complain about getting hacked through its service.
+The two new features are:
+Trusted Devices
+Data Integrity
+The Trusted Devices feature is specifically designed to prevent hackers from taking over your TeamViewer account. The feature allows you to approve the new device as trusted before it can access an existing TeamViewer account for the first time. 
+The device approval process is conducted by clicking a validation link sent to the account owner's email address.
+The second feature, dubbed Data Integrity, works by automatically monitoring a user's account activity. If it detects any unusual behavior that might suggest account has been hacked, the service forces users to reset their password.
+Here's What you should do:
+TeamViewer users are strongly recommended to change their account passwords and use a strong one, and of course, NOT to use the same credentials across multiple sites.
+I know, remembering different passwords for different accounts is a real pain, but you can use a good password manager to solve this issue.
+Meanwhile, users should also ensure their TeamViewer accounts are protected with a randomly generated password that is at least 10 characters long, contains numbers, symbols, and uppercase and lowercase letters, and is unique.
+It is always a good idea to run the TeamViewer software only when it's truly needed, instead of allowing it to auto-start each time your PC is turned on.
+If you have also experienced something fishy with your TeamViewer account, let us know in the comments below.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

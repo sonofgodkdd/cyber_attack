@@ -1,0 +1,20 @@
+Hackers Destroyed VFEmail Service – Deleted Its Entire Data and Backups
+Swati Khandelwal
+
+What could be more frightening than a service informing you that all your data is gone—every file and every backup servers are entirely wiped out?
+The worst nightmare of its kind. Right?
+But that's precisely what just happened this week with VFEmail.net, a US-based secure email provider that lost all data and backup files for its users after unknown hackers destroyed its entire U.S. infrastructure, wiping out almost two decades' worth of data and backups in a matter of few hours for no apparent reason.
+Started in 2001 by Rick Romero, VFEmail provides secure, private email services to companies and end users, both free and paid-for.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Describing the attack as "catastrophic," the privacy-focused email service provider revealed that the attack took place on February 11 and that "all data" on their US servers—both the primary and the backup systems—has been completely wiped out, and it's seemingly beyond recovery.
+"Yes, @VFEmail is effectively gone," Romero wrote on Twitter Tuesday morning. "It will likely not return. I never thought anyone would care about my labor of love so much that they'd want to completely and thoroughly destroy it."
+The VFEmail team detected the attack on February 11 itself after it noticed all the servers for his service went offline without any notice.
+After two hours, the company reported that the attackers had been caught "in the middle of formatting its backup server," saying that it "fear all US-based data may be lost." 
+However, shortly after that VFEmail confirmed that "all the disks on every server" had been wiped out, virtually erasing the company's entire infrastructure, including mail hosts, virtual machine hosts, and a SQL server cluster, within just a few hours.
+"Strangely, not all VMs shared the same authentication, but all were destroyed," VFEmail explained. "This was more than a multi-password via ssh exploit, and there was no ransom. Just attack and destroy,"—a rare example of a purely destructive attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it is yet unclear who was behind this destructive attack and how the hack was pulled off, a statement posted to the company's website pointed to an IP address 94[.]155[.]49[.]9 and the username "aktv," which appears to be registered in Bulgaria.
+Romero believes the hacker behind the above-mentioned IP address most likely used a virtual machine and multiple means of access onto the VFEmail infrastructure to carry out the attack, and as a result, no method of protection, such as 2-factor authentication, would have protected VFEmail from the intrusion.
+The official website has now been restored and running, but all secondary domains still remain unavailable. If you are an existing user, expect to find your inboxes empty.
+This isn't the first time the company has been attacked. In 2015, a group of hackers known as the "Armada Collective," who also targeted Protonmail, Hushmail, and Runbox, launched a DDoS attack against VFEmail after it refused to pay a ransom.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

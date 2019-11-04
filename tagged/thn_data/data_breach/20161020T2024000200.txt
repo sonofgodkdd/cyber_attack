@@ -1,0 +1,23 @@
+Over 43 Million Weebly Accounts Hacked; Foursquare Also Hit By Data Breach
+Mohit Kumar
+
+2016 is the year of data breaches that has made almost every major companies victims to the cyber attacks, resulting in compromise of over billion of online users accounts.
+Weebly and Foursquare are the latest victims of the massive data breach, joining the list of "Mega-Breaches" revealed in recent months, including LinkedIn, MySpace, VK.com, Tumblr, Dropbox, and the biggest one -- Yahoo.
+Details for over 43 Million users have been stolen from the San Francisco-based website building service Weebly, according to breach notification site LeakedSource, who had already indexed a copy of the stolen data that it received from an anonymous source.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In addition, LeakedSource posted details of the cyber attack in its blog post on Thursday explaining what happened. The attack believed to have been carried out in February 2016.
+"Unlike nearly every other hack, the Co-founder and CTO of Weebly Chris Fanini fortunately did not have his head buried deeply in the sand and actually responded to our communication requests," LeakedSource says.
+"We have been working with them to ensure the security of their users meaning password resets as well as notification emails are now being sent out."
+The stolen data contains personal data of 43,430,316 Weebly customers, which includes usernames, email addresses, passwords, and IP addresses.
+Stolen passwords were stored using the strong hashing function "BCrypt," making it difficult for hackers to obtain user's actual password.
+These password hashes also believed to have used a Salt – a random string added to the hashing process to further strengthen passwords in order to make it more difficult for hackers to crack them.
+Weebly confirmed the data breach, saying the company has started notifying affected customers and already initiated password reset process and new password requirements.
+"Weebly recently became aware that an unauthorized party obtained email addresses and/or usernames, IP addresses and encrypted (bcrypt hashed) passwords for a large number of customers," the company said.
+"At this point, we do not have evidence of any customer website being improperly accessed. We do not store any full credit card numbers on Weebly servers, and at this time we’re not aware that any credit card information that can be used for fraudulent charges was part of this incident."
+LeakedSource has also published details of a data breach affecting more than 22.5 million customers of location-based check-in service Foursquare, though the company denied the claims.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Takeaway:
+Even if stolen passwords are much difficult to crack, it's still a good idea to change the password for your Weebly account, just to be safe.
+Also change passwords for other online accounts immediately, especially if you use the same password for multiple websites.
+You can also use a good password manager to create and remember complex passwords for different sites. We have listed some best password managers that would help you understand the importance of password manager and choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

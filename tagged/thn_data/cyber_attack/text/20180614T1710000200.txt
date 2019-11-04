@@ -1,0 +1,17 @@
+Chinese Hackers Carried Out Country-Level Watering Hole Attack
+Swati Khandelwal
+Cybersecurity researchers have uncovered an espionage campaign that has targeted a national data center of an unnamed central Asian country in order to conduct watering hole attacks.
+The campaign is believed to be active covertly since fall 2017 but was spotted in March by security researchers from Kaspersky Labs, who have attributed these attacks to a Chinese-speaking threat actor group called LuckyMouse.
+LuckyMouse, also known as Iron Tiger, EmissaryPanda, APT 27 and Threat Group-3390, is the same group of Chinese hackers who was found targeting Asian countries with Bitcoin mining malware early this year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The group has been active since at least 2010 and was behind many previous attack campaigns resulting in the theft of massive amounts of data from the directors and managers of US-based defense contractors.
+This time the group chose a national data center as its target from an unnamed country in Central Asia in an attempt to gain "access to a wide range of government resources at one fell swoop."
+According to the researchers, the group injected malicious JavaScript code into the official government websites associated with the data center in order to conduct watering hole attacks.
+Although LuckyMouse has been spotted using a widely used Microsoft Office vulnerability (CVE-2017-11882) to weaponize Office documents in the past, researchers have no proofs of this technique being used in this particular attack against the data center.
+The initial attack vector used in the attack against the data center is unclear, but researchers believe LuckyMouse possibly had conducted watering hole or phishing attacks to compromise accounts belonging to employees at the national data center.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attack against the data center eventually infected the targeted system with a piece of malware called HyperBro, a Remote Access Trojan (RAT) deployed to maintain persistence in the targeted system and for remote administration.
+"There were traces of HyperBro in the infected data center from mid-November 2017. Shortly after that different users in the country started being redirected to the malicious domain update.iaacstudio[.]com as a result of the waterholing of government websites," the researchers said in a blog post published today."These events suggest that the data center infected with HyperBro and the waterholing campaign are connected."As a result of the waterholing attack, the compromised government websites redirected the country's visitors to either penetration testing suite Browser Exploitation Framework (BeEF) that focuses on the web browser, or the ScanBox reconnaissance framework, which perform the same tasks as a keylogger.
+The main command and control (C&C) server used in this attack is hosted on an IP address which belongs to a Ukrainian ISP, specifically to a MikroTik router running a firmware version released in March 2016.
+Researchers believe the Mikrotik router was explicitly hacked for the campaign in order to process the HyperBro malware's HTTP requests without detection.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

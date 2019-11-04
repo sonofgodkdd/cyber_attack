@@ -1,0 +1,8 @@
+Reserve Bank of Australia Hacked by Chinese malware
+Mohit Kumar
+If hackers want to get into your computer network, they will find a way. You can make it harder but you can’t stop them.  (adsbygoogle = window.adsbygoogle || []).push({}); According to Australian Financial Review report on Monday, the Reserve Bank of Australia (RBA) was hacked by hackers who infiltrated its networks and allegedly stole information using a Chinese piece of malware.
+After investigations they found multiple computers had been compromised by malicious software seeking intelligence. Several RBA staffers including heads of department were sent the malicious emails over two days, but it isn't known if the malware executed and succeeded in capturing information from the compromised computers.
+ The malware consisted of a web address that linked to a zip file that contained a Trojan which at the time was not detected by the anti-virus program, according to the bank. 
+A Defence department spokesperson said: “The government does not discuss specific cyber incidents, activities or capabilities. [Doing so] could jeopardise ongoing investigations, monitoring of cyber incidents and the ability to protect information and networks.”
+Documents also showed that six users clicked on the link contained in the mail. All of the six workstations affected did not have local administrator rights, so the virus could not spread.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

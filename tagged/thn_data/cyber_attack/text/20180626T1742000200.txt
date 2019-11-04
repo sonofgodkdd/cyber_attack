@@ -1,0 +1,18 @@
+New Malware Family Uses Custom UDP Protocol for C&C Communications
+Wang Wei
+
+Security researchers have uncovered a new highly-targeted cyber espionage campaign, which is believed to be associated with a hacking group behind KHRAT backdoor Trojan and has been targeting organizations in South East Asia.
+According to researchers from Palo Alto, the hacking group, which they dubbed RANCOR, has been found using two new malware families—PLAINTEE and DDKONG—to target political entities primarily in Singapore and Cambodia.
+However, in previous years, threat actors behind KHRAT Trojan were allegedly linked to a Chinese cyber espionage group, known as DragonOK.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While monitoring the C&C infrastructure associated with KHRAT trojan, researchers identified multiple variants of these two malware families, where PLAINTEE appears to be the latest weapon in the group's arsenal that uses a custom UDP protocol to communicate with its remote command-and-control server.
+To deliver both PLAINTEE and DDKONG, attackers use spear phishing messages with different infection vectors, including malicious macros inside Microsoft Office Excel file, HTA Loader, and DLL Loader, which includes decoy files.
+"These decoys contain details from public news articles focused primarily on political news and events," researchers explain. "Additionally, these decoy documents are hosted on legitimate websites including a government website belonging to the Cambodia Government and in at least once case, Facebook."
+Moreover, PLAINTEE downloads and installs additional plugins from its C&C server using the same custom UDP protocol that transmits data in encoded form.
+"These families made use of custom network communication to load and execute various plugins hosted by the attackers," researchers say. "Notably the PLAINTEE malware’ use of a custom UDP protocol is rare and worth considering when building heuristics detections for unknown malware."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On the other hand, DDKONG has been in use by the hacking group since February 2017 and doesn't have any custom communication protocol like PLAINTEE, though it is unclear whether one threat actor or more only use this malware.
+According to researchers, the final payload of both malware families suggests that the purpose of both malware is to conduct cyber espionage on their political targets; instead of stealing money from their targets.
+Since RANCOR group is primarily targeting non-tech-savvy users, it is always advised to be suspicious of any uninvited document sent via an email and never click on links inside those documents unless adequately verifying the source.
+Moreover, most importantly, make use of behavioral-based antivirus software that can detect and block such malware before it can infect your device, and always keep it and other apps up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

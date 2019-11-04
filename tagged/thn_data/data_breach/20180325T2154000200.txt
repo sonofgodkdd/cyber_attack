@@ -1,0 +1,18 @@
+Facebook Collected Your Android Call History and SMS Data For Years
+Swati Khandelwal
+
+Facebook knows a lot about you, your likes and dislikes—it's no surprise.
+But do you know, if you have installed Facebook Messenger app on your Android device, there are chances that the company had been collecting your contacts, SMS, and call history data at least until late last year.
+A tweet from Dylan McKay, a New Zealand-based programmer, which received more than 38,000 retweets (at the time of writing), showed how he found his year-old data—including complete logs of incoming and outgoing calls and SMS messages—in an archive he downloaded (as a ZIP file) from Facebook.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Facebook was collecting this data on its users from last few years, which was even reported earlier in media, but the story did not get much attention at that time.
+Since Facebook had been embroiled into controversies over its data sharing practices after the Cambridge Analytica scandal last week, tweets from McKay went viral and has now fueled the never-ending privacy debate.
+A Facebook spokesperson explained, since almost all social networking sites have been designed to make it easier for users to connect with their friends and family members, Facebook also uploads its users’ contacts to offer same.
+As Ars reported, in older versions of Android when permissions were a lot less strict, the Facebook app took away contact permission at the time of installation that allowed the company access to call and message data automatically.
+Eventually, Google changed the way Android permissions worked in version 16 of its API, making them more clear and granular by informing users whenever any app tries to execute permissions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, developers were able to bypass this change, and Facebook continued accessing call and SMS data until Google deprecated version 4.0 of the Android API in October last year.
+Even you can check what data the social network has collected on you so far by going to your Facebook's Settings→Download a copy of your Facebook data→Start My Archive.
+If you don't want Facebook to store or continuously upload your contacts to its server, you can turn off the continuous uploading setting in the Messenger app. This change will also delete all your previously uploaded contacts.
+Facebook users on Apple devices are on the safer side, as iOS has never allowed silent access to call data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

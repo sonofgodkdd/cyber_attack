@@ -1,0 +1,21 @@
+FBI — Botnets Infecting 18 Computers per Second. But How Many of Them NSA Holds?
+Swati Khandelwal
+
+Botnets - a secretly compromised networks of ordinary home and office computers with rogue software or "malware" that are controlled by an individual criminal or a group - has dramatically increased over the past several years and are considered to pose the biggest threat to the Internet.
+Cyber criminals have brushed-up their hacking skills and are using Botnets as a cyber weapon to carry out multiple crimes like DDoS  attacks (distributed denial of service), mass spamming, page rank and advertising revenue manipulation, mining bitcoins, cyber espionage and surveillance etc.
+18 BOTNET INFECTIONS PER SECOND
+According to the director of FBI’s cyber division, Joseph Demarest, Botnet has become one of the biggest enemies of the Internet today, and therefore its impact has been significant. Yesterday during a hearing before a U.S. Senate committee, he says that every second 18 computers worldwide are part of botnet armies, which amounts to over 500 million compromised computers per year. 
+The network of compromised systems can do a drastic cyber crime activities without the knowledge of their computer’s owner. Botnet allows its operator to steal personal and financial information, get into system owners’ bank accounts, steal millions of credit cards, shut down websites, monitor your every keystroke and can even activate systems’ cameras secretly which can take users’ at great risk.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Tuesday, a U.S. Senate committee assembled to discuss the progress of FBI agency’s current and future anti-cyber crime strategy to disrupt Botnets, with agenda: “Taking Down Botnets: Public and Private Efforts to Disrupt and dismantle Cyber Criminal Networks.”
+BOTNET FETCHED MILLIONS OF DOLLARS
+Joseph Demarest said the news is troubling as the botnets' high infection rate costs the US and global economies billions of dollars. Several successes "But our work is never done," noted the FBI chief. 
+"The use of botnets is on the rise. Industry experts estimate that botnet attacks have resulted in the overall loss of millions of dollars from financial institutions and other major US businesses," Demarest said.
+"As you well know, we face cyber threats from state-sponsored hackers, hackers for hire, organized cyber syndicates, and terrorists. They seek our state secrets, our trade secrets, our technology, and our ideas—things of incredible value to all of us.”
+TWO FACES OF THE SAME GOVERNMENT - FBI & NSA
+FBI trying to take down cyber criminals and putting its all effort to shut down botnet networks - which really sounds cool! But could you answer me that ‘How NSA is conducting its wider spread mass surveillance program..??’ Yes, of course, with the use of similar exploits and botnet malware. It was revealed few months ago from the Edward Snowden leaks that NSA is taking over entire networks of already-hacked machines (Botnets) and using them for their own purposes.
+Also at the end of last year, Dutch newspaper NRC Handelsblad reported that the document leaked by Snowden also revealed that NSA had established an army of "sleeper cells" – malware-infected, remote-controllable computers – on 50,000 networks by the middle of 2012, which waits for months or longer before it activates by the agency and begins harvesting data.
+So, when one side of U.S. government is trying every effort to shut down the widely spread botnet networks and at the same time, the other side of government is building up their weapons with the use of similar malwares and botnets, it is difficult to mitigate the problem and, this unbalanced situation of the Internet is the main cause of terror in the digital world.
+Well, botnets, malware, viruses, worms and other cyber threats are really a big issue for all of us, and also these attacks become more sophisticated and wider when become money motivated. 
+We also appreciate U.S. government efforts to combat cyber crimes. A month ago, FBI and Europol also took down the GameOver Zeus botnet that have stolen more than $100 million from banks, businesses and consumers worldwide.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

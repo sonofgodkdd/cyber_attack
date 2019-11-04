@@ -1,0 +1,13 @@
+Hacker Selling 65 Million Passwords From Tumblr Data Breach
+Swati Khandelwal
+
+Earlier this month Tumblr revealed that a third party had obtained access to a set of e-mail addresses and passwords dating back from early 2013, before being acquired by Yahoo.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At that time, Tumblr did not reveal the number of affected users, but in reality, around 65,469,298 accounts credentials were leaked in the 2013 Tumblr data breach, according to security expert Troy Hunt, who runs the site Have I Been Pwned.
+"As soon as we became aware of this, our security team thoroughly investigated the matter. Our analysis gives us no reason to believe that this information was used to access Tumblr accounts," read Tumblr’s blog.
+A Hacker, who is going by "peace_of_mind," is selling the Tumblr data for 0.4255 Bitcoin ($225) on the darknet marketplace The Real Deal.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The compromised data includes 65,469,298 unique e-mail addresses and "salted & hashed passwords."
+The Same hacker is also selling the compromised login account data from Fling, LinkedIn, and MySpace. I wonder if he has more data sets yet to sell…
+Salt makes passwords hard to crack, but you should still probably change it.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

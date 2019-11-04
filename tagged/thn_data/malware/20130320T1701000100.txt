@@ -1,0 +1,15 @@
+Massive cyber attack on South Korean banks and TV broadcasters
+Mohit Kumar
+
+Computer networks at major South Korean banks and top TV broadcasters crashed simultaneously Wednesday, during a Massive cyber attack. South Korean police investigating reports from several major broadcasters and banks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+least three broadcasters KBS, MBC and YTN and the Shinhan and Nonghyu banks reported that their computer networks had been crached. The state-run Korea Information Security Agency said that Screens went blank at 2 p.m. and more than seven hours later some systems were still down. 
+The take down was apparently not from a distributed denial-of-service (DDOS) attack, but a virus that has apparently infected machines in these organizations and delivered its payload simultaneously.
+An official at the Korea Communications Commission said investigators speculate that malicious code was spread from company servers that send automatic updates of security software and virus patches.
+The Associated Press says:
+"The latest network paralysis took place just days after North Korea accused South Korea and the U.S. of staging a cyber attack that shut down its websites for two days last week. Loxley Pacific, the Thailand-based Internet service provider, confirmed the North Korean outage but did not say what caused it.
+"The South Korean shutdown did not affect government agencies or potential targets such as power plants or transportation systems, and there were no immediate reports that bank customers' records were compromised, but the disruption froze part of the country's commerce."
+The Korea Internet Security Agency, a state watchdog, said it had recorded 40,000 cases of cyber attacks from foreign and domestic sources in 2012, up sharply from 24,000 in 2008.
+Some banking services, such as ATM and online banking, were adversely affected by the shutdowns, though the banks are reporting that those services have been restored.
+South Korean President Park Geun Hye has put together a cyber security team to look into whether North Korea is the culprit behind today’s attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

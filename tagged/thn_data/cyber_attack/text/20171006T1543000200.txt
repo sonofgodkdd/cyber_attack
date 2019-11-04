@@ -1,0 +1,22 @@
+U.S. Believes Russian Spies Used Kaspersky Antivirus to Steal NSA Secrets
+Unknown
+
+Do you know—United States Government has banned federal agencies from using Kaspersky antivirus software over spying fear?
+Though there's no solid evidence yet available, an article published by WSJ claims that the Russian state-sponsored hackers stole highly classified NSA documents from a contractor in 2015 with the help of a security program made by Russia-based security firm Kaspersky Lab.
+Currently, there is no way to independently confirm if the claims on the popular security vendor published by the Wall Street Journal is accurate—and the story does not even prove the involvement of Kaspersky.
+"As a private company, Kaspersky Lab does not have inappropriate ties to any government, including Russia, and the only conclusion seems to be that Kaspersky Lab is caught in the middle of a geopolitical fight," Kaspersky said in a statement.
+The NSA contractor working with the American intelligence agency, whose identity has not yet been disclosed, reportedly downloaded a cache of highly classified information from government systems and moved it to a personal computer at home, which is clear violation of known security procedures.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Citing some anonymous sources, the Journal says that the targeted computer was running Kaspersky antivirus—the same app the U.S. Department of Homeland Security (DHS) recently banned from all government computer systems over spying fear.
+The classified documents taken to home by the contractor contained details about how the NSA breaks into foreign computer networks for cyber espionage operations as well as defends its systems against cyber attacks.
+Although what role Kaspersky played in the breach is not entirely clear, US officials believe antivirus scan performed by Kaspersky Lab’s security software on the contractor's computer helped Russian hackers in identifying the files containing sensitive information.
+In response to the WSJ story, Kaspersky CEO Eugene Kaspersky said his company "has not been provided with any evidence substantiating the company's involvement in the alleged incident. The only conclusion sees to be that Kaspersky Lab is caught in the middle of a geopolitical fight."
+Also, it is not clear exactly how the files were stolen, but it has been speculated that the antivirus’ practice of uploading suspicious files (malware executables) on the company's server, located in Russia, may have granted the Russian government access to the data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Another possibility is that Russian hackers stole the confidential data by exploiting vulnerabilities in Kaspersky Lab software installed on the targeted system, according to the person, who asked not to be identified.
+"Now, if we assume that what is reported is true: that Russian hackers exploited a weakness in our products installed on the PC of one of our users, and the government agencies charged with protecting national security knew about that, why didn’t they report it to us?" Kaspersky said.
+"We patch the most severe bugs in a matter of hours; so why not make the world a bit more secure by reporting the vulnerability to us? I cannot imagine an ethical justification for not doing so."
+This breach of NSA classified files, which is being called "one of the most significant security breaches in recent years," was occurred in 2015, but detected in 2016.
+However, it is not clear whether this security incident has any ties to the Shadow Brokers campaign, an ongoing public leak of NSA hacking tools that many officials and experts have linked to the Russian government.
+It is another embarrassing breach for the NSA, which has long struggled with contractor security—starting from Edward Snowden to Harold Thomas Martin and Reality Winner.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

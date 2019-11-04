@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+February 12, 2010
+Federal grand jury indicts 3 guards arrested at human smuggling drop house
+LOS ANGELES - A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a "drop house" until relatives could pay smuggling fees that ran as high as $13,000.
+The indictment returned Friday afternoon alleges the three defendants were guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid. The charges are the result of an ongoing investigation by U.S. Immigration and Customs Enforcement (ICE).
+The six-count indictment charges Gustavo Sanchez-Lopez, 30; Diego Martinez-Gonzalez, 28; and Francisco Moreno-Lopez, 55. The men all claim to be Mexican nationals, but are believed to be from Guatemala. They were arrested January 28 when authorities executed a search warrant at the drop house. At that time, investigators found 37 illegal aliens inside the house.
+The indictment charges all three defendants with one count of conspiracy to harbor and conceal illegal aliens, and five counts of harboring and concealing illegal aliens for financial gain. According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period. The illegal aliens allegedly were threatened with beatings or death if their smuggling fees were not paid promptly.
+"Human smuggling is a ruthless, violent enterprise that generates billions of dollars in illicit proceeds," said Miguel Unzueta, special agent in charge of the ICE Office of Investigations in Los Angeles. "ICE is working aggressively to target the criminals and criminal organizations involved in this dangerous trade who routinely put aliens' lives at risk."
+The indictment specifically alleges that Martinez-Gonzalez told female smuggled aliens they would not be allowed to shower, or have blankets or jackets, unless they had sexual relations with him. Similarly, Sanchez-Lopez allegedly told female aliens they would be refused showers unless they had sexual relations with him.
+According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid.
+The three defendants indicted Friday were previously ordered held without bond. They are scheduled to be arraigned Tuesday morning in U.S. District Court. Each of the men faces a statutory maximum penalty of 60 years in federal prison if convicted of all of the charges.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="19" end="37" text="Federal grand jury" TYPE="BAR" />
+<person id="p1" start="46" end="93" text="3 guards arrested at human smuggling drop house" TYPE="NOM" />
+<person id="p2" start="108" end="128" text="A federal grand jury" TYPE="NOM" />
+<person id="p3" start="145" end="154" text="three men" TYPE="NOM" />
+<person id="p4" start="159" end="164" text="their" TYPE="PRO" />
+<person id="p5" start="214" end="240" text="hundreds of illegal aliens" TYPE="NOM" />
+<person id="p6" start="302" end="306" text="them" TYPE="PRO" />
+<person id="p7" start="331" end="340" text="relatives" TYPE="BAR" />
+<person id="p8" start="444" end="464" text="the three defendants" TYPE="NOM" />
+<person id="p9" start="470" end="616" text="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" TYPE="BAR" />
+<person id="p10" start="519" end="533" text="illegal aliens" TYPE="BAR" />
+<person id="p11" start="574" end="579" text="their" TYPE="PRO" />
+<person id="p12" start="757" end="782" text="Gustavo Sanchez-Lopez, 30" TYPE="NAM" />
+<person id="p13" start="784" end="811" text="Diego Martinez-Gonzalez, 28" TYPE="NAM" />
+<person id="p14" start="817" end="843" text="Francisco Moreno-Lopez, 55" TYPE="NAM" />
+<person id="p15" start="845" end="852" text="The men" TYPE="NOM" />
+<person id="p16" start="853" end="856" text="all" TYPE="HLS" />
+<person id="p17" start="869" end="886" text="Mexican nationals" TYPE="BAR" />
+<person id="p18" start="927" end="931" text="They" TYPE="PRO" />
+<person id="p19" start="962" end="973" text="authorities" TYPE="BAR" />
+<person id="p20" start="1033" end="1046" text="investigators" TYPE="BAR" />
+<person id="p21" start="1053" end="1070" text="37 illegal aliens" TYPE="NOM" />
+<person id="p22" start="1112" end="1132" text="all three defendants" TYPE="NOM" />
+<person id="p23" start="1184" end="1198" text="illegal aliens" TYPE="BAR" />
+<person id="p24" start="1244" end="1258" text="illegal aliens" TYPE="BAR" />
+<person id="p25" start="1308" end="1315" text="the men" TYPE="NOM" />
+<person id="p27" start="1325" end="1357" text="approximately 336 illegal aliens" TYPE="NOM" />
+<person id="p28" start="1397" end="1415" text="The illegal aliens" TYPE="NOM" />
+<person id="p29" start="1468" end="1473" text="their" TYPE="PRO" />
+<person id="p30" start="1626" end="1716" text="Miguel Unzueta, special agent in charge of the ICE Office of Investigations in Los Angeles" TYPE="APP" />
+<person id="p31" start="1626" end="1640" text="Miguel Unzueta" TYPE="NAM" />
+<person id="p32" start="1642" end="1716" text="special agent in charge of the ICE Office of Investigations in Los Angeles" TYPE="BAR" />
+<person id="p33" start="1514" end="1519" text="Human" TYPE="NOMPRE" />
+<person id="p35" start="1757" end="1870" text="the criminals and criminal organizations involved in this dangerous trade who routinely put aliens' lives at risk" TYPE="NOM" />
+<person id="p36" start="1757" end="1870" text="the criminals and criminal organizations involved in this dangerous trade who routinely put aliens' lives at risk" TYPE="NOM" />
+<person id="p37" start="1831" end="1834" text="who" TYPE="WHQ" />
+<person id="p38" start="1849" end="1855" text="aliens" TYPE="BAR" />
+<person id="p39" start="1914" end="1931" text="Martinez-Gonzalez" TYPE="NAM" />
+<person id="p40" start="1937" end="1959" text="female smuggled aliens" TYPE="BAR" />
+<person id="p41" start="1960" end="1964" text="they" TYPE="PRO" />
+<person id="p42" start="2033" end="2037" text="they" TYPE="PRO" />
+<person id="p43" start="2064" end="2067" text="him" TYPE="PRO" />
+<person id="p44" start="2080" end="2093" text="Sanchez-Lopez" TYPE="NAM" />
+<person id="p45" start="2109" end="2122" text="female aliens" TYPE="BAR" />
+<person id="p46" start="2123" end="2127" text="they" TYPE="PRO" />
+<person id="p47" start="2160" end="2164" text="they" TYPE="PRO" />
+<person id="p48" start="2191" end="2194" text="him" TYPE="PRO" />
+<person id="p49" start="2225" end="2245" text="the three defendants" TYPE="NOM" />
+<person id="p50" start="2255" end="2261" text="guards" TYPE="BAR" />
+<person id="p51" start="2287" end="2291" text="they" TYPE="PRO" />
+<person id="p52" start="2314" end="2333" text="the smuggled aliens" TYPE="NOM" />
+<person id="p53" start="2344" end="2354" text="the aliens" TYPE="NOM" />
+<person id="p54" start="2377" end="2382" text="their" TYPE="PRO" />
+<person id="p56" start="2409" end="2445" text="The three defendants indicted Friday" TYPE="NOM" />
+<person id="p57" start="2489" end="2493" text="They" TYPE="PRO" />
+<person id="p58" start="2564" end="2579" text="Each of the men" TYPE="PTV" />
+<person id="p59" start="2572" end="2579" text="the men" TYPE="NOM" />
+<organization id="o1" start="676" end="721" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="718" end="721" text="ICE" TYPE="NAM" />
+<organization id="o0" start="1669" end="1716" text="the ICE Office of Investigations in Los Angeles" TYPE="NAM" />
+<organization id="o3" start="1719" end="1722" text="ICE" TYPE="NAM" />
+<organization id="o4" start="2543" end="2562" text="U.S. District Court" TYPE="NAM" />
+<geographical-political id="g0" start="94" end="105" text="LOS ANGELES" TYPE="NAM" />
+<geographical-political id="g1" start="246" end="271" text="Central and South America" TYPE="NAM" />
+<geographical-political id="g2" start="246" end="271" text="Central and South America" TYPE="NAM" />
+<geographical-political id="g3" start="275" end="292" text="the United States" TYPE="NAM" />
+<geographical-political id="g4" start="496" end="510" text="Lynwood, Calif" TYPE="NAM" />
+<geographical-political id="g5" start="505" end="510" text="Calif" TYPE="NAM" />
+<geographical-political id="g6" start="869" end="876" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g7" start="916" end="925" text="Guatemala" TYPE="NAM" />
+<geographical-political id="g8" start="1705" end="1716" text="Los Angeles" TYPE="NAM" />
+<falicity id="f0" start="67" end="93" text="human smuggling drop house" TYPE="BAR" />
+<falicity id="f1" start="310" end="323" text="a 'drop house" TYPE="NOM" />
+<falicity id="f2" start="480" end="616" text="a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" TYPE="NOM" />
+<falicity id="f3" start="513" end="518" text="where" TYPE="WHQ" />
+<falicity id="f4" start="1003" end="1017" text="the drop house" TYPE="NOM" />
+<falicity id="f5" start="1078" end="1087" text="the house" TYPE="NOM" />
+<falicity id="f6" start="1361" end="1369" text="the home" TYPE="NOM" />
+<falicity id="f7" start="2265" end="2407" text="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" TYPE="NOM" />
+<falicity id="f8" start="2281" end="2286" text="where" TYPE="WHQ" />
+<falicity id="f9" start="2629" end="2643" text="federal prison" TYPE="BAR" />
+<head id="h0" start="33" end="37" text="jury" />
+<head id="h1" start="48" end="54" text="guards" />
+<head id="h2" start="88" end="93" text="house" />
+<head id="h3" start="94" end="105" text="LOS ANGELES" />
+<head id="h4" start="124" end="128" text="jury" />
+<head id="h5" start="151" end="154" text="men" />
+<head id="h6" start="159" end="164" text="their" />
+<head id="h7" start="234" end="240" text="aliens" />
+<head id="h8" start="258" end="271" text="South America" />
+<head id="h9" start="246" end="253" text="Central" />
+<head id="h10" start="279" end="292" text="United States" />
+<head id="h11" start="302" end="306" text="them" />
+<head id="h12" start="318" end="323" text="house" />
+<head id="h13" start="331" end="340" text="relatives" />
+<head id="h14" start="454" end="464" text="defendants" />
+<head id="h15" start="470" end="476" text="guards" />
+<head id="h16" start="487" end="492" text="house" />
+<head id="h17" start="513" end="518" text="where" />
+<head id="h18" start="496" end="503" text="Lynwood" />
+<head id="h19" start="505" end="510" text="Calif" />
+<head id="h20" start="527" end="533" text="aliens" />
+<head id="h21" start="574" end="579" text="their" />
+<head id="h22" start="676" end="716" text="U.S. Immigration and Customs Enforcement" />
+<head id="h23" start="718" end="721" text="ICE" />
+<head id="h24" start="757" end="778" text="Gustavo Sanchez-Lopez" />
+<head id="h25" start="784" end="807" text="Diego Martinez-Gonzalez" />
+<head id="h26" start="817" end="839" text="Francisco Moreno-Lopez" />
+<head id="h27" start="849" end="852" text="men" />
+<head id="h28" start="853" end="856" text="all" />
+<head id="h29" start="877" end="886" text="nationals" />
+<head id="h30" start="869" end="876" text="Mexican" />
+<head id="h31" start="916" end="925" text="Guatemala" />
+<head id="h32" start="927" end="931" text="They" />
+<head id="h33" start="962" end="973" text="authorities" />
+<head id="h34" start="1012" end="1017" text="house" />
+<head id="h35" start="1033" end="1046" text="investigators" />
+<head id="h36" start="1064" end="1070" text="aliens" />
+<head id="h37" start="1082" end="1087" text="house" />
+<head id="h38" start="1122" end="1132" text="defendants" />
+<head id="h39" start="1192" end="1198" text="aliens" />
+<head id="h40" start="1252" end="1258" text="aliens" />
+<head id="h41" start="1312" end="1315" text="men" />
+<head id="h42" start="1351" end="1357" text="aliens" />
+<head id="h43" start="1365" end="1369" text="home" />
+<head id="h44" start="1409" end="1415" text="aliens" />
+<head id="h45" start="1468" end="1473" text="their" />
+<head id="h46" start="1626" end="1640" text="Miguel Unzueta" />
+<head id="h47" start="1650" end="1655" text="agent" />
+<head id="h48" start="1673" end="1701" text="ICE Office of Investigations" />
+<head id="h49" start="1705" end="1716" text="Los Angeles" />
+<head id="h50" start="1514" end="1519" text="Human" />
+<head id="h51" start="1719" end="1722" text="ICE" />
+<head id="h52" start="1761" end="1770" text="criminals" />
+<head id="h53" start="1784" end="1797" text="organizations" />
+<head id="h54" start="1831" end="1834" text="who" />
+<head id="h55" start="1849" end="1855" text="aliens" />
+<head id="h56" start="1914" end="1931" text="Martinez-Gonzalez" />
+<head id="h57" start="1953" end="1959" text="aliens" />
+<head id="h58" start="1960" end="1964" text="they" />
+<head id="h59" start="2033" end="2037" text="they" />
+<head id="h60" start="2064" end="2067" text="him" />
+<head id="h61" start="2080" end="2093" text="Sanchez-Lopez" />
+<head id="h62" start="2116" end="2122" text="aliens" />
+<head id="h63" start="2123" end="2127" text="they" />
+<head id="h64" start="2160" end="2164" text="they" />
+<head id="h65" start="2191" end="2194" text="him" />
+<head id="h66" start="2235" end="2245" text="defendants" />
+<head id="h67" start="2255" end="2261" text="guards" />
+<head id="h68" start="2274" end="2279" text="house" />
+<head id="h69" start="2281" end="2286" text="where" />
+<head id="h70" start="2287" end="2291" text="they" />
+<head id="h71" start="2327" end="2333" text="aliens" />
+<head id="h72" start="2348" end="2354" text="aliens" />
+<head id="h73" start="2377" end="2382" text="their" />
+<head id="h74" start="2419" end="2429" text="defendants" />
+<head id="h75" start="2489" end="2493" text="They" />
+<head id="h76" start="2543" end="2562" text="U.S. District Court" />
+<head id="h77" start="2564" end="2568" text="Each" />
+<head id="h78" start="2576" end="2579" text="men" />
+<head id="h79" start="2637" end="2643" text="prison" />
+<name id="n0" start="94" end="105" text="LOS ANGELES" />
+<name id="n1" start="258" end="271" text="South America" />
+<name id="n2" start="246" end="253" text="Central" />
+<name id="n3" start="279" end="292" text="United States" />
+<name id="n4" start="496" end="503" text="Lynwood" />
+<name id="n5" start="505" end="510" text="Calif" />
+<name id="n6" start="676" end="716" text="U.S. Immigration and Customs Enforcement" />
+<name id="n7" start="718" end="721" text="ICE" />
+<name id="n8" start="757" end="778" text="Gustavo Sanchez-Lopez" />
+<name id="n9" start="784" end="807" text="Diego Martinez-Gonzalez" />
+<name id="n10" start="817" end="839" text="Francisco Moreno-Lopez" />
+<name id="n11" start="869" end="876" text="Mexican" />
+<name id="n12" start="916" end="925" text="Guatemala" />
+<name id="n13" start="1626" end="1640" text="Miguel Unzueta" />
+<name id="n14" start="1673" end="1701" text="ICE Office of Investigations" />
+<name id="n15" start="1705" end="1716" text="Los Angeles" />
+<name id="n16" start="1719" end="1722" text="ICE" />
+<name id="n17" start="1914" end="1931" text="Martinez-Gonzalez" />
+<name id="n18" start="2080" end="2093" text="Sanchez-Lopez" />
+<name id="n19" start="2543" end="2562" text="U.S. District Court" />
+<located-mention id="lo0" start="46" end="93" text="3 guards arrested at human smuggling drop house" TYPE="Participial" />
+<located-mention id="lo1" start="108" end="393" text="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" TYPE="Other" />
+<located-mention id="lo2" start="108" end="393" text="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" TYPE="Other" />
+<located-mention id="lo3" start="108" end="393" text="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" TYPE="Other" />
+<located-mention id="lo4" start="470" end="616" text="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" TYPE="Preposition" />
+<located-mention id="lo5" start="395" end="616" text="The indictment returned Friday afternoon alleges the three defendants were guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" TYPE="Other" />
+<located-mention id="lo6" start="927" end="1017" text="They were arrested January 28 when authorities executed a search warrant at the drop house" TYPE="Other" />
+<located-mention id="lo7" start="1019" end="1087" text="At that time, investigators found 37 illegal aliens inside the house" TYPE="Other" />
+<located-mention id="lo8" start="1019" end="1087" text="At that time, investigators found 37 illegal aliens inside the house" TYPE="Other" />
+<located-mention id="lo9" start="1279" end="1395" text="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" TYPE="Other" />
+<located-mention id="lo10" start="1279" end="1395" text="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" TYPE="Other" />
+<located-mention id="lo11" start="2196" end="2407" text="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" TYPE="Other" />
+<located-mention id="lo12" start="2196" end="2407" text="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" TYPE="Other" />
+<located-mention id="lo13" start="2196" end="2407" text="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" TYPE="Other" />
+<CRRE id="C0" start="869" end="886" text="Mexican nationals" TYPE="PreMod" />
+<CRRE id="C1" start="845" end="925" text="The men all claim to be Mexican nationals, but are believed to be from Guatemala" TYPE="Other" />
+<M id="M0" start="1642" end="1716" text="special agent in charge of the ICE Office of Investigations in Los Angeles" TYPE="Preposition" />
+<entity_link id="en0" fromID="p2" fromText="A federal grand jury" toID="p0" toText="Federal grand jury" />
+<entity_link id="en1" fromID="p3" fromText="three men" toID="p1" toText="3 guards arrested at human smuggling drop house" />
+<entity_link id="en2" fromID="p4" fromText="their" toID="p3" toText="three men" />
+<entity_link id="en3" fromID="p6" fromText="them" toID="p5" toText="hundreds of illegal aliens" />
+<entity_link id="en4" fromID="f1" fromText="a 'drop house" toID="f0" toText="human smuggling drop house" />
+<entity_link id="en5" fromID="p8" fromText="the three defendants" toID="p3" toText="three men" />
+<entity_link id="en6" fromID="p9" fromText="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="p8" toText="the three defendants" />
+<entity_link id="en7" fromID="f3" fromText="where" toID="f2" toText="a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" />
+<entity_link id="en8" fromID="p11" fromText="their" toID="p10" toText="illegal aliens" />
+<entity_link id="en9" fromID="p10" fromText="illegal aliens" toID="p5" toText="hundreds of illegal aliens" />
+<entity_link id="en10" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en11" fromID="p15" fromText="The men" toID="p8" toText="the three defendants" />
+<entity_link id="en12" fromID="p16" fromText="all" toID="p15" toText="The men" />
+<entity_link id="en13" fromID="p17" fromText="Mexican nationals" toID="p15" toText="The men" />
+<entity_link id="en14" fromID="p18" fromText="They" toID="p15" toText="The men" />
+<entity_link id="en15" fromID="f4" fromText="the drop house" toID="f1" toText="a 'drop house" />
+<entity_link id="en16" fromID="f5" fromText="the house" toID="f4" toText="the drop house" />
+<entity_link id="en17" fromID="p22" fromText="all three defendants" toID="p15" toText="The men" />
+<entity_link id="en18" fromID="p23" fromText="illegal aliens" toID="p10" toText="illegal aliens" />
+<entity_link id="en19" fromID="p24" fromText="illegal aliens" toID="p23" toText="illegal aliens" />
+<entity_link id="en20" fromID="p25" fromText="the men" toID="p22" toText="all three defendants" />
+<entity_link id="en21" fromID="f6" fromText="the home" toID="f5" toText="the house" />
+<entity_link id="en22" fromID="p28" fromText="The illegal aliens" toID="p27" toText="approximately 336 illegal aliens" />
+<entity_link id="en23" fromID="p29" fromText="their" toID="p28" toText="The illegal aliens" />
+<entity_link id="en24" fromID="p31" fromText="Miguel Unzueta" toID="p30" toText="Miguel Unzueta, special agent in charge of the ICE Office of Investigations in Los Angeles" />
+<entity_link id="en25" fromID="p32" fromText="special agent in charge of the ICE Office of Investigations in Los Angeles" toID="p31" toText="Miguel Unzueta" />
+<entity_link id="en26" fromID="g8" fromText="Los Angeles" toID="g0" toText="LOS ANGELES" />
+<entity_link id="en27" fromID="o3" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en28" fromID="p39" fromText="Martinez-Gonzalez" toID="p13" toText="Diego Martinez-Gonzalez, 28" />
+<entity_link id="en29" fromID="p41" fromText="they" toID="p40" toText="female smuggled aliens" />
+<entity_link id="en30" fromID="p42" fromText="they" toID="p41" toText="they" />
+<entity_link id="en31" fromID="p43" fromText="him" toID="p39" toText="Martinez-Gonzalez" />
+<entity_link id="en32" fromID="p44" fromText="Sanchez-Lopez" toID="p12" toText="Gustavo Sanchez-Lopez, 30" />
+<entity_link id="en33" fromID="p45" fromText="female aliens" toID="p40" toText="female smuggled aliens" />
+<entity_link id="en34" fromID="p46" fromText="they" toID="p45" toText="female aliens" />
+<entity_link id="en35" fromID="p47" fromText="they" toID="p46" toText="they" />
+<entity_link id="en36" fromID="p48" fromText="him" toID="p44" toText="Sanchez-Lopez" />
+<entity_link id="en37" fromID="p49" fromText="the three defendants" toID="p22" toText="all three defendants" />
+<entity_link id="en38" fromID="p50" fromText="guards" toID="p49" toText="the three defendants" />
+<entity_link id="en39" fromID="f7" fromText="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="f6" toText="the home" />
+<entity_link id="en40" fromID="f8" fromText="where" toID="f7" toText="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" />
+<entity_link id="en41" fromID="p51" fromText="they" toID="p49" toText="the three defendants" />
+<entity_link id="en42" fromID="p52" fromText="the smuggled aliens" toID="p10" toText="illegal aliens" />
+<entity_link id="en43" fromID="p53" fromText="the aliens" toID="p52" toText="the smuggled aliens" />
+<entity_link id="en44" fromID="p54" fromText="their" toID="p53" toText="the aliens" />
+<entity_link id="en46" fromID="p56" fromText="The three defendants indicted Friday" toID="p49" toText="the three defendants" />
+<entity_link id="en47" fromID="p57" fromText="They" toID="p56" toText="The three defendants indicted Friday" />
+<entity_link id="en48" fromID="p59" fromText="the men" toID="p56" toText="The three defendants indicted Friday" />
+<head_link id="he0" fromID="p0" fromText="Federal grand jury" toID="h0" toText="jury" />
+<head_link id="he1" fromID="p1" fromText="3 guards arrested at human smuggling drop house" toID="h1" toText="guards" />
+<head_link id="he2" fromID="f0" fromText="human smuggling drop house" toID="h2" toText="house" />
+<head_link id="he3" fromID="g0" fromText="LOS ANGELES" toID="h3" toText="LOS ANGELES" />
+<head_link id="he4" fromID="p2" fromText="A federal grand jury" toID="h4" toText="jury" />
+<head_link id="he5" fromID="p3" fromText="three men" toID="h5" toText="men" />
+<head_link id="he6" fromID="p4" fromText="their" toID="h6" toText="their" />
+<head_link id="he7" fromID="p5" fromText="hundreds of illegal aliens" toID="h7" toText="aliens" />
+<head_link id="he8" fromID="g1" fromText="Central and South America" toID="h9" toText="Central" />
+<head_link id="he9" fromID="g2" fromText="Central and South America" toID="h8" toText="South America" />
+<head_link id="he10" fromID="g3" fromText="the United States" toID="h10" toText="United States" />
+<head_link id="he11" fromID="p6" fromText="them" toID="h11" toText="them" />
+<head_link id="he12" fromID="f1" fromText="a 'drop house" toID="h12" toText="house" />
+<head_link id="he13" fromID="p7" fromText="relatives" toID="h13" toText="relatives" />
+<head_link id="he14" fromID="p8" fromText="the three defendants" toID="h14" toText="defendants" />
+<head_link id="he15" fromID="p9" fromText="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="h15" toText="guards" />
+<head_link id="he16" fromID="f2" fromText="a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="h16" toText="house" />
+<head_link id="he17" fromID="f3" fromText="where" toID="h17" toText="where" />
+<head_link id="he18" fromID="g4" fromText="Lynwood, Calif" toID="h18" toText="Lynwood" />
+<head_link id="he19" fromID="g5" fromText="Calif" toID="h19" toText="Calif" />
+<head_link id="he20" fromID="p10" fromText="illegal aliens" toID="h20" toText="aliens" />
+<head_link id="he21" fromID="p11" fromText="their" toID="h21" toText="their" />
+<head_link id="he22" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h22" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he23" fromID="o2" fromText="ICE" toID="h23" toText="ICE" />
+<head_link id="he24" fromID="p12" fromText="Gustavo Sanchez-Lopez, 30" toID="h24" toText="Gustavo Sanchez-Lopez" />
+<head_link id="he25" fromID="p13" fromText="Diego Martinez-Gonzalez, 28" toID="h25" toText="Diego Martinez-Gonzalez" />
+<head_link id="he26" fromID="p14" fromText="Francisco Moreno-Lopez, 55" toID="h26" toText="Francisco Moreno-Lopez" />
+<head_link id="he27" fromID="p15" fromText="The men" toID="h27" toText="men" />
+<head_link id="he28" fromID="p16" fromText="all" toID="h28" toText="all" />
+<head_link id="he29" fromID="p17" fromText="Mexican nationals" toID="h29" toText="nationals" />
+<head_link id="he30" fromID="g6" fromText="Mexican" toID="h30" toText="Mexican" />
+<head_link id="he31" fromID="g7" fromText="Guatemala" toID="h31" toText="Guatemala" />
+<head_link id="he32" fromID="p18" fromText="They" toID="h32" toText="They" />
+<head_link id="he33" fromID="p19" fromText="authorities" toID="h33" toText="authorities" />
+<head_link id="he34" fromID="f4" fromText="the drop house" toID="h34" toText="house" />
+<head_link id="he35" fromID="p20" fromText="investigators" toID="h35" toText="investigators" />
+<head_link id="he36" fromID="p21" fromText="37 illegal aliens" toID="h36" toText="aliens" />
+<head_link id="he37" fromID="f5" fromText="the house" toID="h37" toText="house" />
+<head_link id="he38" fromID="p22" fromText="all three defendants" toID="h38" toText="defendants" />
+<head_link id="he39" fromID="p23" fromText="illegal aliens" toID="h39" toText="aliens" />
+<head_link id="he40" fromID="p24" fromText="illegal aliens" toID="h40" toText="aliens" />
+<head_link id="he41" fromID="p25" fromText="the men" toID="h41" toText="men" />
+<head_link id="he43" fromID="f6" fromText="the home" toID="h43" toText="home" />
+<head_link id="he44" fromID="p27" fromText="approximately 336 illegal aliens" toID="h42" toText="aliens" />
+<head_link id="he45" fromID="p28" fromText="The illegal aliens" toID="h44" toText="aliens" />
+<head_link id="he46" fromID="p29" fromText="their" toID="h45" toText="their" />
+<head_link id="he47" fromID="p31" fromText="Miguel Unzueta" toID="h46" toText="Miguel Unzueta" />
+<head_link id="he48" fromID="p32" fromText="special agent in charge of the ICE Office of Investigations in Los Angeles" toID="h47" toText="agent" />
+<head_link id="he49" fromID="o0" fromText="the ICE Office of Investigations in Los Angeles" toID="h48" toText="ICE Office of Investigations" />
+<head_link id="he50" fromID="g8" fromText="Los Angeles" toID="h49" toText="Los Angeles" />
+<head_link id="he51" fromID="p33" fromText="Human" toID="h50" toText="Human" />
+<head_link id="he52" fromID="o3" fromText="ICE" toID="h51" toText="ICE" />
+<head_link id="he54" fromID="p35" fromText="the criminals and criminal organizations involved in this dangerous trade who routinely put aliens' lives at risk" toID="h52" toText="criminals" />
+<head_link id="he55" fromID="p36" fromText="the criminals and criminal organizations involved in this dangerous trade who routinely put aliens' lives at risk" toID="h53" toText="organizations" />
+<head_link id="he56" fromID="p37" fromText="who" toID="h54" toText="who" />
+<head_link id="he57" fromID="p38" fromText="aliens" toID="h55" toText="aliens" />
+<head_link id="he58" fromID="p39" fromText="Martinez-Gonzalez" toID="h56" toText="Martinez-Gonzalez" />
+<head_link id="he59" fromID="p40" fromText="female smuggled aliens" toID="h57" toText="aliens" />
+<head_link id="he60" fromID="p41" fromText="they" toID="h58" toText="they" />
+<head_link id="he61" fromID="p42" fromText="they" toID="h59" toText="they" />
+<head_link id="he62" fromID="p43" fromText="him" toID="h60" toText="him" />
+<head_link id="he63" fromID="p44" fromText="Sanchez-Lopez" toID="h61" toText="Sanchez-Lopez" />
+<head_link id="he64" fromID="p45" fromText="female aliens" toID="h62" toText="aliens" />
+<head_link id="he65" fromID="p46" fromText="they" toID="h63" toText="they" />
+<head_link id="he66" fromID="p47" fromText="they" toID="h64" toText="they" />
+<head_link id="he67" fromID="p48" fromText="him" toID="h65" toText="him" />
+<head_link id="he68" fromID="p49" fromText="the three defendants" toID="h66" toText="defendants" />
+<head_link id="he69" fromID="p50" fromText="guards" toID="h67" toText="guards" />
+<head_link id="he70" fromID="f7" fromText="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="h68" toText="house" />
+<head_link id="he71" fromID="f8" fromText="where" toID="h69" toText="where" />
+<head_link id="he72" fromID="p51" fromText="they" toID="h70" toText="they" />
+<head_link id="he73" fromID="p52" fromText="the smuggled aliens" toID="h71" toText="aliens" />
+<head_link id="he74" fromID="p53" fromText="the aliens" toID="h72" toText="aliens" />
+<head_link id="he75" fromID="p54" fromText="their" toID="h73" toText="their" />
+<head_link id="he77" fromID="p56" fromText="The three defendants indicted Friday" toID="h74" toText="defendants" />
+<head_link id="he78" fromID="p57" fromText="They" toID="h75" toText="They" />
+<head_link id="he79" fromID="o4" fromText="U.S. District Court" toID="h76" toText="U.S. District Court" />
+<head_link id="he80" fromID="p58" fromText="Each of the men" toID="h77" toText="Each" />
+<head_link id="he81" fromID="p59" fromText="the men" toID="h78" toText="men" />
+<head_link id="he82" fromID="f9" fromText="federal prison" toID="h79" toText="prison" />
+<name_link id="na0" fromID="g0" fromText="LOS ANGELES" toID="n0" toText="LOS ANGELES" />
+<name_link id="na1" fromID="g1" fromText="Central and South America" toID="n2" toText="Central" />
+<name_link id="na2" fromID="g2" fromText="Central and South America" toID="n1" toText="South America" />
+<name_link id="na3" fromID="g3" fromText="the United States" toID="n3" toText="United States" />
+<name_link id="na4" fromID="g4" fromText="Lynwood, Calif" toID="n4" toText="Lynwood" />
+<name_link id="na5" fromID="g5" fromText="Calif" toID="n5" toText="Calif" />
+<name_link id="na6" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n6" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na7" fromID="o2" fromText="ICE" toID="n7" toText="ICE" />
+<name_link id="na8" fromID="p12" fromText="Gustavo Sanchez-Lopez, 30" toID="n8" toText="Gustavo Sanchez-Lopez" />
+<name_link id="na9" fromID="p13" fromText="Diego Martinez-Gonzalez, 28" toID="n9" toText="Diego Martinez-Gonzalez" />
+<name_link id="na10" fromID="p14" fromText="Francisco Moreno-Lopez, 55" toID="n10" toText="Francisco Moreno-Lopez" />
+<name_link id="na11" fromID="g6" fromText="Mexican" toID="n11" toText="Mexican" />
+<name_link id="na12" fromID="g7" fromText="Guatemala" toID="n12" toText="Guatemala" />
+<name_link id="na13" fromID="p31" fromText="Miguel Unzueta" toID="n13" toText="Miguel Unzueta" />
+<name_link id="na14" fromID="o0" fromText="the ICE Office of Investigations in Los Angeles" toID="n14" toText="ICE Office of Investigations" />
+<name_link id="na15" fromID="g8" fromText="Los Angeles" toID="n15" toText="Los Angeles" />
+<name_link id="na16" fromID="o3" fromText="ICE" toID="n16" toText="ICE" />
+<name_link id="na17" fromID="p39" fromText="Martinez-Gonzalez" toID="n17" toText="Martinez-Gonzalez" />
+<name_link id="na18" fromID="p44" fromText="Sanchez-Lopez" toID="n18" toText="Sanchez-Lopez" />
+<name_link id="na19" fromID="o4" fromText="U.S. District Court" toID="n19" toText="U.S. District Court" />
+<relation_link1 id="r0" fromID="lo0" fromText="3 guards arrested at human smuggling drop house" toID="p1" toText="3 guards arrested at human smuggling drop house" />
+<relation_link1 id="r1" fromID="lo1" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="p5" toText="hundreds of illegal aliens" />
+<relation_link1 id="r2" fromID="lo2" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="p5" toText="hundreds of illegal aliens" />
+<relation_link1 id="r3" fromID="lo3" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="p6" toText="them" />
+<relation_link1 id="r4" fromID="lo4" fromText="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="p9" toText="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" />
+<relation_link1 id="r5" fromID="lo5" fromText="The indictment returned Friday afternoon alleges the three defendants were guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="p10" toText="illegal aliens" />
+<relation_link1 id="r6" fromID="C0" fromText="Mexican nationals" toID="p17" toText="Mexican nationals" />
+<relation_link1 id="r7" fromID="C1" fromText="The men all claim to be Mexican nationals, but are believed to be from Guatemala" toID="p15" toText="The men" />
+<relation_link1 id="r8" fromID="lo6" fromText="They were arrested January 28 when authorities executed a search warrant at the drop house" toID="p19" toText="authorities" />
+<relation_link1 id="r9" fromID="lo7" fromText="At that time, investigators found 37 illegal aliens inside the house" toID="p20" toText="investigators" />
+<relation_link1 id="r10" fromID="lo8" fromText="At that time, investigators found 37 illegal aliens inside the house" toID="p21" toText="37 illegal aliens" />
+<relation_link1 id="r11" fromID="lo9" fromText="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" toID="p25" toText="the men" />
+<relation_link1 id="r12" fromID="lo10" fromText="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" toID="p27" toText="approximately 336 illegal aliens" />
+<relation_link1 id="r13" fromID="M0" fromText="special agent in charge of the ICE Office of Investigations in Los Angeles" toID="p32" toText="special agent in charge of the ICE Office of Investigations in Los Angeles" />
+<relation_link1 id="r14" fromID="lo11" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="p49" toText="the three defendants" />
+<relation_link1 id="r15" fromID="lo12" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="p50" toText="guards" />
+<relation_link1 id="r16" fromID="lo13" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="p51" toText="they" />
+<relation_link2 id="re0" fromID="lo0" fromText="3 guards arrested at human smuggling drop house" toID="f0" toText="human smuggling drop house" />
+<relation_link2 id="re1" fromID="lo1" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="g1" toText="Central and South America" />
+<relation_link2 id="re2" fromID="lo2" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="g2" toText="Central and South America" />
+<relation_link2 id="re3" fromID="lo3" fromText="A federal grand jury Friday indicted three men for their role in a human smuggling operation that brought hundreds of illegal aliens from Central and South America to the United States and held them at a 'drop house' until relatives could pay smuggling fees that ran as high as $13,000" toID="f1" toText="a 'drop house" />
+<relation_link2 id="re4" fromID="lo4" fromText="guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="f2" toText="a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" />
+<relation_link2 id="re5" fromID="lo5" fromText="The indictment returned Friday afternoon alleges the three defendants were guards at a drop house in Lynwood, Calif., where illegal aliens were sometimes threatened with death if their smuggling fees were not quickly paid" toID="f3" toText="where" />
+<relation_link2 id="re6" fromID="C0" fromText="Mexican nationals" toID="g6" toText="Mexican" />
+<relation_link2 id="re7" fromID="C1" fromText="The men all claim to be Mexican nationals, but are believed to be from Guatemala" toID="g7" toText="Guatemala" />
+<relation_link2 id="re8" fromID="lo6" fromText="They were arrested January 28 when authorities executed a search warrant at the drop house" toID="f4" toText="the drop house" />
+<relation_link2 id="re9" fromID="lo7" fromText="At that time, investigators found 37 illegal aliens inside the house" toID="f5" toText="the house" />
+<relation_link2 id="re10" fromID="lo8" fromText="At that time, investigators found 37 illegal aliens inside the house" toID="f5" toText="the house" />
+<relation_link2 id="re11" fromID="lo9" fromText="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" toID="f6" toText="the home" />
+<relation_link2 id="re12" fromID="lo10" fromText="According to the indictment, the men harbored approximately 336 illegal aliens at the home during a two-month period" toID="f6" toText="the home" />
+<relation_link2 id="re13" fromID="M0" fromText="special agent in charge of the ICE Office of Investigations in Los Angeles" toID="o0" toText="the ICE Office of Investigations in Los Angeles" />
+<relation_link2 id="re14" fromID="lo11" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="f7" toText="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" />
+<relation_link2 id="re15" fromID="lo12" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="f7" toText="the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" />
+<relation_link2 id="re16" fromID="lo13" fromText="According to the indictment, the three defendants acted as guards at the drop house, where they took turns overseeing the smuggled aliens, ensuring the aliens remained inside until their smuggling fees were paid" toID="f8" toText="where" />
+</TAGS>
+</KddTask>

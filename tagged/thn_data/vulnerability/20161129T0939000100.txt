@@ -1,0 +1,26 @@
+Cyber Attack Knocks Nearly a Million Routers Offline
+Mohit Kumar
+
+Mirai Botnet is getting stronger and more notorious each day that passes by. The reason: Insecure Internet-of-things Devices.
+Last month, the Mirai botnet knocked the entire Internet offline for a few hours, crippling some of the world's biggest and most popular websites.
+Now, more than 900,000 broadband routers belonging to Deutsche Telekom users in Germany knocked offline over the weekend following a supposed cyber-attack, affecting the telephony, television, and internet service in the country.
+The German Internet Service Provider, Deutsche Telekom, which offers various services to around 20 Million customers, confirmed on Facebook that as many as 900,000 customers suffered internet outages on Sunday and Monday.
+Millions of routers are said to have vulnerable to a critical Remote code Execution flaw in routers made by Zyxel and Speedport, wherein Internet port 7547 open to receive commands based on the TR-069 and related TR-064 protocols, which are meant to use by ISPs to manage your devices remotely.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The same vulnerability affects Eir D1000 wireless routers (rebranded Zyxel Modem) deployed by Irish internet service provider Eircom, while there are no signs that these routers are actively exploited.
+According to Shodan search, around 41 Million devices leave port 7547 open, while about 5 Million expose TR-064 services to the outside world.
+According to an advisory published by the SANS Internet Storm Center, honeypot servers posing as vulnerable routers are receiving exploit code every 5-10 minutes for each target IP.
+An intercepted packet showed how a remote code execution flaw in the <NewNTPServer> part of a SOAP request was used to download and execute a file in order to infect the vulnerable device.
+Security researchers at BadCyber also analyzed one of the malicious payloads that were delivered during the attacks and discovered that the attack originated from a known Mirai's command-and-control server.
+"The unusual application of TR-064 commands to execute code on routers has been described for the very first time at the beginning of November, and a few days later a relevant Metasploit module had appeared," BadCyber wrote in a blog post. "It looks like someone decided to weaponize it and create an Internet worm based on Mirai code."
+It all started early October when a cyber criminal publicly released the source code of Mirai, a piece of nasty IoT malware designed to scan for insecure IoT devices – mostly routers, cameras, and DVRs – and enslaves them into a botnet network, which is then used to launch DDoS attacks.
+The hacker created three separate exploit files in order to infect three different architectures: two running different types of MIPS chips and one with ARM silicon. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The malicious payloads open the remote administration interface and then attempt to log in using three different default passwords. After this is done, the exploit then closes port 7547 in order to prevent other attackers from taking control of the infected devices.
+"Logins and passwords are obfuscated (or "encrypted") in the worm code using the same algorithm as does Mirai," the researchers say. "The C&C server resides under timeserver.host domain name, which can be found on the Mirai tracker list."
+More in-depth technical details about the vulnerability can be found on ISC Sans, Kaspersky Lab, and Reverse Engineering Blog.
+Deutsche Telekom has issued an emergency patch for two models of its Speedport broadband routers – Speedport W 921V, Speedport W 723V Type B – and currently rolling out firmware updates. 
+The company recommends its customers to power down their routers, wait for 30 seconds and then restart their routers in an attempt to fetch the new firmware during the bootup process. 
+If the router fails to connect to the company's network, users are advised to disconnect their device from the network permanently.
+To compensate the downtime, the ISP is also offering free Internet access through mobile devices to the affected customers until the technical problem is resolved.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

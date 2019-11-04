@@ -1,0 +1,26 @@
+Russian Hacker Selling Cheap Ransomware-as-a-Service On Dark Web
+Swati Khandelwal
+
+Ransomware has been around for a few years, but it has become an albatross around everyone's neck, targeting businesses, hospitals, financial institutions and individuals worldwide and extorting millions of dollars.
+Forget about developing sophisticated banking trojans and malware to steal money out of people and organizations. Today, one of the easiest ways that can help cyber criminals get paid effortlessly is Ransomware.
+This threat became even worse after the arrival of ransomware as a service (RaaS) – a variant of ransomware designed to be so user-friendly that anyone with little or no technical knowledge can also easily deploy them to make money.
+Now, security researchers have uncovered an easy-to-use ransomware service that promises profit with just one successful infection.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed Karmen, the RaaS variant is based on the abandoned open-source ransomware building toolkit dubbed Hidden Tear and is being sold on Dark Web forums from Russian-speaking hacker named DevBitox for $175.
+Like any typical ransomware infections, Karmen encrypts files on the infected PC using the strong AES-256 encryption protocol, making them inaccessible to the victim until he/she pays a large sum of money to obtain the decryption key from the attacker.
+This new variant of ransomware-as-a-service (RaaS) provides buyers access to a web-based control panel hosted on the Dark Web with a user-friendly graphical dashboard that allows buyers to configure a personalised version of the Karmen ransomware.
+The dashboard lets buyers keep a running tally of the number of infections and their profit in real time, allowing anyone with very minimal technical knowledge to deploy Karmen, threat intelligence firm Recorded Future said in a blog post published today.
+Hacker: Don't Mess with my Malware; otherwise, Your Files are Gone!
+Once infected, the Karmen ransomware encrypts the victim's files and shows a popup window with a threatening message warning users not to interfere with the malware; otherwise, they might lose all their files.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's more interesting? Karmen automatically deletes its decryptor if a sandbox environment or analysis software is detected on the victim's computer to make security researchers away from investigating the threat.
+Initial Karmen infections were reported in December 2016 by victims in Germany and the United States, while the sale in underground forums began in March 2017.
+So far, 20 users have purchased copies of Karmen malware from DevBitox, according to Recorded Future, while three of those buyers have left positive reviews on their profile.
+You can also watch a YouTube video demonstration which shows the RaaS in action.
+How to Protect Yourself from Ransomware Threat?
+Here are some important steps that should be considered safeguarding against ransomware infection:
+Always keep regular backups of your important data.
+Make sure you run an active anti-virus security suite of tools on your system.
+Do not open email attachments from unknown sources.
+Most importantly, always browse the Internet safely.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

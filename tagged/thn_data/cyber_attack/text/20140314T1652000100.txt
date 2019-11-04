@@ -1,0 +1,43 @@
+AlienVault Unified Security Management: Real-Time Threat Detection Starting on Day 1
+Swati Khandelwal
+
+IT Infrastructure of organizations is growing ever more distributed, complex and difficult to manage. To manage such networks, a log management solution is not enough.
+The AlienVault Unified Security Management™ (USM) platform is the perfect solution to help manage the flood of information and analyze it in real time, to find evidence of security incidents. So, in this article we will introduce you to a security monitoring solution that provides real-time threat detection and speeds incident response.
+The AlienVault Unified Security Management™ (USM) platform provides all of the essential security controls required for complete security visibility, and is designed to enable any IT or security practitioner to benefit from results on day one.  Powered by the latest AlienVault Labs Threat Intelligence and the Open Threat Exchange™ (OTX)—the world’s largest crowd-sourced threat intelligence exchange—AlienVault USM delivers a unified, simple and affordable solution for threat detection and compliance management. Understanding the sensitive nature of IT environments, USM includes active, passive and host-based technologies so that you can match the requirements of your particular environment.
+What can you do with USM?
+All of AlienVault’s built-in security controls are pre-integrated and optimized to work together out of the box. Within minutes of installing the USM product, AlienVault’s asset discovery features – active network scanning, passive network monitoring, asset inventory, host-based software inventory – will provide visibility into the assets on your network, what software is installed on them, how they’re configured, any potential vulnerabilities and active threats being executed on them. By building in the essential security capabilities, AlienVault USM significantly reduces complexity and reduces deployment time. 
+Complete Security Visibility in One Day
+With all of the essential security controls built-in, AlienVault USM puts complete security visibility within fast and easy reach of security teams who need to do more with less. With USM you can spend more time investigating the alarms and people attacking your systems and less time setting up and integrating all the other security tools needed for true operational security. USM gives you the security visibility you need to understand who is attacking you, what they are targeting and what your true vulnerabilities are.  Within the first day of installation, you’ll be able to: 
+Prioritize risk through correlation of reputation, threat severity and asset vulnerability
+Run risk assessment and vulnerability reports of affected assets
+Detect threats through correlation of firewall logs and Windows events
+Get a forensic view into stored logs
+Deploy the technology needed to comply with requirements for PCI DSS, HIPAA, ISO 27002, SOX, GPG 13 and more
+Consolidated threat management 
+With the AlienVault Unified Security Management (USM) platform, you can quickly: 
+Identify, isolate and investigate indicators of exposure (IOEs) and indicators of compromise (IOCs) including C&C traffic, malware infections, abnormal network flows and more
+Correlate asset information with built-in vulnerability scan data and AlienVault Labs Threat Intelligence to better prioritize response efforts
+Respond to emerging threats with detailed, customized “how to” guidance for each alert
+Demonstrate to auditors and management that your incident response program is robust and reliable
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Simplify Regulatory Compliance Requirements
+With a single platform, AlienVault USM automatically identifies important audit events in real-time, reports them and alerts on events that warrant immediate action. From file integrity monitoring to IDS to log management - USM makes compliance easier. Not only do we provide the tools you need to be compliant, USM gathers the information you need and generates the reports to give to auditors.
+How does USM work?
+Our most popular option, the AlienVault USM All-in-One appliance—ideal for single sites and more centralized networks—combines the following capabilities for simpler security management:
+Asset discovery and inventory – passive and active discovery techniques
+Vulnerability assessment – accurate and automated network scanning
+Threat detection – network-based, host-based, and wireless IDS
+Behavioral monitoring – netflow analysis, log management, file integrity monitoring and service availability tracking
+Security intelligence – automated event correlation, advanced incident response and data forensics
+For distributed networks, AlienVault’s All-in-One Extended appliance provides local detection with global reporting and response.
+Deploy up to five sensors and provide local asset discovery, vulnerability assessment, behavioral monitoring, and threat detection.
+Correlate local events with global threat intelligence.
+Apply business logic to security events to prioritize investigation efforts.
+Measure, manage and report on compliance status.
+ 
+Additionally, AlienVault USM Standard and Enterprise products are ideal for larger, distributed enterprises that require centralized SOC (Security Operations Center) management and visibility.  The USM Standard and Enterprise products provide the ultimate deployment flexibility and scalability by separating each of the USM components – Sensor, Logger, Server – into dedicated physical, virtual, or cloud appliances.
+Security for you, powered by all
+AlienVault OTX is an open information sharing and analysis network that provides access to real-time, detailed information about incidents that may impact you, allowing you to learn from, and work with, others who have already experienced them. OTX was developed for IT practitioners responsible for security who don’t want to continually deal with the same security problems as their peers without the benefit of lessons learned. Unlike closed, invitation-only information sharing and analysis networks (e.g., FS-ISAC, Infragard, ISAC), OTX provides real-time, actionable information that is open to anyone who chooses to participate. This allows IT practitioners to achieve preventative response by learning about how others are targeted, and then employ the right defenses to avoid becoming victims themselves.
+Try it for free!
+With USM you can achieve true security visibility in minutes, not months - If you've liked what you've seen, you can download a free 30 day trial or you can schedule an in depth demo on the AlienVault website.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

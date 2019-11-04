@@ -1,0 +1,9 @@
+Malware Infects US Power Plants through USB Drives
+Mohit Kumar
+
+The US Department of Homeland Security’s Cyber Emergency Response Team has released a report, which stated that two American electrical power plants were compromised late last year and has identified a number of glaring electronic vulnerabilities.
+Some unknown malware infected two power plants control systems using unprotected USB drives as an attack vector. The tainted USB drive came in contact with a handful of machines at the power generation facility and investigators found sophisticated malware on two engineering workstations critical to the operation of the control environment.
+The report did not say if the computers did or did not have up-to-date antivirus software, but it did say that current software would have found the malware. 
+The other infection affected 10 computers in a turbine control system. It was also spread by a USB drive and resulted in downtime for the impacted systems and delayed the plant restart by approximately three weeks.
+ICS-CERT recommended that the power facility adopt new USB use guidelines, including the cleaning of a USB device before each use.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

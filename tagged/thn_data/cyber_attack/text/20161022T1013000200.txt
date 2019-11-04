@@ -1,0 +1,21 @@
+An Army of Million Hacked IoT Devices Almost Broke the Internet Today
+Unknown
+
+A massive Distributed Denial of Service (DDoS) attack against Dyn, a major domain name system (DNS) provider, broke large portions of the Internet on Friday, causing a significant outage to a ton of websites and services, including Twitter, GitHub, PayPal, Amazon, Reddit, Netflix, and Spotify.
+But how the attack happened? What's the cause behind the attack?
+Exact details of the attack remain vague, but Dyn reported a huge army of hijacked internet-connected devices could be responsible for the massive attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yes, the same method recently employed by hackers to carry out record-breaking DDoS attack of over 1 Tbps against France-based hosting provider OVH.
+According to security intelligence firm Flashpoint, Mirai bots were detected driving much, but not necessarily all, of the traffic in the DDoS attacks against DynDNS.
+Mirai is a piece of malware that targets Internet of Things (IoT) devices such as routers, and security cameras, DVRs, and enslaves vast numbers of these compromised devices into a botnet, which is then used to conduct DDoS attacks.
+Since the source code of Mirai Botnet has already made available to the public, anyone can wield DDoS attacks against targets.
+This time hackers did not target an individual site, rather they attacked Dyn that many sites and services are using as their upstream DNS provider for turning internet protocol (IP) addresses into human-readable websites.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The result we all know: Major sites and services including Twitter, GitHub, Reddit, PayPal, Amazon, AirBnb, Netflix, Pinterest, and so on, were among hundreds of services rendered inaccessible to Millions of people worldwide for several hours on Friday.
+"Flashpoint has confirmed that at least some of the devices used in the Dyn DNS attacks are DVRs, further matching the technical indicators and tactics, techniques, and procedures associated with previous known Mirai botnet attacks," Flashpoint says in a blog post.
+This type of attack is notable and concerning because it largely consists of unsecured IoT devices, which are growing exponentially with time. These devices are implemented in a way that they cannot easily be updated and thus are nearly impossible to secure.
+Manufacturers majorly focus on performance and usability of IoT devices but ignore security measures and encryption mechanisms, which is why they are routinely being hacked and widely becoming part of DDoS botnets used as weapons in cyber attacks.
+An online tracker of the Mirai botnet suggests there are more than 1.2 Million Mirai-infected devices on the Internet, with over 166,000 devices active right now.
+In short, IoT botnets like Mirai are growing rapidly, and there is no easy way to stop them.
+According to officials speaking to Reuters, the US Department of Homeland Security (DHS) and the FBI are both investigating the massive DDoS attacks hitting DynDNS, but none of the agencies yet speculated on who might be behind them.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

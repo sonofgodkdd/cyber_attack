@@ -1,0 +1,20 @@
+Severe Bug Discovered in Signal Messaging App for Windows and Linux
+Swati Khandelwal
+
+Security researchers have discovered a severe vulnerability in the popular end-to-end encrypted Signal messaging app for Windows and Linux desktops which could allow remote attackers to execute malicious code on recipients system just by sending a message—without requiring any user interaction.
+Discovered by Alfredo Ortega, a software security consultant from Argentina, the vulnerability was announced on Twitter just a few hours ago with a proof-of-concept video, demonstrating how a javascript payload sent over Signal for desktop app successfully got executed on the recipient's system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although technical details of the vulnerability have not been revealed as of now, the issue appears to be a remote code execution vulnerability in Signal or at least something very close to persistent cross-site scripting (XSS) which eventually could allow attackers to inject malicious code onto targeted Windows and Linux systems.
+"For the time being, we can only confirm the execution of javascript code. However we are tracking a heap corruption issue, and it's very likely than the javascript execution could lead to native code execution with additional research." Ortega told The Hacker News.
+Ortega also confirms us that the exploitation of this issue requires chaining a couple of vulnerabilities found by two other security researchers from Argentina, Ivan and Juliano.
+"I can confirm that this bug did not exist before and was last introduced because the devs forgot why there was a regex there to begin with. I would like to recommend a comment to this comment if it is not repeated again (TBD)," Ivan said.
+At this moment, it is not clear if the primary vulnerability or other chained bugs reside only in the source code of Signal or also in the popular Electron web application framework, the technology on which Signal desktop applications are based.
+If the flaw resides in the Electron framework, it might also impact other widely-used desktop applications as well, including Skype, Wordpress, and Slack, which also use the same framework.
+Moreover, the infosec community is also worried that if this flaw allows remote attackers to steal their secret encryption keys, it would be the worst nightmare for Signal users. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The good news is that the Open Whisper Systems has already addressed the issue and immediately released new versions of Signal app within a few hours after receiving the responsible vulnerability disclosure by the researcher.
+The primary vulnerability that triggers the code execution has been patched in Signal stable release version 1.10.1 and pre-release version 1.11.0-beta.3. So, users are advised to update their Signal for desktop applications as soon as possible.
+"At this time we are not sure they all [the vulnerabilities chained together] have been fixed" Ortega told The Hacker News.
+The latest release also patched a recently disclosed vulnerability in Signal for desktop apps which was exposing disappearing messages in a user-readable database of macOS's Notification Center, even if they are deleted from the app.
+We will update this article as soon as we get more details of the vulnerability from the researcher. Till then, stay tuned to Facebook and Twitter accounts.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

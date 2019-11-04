@@ -1,0 +1,26 @@
+GandCrab ransomware and Ursnif virus spreading via MS Word macros
+Swati Khandelwal
+
+Security researchers have discovered two separate malware campaigns, one of which is distributing the Ursnif data-stealing trojan and the GandCrab ransomware in the wild, whereas the second one is only infecting victims with Ursnif malware.
+Though both malware campaigns appear to be a work of two separate cybercriminal groups, we find many similarities in them. Both attacks start from phishing emails containing an attached Microsoft Word document embedded with malicious macros and then uses Powershell to deliver fileless malware.
+Ursnif is a data-stealing malware that typically steals sensitive information from compromised computers with an ability to harvest banking credentials, browsing activities, collect keystrokes, system and process information, and deploy additional backdoors.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Discovered earlier last year, GandCrab is a widespread ransomware threat that, like every other ransomware in the market, encrypts files on an infected system and insists victims to pay a ransom in digital currency to unlock them. Its developers ask payments primarily in DASH, which is more complex to track.
+MS Docs + VBS macros = Ursnif and GandCrab Infection
+The first malware campaign distributing two malware threats was discovered by security researchers at Carbon Black who located approximately 180 variants of MS Word documents in the wild that target users with malicious VBS macros.
+If successfully executed, the malicious VBS macro runs a PowerShell script, which then uses a series of techniques to download and execute both Ursnif and GandCrab on the targeted systems.
+The PowerShell script is encoded in base64 that executes the next stage of infection which is responsible for downloading the main malware payloads to compromise the system.
+The first payload is a PowerShell one-liner that evaluates the architecture of the targeted system and then accordingly downloads an additional payload from the Pastebin website, which is executed in the memory, making it difficult for traditional anti-virus techniques to detect its activities.
+"This PowerShell script is a version of the Empire Invoke-PSInject module, with very few modifications," Carbon Black researchers said. "The script will take an embedded PE [Portable Executable] file that has been base64 encoded and inject that into the current PowerShell process."
+The final payload then installs a variant of the GandCrab ransomware on the victim's system, locking them out of their system until they pay a ransom in digit currency.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Meanwhile, the malware also downloads a Ursnif executable from a remote server and once executed, it will fingerprint the system, monitor web browser traffic to collect data, and then send it out to the attackers' command and control (C&C) server.
+"However, numerous Ursnif variants were hosted on the bevendbrec[.]com site during this campaign. Carbon Black was able to discover approximately 120 different Ursnif variants that were being hosted from the domains iscondisth[.]com and bevendbrec[.]com," the researchers said.
+MS Docs + VBS macros = Ursnif Data-Stealing Malware
+Similarly, the second malware campaign that was spotted by security researchers at Cisco Talos leverages a Microsoft Word document containing a malicious VBA macro to deliver another variant of same Ursnif malware.
+This malware attack also compromises targeted systems in multiple stages, starting from phishing emails to running malicious PowerShell commands to gain fileless persistence and then downloading and installing Ursnif data-stealing computer virus.
+"There are three parts to the [PowerShell] command. The first part creates a function that is later used to decode base64 encoded PowerShell. The second part creates a byte array containing a malicious DLL," Talos researchers explained.
+"The third part executes the base64 decode function created in the first part, with a base64 encoded string as the parameter to the function. The returned decoded PowerShell is subsequently executed by the shorthand Invoke-Expression (iex) function."
+Once executed on the victim computer, the malware collects information from the system, puts into a CAB file format, and then sends it to its command-and-control server over HTTPS secure connection.
+Talos researchers have published a list of indicators of compromise (IOCs), along with the names of payload file names dropped on compromised machines, on their blog post that can help you detect and stop the Ursnif malware before it infects your network.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

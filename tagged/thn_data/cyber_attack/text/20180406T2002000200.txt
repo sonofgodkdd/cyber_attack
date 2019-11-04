@@ -1,0 +1,16 @@
+Finland's 3rd Largest Data Breach Exposes 130,000 Users' Plaintext Passwords
+Mohit Kumar
+
+Over 130,000 Finnish citizens have had their credentials compromised in what appears to be third largest data breach ever faced by the country, local media reports.
+Finnish Communications Regulatory Authority (FICORA) is warning users of a large-scale data breach in a website maintained by the New Business Center in Helsinki ("Helsingin Uusyrityskeskus"), a company that provides business advice to entrepreneurs and help them create right business plans.
+Unknown attackers managed to hack the website (http://liiketoimintasuunnitelma.com) and stole over 130,000 users’ login usernames and passwords, which were stored on the site in plain-text without using any cryptographic hash.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Right after knowing of the breach on 3rd April, the company took down the affected website, which is currently showing "under maintenance" notice with a press release about the incident on its homepage.
+"We are very sorry for all the people who have been subjected to crime and who may be affected by mental or financial disadvantages. Unfortunately, we are not yet able to know exactly how many people are and what information this information breaks. We have filed an offense report, and the parties do not need to report to the police separately," says Jarmo Hyökyvaara, Chairman of the Board of the New Business Center of Helsinki.
+"The maintenance and security of our service was the responsibility of our subcontractor, our long-term partner. Unfortunately, the security of the service has not been enough to prevent this kind of attack. This is, in part, our mistake, and as a subscriber and owner of the service we are responsible for this."
+The company also ensures that the detailed information of its customers was stored on a different system, which was not affected by the data breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The incident has been reported to the Helsinki police, who is currently investigating the case as a gross fraud.
+As soon as the website returns, users who have an account with the affected website are strongly recommended to change their passwords.
+Since the plain-text passwords have been exposed to hackers, it would be a great idea for users to change their passwords for any other website, in case they are using identical to the one used on this website.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

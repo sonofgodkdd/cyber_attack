@@ -1,0 +1,30 @@
+Cybersecurity Researchers Spotted First-Ever UEFI Rootkit in the Wild
+Swati Khandelwal
+
+Cybersecurity researchers at ESET have unveiled what they claim to be the first-ever UEFI rootkit being used in the wild, allowing hackers to implant persistent malware on the targeted computers that could survive a complete hard-drive wipe.
+Dubbed LoJax, the UEFI rootkit is part of a malware campaign conducted by the infamous Sednit group, also known as APT28, Fancy Bear, Strontium, and Sofacy, to target several government organizations in the Balkans as well as in Central and Eastern Europe.
+Operating since at least 2007, Sednit group is a state-sponsored hacking group believed to be a unit of GRU (General Staff Main Intelligence Directorate), a Russian secret military intelligence agency. The hacking group has been associated with a number of high profile attacks, including the DNC hack just before the U.S. 2016 presidential election.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+UEFI, or Unified Extensible Firmware Interface, a replacement for the traditional BIOS, is a core and critical firmware component of a computer, which links a computer's hardware and operating system at startup and is typically not accessible to users.
+How Does LoJax UEFI Rootkit Work?
+According to the ESET researchers, the LoJax malware has the ability to write a malicious UEFI module into the system's SPI flash memory, allowing BIOS firmware to install and execute malware deep inside the computer disk during the boot process.
+"This patching tool uses different techniques either to abuse misconfigured platforms or to bypass platform SPI flash memory write protections," ESET researchers said in a blog post published today.
+Since LoJax rootkit resides in the compromised UEFI firmware and re-infects the system before the OS even boots, reinstalling the operating system, formatting the hard disk, or even replacing the hard drive with a new one would not be sufficient to clean the infection.
+Flashing the compromised firmware with legitimate software is the only way to remove such rootkit malware, which typically is not a simple task for most computer users.
+First spotted in early 2017, LoJax is a trojaned version of a popular legitimate LoJack laptop anti-theft software from Absolute Software, which installs its agent into the system's BIOS to survive OS re-installation or drive replacement and notifies device owner of its location in case the laptop gets stolen.
+According to researchers, the hackers slightly modified the LoJack software to gain its ability to overwrite UEFI module and changed the background process that communicates with Absolute Software's server to report to Fancy Bear's C&C servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Upon analyzing the LoJax sample, researchers found that the threat actors used a component called "ReWriter_binary" to rewrite vulnerable UEFI chips, replacing the vendor code with their malicious one.
+"All the LoJax small agent samples we could recover are trojanizing the exact same legitimate sample of the Computrace small agent rpcnetp.exe. They all have the same compilation timestamp and only a few tens of bytes are different from the original one," ESET researchers said.
+"Besides the modifications to the configuration file, the other changes include timer values specifying the intervals between connections to the C&C server."
+LoJax is not the first code to hide in the UEFI chip, as the 2015 Hacking Team leak revealed that the infamous spyware manufacturer offered UEFI persistence with one of its products.
+Also, one of the CIA documents leaked by Wikileaks last year gave a clear insight into the techniques used by the agency to gain 'persistence' on Apple Mac devices, including Macs and iPhones, demonstrating their use of EFI/UEFI and firmware malware.
+However, according to ESET, the LoJax rootkit installation uncovered by its researchers is the first ever recorded case of a UEFI rootkit active in the wild.
+How to Protect Your Computer From Rootkits
+As ESET researchers said, there are no easy ways to automatically remove this threat from a system.
+Since UEFI rootkit is not properly signed, users can protect themselves against LoJax infection by enabling the Secure Boot mechanism, which makes sure that each and every component loaded by the system firmware is properly signed with a valid certificate.
+If you are already infected with such malware, the only way to remove the rootkit is to reflash the SPI flash memory with a clean firmware image specific to the motherboard, which is a very delicate process that must be performed manually and carefully.
+Alternative to reflashing the UEFI/BIOS, you can replace the motherboard of the compromised system outright.
+"The LoJax campaign shows that high-value targets are prime candidates for the deployment of rare, even unique threats. Such targets should always be on the lookout for signs of compromise," researchers wrote.
+For more in-depth details about the LoJax root, you can head onto a white paper [PDF], titled the "LoJax: First UEFI rootkit found in the wild, courtesy of the Sednit group," published on Thursday by ESET researchers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

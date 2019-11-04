@@ -1,0 +1,31 @@
+Hey, Music Lovers! Last.Fm Hack Leaks 43 Million Account Passwords
+Mohit Kumar
+
+Another Day, Another Data Breach!
+If you love to listen to music online and have an account on Last.fm website, your account details may have compromised in a data breach that leaked more than 43 Million user personal data online.
+Last.fm was hacked in March of 2012 and three months after the breach, London-based music streaming service admitted to the incident and issued a warning, encouraging its users to change their passwords.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But now it turns out that the Last.fm data breach was massive, and four years later the stolen data have surfaced in the public.
+The copy of the hacked database obtained by the data breach indexing website LeakedSource contained 43,570,999 user records that were originally stolen from Last.fm on March 22, 2012, according to timestamps in the database.
+The leaked records include usernames, hashed passwords, email addresses, the date when a user signed up to the website, and ad-related data.
+Wait! Have you visited The Hacker News early this week? We reported about the Dropbox massive data breach that had also occurred in 2012, which let hackers get their hands on online cloud storage accounts of more than 68 Million users.
+People Are Still So Bad At Picking Passwords
+But what makes the Last.fm hack much worse is the weak security measures the website used to store its users’ passwords.
+Lat.fm stored its users’ passwords using MD5 hashing – which has been considered outdated even before 2012 – and that too without any Salt, a random string added to strengthen encrypted passwords that make it more difficult for hackers to crack them.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+LeakedSource says it took them just 2 hours to crack 96% of all the passwords included in the Last.fm data dump, which is possible due to the use of an unsalted MD5 hashing system to store passwords.
+"This algorithm is so insecure it took us two hours to crack and convert over 96 percent of them to visible passwords," LeakedSource said in its blog post. adding that it recently significantly invested in its own "password cracking capabilities for the benefit of our users."
+And guess what? Last.fm's analysis of the password reveals that the most popular passwords users kept securing their accounts were extremely weak.
+255,319 people used the phrase 123456
+92,652 used 'password' as password
+Almost 67,000 used 'lastfm'
+Around 64,000 used 123456789
+46,000 used 'qwerty'
+Almost 36,000 used 'abc123'
+LeakedSource added the data into its database; so if you have a Last.fm account, you can check if it has been compromised by searching your data at Leaked Source’s search engine.
+Last.fm is the latest to join the list of "Mega-Breaches," that revealed in recent months, when hundreds of Millions of online credentials from years-old data breaches on popular social network sites, including LinkedIn, MySpace, VK.com and Tumblr, were sold on the Dark Web.
+The takeaway:
+Change your passwords for Last.fm account as well as other online accounts immediately, especially if you are using the same password for multiple sites.
+Moreover, make use of a good password manager to create complex passwords for different websites and remember them.
+We have listed some of the best password managers that could help you understand the importance of password manager as well as choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

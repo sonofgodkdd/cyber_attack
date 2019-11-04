@@ -1,0 +1,22 @@
+Google+ is Shutting Down After a Vulnerability Exposed 500,000 Users' Data
+Swati Khandelwal
+
+Google is going to shut down its social media network Google+ after the company suffered a massive data breach that exposed the private data of hundreds of thousands of Google Plus users to third-party developers.
+According to the tech giant, a security vulnerability in one of Google+'s People APIs allowed third-party developers to access data for more than 500,000 users, including their usernames, email addresses, occupation, date of birth, profile photos, and gender-related information.
+Since Google+ servers do not keep API logs for more than two weeks, the company cannot confirm the number of users impacted by the vulnerability.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Google assured its users that the company found no evidence that any developer was aware of this bug, or that the profile data was misused by any of the 438 developers that could have had access.
+"However, we ran a detailed analysis over the two weeks prior to patching the bug, and from that analysis, the Profiles of up to 500,000 Google+ accounts were potentially affected. Our analysis showed that up to 438 applications may have used this API," Google said in blog post published today.
+The vulnerability was open since 2015 and fixed after Google discovered it in March 2018, but the company chose not to disclose the breach to the public—at the time when Facebook was being roasted for Cambridge Analytica scandal.
+Though Google has not revealed the technical details of the security vulnerability, the nature of the flaw seems to be something very similar to Facebook API flaw that recently allowed unauthorized developers to access private data from Facebook users.
+Besides admitting the security breach, Google also announced that the company is shutting down its social media network, acknowledging that Google+ failed to gain broad adoption or significant traction with consumers.
+"The consumer version of Google+ currently has low usage and engagement: 90 percent of Google+ user sessions are less than five seconds," Google said.
+In response, the company has decided to shut down Google+ for consumers by the end of August 2019. However, Google+ will continue as a product for Enterprise users.
+Google Introduces New Privacy Controls Over Third-Party App Permissions
+As part of its "Project Strobe," Google engineers also reviewed third-party developer access to Google account and Android device data; and has accordingly now introduced some new privacy controls.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+When a third-party app prompts users for access to their Google account data, clicking "Allow" button approves all requested permissions at once, leaving an opportunity for malicious apps to trick users into giving away powerful permissions.
+But now Google has updated its Account Permissions system that asks for each requested permission individually rather than all at once, giving users more control over what type of account data they choose to share with each app.
+Since APIs can also allow developers to access users' extremely sensitive data, like that of Gmail account, Google has limited access to Gmail API only for apps that directly enhance email functionality—such as email clients, email backup services and productivity services.
+Google shares fell over 2 percent to $1134.23 after the data breach reports.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

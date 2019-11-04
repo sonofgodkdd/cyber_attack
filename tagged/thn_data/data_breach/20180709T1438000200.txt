@@ -1,0 +1,36 @@
+DomainFactory Hacked—Hosting Provider Asks All Users to Change Passwords
+Swati Khandelwal
+
+Besides Timehop, another data breach was discovered last week that affects users of one of the largest web hosting companies in Germany, DomainFactory, owned by GoDaddy.
+The breach initially happened back in last January this year and just emerged last Tuesday when an unknown attacker himself posted a breach note on the DomainFactory support forum.
+It turns out that the attacker breached company servers to obtain the data of one of its customers who apparently owes him a seven-figure amount, according to Heise.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Later the attacker tried to report DomainFactory about the potential vulnerability using which he broke into its servers, but the hosting provider did not respond, and neither disclosed the breach to its customers.
+In that situation, the attacker head on to the company's support forum and broke the news with sample data of a few customers as proof, which forced DomainFactory to immediately shut down the forum website and initiate an investigation.
+Attacker Gains Access to a Large Number of Data
+DomainFactory finally confirmed the breach last weekend, revealing that following personal data belonging to an unspecified number of its customers has been compromised.
+Customer name
+Company name
+Customer account ID
+Physical address
+E-mail addresses
+Telephone number
+DomainFactory Phone password
+Date of birth
+Bank name and account number (e.g. IBAN or BIC)
+Schufa score (German credit score)
+Well, that's a whole lot of information, which can be used by cybercriminals for targeted social engineering attacks against the customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The forum has since been temporarily down, and DomainFactory said that a data feed of certain customer information, accessed by the attacker, was left open to external third parties after a system transition on January 29, 2018.
+"We have notified the data protection authority and commissioned external experts with the investigation. The protection of the data of our customers is paramount, and we regret the inconvenience this incident causes, very much," the company said.
+Change All of Your Passwords
+DomainFactory is now advising its users to change passwords for all of the following services and applications "as a precautionary measure," and also change passwords for other online services where you use the same password.
+Customer password
+Phone password
+Email passwords
+FTP / Live disk passwords
+SSH passwords
+MySQL database passwords
+Since the compromised data can be used for identity theft and to create direct debits for customers' bank account, users are also recommended to monitor their bank statements for any unauthorized transaction.
+So far it is unclear how the attacker got into the Domainfactory servers, but the German publication said the attacker did not give an impression of selling the captured data or leaking it online.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

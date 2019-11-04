@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers Seize Over 10,000 Pounds of Marijuana at Otay Mesa
+(Wednesday, March 08, 2006)
+OTAY MESA  - U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry seized 10,863 pounds of marijuana from a truck that entered the port Tuesday afternoon, March 7, officials announced today.
+It was the second large narcotics seizure in less than a week at the Southwest border's second busiest cargo port of entry, eclipsing the seizure of 4,700 pounds of marijuana found last Friday within a shipment of carton and fabric scrap material, officials said.
+Yesterday, CBP officers discovered 670 cellophane-wrapped packages of the narcotic valued at $5 million hidden within a shipment of 100 television sets in transit through the U.S. bound for the port of Long Beach and ultimately Panama, officials said.
+Officers diverted the 1985 Peterbuilt tractor-trailer to the port's gamma-ray inspection facility for an intensive examination after it entered the port from Mexico. While the conveyance was parked, a narcotics detector dog alerted to narcotics while screening.
+The gamma-ray examination revealed discrepancies within the cargo container. The container doors were opened and a large quantity of wrapped packages was visible co-mingled with the manifested merchandise. Field chemical tests indicated the green leafy substance inside the packages was marijuana.
+The driver, a 32-year old Mexican male from Guadalajara, was arrested by special agents of U.S. Immigration and Customs Enforcement and subsequently transported to the Metropolitan Correctional Center to face arraignment for the failed smuggling attempt.
+"Any day our officers prevent 10,000 pounds of narcotics from entering the streets of America is a great day for CBP," said Adele Fasano, field operations director for CBP in San Diego. "Such apprehensions should put smugglers on notice that we intend to remain ever vigilant against this kind of criminal activity."
+This seizure brings the amount to 16,794 pounds of narcotics seized by CBP officers at the Otay Mesa cargo facility since the current fiscal year began in October 2005.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="13" text="CBP Officers" TYPE="BAR" />
+<person id="p2" start="106" end="192" text="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" TYPE="BAR" />
+<person id="p3" start="290" end="299" text="officials" TYPE="BAR" />
+<person id="p4" start="565" end="574" text="officials" TYPE="BAR" />
+<person id="p5" start="592" end="604" text="CBP officers" TYPE="BAR" />
+<person id="p6" start="817" end="826" text="officials" TYPE="BAR" />
+<person id="p7" start="833" end="841" text="Officers" TYPE="BAR" />
+<person id="p9" start="1393" end="1448" text="The driver, a 32-year old Mexican male from Guadalajara" TYPE="APP" />
+<person id="p10" start="1393" end="1403" text="The driver" TYPE="NOM" />
+<person id="p11" start="1405" end="1448" text="a 32-year old Mexican male from Guadalajara" TYPE="NOM" />
+<person id="p12" start="1466" end="1524" text="special agents of U.S. Immigration and Customs Enforcement" TYPE="BAR" />
+<person id="p13" start="1657" end="1669" text="our officers" TYPE="BAR" />
+<person id="p14" start="1772" end="1832" text="Adele Fasano, field operations director for CBP in San Diego" TYPE="APP" />
+<person id="p15" start="1772" end="1784" text="Adele Fasano" TYPE="NAM" />
+<person id="p16" start="1786" end="1832" text="field operations director for CBP in San Diego" TYPE="BAR" />
+<person id="p17" start="1865" end="1874" text="smugglers" TYPE="BAR" />
+<person id="p19" start="2036" end="2080" text="CBP officers at the Otay Mesa cargo facility" TYPE="BAR" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="106" end="145" text="U.S. Customs and Border Protection (CBP" TYPE="NAMPRE" />
+<organization id="o2" start="142" end="145" text="CBP" TYPE="NAM" />
+<organization id="o3" start="592" end="595" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="1484" end="1524" text="U.S. Immigration and Customs Enforcement" TYPE="NAM" />
+<organization id="o5" start="1657" end="1660" text="our" TYPE="PRO" />
+<organization id="o6" start="1761" end="1764" text="CBP" TYPE="NAM" />
+<organization id="o7" start="1816" end="1819" text="CBP" TYPE="NAM" />
+<organization id="o8" start="1890" end="1892" text="we" TYPE="PRO" />
+<organization id="o9" start="2036" end="2039" text="CBP" TYPE="NAMPRE" />
+<geographical-political id="g0" start="55" end="64" text="Otay Mesa" TYPE="NAM" />
+<geographical-political id="g1" start="93" end="102" text="OTAY MESA" TYPE="NAM" />
+<geographical-political id="g2" start="756" end="760" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g3" start="809" end="815" text="Panama" TYPE="NAM" />
+<geographical-political id="g4" start="991" end="997" text="Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="1419" end="1426" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g6" start="1437" end="1448" text="Guadalajara" TYPE="NAM" />
+<geographical-political id="g7" start="1734" end="1741" text="America" TYPE="NAM" />
+<geographical-political id="g8" start="1823" end="1832" text="San Diego" TYPE="NAM" />
+<geographical-political id="g9" start="2056" end="2065" text="Otay Mesa" TYPE="NAMPRE" />
+<location id="l1" start="386" end="402" text="Southwest border" TYPE="BAR" />
+<location id="l2" start="752" end="766" text="the U.S. bound" TYPE="NOM" />
+<location id="l3" start="1719" end="1741" text="the streets of America" TYPE="NOM" />
+<falicity id="f0" start="159" end="192" text="the Otay Mesa cargo port of entry" TYPE="NAM" />
+<falicity id="f1" start="253" end="261" text="the port" TYPE="NOM" />
+<falicity id="f2" start="382" end="439" text="the Southwest border's second busiest cargo port of entry" TYPE="NOM" />
+<falicity id="f3" start="771" end="793" text="the port of Long Beach" TYPE="NAM" />
+<falicity id="f4" start="890" end="898" text="the port" TYPE="NOM" />
+<falicity id="f6" start="977" end="985" text="the port" TYPE="NOM" />
+<falicity id="f7" start="1557" end="1593" text="the Metropolitan Correctional Center" TYPE="NAM" />
+<falicity id="f8" start="2052" end="2080" text="the Otay Mesa cargo facility" TYPE="NOM" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="55" end="64" text="Otay Mesa" />
+<head id="h3" start="93" end="102" text="OTAY MESA" />
+<head id="h4" start="147" end="155" text="officers" />
+<head id="h5" start="106" end="140" text="U.S. Customs and Border Protection" />
+<head id="h6" start="142" end="145" text="CBP" />
+<head id="h7" start="163" end="192" text="Otay Mesa cargo port of entry" />
+<head id="h8" start="257" end="261" text="port" />
+<head id="h9" start="290" end="299" text="officials" />
+<head id="h10" start="426" end="430" text="port" />
+<head id="h11" start="396" end="402" text="border" />
+<head id="h12" start="565" end="574" text="officials" />
+<head id="h13" start="596" end="604" text="officers" />
+<head id="h14" start="592" end="595" text="CBP" />
+<head id="h15" start="761" end="766" text="bound" />
+<head id="h16" start="756" end="760" text="U.S." />
+<head id="h17" start="775" end="793" text="port of Long Beach" />
+<head id="h18" start="809" end="815" text="Panama" />
+<head id="h19" start="817" end="826" text="officials" />
+<head id="h20" start="833" end="841" text="Officers" />
+<head id="h21" start="894" end="898" text="port" />
+<head id="h22" start="981" end="985" text="port" />
+<head id="h23" start="991" end="997" text="Mexico" />
+<head id="h24" start="1397" end="1403" text="driver" />
+<head id="h25" start="1427" end="1431" text="male" />
+<head id="h26" start="1419" end="1426" text="Mexican" />
+<head id="h27" start="1437" end="1448" text="Guadalajara" />
+<head id="h28" start="1474" end="1480" text="agents" />
+<head id="h29" start="1484" end="1524" text="U.S. Immigration and Customs Enforcement" />
+<head id="h30" start="1561" end="1593" text="Metropolitan Correctional Center" />
+<head id="h31" start="1661" end="1669" text="officers" />
+<head id="h32" start="1657" end="1660" text="our" />
+<head id="h33" start="1723" end="1730" text="streets" />
+<head id="h34" start="1734" end="1741" text="America" />
+<head id="h35" start="1761" end="1764" text="CBP" />
+<head id="h36" start="1772" end="1784" text="Adele Fasano" />
+<head id="h37" start="1803" end="1811" text="director" />
+<head id="h38" start="1816" end="1819" text="CBP" />
+<head id="h39" start="1823" end="1832" text="San Diego" />
+<head id="h40" start="1865" end="1874" text="smugglers" />
+<head id="h41" start="1890" end="1892" text="we" />
+<head id="h42" start="2040" end="2048" text="officers" />
+<head id="h43" start="2036" end="2039" text="CBP" />
+<head id="h44" start="2072" end="2080" text="facility" />
+<head id="h45" start="2056" end="2065" text="Otay Mesa" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="55" end="64" text="Otay Mesa" />
+<name id="n2" start="93" end="102" text="OTAY MESA" />
+<name id="n3" start="106" end="140" text="U.S. Customs and Border Protection" />
+<name id="n4" start="142" end="145" text="CBP" />
+<name id="n5" start="163" end="192" text="Otay Mesa cargo port of entry" />
+<name id="n6" start="592" end="595" text="CBP" />
+<name id="n7" start="756" end="760" text="U.S." />
+<name id="n8" start="775" end="793" text="port of Long Beach" />
+<name id="n9" start="809" end="815" text="Panama" />
+<name id="n11" start="991" end="997" text="Mexico" />
+<name id="n12" start="1419" end="1426" text="Mexican" />
+<name id="n13" start="1437" end="1448" text="Guadalajara" />
+<name id="n14" start="1484" end="1524" text="U.S. Immigration and Customs Enforcement" />
+<name id="n15" start="1561" end="1593" text="Metropolitan Correctional Center" />
+<name id="n16" start="1734" end="1741" text="America" />
+<name id="n17" start="1761" end="1764" text="CBP" />
+<name id="n18" start="1772" end="1784" text="Adele Fasano" />
+<name id="n19" start="1816" end="1819" text="CBP" />
+<name id="n20" start="1823" end="1832" text="San Diego" />
+<name id="n21" start="2036" end="2039" text="CBP" />
+<name id="n22" start="2056" end="2065" text="Otay Mesa" />
+<located-mention id="lo0" start="106" end="192" text="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" TYPE="Preposition" />
+<located-mention id="lo1" start="1393" end="1646" text="The driver, a 32-year old Mexican male from Guadalajara, was arrested by special agents of U.S. Immigration and Customs Enforcement and subsequently transported to the Metropolitan Correctional Center to face arraignment for the failed smuggling attempt" TYPE="Verbal" />
+<located-mention id="lo2" start="1786" end="1832" text="field operations director for CBP in San Diego" TYPE="Preposition" />
+<located-mention id="lo3" start="2036" end="2080" text="CBP officers at the Otay Mesa cargo facility" TYPE="Preposition" />
+<employment-mention id="e0" start="1" end="13" text="CBP Officers" TYPE="PreMod" />
+<employment-mention id="e1" start="106" end="192" text="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" TYPE="PreMod" />
+<employment-mention id="e2" start="592" end="604" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e3" start="1466" end="1524" text="special agents of U.S. Immigration and Customs Enforcement" TYPE="Preposition" />
+<employment-mention id="e4" start="1657" end="1669" text="our officers" TYPE="PreMod" />
+<employment-mention id="e5" start="1786" end="1832" text="field operations director for CBP in San Diego" TYPE="Preposition" />
+<employment-mention id="e6" start="2036" end="2080" text="CBP officers at the Otay Mesa cargo facility" TYPE="PreMod" />
+<CRRE id="C0" start="1405" end="1448" text="a 32-year old Mexican male from Guadalajara" TYPE="PreMod" />
+<CRRE id="C1" start="1405" end="1448" text="a 32-year old Mexican male from Guadalajara" TYPE="Preposition" />
+<entity_link id="en0" fromID="g1" fromText="OTAY MESA" toID="g0" toText="Otay Mesa" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection (CBP" />
+<entity_link id="en3" fromID="f1" fromText="the port" toID="f0" toText="the Otay Mesa cargo port of entry" />
+<entity_link id="en4" fromID="f2" fromText="the Southwest border's second busiest cargo port of entry" toID="f1" toText="the port" />
+<entity_link id="en5" fromID="p4" fromText="officials" toID="p3" toText="officials" />
+<entity_link id="en6" fromID="p5" fromText="CBP officers" toID="p0" toText="CBP Officers" />
+<entity_link id="en7" fromID="o3" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection (CBP" />
+<entity_link id="en8" fromID="p6" fromText="officials" toID="p4" toText="officials" />
+<entity_link id="en9" fromID="p7" fromText="Officers" toID="p2" toText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" />
+<entity_link id="en10" fromID="f4" fromText="the port" toID="f2" toText="the Southwest border's second busiest cargo port of entry" />
+<entity_link id="en11" fromID="f6" fromText="the port" toID="f4" toText="the port" />
+<entity_link id="en12" fromID="p10" fromText="The driver" toID="p9" toText="The driver, a 32-year old Mexican male from Guadalajara" />
+<entity_link id="en13" fromID="p11" fromText="a 32-year old Mexican male from Guadalajara" toID="p10" toText="The driver" />
+<entity_link id="en14" fromID="g5" fromText="Mexican" toID="g4" toText="Mexico" />
+<entity_link id="en15" fromID="p13" fromText="our officers" toID="p5" toText="CBP officers" />
+<entity_link id="en16" fromID="o5" fromText="our" toID="o3" toText="CBP" />
+<entity_link id="en17" fromID="g7" fromText="America" toID="g2" toText="U.S." />
+<entity_link id="en18" fromID="o6" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en19" fromID="p15" fromText="Adele Fasano" toID="p14" toText="Adele Fasano, field operations director for CBP in San Diego" />
+<entity_link id="en20" fromID="p16" fromText="field operations director for CBP in San Diego" toID="p15" toText="Adele Fasano" />
+<entity_link id="en21" fromID="o7" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en22" fromID="o8" fromText="we" toID="o6" toText="CBP" />
+<entity_link id="en24" fromID="o9" fromText="CBP" toID="o7" toText="CBP" />
+<entity_link id="en25" fromID="p19" fromText="CBP officers at the Otay Mesa cargo facility" toID="p2" toText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" />
+<entity_link id="en26" fromID="f8" fromText="the Otay Mesa cargo facility" toID="f0" toText="the Otay Mesa cargo port of entry" />
+<entity_link id="en27" fromID="g9" fromText="Otay Mesa" toID="g1" toText="OTAY MESA" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="g0" fromText="Otay Mesa" toID="h2" toText="Otay Mesa" />
+<head_link id="he3" fromID="g1" fromText="OTAY MESA" toID="h3" toText="OTAY MESA" />
+<head_link id="he4" fromID="p2" fromText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" toID="h4" toText="officers" />
+<head_link id="he5" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="h5" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="o2" fromText="CBP" toID="h6" toText="CBP" />
+<head_link id="he8" fromID="f0" fromText="the Otay Mesa cargo port of entry" toID="h7" toText="Otay Mesa cargo port of entry" />
+<head_link id="he9" fromID="f1" fromText="the port" toID="h8" toText="port" />
+<head_link id="he10" fromID="p3" fromText="officials" toID="h9" toText="officials" />
+<head_link id="he11" fromID="f2" fromText="the Southwest border's second busiest cargo port of entry" toID="h10" toText="port" />
+<head_link id="he12" fromID="l1" fromText="Southwest border" toID="h11" toText="border" />
+<head_link id="he13" fromID="p4" fromText="officials" toID="h12" toText="officials" />
+<head_link id="he14" fromID="p5" fromText="CBP officers" toID="h13" toText="officers" />
+<head_link id="he15" fromID="o3" fromText="CBP" toID="h14" toText="CBP" />
+<head_link id="he16" fromID="l2" fromText="the U.S. bound" toID="h15" toText="bound" />
+<head_link id="he17" fromID="g2" fromText="U.S." toID="h16" toText="U.S." />
+<head_link id="he18" fromID="f3" fromText="the port of Long Beach" toID="h17" toText="port of Long Beach" />
+<head_link id="he19" fromID="g3" fromText="Panama" toID="h18" toText="Panama" />
+<head_link id="he20" fromID="p6" fromText="officials" toID="h19" toText="officials" />
+<head_link id="he21" fromID="p7" fromText="Officers" toID="h20" toText="Officers" />
+<head_link id="he22" fromID="f4" fromText="the port" toID="h21" toText="port" />
+<head_link id="he23" fromID="f6" fromText="the port" toID="h22" toText="port" />
+<head_link id="he24" fromID="g4" fromText="Mexico" toID="h23" toText="Mexico" />
+<head_link id="he25" fromID="p10" fromText="The driver" toID="h24" toText="driver" />
+<head_link id="he26" fromID="p11" fromText="a 32-year old Mexican male from Guadalajara" toID="h25" toText="male" />
+<head_link id="he27" fromID="g5" fromText="Mexican" toID="h26" toText="Mexican" />
+<head_link id="he28" fromID="g6" fromText="Guadalajara" toID="h27" toText="Guadalajara" />
+<head_link id="he29" fromID="p12" fromText="special agents of U.S. Immigration and Customs Enforcement" toID="h28" toText="agents" />
+<head_link id="he30" fromID="o4" fromText="U.S. Immigration and Customs Enforcement" toID="h29" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he31" fromID="f7" fromText="the Metropolitan Correctional Center" toID="h30" toText="Metropolitan Correctional Center" />
+<head_link id="he32" fromID="p13" fromText="our officers" toID="h31" toText="officers" />
+<head_link id="he33" fromID="o5" fromText="our" toID="h32" toText="our" />
+<head_link id="he34" fromID="l3" fromText="the streets of America" toID="h33" toText="streets" />
+<head_link id="he35" fromID="g7" fromText="America" toID="h34" toText="America" />
+<head_link id="he36" fromID="o6" fromText="CBP" toID="h35" toText="CBP" />
+<head_link id="he37" fromID="p15" fromText="Adele Fasano" toID="h36" toText="Adele Fasano" />
+<head_link id="he38" fromID="p16" fromText="field operations director for CBP in San Diego" toID="h37" toText="director" />
+<head_link id="he39" fromID="o7" fromText="CBP" toID="h38" toText="CBP" />
+<head_link id="he40" fromID="g8" fromText="San Diego" toID="h39" toText="San Diego" />
+<head_link id="he41" fromID="p17" fromText="smugglers" toID="h40" toText="smugglers" />
+<head_link id="he42" fromID="o8" fromText="we" toID="h41" toText="we" />
+<head_link id="he44" fromID="o9" fromText="CBP" toID="h43" toText="CBP" />
+<head_link id="he45" fromID="p19" fromText="CBP officers at the Otay Mesa cargo facility" toID="h42" toText="officers" />
+<head_link id="he46" fromID="f8" fromText="the Otay Mesa cargo facility" toID="h44" toText="facility" />
+<head_link id="he47" fromID="g9" fromText="Otay Mesa" toID="h45" toText="Otay Mesa" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Otay Mesa" toID="n1" toText="Otay Mesa" />
+<name_link id="na2" fromID="g1" fromText="OTAY MESA" toID="n2" toText="OTAY MESA" />
+<name_link id="na3" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="n3" toText="U.S. Customs and Border Protection" />
+<name_link id="na4" fromID="o2" fromText="CBP" toID="n4" toText="CBP" />
+<name_link id="na5" fromID="f0" fromText="the Otay Mesa cargo port of entry" toID="n5" toText="Otay Mesa cargo port of entry" />
+<name_link id="na6" fromID="o3" fromText="CBP" toID="n6" toText="CBP" />
+<name_link id="na7" fromID="g2" fromText="U.S." toID="n7" toText="U.S." />
+<name_link id="na8" fromID="f3" fromText="the port of Long Beach" toID="n8" toText="port of Long Beach" />
+<name_link id="na9" fromID="g3" fromText="Panama" toID="n9" toText="Panama" />
+<name_link id="na10" fromID="g4" fromText="Mexico" toID="n11" toText="Mexico" />
+<name_link id="na11" fromID="g5" fromText="Mexican" toID="n12" toText="Mexican" />
+<name_link id="na12" fromID="g6" fromText="Guadalajara" toID="n13" toText="Guadalajara" />
+<name_link id="na13" fromID="o4" fromText="U.S. Immigration and Customs Enforcement" toID="n14" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na14" fromID="f7" fromText="the Metropolitan Correctional Center" toID="n15" toText="Metropolitan Correctional Center" />
+<name_link id="na15" fromID="g7" fromText="America" toID="n16" toText="America" />
+<name_link id="na16" fromID="o6" fromText="CBP" toID="n17" toText="CBP" />
+<name_link id="na17" fromID="p15" fromText="Adele Fasano" toID="n18" toText="Adele Fasano" />
+<name_link id="na18" fromID="o7" fromText="CBP" toID="n19" toText="CBP" />
+<name_link id="na19" fromID="g8" fromText="San Diego" toID="n20" toText="San Diego" />
+<name_link id="na20" fromID="o9" fromText="CBP" toID="n21" toText="CBP" />
+<name_link id="na21" fromID="g9" fromText="Otay Mesa" toID="n22" toText="Otay Mesa" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers" toID="p0" toText="CBP Officers" />
+<relation_link1 id="r1" fromID="e1" fromText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" toID="p2" toText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" />
+<relation_link1 id="r2" fromID="lo0" fromText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" toID="p2" toText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" />
+<relation_link1 id="r3" fromID="e2" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<relation_link1 id="r4" fromID="e3" fromText="special agents of U.S. Immigration and Customs Enforcement" toID="p12" toText="special agents of U.S. Immigration and Customs Enforcement" />
+<relation_link1 id="r5" fromID="lo1" fromText="The driver, a 32-year old Mexican male from Guadalajara, was arrested by special agents of U.S. Immigration and Customs Enforcement and subsequently transported to the Metropolitan Correctional Center to face arraignment for the failed smuggling attempt" toID="p10" toText="The driver" />
+<relation_link1 id="r6" fromID="e4" fromText="our officers" toID="p13" toText="our officers" />
+<relation_link1 id="r7" fromID="e5" fromText="field operations director for CBP in San Diego" toID="p16" toText="field operations director for CBP in San Diego" />
+<relation_link1 id="r8" fromID="lo2" fromText="field operations director for CBP in San Diego" toID="p16" toText="field operations director for CBP in San Diego" />
+<relation_link1 id="r9" fromID="e6" fromText="CBP officers at the Otay Mesa cargo facility" toID="p19" toText="CBP officers at the Otay Mesa cargo facility" />
+<relation_link1 id="r10" fromID="lo3" fromText="CBP officers at the Otay Mesa cargo facility" toID="p19" toText="CBP officers at the Otay Mesa cargo facility" />
+<relation_link1 id="r11" fromID="C0" fromText="a 32-year old Mexican male from Guadalajara" toID="p11" toText="a 32-year old Mexican male from Guadalajara" />
+<relation_link1 id="r12" fromID="C1" fromText="a 32-year old Mexican male from Guadalajara" toID="p11" toText="a 32-year old Mexican male from Guadalajara" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="e1" fromText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" toID="o1" toText="U.S. Customs and Border Protection (CBP" />
+<relation_link2 id="re2" fromID="lo0" fromText="U.S. Customs and Border Protection (CBP) officers at the Otay Mesa cargo port of entry" toID="f0" toText="the Otay Mesa cargo port of entry" />
+<relation_link2 id="re3" fromID="e2" fromText="CBP officers" toID="o3" toText="CBP" />
+<relation_link2 id="re4" fromID="e3" fromText="special agents of U.S. Immigration and Customs Enforcement" toID="o4" toText="U.S. Immigration and Customs Enforcement" />
+<relation_link2 id="re5" fromID="lo1" fromText="The driver, a 32-year old Mexican male from Guadalajara, was arrested by special agents of U.S. Immigration and Customs Enforcement and subsequently transported to the Metropolitan Correctional Center to face arraignment for the failed smuggling attempt" toID="f7" toText="the Metropolitan Correctional Center" />
+<relation_link2 id="re6" fromID="e4" fromText="our officers" toID="o5" toText="our" />
+<relation_link2 id="re7" fromID="e5" fromText="field operations director for CBP in San Diego" toID="o7" toText="CBP" />
+<relation_link2 id="re8" fromID="lo2" fromText="field operations director for CBP in San Diego" toID="g8" toText="San Diego" />
+<relation_link2 id="re9" fromID="e6" fromText="CBP officers at the Otay Mesa cargo facility" toID="o9" toText="CBP" />
+<relation_link2 id="re10" fromID="lo3" fromText="CBP officers at the Otay Mesa cargo facility" toID="f8" toText="the Otay Mesa cargo facility" />
+<relation_link2 id="re11" fromID="C0" fromText="a 32-year old Mexican male from Guadalajara" toID="g5" toText="Mexican" />
+<relation_link2 id="re12" fromID="C1" fromText="a 32-year old Mexican male from Guadalajara" toID="g6" toText="Guadalajara" />
+</TAGS>
+</KddTask>

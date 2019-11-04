@@ -1,0 +1,25 @@
+BEWARE – New 'Creative' Phishing Attack You Really Should Pay Attention To
+Mohit Kumar
+
+A cybersecurity researcher who last month warned of a creative phishing campaign has now shared details of a new but similar attack campaign with The Hacker News that has specifically been designed to target mobile users.
+Just like the previous campaign, the new phishing attack is also based on the idea that a malicious web page could mimic look and feel of the browser window to trick even the most vigilant users into giving away their login credentials to attackers.
+Antoine Vincent Jebara, co-founder and CEO of password managing software Myki, shared a new video with The Hacker News, demonstrating how attackers can reproduce native iOS behavior, browser URL bar and tab switching animation effects of Safari in a very realistic manner on a web-page to present fake login pages, without actually opening or redirecting users to a new tab.
+New Phishing Attack Mimics Mobile Browser Animation and Design
+As you can see in the video, a malicious website that looks like Airbnb prompts users to authenticate using Facebook login, but upon clicking, the page displays a fake tab switching animation video aimed to trick users into thinking that their browsers are behaving normally.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The Facebook login page is also definitely fake and is an overlay over the current page that makes it look like an authentic Facebook page," Jebara said.
+"From the moment a user accesses the malicious website, they are manipulated into performing actions that seem legitimate, all with the purpose of building up their confidence to submit their Facebook password at the final stage of the attack."
+If users are not very attentive to details and fail to spot minor differences, they would eventually end up filling the username and password fields on the phishing page, resulting in giving away their social media credentials to the attackers.
+"This attack is poorly implemented and contains multiple flaws from both a process and design point of view. Login with Facebook prompts are presented as an external window in Safari, not as an additional tab that the user is switched to, as the origin URL still appears in minimized form over the fake Facebook navigation bar," Jebara said.
+"Although hackers would probably implement this campaign in a more realistic manner, in its current form, a majority of users would fall for this attack, as the details that give it away are relatively subtle, and more importantly, the user is shown specific 'familiar' actions that seem to turn off the part of the brain that doubts the legitimacy of the page."
+How to Protect Against Such New Form of Phishing Scams
+It should be noted that such advanced phishing attacks are not limited to Facebook, Safari browser or just to iOS mobile users only, but could very easily be adapted to target Android devices or any other social media site as well.
+Cybercriminals can target different platforms by creating a website that automatically serves different versions of phishing pages based upon what browser app and mobile device operating system victims use.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since there are no clear guidelines to spot such creative phishing attacks, users are highly recommended to:
+Use password managers that only auto-fill credentials on legit domains, helping you avoid giving away credentials to fake websites.
+Enable two-factor authentication, wherever available, preventing hackers from accessing your online accounts even if they somehow manage to steal your credentials.
+Besides this, Jebara also suggests users ask themselves "Why am I asked to log in?" Or "Am I not already logged in to this?" when hackers try to mimic the logins of popular websites for which you already have an app on your smartphone.
+Phishing is still one of the most severe threats to users as well as companies, and hackers continue to try new and creative ways to trick you into providing them with your sensitive and financial details that they could later use to steal your money or hack into your online accounts.
+Stay Safe! Stay Tuned!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

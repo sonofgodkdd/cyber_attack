@@ -1,0 +1,24 @@
+Bad Rabbit: New Ransomware Attack Rapidly Spreading Across Europe
+Mohit Kumar
+
+A new widespread ransomware attack is spreading like wildfire around Europe and has already affected over 200 major organisations, primarily in Russia, Ukraine, Turkey and Germany, in the past few hours.
+Dubbed "Bad Rabbit," is reportedly a new Petya-like targeted ransomware attack against corporate networks, demanding 0.05 bitcoin (~ $285) as ransom from victims to unlock their systems.
+According to an initial analysis provided by the Kaspersky, the ransomware was distributed via drive-by download attacks, using fake Adobe Flash players installer to lure victims' in to install malware unwittingly.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"No exploits were used, so the victim would have to manually execute the malware dropper, which pretends to be an Adobe Flash installer. We’ve detected a number of compromised websites, all of which were news or media websites." Kaspersky Lab said.
+However, security researchers at ESET have detected Bad Rabbit malware as 'Win32/Diskcoder.D' — a new variant of Petya ransomware, also known as Petrwrap, NotPetya, exPetr and GoldenEye.
+Bad Rabbit ransomware uses DiskCryptor, an open source full drive encryption software, to encrypt files on infected computers with RSA 2048 keys.
+ESET believes the new wave of ransomware attack is not using EternalBlue exploit — the leaked SMB vulnerability which was used by WannaCry and Petya ransomware to spread through networks.
+Instead it first scans internal network for open SMB shares, tries a hardcoded list of commonly used credentials to drop malware, and also uses Mimikatz post-exploitation tool to extract credentials from the affected systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The ransom note, shown above, asks victims to log into a Tor onion website to make the payment, which displays a countdown of 40 hours before the price of decryption goes up.
+The affected organisations include Russian news agencies Interfax and Fontanka, payment systems on the Kiev Metro, Odessa International Airport and the Ministry of Infrastructure of Ukraine.
+Researchers are still analyzing Bad Rabbit ransomware to check if there is a way to decrypt computers without paying ransomware and how to stop it from spreading further.
+How to Protect Yourself from Ransomware Attacks?
+Kaspersky suggest to disable WMI service to prevent the malware from spreading over your network.
+Most ransomware spread through phishing emails, malicious adverts on websites, and third-party apps and programs.
+So, you should always exercise caution when opening uninvited documents sent over an email and clicking on links inside those documents unless verifying the source to safeguard against such ransomware infection.
+Also, never download any app from third-party sources, and read reviews even before installing apps from official stores.
+To always have a tight grip on your valuable data, keep a good backup routine in place that makes their copies to an external storage device that isn't always connected to your PC.
+Make sure that you run a good and effective anti-virus security suite on your system, and keep it up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

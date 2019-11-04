@@ -1,0 +1,36 @@
+Friday's Massive DDoS Attack Came from Just 100,000 Hacked IoT Devices
+Swati Khandelwal
+Guess how many devices participated in last Friday's massive DDoS attack against DNS provider Dyn that caused vast internet outage?
+Just 100,000 devices.
+I did not miss any zeros.
+Dyn disclosed on Wednesday that a botnet of an estimated 100,000 internet-connected devices was hijacked to flood its systems with unwanted requests and close down the Internet for millions of users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dyn executive vice president Scott Hilton has issued a statement, saying all compromised devices have been infected with a notorious Mirai malware that has the ability to take over cameras, DVRs, and routers.
+"We're still working on analyzing the data but the estimate at the time of this report is up to 100,000 malicious endpoints," Hilton said. "We are able to confirm that a significant volume of attack traffic originated from Mirai-based botnets."Mirai malware scans for Internet of Things (IoT) devices that are still using their default passwords and then enslaves those devices into a botnet, which is then used to launch DDoS attacks.
+A day after the attack, Dyn confirmed that a botnet of Mirai malware-infected devices had participated in its Friday's Distributed Denial of Service attacks.
+However, after an initial analysis of the junk traffic, just yesterday, the company revealed that it had identified an estimated 100,000 sources of malicious DDoS traffic, all originating from IoT devices compromised by the Mirai malware.
+Earlier the company believed that approximately "tens of millions" of IP addresses were responsible for the massive attack against its crucial systems, but the actual number came out to be much much less, leaving all of us wondering, as:
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+How did the Attack Succeed to this Massive Level?
+To this, Hilton said that Domain Name System protocol itself has the ability to amplify requests from legitimate sources.
+"For example, the impact of the attack generated a storm of legitimate retry activity as recursive servers attempted to refresh their caches, creating 10-20X normal traffic volume across a large number of IP addresses," Hilton said. "When DNS traffic congestion occurs, legitimate retries can further contribute to traffic volume." "It appears the malicious attacks were sourced from at least one botnet, with the retry storm providing a false indicator of a significantly larger set of endpoints than we now know it to be."Friday's cyber attack overwhelmed Dyn's central role in routing and managing Internet traffic, rendering hundreds of sites and services, including Twitter, GitHub, Amazon, Netflix, Pinterest, Etsy, Reddit, PayPal, and AirBnb, inaccessible to Millions of people worldwide for several hours.
+Dyn did not disclose the actual size of the attack, but it has been speculated that the DDoS attack could be much bigger than the one that hit French Internet service and hosting provider OVH that peaked at 1.1 Tbps, which is the largest DDoS attack known to date.
+According to the company, this attack has opened up an important debate about Internet security and volatility.
+"Not only has it highlighted vulnerabilities in the security of 'Internet of Things' (IOT) devices that need to be addressed, but it has also sparked further dialogue in the Internet infrastructure community about the future of the Internet," Hilton said.
+Next DDoS Attack could reach Tens Of Terabits-Per-Second
+If the IoT security is not taken seriously, the future DDoS attack could reach tens of terabits-per-second, as estimated by network security firm Corero.
+The DDoS threat landscape is skyrocketing and could reach tens of terabits-per-second in size, following a discovery of a new zero-day attack vector that has the ability to amplify DDoS attacks by as much as 55x, Corero warned in a blog post published Tuesday.
+According to the security firm, this new attack vector uses the Lightweight Directory Access Protocol (LDAP), which if combined with an IoT botnet, could break records in DDoS power.
+Dave Larson of Corero explains:
+"LDAP is not the first, and will not be the last, protocol or service to be exploited in this fashion. Novel amplification attacks like this occur because there are so many open services on the Internet that will respond to spoofed record queries. However, a lot of these attacks could be eased by proper service provider hygiene, by correctly identifying spoofed IP addresses before these requests are admitted to the network."
+You can read more on Corero's official website.
+How to Protect your Smart Device from being Hacked
+1. Change Default Passwords of your connected devices: If you have got any internet-connected device at home or work, change your credentials if it still uses default ones. Keep in mind; Mirai malware scans for default settings.
+2. Disable Universal Plug-and-Play (UPnP): UPnP comes enabled by default in every IoT device, which creates a hole in your router's security, allowing malware to infiltrate any part of your local network.
+Check for "Universal Plug and Play" features and turn them OFF.
+3. Disable Remote Management through Telnet: Go into your router’s settings and disable remote management protocol, specifically through Telnet, as this is a protocol used for allowing one computer to control another from a remote location. It has also been used in previous Mirai attacks.
+4. Check for Software Updates and Patches: last but not the least, always keep your connected devices and routers up-to-date with the latest vendor firmware.
+Check if your IoT device is vulnerable to Mirai malwareThere is an online tool called Bullguard's IoT Scanner that can help you check if any IoT device over your network is vulnerable to Mirai malware.
+If it detects any, contact the device's manufacturer or lookout for a solution to patch those vulnerable gaps.
+The tool makes use of the vulnerability scanning service Shodan for finding unprotected computers and webcams on your home network that are exposed to the public and potentially accessible to hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

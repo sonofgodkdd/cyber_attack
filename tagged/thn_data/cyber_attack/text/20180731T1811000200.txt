@@ -1,0 +1,21 @@
+SamSam Ransomware Attacks Extorted Nearly $6 Million
+Swati Khandelwal
+Ransomware has become a multimillion-dollar black market business for cybercriminals, and SamSam being a great example.
+New research revealed that the SamSam ransomware had extorted nearly $6 million from its victims since December 2015, when the cyber gang behind the ransomware started distributing the malware in the wild.
+Researchers at Sophos have tracked Bitcoin addresses owned by the attackers mentioned on ransom notes of each SamSam version and found the attackers have received more than $5.9 million from just 233 victims, and their profits are still on the rise, netting around $300,000 per month.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"In total, we have now identified 157 unique addresses which have received ransom payments as well as 89 addresses which have been used on ransom notes and sample files but, to date, have not received payments," the new report by Sophos reads.
+SamSam Ransomware Attacks>
+What makes SamSam stand out from other forms of ransomware is that SamSam is not distributed in an unplanned way via spam email campaigns; instead, attackers choose potential targets and infect systems manually.
+Attackers first compromise the RDP on a targeted system—either by conducting brute force attack or using stolen credentials purchased from the dark web—and then attempt to strategically deploy SamSam ransomware throughout the network by exploiting vulnerabilities in other systems.
+Unlike other well-known ransomware like WannaCry and NotPetya, SamSam does not include any worm-like or virus capabilities to spread by itself. Instead, the ransomware relies on the human attacker to spread it.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once they're on the entire network, the ransomware then encrypts the system's data and demand a huge ransom payment (usually more than $50,000 which is much higher than normal) in Bitcoin in exchange for the decryption keys.
+"A multi-tiered priority system ensures that the ransomware encrypts the most valuable data first, but eventually it also encrypts everything else that isn’t in a very short list of Windows system-related files."
+"This method has several benefits. As a manual attack, it poses no risk of spreading out of control, attracting unwanted attention. It also allows the attacker to cherry pick targets, and to know which computers have been encrypted."
+SamSam Ransomware Chooses Its Targets CarefullySince December 2015, SamSam has significantly targeted some large organizations, including the Atlanta city government, the Colorado Department of Transportation, several hospitals and educational institutions like the Mississippi Valley State University.
+So far, the largest ransom paid by an individual victim is valued at $64,000—a significantly large amount compared to most ransomware families.
+Since the SamSam victims do not see any other option to restore their encrypted files, a significant percentage of victims are paying the ransom, making the attack more effective.
+According to Sophos, 74 percent of the known victim organizations identified by the security firm is based in the United States, and others are distributed in Canada, the UK, and the Middle East.
+To protect against this threat, users and organizations are recommended to keep regular backups, use multi-factor authentication, restrict access to RDP(on port 3389), and always keep systems and software up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

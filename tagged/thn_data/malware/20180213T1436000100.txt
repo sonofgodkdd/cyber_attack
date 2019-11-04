@@ -1,0 +1,24 @@
+Hackers Exploit 'Telegram Messenger' Zero-Day Flaw to Spread Malware
+Swati Khandelwal
+
+A zero-day vulnerability has been discovered in the desktop version for end-to-end encrypted Telegram messaging app that was being exploited in the wild in order to spread malware that mines cryptocurrencies such as Monero and ZCash.
+The Telegram vulnerability was uncovered by security researcher Alexey Firsh from Kaspersky Lab last October and affects only the Windows client of Telegram messaging software.
+The flaw has actively been exploited in the wild since at least March 2017 by attackers who tricked victims into downloading malicious software onto their PCs that used their CPU power to mine cryptocurrencies or serve as a backdoor for attackers to remotely control the affected machine, according to a blogpost on Securelist.
+Here's How Telegram Vulnerability Works
+The vulnerability resides in the way Telegram Windows client handles the RLO (right-to-left override) Unicode character (U+202E), which is used for coding languages that are written from right to left, like Arabic or Hebrew.
+According to Kaspersky Lab, the malware creators used a hidden RLO Unicode character in the file name that reversed the order of the characters, thus renaming the file itself, and send it to Telegram users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For example, when an attacker sends a file named "photo_high_re*U+202E*gnp.js" in a message to a Telegram user, the file's name rendered on the users' screen flipping the last part.
+Therefore, the Telegram user will see an incoming PNG image file (as shown in the below image) instead of a JavaScript file, misleading into downloading malicious files disguised as the image.
+"As a result, users downloaded hidden malware which was then installed on their computers," Kaspersky says in its press release published today.
+Kaspersky Lab reported the vulnerability to Telegram and the company has since patched the vulnerability in its products, as the Russian security firm said: "at the time of publication, the zero-day flaw has not since been observed in messenger's products."
+Hackers Used Telegram to Infect PCs with Cryptocurrency Miners
+During the analysis, Kaspersky researchers found several scenarios of zero-day exploitation in the wild by threat actors. Primarily, the flaw was actively exploited to deliver cryptocurrency mining malware, which uses the victim's PC computing power to mine different types of cryptocurrency including Monero, Zcash, Fantomcoin, and others.
+While analyzing the servers of malicious actors, the researchers also found archives containing a Telegram's local cache that had been stolen from victims.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In another case, cybercriminals successfully exploited the vulnerability to install a backdoor trojan that used the Telegram API as a command and control protocol, allowing hackers to gain remote access to the victim’s computer.
+"After installation, it started to operate in a silent mode, which allowed the threat actor to remain unnoticed in the network and execute different commands including the further installation of spyware tools," the firm added.
+Firsh believes the zero-day vulnerability was exploited only by Russian cybercriminals, as "all the exploitation cases that [the researchers] detected occurring in Russia," and a lot of artifacts pointed towards Russian cybercriminals.
+The best way to protect yourself from such attacks is not to download or open files from unknown or untrusted sources.
+The security firm also recommended users to avoid sharing any sensitive personal information in messaging apps and make sure to have a good antivirus software from reliable company installed on your systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

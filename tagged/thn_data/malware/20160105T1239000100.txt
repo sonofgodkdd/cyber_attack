@@ -1,0 +1,26 @@
+Hackers Cause World's First Power Outage with Malware
+Swati Khandelwal
+
+SCADA system has always been an interesting target for cyber crooks, given the success of Stuxnet malware that was developed by the US and Israeli together to sabotage the Iranian nuclear facilities a few years ago, and "Havex" that previously targeted organizations in the energy sector.
+Now once again, hackers have used highly destructive malware and infected, at least, three regional power authorities in Ukraine, causing blackouts across the Ivano-Frankivsk region of Ukraine on 23rd December.
+The energy ministry confirmed it was investigating claims a cyber attack disrupted local energy provider Prykarpattyaoblenergo, causing the power outage that left half of the homes in Ivano-Frankivsk without electricity just before Christmas.
+According to a Ukrainian news service TSN, the outage was the result of nasty malware that disconnected electrical substations. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Related Read: Dragonfly Russian Hackers Target 1000 Western Energy Firms.
+First Malware to Cause Power Outage
+On Monday, researchers from antivirus provider ESET confirmed that multiple power authorities in Ukraine were infected by "BlackEnergy" trojan.
+BlackEnergy Trojan was first discovered in 2007 as a relatively simple tool to conduct Distributed Denial of Service (DDoS) attacks but was updated two years ago to add a host of new features, including the ability to render infected computers unbootable.
+The malware was launched by "Russian security services" with it being used against industrial control systems and politically sensitive targets, the SBU state intelligence service said in a statement on Monday.
+According to ESET, the malware was recently updated again to add a new component called KillDisk and a backdoored secure shell (SSH) utility that gives hackers permanent access to infected computers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Also Read: This 'Killer USB' can make your Computer explode
+The KillDisk module enables the BlackEnergy malware to destroy critical parts of a computer hard drive and to sabotage industrial control systems, the same used in attacks against Ukrainian news media companies and the electrical power industry.
+"The first known case where the KillDisk component of BlackEnergy was used was documented by CERT-UA in November 2015," Anton Cherepanov of ESET wrote in a blog post. "In that instance, a number of news media companies were attacked at the time of the 2015 Ukrainian local elections. The report claims that a large number of video materials and various documents were destroyed as a result of the attack."
+How Did Hackers Cause Blackouts?
+Researchers said hackers had used backdoors to spread the KillDisk wiper module through booby-trapped macro functions embedded in Microsoft Office documents across the Ukrainian power authorities.
+Therefore, it is believed that the initial point of infection with BlackEnergy caused after employees opened Microsoft Office files containing malicious macros.
+Related Read: 'Regin' Spying Malware Targeted Govts, Infrastructures for Years.
+It is really disturbing that industrial control systems used to supply power to Millions of homes could be infected using such a simple social-engineering trick.
+Moreover, the most concerning part is that the BlackEnergy malware is now being used to create power failures that can even have life-and-death consequences for large numbers of people.
+Ukrainian authorities are investigating the hacking attack on its power grid. For more technical details about the latest BlackEnergy package, you can read on ESET blog. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

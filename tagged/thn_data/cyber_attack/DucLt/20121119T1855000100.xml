@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+#opIsrael - Hackers hit Israel with mass Cyber Attack over Gaza
+Mohit Kumar
+Protesting against attacks taking place on Gaza, Anonymous hackers attempts to hack most of the Israel websites in the past few days. "government and private websites are under siege from hackers, who have mounted 44 million cyberattacks in less than a week", the government said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); Today Pakistani  Hackers also deface Israeli Bing, MSN, Skype, Live and other big sites and In counter-attack Israeli Hackers Leak Credit Card Data from Palestine ISP website.
+Finance Minister Yuval Steinitz said just one hacking attempt was successful on a site he did not want to name, but it was up and running after 10 minutes of downtime.
+Israel said that it generally experiences a few hundred hacking attempts per day. The attacks are reportedly coming from around the world.
+Defence force sites have been the hardest hit, while the president’s site has been hit 10-million times, the foreign ministry seven-million times and the prime minister three-million times.
+Both sides have been active on social media, with the Israeli Defence Force (IDF) going so far as to live blog some of its manoeuvres on Palestine. Combatants and civilians in Palestine meanwhile have been more active on Twitter, receiving support from hacker collective Anonymous.
+Among the group's other high-profile targets were the websites of Israel's Kadima Party, which was taken offline shortly after being hacked, and Bank of Jerusalem. Most of the sites that were hacked appeared to be unavailable, but others displayed pro-Palestinian images and messages.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.DoS id="ATTACK.D0" start="633" end="640" text="hacking" TYPE="TRG" />
+<IMPACT.Disrupt id="IM0" start="441" end="447" text="deface" TYPE="TRG" />
+<IMPACT.Disrupt id="IM1" start="745" end="754" text="downtime." TYPE="TRG" />
+</TAGS>
+</KddTask>

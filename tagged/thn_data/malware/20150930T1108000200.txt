@@ -1,0 +1,28 @@
+New Botnet Hunts for Linux — Launching 20 DDoS Attacks/Day at 150Gbps
+Swati Khandelwal
+
+A network of compromised Linux servers has grown so powerful that it can blow large websites off the Internet by launching crippling Distributed Denial-of-service (DDoS) attacks of over 150 gigabits per second (Gbps).
+The distributed denial-of-service network, dubbed XOR DDoS Botnet, targets over 20 websites per day, according to an advisory published by content delivery firm Akamai Technologies. 
+Over 90 percent of the XOR DDoS targets are located in Asia, and the most frequent targets are the gaming sector and educational institutions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+XOR creator is supposed to be from China, citing the fact that the IP addresses of all Command and Control (C&C) servers of XOR are located in Asia, where most of the infected Linux machines also reside.
+How XOR DDoS Botnet infects Linux System?
+Unlike other DDoS botnets, the XOR DDoS botnet infects Linux machines via embedded devices such as network routers and then brute forces a machine's SSH service to gain root access to targeted machines.
+Once the attackers have acquired Secure Shell credentials and logged in, they use root privileges to run a simple shell script that secretly downloads and installs the malicious XOR botnet software.
+However, there is no such evidence that XOR DDoS infects computers by exploiting flaws in the Linux operating system itself. 
+A High-Bandwidth DDoS Attack
+Akamai's Security Intelligence Response Team (SIRT) has seen DDoS attacks – SYN and DNS floods as the observed attack vectors – with the bandwidth ranging from a few gigabits per second (Gbps) to nearly 179 Gbps.
+The upper figure is a massive DDoS attack volume that even most multinational corporate networks can not handle. However, the biggest recorded DDoS attacks have hit 400 Gbps.
+"Over the past year, the XOR DDoS botnet has grown and is now capable of being used to launch [massive] DDoS attacks," Stuart Scholly, senior vice president of Akamai's Security Business Unit, said in a statement.
+Scholly further added that attackers are switching their focus from Windows botnets and building Linux botnets to launch massive DDoS attacks. However in the past, Windows machines were their primary targets for DDoS malware.
+How to Detect and Mitigate XOR DDoS Botnet?
+Akamai's advisory outlines two different methods for detecting the recent version of the XOR malware.
+To Detect XOR DDoS Botnet in your Network, look for the communications between a bot and its C&C server, using the Snort rule given in the advisory.
+To Detect XOR DDoS Botnet infection on your Hosts, use the YARA rule also shown in the advisory.
+Moreover, Akamai also provides a four-step process for removing the XOR DDoS Trojan from your machine, as given below:
+First, identify the malicious files in two directories (/boot and /etc/init.d)
+Identify the supporting processes responsible for the persistence of the main process
+Kill the malicious processes
+Delete the malicious files (in /boot and /etc/init.d)
+Additionally, disabling system root login from SSH (Secure Shell), or using a strong password will also defeat this issue.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

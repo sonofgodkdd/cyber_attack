@@ -1,0 +1,20 @@
+FormBook—Cheap Password Stealing Malware Used In Targeted Attacks
+Unknown
+
+It seems sophisticated hackers have changed the way they conduct targeted cyber operations—instead of investing in zero-days and developing their malware; some hacking groups have now started using ready-made malware just like script kiddies.
+Possibly, this could be a smart move for state-sponsored hackers to avoid being attributed easily.
+Security researchers from multiple security firms, including Arbor Networks and FireEye, independently discovered a series of malware campaigns primarily targeting aerospace, defence contractors and manufacturing sectors in various countries, including the United States, Thailand, South Korea and India.
+What's common? All these attack campaigns, conducted by various hacking groups, eventually install same information and password stealer malware—dubbed FormBook—on the targeted systems.
+FormBook is nothing but a "malware-as-as-service," which is an affordable piece of data-stealing and form-grabbing malware that has been advertised in various hacking forums since early 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Anyone can rent FormBook for just $29 per week or $59 per month, which offers a range of advanced spying capabilities on target machines, including a keylogger, password stealer, network sniffer, taking the screenshots, web form data stealer and more.
+According to the researchers, attackers in each campaign are primarily using emails to distribute the FormBook malware as an attachment in different forms, including PDFs with malicious download links, DOC and XLS files with malicious macros, and archive files (ZIP, RAR, ACE, and ISOs) containing EXE payloads.
+Once installed on a target system, the malware injects itself into various processes and starts capturing keystrokes and extracts stored passwords and other sensitive data from multiple applications, including Google Chrome, Firefox, Skype, Safari, Vivaldi, Q-360, Microsoft Outlook, Mozilla Thunderbird, 3D-FTP, FileZilla and WinSCP.
+FormBook continuously sends all the stolen data to a remote command and control (C2) server which also allows the attacker to execute other commands on the targeted system, including start processes, shutdown and reboot the system, and stealing cookies.
+"One of the malware's most interesting features is that it reads Windows’ ntdll.dll module from disk into memory, and calls its exported functions directly, rendering user-mode hooking and API monitoring mechanisms ineffective," FireEye says.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The malware author calls this technique "Lagos Island method" (allegedly originating from a userland rootkit with this name)."
+According to the researchers, FormBook was also seen downloading other malware families such as NanoCore in the last few weeks.
+The attackers can even use the data successfully harvested by FormBook for further cybercriminal activities including, identity theft, continued phishing operations, bank fraud and extortion.
+FormBook is neither sophisticated, nor difficult-to-detect malware, so the best way to protect yourself from this malware is to keep good antivirus software on your systems, and always keep it up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

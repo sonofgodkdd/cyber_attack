@@ -1,0 +1,10 @@
+16-Year-Old Teenager arrested for World's biggest cyber attack ever
+Mohit Kumar
+16-Year-Old Teenager has been arrested over his alleged involvement in the World's biggest largest DDoS attacks against the Dutch anti-spam group Spamhaus.
+The teenager, whose name is unknown at this point, was arrested by British police in April, but details of his arrest were just leaked to the British press on Thursday.
+He was taken into custody when police swooped on his south-west London home after investigations identified significant sums of money were flowing through his bank account. The suspect was found with his computer systems open and logged on to various virtual systems and forums.
+The March 20 attack on Spamhaus has been dubbed as the “biggest cyber attack in the history of the Internet” which saw server of the Dutch anti-spam organization being bombarded with traffic in tune of 300 billion bits per second (300Gbps).
+A DDoS attack takes place when hackers use an army of infected computers to send traffic to a server, causing a shutdown in the process.
+It's unclear what role the teenager played in the massive distributed denial of service (DDoS) attack. The boy has been released on bail until later this year. A 35-year-old Dutchman was detained and his computers, data carriers and mobile phones were seized, local media speculates that the person is none other than CyberBunker spokesman Sven Olaf Kamphuis.
+The attack on Spamhaus is believed to have started after the anti-spam organization blacklisted CyberBunker for allegedly spreading spam.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

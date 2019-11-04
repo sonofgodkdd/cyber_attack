@@ -1,0 +1,17 @@
+T-Mobile Hacked — 2 Million Customers' Personal Data Stolen
+Mohit Kumar
+
+T-Mobile today confirmed that the telecom giant suffered a security breach on its US servers on August 20 that may have resulted in the leak of "some" personal information of up to 2 million T-Mobile customers.
+The leaked information includes customers' name, billing zip code, phone number, email address, account number, and account type (prepaid or postpaid).
+However, the good news is that no financial information like credit card numbers, social security numbers, or passwords, were compromised in the security breach.
+According to a brief blog post published by the company detailing the incident, its cybersecurity team detected and shut down an "unauthorized capture of some information" on Monday, August 20.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the company has not revealed how the hackers managed to hack into its servers neither it disclosed the exact number of customers affected by the data breach, a T-Mobile spokesperson told Motherboard that less than 3 percent of its 77 million customers were affected.
+The spokesperson also said that unknown hackers part of "an international group" managed to access T-Mobile servers through an API that "didn’t contain any financial data or other very sensitive data," adding "We found it quickly and shut it down very fast."
+T-Mobile said the company informed law enforcement about the security breach and is reaching out to its affected customers directly via SMS message, letter in the mail, or a phone call to notify them as well.
+"We take the security of your information very seriously and have a number of safeguards in place to protect your personal information from unauthorized access,"  T-Mobile said. "We truly regret that this incident occurred and are so sorry for any inconvenience this has caused you."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The U.S. telecom giant is also encouraging affected customers to contact its customer service through 611 for any information regarding the breach.
+The T-Mobile incident marks the latest high-profile data breach and adds itself to the list of that other recent high profile attacks took place against Carphone Warehouse that affected its 10 million customers, and Ticketmaster that affected tens of thousands of its customers.
+Did you receive any notification regarding this data breach? Let us know in the comments below.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

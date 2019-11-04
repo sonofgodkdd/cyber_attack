@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+13 Anonymous Members indicted and accused of participating in 'Operation Payback'
+Mohit Kumar
+
+A U.S. Grand jury indicted and accused 13 members of the hacking group Anonymous for allegedly participating in the cyber attacks against a number of websites as an anti-copyright campaign called "Operation Payback"
+Hackers took down the sites by inflicting a denial of service, or DDoS, attack, including those belonging to the Recording Industry Association of America, Visa and MasterCard.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attacks were in retaliation for the shutdown of “The Pirate Bay,” a Sweden-based file-sharing website used to illegally download copyrighted material.
+The DDoS Campaign was later extended to Bank of America and credit card companies such as Visa and MasterCard after they refused to process payments for WikiLeaks.
+According to the indictment, the suspects are charged with conspiracy to intentionally cause damage to protected computers. Suspects downloaded and used software known as Low Orbit Ion Cannon, or LOIC, to launch distributed denial-of-service attacks, that flooded web servers with traffic and rendered sites unavailable for legitimate users.
+Those charged ranged in age from 21 to 65 and lived in 13 different U.S. States, named in the indictment were Dennis Owen Collins, Jeremy Leroy Heller, Chen Zhiwei, Joshua Phy, Ryan Russel Gubele, Robert Audubon Whitfield, Anthony Tadros, Geoffrey Kenneth Commander, Austen Stamm, Timothy Robert McLain, Wade Carl Williams and Thomas Bell.
+The court papers say that the hackers conspired to coordinate DDoS attacks in Internet Chat Relay (IRC) channels. The group caused an estimated $5,000 in damages and affected at least 10 protected computers.
+“We do not forgive. We do not forget. Expect us,”
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.DoS id="ATTACK.D0" start="343" end="353" text="inflicting" TYPE="TRG" />
+<ATTACK.DoS id="ATTACK.D1" start="1067" end="1073" text="launch" TYPE="TRG" />
+<ATTACK.DoS id="ATTACK.D2" start="995" end="1005" text="downloaded" TYPE="SUP" />
+<ATTACK.DoS id="ATTACK.D3" start="1010" end="1014" text="used" TYPE="SUP" />
+<ATTACK.DoS id="ATTACK.D4" start="1118" end="1125" text="flooded" TYPE="SUP" />
+<IMPACT.Disrupt id="IM0" start="320" end="329" text="took down" TYPE="TRG" />
+<IMPACT.Disrupt id="IM1" start="1155" end="1163" text="rendered" TYPE="TRG" />
+</TAGS>
+</KddTask>

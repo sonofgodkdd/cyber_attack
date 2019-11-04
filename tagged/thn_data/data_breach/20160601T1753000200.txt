@@ -1,0 +1,15 @@
+427 Million Myspace Passwords leaked in major Security Breach
+Swati Khandelwal
+
+MySpace has suffered a major data breach in which hundreds of Millions of users have had their account details compromised.
+You may have forgotten Myspace and have not thought of it in years after Facebook acquired the market, but Myspace was once-popular social media website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Tuesday, Myspace confirmed that the company was hacked in 2013 and that the stolen Myspace username and password combinations have been made available for sale in an online hacker forum.
+The hacker, nicknamed Peace, who is selling the database of about 360 Million Myspace accounts with 427 million passwords, is the same hacker who was recently in the news for leaking 164 Million LinkedIn and 65 Million Tumblr accounts.
+"We believe the data breach is attributed to Russian Cyberhacker 'Peace'," Myspace wrote in a blog post. "Email addresses, Myspace usernames, and Myspace passwords for the affected Myspace accounts created prior to June 11, 2013 on the old Myspace platform are at risk."
+The data breach in Myspace is believed to be the largest leaks of passwords ever and even if you have not visited Myspace in years, your personal information is up for sale online.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Like LinkedIn, the stolen Myspace passwords were also stored in SHA1 with no "salting." Salting is a process that makes passwords much harder to crack.
+Myspace said it has taken "significant steps" to strengthen its users' account security since the data breach in 2013 and now the company uses double-salted hashes to store passwords.
+I strongly advise users who tend to reuse the same passwords between sites to set new passwords on those websites immediately.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

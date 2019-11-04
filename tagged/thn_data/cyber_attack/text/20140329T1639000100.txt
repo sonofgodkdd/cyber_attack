@@ -1,0 +1,20 @@
+Philips Smart TVs vulnerable to Screen Hijack and Cookie Theft
+Wang Wei
+
+Previous articles on The Hacker News have highlighted that How Internet of Things (IoT) opens your home to cyber threats.
+Recently the security researchers from vulnerability research firm ReVuln published a video demonstration shows that Philips Smart TV is prone to cyber attacks by hackers.
+According to the researchers, some versions of Philips Smart TV with latest firmware update are wide open to hackers and also vulnerable to cookie theft.
+The fault is in a feature called Miracast, that allows TVs to act as a WiFi access point with a hard-coded password ‘Miracast,’ and allows devices nearby within the range to connect the device for receiving the screen output.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+“The main problem is that Miracast uses a fixed password, doesn't show a PIN number to insert and, moreover, doesn't ask permission to allow the incoming connection,” Luigi Auriemma, CEO and security researcher at ReVuln, told SCMagazine.
+The vulnerability allows an attacker within the device’s WiFi range to access its various features. The potential attacker can:
+Access the TV's configuration files
+Access files stored on USB devices attached to the TV
+Replace the image on screen with video or images of its choice
+Control the TVs via an external remote control application
+Steal website authentication cookies from the TV's browser
+“So basically you just connect directly to the TV via WiFi, without restrictions. Miracas is enabled by default and the password cannot be changed.” Luigi said.
+The Researchers tested the flaw on Philips 55PFL6008S TV, but believe that many 2013 models are also affected because of the same firmware installed.
+However, such attacks are not possible to happen in the wild, but if your neighbor is enough smart and knows your WiFi password, then either you should change your password to stronger one or turn off the Miracast feature on your Philips Smart TV.
+Philip says, "Our experts are looking into this and are working on a fix. In the meantime, we recommend customers to switch off their Miracast function of the TV to avoid any vulnerability."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

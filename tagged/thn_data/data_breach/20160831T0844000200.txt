@@ -1,0 +1,21 @@
+Dropbox Hacked — More Than 68 Million Account Details Leaked Online
+Swati Khandelwal
+
+Hackers have obtained credentials for more than 68 Million accounts for online cloud storage platform Dropbox from a known 2012 data breach.
+Dropbox has confirmed the breach and already notified its customers of a potential forced password resets, though the initial announcement failed to specify the exact number of affected users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, in a selection of files obtained through sources in the database trading community and breach notification service Leakbase, Motherboard found around 5GB of files containing details on 68,680,741 accounts, which includes email addresses and hashed (and salted) passwords for Dropbox users.
+An unnamed Dropbox employee verified the legitimacy of the data.
+Out of 68 Million, almost 32 Million passwords are secured using the strong hashing function "BCrypt," making difficult for hackers to obtain users' actual passwords, while the rest of the passwords are hashed with the SHA-1 hashing algorithm.
+These password hashes also believed to have used a Salt – a random string added to the hashing process to further strengthen passwords in order to make it more difficult for hackers to crack them.
+"We've confirmed that the proactive password reset we completed last week covered all potentially impacted users," said Patrick Heim, Head of Trust and Security for Dropbox.
+"We initiated this reset as a precautionary measure so that the old passwords from prior to mid-2012 can’t be used to improperly access Dropbox accounts. We still encourage users to reset passwords on other services if they suspect they may have reused their Dropbox password."
+Dropbox initially disclosed the data breach in 2012, notifying users that one of its employee passwords was acquired and used to access a file with users’ email addresses, but the company didn't disclose that the hackers were able to pilfer passwords too.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But earlier this week, Dropbox sent out emails alerting its users that a large chunk of its users’ credentials was obtained in 2012 data breach that may soon be seen on the Dark Web marketplace, prompting them to change their password if they hadn't changed since mid-2012.
+"Our security teams are always watching out for new threats to our users. As part of these ongoing efforts, we learned about an old set of Dropbox user credentials (email addresses plus hashed and salted passwords) that we believe were obtained in 2012," the company wrote. "Our analysis suggests that the credentials relate to an incident we disclosed around that time."
+Dropbox is the latest to join the list of "Mega-Breaches," that revealed this summer, when hundreds of Millions of online credentials from years-old data breaches on popular social network sites, including LinkedIn, MySpace, VK.com and Tumblr, were sold on Dark Web.
+The takeaway:
+Change your passwords for Dropbox as well as other online accounts immediately, especially if you use the same password for multiple websites.
+Also use a good password manager to create complex passwords for different sites as well as remember them. We have listed some best password managers that could help you understand the importance of password manager and choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

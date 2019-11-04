@@ -1,0 +1,18 @@
+President Donald Trump's Website Hacked; Defaced By Iraqi Hacker
+Wang Wei
+
+During the 2016 presidential election campaign, we reported about how insecure was the mail servers operated by the Trump organization that anyone with little knowledge of computers can expose almost everything about Trump and his campaign.
+Now, some unknown hackers calling themselves "Pro_Mast3r" managed to deface an official website associated with President Donald Trump's presidential campaign fundraising on Sunday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hacker, claiming to be from Iraq, reportedly defaced the server, secure2.donaldjtrump.com, which is behind CloudFlare's content management system and security platform.
+The server appears to be an official Trump campaign server, reported Ars, as the certificate of the server is legitimate, "but a reference to an image on another site is insecure, prompting a warning on Chrome and Firefox that the connection is not secure."
+The defaced website displayed an image of a black hat man and included a text message, which reads:
+Hacked by Pro_Mast3r ~
+Attacker Gov
+Nothing Is Impossible
+Peace From Iraq
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the time of writing, the server is now offline, and there is no official statement from Trump-Pence campaign team yet.
+According to a blog post published by Italian IT journalist Paolo Attivissimo, the source code of the defaced server does not contain any malicious script.
+Instead, the server includes a link to javascript on a now-nonexistent Google Code account, 'masterendi,' which was linked to cyber attacks on three other sites in the past.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,17 @@
+Dixons Carphone Data Breach Affects 10 Million Customers
+Mohit Kumar
+
+Dixons Carphone's 2017 data breach was worse than initially anticipated.
+In an announcement on Monday, Dixons Carphone, one of the largest consumer electronics and telecommunication retailers in Europe, admitted that the breach affected around 10 million customers, up from an initial estimate of 1.2 million people the company acknowledged back in June.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company, which has been investigating the hack since it was discovered in June this year, said the investigation is nearly over and now there is evidence that some of the data may have been taken from its systems.
+The Carphone Warehouse and Currys PC World owner said the hackers may have accessed personal information of its affected customers including their names, addresses and email addresses last year.
+The hackers also got access to 5.9 million payments cards used at Currys PC World and Dixons Travel, but nearly all of those cards were protected by the chip-and-pin system.
+However, Dixons Carphone assured its customers that no bank details, including pin codes, card verification values and authentication data used to make purchases, were taken and that there's no evidence any fraud had resulted from the security breach.
+"As a precaution, we are choosing to communicate to all of our customers to apologize and advise them of protective steps to minimize the risk of fraud," the company said in a statement. "We are continuing to keep the relevant authorities updated."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company said it has now taken action to close off the unauthorized access and has "no evidence it is continuing." 
+Dixons says it has put in place new security measures to safeguard its customer data and is working with experts to prevent any future intrusion.
+"We continue to make improvements and investments at pace to our security environment through enhanced controls, monitoring, and testing," Dixons said.
+This is second time in three years Dixons Carphone has become the victim of a major cyber attack. In 2015, a data breach hit around 3 million customers, for which the company was fined £400,000 earlier this year.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,13 @@
+German Aerospace Center targeted by Self-Destructing Spyware
+Swati Khandelwal
+
+It’s not so far when Germany confirmed its biggest Data theft in the country's history with the usernames and passwords of some 18 million email accounts stolen and compromised by Hackers, and now German space research center has been reportedly targeted in a cyber attack.
+The new story broke by the German press, Der Spiegel on Sunday revealing that the German Aerospace Centre (DLR - Deutsches Zentrum für Luft- und Raumfahrt e. V.), the country’s national center for aerospace, energy and transportation research located in Cologne has been reportedly targeted in a cyber attack out “coordinated and systematic”, apparently launched by a foreign intelligence agency.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The systems used by administrators and scientists of the space research center have been found to be infected with Malware and spyware software, and as mention in the report, the attack was “co-ordinated and systematic” with the perfection of Trojan used.
+SELF-DESTRUCTING MALWARE, WITH LOVE FROM CHINA
+The espionage attack appears to be so complex that even the forensic investigators who have analyzed the infections unable to detect the actual malware, as some Trojans used were designed to self-destruct as soon as they discovered, while other malware remain mum for several months before being activated.
+The report says all operating systems that are in use at German Aerospace Center (DLR) are affected by the cyber attacks. Yet, it is not at all clear that who is behind the cyber attacks. But, the evidence points towards China, as IT forensic experts of the Federal Office for Security in Information Technology (BSI) discovered “Chinese characters” in the malicious code of some Trojan and “recurring typos” suggest an attacker from the Far East.
+Though, it could also be a “simple camouflage”, an insider told Der Spiegel. As the U.S. intelligence agency NSA can’t be completely ruled out, he added. But China would appear more likely on the first glance, rather than United States, because they are already at foremost position in space exploration.
+The federal government categorizes the attack as extremely serious because among other things, the center gathers and reserves information on armament and rocket technologies as well.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

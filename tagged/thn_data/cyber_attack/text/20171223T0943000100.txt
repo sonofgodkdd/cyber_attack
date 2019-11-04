@@ -1,0 +1,22 @@
+Satori IoT Botnet Exploits Zero-Day to Zombify Huawei Routers
+Swati Khandelwal
+
+Although the original creators of the infamous IoT malware Mirai have already been arrested and sent to jail, the variants of the notorious botnet are still in the game due to the availability of its source code on the Internet.
+Hackers have widely used the infamous IoT malware to quietly amass an army of unsecured internet-of-things devices, including home and office routers, that could be used at any time by hackers to launch Internet-paralyzing DDoS attacks.
+Another variant of Mirai has hit once again, propagating rapidly by exploiting a zero-day vulnerability in a Huawei home router model.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dubbed Satori (also known as Okiru), the Mirai variant has been targeting Huawei's router model HG532, as Check Point security researchers said they tracked hundreds of thousands of attempts to exploit a vulnerability in the router model in the wild.
+Identified initially by Check Point researchers late November, Satori was found infecting more than 200,000 IP addresses in just 12 hours earlier this month, according to an analysis posted by Chinese security firm 360 Netlab on December 5.
+Researchers suspected an unskilled hacker that goes by the name "Nexus Zeta" is exploiting a zero-day remote code execution vulnerability (CVE-2017-17215) in Huawei HG532 devices, according to a new report published Thursday by Check Point.
+The vulnerability is due to the fact that the implementation of the TR-064 (technical report standard), an application layer protocol for remote management, in the Huawei devices was exposed on the public Internet through Universal Plug and Play (UPnP) protocol at port 37215.
+"TR-064 was designed and intended for local network configuration," the report reads. "For example, it allows an engineer to implement basic device configuration, firmware upgrades and more from within the internal network."
+Since this vulnerability allowed remote attackers to execute arbitrary commands to the device, attackers were found exploiting this flaw to download and execute the malicious payload on the Huawei routers and upload Satori botnet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the Satori attack, each bot is instructed to flood targets with manually crafted UDP or TCP packets.
+"The number of packets used for the flooding action and their corresponding parameters are transmitted from the C&C server," researchers said. "Also, the C&C server can pass an individual IP for attack or a subnet using a subnet address and a number of valuable bits."
+Although the researchers observed a flurry of attacks worldwide against the Huawei HG532 devices, the most targeted countries include the United States, Italy, Germany, and Egypt.
+Check Point researchers "discretely" disclosed the vulnerability to Huawei as soon as their findings were confirmed, and the company confirmed the vulnerability and issued an updated security notice to customers on Friday.
+"An authenticated attacker could send malicious packets to port 37215 to launch attacks. Successful exploit could lead to the remote execution of arbitrary code," Huawei said in its security advisory.
+The company also offered some mitigations that could circumvent or prevent the exploit, which included using the built-in firewall function, changing the default credentials of their devices, and deploying a firewall at the carrier side.
+Users can also deploy Huawei NGFWs (Next Generation Firewall) or data center firewalls, and upgrade their IPS signature database to the latest IPS_H20011000_2017120100 version released on December 1, 2017, in order to detect and defend against this flaw.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

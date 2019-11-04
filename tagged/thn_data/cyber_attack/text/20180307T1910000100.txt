@@ -1,0 +1,21 @@
+Memcached DDoS Exploit Code and List of 17,000 Vulnerable Servers Released
+Swati Khandelwal
+
+Two separate proofs-of-concept (PoC) exploit code for Memcached amplification attack have been released online that could allow even script-kiddies to launch massive DDoS attacks using UDP reflections easily.
+The first DDoS tool is written in C programming language and works with a pre-compiled list of vulnerable Memcached servers.
+Bonus—its description already includes a list of nearly 17,000 potential vulnerable Memcached servers left exposed on the Internet.
+Whereas, the second Memcached DDoS attack tool is written in Python that uses Shodan search engine API to obtain a fresh list of vulnerable Memcached servers and then sends spoofed source UDP packets to each server.
+Last week we saw two record-breaking DDoS attacks—1.35 Tbps hit Github and 1.7 Tbps attack against an unnamed US-based company—which were carried out using a technique called amplification/reflection attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For those unaware, Memcached-based amplification/reflection attack amplifies bandwidth of the DDoS attacks by a factor of 51,000 by exploiting thousands of misconfigured Memcached servers left exposed on the Internet.
+Memcached is a popular open source distributed memory caching system, which came into news earlier last week when researchers detailed how hackers could abuse it to launch amplification/reflection DDoS attack by sending a forged request to the targeted Memcached server on port 11211 using a spoofed IP address that matches the victim's IP.
+A few bytes of the request sent to the vulnerable Memcached server can trigger tens of thousands of times bigger response against the targeted IP address, resulting in a powerful DDoS attack.
+For a detailed explanation on how Memcached amplification attack works, you can head on to our previous article.
+Since last week when Memcached has been revealed as a new amplification/reflection attack vector, some hacking groups started exploiting unsecured Memcached servers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But now the situation will get worse with the release of PoC exploit code, allowing anyone to launch massive DDoS attacks, and will not come under control until the last vulnerable Memcached server is patched, or firewalled on port 11211, or completely taken offline.
+Moreover, cybercriminals groups have already started weaponizing this new DDoS technique to threaten big websites for extorting money.
+Following last week's DDoS attack on GitHub, Akamai reported its customers received extortion messages delivered alongside the typically "junk-filled" attack payloads, asking them for 50 XMR (Monero coins), valued at over $15,000.
+Reflection/amplification attacks are not new. Attackers have previously used this DDoS attack technique to exploit flaws in DNS, NTP, SNMP, SSDP, Chargen and other protocols in order to maximize the scale of their cyber attacks.
+To mitigate the attack and prevent Memcached servers from being abused as reflectors, the best option is to bind Memcached to a local interface only or entirely disable UDP support if not in use.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

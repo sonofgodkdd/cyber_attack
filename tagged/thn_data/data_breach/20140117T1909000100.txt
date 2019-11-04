@@ -1,0 +1,17 @@
+BlackPOS Malware used in TARGET Data Breach developed by 17-Year Old Russian Hacker
+Swati Khandelwal
+The Holiday data breach at TARGET appeared to be part of a broad and highly sophisticated international hacking campaign against multiple retailers, involving the heist of possibly 110 million Credit-Debit cards, and personal information.
+Target confirmed last weekend that a malicious software was embedded in point-of-sale (POS) equipment at its checkout counters to collect secure data as the credit cards were swiped during transactions.
+The Malware called 'BlackPOS' also known as "reedum" or 'Kaptoxa' is an effective crimeware kit, that was created in March 2013 and available in underground sites for $1800-$2000.
+Investigators from IntelCrawler found a 17-years old hacker who actually developed the BlackPOS crimeware kit. His nickname is 'ree4' and original name: 'Sergey Taraspov' from St.Petersburg and Nizhniy Novgorod (Russian Federation).
+  (adsbygoogle = window.adsbygoogle || []).push({}); IntelCrawler's sources mentioned that the BlackPOS malware was created in March 2013 and first infected the Point-of-Sales environments in Australia, Canada and the US.
+Alleged Russian hacker and malware developer Sergey Taraspov (ree4) sold more than 40 builds of BlackPOS to cybercriminals from Eastern Europe and other countries.
+BlackPOS is a RAM-scraping malware totally written in VBScript i.e. It copies credit-card numbers from point-of-sale machines' RAM, in the instant after the cards are swiped and before the numbers are encrypted.
+In December, after the TARGET data breach, the Symantec antivirus firm discovered the malware and dubbed as 'Infostealer.Reedum.C'.'He is a very well known programmer of malicious code in underground and previously he has created several tools used in hacking community for brute force attacks, such as "Ree4 mail brute", and also earned some first money with social networks accounts hacking and DDoS attacks trainings, as well as software development including malicious code.'More details about Sergey Taraspov (ree4):
+E-mail 1: ree4@list.ru
+E-mail 2: ree4@yandex.ru
+ICQ: 565033
+Skype: s.r.a.ree4
+Now any of his toolkit buyer is possibly the culprit behind the Target data breach. According to researchers, the attackers somehow managed hack one of the TARGET server and uploaded the POS malware to the checkout machines located at various stores.
+IntelCrawler didn’t accuse him of the Target heist, but "He is still visible for us, but the real bad actors responsible for the past attacks on retailers such as Target and Neiman Marcus were just his customers". They said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

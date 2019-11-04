@@ -1,0 +1,29 @@
+Warning! Don't Click that Google Docs Link You Just Received in Your Email
+Swati Khandelwal
+
+Did someone just share a random Google Doc with you?
+First of all — Do not click on that Google Doc link you might have just received in your email and delete it immediately — even if it's from someone you know.
+I, my colleagues at The Hacker News, and even people all around the Internet, especially journalists, are receiving a very convincing OAuth phishing email, which says that the person [sender] "has shared a document on Google Docs with you."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once you clicked the link, you will be redirected to a page which says, "Google Docs would like to read, send and delete emails, as well access to your contacts," asking your permission to "allow" access.
+If you allow the access, the hackers would immediately get permission to manage your Gmail account with access to all your emails and contacts, without requiring your Gmail password.
+Beware! New GoogleDocs Phishing Email Scam Spreading Across the World — Here's Everything You Need to Know
+CLICK TO TWEET
+But How? The "Google Docs" app that requests permissions to access your account is fake and malicious, which is created and controlled by the attacker.
+You should know that the real Google Docs invitation links do not require your permission to access your Gmail account.
+Anything Linked to Compromised Gmail Accounts is at Risk
+Once the app controlled by the attacker receives permissions to manage your email, it automatically sends same Google Docs phishing email to everyone on your contact list on your behalf.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since your personal and business email accounts are commonly being used as the recovery email for many online accounts, there are possibilities that hackers could potentially get control over those online accounts, including Apple, Facebook, and Twitter.
+In short, anything linked to a compromised Gmail account is potentially at risk and even if you enabled two factor authentication, it would not prevent hackers to access your data.
+Meanwhile, Google has also started blacklisting malicious apps being used in the active phishing campaign.
+"We are investigating a phishing email that appears as Google Docs. We encourage you to not click through & report as phishing within Gmail," Google tweeted.
+This Google Docs phishing scheme is spreading incredibly quickly, hitting employees at multiple organizations and media outlets that use Google for email, as well as thousands of individual Gmail users who are reporting the same scam at the same time.
+If by anyhow you have clicked on the phishing link and granted permissions, you can remove permissions for the fraudulent "Google Docs" app from your Google account. Here’s how you can remove permissions:
+Go to your Gmail accounts permissions settings at https://myaccount.google.com and Sign-in.
+Go to Security and Connected Apps.
+Search for "Google Docs" from the list of connected apps and Remove it. It's not the real Google Docs.
+Stay tuned to our Facebook Page for more updates ! Stay Safe!
+Update: Google Docs Phishing Scam Hits Nearly One Million Users
+Google said that the last night's Google Docs phishing campaign affected "fewer than 0.1%" of Gmail users, which means nearly one million people were affected by it, handing over their email access to attackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

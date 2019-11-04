@@ -1,0 +1,21 @@
+Satellite Communication (SATCOM) Devices Vulnerable to Hackers
+Swati Khandelwal
+
+The growing threat of cyber-attacks and network hacking has reached the  satellite-space sector, posing a growing challenge to the satellite operators. Because the satellite system are the critical components for the Nation to a modern military, they have become an attractive target of cyber attacks.
+A security firm uncovered a number of critical vulnerabilities, including hardcoded credentials, undocumented and insecure protocols, and backdoors in the widely used satellite communications (SATCOM) terminals, which are often used by the military, government and industrial sectors.
+By exploiting these vulnerabilities an attacker could intercept, manipulate, block communications, and in some circumstances, could remotely take control of the physical devices used in the mission-critical satellite communication (SATCOM).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once the attacker gained the access of the physical devices used to communicate with satellites orbiting in space, he can completely disrupt military operations and flight-safety communications of mission-critical satellite communications (SATCOM), researchers have warned in a 25-page white paper titled “A Wake-up Call for SATCOM Security,” published Thursday by the Security consultancy IOActive.
+Thousands of SATCOM devices found to be vulnerable and even if one of the affected devices compromised, the entire SATCOM infrastructure could be at risk, including Ships, aircraft, military personnel, emergency services, media services, and industrial facilities (oil rigs, gas pipelines, water treatment plants, wind turbines, substations, etc.).
+IOActive reported various vulnerabilities in Tactical Radios & Networking Terminals, including:
+Harris BGAN Terminals
+Hughes BGAN M2M Terminals
+Cobham BGAN Terminals
+Marine VSAT and FB Terminals
+Cobham AVIATOR
+Cobham GMDSS Terminals
+According to the Guardian, British manufacturers Cobham and Inmarsat, as well as Harris Corporation, Hughes and Iridium in the US made such satellite systems that were easily hackable, and any foreign government or agency can track and target the location of units and soldiers.
+According to the researchers, Harris RF-7800B terminals that  offers a high-performance satellite solution for voice and data  connectivity to military is also vulnerable to cyber attacks and  successful exploitation could allow an attacker to install malicious  firmware or execute arbitrary code. 
+Reported vulnerabilities also affect the US military aircraft equipped with the Cobham AVIATO, which is designed to meet the satellite communications needs of aircraft and a malicious attacker could disrupt flight communication. 
+IOActive is currently working with government CERT Coordination Center to alert each manufacturer to the security holes they discovered. "Until patches are available, vendors should provide official workarounds in addition to recommended configurations in order to minimize the risk these vulnerabilities pose." IOActive advised.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

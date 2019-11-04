@@ -1,0 +1,25 @@
+Hola — A widely popular Free VPN service used as a Giant Botnet
+Swati Khandelwal
+
+The bandwidth of Millions of users of a popular free VPN service is being sold without their knowledge in an attempt to cover the cost of its free service, which could result in a vast botnet-for-sale network.
+"Hola," a free virtual private network, is designed to help people abroad watch region restricted shows like American Netflix, and other streaming United States media.
+Hola is selling users' bandwidth:
+Hola is easy-to-use browser plugin available in the Google Chrome Store with currently more than 6 Million downloads. But, unfortunately, Hola could be used by hackers to maliciously attack websites, potentially putting its users at risk of being involved in illegal or abusive activities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hola uses a peer-to-peer system to route users' traffic. So, if you are in Denmark and wants to watch a show from America, you might be routed through America-based user's Internet connections.
+However, Hola is not leaving a chance to make money out of a free service. It has been selling access to users' bandwidth for profit to a third-party service called Luminati, which then re-sells the connections, Hola founder Ofer Vilenski confirmed.
+Luminati is one of the world's largest VPN networks that lets users buy access to the Hola network for a fee, in case if users need a secure way to route commercial traffic without revealing their identity.
+Giant Botnet
+This simply means any user who makes use of the free version of Hola is having their connection sold without even their knowledge, as Motherboard says, "turning you and other Hola users into a node of what could be described as a voluntary botnet."
+This isn't known until 8chan message board administrator Fredrick Brennan posted a message about the service, claiming Luminati and Hola users' computers have been used within a botnet to attack and take down his website.
+Using Hola and Luminati services to take down websites:
+Earlier this week Brennan website was attacked by thousands of "legitimate-looking POST requests" within 30 seconds, "representing a 100x spike over peak traffic and crashing PHP-FPM," Brennan wrote in a blog post.
+This denial of service (DoS) sort of attack was actually originated from a well-known spammer called "Bui", who later told Brennan that he had made use of Hola's Luminati service to carry out the attack against his web site.
+Here's What Hola want's to say:
+Hola's site explains in Faq that the service might be used for "commercial" purposes, but there was no mention of Luminati, which has been working with the company since at least October 2914. However, Hola updated its FAQ with a fuller explanation later.
+"Hola is a managed and supervised network and thus any illegal activity such as CP, etc. would be reported to the authorities with the real IP of the user," the company wrote. 
+Yet that wouldn't prevent users from getting initially suspected as criminal hackers.
+Vilenski said that the explanation about the service was actually there in a "different form," pointing to the old FAQ, which states, "if you would like to use Hola for commercial use contact us at business@hola.org for a quote."
+However, Vilenski himself admitted that most of the Hola users are probably not aware of it. According to him, it is not because the company is trying not to show its users, but it is because most of the users just don’t care about it. "They want a good service, it works well, and it does not screw them up," he added.
+This again shows that if there is something free, there is often a catch. No doubt, free services attract everyone, but spending few dollars a month on VPNs could safeguard you from various online threats. Also, it’s good practice to read details before installing extensions or services.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

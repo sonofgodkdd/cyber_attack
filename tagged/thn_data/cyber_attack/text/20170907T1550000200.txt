@@ -1,0 +1,21 @@
+Dragonfly 2.0: Hacking Group Infiltrated European and US Power Facilities
+Unknown
+
+The notorious hacking group that has been in operation since at least 2011 has re-emerged and is still interested in targeting the United States and European companies in the energy sector.
+Yes, I am talking about the 'Dragonfly,' a well-resourced, Eastern European hacking group responsible for sophisticated cyber-espionage campaigns against the critical infrastructure of energy companies in different countries in past years.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In 2014, we reported about the Dragonfly groups ability to mount sabotage operations against their targets—mainly petroleum pipeline operators, electricity generation firms and other Industrial Control Systems (ICS) equipment providers for the energy sector.
+Researchers from cyber security firm Symantec who discovered the previous campaign is now warning of a new campaign, which they dubbed Dragonfly 2.0, saying "the group now potentially has the ability to sabotage or gain control of these systems should it decide to do so" and has already gained unprecedented access to operational systems of Western energy firms.
+Here are the major highlights of the group activities outlined in the new report from Symantec:
+The hacking group has been active since late 2015 and reportedly using same tactics and tools that were used in earlier campaigns.
+The major objective of the Dragonfly 2.0 group is to collect intelligence and gain access to the networks of the targeted organization, eventually making the group capable of mounting sabotage operations when required.
+Dragonfly 2.0 majorly targeting the critical energy sectors in the U.S., Turkey, and Switzerland.
+Like previous Dragonfly campaigns, the hackers are using malicious email (containing very specific content related to the energy sector) attachments, watering hole attacks, and Trojanized software as an initial attack vector to gain access to a victim's network.
+The group is using a toolkit called Phishery (available on GitHub) to perform email-based attacks that host template injection attack to steal victim's credentials.
+Malware campaign involves multiple remote access Trojans masquerading as Flash updates called, Backdoor.Goodor, Backdoor.Dorshel and Trojan.Karagany.B, allowing attackers to provide remote access to the victim's machine.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Symantec researchers did not find any evidence of the Dragonfly 2.0 group using any zero day vulnerabilities. Instead, the hacking group strategically uses publically available administration tools like PowerShell, PsExec, and Bitsadmin, making attribution more difficult.
+"The Dragonfly 2.0 campaigns show how the attackers may be entering into a new phase, with recent campaigns potentially providing them with access to operational systems, access that could be used for more disruptive purposes in future," Symantec believes.
+Cyber attacks on energy grids are not a new thing. Energy companies in Ukraine targeted by hackers on two different occasions in late 2015 and late 2016, actually caused the power outage across several regions in Ukraine, causing a blackout for tens of thousands of citizens around midnight.
+Moreover, Nuclear facilities in the United States, including Wolf Creek Nuclear Operating Corporation, were targeted by a well-known Russian group back in July this year, but luckily there's no proof if the hackers were able to gain access to the operational systems or not.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

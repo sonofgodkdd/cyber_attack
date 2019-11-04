@@ -1,0 +1,17 @@
+Here's How Hacker Activated All Dallas Emergency Sirens On Friday Night
+Mohit Kumar
+
+Last weekend when outdoor emergency sirens in Dallas cried loudly for over 90 minutes, many researchers concluded that some hackers hijacked the alarm system by exploiting an issue in a vulnerable computer network.
+But it turns out that the hackers did not breach Dallas' emergency services computer systems to trigger the city's outdoor sirens for tornado warnings and other emergencies, rather they did it entirely on radio.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a statement issued on Monday, Dallas City Manager T.C. Broadnax clarified the cause of the last Friday's chaos, saying the "hack" used a radio signal that spoofed the system used to control the siren network centrally.
+"I don't want someone to understand how it was done so that they could try to do it again," Broadnax said without going much into details. "It was not a system software issue; it was a radio issue."
+First installed in 2007, the Dallas outdoor emergency warning system powers 156 sirens made by a company called Federal Signal.
+The city officials did not provide details on how the Emergency Alert System (EAS) works, but noted that "it's a tonal-type system" that's usually controlled by tone combinations used by the EAS broadcast over the National Weather Service's weather radio, and by Dual-Tone Multi-Frequency (DTMF) or Audio Frequency Shift Keying (AFSK) encoded commands from a command center terminal sent over an emergency radio frequency.
+The Federal Communications Commission (FCC) currently has the 700MHz range of radio frequency reserved for US public safety.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This suggests that the emergency system could be compromised by outside radio equipment replicating the tonal code required to trigger the alarms — which, in other words, is known as a "radio replay" attack.
+It is believed that the hacker who managed to trigger alarm last Friday somehow managed to gain access to the siren system documentation to know the exact tonal commands that trigger an alarm, and then just played that command signal repeatedly.
+According to the city officials, the decade-old radio-based system was disabled hours after the breach and went live over the weekend with encryption to protect the language of tones as a measure to prevent such attacks.
+The Dallas City Council has also voted to pay $100,000 more to its emergency siren system contractor to increase the security of the city's current system.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

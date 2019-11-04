@@ -1,0 +1,23 @@
+Database of 1.4 Billion Records leaked from World’s Biggest Spam Networks
+Mohit Kumar
+
+A database of 1.4 billion email addresses combined with real names, IP addresses, and often physical address has been exposed in what appears to be one the largest data breach of this year.
+What's worrisome? There are high chances that you, or at least someone you know, is affected by this latest data breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security researcher Chris Vickery of MacKeeper and Steve Ragan of CSOOnline discovered an unsecured and publicly exposed repository of network-available backup files linked to a notorious spamming organization called River City Media (RCM), led by notorious spammers Matt Ferrisi and Alvin Slocombe.
+Spammer’s Entire Operation Exposed
+The database contains sensitive information about the company's operations, including nearly 1.4 Billion user records, which was left completely exposed to anyone – even without any username or password.
+According to MacKeeper security researcher Vickery, RCM, which claims to be a legitimate marketing firm, is responsible for sending around a billion unwanted messages per day.
+Besides exposing more than a billion email addresses, real names, IP addresses and, in some cases, physical addresses, the leak exposed many documents that revealed the inner workings of RCM's spam operation.
+"The situation presents a tangible threat to online privacy and security as it involves a database of 1.4bn email accounts combined with real names, user IP addresses, and often physical address," Vickery said. "Chances are that you, or at least someone you know, is affected."
+Vickery wasn't able to fully verify the leak but said he discovered addresses he knew were accurate in the database.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Wondering how spamming operations can be profitable? One leaked text shows a single day of activity of RCM that sent 18 million emails to Gmail users and 15 million to AOL users, and the total take of the spamming company was around $36,000.
+Illegal Hacking Techniques Used by RCM
+The company employed many illegal hacking techniques to target as many users as possible. One of the primary hacking methods described by the researchers is the Slowloris attacks, a method designed to cripple a web server rather than subvert it in this manner.
+"[Slowloris is] a technique in which the spammer seeks to open as many connections as possible between themselves and a Gmail server," Vickery writes in a blog post published today.
+"This is done by purposefully configuring your own machine to send response packets extremely slowly, and in a fragmented manner, while constantly requesting more connections."
+The researchers have reported that details of RSM’s operations and its abusive scripts and techniques have been sent to Microsoft, Apple, Salted Hash, Spamhaus, and others affected parties. 
+Meanwhile, the researchers have also notified law enforcement agencies, which they says, have expressed keen interest in the matter.
+In response to the latest discovery, Spamhaus will be blacklisting RCM’s entire infrastructure from its Register of Known Spam Operations (ROKSO) database that tracks professional spam operations and lists them using a three-strike rule.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

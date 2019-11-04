@@ -1,0 +1,20 @@
+Russia's Largest Portal HACKED; Nearly 100 Million Plaintext Passwords Leaked
+Swati Khandelwal
+Another data breach from 2012, and this time, it's Russia's biggest internet portal and email provider Rambler.ru.
+Rambler.ru, also known as Russia's Yahoo, suffered a massive data breach in 2012 in which an unknown hacker or a group of hackers managed to steal nearly 100 Million user accounts, including their unencrypted plaintext passwords.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The copy of the hacked database obtained by the breach notification website LeakedSource contained details of 98,167,935 Rambler.ru users that were originally stolen on 17 February 2012, but went unreported.
+The leaked user records in the database included usernames, email addresses, ICQ numbers (IM chat service), social account details, passwords and some internal data, the data breach indexing site said in a blog post.
+The data breach was reported by the same hacker using the daykalif@xmpp.jp Jabber ID who handed LeakedSource over 43.5 Million user records from another 2012 hack suffered by the Last.fm music streaming service.
+According to LeakedSource, none of the passwords were hashed, meaning the company stored its user's password in an unencrypted plain text format that could allow the company as well as hackers to see passwords easily.
+This is something similar to the VK.com breach, in which 171 Million users’ accounts were taken from the Russian social networking site, where passwords were also stored in plaintext format, without any hashing or salting.
+Again, as expected, the most common passwords used by Rambler.ru users, includes "asdasd," "123456," "000000," "654321," "123321," or "123123."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+LeakedSource has added the data into its database; so Rambler.ru users can check if they have been compromised by searching their account at Leaked Source’s search engine.
+Rambler.ru is the latest victim to join the list of "Mega-Breaches" revealed in recent months, when hundreds of Millions of online credentials from years-old data breaches on popular services, including LinkedIn, MySpace, VK.com, Tumblr, and Dropbox, were exposed online.
+Rambler has yet to respond to the incident.
+The Bottom Line:
+Users are advised to change their passwords for Rambler.ru account as well as other online accounts immediately, especially those using the same passwords.
+Moreover, I always encourage users to make use of password managers that create strong and complex passwords for different websites as well as remember them on your behalf.
+I have listed some of the best password managers that could help you understand the importance of password manager as well as choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

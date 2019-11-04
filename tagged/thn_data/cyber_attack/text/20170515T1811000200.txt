@@ -1,0 +1,89 @@
+WannaCry Ransomware: Everything You Need To Know Immediately
+Mohit Kumar
+
+By now I am sure you have already heard something about the WannaCry ransomware, and are wondering what's going on, who is doing this, and whether your computer is secure from this insanely fast-spreading threat that has already hacked nearly 200,000 Windows PCs over the weekend.
+The only positive thing about this attack is that — you are here — as after reading this easy-to-understandable awareness article, you would be so cautious that you can save yourself from WannaCry, as well as other similar cyber attacks in the future.
+Also Read — Google Researcher Finds Link Between WannaCry Attacks and North Korea.
+Since this widely spread ransomware attack is neither the first nor the last one to hit users worldwide, prevention is always the key to protect against such malware threats.
+What is WannaCry? How to Protect your Computer from WannaCry Ransomware? Follow These Simple Steps.
+ TWEET THIS 
+In this article, we have provided some of the most important primary security tips that you should always follow and advised to share with everyone you care for.
+What is Ransomware & Why WannaCry is More Dangerous?
+(A simple video demonstrating of WannaCry Ransomware, showing how fast it spreads from system-to-system without any user Interaction)
+For those unaware, Ransomware is a computer virus that usually spreads via spam emails and malicious download links; specially designed to lock up the files on a computer, until the victim pays the ransom demand, usually $300-$500 in Bitcoins.
+But what makes WannaCry so unique and nasty is its ability to self-spread without even need to click any link or a file.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The WannaCry ransomware, also known as Wanna Decryptor, leverages a Windows SMB exploit, dubbed EternalBlue, that allows a remote hacker to hijack computers running on unpatched Microsoft Windows operating system.
+Once infected, WannaCry also scans for other unpatched PCs connected to the same local network, as well as scans random hosts on the wider Internet, to spread itself quickly.
+What Has Happened So Far
+We have been covering this story since Friday when this malware was first emerged and hit several hospitals across the globe, eventually forcing them to shut down their entire IT systems over the weekend, hence rejecting patients appointments, and cancel operations.
+Later this cyber attack brought down many organizations to their knees.
+Instead of repeating same details again, read our previous articles dig deeper and know what has happened so far:
+Day 1: OutCry — WannaCry targeted over 90,000 computers in 99 countries.
+Day 2: The Patch Day — A security researcher successfully found a way to slow down the infection rate, and meanwhile, Microsoft releases emergency patch updates for unsupported versions of Windows.
+Day 3: New Variants Arrives — Just yesterday, some new variants of WannaCry, with and without a kill-switch, were detected in the wild would be difficult to stop for at least next few weeks.
+Isn’t the Cyber Attack Over?
+Absolutely not.
+This is just beginning. As I reported yesterday, security researchers have detected some new versions of this ransomware, dubbed WannaCry 2.0, which couldn’t be stopped by the kill switch. 
+What's even worse is that the new WannaCry variant believed to be created by someone else, and not the hackers behind the first WannaCry ransomware.
+It has been speculated that now other organized cybercriminal gangs, as well as script-kiddies can get motivated by this incident to create and spread similar malicious ransomware.
+How to Protect Yourself from WannaCry Ransomware?
+Here are some simple tips you should always follow because most computer viruses make their ways into your systems due to lack of simple security practices:
+1. Always Install Security Updates
+If you are using any version of Windows, except Windows 10, with SMB protocol enabled, make sure your computer should always receive updates automatically from the Microsoft, and it’s up-to-date always.
+2. Patch SMB Vulnerability
+Since WannaCry has been exploiting a critical SMB remote code execution vulnerability (CVE-2017-0148) for which Microsoft has already released a patch (MS17-010) in the month of March, you are advised to ensure your system has installed those patches.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, Microsoft has been very generous to its users in this difficult time that the company has even released the SMB patches (download from here) for its unsupported versions of Windows as well, including Windows XP, Vista, 8, Server 2003 and 2008.
+Note: If you are using Windows 10 Creators Update (1703), you are not vulnerable to SMB vulnerability.
+3. Disable SMB
+Even if you have installed the patches, you are advised to disable Server Message Block version 1 (SMBv1) protocol, which is enabled by default on Windows, to prevent against WannaCry ransomware attacks.
+Here's the list of simple steps you can follow to disable SMBv1:
+Go to Windows' Control Panel and open 'Programs.'
+Open 'Features' under Programs and click 'Turn Windows Features on and off.'
+Now, scroll down to find 'SMB 1.0/CIFS File Sharing Support' and uncheck it.
+Then click OK, close the control Panel and restart the computer.
+4. Enable Firewall & Block SMB Ports
+Always keep your firewall enabled, and if you need to keep SMBv1 enabled, then just modify your firewall configurations to block access to SMB ports over the Internet. The protocol operates on TCP ports 137, 139, and 445, and over UDP ports 137 and 138.
+5. Use an Antivirus Program
+An evergreen solution to prevent against most threats is to use a good antivirus software from a reputable vendor and always keep it up-to-date.
+Almost all antivirus vendors have already added detection capability to block WannaCry, as well as to prevent the secret installations from malicious applications in the background.
+6. Be Suspicious of Emails, Websites, and Apps
+Unlike WannaCry, most ransomware spread through phishing emails, malicious adverts on websites, and third-party apps and programs.
+So, you should always exercise caution when opening uninvited documents sent over an email and clicking on links inside those documents unless verifying the source to safeguard against such ransomware infection.
+Also, never download any app from third-party sources, and read reviews even before installing apps from official stores.
+7. Regular Backup your Files:
+To always have a tight grip on all your important documents and files, keep a good backup routine in place that makes their copies to an external storage device which is not always connected to your computer.
+That way, if any ransomware infects you, it can not encrypt your backups.
+8. Keep Your Knowledge Up-to-Date
+There's not a single day that goes without any report on cyber attacks and vulnerabilities in popular software and services, such as Android, iOS, Windows, Linux and Mac Computers as well.
+So, it’s high time for users of any domain to follow day-to-day happening of the cyber world, which would not only help them to keep their knowledge up-to-date, but also prevent against even sophisticated cyber attacks.
+What to do if WannaCry infects you?
+Well, nothing.
+If WannaCry ransomware has infected you, you can’t decrypt your files until you pay a ransom money to the hackers and get a secret key to unlock your file.
+Never Pay the Ransom:
+It’s up to the affected organizations and individuals to decide whether or not to pay the ransom, depending upon the importance of their files locked by the ransomware.
+But before making any final decision, just keep in mind: there's no guarantee that even after paying the ransom, you would regain control of your files.
+Moreover, paying ransom also encourages cyber criminals to come up with similar threats and extort money from the larger audience.
+So, sure shot advice to all users is — Don't Pay the Ransom.
+Who's Behind WannaCry & Why Would Someone Do This?
+Update: Also Read — Google Researcher Finds Link Between WannaCry Attacks and North Korea.
+While it's still not known who is behind WannaCry, such large-scale cyber attacks are often propagated by nation states, but this ongoing attack does not bear any link to foreign governments.
+"The recent attack is at an unprecedented level and will require a complex international investigation to identify the culprits," said Europol, Europe's police agency.
+Why are they hijacking hundreds of thousands of computers around the globe? Simple — to extort money by blackmailing infected users.
+By looking at the infection rate, it seems like the criminals responsible for this absurd attack would have made lots and lots of dollars so far, but surprisingly they have made relatively little in the way of profits, according to @actual_ransom, a Twitter account that’s tweeting details of every single transaction.
+At the time of writing, the WannaCry attackers have received 171 payments totaling 27.96968763 BTC ($47,510.71 USD).
+Who is responsible for WannaCry Attack?
+— Is it Microsoft who created an operating system with so many vulnerabilities?
+— Or is it the NSA, the intelligence agency of the United States, who found this critical SMB vulnerability and indirectly, facilitates WannaCry like attacks by not disclosing it to Microsoft?
+— Or is it the Shadow Brokers, the hacking group, who managed to hack the NSA servers, but instead of reporting it to Microsoft, they decided to dump hacking tools and zero-day exploits in public?
+— Or is it the Windows users themselves, who did not install the patches on their systems or are still using an unsupported version of Windows?
+I do not know who can be blamed for this attack, but according to me, all of them shares equal responsibility.
+Microsoft Blames NSA/CIA for WannaCry Cyber Attack
+Microsoft has hit out at the US government for facilitating cyber attacks, like WannaCry, by not disclosing the software vulnerabilities to the respective vendors and holding them for their benefits, like global cyber espionage.
+In a blog post on Sunday, Microsoft President Brad Smith condemned the US intelligence agencies’ unethical practices, saying that the "widespread damage" caused by WannaCry happened due to the NSA, CIA and other intelligence agencies for holding zero-days and allowing them to be stolen by hackers.
+"This is an emerging pattern in 2017. We have seen vulnerabilities stored by the CIA show up on WikiLeaks, and now this vulnerability stolen from the NSA has affected customers around the world," Smith said.
+This statement also publicly confirms that the hacking tools and exploits leaked by the Shadow Brokers belong to Equation Group, an elite group of hackers from NSA.
+"Repeatedly, exploits in the hands of governments have leaked into the public domain and caused widespread damage," Smith wrote.
+Thank you. Stay tuned.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

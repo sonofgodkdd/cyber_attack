@@ -1,0 +1,29 @@
+19-Year-Old Hacker Arrested Over Making Hoax School and Flight Bomb Threats
+Mohit Kumar
+
+British police have arrested a 19-year-old teen who is an alleged member of Apophis Squad cybercriminal group responsible for making hoax bomb threats to thousands of schools and airlines; and DDoSing ProtonMail and Tutanota secure email services.
+George Duke-Cohan was arrested in his bedroom at his family home in Watford by British National Crime Agency (NCA) on 31st August and pledged guilty to three counts of making bomb threats to schools and airlines in Luton Magistrates' Court on Monday.
+Duke-Cohan spammed out more than 24,000 emails to schools across the UK and in the US as well, claiming that pipe bombs had been planted on the premises, which would blow up the building if $5,000 extortion money was not made within 3 hours.
+He Got Arrested Third-Time For Making Hoax Bomb Threats
+This is not the first time Duke-Cohan has been arrested for spreading fake bomb threats.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+He first created panic in March this year when he emailed thousands of schools in the UK warning about an explosive, which resulted in 400 schools across the country being evacuated.
+Duke-Cohan was then arrested in April for the first time. However, while under investigation, he sent another batch of hoax emails (24,000 emails in total) to schools in the United States and the UK, claiming that pipe bombs had been planted on the premises.
+Duke-Cohan was arrested for the second time for making further hoax bomb threats. He was then released on bail under the condition he did not use any electronic device.
+However, while on bail for the two previous offenses, Duke-Cohan posing as a concerned father phoned San Francisco Airport and their police officers, claiming that his daughter told him her flight was hijacked by gunmen, one of whom has a bomb.
+The plane, United Airlines Flight 949 between the UK and San Francisco, was then forced to quarantined and extensively searched, which led to disruption to all 295 passengers journeys and financial loss to the airline.
+Duke-Cohan was arrested for the third time at his home in Watford, Hertfordshire, on 31 August and found to be in possession of multiple electronic devices, despite the restrictions in place.
+He Is Also A Key Member of 'Apophis Squad' Criminal Group
+At the time of Duke-Cohan's third hoax, a Hacker group calling itself Apophis Squad claimed flight UA949 was grounded due to their actions in a post on Twitter on August 9.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A blog post published today by ProtonMail also confirms that Duke-Cohan was a key member of Apophis Squad, the same criminal group which was also involved in cyberattacks against ProtonMail, which remained under attack through much of August.
+ProtonMail strongly states that the service is committed to privacy, security, and freedom of information, but the same does not apply to people who are engaged in criminal activities, and "will actively pursue all those who try to harm ProtonMail and bring them to justice."
+"To fulfill this commitment, we are willing to commit all necessary financial, legal, and technical resources," the company states.
+While investigating the attacks against its secure mailing service, ProtonMail discovered that some members of Apophis Squad were also ProtonMail users, which was confirmed when a number of law enforcement agencies submitted MLAT requests, asking the company to "render assistance to the extent that is possible given ProtonMail encryption."
+"What we found, combined with intelligence provided by a trusted source, allowed us to conclusively identify Duke-Cohan as a member of Apophis Squad in the first week of August, and we promptly informed law enforcement," ProtonMail says.
+However, the British police did not immediately arrest Duke-Cohan until his third hoax involving United Airlines Flight 949, making it necessary for British police to take action and detain Duke-Cohan.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Monday, Duke-Cohan pleaded guilty in a UK court to three counts of making bomb threats to schools and airlines, and ProtonMail also believes he could possibly be extradited to the US to face charges.
+Duke-Cohan has been remanded in custody and will be sentenced at Luton Crown Court on September 21.
+Meanwhile, ProtonMail said several other hackers who were behind DDoS ​​attacks against its service were also identified and the authorities are working together to prosecute them.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

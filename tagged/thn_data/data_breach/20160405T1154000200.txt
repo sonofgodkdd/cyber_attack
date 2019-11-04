@@ -1,0 +1,34 @@
+Personal Data of 50 Million Turkish Citizens Leaked Online
+Swati Khandelwal
+
+Personal details of nearly 50 Million Turkish citizens, including the country's President Recep Tayyip Erdogan, have been compromised and posted online in a massive security breach. 
+A database, which contains 49,611,709 records, appeared on the website of an Icelandic group on Monday, offering download links to anyone interested.
+If confirmed, the data breach would be one of the biggest public breaches of its kind, effectively putting two-thirds of the Nation's population at risk of identity theft and fraud. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, The Associated Press (AP) reported on Monday that it was able to partially verify the authenticity of 8 out of 10 non-public Turkish ID numbers against the names in the data leak.
+50 Million Turkish Citizens' Personal Data leaked Online
+The leaked database (about 6.6 GB file) contains the following information: 
+First and last names
+National identifier numbers (TC Kimlik No)
+Gender
+City of birth
+Date of birth
+Full address
+ID registration city and district
+User's mother and Father's first names
+To prove the authenticity of the data, the group of hackers published the personal details of Turkish President Recep Tayyip Erdogan, along with his predecessor Abdullah Gul, and Prime Minister Ahmet Davutoglu.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attack seems to be politically motivated, as the hackers wrote the following message on the database's front page, featuring Erdogan's profile:
+"Who would have imagined that backwards ideologies, cronyism and rising religious extremism in Turkey would lead to a crumbling and vulnerable technical infrastructure?"
+Lessons Posted by Hackers 
+Besides the leaked database, the hackers also provided some lessons to learn from this leak. Under the heading Lessons for Turkey, the hackers wrote: 
+'Bit shifting isn't encryption,' referring to the fact that the data was improperly protected.
+'Index your database. We had to fix your sloppy DB work.'
+'Putting a hardcoded password on the UI hardly does anything for security,' though the hackers didn't specify in what UI.
+'Do something about Erdogan! He is destroying your country beyond recognition.'
+Under the heading Lessons for the United States, the hackers addressed US citizens, asking them not to elect Republican front-runner Donald Trump since he 'sounds like he knows even less about running a country than Erdogan does.'
+Links to Download the Database
+The database is available online on a Finland-based server. Though the source of the leaked data is currently unknown, it is likely from a Turkish public administration office that deals with users' personal information.
+If the authenticity of all 50 Million records gets verified, the breach will be the biggest leaks after the one that occurred in U.S. government's Office of Personnel Management (OPM) in April 2015 that…
+...compromised the personal information of over 22 Million U.S. federal employees, contractors, retirees and others, and exposed Millions of sensitive and classified documents. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

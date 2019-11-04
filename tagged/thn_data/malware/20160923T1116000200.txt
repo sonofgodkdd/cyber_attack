@@ -1,0 +1,18 @@
+Leaked NSA Hacking Tools Were 'Mistakenly' Left By An Agent On A Remote Server
+Swati Khandelwal
+
+If you are a hacker, you might have enjoyed the NSA's private zero-day exploits, malware and hacking tools that were leaked last month.
+But the question is: How these hacking tools ended up into the hands of hackers?
+It has been found that the NSA itself was not directly hacked, but a former NSA employee carelessly left those hacking tools on a remote server three years ago after an operation and a group of Russian hackers found them, sources close to the investigation told Reuters.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The leaked hacking tools, which enable hackers to exploit vulnerabilities in systems from big vendors like Cisco Systems, Juniper, and Fortinet, were dumped publicly online by the group calling itself "The Shadow Brokers."
+NSA officials have also admitted to the FBI that their careless employee acknowledged the error shortly afterward, and hence the agency was aware of its operative's mistake from last three years.
+But instead of warning the affected companies that their customers were at risk, the NSA maintained the silence.
+"After the discovery, the NSA tuned its sensors to detect [the] use of any of the tools by other parties, especially foreign adversaries with strong cyber espionage operations, such as China and Russia," Reuters reports.
+Well, that's Bullshit! If they call it a 'tactic.'
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Shortly after the public release of NSA cyber weapons, firewall vendors Cisco and Fortinet confirmed that the leaked zero-day vulnerabilities were legitimate and issued out patches to fix those exploits.
+We are still waiting for the comments from the NSA, the FBI and the Office of the Director of National Intelligence about the matter.
+Since the initial leak of NSA's hacking tools last month and confirmation of the leaked vulnerabilities being legitimate by Cisco and Fortinet, the intelligence agency and online community has been finding out the working exploits in the data dump that are still unknown and used in the wild.
+Just recently, Cisco revealed a new zero-day vulnerability from the leaked data dump that had been used by hackers to target some of its customers, which indicates that hackers would likely continue to take advantage of the now-exposed exploits to conduct cyber attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

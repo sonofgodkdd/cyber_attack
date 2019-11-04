@@ -1,0 +1,24 @@
+Hacker Who Never Hacked Anyone Gets 33-Month Prison Sentence
+Mohit Kumar
+
+A hacker who was arrested and pleaded guilty last year—not because he hacked someone, but for creating and selling a remote access trojan that helped cyber criminals—has finally been sentenced to serve almost three years in prison.
+Taylor Huddleston, 26, of Hot Springs, Arkansas, pleaded guilty in July 2017 to one charge of aiding and abetting computer intrusions by building and intentionally selling a remote access trojan (RAT), called NanoCore, to hackers for $25.
+Huddleston was arrested in March, almost two months before the FBI raided his house in Hot Springs, Arkansas and left with his computers after 90 minutes, only to return eight weeks later with handcuffs.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This case is a rare example of the US Department of Justice (DOJ) charging someone not for actively using malware to hack victims' computers, but for developing and selling it to other cybercriminals.
+Huddleston admitted to the court that he created his software knowing it would be used by other cybercriminals to break the law.
+He initially started developing NanoCore in late 2012 with a motive to offer a low-budget remote management software for schools, IT-conscious businesses, and parents who desired to monitor their children's activities on the web.
+However, Huddleston marketed and sold the NanoCore RAT for $25 in underground hacking forums that were extremely popular with cybercriminals around the world from January 2014 to February 2016. He then sold ownership of NanoCore to a third-party in 2016.
+NanoCore RAT happens to be popular among cybercriminals on underground hacking forums and has been linked to intrusions in at least ten countries. Among the victims was a high-profile assault on Middle Eastern energy firms in 2015.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Huddleston also agreed with prosecutors that NanoCore RAT and available third-party plugins offered a full set of features including:
+Stealing sensitive information from victim computers, such as passwords, emails, and instant messages.
+Remotely activating and controlling connected webcams on the victims' computers in order to spy on them.
+Ability to view, delete, and download files.
+Locking infected PCs and holding them to ransom.
+Using infected PCs to launch distributed denial of service (DDoS) attacks on websites and similar services.
+In July plea, Huddleston also took responsibility for creating and operating a software licensing system called "Net Seal" that was used by another suspect, Zachary Shames, to sell thousands of copies of Limitless keylogger.
+Shames used Net Seal to infect 3,000 people that were, in turn, used it to infect 16,000 computers, according to the DoJ.
+In his guilty plea, Huddleston admitted that he intended his products to be used maliciously.
+Besides the 33-month prison sentence handed down by judges on Friday, Huddleston also gets two years of supervised release.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

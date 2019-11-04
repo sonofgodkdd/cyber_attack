@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+For Immediate Release:
+November 4, 2009
+Contact: Special Agent Tony Pettigrew
+Number: 617-557-2138
+Florida Man Charged with Dealing Oxycodone
+NOV 04  -- BOSTON, MA - A Florida man was charged today in Massachusetts federal court for possession of oxycodone pills with intent to distribute in violation of the federal drug laws.
+Acting United States Attorney Michael K. Loucks and Steven Derr, Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division, announced today that 
+ADAM JASINSKI  , age 31, of Delray Beach, Florida, was charged in an Indictment with possession of oxycodone pills, a Schedule II controlled substance, with intent to distribute.
+JASINSKI  was charged on October 19, 2009 in a related criminal complaint, which alleged that on or about October 8, 2009, 
+JASINSKI  and a witness assisting federal agents in the drug investigation spoke on the telephone, wherein 
+JASINSKI  agreed to sell the witness 2,000 oxycodone pills. In a series of additional telephone calls, 
+JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills. The witness agreed to meet 
+JASINSKI  at the airport and drive him to another location to consummate the deal.
+On October 17, 2009, the witness met with 
+JASINSKI  at Logan International Airport in East Boston, Massachusetts. During the meeting, 
+JASINSKI  entered the car driven by the witness, and the witness began driving to a location in North Reading. During the drive, 
+JASINSKI  showed the witness two plastic bags containing numerous small blue pills. Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car. Agents then approached the car and 
+JASINSKI  was arrested.
+If convicted on this charge, 
+JASINSKI  faces up to 20 years imprisonment, to be followed by at least three years supervised release and a $1 million fine.
+The case was investigated by the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments. It is being prosecuted by Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="50" end="78" text="Special Agent Tony Pettigrew" TYPE="NAM" />
+<person id="p1" start="50" end="63" text="Special Agent" TYPE="NOMPRE" />
+<person id="p2" start="100" end="142" text="Florida Man Charged with Dealing Oxycodone" TYPE="BAR" />
+<person id="p3" start="167" end="180" text="A Florida man" TYPE="NOM" />
+<person id="p4" start="329" end="376" text="Acting United States Attorney Michael K. Loucks" TYPE="NAM" />
+<person id="p5" start="329" end="358" text="Acting United States Attorney" TYPE="NOMPRE" />
+<person id="p6" start="381" end="480" text="Steven Derr, Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" TYPE="APP" />
+<person id="p7" start="381" end="392" text="Steven Derr" TYPE="NAM" />
+<person id="p8" start="394" end="480" text="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" TYPE="BAR" />
+<person id="p9" start="504" end="553" text="ADAM JASINSKI  , age 31, of Delray Beach, Florida" TYPE="NAM" />
+<person id="p10" start="683" end="691" text="JASINSKI" TYPE="NAM" />
+<person id="p11" start="807" end="815" text="JASINSKI" TYPE="NAM" />
+<person id="p12" start="821" end="881" text="a witness assisting federal agents in the drug investigation" TYPE="NOM" />
+<person id="p13" start="841" end="855" text="federal agents" TYPE="BAR" />
+<person id="p14" start="915" end="923" text="JASINSKI" TYPE="NAM" />
+<person id="p15" start="940" end="951" text="the witness" TYPE="NOM" />
+<person id="p16" start="1019" end="1027" text="JASINSKI" TYPE="NAM" />
+<person id="p17" start="1065" end="1068" text="his" TYPE="PRO" />
+<person id="p18" start="1117" end="1128" text="the witness" TYPE="NOM" />
+<person id="p19" start="1140" end="1151" text="The witness" TYPE="NOM" />
+<person id="p20" start="1168" end="1176" text="JASINSKI" TYPE="NAM" />
+<person id="p21" start="1203" end="1206" text="him" TYPE="PRO" />
+<person id="p22" start="1272" end="1283" text="the witness" TYPE="NOM" />
+<person id="p23" start="1294" end="1302" text="JASINSKI" TYPE="NAM" />
+<person id="p24" start="1387" end="1395" text="JASINSKI" TYPE="NAM" />
+<person id="p25" start="1423" end="1434" text="the witness" TYPE="NOM" />
+<person id="p26" start="1440" end="1451" text="the witness" TYPE="NOM" />
+<person id="p27" start="1517" end="1525" text="JASINSKI" TYPE="NAM" />
+<person id="p28" start="1534" end="1545" text="the witness" TYPE="NOM" />
+<person id="p29" start="1642" end="1653" text="the witness" TYPE="NOM" />
+<person id="p30" start="1699" end="1705" text="Agents" TYPE="BAR" />
+<person id="p31" start="1735" end="1743" text="JASINSKI" TYPE="NAM" />
+<person id="p32" start="1789" end="1797" text="JASINSKI" TYPE="NAM" />
+<person id="p33" start="2030" end="2152" text="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="BAR" />
+<person id="p34" start="2180" end="2293" text="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" TYPE="NAM" />
+<person id="p35" start="2180" end="2293" text="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" TYPE="NAM" />
+<person id="p36" start="2180" end="2204" text="Assistant U.S. Attorneys" TYPE="NOMPRE" />
+<person id="p37" start="2242" end="2248" text="Loucks" TYPE="NAM" />
+<organization id="o0" start="202" end="229" text="Massachusetts federal court" TYPE="BAR" />
+<organization id="o1" start="421" end="480" text="the Drug Enforcement Administration - Boston Field Division" TYPE="NAM" />
+<organization id="o3" start="1944" end="1979" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o4" start="1944" end="2152" text="the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="NAM" />
+<organization id="o5" start="2008" end="2013" text="which" TYPE="WHQ" />
+<organization id="o6" start="2049" end="2056" text="the DEA" TYPE="NAM" />
+<organization id="o7" start="2061" end="2152" text="the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="NOM" />
+<organization id="o9" start="2242" end="2293" text="Loucks' Organized Crime Drug Enforcement Task Force" TYPE="NAM" />
+<geographical-political id="g0" start="100" end="107" text="Florida" TYPE="NAMPRE" />
+<geographical-political id="g1" start="154" end="164" text="BOSTON, MA" TYPE="NAM" />
+<geographical-political id="g2" start="162" end="164" text="MA" TYPE="NAM" />
+<geographical-political id="g3" start="169" end="176" text="Florida" TYPE="NAMPRE" />
+<geographical-political id="g4" start="202" end="215" text="Massachusetts" TYPE="NAMPRE" />
+<geographical-political id="g5" start="336" end="349" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g6" start="532" end="553" text="Delray Beach, Florida" TYPE="NAM" />
+<geographical-political id="g7" start="546" end="553" text="Florida" TYPE="NAM" />
+<geographical-political id="g8" start="1046" end="1059" text="Massachusetts" TYPE="NAM" />
+<geographical-political id="g9" start="1077" end="1084" text="Florida" TYPE="NAM" />
+<geographical-political id="g10" start="1338" end="1349" text="East Boston" TYPE="NAM" />
+<geographical-political id="g11" start="1351" end="1364" text="Massachusetts" TYPE="NAM" />
+<geographical-political id="g12" start="1483" end="1496" text="North Reading" TYPE="NAM" />
+<geographical-political id="g13" start="1627" end="1640" text="North Reading" TYPE="NAM" />
+<geographical-political id="g14" start="2065" end="2074" text="Worcester" TYPE="NAM" />
+<geographical-political id="g15" start="2076" end="2087" text="Westborough" TYPE="NAM" />
+<geographical-political id="g16" start="2089" end="2102" text="North Andover" TYPE="NAM" />
+<geographical-political id="g17" start="2104" end="2117" text="North Reading" TYPE="NAM" />
+<geographical-political id="g18" start="2123" end="2133" text="Burlington" TYPE="NAM" />
+<geographical-political id="g19" start="2190" end="2194" text="U.S." TYPE="NAMPRE" />
+<location id="l0" start="1469" end="1496" text="a location in North Reading" TYPE="NOM" />
+<falicity id="f0" start="1065" end="1084" text="his home in Florida" TYPE="NOM" />
+<falicity id="f1" start="1181" end="1192" text="the airport" TYPE="NOM" />
+<falicity id="f2" start="1307" end="1364" text="Logan International Airport in East Boston, Massachusetts" TYPE="NAM" />
+<falicity id="f3" start="1666" end="1678" text="a strip mall" TYPE="NOM" />
+<head id="h0" start="64" end="78" text="Tony Pettigrew" />
+<head id="h1" start="58" end="63" text="Agent" />
+<head id="h2" start="108" end="111" text="Man" />
+<head id="h3" start="100" end="107" text="Florida" />
+<head id="h4" start="154" end="160" text="BOSTON" />
+<head id="h5" start="162" end="164" text="MA" />
+<head id="h6" start="177" end="180" text="man" />
+<head id="h7" start="169" end="176" text="Florida" />
+<head id="h8" start="224" end="229" text="court" />
+<head id="h9" start="202" end="215" text="Massachusetts" />
+<head id="h10" start="359" end="376" text="Michael K. Loucks" />
+<head id="h11" start="350" end="358" text="Attorney" />
+<head id="h12" start="336" end="349" text="United States" />
+<head id="h13" start="381" end="392" text="Steven Derr" />
+<head id="h14" start="402" end="407" text="Agent" />
+<head id="h15" start="425" end="480" text="Drug Enforcement Administration - Boston Field Division" />
+<head id="h16" start="504" end="517" text="ADAM JASINSKI" />
+<head id="h17" start="532" end="544" text="Delray Beach" />
+<head id="h18" start="546" end="553" text="Florida" />
+<head id="h19" start="683" end="691" text="JASINSKI" />
+<head id="h20" start="807" end="815" text="JASINSKI" />
+<head id="h21" start="823" end="830" text="witness" />
+<head id="h22" start="849" end="855" text="agents" />
+<head id="h23" start="915" end="923" text="JASINSKI" />
+<head id="h24" start="944" end="951" text="witness" />
+<head id="h25" start="1019" end="1027" text="JASINSKI" />
+<head id="h26" start="1046" end="1059" text="Massachusetts" />
+<head id="h27" start="1065" end="1068" text="his" />
+<head id="h28" start="1069" end="1073" text="home" />
+<head id="h29" start="1077" end="1084" text="Florida" />
+<head id="h30" start="1121" end="1128" text="witness" />
+<head id="h31" start="1144" end="1151" text="witness" />
+<head id="h32" start="1168" end="1176" text="JASINSKI" />
+<head id="h33" start="1185" end="1192" text="airport" />
+<head id="h34" start="1203" end="1206" text="him" />
+<head id="h35" start="1276" end="1283" text="witness" />
+<head id="h36" start="1294" end="1302" text="JASINSKI" />
+<head id="h37" start="1307" end="1334" text="Logan International Airport" />
+<head id="h38" start="1338" end="1349" text="East Boston" />
+<head id="h39" start="1351" end="1364" text="Massachusetts" />
+<head id="h40" start="1387" end="1395" text="JASINSKI" />
+<head id="h41" start="1427" end="1434" text="witness" />
+<head id="h42" start="1444" end="1451" text="witness" />
+<head id="h43" start="1471" end="1479" text="location" />
+<head id="h44" start="1483" end="1496" text="North Reading" />
+<head id="h45" start="1517" end="1525" text="JASINSKI" />
+<head id="h46" start="1538" end="1545" text="witness" />
+<head id="h47" start="1627" end="1640" text="North Reading" />
+<head id="h48" start="1646" end="1653" text="witness" />
+<head id="h49" start="1674" end="1678" text="mall" />
+<head id="h50" start="1699" end="1705" text="Agents" />
+<head id="h51" start="1735" end="1743" text="JASINSKI" />
+<head id="h52" start="1789" end="1797" text="JASINSKI" />
+<head id="h53" start="1982" end="2006" text="Tactical Diversion Squad" />
+<head id="h54" start="1948" end="1979" text="Drug Enforcement Administration" />
+<head id="h55" start="2008" end="2013" text="which" />
+<head id="h56" start="2030" end="2043" text="investigators" />
+<head id="h57" start="2053" end="2056" text="DEA" />
+<head id="h58" start="2141" end="2152" text="Departments" />
+<head id="h60" start="2065" end="2074" text="Worcester" />
+<head id="h61" start="2076" end="2087" text="Westborough" />
+<head id="h62" start="2089" end="2102" text="North Andover" />
+<head id="h63" start="2104" end="2117" text="North Reading" />
+<head id="h64" start="2123" end="2133" text="Burlington" />
+<head id="h65" start="2205" end="2219" text="Linda M. Ricci" />
+<head id="h66" start="2224" end="2238" text="George W. Vien" />
+<head id="h67" start="2195" end="2204" text="Attorneys" />
+<head id="h68" start="2190" end="2194" text="U.S." />
+<head id="h69" start="2250" end="2293" text="Organized Crime Drug Enforcement Task Force" />
+<head id="h70" start="2242" end="2248" text="Loucks" />
+<name id="n0" start="64" end="78" text="Tony Pettigrew" />
+<name id="n1" start="100" end="107" text="Florida" />
+<name id="n2" start="154" end="160" text="BOSTON" />
+<name id="n3" start="162" end="164" text="MA" />
+<name id="n4" start="169" end="176" text="Florida" />
+<name id="n5" start="202" end="215" text="Massachusetts" />
+<name id="n6" start="359" end="376" text="Michael K. Loucks" />
+<name id="n7" start="336" end="349" text="United States" />
+<name id="n8" start="381" end="392" text="Steven Derr" />
+<name id="n9" start="425" end="480" text="Drug Enforcement Administration - Boston Field Division" />
+<name id="n10" start="504" end="517" text="ADAM JASINSKI" />
+<name id="n11" start="532" end="544" text="Delray Beach" />
+<name id="n12" start="546" end="553" text="Florida" />
+<name id="n13" start="683" end="691" text="JASINSKI" />
+<name id="n14" start="807" end="815" text="JASINSKI" />
+<name id="n15" start="915" end="923" text="JASINSKI" />
+<name id="n16" start="1019" end="1027" text="JASINSKI" />
+<name id="n17" start="1046" end="1059" text="Massachusetts" />
+<name id="n18" start="1077" end="1084" text="Florida" />
+<name id="n19" start="1168" end="1176" text="JASINSKI" />
+<name id="n20" start="1294" end="1302" text="JASINSKI" />
+<name id="n21" start="1307" end="1334" text="Logan International Airport" />
+<name id="n22" start="1338" end="1349" text="East Boston" />
+<name id="n23" start="1351" end="1364" text="Massachusetts" />
+<name id="n24" start="1387" end="1395" text="JASINSKI" />
+<name id="n25" start="1483" end="1496" text="North Reading" />
+<name id="n26" start="1517" end="1525" text="JASINSKI" />
+<name id="n27" start="1627" end="1640" text="North Reading" />
+<name id="n28" start="1735" end="1743" text="JASINSKI" />
+<name id="n29" start="1789" end="1797" text="JASINSKI" />
+<name id="n30" start="1982" end="2006" text="Tactical Diversion Squad" />
+<name id="n31" start="1948" end="1979" text="Drug Enforcement Administration" />
+<name id="n32" start="2053" end="2056" text="DEA" />
+<name id="n33" start="2065" end="2074" text="Worcester" />
+<name id="n34" start="2076" end="2087" text="Westborough" />
+<name id="n35" start="2089" end="2102" text="North Andover" />
+<name id="n36" start="2104" end="2117" text="North Reading" />
+<name id="n37" start="2123" end="2133" text="Burlington" />
+<name id="n38" start="2205" end="2219" text="Linda M. Ricci" />
+<name id="n39" start="2224" end="2238" text="George W. Vien" />
+<name id="n40" start="2190" end="2194" text="U.S." />
+<name id="n41" start="2250" end="2293" text="Organized Crime Drug Enforcement Task Force" />
+<name id="n42" start="2242" end="2248" text="Loucks" />
+<located-mention id="lo0" start="975" end="1138" text="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" TYPE="Other" />
+<located-mention id="lo2" start="975" end="1138" text="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" TYPE="Other" />
+<located-mention id="lo3" start="1140" end="1249" text="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" TYPE="Other" />
+<located-mention id="lo4" start="1140" end="1249" text="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" TYPE="Other" />
+<located-mention id="lo5" start="1251" end="1364" text="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" TYPE="Other" />
+<located-mention id="lo6" start="1251" end="1364" text="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" TYPE="Other" />
+<located-mention id="lo7" start="1366" end="1496" text="During the meeting,  JASINSKI  entered the car driven by the witness, and the witness began driving to a location in North Reading" TYPE="Other" />
+<located-mention id="lo8" start="1601" end="1697" text="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" TYPE="Other" />
+<located-mention id="lo9" start="1601" end="1697" text="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" TYPE="Verbal" />
+<employment-mention id="e0" start="329" end="358" text="Acting United States Attorney" TYPE="PreMod" />
+<employment-mention id="e5" start="2180" end="2204" text="Assistant U.S. Attorneys" TYPE="PreMod" />
+<CRRE id="C0" start="100" end="142" text="Florida Man Charged with Dealing Oxycodone" TYPE="PreMod" />
+<CRRE id="C1" start="167" end="180" text="A Florida man" TYPE="PreMod" />
+<CRRE id="C2" start="504" end="553" text="ADAM JASINSKI  , age 31, of Delray Beach, Florida" TYPE="Preposition" />
+<M id="M0" start="394" end="480" text="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" TYPE="Preposition" />
+<M id="M1" start="2030" end="2152" text="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="Preposition" />
+<M id="M2" start="2030" end="2152" text="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="Preposition" />
+<M id="M3" start="1915" end="2152" text="The case was investigated by the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" TYPE="Other" />
+<M id="M4" start="2180" end="2293" text="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" TYPE="Preposition" />
+<M id="M5" start="2180" end="2293" text="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" TYPE="Preposition" />
+<M id="M6" start="2242" end="2293" text="Loucks' Organized Crime Drug Enforcement Task Force" TYPE="Possessive" />
+<entity_link id="en0" fromID="p1" fromText="Special Agent" toID="p0" toText="Special Agent Tony Pettigrew" />
+<entity_link id="en1" fromID="p3" fromText="A Florida man" toID="p2" toText="Florida Man Charged with Dealing Oxycodone" />
+<entity_link id="en2" fromID="g3" fromText="Florida" toID="g0" toText="Florida" />
+<entity_link id="en3" fromID="g4" fromText="Massachusetts" toID="g2" toText="MA" />
+<entity_link id="en4" fromID="p5" fromText="Acting United States Attorney" toID="p4" toText="Acting United States Attorney Michael K. Loucks" />
+<entity_link id="en5" fromID="p7" fromText="Steven Derr" toID="p6" toText="Steven Derr, Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" />
+<entity_link id="en6" fromID="p8" fromText="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" toID="p7" toText="Steven Derr" />
+<entity_link id="en7" fromID="g7" fromText="Florida" toID="g3" toText="Florida" />
+<entity_link id="en8" fromID="p10" fromText="JASINSKI" toID="p9" toText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" />
+<entity_link id="en9" fromID="p9" fromText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" toID="p3" toText="A Florida man" />
+<entity_link id="en10" fromID="p11" fromText="JASINSKI" toID="p10" toText="JASINSKI" />
+<entity_link id="en11" fromID="p14" fromText="JASINSKI" toID="p11" toText="JASINSKI" />
+<entity_link id="en12" fromID="p15" fromText="the witness" toID="p12" toText="a witness assisting federal agents in the drug investigation" />
+<entity_link id="en13" fromID="p16" fromText="JASINSKI" toID="p14" toText="JASINSKI" />
+<entity_link id="en14" fromID="g8" fromText="Massachusetts" toID="g4" toText="Massachusetts" />
+<entity_link id="en15" fromID="p17" fromText="his" toID="p16" toText="JASINSKI" />
+<entity_link id="en16" fromID="g9" fromText="Florida" toID="g7" toText="Florida" />
+<entity_link id="en17" fromID="p18" fromText="the witness" toID="p15" toText="the witness" />
+<entity_link id="en18" fromID="p19" fromText="The witness" toID="p18" toText="the witness" />
+<entity_link id="en19" fromID="p20" fromText="JASINSKI" toID="p16" toText="JASINSKI" />
+<entity_link id="en20" fromID="p21" fromText="him" toID="p20" toText="JASINSKI" />
+<entity_link id="en21" fromID="p22" fromText="the witness" toID="p19" toText="The witness" />
+<entity_link id="en22" fromID="p23" fromText="JASINSKI" toID="p20" toText="JASINSKI" />
+<entity_link id="en23" fromID="g11" fromText="Massachusetts" toID="g8" toText="Massachusetts" />
+<entity_link id="en24" fromID="f2" fromText="Logan International Airport in East Boston, Massachusetts" toID="f1" toText="the airport" />
+<entity_link id="en25" fromID="p24" fromText="JASINSKI" toID="p23" toText="JASINSKI" />
+<entity_link id="en26" fromID="p25" fromText="the witness" toID="p22" toText="the witness" />
+<entity_link id="en27" fromID="p26" fromText="the witness" toID="p25" toText="the witness" />
+<entity_link id="en28" fromID="p27" fromText="JASINSKI" toID="p24" toText="JASINSKI" />
+<entity_link id="en29" fromID="p28" fromText="the witness" toID="p26" toText="the witness" />
+<entity_link id="en30" fromID="g13" fromText="North Reading" toID="g12" toText="North Reading" />
+<entity_link id="en31" fromID="p29" fromText="the witness" toID="p28" toText="the witness" />
+<entity_link id="en32" fromID="p30" fromText="Agents" toID="p13" toText="federal agents" />
+<entity_link id="en33" fromID="p31" fromText="JASINSKI" toID="p27" toText="JASINSKI" />
+<entity_link id="en34" fromID="p32" fromText="JASINSKI" toID="p31" toText="JASINSKI" />
+<entity_link id="en35" fromID="o5" fromText="which" toID="o4" toText="the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" />
+<entity_link id="en36" fromID="o6" fromText="the DEA" toID="o3" toText="the Drug Enforcement Administration" />
+<entity_link id="en37" fromID="g17" fromText="North Reading" toID="g13" toText="North Reading" />
+<entity_link id="en38" fromID="g19" fromText="U.S." toID="g5" toText="United States" />
+<entity_link id="en39" fromID="p37" fromText="Loucks" toID="p4" toText="Acting United States Attorney Michael K. Loucks" />
+<head_link id="he0" fromID="p0" fromText="Special Agent Tony Pettigrew" toID="h0" toText="Tony Pettigrew" />
+<head_link id="he1" fromID="p1" fromText="Special Agent" toID="h1" toText="Agent" />
+<head_link id="he2" fromID="p2" fromText="Florida Man Charged with Dealing Oxycodone" toID="h2" toText="Man" />
+<head_link id="he3" fromID="g0" fromText="Florida" toID="h3" toText="Florida" />
+<head_link id="he4" fromID="g1" fromText="BOSTON, MA" toID="h4" toText="BOSTON" />
+<head_link id="he5" fromID="g2" fromText="MA" toID="h5" toText="MA" />
+<head_link id="he6" fromID="p3" fromText="A Florida man" toID="h6" toText="man" />
+<head_link id="he7" fromID="g3" fromText="Florida" toID="h7" toText="Florida" />
+<head_link id="he8" fromID="o0" fromText="Massachusetts federal court" toID="h8" toText="court" />
+<head_link id="he9" fromID="g4" fromText="Massachusetts" toID="h9" toText="Massachusetts" />
+<head_link id="he10" fromID="p4" fromText="Acting United States Attorney Michael K. Loucks" toID="h10" toText="Michael K. Loucks" />
+<head_link id="he11" fromID="p5" fromText="Acting United States Attorney" toID="h11" toText="Attorney" />
+<head_link id="he12" fromID="g5" fromText="United States" toID="h12" toText="United States" />
+<head_link id="he13" fromID="p7" fromText="Steven Derr" toID="h13" toText="Steven Derr" />
+<head_link id="he14" fromID="p8" fromText="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" toID="h14" toText="Agent" />
+<head_link id="he15" fromID="o1" fromText="the Drug Enforcement Administration - Boston Field Division" toID="h15" toText="Drug Enforcement Administration - Boston Field Division" />
+<head_link id="he16" fromID="p9" fromText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" toID="h16" toText="ADAM JASINSKI" />
+<head_link id="he17" fromID="g6" fromText="Delray Beach, Florida" toID="h17" toText="Delray Beach" />
+<head_link id="he18" fromID="g7" fromText="Florida" toID="h18" toText="Florida" />
+<head_link id="he19" fromID="p10" fromText="JASINSKI" toID="h19" toText="JASINSKI" />
+<head_link id="he20" fromID="p11" fromText="JASINSKI" toID="h20" toText="JASINSKI" />
+<head_link id="he21" fromID="p12" fromText="a witness assisting federal agents in the drug investigation" toID="h21" toText="witness" />
+<head_link id="he22" fromID="p12" fromText="a witness assisting federal agents in the drug investigation" toID="h22" toText="agents" />
+<head_link id="he23" fromID="p14" fromText="JASINSKI" toID="h23" toText="JASINSKI" />
+<head_link id="he24" fromID="p15" fromText="the witness" toID="h24" toText="witness" />
+<head_link id="he25" fromID="p16" fromText="JASINSKI" toID="h25" toText="JASINSKI" />
+<head_link id="he26" fromID="g8" fromText="Massachusetts" toID="h26" toText="Massachusetts" />
+<head_link id="he27" fromID="p17" fromText="his" toID="h27" toText="his" />
+<head_link id="he28" fromID="f0" fromText="his home in Florida" toID="h28" toText="home" />
+<head_link id="he29" fromID="g9" fromText="Florida" toID="h29" toText="Florida" />
+<head_link id="he30" fromID="p18" fromText="the witness" toID="h30" toText="witness" />
+<head_link id="he31" fromID="p19" fromText="The witness" toID="h31" toText="witness" />
+<head_link id="he32" fromID="p20" fromText="JASINSKI" toID="h32" toText="JASINSKI" />
+<head_link id="he33" fromID="f1" fromText="the airport" toID="h33" toText="airport" />
+<head_link id="he34" fromID="p21" fromText="him" toID="h34" toText="him" />
+<head_link id="he35" fromID="p22" fromText="the witness" toID="h35" toText="witness" />
+<head_link id="he36" fromID="p23" fromText="JASINSKI" toID="h36" toText="JASINSKI" />
+<head_link id="he37" fromID="f2" fromText="Logan International Airport in East Boston, Massachusetts" toID="h37" toText="Logan International Airport" />
+<head_link id="he38" fromID="g10" fromText="East Boston" toID="h38" toText="East Boston" />
+<head_link id="he39" fromID="g11" fromText="Massachusetts" toID="h39" toText="Massachusetts" />
+<head_link id="he40" fromID="p24" fromText="JASINSKI" toID="h40" toText="JASINSKI" />
+<head_link id="he41" fromID="p25" fromText="the witness" toID="h41" toText="witness" />
+<head_link id="he42" fromID="p26" fromText="the witness" toID="h42" toText="witness" />
+<head_link id="he43" fromID="l0" fromText="a location in North Reading" toID="h43" toText="location" />
+<head_link id="he44" fromID="g12" fromText="North Reading" toID="h44" toText="North Reading" />
+<head_link id="he45" fromID="p27" fromText="JASINSKI" toID="h45" toText="JASINSKI" />
+<head_link id="he46" fromID="p28" fromText="the witness" toID="h46" toText="witness" />
+<head_link id="he47" fromID="g13" fromText="North Reading" toID="h47" toText="North Reading" />
+<head_link id="he48" fromID="p29" fromText="the witness" toID="h48" toText="witness" />
+<head_link id="he49" fromID="f3" fromText="a strip mall" toID="h49" toText="mall" />
+<head_link id="he50" fromID="p30" fromText="Agents" toID="h50" toText="Agents" />
+<head_link id="he51" fromID="p31" fromText="JASINSKI" toID="h51" toText="JASINSKI" />
+<head_link id="he52" fromID="p32" fromText="JASINSKI" toID="h52" toText="JASINSKI" />
+<head_link id="he54" fromID="o3" fromText="the Drug Enforcement Administration" toID="h54" toText="Drug Enforcement Administration" />
+<head_link id="he55" fromID="o4" fromText="the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="h53" toText="Tactical Diversion Squad" />
+<head_link id="he56" fromID="o5" fromText="which" toID="h55" toText="which" />
+<head_link id="he57" fromID="p33" fromText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="h56" toText="investigators" />
+<head_link id="he58" fromID="o6" fromText="the DEA" toID="h57" toText="DEA" />
+<head_link id="he59" fromID="o7" fromText="the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="h58" toText="Departments" />
+<head_link id="he61" fromID="g14" fromText="Worcester" toID="h60" toText="Worcester" />
+<head_link id="he62" fromID="g15" fromText="Westborough" toID="h61" toText="Westborough" />
+<head_link id="he63" fromID="g16" fromText="North Andover" toID="h62" toText="North Andover" />
+<head_link id="he64" fromID="g17" fromText="North Reading" toID="h63" toText="North Reading" />
+<head_link id="he65" fromID="g18" fromText="Burlington" toID="h64" toText="Burlington" />
+<head_link id="he66" fromID="p34" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="h65" toText="Linda M. Ricci" />
+<head_link id="he67" fromID="p35" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="h66" toText="George W. Vien" />
+<head_link id="he68" fromID="p36" fromText="Assistant U.S. Attorneys" toID="h67" toText="Attorneys" />
+<head_link id="he70" fromID="g19" fromText="U.S." toID="h68" toText="U.S." />
+<head_link id="he53" fromID="o9" fromText="Loucks' Organized Crime Drug Enforcement Task Force" toID="h69" toText="Organized Crime Drug Enforcement Task Force" />
+<head_link id="he71" fromID="p37" fromText="Loucks" toID="h70" toText="Loucks" />
+<name_link id="na0" fromID="p0" fromText="Special Agent Tony Pettigrew" toID="n0" toText="Tony Pettigrew" />
+<name_link id="na1" fromID="g0" fromText="Florida" toID="n1" toText="Florida" />
+<name_link id="na2" fromID="g1" fromText="BOSTON, MA" toID="n2" toText="BOSTON" />
+<name_link id="na3" fromID="g2" fromText="MA" toID="n3" toText="MA" />
+<name_link id="na4" fromID="g3" fromText="Florida" toID="n4" toText="Florida" />
+<name_link id="na5" fromID="g4" fromText="Massachusetts" toID="n5" toText="Massachusetts" />
+<name_link id="na6" fromID="p4" fromText="Acting United States Attorney Michael K. Loucks" toID="n6" toText="Michael K. Loucks" />
+<name_link id="na7" fromID="g5" fromText="United States" toID="n7" toText="United States" />
+<name_link id="na8" fromID="p7" fromText="Steven Derr" toID="n8" toText="Steven Derr" />
+<name_link id="na9" fromID="o1" fromText="the Drug Enforcement Administration - Boston Field Division" toID="n9" toText="Drug Enforcement Administration - Boston Field Division" />
+<name_link id="na10" fromID="p9" fromText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" toID="n10" toText="ADAM JASINSKI" />
+<name_link id="na11" fromID="g6" fromText="Delray Beach, Florida" toID="n11" toText="Delray Beach" />
+<name_link id="na12" fromID="g7" fromText="Florida" toID="n12" toText="Florida" />
+<name_link id="na13" fromID="p10" fromText="JASINSKI" toID="n13" toText="JASINSKI" />
+<name_link id="na14" fromID="p11" fromText="JASINSKI" toID="n14" toText="JASINSKI" />
+<name_link id="na15" fromID="p14" fromText="JASINSKI" toID="n15" toText="JASINSKI" />
+<name_link id="na16" fromID="p16" fromText="JASINSKI" toID="n16" toText="JASINSKI" />
+<name_link id="na17" fromID="g8" fromText="Massachusetts" toID="n17" toText="Massachusetts" />
+<name_link id="na18" fromID="g9" fromText="Florida" toID="n18" toText="Florida" />
+<name_link id="na19" fromID="p20" fromText="JASINSKI" toID="n19" toText="JASINSKI" />
+<name_link id="na20" fromID="p23" fromText="JASINSKI" toID="n20" toText="JASINSKI" />
+<name_link id="na21" fromID="f2" fromText="Logan International Airport in East Boston, Massachusetts" toID="n21" toText="Logan International Airport" />
+<name_link id="na22" fromID="g10" fromText="East Boston" toID="n22" toText="East Boston" />
+<name_link id="na23" fromID="g11" fromText="Massachusetts" toID="n23" toText="Massachusetts" />
+<name_link id="na24" fromID="p24" fromText="JASINSKI" toID="n24" toText="JASINSKI" />
+<name_link id="na25" fromID="g12" fromText="North Reading" toID="n25" toText="North Reading" />
+<name_link id="na26" fromID="p27" fromText="JASINSKI" toID="n26" toText="JASINSKI" />
+<name_link id="na27" fromID="g13" fromText="North Reading" toID="n27" toText="North Reading" />
+<name_link id="na28" fromID="p31" fromText="JASINSKI" toID="n28" toText="JASINSKI" />
+<name_link id="na29" fromID="p32" fromText="JASINSKI" toID="n29" toText="JASINSKI" />
+<name_link id="na31" fromID="o3" fromText="the Drug Enforcement Administration" toID="n31" toText="Drug Enforcement Administration" />
+<name_link id="na32" fromID="o4" fromText="the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="n30" toText="Tactical Diversion Squad" />
+<name_link id="na33" fromID="o6" fromText="the DEA" toID="n32" toText="DEA" />
+<name_link id="na34" fromID="g14" fromText="Worcester" toID="n33" toText="Worcester" />
+<name_link id="na35" fromID="g15" fromText="Westborough" toID="n34" toText="Westborough" />
+<name_link id="na36" fromID="g16" fromText="North Andover" toID="n35" toText="North Andover" />
+<name_link id="na37" fromID="g17" fromText="North Reading" toID="n36" toText="North Reading" />
+<name_link id="na38" fromID="g18" fromText="Burlington" toID="n37" toText="Burlington" />
+<name_link id="na39" fromID="p34" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="n38" toText="Linda M. Ricci" />
+<name_link id="na40" fromID="p35" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="n39" toText="George W. Vien" />
+<name_link id="na42" fromID="g19" fromText="U.S." toID="n40" toText="U.S." />
+<name_link id="na30" fromID="o9" fromText="Loucks' Organized Crime Drug Enforcement Task Force" toID="n41" toText="Organized Crime Drug Enforcement Task Force" />
+<name_link id="na43" fromID="p37" fromText="Loucks" toID="n42" toText="Loucks" />
+<relation_link1 id="r0" fromID="C0" fromText="Florida Man Charged with Dealing Oxycodone" toID="p2" toText="Florida Man Charged with Dealing Oxycodone" />
+<relation_link1 id="r1" fromID="C1" fromText="A Florida man" toID="p3" toText="A Florida man" />
+<relation_link1 id="r2" fromID="e0" fromText="Acting United States Attorney" toID="p5" toText="Acting United States Attorney" />
+<relation_link1 id="r3" fromID="M0" fromText="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" toID="p8" toText="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" />
+<relation_link1 id="r4" fromID="C2" fromText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" toID="p9" toText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" />
+<relation_link1 id="r5" fromID="lo0" fromText="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" toID="p16" toText="JASINSKI" />
+<relation_link1 id="r6" fromID="lo2" fromText="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" toID="p18" toText="the witness" />
+<relation_link1 id="r7" fromID="lo3" fromText="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" toID="p19" toText="The witness" />
+<relation_link1 id="r9" fromID="lo4" fromText="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" toID="p20" toText="JASINSKI" />
+<relation_link1 id="r10" fromID="lo5" fromText="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" toID="p22" toText="the witness" />
+<relation_link1 id="r11" fromID="lo6" fromText="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" toID="p23" toText="JASINSKI" />
+<relation_link1 id="r12" fromID="lo7" fromText="During the meeting,  JASINSKI  entered the car driven by the witness, and the witness began driving to a location in North Reading" toID="p26" toText="the witness" />
+<relation_link1 id="r13" fromID="lo8" fromText="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" toID="p29" toText="the witness" />
+<relation_link1 id="r14" fromID="lo9" fromText="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" toID="p29" toText="the witness" />
+<relation_link1 id="r15" fromID="M1" fromText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="p33" toText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" />
+<relation_link1 id="r16" fromID="M2" fromText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="p33" toText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" />
+<relation_link1 id="r17" fromID="M3" fromText="The case was investigated by the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="p33" toText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" />
+<relation_link1 id="r18" fromID="e5" fromText="Assistant U.S. Attorneys" toID="p36" toText="Assistant U.S. Attorneys" />
+<relation_link1 id="r19" fromID="M4" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="p34" toText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" />
+<relation_link1 id="r20" fromID="M5" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="p35" toText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" />
+<relation_link1 id="r8" fromID="M6" fromText="Loucks' Organized Crime Drug Enforcement Task Force" toID="p37" toText="Loucks" />
+<relation_link2 id="re0" fromID="C0" fromText="Florida Man Charged with Dealing Oxycodone" toID="g0" toText="Florida" />
+<relation_link2 id="re1" fromID="C1" fromText="A Florida man" toID="g3" toText="Florida" />
+<relation_link2 id="re2" fromID="e0" fromText="Acting United States Attorney" toID="g5" toText="United States" />
+<relation_link2 id="re3" fromID="M0" fromText="Special Agent in Charge of the Drug Enforcement Administration - Boston Field Division" toID="o1" toText="the Drug Enforcement Administration - Boston Field Division" />
+<relation_link2 id="re4" fromID="C2" fromText="ADAM JASINSKI  , age 31, of Delray Beach, Florida" toID="g6" toText="Delray Beach, Florida" />
+<relation_link2 id="re5" fromID="lo0" fromText="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" toID="g8" toText="Massachusetts" />
+<relation_link2 id="re6" fromID="lo2" fromText="In a series of additional telephone calls,  JASINSKI  agreed to fly to Massachusetts from his home in Florida on October 17, 2009 and to sell the witness the pills" toID="g8" toText="Massachusetts" />
+<relation_link2 id="re7" fromID="lo3" fromText="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" toID="f1" toText="the airport" />
+<relation_link2 id="re8" fromID="lo4" fromText="The witness agreed to meet  JASINSKI  at the airport and drive him to another location to consummate the deal" toID="f1" toText="the airport" />
+<relation_link2 id="re9" fromID="lo5" fromText="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" toID="f2" toText="Logan International Airport in East Boston, Massachusetts" />
+<relation_link2 id="re10" fromID="lo6" fromText="On October 17, 2009, the witness met with  JASINSKI  at Logan International Airport in East Boston, Massachusetts" toID="f2" toText="Logan International Airport in East Boston, Massachusetts" />
+<relation_link2 id="re11" fromID="lo7" fromText="During the meeting,  JASINSKI  entered the car driven by the witness, and the witness began driving to a location in North Reading" toID="l0" toText="a location in North Reading" />
+<relation_link2 id="re12" fromID="lo8" fromText="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" toID="g13" toText="North Reading" />
+<relation_link2 id="re13" fromID="lo9" fromText="Shortly after arriving in North Reading, the witness pulled into a strip mall and parked the car" toID="f3" toText="a strip mall" />
+<relation_link2 id="re14" fromID="M1" fromText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="o6" toText="the DEA" />
+<relation_link2 id="re15" fromID="M2" fromText="investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="o7" toText="the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" />
+<relation_link2 id="re16" fromID="M3" fromText="The case was investigated by the Drug Enforcement Administration's Tactical Diversion Squad, which is comprised of investigators from the DEA and the Worcester, Westborough, North Andover, North Reading, and Burlington Police Departments" toID="o5" toText="which" />
+<relation_link2 id="re17" fromID="e5" fromText="Assistant U.S. Attorneys" toID="g19" toText="U.S." />
+<relation_link2 id="re18" fromID="M4" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="o9" toText="Loucks' Organized Crime Drug Enforcement Task Force" />
+<relation_link2 id="re19" fromID="M5" fromText="Assistant U.S. Attorneys Linda M. Ricci and George W. Vien of Loucks' Organized Crime Drug Enforcement Task Force" toID="o9" toText="Loucks' Organized Crime Drug Enforcement Task Force" />
+<relation_link2 id="re20" fromID="M6" fromText="Loucks' Organized Crime Drug Enforcement Task Force" toID="o9" toText="Loucks' Organized Crime Drug Enforcement Task Force" />
+</TAGS>
+</KddTask>

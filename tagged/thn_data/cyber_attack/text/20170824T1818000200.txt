@@ -1,0 +1,22 @@
+Beware of Windows/MacOS/Linux Virus Spreading Through Facebook Messenger
+Unknown
+
+If you came across any Facebook message with a video link sent by anyone, even your friend — just don’t click on it.
+Security researchers at Kaspersky Lab have spotted an ongoing cross-platform campaign on Facebook Messenger, where users receive a video link that redirects them to a fake website, luring them to install malicious software.
+Although it is still unclear how the malware spreads, researchers believe spammers are using compromised accounts, hijacked browsers, or clickjacking techniques to spread the malicious link.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers make use of social engineering to trick users into clicking the video link, which purports to be from one of their Facebook friends, with the message that reads "< your friend name > Video" followed by a bit.ly link, as shown.
+Here's How this Cross-Platform Malware Works:
+The URL redirects victims to a Google doc that displays a dynamically generated video thumbnail, like a playable movie, based on the sender's images, which if clicked, further redirects users to another customised landing page depending upon their browser and operating system.
+For example, Mozilla Firefox users on Windows are redirected to a website displaying a fake Flash Player Update notice, and then offered a Windows executable, which is flagged as adware software.
+Google Chrome users are redirected to a website that masquerades as YouTube with similar YouTube logo, which displays a fake error message popup, tricking victims into downloading a malicious Chrome extension from the Google Web Store.
+The extension actually is a downloader that downloads a file of attacker's choice to the victim's computer.
+"At the time of writing, the file which should have been downloaded was not available," David Jacoby, a chief security researcher from Kaspersky Lab, writes in a blog post published today.
+"One interesting finding is that the Chrome Extension has log files from the developers displaying usernames. It is unclear if this is related to the campaign, but it is still an amusing piece of information."
+Users of Apple Mac OS X Safari ends up on a web page similar to when using Firefox, but it was customised for MacOS users with a fake update for Flash Media Player, which if clicked, downloads an OSX executable .dmg file, which is also adware.
+Same in case of Linux, user redirects to another landing page designed for Linux users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attackers behind the campaign are not actually infecting users of all platform with any banking Trojan or exploit kits, but with adware to make a lot of money by generating revenue from ads.
+Spam campaigns on Facebook are quite common. A few years ago, researchers found cyber criminals using boobytrapped .JPG image files to hide their malware in order to infect Facebook users with variants of the Locky ransomware, which encrypts all files on the infected PC until a ransom is paid.
+To keep yourself safe, you are advised not to get curious to look at images or video links sent by anyone, even your friend, without verifying it with them, and always keep your antivirus software up-to-date.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

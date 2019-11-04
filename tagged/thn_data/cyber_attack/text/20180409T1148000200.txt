@@ -1,0 +1,17 @@
+Here's how hackers are targeting Cisco Network Switches in Russia and Iran
+Mohit Kumar
+
+Since last week, a new hacking group, calling itself 'JHT,' hijacked a significant number of Cisco devices belonging to organizations in Russia and Iran, and left a message that reads—"Do not mess with our elections" with an American flag (in ASCII art).
+MJ Azari Jahromi, Iranian Communication and Information Technology Minister, said the campaign impacted approximately 3,500 network switches in Iran, though a majority of them were already restored.
+The hacking group is reportedly targeting vulnerable installations of Cisco Smart Install Client, a legacy plug-and-play utility designed to help administrators configure and deploy Cisco equipments remotely, which is enabled by default on Cisco IOS and IOS XE switches and runs over TCP port 4786.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Some researchers believe the attack involves a recently disclosed remote code execution vulnerability (CVE-2018-0171) in Cisco Smart Install Client that could allow attackers to take full control of the network equipment.
+However, since the hack apparently resets the targeted devices, making them unavailable, Cisco believes hackers have been merely misusing the Smart Install protocol itself to overwrite the device configuration, instead of exploiting a vulnerability.
+"The Cisco Smart Install protocol can be abused to modify the TFTP server setting, exfiltrate configuration files via TFTP, modify the configuration file, replace the IOS image, and set up accounts, allowing for the execution of IOS commands," the company explains.
+Chinese security firm Qihoo 360's Netlab also confirms that that hacking campaign launched by JHT group doesn’t involve the recently disclosed code execution vulnerability; instead, the attack is caused due to the lack of any authentication in the Cisco smart install protocol, reported in March last year.
+According to Internet scanning engine Shodan, more than 165,000 systems are still exposed on the Internet running Cisco Smart Install Client over TCP port 4786.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since Smart Install Client has been designed to allow remote management on Cisco switches, system administrators need to enable it but should limit its access using Interface access control lists (ACLs).
+Administrators who do not use the Cisco Smart Install feature at all should disable it entirely with the configuration command—"no vstack."
+Although recent attacks have nothing to do with CVE-2018-0171, admins are still highly recommended to install patches to address the vulnerability, as with technical details and proof-of-concept (PoC) already available on the Internet, hackers could easily launch their next attack leveraging this flaw.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

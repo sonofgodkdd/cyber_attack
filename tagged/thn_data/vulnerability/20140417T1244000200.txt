@@ -1,0 +1,23 @@
+19-Year-Old Teenager Arrested for Exploiting Heartbleed Bug to Steal Data
+Wang Wei
+
+A teenager has been arrested by the Canadian police in relation to the infamous malicious breach on the country's taxpayer system using one of the most critical internet flaws, Heartbleed.
+Heartbleed bug, that made headlines over past two weeks and every websites around the world flooded with its articles. Every informational website, Media and Security researchers are talking about Heartbleed, probably the biggest Internet vulnerability in recent history.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the Royal Canadian Mounted Police (RCMP), a 19-year-old 'Stephen Arthuro Solis-Reyes' of London, Ontario, is charged with the unauthorized access of the computer and criminal mischief in relation to the data breach of taxpayer’s private information from the Canada Revenue Agency (CRA) website.
+“The RCMP treated this breach of security as a high priority case and mobilized the necessary resources to resolve the matter as quickly as possible,” Assistant Commissioner Gilles Michaud said in a statement.
+“Investigators from National Division, along with our counterparts in ‘Ontario’ Division have been working tirelessly over the last four days analyzing data, following leads, conducting interviews, obtaining and executing legal authorizations and liaising with our partners,” he added.
+After the public disclosure of Heartbleed bug on April 9, Solis-Reyes allegedly exploited this most critical security vulnerability, present in the OpenSSL of the CRA servers, to extract the private and sensitive information, including the social insurance numbers from the company’s system, before the computers were patched.
+Heartbleed is a critical bug in the OpenSSL's implementation of the TLS/DTLS heartbeat extension that allows attackers to read portions of the affected server’s memory, potentially revealing users data, that the server did not intend to reveal.
+Though there were allegations on the U.S. intelligence agency NSA of using the Heartbleed vulnerabilities from years to gather confidential information. But, this is the first known incident of hacker exploiting the critical internet Heartbleed bug to steal and compromise the data from the servers which are running on an affected OpenSSL version.
+Exploiting the Heartbleed bug itself rarely leaves any traces, unless the attacker is not sending millions of heartbeats continuously from his own IP addresses. "The fact that they were able to trace it back to someone implies that it is not the work of organized crime or a professional hacker. It would be someone of very low skill." said Mark Nunnikhoven, Trend Micro.
+Solis-Reyes was arrested at his residence without incident on April 15 and is scheduled to appear in court in Ottawa on July 17, 2014, RCMP reported. The police also seized computer equipment from his residence, while the investigation is ongoing.
+More on HeartBleed:
+HeartBleed Bug Explained - 10 Most Frequently Asked Questions
+How Heartbleed Bug Exposes Your Passwords to Hackers
+German Developer responsible for HeartBleed Bug in OpenSSL
+How to Protect yourself from the 'Heartbleed' Bug
+Heartbleed - OpenSSL Zero-day Bug leaves Millions of websites Vulnerable
+NSA denies Report that Agency knew and exploited Heartbleed Vulnerability
+Billions of Smartphone Users affected by Heartbleed Vulnerability
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

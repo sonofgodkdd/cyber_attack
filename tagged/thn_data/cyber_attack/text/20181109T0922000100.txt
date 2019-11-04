@@ -1,0 +1,17 @@
+Hacker Who DDoSed Sony, EA and Steam Gaming Servers Pleads Guilty
+Wang Wei
+
+A 23-year-old hacker from Utah pleaded guilty this week to launching a series of denial-of-service (DoS) attacks against multiple online services, websites, and online gaming companies between 2013 and 2014.
+According to a Justice Department (DoJ) press release, Austin Thompson, a.k.a. "DerpTroll," took down servers of several major gaming platforms including Electronic Arts' Origin service, the Sony PlayStation network, and Valve Software's Steam, between December 2013 and January 2014, by flooding them with enough internet traffic.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Thompson then typically used the Twitter account the @DerpTrolling handle to announce his attacks, subsequently posting screenshots or other photos of the server being unavailable after launching DDoS attacks.
+The attacks usually took down game servers and related computers of the victim companies for at least a few hours at a time, causing at least $95,000 in damages to the gaming companies around the world.
+"Denial-of-service attacks cost businesses millions of dollars annually," said U.S. Attorney Adam Braverman while announcing the plea. "We are committed to finding and prosecuting those who disrupt businesses, often for nothing more than ego."
+Thompson pleaded guilty in federal court in San Diego on Thursday and was charged with causing damages to a protected computer, which carries a maximum penalty of 10 years prison, a fine of $250,000, as well as three years supervised release.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Active since 2011, the DerpTrolling hacking group is believed to be operated by Thompson, who write malware used to launch the DDoS attacks against online services around the world.
+However, the hacking group made headlines in late 2013 and early 2014 after disrupting online gaming servers owned by Sony, Riot Games, Microsoft, Nintendo, Valve, and Electronic Arts.
+Thompson's sentencing is scheduled for March 1, 2019, before United States District Judge Jeffrey Miller.
+It wasn't just DerpTrolling that created chaos in 2014. The infamous Lizard Squad hacking group also made headlines in 2014 by launching DDoS attacks against Microsoft Xbox Live and Sony PlayStation Network and knocking them offline during the Christmas holidays.
+Several teenagers last year from around the world were charged with participating in the Lizard Squad 2014 DDoS attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

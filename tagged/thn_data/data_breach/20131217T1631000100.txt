@@ -1,0 +1,9 @@
+Russian hackers stole Personal details of 54 million Turkish Citizens
+Swati Khandelwal
+The Publicized Hacks, Cyber attacks and Data breaches continue to increase, and the majority of attacks are from outsiders.
+Recently, Some unknown Russian hackers have reportedly stolen Personal details of nearly 54 million Turkish citizens, about 70% of the whole Turkish population.  (adsbygoogle = window.adsbygoogle || []).push({}); According to a report published by 'Hurriyet News', Researchers from KONDA Security firm revealed that the hackers have stolen data from a political party's vulnerable system that include Name, ID numbers and address of 54 million voters across the Nation.
+Researchers claimed that the hacked system (being used for Database and website Management) did not have any antivirus product installed and voter information was also uploaded online on a vulnerable website.This was really a bad idea, and they mentioned that “in two hours hackers downloaded all the information.”
+In another statement, they mentioned that some government institutions share citizen’s personal data online with other public and private bodies without ensuring the protection of data.
+It’s tough to accept, but you cannot protect all data. Data breaches will keep striking in 2014 also, but we will never know Where, When and How. Attackers are getting smarter, developing new advanced persistent threats, so Data breaches continue to become increasingly sophisticated.
+It is always important to take steps to enable encryption for Data and Devices, educate and aware the end users about the latest threats and basic necessary actions to protect the key data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

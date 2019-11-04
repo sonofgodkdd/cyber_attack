@@ -1,0 +1,21 @@
+Rogue Developer Infects Widely Used NodeJS Module to Steal Bitcoins
+Mohit Kumar
+
+A widely used third-party NodeJS module with nearly 2 million downloads a week was compromised after one of its open-source contributor gone rogue, who infected it with a malicious code that was programmed to steal funds stored in Bitcoin wallet apps.
+The Node.js library in question is "Event-Stream," a toolkit that makes it easy for developers to create and work with streams, a collection of data in Node.js — just like arrays or strings.
+The malicious code detected earlier this week was added to Event-Stream version 3.3.6, published on September 9 via NPM repository, and had since been downloaded by nearly 8 million application programmers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Event-Stream module for Node.js was originally created by Dominic Tarr, who maintained the Event-Stream library for a long time, but handed over the development and maintenance of the project several months ago to an unknown programmer, called "right9ctrl."
+Apparently, right9ctrl gained Dominic's trust by making some meaningful contributions to the project.
+After gaining access to the library, the new rightful maintainer "Right9ctrl" released Event-Stream version 3.3.6, containing a new library, called Flatmap-Stream, as a dependency, which was specifically crafted for the purposes of this attack and includes the malicious code.
+Since the flatmap-stream module was encrypted, the malicious code remained undetected for more than 2 months until Ayrton Sparling (FallingSnow), a computer science student at California State University, flagged the issue Tuesday on GitHub.
+After analyzing the obfuscated code and encrypted payload, open source project manager NPM which hosted event-stream found that the malicious module has been designed to target people using BitPay's open-source bitcoin wallet app, Copay, a company that incorporated event-stream into its app.
+The malicious code attempted to steal digital coins stored in the Dash Copay Bitcoin wallets—distributed through the Node Package Manager (NPM)—and transfer them to a server located in Kuala Lumpur.
+Officials from NPM—the open source project manager that hosted event-stream code library—removed the backdoor from NPM's listing on Monday this week.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+BitPay also published an advisory saying Copay versions 5.0.2 through 5.1.0 were affected by the malicious code and that users with these versions installed should avoid running or opening the app until they install Copay version 5.2.0.
+"Users should assume that private keys on affected wallets may have been compromised, so they should move funds to new wallets (v5.2.0) immediately," BitPay says in the advisory.
+"Users should first update their affected wallets (5.0.2-5.1.0) and then send all funds from affected wallets to a brand new wallet on version 5.2.0, using the Send Max feature to initiate transactions of all funds."
+BitPay also says that its team continues to investigate this issue and the extent of the vulnerability to know whether the malicious code was ever exploited against Copay users.
+BitPay assures its users that the BitPay app was not vulnerable to the malicious code.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

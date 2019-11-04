@@ -1,0 +1,21 @@
+Hyatt Hotel Says Payment Systems Hacked with Credit-Card Stealing Malware
+Mohit Kumar
+
+Hyatt Hotels Corporation is notifying its customers that credit card numbers and other sensitive information may have been stolen after it found malware on the computers that process customer payments.
+"We recently identified malware on computers that operate the payment processing systems for Hyatt-managed locations," the company announced on Wednesday. "As soon as we discovered the activity, we launched an investigation and engaged leading third-party cyber security experts."
+What type of information? 
+The company didn't confirm whether the attackers succeeded in stealing payment card numbers, neither it say how long its network was infected or how many hotel chains were affected in the malware attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But as the payment processing system was infected with credit-card-stealing malware, there is a possibility that hackers may have stolen credit card numbers and other sensitive information.
+What happened? 
+Hyatt spokeswoman Stephanie Sheppard said the company discovered malware on 30 November but did not justify why the company waited over three weeks to report the incident.
+How many victims? 
+The company didn’t confirm how many clients could have been affected in the malware attack. However, the world’s leading hospitality corporation, headquartered in Chicago, owns a portfolio of 627 properties in 52 countries.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What was the response? 
+Hyatt said it had launched an investigation and hired leading third-party cyber security experts to help investigate the malware threat, as well as taken necessary steps to increase security on its computer systems.
+What Hyatt customers should do?
+Meanwhile, the company has also advised all its customers to review their payment card statements carefully and to report any unauthorized bank transactions.
+Moreover, the company reassured its customers that "customers can feel confident using payment cards at Hyatt hotels worldwide."
+Hyatt became the latest hotel chain to report a potential customer data breach this year, following the data breach in other hotel chains, including Hilton, Starwood, Mandarin Oriental, White Lodging and the Trump Collection that acknowledged finding malware in their payment systems. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

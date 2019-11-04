@@ -1,0 +1,18 @@
+Gazer: A New Backdoor Targets Ministries and Embassies Worldwide
+Mohit Kumar
+
+Security researchers at ESET have discovered a new malware campaign targeting consulates, ministries and embassies worldwide to spy on governments and diplomats.
+Active since 2016, the malware campaign is leveraging a new backdoor, dubbed Gazer, and is believed to be carried out by Turla advanced persistent threat (APT) hacking group that's been previously linked to Russian intelligence.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Gazer, written in C++, the backdoor delivers via spear phishing emails and hijacks targeted computers in two steps—first, the malware drops Skipper backdoor, which has previously been linked to Turla and then installs Gazer components.
+In previous cyber espionage campaigns, the Turla hacking group used Carbon and Kazuar backdoors as its second-stage malware, which also has many similarities with Gazer, according to research [PDF] published by ESET.
+Gazer receives encrypted commands from a remote command-and-control server and evades detection by using compromised, legitimate websites (that mostly use the WordPress CMS) as a proxy.
+Instead of using Windows Crypto API, Gazer uses custom 3DES and RSA encryption libraries to encrypt the data before sending it to the C&C server—a common tactic employed by the Turla APT group.
+Gazer uses code-injection technique to take control of a machine and hide itself for a long period of time in an attempt to steal information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Gazer backdoor also has the ability to forward commands received by one infected endpoint to the other infected machines on the same network.
+So far ESET researchers have identified four different variants of the Gazer malware in the wild, primarily spying on Southeast European and former Soviet bloc political targets.
+Interestingly, earlier versions of Gazer were signed with a valid certificate issued by Comodo for "Solid Loop Ltd," while the latest version is signed with an SSL certificate issued to "Ultimate Computer Support Ltd."
+According to researchers, Gazer has already managed to infect a number of targets worldwide, with the most victims being located in Europe.
+Meanwhile, Kaspersky lab has also published almost similar details about Gazer backdoor, but they called it 'Whitebear' APT campaign.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

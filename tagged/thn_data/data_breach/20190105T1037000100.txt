@@ -1,0 +1,28 @@
+Town of Salem Data Breach Exposes 7.6 Million Gamers' Accounts
+Mohit Kumar
+
+A massive data breach at the popular online role-playing game 'Town of Salem' has reportedly impacted more than 7.6 million players, the game owner BlankMediaGames (BMG) confirmed Wednesday on its online forum.
+With the user base of more than 8 million players, Town of Salem is a browser-based game that enables gamers (which range from 7 to 15 users) to play a version of the famous secret role game Town, Mafia, or Neutrals.
+The data breach was first discovered and disclosed on December 28 when a copy of the compromised Town of Salem database was anonymously sent to DeHashed, a hacked database search engine.
+Over 7.6 Million Users Accounts Compromised
+The database included evidence of the server compromise and access to the complete gamer database which contained 7,633,234 unique email addresses (most-represented of the email providers being Gmail, Hotmail, and Yahoo.com).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After analyzing the complete database, DeHashed disclosed that the compromised data contained the following information on Town of Salem players:
+Email addresses
+Usernames
+Hashed passwords (in phpass, MD5(WordPress), and MD5(phpBB3) formats)
+IP addresses
+Game and forum activity
+Some payment information (including full names, billing and shipping addresses, IP information and payment amount).
+DeHashed also stated that "some of the users who paid for certain premium features having their billing information/data breached as well," though BlankMediaGames confirmed that no credit-card numbers were exposed in the breach.
+"We do not handle money. At all. The third party payment processors are the ones that handle all of that," a company's spokesperson said on the official Town of Salem game forum on January 2 while confirming the breach.
+"We never see your credit card, payment information, anything like that. We don't have access to that information."
+Town of Salem developers addressed the security incident Wednesday by removing three separate, malicious PHP files (which render HTML content for viewing in the browser) from their web server that allowed the attacker to have a backdoor into their server.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company is also in the process of contacting security auditing firms and potentially discussing reinstalling all of its "servers from scratch just to be 100% sure."
+Account Passwords Stored Using Insecure MD5 Hashing Algorithm
+Although the game developers said that each password was stored in their database as a "salted MD5 hash," the game players are highly recommended to change their passwords as soon as possible because the MD5 hash function has long been known to be susceptible to brute force attacks.
+The MD5 hashing algorithm is widely considered to be extremely insecure, following the leaking of more than 117 million LinkedIn passwords that had been hashed similarly and brute-forced to get the plain text passwords.
+BlankMediaGames is expected to be changing up its password-hashing approach, as the company said: "We are making plans to replace PHPBB with a more secure forum such as Vanilla, and moving to a more secure hashing algorithm."
+BlankMediaGames says it will soon be sending out mass emails to all Town of Salem users impacted by the data breach but adds that its number one priority currently is to ensure that its "servers are secure" and to add support in its code for "forced password resets."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

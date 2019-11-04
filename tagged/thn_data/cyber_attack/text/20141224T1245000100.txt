@@ -1,0 +1,16 @@
+South Korean Nuclear Power Plant Hacked
+Swati Khandelwal
+
+Koreans have once again gain media attention but this time not as an accused of any kind of hack attack, but as a victim of a severe attack on computers systems at a nuclear power plant in South Korea by an unknown hacker or a group.
+South Korea was hit by a cyber attack on its nuclear power plant, causing the operator to conduct drills in order to test the ability of the nuclear plant to cope with a full-scale cyber-attack. Although the plant's operator says no critical data has been leaked.
+The cyber attack came into light after a hacker posted blueprints of nuclear reactors online and threatened further "leaks" unless authorities close down the reactors. According to the South Korean Yonhap News Agency, the hacker was able to access blueprints of reactors, floor maps and other internal information on the plant. 
+Last week with the help of a Twitter account named "president of anti-nuclear reactor group," the hacker posted leaked data revealing internal designs and manuals of the Gori-2 and Wolsong-1 nuclear reactors run by Korea Hydro and Nuclear Power Co. (KHNP). The hacker also threatened to leak more information unless the reactors are shut down.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The leaked information includes important data on the facilities' air condition and cooling systems, a radiation exposure report, and personal data of employees.
+While KHNP and the South Korean government said that only "non-critical" information was stolen by the hacker and that the compromised data did not harm the nuclear plant’s safety. The company will also conduct extensive drills at four of its complexes next week.
+The KHNP, the sole nuclear operator in Korea, manages South Korea's 23 nuclear reactors, which supply about 30 percent of the country's electricity needs.
+The hack came after the massive cyber attack on Sony Pictures Entertainment earlier this month, in which a list of personal and confidential data of the company made online by the hackers group called itself Guardian of Peace (GoP). The hack has yet exposed about 200 gigabytes of confidential data from upcoming movie scripts to sensitive employees data, celebrities phone numbers and their travel aliases, and unreleased films, marking it as the most severe hack in the History.
+The Federal Bureau of Investigation (FBI) accused North Korea for Sony hack due to the Sony’s upcoming controversial movie "The Interview" — a comedy about an assassination attempt against North Korean leader Kim Jong-un. Although North Korea denied any involvement. 
+In the past, South Korea has also many times blamed North Korea for hacks on banks, government websites and broadcasters. But this time no one has blamed North Korea for the hacking against the KHNP power plants. An official at KHNP told Reuters that the hacking appeared to be the work of "elements who want to cause social unrest," but added that he had no one specific in mind.
+Meanwhile, a Twitter account claiming to represent an anti-nuclear organisation based in Hawaii claimed responsibility for the Nuclear power plant hack in South Korea, although the identities of the intruders have yet to be confirmed.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

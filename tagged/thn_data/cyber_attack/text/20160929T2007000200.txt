@@ -1,0 +1,18 @@
+37-Year-Old 'Syrian Electronic Army' Hacker Pleads Guilty in US court
+Swati Khandelwal
+
+One of the FBI's Most Wanted Hackers who was arrested in Germany earlier this year has pleaded guilty to federal charges for his role in a scheme that hacked computers and targeted the US government, foreign governments, and multiple US media outlets.
+Peter Romar, 37, pleaded guilty Wednesday in a federal court in Alexandria to felony charges of conspiring to receive extortion proceeds and to illegally access computers in his role as a member of the infamous hacking group calling itself the Syrian Electronic Army (SEA), the Department of Justice (DoJ) announced.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Romar was previously extradited from Germany on request of the United States.
+"Cybercriminals cannot hide from justice," said U.S. Attorney Dana J. Boente for the Eastern District of Virginia. "No matter where they are in the world, the United States will vigorously pursue those who commit crimes against U.S. citizens and hold them accountable for their actions."
+In March, the US charged three men it believed were involved in cyber-attacks carried out the Syrian Electronic Army. Romar was already arrested while the other two - Ahmad Umar Agha (aka The Pro), 22 and Firas Dardar (aka The Shadow), 27 - were believed to be in Syria.
+The FBI has also offered a reward of $100,000 for any information that leads to the arrest of Agha and Dardar, who were allegedly involved in hacking Associated Press Twitter account in April 2013 and spreading a false rumor claiming that the White House had been bombed, injuring President Obama, which caused a temporary stock market dip.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+All three SEA hackers were allegedly engaged in a long-running cyber-propaganda campaign in support of the Syrian President Bashar al‑Assad. 
+The group used "spear-phishing" tactics to target computer systems of the US government, foreign organizations, media outlets and other private-sector entities that the SEA deemed as having been antagonistic toward the Syrian Government.
+Between 2011 and 2013, SEA targeted multiple entities including the Associated Press, Microsoft, Reuters, CNN, Time, The Daily Dot, The Washington Post, Vice, Human Rights Watch, E! Online, Harvard University, NASA, US Marine, and The Onion, among others.
+Dardar and Romar are accused of hacking into the computer systems of businesses for their personal profit. They hacked into victims' computers and then threaten them to damage computers, and delete/sell the data unless they were paid a ransom.
+"If a victim could not make extortion payments to the conspiracy's Syrian bank accounts due to sanctions targeting Syria, Romar acted as an intermediary in Germany to evade those sanctions," the DoJ said.
+Romar faces up to 5 years in prison and is scheduled to be sentenced on 21st October, while co-defendant Dardar still remains at large and is believed to be in Syria.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,23 @@
+Massive DDoS Attack Against Dyn DNS Service Knocks Popular Sites Offline
+Swati Khandelwal
+
+UPDATE — How an army of million of hacked Internet-connected smart devices almost broke the Internet today.
+Cyber attacks are getting evil and worst nightmare for companies day-by-day, and the Distributed Denial of Service (DDoS) attack is one such attacks that cause a massive damage to any service.
+Recently, the Internet witnessed a record-breaking largest DDoS attack of over 1 Tbps against France-based hosting provider OVH, and now the latest victim of the attack is none other than Dyn DNS provider.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A sudden outage of popular sites and services, including Twitter, SoundCloud, Spotify, and Shopify, for many users, is causing uproar online. It's because of a DDoS attack against the popular Domain Name System (DNS) service provider Dyn, according to a post on Ycombinator.
+DNS act as the authoritative reference for mapping domain names to IP addresses. In other words, DNS is simply an Internet's phone book that resolves human-readable web addresses, like thehackernews.com, against IP addresses.
+Dyn DNS is used by many websites and services as their upstream DNS provider, including Twitter, Spotify, SaneBox, Reddit, Box, Github, Zoho CRM, PayPal, Airbnb, Freshbooks, Wired.com, Pinterest, Heroku and Vox Media properties.
+All of these sites and services are reportedly experiencing outages and downtime, either completely or partially.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's an internet outage map from Level3:
+According to Dyn DNS, the DDOS started at 11:10 UTC and is mostly affecting its customers in the East Coast of the United States, specifically Managed DNS customers.
+"We are aware of the ongoing service interruption of our Managed DNS network. For more information visit our status page," Dyn tweeted.
+At the time, it's not clear who is behind this DDoS attack, but the company said its engineers are working on "mitigating" the issue.
+Here's the statement posted by Dyn on its website:
+"This attack is mainly impacting US East and is impacting Managed DNS customers in this region. Our Engineers are continuing to work on mitigating this issue.
+Starting at 11:10 UTC on October 21th-Friday 2016 we began monitoring and mitigating a DDoS attack against our Dyn Managed DNS infrastructure. Some customers may experience increased DNS query latency and delayed zone propagation during this time. Updates will be posted as information becomes available.
+Customers with questions or concerns are encouraged to reach out to our Technical Support Team."
+What websites are down for you? Let us know in the comments below.
+We'll update the story as soon as we get to hear more about the attack. Stay Tuned!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

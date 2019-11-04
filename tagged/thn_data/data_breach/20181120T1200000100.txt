@@ -1,0 +1,17 @@
+Two TalkTalk hackers jailed for 2015 data breach that cost it £77 million
+Swati Khandelwal
+
+Two hackers have been sent to prison for their roles in hacking TalkTalk, one of the biggest UK-based telecommunications company, in 2015 and stealing personal information, banking, and credit card details belonging to more than 156,000 customers.
+Matthew Hanley, 23, and Connor Allsopp, 21, both from Tamworth in Staffordshire, were sentenced Monday to 12 months and 8 months in prison, respectively, after they admitted charges relating to the massive breach that cost TalkTalk £77 million in losses.
+The total cost also included the massive £400,000 fine imposed by the Information Commissioner's Office (ICO) on TalkTalk for failings to implement the most basic security measures in order to prevent the hack from happening.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the Old Bailey, the judge Anuja Dhir described Hanley as a "dedicated hacker" and sentenced him to 12 months in prison; whereas, Allsopp gets 8-months prison for his lesser role in the cyber attack.
+The Judge also said that it was a tragedy to find "two individuals of such extraordinary talent," Daily Mail reported.
+"Given the scale of the attack, the number of people whose confidential information was stolen and then passed on to others, I'm sure that your actions caused misery and distress to many thousands of the customers of TalkTalk," Dhir added.
+Hanley broke into the company's website between October 16 and 21 in 2015 and stole personal and banking details of 156,959 customers. He then passed the stolen information on to his friend Allsopp, who later sold the data to another online user for fraud.
+The stolen information included customers' full names, postal addresses, dates of birth, telephone numbers, email addresses, and TalkTalk accounts information, and in almost 16,000 cases, the attackers also accessed financial information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Another hacker, Daniel Kelley, 21, was arrested, charged and pledged guilty in 2016, for obtaining the stolen data of TalkTalk customers and blackmailing the company's then-CEO, Dido Harding, in an attempt to extort 465 Bitcoins.
+"Your actions, the actions of others, resulted in the then-CEO of TalkTalk being subjected to repeated attempts to blackmail her for money. You were not personally involved in making those attempts, but your actions helped facilitate it," Judge Dhir told Hanley and Allsopp.
+In the weeks following the TalkTalk breach, several teenagers, including a 15-year-old boy from Northern Ireland, a 16-year-old boy from west London, and another 16-year-old from London, were arrested for their alleged role in hacking and blackmailing the telecom company.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+Hacker Caused Panic in Dallas by Turning ON Every Emergency Siren at Once
+Mohit Kumar
+
+We have seen hackers flooding 911 emergency service with rogue requests to knock the service offline for an entire state, but some hacking incidents are worse than others.
+One such incident took place in Dallas on Friday night when hacker triggered a network of 156 emergency warning sirens for about two hours, waking up residents and sparking fears of a disaster.
+The emergency warning sirens — designed to warn citizens of the Texas about dangerous weather conditions, such as severe storms and tornados — were activated around 11:40 p.m. Friday and lasted until 1:20 a.m. Saturday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The city officials tried to inform residents not to call 911 as there was not any emergency situation in the city, but the 911 system was nevertheless flooded with over 4,400 calls from panicked residents.
+Rocky Vaz, director of Dallas Office of Emergency Management (OEM), told the Dallas Morning News that the alarms blasted about 15 times for 90-second durations. You can even watch video footage of the incident posted by some people on the social media.
+Ever wonder what the end of the world feels like? #dallas #sirens pic.twitter.com/dvokKWkZ6N
+— ManicPixieDreamGay (@deadlyblonde) April 8, 2017
+The OEM technicians were eventually able to shut down the warning system and are working to keep this from happening again by implementing "more safeguards."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The city officials said the sirens were set off by a hacker who compromised the Dallas city's emergency alert system, but they did not disclose how the system was compromised or who may be responsible for the attack.
+"We can state at this time that the City’s siren system was hacked Friday night," the Dallas Public Information Office confirmed on Saturday. "For security reasons, we cannot discuss the details of how this was done, but we do believe that the hack came from the Dallas area."
+The officials have notified the Federal Communications Commission (FCC) for assistance in identifying the exact source of the hack.
+This is the second time when some hacker has attacked critical infrastructure in the city. Last year, some unknown hacker hacked into some traffic signals in Dallas and used them to publish jokes.
+Dallas Mayor Mike Rawlings noted on his Facebook page that the incident is yet "another serious example of the need for us to upgrade and better safeguard our city’s technology infrastructure," adding that they’re working on identifying and prosecuting those responsible for the attack.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

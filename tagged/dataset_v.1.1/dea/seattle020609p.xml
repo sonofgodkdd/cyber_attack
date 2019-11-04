@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+February 06, 2009
+Contact: Jodie Underwood
+Number: (206) 553-5443
+"Mukilteo Mike" Meth Dealer Found Guilty
+Methamphetamine Sold From Home and Seattle Business
+FEB 06  -- 
+(Seattle)  - DEA Special Agent in Charge (SAC) Arnold R. Moorin and the United States Attorney for the Western District of Washington, Jeffrey Sullivan, announced that Michael Fjerstad was found guilty on February 5, 2009 in U.S District Court of conspiracy to distribute methamphetamine, three counts of distribution of methamphetamine, possession of methamphetamine with intent to distribute, and being a felon in possession of ammunition. The jury deliberated for 2 hours following a week long jury trial. Fjerstad is set for sentencing on May 1, 2009 and faces a mandatory minimum of 20 years in prison.
+According to records filed in the case, Fjerstad was distributing methamphetamine from his Mukilteo residence and Seattle area business. After several undercover purchases of methamphetamine from Fjerstad, search warrants were served on both his home and business. Law enforcement located drugs, cash and significant amounts of ammunition, which included 82 rounds of hollow-point bullets. In 2005, Fjerstad was convicted in Snohomish County of felony drug possession and therefore was prohibited from possessing ammunition.
+This case was investigated by the Drug Enforcement Administration and the Seattle Police Department.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="28" end="43" text="Jodie Underwood" TYPE="NAM" />
+<person id="p1" start="67" end="107" text="'Mukilteo Mike' Meth Dealer Found Guilty" TYPE="BAR" />
+<person id="p2" start="185" end="235" text="DEA Special Agent in Charge (SAC) Arnold R. Moorin" TYPE="NAM" />
+<person id="p4" start="185" end="217" text="DEA Special Agent in Charge (SAC" TYPE="NOMPRE" />
+<person id="p5" start="214" end="217" text="SAC" TYPE="BAR" />
+<person id="p6" start="240" end="323" text="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" TYPE="NOM" />
+<person id="p7" start="307" end="323" text="Jeffrey Sullivan" TYPE="NAM" />
+<person id="p8" start="340" end="356" text="Michael Fjerstad" TYPE="NAM" />
+<person id="p9" start="577" end="612" text="a felon in possession of ammunition" TYPE="NOM" />
+<person id="p10" start="614" end="622" text="The jury" TYPE="NOM" />
+<person id="p11" start="669" end="673" text="jury" TYPE="NOMPRE" />
+<person id="p12" start="681" end="689" text="Fjerstad" TYPE="NAM" />
+<person id="p13" start="820" end="828" text="Fjerstad" TYPE="NAM" />
+<person id="p14" start="867" end="870" text="his" TYPE="PRO" />
+<person id="p15" start="976" end="984" text="Fjerstad" TYPE="NAM" />
+<person id="p16" start="1022" end="1025" text="his" TYPE="PRO" />
+<person id="p17" start="1179" end="1187" text="Fjerstad" TYPE="NAM" />
+<organization id="o0" start="143" end="159" text="Seattle Business" TYPE="BAR" />
+<organization id="o1" start="185" end="188" text="DEA" TYPE="NAMPRE" />
+<organization id="o2" start="271" end="305" text="the Western District of Washington" TYPE="NAM" />
+<organization id="o3" start="397" end="415" text="U.S District Court" TYPE="NAM" />
+<organization id="o4" start="867" end="915" text="his Mukilteo residence and Seattle area business" TYPE="BAR" />
+<organization id="o5" start="1022" end="1043" text="his home and business" TYPE="BAR" />
+<organization id="o6" start="1335" end="1370" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o7" start="1375" end="1404" text="the Seattle Police Department" TYPE="NAM" />
+<geographical-political id="g0" start="143" end="150" text="Seattle" TYPE="NAMPRE" />
+<geographical-political id="g1" start="173" end="180" text="Seattle" TYPE="NAM" />
+<geographical-political id="g2" start="244" end="257" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g3" start="894" end="901" text="Seattle" TYPE="NAMPRE" />
+<geographical-political id="g4" start="871" end="879" text="Mukilteo" TYPE="NAMPRE" />
+<geographical-political id="g5" start="1205" end="1221" text="Snohomish County" TYPE="NAM" />
+<location id="l0" start="894" end="906" text="Seattle area" TYPE="NOMPRE" />
+<falicity id="f0" start="134" end="138" text="Home" TYPE="NOMPRE" />
+<falicity id="f1" start="867" end="915" text="his Mukilteo residence and Seattle area business" TYPE="BAR" />
+<falicity id="f2" start="1022" end="1043" text="his home and business" TYPE="BAR" />
+<falicity id="f3" start="772" end="778" text="prison" TYPE="BAR" />
+<head id="h0" start="28" end="43" text="Jodie Underwood" />
+<head id="h1" start="134" end="138" text="Home" />
+<head id="h2" start="88" end="94" text="Dealer" />
+<head id="h3" start="143" end="150" text="Seattle" />
+<head id="h4" start="151" end="159" text="Business" />
+<head id="h5" start="173" end="180" text="Seattle" />
+<head id="h6" start="219" end="235" text="Arnold R. Moorin" />
+<head id="h7" start="197" end="202" text="Agent" />
+<head id="h8" start="185" end="188" text="DEA" />
+<head id="h9" start="214" end="217" text="SAC" />
+<head id="h10" start="258" end="266" text="Attorney" />
+<head id="h11" start="307" end="323" text="Jeffrey Sullivan" />
+<head id="h12" start="244" end="257" text="United States" />
+<head id="h13" start="275" end="305" text="Western District of Washington" />
+<head id="h14" start="340" end="356" text="Michael Fjerstad" />
+<head id="h15" start="397" end="415" text="U.S District Court" />
+<head id="h16" start="579" end="584" text="felon" />
+<head id="h17" start="618" end="622" text="jury" />
+<head id="h18" start="669" end="673" text="jury" />
+<head id="h19" start="681" end="689" text="Fjerstad" />
+<head id="h20" start="820" end="828" text="Fjerstad" />
+<head id="h21" start="907" end="915" text="business" />
+<head id="h22" start="902" end="906" text="area" />
+<head id="h23" start="894" end="901" text="Seattle" />
+<head id="h24" start="880" end="889" text="residence" />
+<head id="h25" start="871" end="879" text="Mukilteo" />
+<head id="h26" start="867" end="870" text="his" />
+<head id="h27" start="976" end="984" text="Fjerstad" />
+<head id="h28" start="1026" end="1030" text="home" />
+<head id="h29" start="1035" end="1043" text="business" />
+<head id="h30" start="1022" end="1025" text="his" />
+<head id="h31" start="1179" end="1187" text="Fjerstad" />
+<head id="h32" start="1205" end="1221" text="Snohomish County" />
+<head id="h33" start="1339" end="1370" text="Drug Enforcement Administration" />
+<head id="h34" start="1379" end="1404" text="Seattle Police Department" />
+<head id="h35" start="772" end="778" text="prison" />
+<name id="n0" start="28" end="43" text="Jodie Underwood" />
+<name id="n1" start="143" end="150" text="Seattle" />
+<name id="n2" start="173" end="180" text="Seattle" />
+<name id="n3" start="219" end="235" text="Arnold R. Moorin" />
+<name id="n4" start="185" end="188" text="DEA" />
+<name id="n5" start="307" end="323" text="Jeffrey Sullivan" />
+<name id="n6" start="244" end="257" text="United States" />
+<name id="n7" start="275" end="305" text="Western District of Washington" />
+<name id="n8" start="340" end="356" text="Michael Fjerstad" />
+<name id="n9" start="397" end="415" text="U.S District Court" />
+<name id="n10" start="681" end="689" text="Fjerstad" />
+<name id="n11" start="820" end="828" text="Fjerstad" />
+<name id="n12" start="894" end="901" text="Seattle" />
+<name id="n13" start="871" end="879" text="Mukilteo" />
+<name id="n14" start="976" end="984" text="Fjerstad" />
+<name id="n15" start="1179" end="1187" text="Fjerstad" />
+<name id="n16" start="1205" end="1221" text="Snohomish County" />
+<name id="n17" start="1339" end="1370" text="Drug Enforcement Administration" />
+<name id="n18" start="1379" end="1404" text="Seattle Police Department" />
+<located-mention id="lo0" start="780" end="915" text="According to records filed in the case, Fjerstad was distributing methamphetamine from his Mukilteo residence and Seattle area business" TYPE="Other" />
+<located-mention id="lo1" start="1170" end="1303" text="In 2005, Fjerstad was convicted in Snohomish County of felony drug possession and therefore was prohibited from possessing ammunition" TYPE="Verbal" />
+<employment-mention id="e0" start="240" end="323" text="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" TYPE="PreMod" />
+<CRRE id="C0" start="867" end="915" text="his Mukilteo residence and Seattle area business" TYPE="PreMod" />
+<CRRE id="C1" start="1022" end="1043" text="his home and business" TYPE="PreMod" />
+<M id="M0" start="185" end="217" text="DEA Special Agent in Charge (SAC" TYPE="PreMod" />
+<M id="M1" start="240" end="323" text="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" TYPE="Preposition" />
+<M id="M2" start="867" end="915" text="his Mukilteo residence and Seattle area business" TYPE="PreMod" />
+<M id="M3" start="1022" end="1043" text="his home and business" TYPE="PreMod" />
+<entity_link id="en0" fromID="p4" fromText="DEA Special Agent in Charge (SAC" toID="p2" toText="DEA Special Agent in Charge (SAC) Arnold R. Moorin" />
+<entity_link id="en1" fromID="p5" fromText="SAC" toID="p4" toText="DEA Special Agent in Charge (SAC" />
+<entity_link id="en2" fromID="p7" fromText="Jeffrey Sullivan" toID="p6" toText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" />
+<entity_link id="en3" fromID="g1" fromText="Seattle" toID="g0" toText="Seattle" />
+<entity_link id="en4" fromID="p8" fromText="Michael Fjerstad" toID="p1" toText="'Mukilteo Mike' Meth Dealer Found Guilty" />
+<entity_link id="en5" fromID="p9" fromText="a felon in possession of ammunition" toID="p8" toText="Michael Fjerstad" />
+<entity_link id="en6" fromID="p12" fromText="Fjerstad" toID="p8" toText="Michael Fjerstad" />
+<entity_link id="en7" fromID="p13" fromText="Fjerstad" toID="p12" toText="Fjerstad" />
+<entity_link id="en8" fromID="o4" fromText="his Mukilteo residence and Seattle area business" toID="o0" toText="Seattle Business" />
+<entity_link id="en9" fromID="g3" fromText="Seattle" toID="g1" toText="Seattle" />
+<entity_link id="en10" fromID="p14" fromText="his" toID="p13" toText="Fjerstad" />
+<entity_link id="en11" fromID="p15" fromText="Fjerstad" toID="p13" toText="Fjerstad" />
+<entity_link id="en12" fromID="o5" fromText="his home and business" toID="o4" toText="his Mukilteo residence and Seattle area business" />
+<entity_link id="en13" fromID="f2" fromText="his home and business" toID="f1" toText="his Mukilteo residence and Seattle area business" />
+<entity_link id="en14" fromID="f1" fromText="his Mukilteo residence and Seattle area business" toID="f0" toText="Home" />
+<entity_link id="en15" fromID="p16" fromText="his" toID="p15" toText="Fjerstad" />
+<entity_link id="en16" fromID="p17" fromText="Fjerstad" toID="p15" toText="Fjerstad" />
+<head_link id="he0" fromID="p0" fromText="Jodie Underwood" toID="h0" toText="Jodie Underwood" />
+<head_link id="he1" fromID="f0" fromText="Home" toID="h1" toText="Home" />
+<head_link id="he2" fromID="p1" fromText="'Mukilteo Mike' Meth Dealer Found Guilty" toID="h2" toText="Dealer" />
+<head_link id="he3" fromID="g0" fromText="Seattle" toID="h3" toText="Seattle" />
+<head_link id="he4" fromID="o0" fromText="Seattle Business" toID="h4" toText="Business" />
+<head_link id="he5" fromID="g1" fromText="Seattle" toID="h5" toText="Seattle" />
+<head_link id="he6" fromID="p2" fromText="DEA Special Agent in Charge (SAC) Arnold R. Moorin" toID="h6" toText="Arnold R. Moorin" />
+<head_link id="he7" fromID="p4" fromText="DEA Special Agent in Charge (SAC" toID="h7" toText="Agent" />
+<head_link id="he8" fromID="o1" fromText="DEA" toID="h8" toText="DEA" />
+<head_link id="he9" fromID="p5" fromText="SAC" toID="h9" toText="SAC" />
+<head_link id="he10" fromID="p6" fromText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" toID="h10" toText="Attorney" />
+<head_link id="he11" fromID="p7" fromText="Jeffrey Sullivan" toID="h11" toText="Jeffrey Sullivan" />
+<head_link id="he12" fromID="g2" fromText="United States" toID="h12" toText="United States" />
+<head_link id="he13" fromID="o2" fromText="the Western District of Washington" toID="h13" toText="Western District of Washington" />
+<head_link id="he14" fromID="p8" fromText="Michael Fjerstad" toID="h14" toText="Michael Fjerstad" />
+<head_link id="he15" fromID="o3" fromText="U.S District Court" toID="h15" toText="U.S District Court" />
+<head_link id="he16" fromID="p9" fromText="a felon in possession of ammunition" toID="h16" toText="felon" />
+<head_link id="he17" fromID="p10" fromText="The jury" toID="h17" toText="jury" />
+<head_link id="he18" fromID="p11" fromText="jury" toID="h18" toText="jury" />
+<head_link id="he19" fromID="p12" fromText="Fjerstad" toID="h19" toText="Fjerstad" />
+<head_link id="he20" fromID="p13" fromText="Fjerstad" toID="h20" toText="Fjerstad" />
+<head_link id="he21" fromID="o4" fromText="his Mukilteo residence and Seattle area business" toID="h21" toText="business" />
+<head_link id="he22" fromID="l0" fromText="Seattle area" toID="h22" toText="area" />
+<head_link id="he23" fromID="g3" fromText="Seattle" toID="h23" toText="Seattle" />
+<head_link id="he24" fromID="f1" fromText="his Mukilteo residence and Seattle area business" toID="h24" toText="residence" />
+<head_link id="he25" fromID="g4" fromText="Mukilteo" toID="h25" toText="Mukilteo" />
+<head_link id="he26" fromID="p14" fromText="his" toID="h26" toText="his" />
+<head_link id="he27" fromID="p15" fromText="Fjerstad" toID="h27" toText="Fjerstad" />
+<head_link id="he28" fromID="f2" fromText="his home and business" toID="h28" toText="home" />
+<head_link id="he29" fromID="o5" fromText="his home and business" toID="h29" toText="business" />
+<head_link id="he30" fromID="p16" fromText="his" toID="h30" toText="his" />
+<head_link id="he31" fromID="p17" fromText="Fjerstad" toID="h31" toText="Fjerstad" />
+<head_link id="he32" fromID="g5" fromText="Snohomish County" toID="h32" toText="Snohomish County" />
+<head_link id="he33" fromID="o6" fromText="the Drug Enforcement Administration" toID="h33" toText="Drug Enforcement Administration" />
+<head_link id="he34" fromID="o7" fromText="the Seattle Police Department" toID="h34" toText="Seattle Police Department" />
+<head_link id="he35" fromID="f3" fromText="prison" toID="h35" toText="prison" />
+<name_link id="na0" fromID="p0" fromText="Jodie Underwood" toID="n0" toText="Jodie Underwood" />
+<name_link id="na1" fromID="g0" fromText="Seattle" toID="n1" toText="Seattle" />
+<name_link id="na2" fromID="g1" fromText="Seattle" toID="n2" toText="Seattle" />
+<name_link id="na3" fromID="p2" fromText="DEA Special Agent in Charge (SAC) Arnold R. Moorin" toID="n3" toText="Arnold R. Moorin" />
+<name_link id="na4" fromID="o1" fromText="DEA" toID="n4" toText="DEA" />
+<name_link id="na5" fromID="p7" fromText="Jeffrey Sullivan" toID="n5" toText="Jeffrey Sullivan" />
+<name_link id="na6" fromID="g2" fromText="United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="o2" fromText="the Western District of Washington" toID="n7" toText="Western District of Washington" />
+<name_link id="na8" fromID="p8" fromText="Michael Fjerstad" toID="n8" toText="Michael Fjerstad" />
+<name_link id="na9" fromID="o3" fromText="U.S District Court" toID="n9" toText="U.S District Court" />
+<name_link id="na10" fromID="p12" fromText="Fjerstad" toID="n10" toText="Fjerstad" />
+<name_link id="na11" fromID="p13" fromText="Fjerstad" toID="n11" toText="Fjerstad" />
+<name_link id="na12" fromID="g3" fromText="Seattle" toID="n12" toText="Seattle" />
+<name_link id="na13" fromID="g4" fromText="Mukilteo" toID="n13" toText="Mukilteo" />
+<name_link id="na14" fromID="p15" fromText="Fjerstad" toID="n14" toText="Fjerstad" />
+<name_link id="na15" fromID="p17" fromText="Fjerstad" toID="n15" toText="Fjerstad" />
+<name_link id="na16" fromID="g5" fromText="Snohomish County" toID="n16" toText="Snohomish County" />
+<name_link id="na17" fromID="o6" fromText="the Drug Enforcement Administration" toID="n17" toText="Drug Enforcement Administration" />
+<name_link id="na18" fromID="o7" fromText="the Seattle Police Department" toID="n18" toText="Seattle Police Department" />
+<relation_link1 id="r0" fromID="M0" fromText="DEA Special Agent in Charge (SAC" toID="p4" toText="DEA Special Agent in Charge (SAC" />
+<relation_link1 id="r1" fromID="e0" fromText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" toID="p6" toText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" />
+<relation_link1 id="r2" fromID="M1" fromText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" toID="p6" toText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" />
+<relation_link1 id="r3" fromID="C0" fromText="his Mukilteo residence and Seattle area business" toID="p14" toText="his" />
+<relation_link1 id="r4" fromID="M2" fromText="his Mukilteo residence and Seattle area business" toID="p14" toText="his" />
+<relation_link1 id="r5" fromID="lo0" fromText="According to records filed in the case, Fjerstad was distributing methamphetamine from his Mukilteo residence and Seattle area business" toID="p13" toText="Fjerstad" />
+<relation_link1 id="r6" fromID="C1" fromText="his home and business" toID="p16" toText="his" />
+<relation_link1 id="r7" fromID="M3" fromText="his home and business" toID="p16" toText="his" />
+<relation_link1 id="r8" fromID="lo1" fromText="In 2005, Fjerstad was convicted in Snohomish County of felony drug possession and therefore was prohibited from possessing ammunition" toID="p17" toText="Fjerstad" />
+<relation_link2 id="re0" fromID="M0" fromText="DEA Special Agent in Charge (SAC" toID="o1" toText="DEA" />
+<relation_link2 id="re1" fromID="e0" fromText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" toID="g2" toText="United States" />
+<relation_link2 id="re2" fromID="M1" fromText="the United States Attorney for the Western District of Washington, Jeffrey Sullivan" toID="o2" toText="the Western District of Washington" />
+<relation_link2 id="re3" fromID="C0" fromText="his Mukilteo residence and Seattle area business" toID="f1" toText="his Mukilteo residence and Seattle area business" />
+<relation_link2 id="re4" fromID="M2" fromText="his Mukilteo residence and Seattle area business" toID="o4" toText="his Mukilteo residence and Seattle area business" />
+<relation_link2 id="re5" fromID="lo0" fromText="According to records filed in the case, Fjerstad was distributing methamphetamine from his Mukilteo residence and Seattle area business" toID="f1" toText="his Mukilteo residence and Seattle area business" />
+<relation_link2 id="re6" fromID="C1" fromText="his home and business" toID="f2" toText="his home and business" />
+<relation_link2 id="re7" fromID="M3" fromText="his home and business" toID="o5" toText="his home and business" />
+<relation_link2 id="re8" fromID="lo1" fromText="In 2005, Fjerstad was convicted in Snohomish County of felony drug possession and therefore was prohibited from possessing ammunition" toID="g5" toText="Snohomish County" />
+</TAGS>
+</KddTask>

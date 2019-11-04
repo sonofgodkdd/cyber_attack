@@ -1,0 +1,22 @@
+Game of Thrones (Season 7) Episode 5 Script Leaked — Hacker Demands Millions in Ransom
+Wang Wei
+
+The hacking group that recently hacked HBO has just dropped its second trove of documents, including a month emails of one of the company's executives, and a detailed script of the upcoming fifth episode of "Game of Thrones" Season 7, set to be aired on August 13.
+The latest release is the second leak from the hackers who claimed to have obtained around 1.5 terabytes of information from HBO, following the release of upcoming episodes of "Ballers" and "Room 104," and a script of the fourth episode of "Game of Thrones."
+With the release of another half-gigabyte sample of its stolen HBO data, the hacking group has finally demanded a ransom worth millions of dollars from the entertainment giant in order to prevent further leaks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The latest HBO data dump includes company's several internal documents, including emails, employment agreements, financial balance sheets, and marketing-strategy PDFs, along with the script of the yet-to-air 5th episode of Game of Thrones, all watermarked with "HBO is Falling."
+The hackers reportedly sent a video message to HBO President and CEO Richard Plepler and demanded his "six-month salary in Bitcoin" — which is almost $6 Million — as a ransom for the stolen data otherwise they'll continue to leak.
+In the video letter, written by "Mr. Smith" posing as the group of hackers behind the leak, the hackers demanded an unspecified amount of money from Plepler.
+"We successfully breached into your huge network. HBO was one of our difficult targets to deal with, but we succeeded (it took about 6 months)," the letter reads as quoted by Wired. 
+"Our demand is clear and Non-Negotiable: We want XXXX dollars to stop leaking your Data. HBO spends 12 million for Market Research and 5 million for GOT7 advertisements. So consider us another budget for your advertisements!"
+Last week when the hackers released the first batch of stolen data, HBO confirmed the cyber attack on its network but did not confirm how much data the hackers have stolen and whether it included upcoming episodes of the widely watched Game Of Thrones.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The ransom note adds that the deadline for that payment is only 3 days, but does not include a date. The video letter ends with an image of the "Night King" villain from Game of Thrones with his arms raised—the word "standing" in one hand and "falling" in the other.
+Data Breaches also published some parts of the ransom demand the hackers, which call themselves white hats, sent to HBO.
+In an internal email sent to to the HBO staff last week, Plepler said: "Many people have expressed particular concern about our e-mail system. At this time, we do not believe that our email system as a whole has been compromised, but the forensic review is ongoing."
+HBO spokesperson Jeff Cusson told the publication that the company had been expecting more data to emerge from its data breach, but that the company's "forensic review is ongoing."
+"The review to date has not given us a reason to believe that our email system as a whole has been compromised," Cusson says. "We continue to work around the clock with outside cyber security firms and law enforcement to resolve the incident."
+If hackers have indeed stolen 1.5 terabytes of data from HBO and the company refuse to pay the ransom, users should expect more leaks of upcoming episodes from their favourite shows.
+At this moment, it is still unclear who is behind the hack. We will update the story with the latest information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

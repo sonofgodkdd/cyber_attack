@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+March 7, 2012
+San Diego-area immigration consultant gets nearly 7 years for fraud scam
+Sentence among the longest ever imposed against unscrupulous immigration practitioner
+SAN DIEGO - The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states has been sentenced to 81 months in federal prison following a probe by U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI).
+Armando Garcia, 60, of Tijuana, Mexico, pleaded guilty in June 2011 to aggravated identity theft and related conspiracy charges for operating a fraudulent consulting business with offices in Pico Rivera and National City. At his sentencing hearing Monday, the judge ordered Garcia to return to court May 7 to determine the amount of restitution he owes his victims.
+Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico, pleaded guilty to mail fraud, aggravated identity theft and related conspiracy charges in August 2010. Alcocer is scheduled to be sentenced March 19 before U.S. District Court Judge Michael M. Anello.
+"As the largest investigative arm of the Department of Homeland Security, one of HSI's top enforcement priorities is targeting the criminals and criminal organizations that undermine the integrity of our nation's legal immigration system," said Mike Carney acting special agent in charge for HSI San Diego. "The fraud perpetuated by unscrupulous immigration consultants who exploit the system to enrich themselves hurts us all."
+According to court documents, Garcia opened his consulting business, California Legal Services, in 2001 in Pico Rivera, hiring Alcocer to assist him. As part of a fraud scheme, they offered to get undocumented aliens legal immigration documents allowing them to live and work legally in the United States, for a fee.
+Garcia and Alcocer did not disclose to their victims they submitted applications on their behalf with false information and fraudulent supporting documentation. The two prepared and filed various immigration applications based on fraudulent documents they created, including counterfeit marriage certificates, birth certificates and tax returns. In other cases, they provided counterfeit government letters to show the victims that their applications were filed and pending normal processing time.
+Some of the victims received employment authorization documents from the U.S. Citizenship and Immigration Services based on prima facie eligibility while their applications were being adjudicated by immigration officers. Meanwhile, Garcia and Alcocer continued to defraud the victims by demanding additional payments.
+To date, investigators have identified in excess of 150 victims who paid California Legal Services more than $1.2 million for fraudulent services. Additional victims are encouraged to contact HSI San Diego at (619) 550-5183.
+For more information, visitwww.ice.gov .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="15" end="52" text="San Diego-area immigration consultant" TYPE="BAR" />
+<person id="p1" start="136" end="173" text="unscrupulous immigration practitioner" TYPE="BAR" />
+<person id="p2" start="186" end="297" text="The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states" TYPE="NOM" />
+<person id="p3" start="241" end="244" text="who" TYPE="WHQ" />
+<person id="p4" start="255" end="297" text="more than 150 clients from multiple states" TYPE="NOM" />
+<person id="p5" start="458" end="496" text="Armando Garcia, 60, of Tijuana, Mexico" TYPE="NAM" />
+<person id="p6" start="683" end="686" text="his" TYPE="PRO" />
+<person id="p7" start="714" end="723" text="the judge" TYPE="NOM" />
+<person id="p8" start="732" end="738" text="Garcia" TYPE="NAM" />
+<person id="p9" start="803" end="805" text="he" TYPE="PRO" />
+<person id="p10" start="811" end="822" text="his victims" TYPE="NOM" />
+<person id="p11" start="811" end="814" text="his" TYPE="PRO" />
+<person id="p12" start="824" end="919" text="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" TYPE="NOM" />
+<person id="p13" start="824" end="919" text="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" TYPE="NOM" />
+<person id="p14" start="870" end="887" text="Elizabeth Alcocer" TYPE="NAMPRE" />
+<person id="p15" start="824" end="830" text="Garcia" TYPE="NAM" />
+<person id="p16" start="1024" end="1031" text="Alcocer" TYPE="NAM" />
+<person id="p17" start="1077" end="1120" text="U.S. District Court Judge Michael M. Anello" TYPE="NAM" />
+<person id="p18" start="1077" end="1102" text="U.S. District Court Judge" TYPE="NOMPRE" />
+<person id="p19" start="1249" end="1359" text="the criminals and criminal organizations that undermine the integrity of our nation's legal immigration system" TYPE="NOM" />
+<person id="p20" start="1367" end="1427" text="Mike Carney acting special agent in charge for HSI San Diego" TYPE="APP" />
+<person id="p21" start="1367" end="1378" text="Mike Carney" TYPE="NAM" />
+<person id="p22" start="1379" end="1427" text="acting special agent in charge for HSI San Diego" TYPE="BAR" />
+<person id="p23" start="1455" end="1535" text="unscrupulous immigration consultants who exploit the system to enrich themselves" TYPE="BAR" />
+<person id="p24" start="1492" end="1495" text="who" TYPE="WHQ" />
+<person id="p25" start="1525" end="1535" text="themselves" TYPE="PRO" />
+<person id="p26" start="1581" end="1587" text="Garcia" TYPE="NAM" />
+<person id="p27" start="1595" end="1598" text="his" TYPE="PRO" />
+<person id="p28" start="1678" end="1685" text="Alcocer" TYPE="NAM" />
+<person id="p29" start="1696" end="1699" text="him" TYPE="PRO" />
+<person id="p30" start="1728" end="1732" text="they" TYPE="PRO" />
+<person id="p31" start="1748" end="1767" text="undocumented aliens" TYPE="BAR" />
+<person id="p32" start="1805" end="1809" text="them" TYPE="PRO" />
+<person id="p33" start="1868" end="1874" text="Garcia" TYPE="NAM" />
+<person id="p34" start="1879" end="1886" text="Alcocer" TYPE="NAM" />
+<person id="p35" start="1907" end="1920" text="their victims" TYPE="NOM" />
+<person id="p36" start="1907" end="1912" text="their" TYPE="PRO" />
+<person id="p37" start="1921" end="1925" text="they" TYPE="PRO" />
+<person id="p38" start="1952" end="1957" text="their" TYPE="PRO" />
+<person id="p39" start="2029" end="2036" text="The two" TYPE="HLS" />
+<person id="p40" start="2119" end="2123" text="they" TYPE="PRO" />
+<person id="p41" start="2230" end="2234" text="they" TYPE="PRO" />
+<person id="p42" start="2283" end="2294" text="the victims" TYPE="NOM" />
+<person id="p43" start="2300" end="2305" text="their" TYPE="PRO" />
+<person id="p44" start="2366" end="2385" text="Some of the victims" TYPE="PTV" />
+<person id="p45" start="2374" end="2385" text="the victims" TYPE="NOM" />
+<person id="p46" start="2520" end="2525" text="their" TYPE="PRO" />
+<person id="p47" start="2565" end="2585" text="immigration officers" TYPE="BAR" />
+<person id="p48" start="2598" end="2604" text="Garcia" TYPE="NAM" />
+<person id="p49" start="2609" end="2616" text="Alcocer" TYPE="NAM" />
+<person id="p50" start="2638" end="2649" text="the victims" TYPE="NOM" />
+<person id="p51" start="2693" end="2706" text="investigators" TYPE="BAR" />
+<person id="p52" start="2723" end="2829" text="in excess of 150 victims who paid California Legal Services more than $1.2 million for fraudulent services" TYPE="NOM" />
+<person id="p53" start="2748" end="2751" text="who" TYPE="WHQ" />
+<person id="p54" start="2831" end="2849" text="Additional victims" TYPE="BAR" />
+<organization id="o0" start="206" end="240" text="an immigration consulting business" TYPE="NOM" />
+<organization id="o1" start="369" end="455" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="452" end="455" text="HSI" TYPE="NAM" />
+<organization id="o3" start="369" end="416" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="413" end="416" text="ICE" TYPE="NAM" />
+<organization id="o5" start="600" end="678" text="a fraudulent consulting business with offices in Pico Rivera and National City" TYPE="NOM" />
+<organization id="o7" start="638" end="678" text="offices in Pico Rivera and National City" TYPE="BAR" />
+<organization id="o8" start="752" end="757" text="court" TYPE="BAR" />
+<organization id="o9" start="1082" end="1096" text="District Court" TYPE="NOMPRE" />
+<organization id="o11" start="1126" end="1194" text="the largest investigative arm of the Department of Homeland Security" TYPE="NOM" />
+<organization id="o12" start="1159" end="1194" text="the Department of Homeland Security" TYPE="NAM" />
+<organization id="o13" start="1203" end="1206" text="HSI" TYPE="NAM" />
+<organization id="o14" start="1249" end="1359" text="the criminals and criminal organizations that undermine the integrity of our nation's legal immigration system" TYPE="NOM" />
+<organization id="o6" start="1414" end="1427" text="HSI San Diego" TYPE="NAM" />
+<organization id="o10" start="1564" end="1569" text="court" TYPE="NOMPRE" />
+<organization id="o15" start="1595" end="1645" text="his consulting business, California Legal Services" TYPE="NOM" />
+<organization id="o16" start="1620" end="1645" text="California Legal Services" TYPE="NAMPRE" />
+<organization id="o17" start="2435" end="2480" text="the U.S. Citizenship and Immigration Services" TYPE="NAM" />
+<organization id="o18" start="2757" end="2782" text="California Legal Services" TYPE="NAM" />
+<organization id="o19" start="2876" end="2889" text="HSI San Diego" TYPE="NAM" />
+<geographical-political id="g0" start="15" end="24" text="San Diego" TYPE="NAMPRE" />
+<geographical-political id="g1" start="174" end="183" text="SAN DIEGO" TYPE="NAM" />
+<geographical-political id="g2" start="282" end="297" text="multiple states" TYPE="BAR" />
+<geographical-political id="g3" start="481" end="496" text="Tijuana, Mexico" TYPE="NAM" />
+<geographical-political id="g4" start="490" end="496" text="Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="649" end="660" text="Pico Rivera" TYPE="NAM" />
+<geographical-political id="g6" start="665" end="678" text="National City" TYPE="NAM" />
+<geographical-political id="g7" start="896" end="919" text="Albuquerque, New Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="909" end="919" text="New Mexico" TYPE="NAM" />
+<geographical-political id="g9" start="1082" end="1090" text="District" TYPE="NOMPRE" />
+<geographical-political id="g10" start="1077" end="1081" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g11" start="1322" end="1332" text="our nation" TYPE="NOM" />
+<geographical-political id="g12" start="1322" end="1325" text="our" TYPE="PRO" />
+<geographical-political id="g13" start="1542" end="1544" text="us" TYPE="PRO" />
+<geographical-political id="g14" start="1545" end="1548" text="all" TYPE="HLS" />
+<geographical-political id="g15" start="1658" end="1669" text="Pico Rivera" TYPE="NAM" />
+<geographical-political id="g16" start="1838" end="1855" text="the United States" TYPE="NAM" />
+<geographical-political id="g17" start="2256" end="2266" text="government" TYPE="NOMPRE" />
+<location id="l0" start="15" end="29" text="San Diego-area" TYPE="NOMPRE" />
+<falicity id="f0" start="333" end="347" text="federal prison" TYPE="BAR" />
+<head id="h0" start="42" end="52" text="consultant" />
+<head id="h1" start="25" end="29" text="area" />
+<head id="h2" start="15" end="24" text="San Diego" />
+<head id="h3" start="161" end="173" text="practitioner" />
+<head id="h4" start="174" end="183" text="SAN DIEGO" />
+<head id="h5" start="197" end="202" text="owner" />
+<head id="h6" start="232" end="240" text="business" />
+<head id="h7" start="241" end="244" text="who" />
+<head id="h8" start="269" end="276" text="clients" />
+<head id="h9" start="291" end="297" text="states" />
+<head id="h10" start="341" end="347" text="prison" />
+<head id="h11" start="418" end="450" text="Homeland Security Investigations" />
+<head id="h12" start="452" end="455" text="HSI" />
+<head id="h13" start="369" end="409" text="U.S. Immigration and Customs Enforcement" />
+<head id="h14" start="413" end="416" text="ICE" />
+<head id="h15" start="458" end="472" text="Armando Garcia" />
+<head id="h16" start="481" end="488" text="Tijuana" />
+<head id="h17" start="490" end="496" text="Mexico" />
+<head id="h18" start="624" end="632" text="business" />
+<head id="h19" start="638" end="645" text="offices" />
+<head id="h20" start="649" end="660" text="Pico Rivera" />
+<head id="h21" start="665" end="678" text="National City" />
+<head id="h22" start="683" end="686" text="his" />
+<head id="h23" start="718" end="723" text="judge" />
+<head id="h24" start="732" end="738" text="Garcia" />
+<head id="h25" start="752" end="757" text="court" />
+<head id="h26" start="803" end="805" text="he" />
+<head id="h27" start="815" end="822" text="victims" />
+<head id="h28" start="811" end="814" text="his" />
+<head id="h29" start="833" end="845" text="co-defendant" />
+<head id="h30" start="859" end="868" text="associate" />
+<head id="h31" start="870" end="887" text="Elizabeth Alcocer" />
+<head id="h32" start="824" end="830" text="Garcia" />
+<head id="h33" start="896" end="907" text="Albuquerque" />
+<head id="h34" start="909" end="919" text="New Mexico" />
+<head id="h35" start="1024" end="1031" text="Alcocer" />
+<head id="h36" start="1103" end="1120" text="Michael M. Anello" />
+<head id="h37" start="1097" end="1102" text="Judge" />
+<head id="h38" start="1091" end="1096" text="Court" />
+<head id="h39" start="1082" end="1090" text="District" />
+<head id="h40" start="1077" end="1081" text="U.S." />
+<head id="h41" start="1152" end="1155" text="arm" />
+<head id="h42" start="1163" end="1194" text="Department of Homeland Security" />
+<head id="h43" start="1203" end="1206" text="HSI" />
+<head id="h44" start="1253" end="1262" text="criminals" />
+<head id="h45" start="1276" end="1289" text="organizations" />
+<head id="h46" start="1326" end="1332" text="nation" />
+<head id="h47" start="1322" end="1325" text="our" />
+<head id="h48" start="1367" end="1378" text="Mike Carney" />
+<head id="h49" start="1394" end="1399" text="agent" />
+<head id="h50" start="1414" end="1427" text="HSI San Diego" />
+<head id="h51" start="1480" end="1491" text="consultants" />
+<head id="h52" start="1492" end="1495" text="who" />
+<head id="h53" start="1525" end="1535" text="themselves" />
+<head id="h54" start="1542" end="1544" text="us" />
+<head id="h55" start="1545" end="1548" text="all" />
+<head id="h56" start="1564" end="1569" text="court" />
+<head id="h57" start="1581" end="1587" text="Garcia" />
+<head id="h58" start="1610" end="1618" text="business" />
+<head id="h59" start="1620" end="1645" text="California Legal Services" />
+<head id="h60" start="1595" end="1598" text="his" />
+<head id="h61" start="1658" end="1669" text="Pico Rivera" />
+<head id="h62" start="1678" end="1685" text="Alcocer" />
+<head id="h63" start="1696" end="1699" text="him" />
+<head id="h64" start="1728" end="1732" text="they" />
+<head id="h65" start="1761" end="1767" text="aliens" />
+<head id="h66" start="1805" end="1809" text="them" />
+<head id="h67" start="1842" end="1855" text="United States" />
+<head id="h68" start="1868" end="1874" text="Garcia" />
+<head id="h69" start="1879" end="1886" text="Alcocer" />
+<head id="h70" start="1913" end="1920" text="victims" />
+<head id="h71" start="1907" end="1912" text="their" />
+<head id="h72" start="1921" end="1925" text="they" />
+<head id="h73" start="1952" end="1957" text="their" />
+<head id="h74" start="2033" end="2036" text="two" />
+<head id="h75" start="2119" end="2123" text="they" />
+<head id="h76" start="2230" end="2234" text="they" />
+<head id="h77" start="2256" end="2266" text="government" />
+<head id="h78" start="2287" end="2294" text="victims" />
+<head id="h79" start="2300" end="2305" text="their" />
+<head id="h80" start="2366" end="2370" text="Some" />
+<head id="h81" start="2378" end="2385" text="victims" />
+<head id="h82" start="2439" end="2480" text="U.S. Citizenship and Immigration Services" />
+<head id="h83" start="2520" end="2525" text="their" />
+<head id="h84" start="2577" end="2585" text="officers" />
+<head id="h85" start="2598" end="2604" text="Garcia" />
+<head id="h86" start="2609" end="2616" text="Alcocer" />
+<head id="h87" start="2642" end="2649" text="victims" />
+<head id="h88" start="2693" end="2706" text="investigators" />
+<head id="h89" start="2740" end="2747" text="victims" />
+<head id="h90" start="2748" end="2751" text="who" />
+<head id="h91" start="2757" end="2782" text="California Legal Services" />
+<head id="h92" start="2842" end="2849" text="victims" />
+<head id="h93" start="2876" end="2889" text="HSI San Diego" />
+<name id="n0" start="15" end="24" text="San Diego" />
+<name id="n1" start="174" end="183" text="SAN DIEGO" />
+<name id="n2" start="418" end="450" text="Homeland Security Investigations" />
+<name id="n3" start="452" end="455" text="HSI" />
+<name id="n4" start="369" end="409" text="U.S. Immigration and Customs Enforcement" />
+<name id="n5" start="413" end="416" text="ICE" />
+<name id="n6" start="458" end="472" text="Armando Garcia" />
+<name id="n7" start="481" end="488" text="Tijuana" />
+<name id="n8" start="490" end="496" text="Mexico" />
+<name id="n9" start="649" end="660" text="Pico Rivera" />
+<name id="n10" start="665" end="678" text="National City" />
+<name id="n11" start="732" end="738" text="Garcia" />
+<name id="n12" start="870" end="887" text="Elizabeth Alcocer" />
+<name id="n13" start="824" end="830" text="Garcia" />
+<name id="n14" start="896" end="907" text="Albuquerque" />
+<name id="n15" start="909" end="919" text="New Mexico" />
+<name id="n16" start="1024" end="1031" text="Alcocer" />
+<name id="n17" start="1103" end="1120" text="Michael M. Anello" />
+<name id="n18" start="1077" end="1081" text="U.S." />
+<name id="n19" start="1163" end="1194" text="Department of Homeland Security" />
+<name id="n20" start="1203" end="1206" text="HSI" />
+<name id="n21" start="1367" end="1378" text="Mike Carney" />
+<name id="n22" start="1414" end="1427" text="HSI San Diego" />
+<name id="n23" start="1581" end="1587" text="Garcia" />
+<name id="n24" start="1620" end="1645" text="California Legal Services" />
+<name id="n25" start="1658" end="1669" text="Pico Rivera" />
+<name id="n26" start="1678" end="1685" text="Alcocer" />
+<name id="n27" start="1842" end="1855" text="United States" />
+<name id="n28" start="1868" end="1874" text="Garcia" />
+<name id="n29" start="1879" end="1886" text="Alcocer" />
+<name id="n30" start="2439" end="2480" text="U.S. Citizenship and Immigration Services" />
+<name id="n31" start="2598" end="2604" text="Garcia" />
+<name id="n32" start="2609" end="2616" text="Alcocer" />
+<name id="n33" start="2757" end="2782" text="California Legal Services" />
+<name id="n34" start="2876" end="2889" text="HSI San Diego" />
+<located-mention id="lo0" start="1551" end="1699" text="According to court documents, Garcia opened his consulting business, California Legal Services, in 2001 in Pico Rivera, hiring Alcocer to assist him" TYPE="Other" />
+<employment-mention id="e0" start="1077" end="1102" text="U.S. District Court Judge" TYPE="PreMod" />
+<CRRE id="C0" start="15" end="52" text="San Diego-area immigration consultant" TYPE="PreMod" />
+<CRRE id="C1" start="255" end="297" text="more than 150 clients from multiple states" TYPE="Preposition" />
+<CRRE id="C2" start="458" end="496" text="Armando Garcia, 60, of Tijuana, Mexico" TYPE="Preposition" />
+<CRRE id="C3" start="824" end="919" text="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" TYPE="Preposition" />
+<CRRE id="C4" start="824" end="919" text="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" TYPE="Preposition" />
+<M id="M0" start="1077" end="1102" text="U.S. District Court Judge" TYPE="PreMod" />
+<M id="M1" start="1379" end="1427" text="acting special agent in charge for HSI San Diego" TYPE="Preposition" />
+<entity_link id="en0" fromID="g1" fromText="SAN DIEGO" toID="g0" toText="San Diego" />
+<entity_link id="en1" fromID="p2" fromText="The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states" toID="p0" toText="San Diego-area immigration consultant" />
+<entity_link id="en2" fromID="p3" fromText="who" toID="p2" toText="The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states" />
+<entity_link id="en3" fromID="o2" fromText="HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en4" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en5" fromID="p5" fromText="Armando Garcia, 60, of Tijuana, Mexico" toID="p2" toText="The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states" />
+<entity_link id="en6" fromID="o5" fromText="a fraudulent consulting business with offices in Pico Rivera and National City" toID="o0" toText="an immigration consulting business" />
+<entity_link id="en7" fromID="p6" fromText="his" toID="p5" toText="Armando Garcia, 60, of Tijuana, Mexico" />
+<entity_link id="en8" fromID="p8" fromText="Garcia" toID="p5" toText="Armando Garcia, 60, of Tijuana, Mexico" />
+<entity_link id="en9" fromID="p9" fromText="he" toID="p8" toText="Garcia" />
+<entity_link id="en10" fromID="p11" fromText="his" toID="p9" toText="he" />
+<entity_link id="en11" fromID="p10" fromText="his victims" toID="p4" toText="more than 150 clients from multiple states" />
+<entity_link id="en12" fromID="p13" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="p12" toText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" />
+<entity_link id="en13" fromID="p14" fromText="Elizabeth Alcocer" toID="p13" toText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" />
+<entity_link id="en14" fromID="p15" fromText="Garcia" toID="p8" toText="Garcia" />
+<entity_link id="en15" fromID="p16" fromText="Alcocer" toID="p14" toText="Elizabeth Alcocer" />
+<entity_link id="en16" fromID="p18" fromText="U.S. District Court Judge" toID="p17" toText="U.S. District Court Judge Michael M. Anello" />
+<entity_link id="en17" fromID="o13" fromText="HSI" toID="o2" toText="HSI" />
+<entity_link id="en18" fromID="o11" fromText="the largest investigative arm of the Department of Homeland Security" toID="o13" toText="HSI" />
+<entity_link id="en19" fromID="g11" fromText="our nation" toID="g10" toText="U.S." />
+<entity_link id="en20" fromID="g12" fromText="our" toID="g10" toText="U.S." />
+<entity_link id="en21" fromID="p21" fromText="Mike Carney" toID="p20" toText="Mike Carney acting special agent in charge for HSI San Diego" />
+<entity_link id="en22" fromID="p22" fromText="acting special agent in charge for HSI San Diego" toID="p21" toText="Mike Carney" />
+<entity_link id="en23" fromID="p24" fromText="who" toID="p23" toText="unscrupulous immigration consultants who exploit the system to enrich themselves" />
+<entity_link id="en24" fromID="p25" fromText="themselves" toID="p23" toText="unscrupulous immigration consultants who exploit the system to enrich themselves" />
+<entity_link id="en25" fromID="g13" fromText="us" toID="g10" toText="U.S." />
+<entity_link id="en26" fromID="g14" fromText="all" toID="g13" toText="us" />
+<entity_link id="en27" fromID="o10" fromText="court" toID="o8" toText="court" />
+<entity_link id="en28" fromID="p26" fromText="Garcia" toID="p15" toText="Garcia" />
+<entity_link id="en29" fromID="o15" fromText="his consulting business, California Legal Services" toID="o5" toText="a fraudulent consulting business with offices in Pico Rivera and National City" />
+<entity_link id="en30" fromID="o16" fromText="California Legal Services" toID="o15" toText="his consulting business, California Legal Services" />
+<entity_link id="en31" fromID="p27" fromText="his" toID="p26" toText="Garcia" />
+<entity_link id="en32" fromID="g15" fromText="Pico Rivera" toID="g5" toText="Pico Rivera" />
+<entity_link id="en33" fromID="p28" fromText="Alcocer" toID="p14" toText="Elizabeth Alcocer" />
+<entity_link id="en34" fromID="p29" fromText="him" toID="p26" toText="Garcia" />
+<entity_link id="en35" fromID="p32" fromText="them" toID="p31" toText="undocumented aliens" />
+<entity_link id="en36" fromID="g16" fromText="the United States" toID="g10" toText="U.S." />
+<entity_link id="en37" fromID="p33" fromText="Garcia" toID="p26" toText="Garcia" />
+<entity_link id="en38" fromID="p34" fromText="Alcocer" toID="p28" toText="Alcocer" />
+<entity_link id="en39" fromID="p35" fromText="their victims" toID="p10" toText="his victims" />
+<entity_link id="en40" fromID="p36" fromText="their" toID="p30" toText="they" />
+<entity_link id="en41" fromID="p37" fromText="they" toID="p36" toText="their" />
+<entity_link id="en42" fromID="p38" fromText="their" toID="p35" toText="their victims" />
+<entity_link id="en43" fromID="p39" fromText="The two" toID="p37" toText="they" />
+<entity_link id="en44" fromID="p40" fromText="they" toID="p39" toText="The two" />
+<entity_link id="en45" fromID="p41" fromText="they" toID="p40" toText="they" />
+<entity_link id="en46" fromID="g17" fromText="government" toID="g16" toText="the United States" />
+<entity_link id="en47" fromID="p42" fromText="the victims" toID="p35" toText="their victims" />
+<entity_link id="en48" fromID="p43" fromText="their" toID="p42" toText="the victims" />
+<entity_link id="en49" fromID="p45" fromText="the victims" toID="p42" toText="the victims" />
+<entity_link id="en50" fromID="p46" fromText="their" toID="p44" toText="Some of the victims" />
+<entity_link id="en51" fromID="p48" fromText="Garcia" toID="p33" toText="Garcia" />
+<entity_link id="en52" fromID="p49" fromText="Alcocer" toID="p34" toText="Alcocer" />
+<entity_link id="en53" fromID="p50" fromText="the victims" toID="p45" toText="the victims" />
+<entity_link id="en54" fromID="p52" fromText="in excess of 150 victims who paid California Legal Services more than $1.2 million for fraudulent services" toID="p4" toText="more than 150 clients from multiple states" />
+<entity_link id="en55" fromID="p53" fromText="who" toID="p52" toText="in excess of 150 victims who paid California Legal Services more than $1.2 million for fraudulent services" />
+<entity_link id="en56" fromID="o18" fromText="California Legal Services" toID="o16" toText="California Legal Services" />
+<entity_link id="en57" fromID="o19" fromText="HSI San Diego" toID="o6" toText="HSI San Diego" />
+<head_link id="he0" fromID="p0" fromText="San Diego-area immigration consultant" toID="h0" toText="consultant" />
+<head_link id="he1" fromID="l0" fromText="San Diego-area" toID="h1" toText="area" />
+<head_link id="he2" fromID="g0" fromText="San Diego" toID="h2" toText="San Diego" />
+<head_link id="he3" fromID="p1" fromText="unscrupulous immigration practitioner" toID="h3" toText="practitioner" />
+<head_link id="he4" fromID="g1" fromText="SAN DIEGO" toID="h4" toText="SAN DIEGO" />
+<head_link id="he5" fromID="p2" fromText="The former owner of an immigration consulting business who defrauded more than 150 clients from multiple states" toID="h5" toText="owner" />
+<head_link id="he6" fromID="o0" fromText="an immigration consulting business" toID="h6" toText="business" />
+<head_link id="he7" fromID="p3" fromText="who" toID="h7" toText="who" />
+<head_link id="he8" fromID="p4" fromText="more than 150 clients from multiple states" toID="h8" toText="clients" />
+<head_link id="he9" fromID="g2" fromText="multiple states" toID="h9" toText="states" />
+<head_link id="he10" fromID="f0" fromText="federal prison" toID="h10" toText="prison" />
+<head_link id="he11" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h11" toText="Homeland Security Investigations" />
+<head_link id="he12" fromID="o2" fromText="HSI" toID="h12" toText="HSI" />
+<head_link id="he13" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h13" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he14" fromID="o4" fromText="ICE" toID="h14" toText="ICE" />
+<head_link id="he15" fromID="p5" fromText="Armando Garcia, 60, of Tijuana, Mexico" toID="h15" toText="Armando Garcia" />
+<head_link id="he16" fromID="g3" fromText="Tijuana, Mexico" toID="h16" toText="Tijuana" />
+<head_link id="he17" fromID="g4" fromText="Mexico" toID="h17" toText="Mexico" />
+<head_link id="he18" fromID="o5" fromText="a fraudulent consulting business with offices in Pico Rivera and National City" toID="h18" toText="business" />
+<head_link id="he20" fromID="o7" fromText="offices in Pico Rivera and National City" toID="h19" toText="offices" />
+<head_link id="he21" fromID="g5" fromText="Pico Rivera" toID="h20" toText="Pico Rivera" />
+<head_link id="he22" fromID="g6" fromText="National City" toID="h21" toText="National City" />
+<head_link id="he23" fromID="p6" fromText="his" toID="h22" toText="his" />
+<head_link id="he24" fromID="p7" fromText="the judge" toID="h23" toText="judge" />
+<head_link id="he25" fromID="p8" fromText="Garcia" toID="h24" toText="Garcia" />
+<head_link id="he26" fromID="o8" fromText="court" toID="h25" toText="court" />
+<head_link id="he27" fromID="p9" fromText="he" toID="h26" toText="he" />
+<head_link id="he28" fromID="p10" fromText="his victims" toID="h27" toText="victims" />
+<head_link id="he29" fromID="p11" fromText="his" toID="h28" toText="his" />
+<head_link id="he30" fromID="p12" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="h29" toText="co-defendant" />
+<head_link id="he31" fromID="p13" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="h30" toText="associate" />
+<head_link id="he32" fromID="p14" fromText="Elizabeth Alcocer" toID="h31" toText="Elizabeth Alcocer" />
+<head_link id="he33" fromID="p15" fromText="Garcia" toID="h32" toText="Garcia" />
+<head_link id="he34" fromID="g7" fromText="Albuquerque, New Mexico" toID="h33" toText="Albuquerque" />
+<head_link id="he35" fromID="g8" fromText="New Mexico" toID="h34" toText="New Mexico" />
+<head_link id="he36" fromID="p16" fromText="Alcocer" toID="h35" toText="Alcocer" />
+<head_link id="he37" fromID="p17" fromText="U.S. District Court Judge Michael M. Anello" toID="h36" toText="Michael M. Anello" />
+<head_link id="he38" fromID="p18" fromText="U.S. District Court Judge" toID="h37" toText="Judge" />
+<head_link id="he39" fromID="o9" fromText="District Court" toID="h38" toText="Court" />
+<head_link id="he40" fromID="g9" fromText="District" toID="h39" toText="District" />
+<head_link id="he41" fromID="g10" fromText="U.S." toID="h40" toText="U.S." />
+<head_link id="he42" fromID="o11" fromText="the largest investigative arm of the Department of Homeland Security" toID="h41" toText="arm" />
+<head_link id="he43" fromID="o12" fromText="the Department of Homeland Security" toID="h42" toText="Department of Homeland Security" />
+<head_link id="he44" fromID="o13" fromText="HSI" toID="h43" toText="HSI" />
+<head_link id="he45" fromID="p19" fromText="the criminals and criminal organizations that undermine the integrity of our nation's legal immigration system" toID="h44" toText="criminals" />
+<head_link id="he46" fromID="o14" fromText="the criminals and criminal organizations that undermine the integrity of our nation's legal immigration system" toID="h45" toText="organizations" />
+<head_link id="he47" fromID="g11" fromText="our nation" toID="h46" toText="nation" />
+<head_link id="he48" fromID="g12" fromText="our" toID="h47" toText="our" />
+<head_link id="he19" fromID="p21" fromText="Mike Carney" toID="h48" toText="Mike Carney" />
+<head_link id="he49" fromID="p22" fromText="acting special agent in charge for HSI San Diego" toID="h49" toText="agent" />
+<head_link id="he50" fromID="o6" fromText="HSI San Diego" toID="h50" toText="HSI San Diego" />
+<head_link id="he51" fromID="p23" fromText="unscrupulous immigration consultants who exploit the system to enrich themselves" toID="h51" toText="consultants" />
+<head_link id="he52" fromID="p24" fromText="who" toID="h52" toText="who" />
+<head_link id="he53" fromID="p25" fromText="themselves" toID="h53" toText="themselves" />
+<head_link id="he54" fromID="g13" fromText="us" toID="h54" toText="us" />
+<head_link id="he55" fromID="g14" fromText="all" toID="h55" toText="all" />
+<head_link id="he56" fromID="o10" fromText="court" toID="h56" toText="court" />
+<head_link id="he57" fromID="p26" fromText="Garcia" toID="h57" toText="Garcia" />
+<head_link id="he58" fromID="o15" fromText="his consulting business, California Legal Services" toID="h58" toText="business" />
+<head_link id="he59" fromID="o16" fromText="California Legal Services" toID="h59" toText="California Legal Services" />
+<head_link id="he60" fromID="p27" fromText="his" toID="h60" toText="his" />
+<head_link id="he61" fromID="g15" fromText="Pico Rivera" toID="h61" toText="Pico Rivera" />
+<head_link id="he62" fromID="p28" fromText="Alcocer" toID="h62" toText="Alcocer" />
+<head_link id="he63" fromID="p29" fromText="him" toID="h63" toText="him" />
+<head_link id="he64" fromID="p30" fromText="they" toID="h64" toText="they" />
+<head_link id="he65" fromID="p31" fromText="undocumented aliens" toID="h65" toText="aliens" />
+<head_link id="he66" fromID="p32" fromText="them" toID="h66" toText="them" />
+<head_link id="he67" fromID="g16" fromText="the United States" toID="h67" toText="United States" />
+<head_link id="he68" fromID="p33" fromText="Garcia" toID="h68" toText="Garcia" />
+<head_link id="he69" fromID="p34" fromText="Alcocer" toID="h69" toText="Alcocer" />
+<head_link id="he70" fromID="p35" fromText="their victims" toID="h70" toText="victims" />
+<head_link id="he71" fromID="p36" fromText="their" toID="h71" toText="their" />
+<head_link id="he72" fromID="p37" fromText="they" toID="h72" toText="they" />
+<head_link id="he73" fromID="p38" fromText="their" toID="h73" toText="their" />
+<head_link id="he74" fromID="p39" fromText="The two" toID="h74" toText="two" />
+<head_link id="he75" fromID="p40" fromText="they" toID="h75" toText="they" />
+<head_link id="he76" fromID="p41" fromText="they" toID="h76" toText="they" />
+<head_link id="he77" fromID="g17" fromText="government" toID="h77" toText="government" />
+<head_link id="he78" fromID="p42" fromText="the victims" toID="h78" toText="victims" />
+<head_link id="he79" fromID="p43" fromText="their" toID="h79" toText="their" />
+<head_link id="he80" fromID="p44" fromText="Some of the victims" toID="h80" toText="Some" />
+<head_link id="he81" fromID="p45" fromText="the victims" toID="h81" toText="victims" />
+<head_link id="he82" fromID="o17" fromText="the U.S. Citizenship and Immigration Services" toID="h82" toText="U.S. Citizenship and Immigration Services" />
+<head_link id="he83" fromID="p46" fromText="their" toID="h83" toText="their" />
+<head_link id="he84" fromID="p47" fromText="immigration officers" toID="h84" toText="officers" />
+<head_link id="he85" fromID="p48" fromText="Garcia" toID="h85" toText="Garcia" />
+<head_link id="he86" fromID="p49" fromText="Alcocer" toID="h86" toText="Alcocer" />
+<head_link id="he87" fromID="p50" fromText="the victims" toID="h87" toText="victims" />
+<head_link id="he88" fromID="p51" fromText="investigators" toID="h88" toText="investigators" />
+<head_link id="he89" fromID="p52" fromText="in excess of 150 victims who paid California Legal Services more than $1.2 million for fraudulent services" toID="h89" toText="victims" />
+<head_link id="he90" fromID="p53" fromText="who" toID="h90" toText="who" />
+<head_link id="he91" fromID="o18" fromText="California Legal Services" toID="h91" toText="California Legal Services" />
+<head_link id="he92" fromID="p54" fromText="Additional victims" toID="h92" toText="victims" />
+<head_link id="he93" fromID="o19" fromText="HSI San Diego" toID="h93" toText="HSI San Diego" />
+<name_link id="na0" fromID="g0" fromText="San Diego" toID="n0" toText="San Diego" />
+<name_link id="na1" fromID="g1" fromText="SAN DIEGO" toID="n1" toText="SAN DIEGO" />
+<name_link id="na2" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n2" toText="Homeland Security Investigations" />
+<name_link id="na3" fromID="o2" fromText="HSI" toID="n3" toText="HSI" />
+<name_link id="na4" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n4" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na5" fromID="o4" fromText="ICE" toID="n5" toText="ICE" />
+<name_link id="na6" fromID="p5" fromText="Armando Garcia, 60, of Tijuana, Mexico" toID="n6" toText="Armando Garcia" />
+<name_link id="na7" fromID="g3" fromText="Tijuana, Mexico" toID="n7" toText="Tijuana" />
+<name_link id="na8" fromID="g4" fromText="Mexico" toID="n8" toText="Mexico" />
+<name_link id="na9" fromID="g5" fromText="Pico Rivera" toID="n9" toText="Pico Rivera" />
+<name_link id="na10" fromID="g6" fromText="National City" toID="n10" toText="National City" />
+<name_link id="na11" fromID="p8" fromText="Garcia" toID="n11" toText="Garcia" />
+<name_link id="na12" fromID="p14" fromText="Elizabeth Alcocer" toID="n12" toText="Elizabeth Alcocer" />
+<name_link id="na13" fromID="p15" fromText="Garcia" toID="n13" toText="Garcia" />
+<name_link id="na14" fromID="g7" fromText="Albuquerque, New Mexico" toID="n14" toText="Albuquerque" />
+<name_link id="na15" fromID="g8" fromText="New Mexico" toID="n15" toText="New Mexico" />
+<name_link id="na16" fromID="p16" fromText="Alcocer" toID="n16" toText="Alcocer" />
+<name_link id="na17" fromID="p17" fromText="U.S. District Court Judge Michael M. Anello" toID="n17" toText="Michael M. Anello" />
+<name_link id="na18" fromID="g10" fromText="U.S." toID="n18" toText="U.S." />
+<name_link id="na19" fromID="o12" fromText="the Department of Homeland Security" toID="n19" toText="Department of Homeland Security" />
+<name_link id="na20" fromID="o13" fromText="HSI" toID="n20" toText="HSI" />
+<name_link id="na21" fromID="p21" fromText="Mike Carney" toID="n21" toText="Mike Carney" />
+<name_link id="na22" fromID="o6" fromText="HSI San Diego" toID="n22" toText="HSI San Diego" />
+<name_link id="na23" fromID="p26" fromText="Garcia" toID="n23" toText="Garcia" />
+<name_link id="na24" fromID="o16" fromText="California Legal Services" toID="n24" toText="California Legal Services" />
+<name_link id="na25" fromID="g15" fromText="Pico Rivera" toID="n25" toText="Pico Rivera" />
+<name_link id="na26" fromID="p28" fromText="Alcocer" toID="n26" toText="Alcocer" />
+<name_link id="na27" fromID="g16" fromText="the United States" toID="n27" toText="United States" />
+<name_link id="na28" fromID="p33" fromText="Garcia" toID="n28" toText="Garcia" />
+<name_link id="na29" fromID="p34" fromText="Alcocer" toID="n29" toText="Alcocer" />
+<name_link id="na30" fromID="o17" fromText="the U.S. Citizenship and Immigration Services" toID="n30" toText="U.S. Citizenship and Immigration Services" />
+<name_link id="na31" fromID="p48" fromText="Garcia" toID="n31" toText="Garcia" />
+<name_link id="na32" fromID="p49" fromText="Alcocer" toID="n32" toText="Alcocer" />
+<name_link id="na33" fromID="o18" fromText="California Legal Services" toID="n33" toText="California Legal Services" />
+<name_link id="na34" fromID="o19" fromText="HSI San Diego" toID="n34" toText="HSI San Diego" />
+<relation_link1 id="r0" fromID="C0" fromText="San Diego-area immigration consultant" toID="p0" toText="San Diego-area immigration consultant" />
+<relation_link1 id="r1" fromID="C1" fromText="more than 150 clients from multiple states" toID="p4" toText="more than 150 clients from multiple states" />
+<relation_link1 id="r2" fromID="C2" fromText="Armando Garcia, 60, of Tijuana, Mexico" toID="p5" toText="Armando Garcia, 60, of Tijuana, Mexico" />
+<relation_link1 id="r3" fromID="C3" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="p12" toText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" />
+<relation_link1 id="r4" fromID="C4" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="p13" toText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" />
+<relation_link1 id="r5" fromID="e0" fromText="U.S. District Court Judge" toID="p18" toText="U.S. District Court Judge" />
+<relation_link1 id="r6" fromID="M0" fromText="U.S. District Court Judge" toID="p18" toText="U.S. District Court Judge" />
+<relation_link1 id="r7" fromID="M1" fromText="acting special agent in charge for HSI San Diego" toID="p22" toText="acting special agent in charge for HSI San Diego" />
+<relation_link1 id="r8" fromID="lo0" fromText="According to court documents, Garcia opened his consulting business, California Legal Services, in 2001 in Pico Rivera, hiring Alcocer to assist him" toID="p26" toText="Garcia" />
+<relation_link2 id="re0" fromID="C0" fromText="San Diego-area immigration consultant" toID="l0" toText="San Diego-area" />
+<relation_link2 id="re1" fromID="C1" fromText="more than 150 clients from multiple states" toID="g2" toText="multiple states" />
+<relation_link2 id="re2" fromID="C2" fromText="Armando Garcia, 60, of Tijuana, Mexico" toID="g3" toText="Tijuana, Mexico" />
+<relation_link2 id="re3" fromID="C3" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="g7" toText="Albuquerque, New Mexico" />
+<relation_link2 id="re4" fromID="C4" fromText="Garcia's co-defendant and business associate, Elizabeth Alcocer, 48, of Albuquerque, New Mexico" toID="g7" toText="Albuquerque, New Mexico" />
+<relation_link2 id="re5" fromID="e0" fromText="U.S. District Court Judge" toID="g10" toText="U.S." />
+<relation_link2 id="re6" fromID="M0" fromText="U.S. District Court Judge" toID="o9" toText="District Court" />
+<relation_link2 id="re7" fromID="M1" fromText="acting special agent in charge for HSI San Diego" toID="o6" toText="HSI San Diego" />
+<relation_link2 id="re8" fromID="lo0" fromText="According to court documents, Garcia opened his consulting business, California Legal Services, in 2001 in Pico Rivera, hiring Alcocer to assist him" toID="g15" toText="Pico Rivera" />
+</TAGS>
+</KddTask>

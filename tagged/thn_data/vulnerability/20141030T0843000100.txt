@@ -1,0 +1,31 @@
+Xiaomi Data Breach — "Exposing Xiaomi" Talk Pulled from Hacking Conference
+Wang Wei
+
+China’s number one — and the world’s 3rd largest — smartphone manufacturer, Xiaomi, which is trying to make inroads into India’s booming mobile phone market, was found secretly sending users’ personal data, including IMEI numbers, phone numbers and text messages to the web servers back to Beijing in China.
+INDIA AND TAIWAN vs XIAOMI
+This issue raised higher concerns across many countries, proactively in India, Singapore and Taiwan.
+The Indian Air Force (IAF) — among the largest in the world — warned its employees and their belongings that their private information was being shipped over to servers in China, and asked them to avoid using Xiaomi smartphones due to security risk.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Taiwanese Government underlined similar concerns before Xiaomi’s launch in India. Xiaomi is facing an investigation in Taiwan for alleged cyber security threat, as a result of which last month the Taiwanese government decided to ban the company due to several privacy controversies.
+When it comes to sales, Xiaomi’s Mi3 and RedMi 1S have lately been redefining the term ‘Flash Sales’ with a recorded sales of 90,000 units in just 12 seconds. So, you can imagine the total Xiaomi statistics of Xiaomi. 
+TAIWANESE RESEARCHER TO EXPOSE XIAOMI AT HACKER CONFERENCE
+Meanwhile, an independent Taiwanese Security Expert came up with another bad news for Chinese Xiaomi Mobile company, as he claimed to have found zero-day vulnerability in Xiaomi website that allowed him to obtain credentials of millions of Xiaomi accounts and logs from the servers.
+Taiwanese Researcher allegedly planned to reveal Xiaomi zero-day vulnerability and his investigative researcher at Asia’s biggest hackers conference, Ground Zero Summit (G0S) 2014 this November; with his session titled - "Privacy-Alert: Exposing China-based XIAOMI Mobiles".
+As shown in the above screenshot, paper abstract mentioned on the website says, "In this session Taiwanese Researcher will demonstrate how Xiaomi Phones have been sending device data and personal data of Xiaomi Phone user to Chinese Servers. The Researcher will also release Server Logs, Mi Account username, Emails and passwords of millions of Xiaomi users which have been obtained using a Zero Day flaw in the Xiaomi Servers."
+But after getting selected as a speaker for the conference, reportedly the talk has been pulled out from the conference within a day.
+In a mail, the ‘Ground Zero Summit’ organizer told The Hacker News that ‘Privacy-Alert: Exposing China-based XIAOMI Mobiles’ session has been withheld till the time Xiaomi investigates the data breach and accusations made by the researcher. According to the paper, the vulnerability could have been utilized by anyone to convey a data and privacy breach.
+DATA BREACH AT XIAOMI
+Xiaomi devices provide ‘Mi Account’ to its customers through which users gain access to their Mi Cloud, Mi Talk, MIUI Forum, Mi Market and other Xiaomi services. These online Xiaomi Mi Accounts store users’ personal information including mobile numbers, email addresses and account credentials.
+Xiaomi website zero-day vulnerability and Taiwanese Researcher’ session at G0S Conference also raises concern about the security of the data of millions of users linked to their Xiaomi's Mi Cloud account.
+The researcher contacted The Hacker News team and provided partial database of a few thousands of Xiaomi users, which confirmed that the millions of Xiaomi Mi accounts has already been compromised.
+Anyone with Xiaomi account credential can remotely locate, ring, lock and wipe up your phone data easily. Xiaomi mobile users are recommended to reset "Mi account" password immediately. 
+XIAOMI MOVING DATA CENTER TO INDIA 
+After facing several privacy controversies, Xiaomi said today that it plans to open a data center in India, away from its servers in Beijing due to performance and privacy considerations.
+Just yesterday, Some newly launched Sony Xperia phones were also found secretly sending users' data to Servers in China using Baidu Spyware.
+UPDATE
+Here is the email statement issued by Xiaomi on the report:
+We have verified that the zero-day data breach allegation made by security researcher Chen Huang and the Ground Zero Summit organizing committee is a hoax. The zero-day vulnerability reported by the cyber security researcher, Chen Huang, is a deliberate falsehood, and Xiaomi is taking the necessary legal action against the parties involved.
+To date, throughout Xiaomi's history, there has only been one incident in which a two-year-old user account file was leaked in May 2014. After conducting a comprehensive investigation, we concluded that file contained information from user accounts registered before August 2012 in an old version of the Xiaomi user forum website. That information became obsolete when, in September 2012, we launched the Xiaomi Account integrated system.
+In response to the incident in May 2014, we immediately requested users to change their passwords. We also announced the incident publicly via social media and to our user forums on May 14, 2014.
+Chen Huang has recently threatened to expose data from the old user account file during a session at the upcoming Ground Zero Summit 2014, falsely claiming it to be data compromised through an existing vulnerability. This is a grave accusation, as we take our users' privacy very seriously, and we will seek legal action against the involved parties.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

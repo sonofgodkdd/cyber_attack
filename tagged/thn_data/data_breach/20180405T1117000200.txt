@@ -1,0 +1,26 @@
+Facebook admits public data of its 2.2 billion users has been compromised
+Mohit Kumar
+
+Facebook dropped another bombshell on its users by admitting that all of its 2.2 billion users should assume malicious third-party scrapers have compromised their public profile information.
+On Wednesday, Facebook CEO Mark Zuckerberg revealed that "malicious actors" took advantage of "Search" tools on its platform to discover the identities and collect information on most of its 2 billion users worldwide.
+The revelation once again underlines the failure of the social-media giant to protect users’ privacy while generating billions of dollars in revenue from the same information.
+The revelation came weeks after the disclosure of the Cambridge Analytica scandal, wherein personal data of 77 million users was improperly gathered and misused by the political consultancy firm, who reportedly also helped Donald Trump win the US presidency in 2016.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the latest scam revealed by the social media giant about the abuse of Facebook's search tools over the course of several years impacts almost all of its 2.2 billion users, making it the worst year for the world's largest social network.
+"It is clear now that we didn't do enough, we didn't focus enough on preventing abuse," Zuckerberg told press reporters. "We didn't take a broad enough view of what our responsibility is, and that was a huge mistake."
+The company said it had disabled the feature—which allows anyone to look up users by entering phone numbers or email addresses into Facebook's search tool—in its site's search function that enabled malicious actors to scrape public profile information.
+Here's How Scrapped Data Could Have Helped Cybercriminals
+As mentioned above, the source of this scam was Facebook's search function, which was turned on by default. Hackers took help of "Dark Web," where criminals post personal information of users stolen from data breaches over the years, to collect. 
+Once they had their hands on email addresses and phone numbers, the hackers then used automated computer programs to feed the email addresses and phone numbers into Facebook’s "search" box.
+This scan allowed them to find out the full names of people associated with the email addresses or phone numbers, along with the Facebook profile information they chose to make public, which often includes names, profile photos, and hometown.
+This collected information was then more likely to be used by cybercriminals to target particular individual using social engineering or other cyber attacks.
+"Until today, people could enter another person’s phone number or email address into Facebook search to help find them. This has been especially useful for finding your friends in languages which take more effort to type out a full name, or where many people have the same name," Facebook Chief Technology Officer Mike Schroepfer said in a blog post describing changes the company has made to its service to protect its users’ data better.
+"However, malicious actors have also abused these features to scrape public profile information by submitting phone numbers or email addresses they already have through search and account recovery. Given the scale and sophistication of the activity we’ve seen, we believe most people on Facebook could have had their public profile scraped in this way."
+While apologizing "second time" to its users, Zuckerberg said this feature has immediately been turned off, noting that the scraped profile information was only limited to what was publically viewable.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Zuckerberg defended gathering users' data for a business model, arguing "People tell us that if they’re going to see ads, they want the ads to be good."
+"On the one hand, people want relevant experiences, and on the other hand there is some discomfort about how data is used," Zuck added. "I think the overwhelming feedback is for wanting a good experience."
+Also, it was initially reported that Cambridge Analytica quiz app gathered data on some 50 million Facebook users, but Facebook revised that number upward by 74 percent, i.e., over 77 million.
+In an effort to protect its users private data, Facebook is now restricting third-party apps from accessing users’ information about their relationship status, religious or political views, work history, education, habits, interest, video watching, and games—basically almost every information data brokers and businesses collect to build profiles of their customers' tastes.
+The company is all set to roll out a new feature on Monday that will inform users who were affected by the Cambridge Analytica data leak.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

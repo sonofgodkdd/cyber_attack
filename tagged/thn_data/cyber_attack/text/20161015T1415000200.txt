@@ -1,0 +1,18 @@
+FBI is Investigating Theft of $1.3 Million in Bitcoin from a Massachusetts Man
+Swati Khandelwal
+
+Over two months ago, the world's third largest Bitcoin Exchange Bitfinex lost around $72 Million worth of Bitcoins in a major hack.
+Shortly after the company encountered a $72,000,000 Bitcoin theft, an unnamed Bitfinex user from Cambridge, Massachusetts, filed a police report in September, alleging that $1.3 Million of funds were stolen from his account.
+Since then the Cambridge police have handed the case over to the FBI, which is working with the Bitcoin exchange as well as European authorities to recover funds stolen from the Bitfinex user, Coindesk reports.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The individual claimed that he held $3.4 Million in Bitcoin in his personal wallet hosted by the Bitfinex Bitcoin exchange. But following the August’s Bitfinex breach, he was left with $2.1 Million in his account.
+Bitfinex then notified the individual of his initial loss of approximately $1.3 Million in Bitcoin, but after the company issued IOU tokens as an emergency measure to keep the exchange operating, the loss incurred was reduced to just $720,000.
+The IOUs or BFX tokens are a form of compensation provided to the victims to reduce their losses by a significant factor.
+Although specific details remain still unclear, the Bitfinex user confirmed lose of funds beyond Bitfinex IOU tokens issued to all the victims of the breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The usability of the token is still unclear. Neither the explanation of tokens provided by Bitfinex is much clear, nor the legal status of the tokens is known.
+"The BFX tokens will remain outstanding until repaid in full by Bitfinex or exchanged for shares of iFinex Inc," explains the company. "The specific conditions associated with the exchange of these tokens will be explained in a later announcement."
+For the incident report filed by the Bitfinex user, you can head on to this link. No further details about the case are available at this moment.
+Shortly after the breach of around $72 Million worth of its customers' Bitcoins, Hong Kong-based Bitcoin exchange announced a reward of $3.5 Million to anyone who can provide information that leads to the recovery of the stolen Bitcoins.
+The incident was so big that the price of Bitcoin was dropped almost 20%, from $602.78 to $541 per Bitcoin, within a day after the announcement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

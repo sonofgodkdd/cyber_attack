@@ -1,0 +1,32 @@
+New 4G LTE Network Attacks Let Hackers Spy, Track, Spoof and Spam
+Swati Khandelwal
+
+Security researchers have discovered a set of severe vulnerabilities in 4G LTE protocol that could be exploited to spy on user phone calls and text messages, send fake emergency alerts, spoof location of the device and even knock devices entirely offline.
+A new research paper [PDF] recently published by researchers at Purdue University and the University of Iowa details 10 new cyber attacks against the 4G LTE wireless data communications technology for mobile devices and data terminals.
+The attacks exploit design weaknesses in three key protocol procedures of the 4G LTE network known as attach, detach, and paging.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Unlike many previous research, these aren't just theoretical attacks. The researchers employed a systematic model-based adversarial testing approach, which they called LTEInspector, and were able to test 8 of the 10 attacks in a real testbed using SIM cards from four large US carriers.
+Authentication Synchronization Failure Attack
+Traceability Attack
+Numb Attack
+Authentication Relay Attack
+Detach/Downgrade Attack
+Paging Channel Hijacking Attack
+Stealthy Kicking-off Attack
+Panic Attack
+Energy Depletion Attack
+Linkability Attack
+Among the above-listed attacks, researchers consider an authentication relay attack is particularly worrying, as it lets an attacker connect to a 4G LTE network by impersonating a victim's phone number without any legitimate credentials.
+This attack could not only allow a hacker to compromise the cellular network to read incoming and outgoing messages of the victims but also frame someone else for the crime.
+"Through this attack the adversary can poison the location of the victim device in the core networks, thus allowing setting up a false alibi or planting fake evidence during a criminal investigation," the report said.
+Other notable attacks reported by the researchers could allow attackers to obtain victim’s coarse-grained location information (linkability attack) and launch denial of service (DoS) attack against the device and take it offline (detach attack).
+"Using LTEInspector, we obtained the intuition of an attack which enables an adversary to possibly hijack a cellular device’s paging channel with which it can not only stop notifications (e.g., call, SMS) to reach the device but also can inject fabricated messages resulting in multiple implications including energy depletion and activity profiling," the paper reads.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Using panic attack, attackers can create artificial chaos by broadcasting fake emergency messages about life-threatening attacks or riots to a large number of users in an area.
+What's interesting about these attacks is that many of these can be carried out for $1,300 to $3,900 using relatively low-cost USRP devices available in the market.
+Researchers have no plans to release the proof-of-concept code for these attacks until the flaws are fixed. 
+Although there are some possible defenses against these observed attacks, the researchers refrained from discussing one.
+The paper reads: "retrospectively adding security into an existing protocol without breaking backward compatibility often yields band-aid-like-solutions which do not hold up under extreme scrutiny."
+"It is also not clear, especially, for the authentication relay attack whether a defense exists that does not require major infrastructural or protocol overhaul," it adds. "A possibility is to employ a distance-bounding protocol; realization of such protocol is, however, rare in practice."
+The vulnerabilities are most worrying that once again raise concerns about the security of the cell standards in the real world, potentially having an industry-wide impact.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

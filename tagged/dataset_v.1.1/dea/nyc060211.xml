@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+NEW YORK NEWS
+June 02, 2011
+Contact: Erin McKenzie-Mulvey
+New York Division
+212-337-2906
+FARC Associate Sentenced in Manhattan Federal
+Court to 15 Years in Prison for Providing Material
+Support to a Foreign Terrorist Organization
+NEW YORK, NY.  - Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration John P. Gilbride and United States Attorney PREET BHARARA for the Southern District of New York, announced that JUANITO CORDOBA-BERMUDEZ, an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ("FARC"), a U.S. designated foreign terrorist organization, was sentenced yesterday in Manhattan federal court to 15 years in prison for conspiring to provide material support to the FARC. CORDOBA-BERMUDEZ, 44, previously pled guilty to this charge on August 10, 2010. United States Circuit Court Judge DENNY CHIN imposed today's sentence.
+Manhattan U.S. Attorney PREET BHARARA stated: "Juanito Cordoba-Bermudez and his compatriots were committed to providing the FARC with the resources they needed to maintain their terrorist activity. His sentencing today is an important reminder of the lethal danger posed by the FARC and the importance of our law enforcement partnerships both domestically and internationally."
+According to documents previously filed in Manhattan federal court:
+The FARC was formed in 1964 and is structured as a military organization, with approximately 10,000 armed guerillas organized into seven "blocs," 68 numbered "Fronts" (including the 57 Front), nine named "Fronts," and four urban "militias." The group is dedicated to the violent overthrow of Colombia's democratically-elected government and has been designated as a foreign terrorist organization by the United States Department of State. The 57 Front operates in the territory within Colombia's Choco Department, which borders Panama. It supports the FARC's terrorist activities through narcotics trafficking and kidnapping for ransom, including the kidnapping of Americans and other foreign nationals.
+The Indictment recounts multiple discussions among various co-defendants, including CORDOBA-BERMUDEZ, regarding FARC logistics, supplies and weapons, as well as the seizures by authorities of a variety of weapons and material in 2008.
+In addition to his prison term, Judge CHIN sentenced CORDOBA-BERMUDEZ to three years of supervised release.
+Mr. BHARARA praised the investigative work of the Drug Enforcement Administration's (DEA) New York Organized Crime Drug Enforcement Strike Force, the Narco-Terrorism Group of the DEA's Bogota Country Office, the DEA's Panama City Country Office, the FBI's Extraterritorial Hostage Taking Squad in Miami, and the Department of Justice's Office of International Affairs. Mr. BHARARA also thanked the Colombian Navy, the Colombian National Police, the Colombia Attorney General's Office, and the Panamanian National Police for their assistance in the investigation.
+The prosecution is being handled by the Office's Terrorism and International Narcotics Unit. Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO are in charge of the prosecution.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="38" end="58" text="Erin McKenzie-Mulvey" TYPE="NAM" />
+<person id="p1" start="90" end="230" text="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" TYPE="BAR" />
+<person id="p2" start="248" end="365" text="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration John P. Gilbride" TYPE="NAM" />
+<person id="p3" start="248" end="348" text="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" TYPE="NOMPRE" />
+<person id="p4" start="370" end="444" text="United States Attorney PREET BHARARA for the Southern District of New York" TYPE="NAM" />
+<person id="p5" start="370" end="392" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p6" start="461" end="625" text="JUANITO CORDOBA-BERMUDEZ, an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" TYPE="APP" />
+<person id="p7" start="461" end="485" text="JUANITO CORDOBA-BERMUDEZ" TYPE="NAM" />
+<person id="p8" start="487" end="625" text="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" TYPE="NOM" />
+<person id="p9" start="756" end="776" text="CORDOBA-BERMUDEZ, 44" TYPE="NAM" />
+<person id="p10" start="836" end="880" text="United States Circuit Court Judge DENNY CHIN" TYPE="NAM" />
+<person id="p11" start="836" end="869" text="United States Circuit Court Judge" TYPE="NOMPRE" />
+<person id="p12" start="907" end="944" text="Manhattan U.S. Attorney PREET BHARARA" TYPE="NAM" />
+<person id="p13" start="907" end="930" text="Manhattan U.S. Attorney" TYPE="NOMPRE" />
+<person id="p14" start="954" end="978" text="Juanito Cordoba-Bermudez" TYPE="NAM" />
+<person id="p15" start="983" end="998" text="his compatriots" TYPE="BAR" />
+<person id="p16" start="983" end="986" text="his" TYPE="PRO" />
+<person id="p17" start="1085" end="1094" text="terrorist" TYPE="NOMPRE" />
+<person id="p18" start="1105" end="1108" text="His" TYPE="PRO" />
+<person id="p19" start="1446" end="1591" text="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="NOM" />
+<person id="p20" start="1727" end="1736" text="terrorist" TYPE="NOMPRE" />
+<person id="p21" start="208" end="217" text="Terrorist" TYPE="NOMPRE" />
+<person id="p22" start="603" end="612" text="terrorist" TYPE="NOMPRE" />
+<person id="p23" start="1912" end="1921" text="terrorist" TYPE="NOMPRE" />
+<person id="p25" start="2032" end="2055" text="other foreign nationals" TYPE="NOM" />
+<person id="p26" start="2108" end="2157" text="various co-defendants, including CORDOBA-BERMUDEZ" TYPE="BAR" />
+<person id="p27" start="2141" end="2157" text="CORDOBA-BERMUDEZ" TYPE="NAM" />
+<person id="p28" start="2234" end="2245" text="authorities" TYPE="BAR" />
+<person id="p29" start="2307" end="2310" text="his" TYPE="PRO" />
+<person id="p30" start="2324" end="2334" text="Judge CHIN" TYPE="NAM" />
+<person id="p31" start="2324" end="2329" text="Judge" TYPE="NOMPRE" />
+<person id="p32" start="2345" end="2361" text="CORDOBA-BERMUDEZ" TYPE="NAM" />
+<person id="p33" start="2400" end="2411" text="Mr. BHARARA" TYPE="NAM" />
+<person id="p34" start="2400" end="2403" text="Mr." TYPE="NOMPRE" />
+<person id="p24" start="2769" end="2780" text="Mr. BHARARA" TYPE="NAM" />
+<person id="p35" start="2769" end="2772" text="Mr." TYPE="NOMPRE" />
+<person id="p36" start="2845" end="2874" text="the Colombia Attorney General" TYPE="NOM" />
+<person id="p37" start="2858" end="2866" text="Attorney" TYPE="NOMPRE" />
+<person id="p38" start="3056" end="3132" text="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" TYPE="NAM" />
+<person id="p39" start="3056" end="3132" text="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" TYPE="NAM" />
+<person id="p40" start="3056" end="3089" text="Assistant United States Attorneys" TYPE="NOMPRE" />
+<organization id="o0" start="59" end="76" text="New York Division" TYPE="NAM" />
+<organization id="o1" start="90" end="94" text="FARC" TYPE="NAMPRE" />
+<organization id="o2" start="118" end="141" text="Manhattan Federal Court" TYPE="BAR" />
+<organization id="o3" start="198" end="230" text="a Foreign Terrorist Organization" TYPE="NOM" />
+<organization id="o4" start="275" end="348" text="the New York Field Division United States Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o5" start="411" end="444" text="the Southern District of New York" TYPE="NAM" />
+<organization id="o6" start="503" end="625" text="the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" TYPE="NAM" />
+<organization id="o7" start="519" end="625" text="the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" TYPE="APP" />
+<organization id="o8" start="519" end="573" text="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" TYPE="NAM" />
+<organization id="o9" start="569" end="573" text="FARC" TYPE="NAM" />
+<organization id="o10" start="577" end="625" text="a U.S. designated foreign terrorist organization" TYPE="NOM" />
+<organization id="o11" start="654" end="677" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o13" start="746" end="754" text="the FARC" TYPE="NAM" />
+<organization id="o14" start="858" end="863" text="Court" TYPE="NOMPRE" />
+<organization id="o12" start="1027" end="1035" text="the FARC" TYPE="NAM" />
+<organization id="o15" start="1055" end="1059" text="they" TYPE="PRO" />
+<organization id="o16" start="1079" end="1084" text="their" TYPE="PRO" />
+<organization id="o17" start="1181" end="1189" text="the FARC" TYPE="NAM" />
+<organization id="o18" start="1328" end="1351" text="Manhattan federal court" TYPE="BAR" />
+<organization id="o19" start="1353" end="1361" text="The FARC" TYPE="NAM" />
+<organization id="o20" start="1402" end="1591" text="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="NOM" />
+<organization id="o21" start="1484" end="1496" text="seven 'blocs" TYPE="NOM" />
+<organization id="o23" start="1499" end="1543" text="68 numbered 'Fronts' (including the 57 Front" TYPE="NOM" />
+<organization id="o24" start="1546" end="1564" text="nine named 'Fronts" TYPE="NOM" />
+<organization id="o25" start="1571" end="1591" text="four urban 'militias" TYPE="NOM" />
+<organization id="o26" start="1531" end="1543" text="the 57 Front" TYPE="NAM" />
+<organization id="o27" start="1594" end="1603" text="The group" TYPE="NOM" />
+<organization id="o28" start="1645" end="1689" text="Colombia's democratically-elected government" TYPE="NOM" />
+<organization id="o29" start="1717" end="1749" text="a foreign terrorist organization" TYPE="NOM" />
+<organization id="o30" start="1753" end="1790" text="the United States Department of State" TYPE="NAM" />
+<organization id="o31" start="1792" end="1804" text="The 57 Front" TYPE="NAM" />
+<organization id="o32" start="1838" end="1865" text="Colombia's Choco Department" TYPE="NAM" />
+<organization id="o33" start="1889" end="1891" text="It" TYPE="PRO" />
+<organization id="o34" start="1901" end="1909" text="the FARC" TYPE="NAM" />
+<organization id="o35" start="2169" end="2173" text="FARC" TYPE="NAMPRE" />
+<organization id="o36" start="2446" end="2544" text="the Drug Enforcement Administration's (DEA) New York Organized Crime Drug Enforcement Strike Force" TYPE="NAM" />
+<organization id="o37" start="2446" end="2488" text="the Drug Enforcement Administration's (DEA" TYPE="NAM" />
+<organization id="o38" start="2485" end="2488" text="DEA" TYPE="NAM" />
+<organization id="o22" start="2546" end="2606" text="the Narco-Terrorism Group of the DEA's Bogota Country Office" TYPE="NAM" />
+<organization id="o39" start="2575" end="2606" text="the DEA's Bogota Country Office" TYPE="NAM" />
+<organization id="o40" start="2575" end="2582" text="the DEA" TYPE="NAM" />
+<organization id="o41" start="2608" end="2644" text="the DEA's Panama City Country Office" TYPE="NAM" />
+<organization id="o42" start="2608" end="2615" text="the DEA" TYPE="NAM" />
+<organization id="o43" start="2646" end="2702" text="the FBI's Extraterritorial Hostage Taking Squad in Miami" TYPE="NAM" />
+<organization id="o44" start="2646" end="2653" text="the FBI" TYPE="NAM" />
+<organization id="o45" start="2708" end="2767" text="the Department of Justice's Office of International Affairs" TYPE="NAM" />
+<organization id="o46" start="2708" end="2733" text="the Department of Justice" TYPE="NAM" />
+<organization id="o47" start="2794" end="2812" text="the Colombian Navy" TYPE="NAM" />
+<organization id="o48" start="2814" end="2843" text="the Colombian National Police" TYPE="NAM" />
+<organization id="o49" start="2845" end="2883" text="the Colombia Attorney General's Office" TYPE="NOM" />
+<organization id="o50" start="2889" end="2919" text="the Panamanian National Police" TYPE="NAM" />
+<organization id="o51" start="2924" end="2929" text="their" TYPE="PRO" />
+<organization id="o52" start="2999" end="3054" text="the Office's Terrorism and International Narcotics Unit" TYPE="NAM" />
+<organization id="o53" start="2999" end="3009" text="the Office" TYPE="NOM" />
+<geographical-political id="g0" start="118" end="127" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g1" start="231" end="244" text="NEW YORK, NY." TYPE="NAM" />
+<geographical-political id="g2" start="241" end="244" text="NY." TYPE="NAM" />
+<geographical-political id="g3" start="370" end="383" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g4" start="579" end="583" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g5" start="654" end="663" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g6" start="836" end="849" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g7" start="917" end="921" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g8" start="907" end="916" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g9" start="1212" end="1215" text="our" TYPE="PRO" />
+<geographical-political id="g10" start="1328" end="1337" text="Manhattan" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1645" end="1653" text="Colombia" TYPE="NAM" />
+<geographical-political id="g12" start="1838" end="1846" text="Colombia" TYPE="NAM" />
+<geographical-political id="g13" start="1881" end="1887" text="Panama" TYPE="NAM" />
+<geographical-political id="g14" start="2018" end="2027" text="Americans" TYPE="NAM" />
+<geographical-political id="g15" start="2697" end="2702" text="Miami" TYPE="NAM" />
+<geographical-political id="g16" start="2849" end="2857" text="Colombia" TYPE="NAMPRE" />
+<geographical-political id="g17" start="3066" end="3079" text="United States" TYPE="NAMPRE" />
+<location id="l0" start="1817" end="1887" text="the territory within Colombia's Choco Department, which borders Panama" TYPE="NOM" />
+<location id="l1" start="1867" end="1872" text="which" TYPE="WHQ" />
+<falicity id="f0" start="157" end="163" text="Prison" TYPE="BAR" />
+<falicity id="f1" start="693" end="699" text="prison" TYPE="BAR" />
+<falicity id="f2" start="2311" end="2317" text="prison" TYPE="NOMPRE" />
+<head id="h0" start="38" end="58" text="Erin McKenzie-Mulvey" />
+<head id="h1" start="59" end="76" text="New York Division" />
+<head id="h2" start="95" end="104" text="Associate" />
+<head id="h3" start="90" end="94" text="FARC" />
+<head id="h4" start="136" end="141" text="Court" />
+<head id="h5" start="157" end="163" text="Prison" />
+<head id="h6" start="118" end="127" text="Manhattan" />
+<head id="h7" start="218" end="230" text="Organization" />
+<head id="h8" start="231" end="239" text="NEW YORK" />
+<head id="h9" start="241" end="244" text="NY." />
+<head id="h10" start="349" end="365" text="John P. Gilbride" />
+<head id="h11" start="256" end="261" text="Agent" />
+<head id="h12" start="279" end="348" text="New York Field Division United States Drug Enforcement Administration" />
+<head id="h13" start="393" end="406" text="PREET BHARARA" />
+<head id="h14" start="384" end="392" text="Attorney" />
+<head id="h15" start="370" end="383" text="United States" />
+<head id="h16" start="415" end="444" text="Southern District of New York" />
+<head id="h17" start="461" end="485" text="JUANITO CORDOBA-BERMUDEZ" />
+<head id="h18" start="490" end="499" text="associate" />
+<head id="h19" start="507" end="515" text="57 Front" />
+<head id="h20" start="523" end="566" text="Fuerzas Armadas Revolucionarias de Colombia" />
+<head id="h21" start="569" end="573" text="FARC" />
+<head id="h22" start="613" end="625" text="organization" />
+<head id="h23" start="579" end="583" text="U.S." />
+<head id="h24" start="672" end="677" text="court" />
+<head id="h25" start="654" end="663" text="Manhattan" />
+<head id="h26" start="693" end="699" text="prison" />
+<head id="h27" start="750" end="754" text="FARC" />
+<head id="h28" start="756" end="772" text="CORDOBA-BERMUDEZ" />
+<head id="h29" start="870" end="880" text="DENNY CHIN" />
+<head id="h30" start="864" end="869" text="Judge" />
+<head id="h31" start="836" end="849" text="United States" />
+<head id="h32" start="858" end="863" text="Court" />
+<head id="h33" start="931" end="944" text="PREET BHARARA" />
+<head id="h34" start="922" end="930" text="Attorney" />
+<head id="h35" start="917" end="921" text="U.S." />
+<head id="h36" start="907" end="916" text="Manhattan" />
+<head id="h37" start="954" end="978" text="Juanito Cordoba-Bermudez" />
+<head id="h38" start="987" end="998" text="compatriots" />
+<head id="h39" start="983" end="986" text="his" />
+<head id="h40" start="1031" end="1035" text="FARC" />
+<head id="h41" start="1055" end="1059" text="they" />
+<head id="h42" start="1079" end="1084" text="their" />
+<head id="h43" start="1085" end="1094" text="terrorist" />
+<head id="h44" start="1105" end="1108" text="His" />
+<head id="h45" start="1185" end="1189" text="FARC" />
+<head id="h46" start="1212" end="1215" text="our" />
+<head id="h47" start="1346" end="1351" text="court" />
+<head id="h48" start="1328" end="1337" text="Manhattan" />
+<head id="h49" start="1357" end="1361" text="FARC" />
+<head id="h50" start="1413" end="1425" text="organization" />
+<head id="h51" start="1459" end="1468" text="guerillas" />
+<head id="h52" start="1491" end="1496" text="blocs" />
+<head id="h53" start="1512" end="1518" text="Fronts" />
+<head id="h54" start="1558" end="1564" text="Fronts" />
+<head id="h55" start="1583" end="1591" text="militias" />
+<head id="h56" start="1535" end="1543" text="57 Front" />
+<head id="h57" start="1598" end="1603" text="group" />
+<head id="h58" start="1679" end="1689" text="government" />
+<head id="h59" start="1645" end="1653" text="Colombia" />
+<head id="h60" start="1737" end="1749" text="organization" />
+<head id="h61" start="1727" end="1736" text="terrorist" />
+<head id="h62" start="208" end="217" text="Terrorist" />
+<head id="h63" start="603" end="612" text="terrorist" />
+<head id="h64" start="1757" end="1790" text="United States Department of State" />
+<head id="h65" start="1796" end="1804" text="57 Front" />
+<head id="h66" start="1821" end="1830" text="territory" />
+<head id="h67" start="1867" end="1872" text="which" />
+<head id="h68" start="1849" end="1865" text="Choco Department" />
+<head id="h69" start="1838" end="1846" text="Colombia" />
+<head id="h70" start="1881" end="1887" text="Panama" />
+<head id="h71" start="1889" end="1891" text="It" />
+<head id="h72" start="1905" end="1909" text="FARC" />
+<head id="h73" start="1912" end="1921" text="terrorist" />
+<head id="h74" start="2018" end="2027" text="Americans" />
+<head id="h75" start="2046" end="2055" text="nationals" />
+<head id="h76" start="2116" end="2129" text="co-defendants" />
+<head id="h77" start="2141" end="2157" text="CORDOBA-BERMUDEZ" />
+<head id="h78" start="2169" end="2173" text="FARC" />
+<head id="h79" start="2234" end="2245" text="authorities" />
+<head id="h80" start="2307" end="2310" text="his" />
+<head id="h81" start="2311" end="2317" text="prison" />
+<head id="h82" start="2330" end="2334" text="CHIN" />
+<head id="h83" start="2324" end="2329" text="Judge" />
+<head id="h84" start="2345" end="2361" text="CORDOBA-BERMUDEZ" />
+<head id="h85" start="2404" end="2411" text="BHARARA" />
+<head id="h86" start="2400" end="2403" text="Mr." />
+<head id="h87" start="2490" end="2544" text="New York Organized Crime Drug Enforcement Strike Force" />
+<head id="h88" start="2450" end="2481" text="Drug Enforcement Administration" />
+<head id="h89" start="2485" end="2488" text="DEA" />
+<head id="h90" start="2550" end="2571" text="Narco-Terrorism Group" />
+<head id="h91" start="2585" end="2606" text="Bogota Country Office" />
+<head id="h92" start="2579" end="2582" text="DEA" />
+<head id="h93" start="2618" end="2644" text="Panama City Country Office" />
+<head id="h94" start="2612" end="2615" text="DEA" />
+<head id="h95" start="2656" end="2693" text="Extraterritorial Hostage Taking Squad" />
+<head id="h96" start="2650" end="2653" text="FBI" />
+<head id="h97" start="2697" end="2702" text="Miami" />
+<head id="h98" start="2736" end="2767" text="Office of International Affairs" />
+<head id="h99" start="2712" end="2733" text="Department of Justice" />
+<head id="h100" start="2773" end="2780" text="BHARARA" />
+<head id="h101" start="2769" end="2772" text="Mr." />
+<head id="h102" start="2798" end="2812" text="Colombian Navy" />
+<head id="h103" start="2818" end="2843" text="Colombian National Police" />
+<head id="h104" start="2877" end="2883" text="Office" />
+<head id="h105" start="2867" end="2874" text="General" />
+<head id="h106" start="2849" end="2857" text="Colombia" />
+<head id="h107" start="2858" end="2866" text="Attorney" />
+<head id="h108" start="2893" end="2919" text="Panamanian National Police" />
+<head id="h109" start="2924" end="2929" text="their" />
+<head id="h110" start="3012" end="3054" text="Terrorism and International Narcotics Unit" />
+<head id="h111" start="3003" end="3009" text="Office" />
+<head id="h112" start="3090" end="3106" text="JEFFREY A. BROWN" />
+<head id="h113" start="3111" end="3132" text="REBECCA M. RICIGLIANO" />
+<head id="h114" start="3080" end="3089" text="Attorneys" />
+<head id="h115" start="3066" end="3079" text="United States" />
+<name id="n0" start="38" end="58" text="Erin McKenzie-Mulvey" />
+<name id="n1" start="59" end="76" text="New York Division" />
+<name id="n2" start="90" end="94" text="FARC" />
+<name id="n3" start="118" end="127" text="Manhattan" />
+<name id="n4" start="231" end="239" text="NEW YORK" />
+<name id="n5" start="241" end="244" text="NY." />
+<name id="n6" start="349" end="365" text="John P. Gilbride" />
+<name id="n7" start="279" end="348" text="New York Field Division United States Drug Enforcement Administration" />
+<name id="n8" start="393" end="406" text="PREET BHARARA" />
+<name id="n9" start="370" end="383" text="United States" />
+<name id="n10" start="415" end="444" text="Southern District of New York" />
+<name id="n11" start="461" end="485" text="JUANITO CORDOBA-BERMUDEZ" />
+<name id="n12" start="507" end="515" text="57 Front" />
+<name id="n13" start="523" end="566" text="Fuerzas Armadas Revolucionarias de Colombia" />
+<name id="n14" start="569" end="573" text="FARC" />
+<name id="n15" start="579" end="583" text="U.S." />
+<name id="n16" start="654" end="663" text="Manhattan" />
+<name id="n17" start="750" end="754" text="FARC" />
+<name id="n18" start="756" end="772" text="CORDOBA-BERMUDEZ" />
+<name id="n19" start="870" end="880" text="DENNY CHIN" />
+<name id="n20" start="836" end="849" text="United States" />
+<name id="n21" start="931" end="944" text="PREET BHARARA" />
+<name id="n22" start="917" end="921" text="U.S." />
+<name id="n23" start="907" end="916" text="Manhattan" />
+<name id="n24" start="954" end="978" text="Juanito Cordoba-Bermudez" />
+<name id="n25" start="1031" end="1035" text="FARC" />
+<name id="n26" start="1185" end="1189" text="FARC" />
+<name id="n27" start="1328" end="1337" text="Manhattan" />
+<name id="n28" start="1357" end="1361" text="FARC" />
+<name id="n29" start="1535" end="1543" text="57 Front" />
+<name id="n30" start="1645" end="1653" text="Colombia" />
+<name id="n31" start="1757" end="1790" text="United States Department of State" />
+<name id="n32" start="1796" end="1804" text="57 Front" />
+<name id="n33" start="1849" end="1865" text="Choco Department" />
+<name id="n34" start="1838" end="1846" text="Colombia" />
+<name id="n35" start="1881" end="1887" text="Panama" />
+<name id="n36" start="1905" end="1909" text="FARC" />
+<name id="n37" start="2018" end="2027" text="Americans" />
+<name id="n38" start="2141" end="2157" text="CORDOBA-BERMUDEZ" />
+<name id="n39" start="2169" end="2173" text="FARC" />
+<name id="n40" start="2330" end="2334" text="CHIN" />
+<name id="n41" start="2345" end="2361" text="CORDOBA-BERMUDEZ" />
+<name id="n42" start="2404" end="2411" text="BHARARA" />
+<name id="n43" start="2490" end="2544" text="New York Organized Crime Drug Enforcement Strike Force" />
+<name id="n44" start="2450" end="2481" text="Drug Enforcement Administration" />
+<name id="n45" start="2485" end="2488" text="DEA" />
+<name id="n46" start="2550" end="2571" text="Narco-Terrorism Group" />
+<name id="n47" start="2585" end="2606" text="Bogota Country Office" />
+<name id="n48" start="2579" end="2582" text="DEA" />
+<name id="n49" start="2618" end="2644" text="Panama City Country Office" />
+<name id="n50" start="2612" end="2615" text="DEA" />
+<name id="n51" start="2656" end="2693" text="Extraterritorial Hostage Taking Squad" />
+<name id="n52" start="2650" end="2653" text="FBI" />
+<name id="n53" start="2697" end="2702" text="Miami" />
+<name id="n54" start="2736" end="2767" text="Office of International Affairs" />
+<name id="n55" start="2712" end="2733" text="Department of Justice" />
+<name id="n56" start="2773" end="2780" text="BHARARA" />
+<name id="n57" start="2798" end="2812" text="Colombian Navy" />
+<name id="n58" start="2818" end="2843" text="Colombian National Police" />
+<name id="n59" start="2849" end="2857" text="Colombia" />
+<name id="n60" start="2893" end="2919" text="Panamanian National Police" />
+<name id="n61" start="3012" end="3054" text="Terrorism and International Narcotics Unit" />
+<name id="n62" start="3090" end="3106" text="JEFFREY A. BROWN" />
+<name id="n63" start="3111" end="3132" text="REBECCA M. RICIGLIANO" />
+<name id="n64" start="3066" end="3079" text="United States" />
+<located-mention id="lo0" start="907" end="930" text="Manhattan U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="370" end="392" text="United States Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="836" end="869" text="United States Circuit Court Judge" TYPE="PreMod" />
+<employment-mention id="e0" start="907" end="930" text="Manhattan U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e3" start="2845" end="2874" text="the Colombia Attorney General" TYPE="PreMod" />
+<employment-mention id="e4" start="3056" end="3089" text="Assistant United States Attorneys" TYPE="PreMod" />
+<M id="M0" start="90" end="230" text="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" TYPE="PreMod" />
+<M id="M1" start="248" end="348" text="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" TYPE="Preposition" />
+<M id="M2" start="370" end="444" text="United States Attorney PREET BHARARA for the Southern District of New York" TYPE="Preposition" />
+<M id="M3" start="487" end="625" text="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" TYPE="Preposition" />
+<M id="M4" start="836" end="869" text="United States Circuit Court Judge" TYPE="PreMod" />
+<M id="M5" start="1079" end="1103" text="their terrorist activity" TYPE="PreMod" />
+<M id="M6" start="1402" end="1591" text="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="Preposition" />
+<M id="M7" start="1446" end="1591" text="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="Participial" />
+<M id="M8" start="1446" end="1591" text="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="Participial" />
+<M id="M9" start="1446" end="1591" text="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="Participial" />
+<M id="M10" start="1446" end="1591" text="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" TYPE="Participial" />
+<M id="M11" start="198" end="230" text="a Foreign Terrorist Organization" TYPE="PreMod" />
+<M id="M12" start="577" end="625" text="a U.S. designated foreign terrorist organization" TYPE="PreMod" />
+<M id="M13" start="1717" end="1749" text="a foreign terrorist organization" TYPE="PreMod" />
+<M id="M14" start="1901" end="1932" text="the FARC's terrorist activities" TYPE="Possessive" />
+<entity_link id="en0" fromID="p3" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" toID="p2" toText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration John P. Gilbride" />
+<entity_link id="en1" fromID="p5" fromText="United States Attorney" toID="p4" toText="United States Attorney PREET BHARARA for the Southern District of New York" />
+<entity_link id="en2" fromID="p7" fromText="JUANITO CORDOBA-BERMUDEZ" toID="p6" toText="JUANITO CORDOBA-BERMUDEZ, an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<entity_link id="en3" fromID="p8" fromText="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="p7" toText="JUANITO CORDOBA-BERMUDEZ" />
+<entity_link id="en4" fromID="o8" fromText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" toID="o7" toText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<entity_link id="en5" fromID="o9" fromText="FARC" toID="o8" toText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" />
+<entity_link id="en6" fromID="o10" fromText="a U.S. designated foreign terrorist organization" toID="o8" toText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" />
+<entity_link id="en7" fromID="g4" fromText="U.S." toID="g3" toText="United States" />
+<entity_link id="en8" fromID="o11" fromText="Manhattan federal court" toID="o2" toText="Manhattan Federal Court" />
+<entity_link id="en9" fromID="g5" fromText="Manhattan" toID="g0" toText="Manhattan" />
+<entity_link id="en10" fromID="f1" fromText="prison" toID="f0" toText="Prison" />
+<entity_link id="en12" fromID="o7" fromText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="o1" toText="FARC" />
+<entity_link id="en13" fromID="p7" fromText="JUANITO CORDOBA-BERMUDEZ" toID="p1" toText="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" />
+<entity_link id="en14" fromID="o13" fromText="the FARC" toID="o7" toText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<entity_link id="en15" fromID="p9" fromText="CORDOBA-BERMUDEZ, 44" toID="p7" toText="JUANITO CORDOBA-BERMUDEZ" />
+<entity_link id="en16" fromID="g6" fromText="United States" toID="g4" toText="U.S." />
+<entity_link id="en17" fromID="p12" fromText="Manhattan U.S. Attorney PREET BHARARA" toID="p4" toText="United States Attorney PREET BHARARA for the Southern District of New York" />
+<entity_link id="en18" fromID="p13" fromText="Manhattan U.S. Attorney" toID="p12" toText="Manhattan U.S. Attorney PREET BHARARA" />
+<entity_link id="en11" fromID="g7" fromText="U.S." toID="g6" toText="United States" />
+<entity_link id="en19" fromID="g8" fromText="Manhattan" toID="g5" toText="Manhattan" />
+<entity_link id="en20" fromID="p14" fromText="Juanito Cordoba-Bermudez" toID="p9" toText="CORDOBA-BERMUDEZ, 44" />
+<entity_link id="en21" fromID="p16" fromText="his" toID="p14" toText="Juanito Cordoba-Bermudez" />
+<entity_link id="en22" fromID="o12" fromText="the FARC" toID="o13" toText="the FARC" />
+<entity_link id="en23" fromID="o7" fromText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="o3" toText="a Foreign Terrorist Organization" />
+<entity_link id="en24" fromID="o15" fromText="they" toID="o12" toText="the FARC" />
+<entity_link id="en25" fromID="o16" fromText="their" toID="o15" toText="they" />
+<entity_link id="en26" fromID="p18" fromText="His" toID="p14" toText="Juanito Cordoba-Bermudez" />
+<entity_link id="en27" fromID="o17" fromText="the FARC" toID="o12" toText="the FARC" />
+<entity_link id="en28" fromID="g9" fromText="our" toID="g7" toText="U.S." />
+<entity_link id="en29" fromID="o18" fromText="Manhattan federal court" toID="o11" toText="Manhattan federal court" />
+<entity_link id="en30" fromID="g10" fromText="Manhattan" toID="g8" toText="Manhattan" />
+<entity_link id="en31" fromID="o19" fromText="The FARC" toID="o17" toText="the FARC" />
+<entity_link id="en32" fromID="o20" fromText="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o19" toText="The FARC" />
+<entity_link id="en33" fromID="o26" fromText="the 57 Front" toID="o6" toText="the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<entity_link id="en34" fromID="o27" fromText="The group" toID="o19" toText="The FARC" />
+<entity_link id="en35" fromID="o29" fromText="a foreign terrorist organization" toID="o27" toText="The group" />
+<entity_link id="en36" fromID="p20" fromText="terrorist" toID="p17" toText="terrorist" />
+<entity_link id="en37" fromID="p17" fromText="terrorist" toID="p21" toText="Terrorist" />
+<entity_link id="en38" fromID="p17" fromText="terrorist" toID="p22" toText="terrorist" />
+<entity_link id="en39" fromID="o31" fromText="The 57 Front" toID="o26" toText="the 57 Front" />
+<entity_link id="en40" fromID="l1" fromText="which" toID="l0" toText="the territory within Colombia's Choco Department, which borders Panama" />
+<entity_link id="en41" fromID="g12" fromText="Colombia" toID="g11" toText="Colombia" />
+<entity_link id="en42" fromID="o33" fromText="It" toID="o31" toText="The 57 Front" />
+<entity_link id="en43" fromID="o34" fromText="the FARC" toID="o19" toText="The FARC" />
+<entity_link id="en44" fromID="p23" fromText="terrorist" toID="p20" toText="terrorist" />
+<entity_link id="en45" fromID="g14" fromText="Americans" toID="g7" toText="U.S." />
+<entity_link id="en46" fromID="p27" fromText="CORDOBA-BERMUDEZ" toID="p14" toText="Juanito Cordoba-Bermudez" />
+<entity_link id="en47" fromID="o35" fromText="FARC" toID="o34" toText="the FARC" />
+<entity_link id="en48" fromID="p29" fromText="his" toID="p27" toText="CORDOBA-BERMUDEZ" />
+<entity_link id="en49" fromID="f2" fromText="prison" toID="f1" toText="prison" />
+<entity_link id="en50" fromID="p30" fromText="Judge CHIN" toID="p10" toText="United States Circuit Court Judge DENNY CHIN" />
+<entity_link id="en51" fromID="p31" fromText="Judge" toID="p30" toText="Judge CHIN" />
+<entity_link id="en52" fromID="p32" fromText="CORDOBA-BERMUDEZ" toID="p27" toText="CORDOBA-BERMUDEZ" />
+<entity_link id="en53" fromID="p33" fromText="Mr. BHARARA" toID="p4" toText="United States Attorney PREET BHARARA for the Southern District of New York" />
+<entity_link id="en54" fromID="p34" fromText="Mr." toID="p33" toText="Mr. BHARARA" />
+<entity_link id="en55" fromID="o38" fromText="DEA" toID="o37" toText="the Drug Enforcement Administration's (DEA" />
+<entity_link id="en56" fromID="o40" fromText="the DEA" toID="o38" toText="DEA" />
+<entity_link id="en57" fromID="o42" fromText="the DEA" toID="o40" toText="the DEA" />
+<entity_link id="en58" fromID="p24" fromText="Mr. BHARARA" toID="p33" toText="Mr. BHARARA" />
+<entity_link id="en59" fromID="p35" fromText="Mr." toID="p24" toText="Mr. BHARARA" />
+<entity_link id="en60" fromID="g16" fromText="Colombia" toID="g12" toText="Colombia" />
+<entity_link id="en61" fromID="g17" fromText="United States" toID="g6" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Erin McKenzie-Mulvey" toID="h0" toText="Erin McKenzie-Mulvey" />
+<head_link id="he1" fromID="o0" fromText="New York Division" toID="h1" toText="New York Division" />
+<head_link id="he2" fromID="p1" fromText="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" toID="h2" toText="Associate" />
+<head_link id="he3" fromID="o1" fromText="FARC" toID="h3" toText="FARC" />
+<head_link id="he4" fromID="o2" fromText="Manhattan Federal Court" toID="h4" toText="Court" />
+<head_link id="he5" fromID="f0" fromText="Prison" toID="h5" toText="Prison" />
+<head_link id="he6" fromID="g0" fromText="Manhattan" toID="h6" toText="Manhattan" />
+<head_link id="he7" fromID="o3" fromText="a Foreign Terrorist Organization" toID="h7" toText="Organization" />
+<head_link id="he8" fromID="g1" fromText="NEW YORK, NY." toID="h8" toText="NEW YORK" />
+<head_link id="he9" fromID="g2" fromText="NY." toID="h9" toText="NY." />
+<head_link id="he10" fromID="p2" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration John P. Gilbride" toID="h10" toText="John P. Gilbride" />
+<head_link id="he11" fromID="p3" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" toID="h11" toText="Agent" />
+<head_link id="he12" fromID="o4" fromText="the New York Field Division United States Drug Enforcement Administration" toID="h12" toText="New York Field Division United States Drug Enforcement Administration" />
+<head_link id="he13" fromID="p4" fromText="United States Attorney PREET BHARARA for the Southern District of New York" toID="h13" toText="PREET BHARARA" />
+<head_link id="he14" fromID="p5" fromText="United States Attorney" toID="h14" toText="Attorney" />
+<head_link id="he15" fromID="g3" fromText="United States" toID="h15" toText="United States" />
+<head_link id="he16" fromID="o5" fromText="the Southern District of New York" toID="h16" toText="Southern District of New York" />
+<head_link id="he17" fromID="p7" fromText="JUANITO CORDOBA-BERMUDEZ" toID="h17" toText="JUANITO CORDOBA-BERMUDEZ" />
+<head_link id="he18" fromID="p8" fromText="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="h18" toText="associate" />
+<head_link id="he19" fromID="o6" fromText="the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="h19" toText="57 Front" />
+<head_link id="he20" fromID="o8" fromText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" toID="h20" toText="Fuerzas Armadas Revolucionarias de Colombia" />
+<head_link id="he21" fromID="o9" fromText="FARC" toID="h21" toText="FARC" />
+<head_link id="he22" fromID="o10" fromText="a U.S. designated foreign terrorist organization" toID="h22" toText="organization" />
+<head_link id="he23" fromID="g4" fromText="U.S." toID="h23" toText="U.S." />
+<head_link id="he24" fromID="o11" fromText="Manhattan federal court" toID="h24" toText="court" />
+<head_link id="he25" fromID="g5" fromText="Manhattan" toID="h25" toText="Manhattan" />
+<head_link id="he26" fromID="f1" fromText="prison" toID="h26" toText="prison" />
+<head_link id="he28" fromID="o13" fromText="the FARC" toID="h27" toText="FARC" />
+<head_link id="he29" fromID="p9" fromText="CORDOBA-BERMUDEZ, 44" toID="h28" toText="CORDOBA-BERMUDEZ" />
+<head_link id="he30" fromID="p10" fromText="United States Circuit Court Judge DENNY CHIN" toID="h29" toText="DENNY CHIN" />
+<head_link id="he31" fromID="p11" fromText="United States Circuit Court Judge" toID="h30" toText="Judge" />
+<head_link id="he32" fromID="g6" fromText="United States" toID="h31" toText="United States" />
+<head_link id="he33" fromID="o14" fromText="Court" toID="h32" toText="Court" />
+<head_link id="he34" fromID="p12" fromText="Manhattan U.S. Attorney PREET BHARARA" toID="h33" toText="PREET BHARARA" />
+<head_link id="he35" fromID="p13" fromText="Manhattan U.S. Attorney" toID="h34" toText="Attorney" />
+<head_link id="he27" fromID="g7" fromText="U.S." toID="h35" toText="U.S." />
+<head_link id="he36" fromID="g8" fromText="Manhattan" toID="h36" toText="Manhattan" />
+<head_link id="he37" fromID="p14" fromText="Juanito Cordoba-Bermudez" toID="h37" toText="Juanito Cordoba-Bermudez" />
+<head_link id="he38" fromID="p15" fromText="his compatriots" toID="h38" toText="compatriots" />
+<head_link id="he39" fromID="p16" fromText="his" toID="h39" toText="his" />
+<head_link id="he40" fromID="o12" fromText="the FARC" toID="h40" toText="FARC" />
+<head_link id="he41" fromID="o15" fromText="they" toID="h41" toText="they" />
+<head_link id="he42" fromID="o16" fromText="their" toID="h42" toText="their" />
+<head_link id="he43" fromID="p17" fromText="terrorist" toID="h43" toText="terrorist" />
+<head_link id="he44" fromID="p18" fromText="His" toID="h44" toText="His" />
+<head_link id="he45" fromID="o17" fromText="the FARC" toID="h45" toText="FARC" />
+<head_link id="he46" fromID="g9" fromText="our" toID="h46" toText="our" />
+<head_link id="he47" fromID="o18" fromText="Manhattan federal court" toID="h47" toText="court" />
+<head_link id="he48" fromID="g10" fromText="Manhattan" toID="h48" toText="Manhattan" />
+<head_link id="he49" fromID="o19" fromText="The FARC" toID="h49" toText="FARC" />
+<head_link id="he50" fromID="o20" fromText="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="h50" toText="organization" />
+<head_link id="he51" fromID="p19" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="h51" toText="guerillas" />
+<head_link id="he52" fromID="o21" fromText="seven 'blocs" toID="h52" toText="blocs" />
+<head_link id="he54" fromID="o23" fromText="68 numbered 'Fronts' (including the 57 Front" toID="h53" toText="Fronts" />
+<head_link id="he55" fromID="o24" fromText="nine named 'Fronts" toID="h54" toText="Fronts" />
+<head_link id="he56" fromID="o25" fromText="four urban 'militias" toID="h55" toText="militias" />
+<head_link id="he57" fromID="o26" fromText="the 57 Front" toID="h56" toText="57 Front" />
+<head_link id="he58" fromID="o27" fromText="The group" toID="h57" toText="group" />
+<head_link id="he59" fromID="o28" fromText="Colombia's democratically-elected government" toID="h58" toText="government" />
+<head_link id="he60" fromID="g11" fromText="Colombia" toID="h59" toText="Colombia" />
+<head_link id="he61" fromID="o29" fromText="a foreign terrorist organization" toID="h60" toText="organization" />
+<head_link id="he62" fromID="p20" fromText="terrorist" toID="h61" toText="terrorist" />
+<head_link id="he63" fromID="p21" fromText="Terrorist" toID="h62" toText="Terrorist" />
+<head_link id="he64" fromID="p22" fromText="terrorist" toID="h63" toText="terrorist" />
+<head_link id="he65" fromID="o30" fromText="the United States Department of State" toID="h64" toText="United States Department of State" />
+<head_link id="he66" fromID="o31" fromText="The 57 Front" toID="h65" toText="57 Front" />
+<head_link id="he67" fromID="l0" fromText="the territory within Colombia's Choco Department, which borders Panama" toID="h66" toText="territory" />
+<head_link id="he68" fromID="l1" fromText="which" toID="h67" toText="which" />
+<head_link id="he69" fromID="o32" fromText="Colombia's Choco Department" toID="h68" toText="Choco Department" />
+<head_link id="he70" fromID="g12" fromText="Colombia" toID="h69" toText="Colombia" />
+<head_link id="he71" fromID="g13" fromText="Panama" toID="h70" toText="Panama" />
+<head_link id="he72" fromID="o33" fromText="It" toID="h71" toText="It" />
+<head_link id="he73" fromID="o34" fromText="the FARC" toID="h72" toText="FARC" />
+<head_link id="he74" fromID="p23" fromText="terrorist" toID="h73" toText="terrorist" />
+<head_link id="he75" fromID="g14" fromText="Americans" toID="h74" toText="Americans" />
+<head_link id="he76" fromID="p25" fromText="other foreign nationals" toID="h75" toText="nationals" />
+<head_link id="he77" fromID="p26" fromText="various co-defendants, including CORDOBA-BERMUDEZ" toID="h76" toText="co-defendants" />
+<head_link id="he78" fromID="p27" fromText="CORDOBA-BERMUDEZ" toID="h77" toText="CORDOBA-BERMUDEZ" />
+<head_link id="he79" fromID="o35" fromText="FARC" toID="h78" toText="FARC" />
+<head_link id="he80" fromID="p28" fromText="authorities" toID="h79" toText="authorities" />
+<head_link id="he81" fromID="p29" fromText="his" toID="h80" toText="his" />
+<head_link id="he82" fromID="f2" fromText="prison" toID="h81" toText="prison" />
+<head_link id="he83" fromID="p30" fromText="Judge CHIN" toID="h82" toText="CHIN" />
+<head_link id="he84" fromID="p31" fromText="Judge" toID="h83" toText="Judge" />
+<head_link id="he85" fromID="p32" fromText="CORDOBA-BERMUDEZ" toID="h84" toText="CORDOBA-BERMUDEZ" />
+<head_link id="he86" fromID="p33" fromText="Mr. BHARARA" toID="h85" toText="BHARARA" />
+<head_link id="he87" fromID="p34" fromText="Mr." toID="h86" toText="Mr." />
+<head_link id="he88" fromID="o36" fromText="the Drug Enforcement Administration's (DEA) New York Organized Crime Drug Enforcement Strike Force" toID="h87" toText="New York Organized Crime Drug Enforcement Strike Force" />
+<head_link id="he89" fromID="o37" fromText="the Drug Enforcement Administration's (DEA" toID="h88" toText="Drug Enforcement Administration" />
+<head_link id="he90" fromID="o38" fromText="DEA" toID="h89" toText="DEA" />
+<head_link id="he53" fromID="o22" fromText="the Narco-Terrorism Group of the DEA's Bogota Country Office" toID="h90" toText="Narco-Terrorism Group" />
+<head_link id="he91" fromID="o39" fromText="the DEA's Bogota Country Office" toID="h91" toText="Bogota Country Office" />
+<head_link id="he92" fromID="o40" fromText="the DEA" toID="h92" toText="DEA" />
+<head_link id="he93" fromID="o41" fromText="the DEA's Panama City Country Office" toID="h93" toText="Panama City Country Office" />
+<head_link id="he94" fromID="o42" fromText="the DEA" toID="h94" toText="DEA" />
+<head_link id="he95" fromID="o43" fromText="the FBI's Extraterritorial Hostage Taking Squad in Miami" toID="h95" toText="Extraterritorial Hostage Taking Squad" />
+<head_link id="he96" fromID="o44" fromText="the FBI" toID="h96" toText="FBI" />
+<head_link id="he97" fromID="g15" fromText="Miami" toID="h97" toText="Miami" />
+<head_link id="he98" fromID="o45" fromText="the Department of Justice's Office of International Affairs" toID="h98" toText="Office of International Affairs" />
+<head_link id="he99" fromID="o46" fromText="the Department of Justice" toID="h99" toText="Department of Justice" />
+<head_link id="he100" fromID="p24" fromText="Mr. BHARARA" toID="h100" toText="BHARARA" />
+<head_link id="he101" fromID="p35" fromText="Mr." toID="h101" toText="Mr." />
+<head_link id="he102" fromID="o47" fromText="the Colombian Navy" toID="h102" toText="Colombian Navy" />
+<head_link id="he103" fromID="o48" fromText="the Colombian National Police" toID="h103" toText="Colombian National Police" />
+<head_link id="he104" fromID="o49" fromText="the Colombia Attorney General's Office" toID="h104" toText="Office" />
+<head_link id="he105" fromID="p36" fromText="the Colombia Attorney General" toID="h105" toText="General" />
+<head_link id="he106" fromID="g16" fromText="Colombia" toID="h106" toText="Colombia" />
+<head_link id="he107" fromID="p37" fromText="Attorney" toID="h107" toText="Attorney" />
+<head_link id="he108" fromID="o50" fromText="the Panamanian National Police" toID="h108" toText="Panamanian National Police" />
+<head_link id="he109" fromID="o51" fromText="their" toID="h109" toText="their" />
+<head_link id="he110" fromID="o52" fromText="the Office's Terrorism and International Narcotics Unit" toID="h110" toText="Terrorism and International Narcotics Unit" />
+<head_link id="he111" fromID="o53" fromText="the Office" toID="h111" toText="Office" />
+<head_link id="he112" fromID="p38" fromText="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" toID="h112" toText="JEFFREY A. BROWN" />
+<head_link id="he113" fromID="p39" fromText="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" toID="h113" toText="REBECCA M. RICIGLIANO" />
+<head_link id="he114" fromID="p40" fromText="Assistant United States Attorneys" toID="h114" toText="Attorneys" />
+<head_link id="he115" fromID="g17" fromText="United States" toID="h115" toText="United States" />
+<name_link id="na0" fromID="p0" fromText="Erin McKenzie-Mulvey" toID="n0" toText="Erin McKenzie-Mulvey" />
+<name_link id="na1" fromID="o0" fromText="New York Division" toID="n1" toText="New York Division" />
+<name_link id="na2" fromID="o1" fromText="FARC" toID="n2" toText="FARC" />
+<name_link id="na3" fromID="g0" fromText="Manhattan" toID="n3" toText="Manhattan" />
+<name_link id="na4" fromID="g1" fromText="NEW YORK, NY." toID="n4" toText="NEW YORK" />
+<name_link id="na5" fromID="g2" fromText="NY." toID="n5" toText="NY." />
+<name_link id="na6" fromID="p2" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration John P. Gilbride" toID="n6" toText="John P. Gilbride" />
+<name_link id="na7" fromID="o4" fromText="the New York Field Division United States Drug Enforcement Administration" toID="n7" toText="New York Field Division United States Drug Enforcement Administration" />
+<name_link id="na8" fromID="p4" fromText="United States Attorney PREET BHARARA for the Southern District of New York" toID="n8" toText="PREET BHARARA" />
+<name_link id="na9" fromID="g3" fromText="United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="o5" fromText="the Southern District of New York" toID="n10" toText="Southern District of New York" />
+<name_link id="na11" fromID="p7" fromText="JUANITO CORDOBA-BERMUDEZ" toID="n11" toText="JUANITO CORDOBA-BERMUDEZ" />
+<name_link id="na12" fromID="o6" fromText="the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="n12" toText="57 Front" />
+<name_link id="na13" fromID="o8" fromText="the Fuerzas Armadas Revolucionarias de Colombia ('FARC" toID="n13" toText="Fuerzas Armadas Revolucionarias de Colombia" />
+<name_link id="na14" fromID="o9" fromText="FARC" toID="n14" toText="FARC" />
+<name_link id="na15" fromID="g4" fromText="U.S." toID="n15" toText="U.S." />
+<name_link id="na16" fromID="g5" fromText="Manhattan" toID="n16" toText="Manhattan" />
+<name_link id="na18" fromID="o13" fromText="the FARC" toID="n17" toText="FARC" />
+<name_link id="na19" fromID="p9" fromText="CORDOBA-BERMUDEZ, 44" toID="n18" toText="CORDOBA-BERMUDEZ" />
+<name_link id="na20" fromID="p10" fromText="United States Circuit Court Judge DENNY CHIN" toID="n19" toText="DENNY CHIN" />
+<name_link id="na21" fromID="g6" fromText="United States" toID="n20" toText="United States" />
+<name_link id="na22" fromID="p12" fromText="Manhattan U.S. Attorney PREET BHARARA" toID="n21" toText="PREET BHARARA" />
+<name_link id="na17" fromID="g7" fromText="U.S." toID="n22" toText="U.S." />
+<name_link id="na23" fromID="g8" fromText="Manhattan" toID="n23" toText="Manhattan" />
+<name_link id="na24" fromID="p14" fromText="Juanito Cordoba-Bermudez" toID="n24" toText="Juanito Cordoba-Bermudez" />
+<name_link id="na25" fromID="o12" fromText="the FARC" toID="n25" toText="FARC" />
+<name_link id="na26" fromID="o17" fromText="the FARC" toID="n26" toText="FARC" />
+<name_link id="na27" fromID="g10" fromText="Manhattan" toID="n27" toText="Manhattan" />
+<name_link id="na28" fromID="o19" fromText="The FARC" toID="n28" toText="FARC" />
+<name_link id="na29" fromID="o26" fromText="the 57 Front" toID="n29" toText="57 Front" />
+<name_link id="na30" fromID="g11" fromText="Colombia" toID="n30" toText="Colombia" />
+<name_link id="na31" fromID="o30" fromText="the United States Department of State" toID="n31" toText="United States Department of State" />
+<name_link id="na32" fromID="o31" fromText="The 57 Front" toID="n32" toText="57 Front" />
+<name_link id="na33" fromID="o32" fromText="Colombia's Choco Department" toID="n33" toText="Choco Department" />
+<name_link id="na34" fromID="g12" fromText="Colombia" toID="n34" toText="Colombia" />
+<name_link id="na35" fromID="g13" fromText="Panama" toID="n35" toText="Panama" />
+<name_link id="na36" fromID="o34" fromText="the FARC" toID="n36" toText="FARC" />
+<name_link id="na37" fromID="g14" fromText="Americans" toID="n37" toText="Americans" />
+<name_link id="na38" fromID="p27" fromText="CORDOBA-BERMUDEZ" toID="n38" toText="CORDOBA-BERMUDEZ" />
+<name_link id="na39" fromID="o35" fromText="FARC" toID="n39" toText="FARC" />
+<name_link id="na40" fromID="p30" fromText="Judge CHIN" toID="n40" toText="CHIN" />
+<name_link id="na41" fromID="p32" fromText="CORDOBA-BERMUDEZ" toID="n41" toText="CORDOBA-BERMUDEZ" />
+<name_link id="na42" fromID="p33" fromText="Mr. BHARARA" toID="n42" toText="BHARARA" />
+<name_link id="na43" fromID="o36" fromText="the Drug Enforcement Administration's (DEA) New York Organized Crime Drug Enforcement Strike Force" toID="n43" toText="New York Organized Crime Drug Enforcement Strike Force" />
+<name_link id="na44" fromID="o37" fromText="the Drug Enforcement Administration's (DEA" toID="n44" toText="Drug Enforcement Administration" />
+<name_link id="na45" fromID="o38" fromText="DEA" toID="n45" toText="DEA" />
+<name_link id="na46" fromID="o22" fromText="the Narco-Terrorism Group of the DEA's Bogota Country Office" toID="n46" toText="Narco-Terrorism Group" />
+<name_link id="na47" fromID="o39" fromText="the DEA's Bogota Country Office" toID="n47" toText="Bogota Country Office" />
+<name_link id="na48" fromID="o40" fromText="the DEA" toID="n48" toText="DEA" />
+<name_link id="na49" fromID="o41" fromText="the DEA's Panama City Country Office" toID="n49" toText="Panama City Country Office" />
+<name_link id="na50" fromID="o42" fromText="the DEA" toID="n50" toText="DEA" />
+<name_link id="na51" fromID="o43" fromText="the FBI's Extraterritorial Hostage Taking Squad in Miami" toID="n51" toText="Extraterritorial Hostage Taking Squad" />
+<name_link id="na52" fromID="o44" fromText="the FBI" toID="n52" toText="FBI" />
+<name_link id="na53" fromID="g15" fromText="Miami" toID="n53" toText="Miami" />
+<name_link id="na54" fromID="o45" fromText="the Department of Justice's Office of International Affairs" toID="n54" toText="Office of International Affairs" />
+<name_link id="na55" fromID="o46" fromText="the Department of Justice" toID="n55" toText="Department of Justice" />
+<name_link id="na56" fromID="p24" fromText="Mr. BHARARA" toID="n56" toText="BHARARA" />
+<name_link id="na57" fromID="o47" fromText="the Colombian Navy" toID="n57" toText="Colombian Navy" />
+<name_link id="na58" fromID="o48" fromText="the Colombian National Police" toID="n58" toText="Colombian National Police" />
+<name_link id="na59" fromID="g16" fromText="Colombia" toID="n59" toText="Colombia" />
+<name_link id="na60" fromID="o50" fromText="the Panamanian National Police" toID="n60" toText="Panamanian National Police" />
+<name_link id="na61" fromID="o52" fromText="the Office's Terrorism and International Narcotics Unit" toID="n61" toText="Terrorism and International Narcotics Unit" />
+<name_link id="na62" fromID="p38" fromText="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" toID="n62" toText="JEFFREY A. BROWN" />
+<name_link id="na63" fromID="p39" fromText="Assistant United States Attorneys JEFFREY A. BROWN and REBECCA M. RICIGLIANO" toID="n63" toText="REBECCA M. RICIGLIANO" />
+<name_link id="na64" fromID="g17" fromText="United States" toID="n64" toText="United States" />
+<relation_link1 id="r0" fromID="M0" fromText="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" toID="p1" toText="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" />
+<relation_link1 id="r1" fromID="M1" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" toID="p3" toText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" />
+<relation_link1 id="r2" fromID="e1" fromText="United States Attorney" toID="p5" toText="United States Attorney" />
+<relation_link1 id="r3" fromID="M2" fromText="United States Attorney PREET BHARARA for the Southern District of New York" toID="p4" toText="United States Attorney PREET BHARARA for the Southern District of New York" />
+<relation_link1 id="r4" fromID="M3" fromText="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="p8" toText="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<relation_link1 id="r5" fromID="M4" fromText="United States Circuit Court Judge" toID="p11" toText="United States Circuit Court Judge" />
+<relation_link1 id="r6" fromID="e2" fromText="United States Circuit Court Judge" toID="p11" toText="United States Circuit Court Judge" />
+<relation_link1 id="r7" fromID="e0" fromText="Manhattan U.S. Attorney" toID="p13" toText="Manhattan U.S. Attorney" />
+<relation_link1 id="r8" fromID="lo0" fromText="Manhattan U.S. Attorney" toID="p13" toText="Manhattan U.S. Attorney" />
+<relation_link1 id="r9" fromID="M5" fromText="their terrorist activity" toID="p17" toText="terrorist" />
+<relation_link1 id="r10" fromID="M6" fromText="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="p19" toText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link1 id="r11" fromID="M7" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="p19" toText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link1 id="r12" fromID="M8" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="p19" toText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link1 id="r13" fromID="M9" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="p19" toText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link1 id="r14" fromID="M10" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="p19" toText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link1 id="r15" fromID="M11" fromText="a Foreign Terrorist Organization" toID="p21" toText="Terrorist" />
+<relation_link1 id="r16" fromID="M12" fromText="a U.S. designated foreign terrorist organization" toID="p22" toText="terrorist" />
+<relation_link1 id="r17" fromID="M13" fromText="a foreign terrorist organization" toID="p20" toText="terrorist" />
+<relation_link1 id="r18" fromID="M14" fromText="the FARC's terrorist activities" toID="p23" toText="terrorist" />
+<relation_link1 id="r19" fromID="e3" fromText="the Colombia Attorney General" toID="p36" toText="the Colombia Attorney General" />
+<relation_link1 id="r20" fromID="e4" fromText="Assistant United States Attorneys" toID="p40" toText="Assistant United States Attorneys" />
+<relation_link2 id="re0" fromID="M0" fromText="FARC Associate Sentenced in Manhattan Federal Court to 15 Years in Prison for Providing Material Support to a Foreign Terrorist Organization" toID="o1" toText="FARC" />
+<relation_link2 id="re1" fromID="M1" fromText="Special Agent in Charge of the New York Field Division United States Drug Enforcement Administration" toID="o4" toText="the New York Field Division United States Drug Enforcement Administration" />
+<relation_link2 id="re2" fromID="e1" fromText="United States Attorney" toID="g3" toText="United States" />
+<relation_link2 id="re3" fromID="M2" fromText="United States Attorney PREET BHARARA for the Southern District of New York" toID="o5" toText="the Southern District of New York" />
+<relation_link2 id="re4" fromID="M3" fromText="an associate of the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" toID="o6" toText="the 57 Front of the Fuerzas Armadas Revolucionarias de Colombia ('FARC'), a U.S. designated foreign terrorist organization" />
+<relation_link2 id="re5" fromID="M4" fromText="United States Circuit Court Judge" toID="o14" toText="Court" />
+<relation_link2 id="re6" fromID="e2" fromText="United States Circuit Court Judge" toID="g6" toText="United States" />
+<relation_link2 id="re7" fromID="e0" fromText="Manhattan U.S. Attorney" toID="g7" toText="U.S." />
+<relation_link2 id="re8" fromID="lo0" fromText="Manhattan U.S. Attorney" toID="g8" toText="Manhattan" />
+<relation_link2 id="re9" fromID="M5" fromText="their terrorist activity" toID="o16" toText="their" />
+<relation_link2 id="re10" fromID="M6" fromText="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o20" toText="a military organization, with approximately 10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" />
+<relation_link2 id="re11" fromID="M7" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o21" toText="seven 'blocs" />
+<relation_link2 id="re12" fromID="M8" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o23" toText="68 numbered 'Fronts' (including the 57 Front" />
+<relation_link2 id="re13" fromID="M9" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o24" toText="nine named 'Fronts" />
+<relation_link2 id="re14" fromID="M10" fromText="10,000 armed guerillas organized into seven 'blocs,' 68 numbered 'Fronts' (including the 57 Front), nine named 'Fronts,' and four urban 'militias" toID="o25" toText="four urban 'militias" />
+<relation_link2 id="re15" fromID="M11" fromText="a Foreign Terrorist Organization" toID="o3" toText="a Foreign Terrorist Organization" />
+<relation_link2 id="re16" fromID="M12" fromText="a U.S. designated foreign terrorist organization" toID="o10" toText="a U.S. designated foreign terrorist organization" />
+<relation_link2 id="re17" fromID="M13" fromText="a foreign terrorist organization" toID="o29" toText="a foreign terrorist organization" />
+<relation_link2 id="re18" fromID="M14" fromText="the FARC's terrorist activities" toID="o34" toText="the FARC" />
+<relation_link2 id="re19" fromID="e3" fromText="the Colombia Attorney General" toID="g16" toText="Colombia" />
+<relation_link2 id="re20" fromID="e4" fromText="Assistant United States Attorneys" toID="g17" toText="United States" />
+</TAGS>
+</KddTask>

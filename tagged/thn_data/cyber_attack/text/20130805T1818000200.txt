@@ -1,0 +1,12 @@
+Chinese Hackers Caught by US water control system Honeypots
+Mohit Kumar
+
+A notorious Chinese hacker collective known as APT1 or Comment Crew, possibly linked to the Chinese Army, have been caught red handed breaking into a fake United States water control system i.e. known as a Honeypot.
+Kyle Wilhoit, a researcher with security company Trend Micro has just revealed the details at BlackHat Conference on Wednesday. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers hacked a water control system for a US municipality back in December last year, but it was merely a decoy set up by Kyle Wilhoit using a Word document hiding malicious software to gain full access. 
+The honeypots directly mimicked the ICS/Scada devices used in many critical infrastructure power and water plants. Cloud software was used to create realistic Web-based login and configuration screens for local water plants seemingly based in Ireland, Russia, Singapore, China, Japan, Australia, Brazil, and the U.S.
+Researchers have been tracked back to the APT1 Group, which security company Mandiant has claimed operates as part of China’s army. Wilhoit used a tool called the Browser Exploitation Framework, or BeEF, to gain access to his attackers’ systems and get precise data on their location. He was able to access data from their Wi-Fi cards to triangulate their location.
+Between March and June this year Wilhoit's 12 honeypots attracted 74 attacks and roughly half of the critical attacks on his honeypots come from China, with Germany, UK, France, Palestine and Japan. “I actually watched the attacker interface with the machine. It was 100 percent clear they knew what they were doing.” Wilhoit said.
+The incident has led Wilhoit to believe that other utilities around the world may have already been infiltrated by hackers, and that engineers working at these facilities may not realize that their systems have been compromised. The attacks reportedly occurred before the US opened talks with China over cyber security.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

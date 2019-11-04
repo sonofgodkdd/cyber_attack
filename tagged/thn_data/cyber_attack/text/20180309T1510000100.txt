@@ -1,0 +1,20 @@
+Over 15,000 Memcached DDoS Attacks Hit 7,100 Sites in Last 10 Days
+Swati Khandelwal
+
+Memcached reflections that recently fueled two most largest amplification DDoS attacks in the history have also helped other cybercriminals launch nearly 15,000 cyber attacks against 7,131 unique targets in last ten days, a new report revealed.
+Chinese Qihoo 360's Netlab, whose global DDoS monitoring service 'DDosMon' initially spotted the Memcached-based DDoS attacks, has published a blog post detailing some new statistics about the victims and sources of these attacks.
+The list of famous online services and websites which were hit by massive DDoS attacks since 24th February includes Google, Amazon, QQ.com, 360.com, PlayStation, OVH Hosting, VirusTotal, Comodo, GitHub (1.35 Tbps attack), Royal Bank, Minecraft and RockStar games, Avast, Kaspersky, PornHub, Epoch Times newspaper, and Pinterest.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Overall, the victims are mainly based in the United States, China, Hong Kong, South Korea, Brazil, France, Germany, the United Kingdom, Canada, and the Netherlands.
+According to Netlab researchers, the frequency of attacks since 24th February has increased dramatically, as listed below:
+Before 24th February, the day when Memcached-based DDoS attacks were first spotted, the daily average was less than 50 attacks.
+Between 24th and 28th February, when Memcached as a new amplification attack vector was not publicly disclosed and known to a small group of people, the attacks raised to an average of 372 attacks per day.
+Soon after the first public report came on 27th February, between 1st and 8th March, the total number of attacks jumped to 13,027, with an average of 1,628 DDoS attack events per day.
+Netlab's 360 0kee team initially discovered the Memcached vulnerability in June 2017 and disclosed (presentation) it in November 2017 at a conference, but its researchers have hardly seen any Memcache DDoS attacks since then.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The maximum number of active vulnerable Memcached servers at a time that participated in the DRDoS attacks was 20,612.
+I don't want to exaggerate this but expect hundreds of thousands of Memcached-based DDoS attacks in coming days, as hackers and researchers have now released multiple easy-to-execute exploits that could allow anyone to launch Memcached amplification attacks.
+However, researchers have also discovered a 'kill-switch' technique that could help victims mitigate Memcached DDoS attacks efficiently.
+Despite multiple warnings, over 12,000 vulnerable Memcached servers with UDP support enabled are still exposed on the Internet, which could fuel more cyber attacks.
+Therefore, server administrators are strongly advised to install the latest Memcached 1.5.6 version which disables UDP protocol by default to prevent amplification/reflection DDoS attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

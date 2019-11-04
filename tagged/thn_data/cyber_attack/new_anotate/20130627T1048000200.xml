@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Chinese Hackers group 'Comment Crew' is still active and operating under cover
+Anonymous
+
+Security experts are confident that the Chinese hackers group known as Comment Crew is still operating under cover. “The Comment Crew is back again” this is the rumor within Intelligence community,  researchers suspect the involvement of the group of hackers in the recent cyber dispute between U.S. and China.
+Let’s make a step back, last February Mandiant Intelligence firm released an interesting report that revealed an enterprise-scale computer espionage campaign dubbed APT1.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mandiant linked the APT1 attacks, that compromised 141 organizations in seven years, to Chinese military unit called "61398". The is very interesting is that the security firm identified a common pattern for the attacks conducted by Chinese hackers group, it was also able to define a series of key indicators for identifying ongoing APT attacks.
+Mandiant security firm had monitored the group during last years and report details its operations, it wasn’t the only one FireEye is another company which is distinguished in this type of investigation.
+From the analysis of past attacks and the observation of ongoing events the researchers noted that after the intense activities observed early 2013 the group Comment Crew stopped using its infrastructures and to attack the previous targets. The behavior was probably caused by a change of tactics of the group after the revelations of it operations, it’s common conviction that The Comment Crew group started new campaigns against new targets using different infrastructures.
+Senior researcher at FireEye. Alex Lanstein sustains that The Comment Crew is still working undercover after an apparent period of rest:
+"They took a little breather, and they started back up," he said. "We didn't see them take control of any of the systems they had previously compromised," "They started fresh with a whole new round of attacks." Lanstein revealed.
+The Comment Crew is a group of state-sponsored hackers that operates with a predefined scheme, the security analysts revealed that all the cyber attacks share tools and methods and in many cases from the analysis of the malicious code used it is possible to track the source of the offensives.
+The researchers used to track malware campaigns analyzing tracks left by hackers including keyboard layouts and the presence of embedded fonts and abuse of bogus DNS (domain name system) registration details.
+Lanstein  highlighted another new detail revealed by the investigation of FireEye, The Comment Crew group left the name of their particular coding project, called "Moonclient," in many instances of the malware detected. FireEye kept this information secret to avoid allow its team to follow the Comment Crew but it seems now it seems they have changed tactics and malware.
+Lanstein commented on the forgetfulness of hackers with the following words: "you are dealing with humans on the other side of the keyboard," "This is a mistake made over and over again," "It's more difficult to track them now," Lanstein said.
+FireEye has released today an interesting report titled "Digital Bread Crumbs: Seven Clues To Identifying Who’s Behind Advanced Cyber Attacks " that explains how to conduct an investigation based on common errors committed by the hackers.
+The document is based on the analysis of nearly 1,500 campaigns tracked by FireEye, the paper reported the results of the study on the common characteristics of various attack and the way to identify the hackers:
+Keyboard Layout. Hidden in phishing attempts is information about the attacker’s choice of keyboard, which varies by language and region.
+Malware Metadata. Malware source code contains technical details that suggest the attacker’s language, location, and ties to other campaigns. 
+Embedded Fonts. The fonts used in phishing emails point to the origin of the attack. This is true even when the fonts are not normally used in the attacker’s native language. 
+DNS Registration. Domains used in attacks pinpoint the attacker’s location. Duplicate registration information can tie multiple domains to a common culprit.
+Language. Language artifacts embedded in malware often point to the attacker’s country of origin and common language mistakes in phishing emails can sometimes be reverse-engineered to determine the writer’s native language.
+Remote Administration Tool Configuration. Popular malware-creation tools include a bevy of configuration options. These options are often unique to the attacker using the tool, allowing researchers to tie disparate attacks to a common threat actor.
+Behavior. Behavioral patterns such as methods and targets give away some of the attacker’s methods and motives.
+I found the report very interesting and I strongly suggest you its reading, to uncover cyber espionage campaign so articulated and complex it is fundamental to recognize the evidence of ongoing attacks and the real origin of the attackers. 
+A targeted organization could use the knowledge on methods and objective of the attack for:
+Immediately shift resources to bolster vulnerable data
+Enlist additional help, whether internal resources or law enforcement
+More closely examine other vectors—possibly overlooked—that have been used by the attackers other campaigns
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DISCOVER.Back_door id="DISCOVE0" start="803" end="813" text="identified" TYPE="TRG" />
+<DISCOVER.Back_door id="DISCOVE1" start="903" end="909" text="define" TYPE="SUP" />
+<ATTACK.Root_Compromise id="AT0" start="666" end="677" text="compromised" TYPE="TRG" />
+</TAGS>
+</KddTask>

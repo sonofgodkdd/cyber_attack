@@ -1,0 +1,13 @@
+Three Chinese Hackers Fined $9 Million for Stealing Trade Secrets
+Wang Wei
+Hackers won't be spared.
+Three Chinese hackers have been ordered to pay $8.8 million (£6.8 million) after hacking email servers of two major New York-based law firms to steal corporate merger plans in December 2016 and used them to trade stocks.
+The U.S. District Judge Valerie Caproni in Manhattan sued 26-year-old Iat Hong, 30-year-old Bo Zheng, and 50-year-old Hung Chin, over a multi-million dollar insider trading scam.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to BBC News, the U.S. Securities Exchange Commission (SEC) alleged the three hackers targeted 7 different law firms, but managed to installed malware on networks belonging to two law firms only, then compromised their IT admin accounts that gave the trio access to every email account at the firms.
+Access to the email and web servers allowed them to gain information on planned business mergers and/or acquisitions. The trio then used this information to buy company stock before the deal, and then sell it after the public announcement of the merger or acquisition.
+The hackers made more than $4 Million in illegal profits and could face at least decades-long prison sentences if found guilty.
+"The trio then bought shares in listed companies ahead of announcements about their merger plans – something that often causes the stock to jump," BBC says. "The counts against them include conspiracy to commit securities fraud, conspiracy to commit wire fraud, wire fraud, conspiracy to commit computer intrusion, unlawful access, and intentional damage."All the three hackers were charged in December 2016 both by the Securities and Exchange Commission (SEC), and the Department of Justice (DoJ). However, neither of them identified the affected law firms.
+Mr. Hong has been ordered to pay $1.8 Million, Mr. Zheng to pay $1.9 Million, and Mr. Chin to pay $4 Million. Any United States assets they own will also be seized.
+For now, only Hong, who was arrested in last December in Hong Kong, is in custody and yet to be extradited to the United States, while other two cyber criminals are on the run.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

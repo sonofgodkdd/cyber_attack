@@ -1,0 +1,29 @@
+NSO Spyware Targets Saudi Human Rights Activists and Researchers
+Swati Khandelwal
+
+Amnesty International, one of the most prominent non-profit human rights organizations in the world, claims one of its staff members has been targeted by a sophisticated surveillance tool made by Israel's NSO Group.
+The NSO Group is an Israeli firm that's mostly known for selling high-tech spyware and surveillance malware capable of remotely cracking into Apple's iPhones and Google's Android devices to intelligence apparatuses, militaries, and law enforcement around the world.
+The company's most powerful spyware called Pegasus for iPhone, Android, and other mobile devices has previously been used to target human rights activists and journalists, from Mexico to the United Arab Emirates.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Pegasus has been designed to hack mobile phones remotely, allowing an attacker to access an incredible amount of data on a target victim, including text messages, emails, WhatsApp messages, user's location, microphone, and camera—all without the victim's knowledge.
+Spyware Targets Amnesty International and Saudi Dissident
+Now, the nasty spyware was used against one of the Amnesty International staffers in Saudi Arabia earlier this year, alongside another Saudi human rights defender based abroad, according to a new report published today.
+Amnesty says that one of its researchers focused on Saudi Arabia received a suspicious WhatsApp message in early June this year, details about a protest outside the Saudi embassy in Washington that supported "brothers" detained during Ramadan.
+The message also included a link purporting to be from an Arabic news website about the protest, but the London-based human rights organization traced the link to a site that it believes are linked to infrastructure used by NSO Group.
+A Saudi human rights defender also received a suspicious SMS message, which also carried malicious links to domains identified as part of that same network infrastructure used by NSO Group.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since Amnesty was unable to figure out exactly what the links were designed to deliver, the organization shared the text messages with the University of Toronto's Citizen Lab, which has been tracking NSO spyware for over two years.
+After analyzing the messages, Citizen Lab said other similar malicious words have widely been shared across people in the Gulf region in WhatsApp groups and on Twitter at the beginning of June 2018.
+According to the research group, clicking on these links potentially infects the targets' phones with NSO Group's Pegasus spyware. 
+Once infected, as I said above, Pegasus can do almost anything on an iPhone or Android device, including silently stealing messages, spying on phone calls, looking through the webcam and listening using the device microphone.
+"NSO Group is known to only sell its spyware to governments. We, therefore, believe that this was a deliberate attempt to infiltrate Amnesty International by a government hostile to our human rights work," said Joshua Franco, Amnesty International’s Head of Technology and Human Rights.
+"The potent state hacking tools manufactured by NSO Group allow for an extraordinarily invasive form of surveillance. A smartphone infected with Pegasus is essentially controlled by the attacker – it can relay phone calls, photos, messages and more directly to the operator. This chilling attack on Amnesty International highlights the grave risk posed to activists around the world with this kind of surveillance technology."
+Fortunately, the Amnesty staffer and the Saudi activist, whose names have not been revealed to protect their safety, avoided the infection by not responding to those messages.
+Total 175 People Across the World Targeted by NSO Spyware
+Citizen Lab said it had so far counted as many as 174 publicly-reported cases of individuals worldwide "abusively targeted" with NSO spyware, including 150 targets in Panama identified as part of a massive domestic espionage scandal across its former president.
+"At the time of writing, various reports indicate that up to 175 individuals may have been inappropriately targeted with NSO Group’s spyware in violation of their internationally-recognized human rights," the researchers say.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"It seems clear that NSO Group is unable or unwilling to prevent its customers from misusing its powerful spyware tools."
+Amnesty's cybersecurity research team and Citizen Lab were also able to develop a "fingerprint" of NSO's attacks by rerouting targets from malicious links in messages to websites where attacks would launch, and found over 600 domains connected to NSO Group.
+Those 600 websites Amnesty identified are used to bait and spy on activists in different countries including Zambia, Kenya, Democratic Republic of Congo, Kazakhstan, Latvia, and Hungary, in addition to the Gulf.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,20 @@
+Forever 21 Confirms Security Breach Exposed Customer Credit Card Details
+Swati Khandelwal
+
+First notified in November of a data breach incident, popular clothing retailer Forever 21 has now confirmed that hackers stole credit card information from its stores throughout the country for several months during 2017.
+Although the company did not yet specify the total number of its customers affected by the breach, it did confirm that malware was installed on some point of sale (POS) systems in stores across the U.S. at varying times between April 3, 2017, and November 18, 2017.
+According to the company's investigation, which is still ongoing, the malware was designed to search for and likely steal sensitive customer credit card data, including credit card numbers, expiration dates, verification codes and, in some cases, cardholder names.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Forever 21 has been using encryption technology since 2015 to protect its payment processing systems, but during the investigation, the company found that some POS terminals at certain stores had their encryption switched off, which allowed hackers to install the malware.
+However, according to the company, not every POS terminal in affected stores was infected with the malware and not every store was impacted during the full-time period (roughly 8 months) of the breach.
+In fact, in some cases, payment card data stored in certain system logs before April 3rd were also exposed in the breach.
+"Each Forever 21 store has multiple POS devices, and in most instances, only one or a few of the POS devices were involved. Additionally, Forever 21 stores have a device that keeps a log of completed payment card transaction authorizations," the company said while explaining the incident. 
+"When encryption was off, payment card data was being stored in this log. In a group of stores that were involved in this incident, malware was installed on the log devices that was capable of finding payment card data from the logs, so if encryption was off on a POS device prior to April 3, 2017, and that data was still present in the log file at one of these stores, the malware could have found that data."
+The company also assured its online customers that payment cards used on its website (forever21.com) were not affected by the breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since payment processing systems outside of the United States work differently, it should not be impacted by the security breach, but the retailer said it's still investigating whether non-US stores were affected or not.
+Forever 21 advised customers who shopped at its stores to stay vigilant and keep an eye on their credit transactions for any suspicious activity, and immediately notify their banks that issued the card if found any.
+The company has promised to continue working with "security firms to enhance" their security measures.
+This breach is yet another embarrassing incident disclosed recently, followed by Disqus' disclosure of a 5-year-old breach of over 17.5 million Disqus users and Yahoo's revelation that 2013 data breach affected all of its 3 Billion users.
+The recent incidents also include Equifax's revelation of a breach of potentially 145.5 million customers, U.S. Securities and Exchange Commission (SEC) disclosure of a data breach that profited hackers, and Deloitte's disclosure of a cyber attack that led to the theft of its clients' private emails and documents.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

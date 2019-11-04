@@ -1,0 +1,13 @@
+23-Year-old Russian Hacker confessed to be original author of BlackPOS Malware
+Mohit Kumar
+
+In the previous reports of Cyber Intelligence firm 'IntelCrawler' named Sergey Tarasov, a 17-year-old teenager behind the nickname "ree[4]", as the developer of BlackPOS malware.
+BlackPOS also known as "reedum" or 'Kaptoxa' is an effective crimeware kit, used in the massive heist of possibly 110 million consumers' Credit-Debit cards, and personal information from the TARGET.
+Later Researchers's investigation revealed that the original coder of BlackPOS Malware was actually a 23-year-old young hacker named Rinat Shabayev and the teen, Sergey Taraspov is the incharge for the technical support department.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In an interview with Russian channel 'LifeNews', Rinat Shabayev admitted that he had developed the BlackPOS crimeware kit. He clarified that the program developed by him was not meant for any kind of data theft, instead the program was written for the security testing.
+He developed the malware with the help of another programmer with anonymous identity, whom he had met online. His original plan was just to sell the exploit, not to use it for malicious intent by himself.
+His friend took the readymate codes from him and added more features to it. In addition to this information, he also confessed that the exploit can be used for malicious purposes too.
+Researchers at IntelCrawler say that the same malware may have also been involved in the Neiman Marcus attack too.
+Whatever be the intention of the programmer, but now more than 110 million people are suffering credit card theft because of his software. Even after knowing that the malware has ability to compile a massive financial theft, his justifications are not enough to be innocent.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

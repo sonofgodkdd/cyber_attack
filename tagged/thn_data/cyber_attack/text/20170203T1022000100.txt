@@ -1,0 +1,21 @@
+Radio Stations Hacked to Play "F**k Donald Trump" on Repeat Across the Country
+Swati Khandelwal
+
+It’s just two weeks into the Trump presidency, but his decisions have caused utter chaos around the country.
+One such order signed by the president was banning both refugees and visa holders from seven Muslim-majority countries (Iraq, Iran, Libya, Yemen, Somalia, Syria, and Sudan) from entering the United States, resulting in unexpectedly arrest of some travelers at airports.
+Now, it seems like some anti-Trump protesters have publically declared their fight against the president by exploiting a known flaw in low power FM (LPFM) radio transmitters to play a song the radio stations didn't intend to broadcast.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Radio stations in South Carolina, Indiana, Texas, Tennessee and Kentucky, were hacked recently to broadcast the Bompton-based rapper YG and Nipsey Hussle's anti-Trump song "Fuck Donald Trump," which was already a radio hit in some parts of the country last year, several sources report.
+The song was repeatedly played on Monday night, according to the RadioInsight, and the news of the incident began emerging shortly after Trump's inauguration on January 20, eight days before hackers hacked 70 percent of the police CCTV cameras in Washington DC.
+Hackers gained access to the radio stations by exploiting known vulnerabilities in Barix Exstreamer devices which can decode audio file formats and send them along for LPFM transmission.
+Over a dozen radio stations experienced the hack in recent weeks, though some of them shut down their airwaves as quickly as possible in an attempt to avoid playing the inflammatory "FDT (Fuck Donald Trump)" song on loop.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hackers or group of hackers behind the cyber attack is still unknown. The affected stations so far include:
+105.9 WFBS-LP Salem, S.C.
+Radio 810 WMGC/96.7 W244CW Murfreesboro TN
+101.9 Pirate Seattle
+100.9 WCHQ-LP Louisville
+100.5 KCGF-LP San Angelo TX
+However, there are unconfirmed reports from radio stations in California, Indiana, and Washington State that are believed to be affected as well.
+Has any of the radio stations you listen to been hit by the hackers? Let us know in the comments!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

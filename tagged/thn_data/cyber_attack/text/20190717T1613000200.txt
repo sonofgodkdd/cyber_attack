@@ -1,0 +1,38 @@
+EvilGnome: A New Backdoor Implant Spies On Linux Desktop Users
+Swati Khandelwal
+
+Security researchers have discovered a rare piece of Linux spyware that's currently fully undetected across all major antivirus security software products, and includes rarely seen functionalities with regards to most Linux malware, The Hacker News learned.
+It's a known fact that there are a very few strains of Linux malware exist in the wild as compared to Windows viruses because of its core architecture and also due to its low market share, and also many of them don't even have a wide range of functionalities.
+In recent years, even after the disclosure of severe critical vulnerabilities in various flavors of Linux operating systems and software, cybercriminals failed to leverage most of them in their attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Instead, a large number of malware targeting Linux ecosystem is primarily focused on cryptocurrency mining attacks for financial gain and creating DDoS botnets by hijacking vulnerable servers.
+However, researchers at security firm Intezer Labs recently discovered a new Linux backdoor implant that appears to be under development and testing phase but already includes several malicious modules to spy on Linux desktop users.
+EvilGnome: New Linux Spyware
+Dubbed EvilGnome, the malware has been designed to take desktop screenshots, steal files, capture audio recording from the user's microphone as well as download and execute further second-stage malicious modules.
+According to a new report Intezer Labs shared with The Hacker News prior to its release, the sample of EvilGnome it discovered on VirusTotal also contains an unfinished keylogger functionality, which indicates that it was uploaded online mistakenly by its developer.
+EvilGnome malware masquerades itself as a legit GNOME extension, a program that lets Linux users extend the functionality of their desktops.
+According to the researchers, the implant is delivered in the form of a self-extracting archive shell script created with 'makeself,' a small shell script that generates a self-extractable compressed tar archive from a directory.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Linux implant also gains persistence on a targeted system using crontab, similar to windows task scheduler, and sends stolen user data to a remote attacker-controlled server.
+"Persistence is achieved by registering gnome-shell-ext.sh to run every minute in crontab. Finally, the script executes gnome-shell-ext.sh, which in turn launches the main executable gnome-shell-ext," the researchers said.
+EvilGnome's Spyware Modules
+The Spy Agent of EvilGnome contains five malicious modules called "Shooters," as explained below:
+ShooterSound — this module uses PulseAudio to capture audio from the user's microphone and uploads the data to the operator's command-and-control server.
+ShooterImage — this module uses the Cairo open source library to captures screenshots and uploads them to the C&C server. It does so by opening a connection to the XOrg Display Server, which is the backend to the Gnome desktop.
+ShooterFile — this module uses a filter list to scan the file system for newly created files and uploads them to the C&C server.
+ShooterPing — the module receives new commands from the C&C server, like download and execute new files, set new filters for file scanning, download and set new runtime configuration, exfiltrate stored output to the C&C server, and stop any shooter module from running.
+ShooterKey — this module is unimplemented and unused, which most likely is an unfinished keylogging module.
+Notably, all the above modules encrypt their output data and decrypt commands received from the C&C server with RC5 key "sdg62_AS.sa$die3," using a modified version of a Russian open source library.
+Possible Connection b/w EvilGnome and Gamaredon Hacking Group
+Furthermore, the researchers also found connections between EvilGnome and Gamaredon Group, an alleged Russian threat group that has been active since at least 2013 and has targeted individuals working with the Ukrainian government.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here below, I have briefed some of the similarities between EvilGnome and Gamaredon Group:
+EvilGnome uses a hosting provider that has been used by Gamaredon Group for years and continues to be used by it.
+EvilGnome also found to be operating on an IP address that was controlled by the Gamaredon group two months ago.
+EvilGnome attackers are also using '.space' TTLD for their domains, just as the Gamaredon Group.
+EvilGnome employs techniques and modules—like the use of SFX, persistence with task scheduler, and the deployment of information-stealing tools—that remind of Gamaredon Group's Windows tools.
+How to Detect EvilGnome Malware?
+To check if your Linux system is infected with the EvilGnome spyware, you can look for the "gnome-shell-ext" executable in the "~/.cache/gnome-software/gnome-shell-extensions" directory.
+"We believe this is a premature test version. We anticipate newer versions to be discovered and reviewed in the future, which could potentially shed more light into the group's operations," researchers conclude.
+Since security and antivirus products are currently failing to detect the EvilGnome malware, researchers recommend concerned Linux administrators to block the Command & Control IP addresses listed in the IOC section of Intezer's blog post.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

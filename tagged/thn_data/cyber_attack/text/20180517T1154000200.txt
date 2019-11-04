@@ -1,0 +1,25 @@
+Nethammer—Exploiting DRAM Rowhammer Bug Through Network Requests
+Swati Khandelwal
+
+Last week, we reported about the first network-based remote Rowhammer attack, dubbed Throwhammer, which involves the exploitation a known vulnerability in DRAM through network cards using remote direct memory access (RDMA) channels.
+However, a separate team of security researchers has now demonstrated a second network-based remote Rowhammer technique that can be used to attack systems using uncached memory or flush instruction while processing the network requests.
+The research was carried out by researchers who discovered Meltdown and Spectre CPU vulnerabilities, which is independent of the Amsterdam researchers who presented a series of Rowhammer attacks, including Throwhammer published last week.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If you are unaware, Rowhammer is a critical issue with recent generation dynamic random access memory (DRAM) chips in which repeatedly accessing a row of memory can cause "bit flipping" in an adjacent row, allowing attackers to change the contents of the memory.
+The issue has since been exploited in a number of ways to escalate an attacker's privilege to kernel level and achieve remote code execution on the vulnerable systems, but the attacker needed access to the victim’s machine.
+However, the new Rowhammer attack technique, dubbed Nethammer, can be used to execute arbitrary code on the targeted system by rapidly writing and rewriting memory used for packet processing, which would be possible only with a fast network connection between the attacker and victim.
+This causes a high number of memory accesses to the same set of memory locations, which eventually induces disturbance errors in DRAM and causes memory corruption by unintentionally flipping the DRAM bit-value.
+The resulting data corruption can then be manipulated by the attacker to gain control over the victim's system.
+"To mount a Rowhammer attack, memory accesses need to be directly served by the main memory. Thus, an attacker needs to make sure that the data is not stored in the cache," the researcher paper [PDF] reads.
+Since caching makes an attack difficult, the researchers developed ways that allowed them to bypass the cache and attack directly into the DRAM to cause the row conflicts in the memory cells required for the Rowhammer attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers tested Nethammer for the three cache-bypass techniques: 
+A kernel driver that flushes (and reloads) an address whenever a packet is received.
+Intel Xeon CPUs with Intel CAT for fast cache eviction
+Uncached memory on an ARM-based mobile device.
+All three scenarios are possible, researchers showed.
+In their experimental setup, researchers were successfully able to induce a bit flip every 350 ms by sending a stream of UDP packets with up to 500 Mbit/s to the target system.
+Since the Nethammer attack technique does not require any attack code in contrast to a regular Rowhammer attack, for example, no attacker-controlled code on the system, most countermeasures do not prevent this attack.
+Since Rowhammer exploits a computer hardware weakness, no software patch can completely fix the issue. Researchers believe the Rowhammer threat is not only real but also has potential to cause real, severe damage.
+For more in-depth details on the new attack technique, you can head on to this paper, titled "Nethammer: Inducing Rowhammer Faults through Network Requests," published by the researchers earlier this week.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

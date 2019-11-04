@@ -1,0 +1,31 @@
+Hacking Team: We're Victim of a Criminal Cyber Attack
+Swati Khandelwal
+
+Hacking Team, the Italy-based spyware company that sells spying software to law enforcement agencies worldwide, says the company has always operated with the law and regulation in an ethical manner.
+However, there was only one Violation of Law in this entire event, and that is – "the massive cyber attack on the Hacking Team." company stated.
+The recent hack on Hacking Team exposed nearly 500GB of massive internal documents including internal emails, hacking tools, zero-day exploits, surveillance tools, source code for Spyware and a spreadsheet listing every government client with date of purchase and amount paid.
+Hacking Team Hack and Media Reports:
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The attack on Hacking Team was really huge in every sense. The team finally shows its disappointment with media on its hacking incident saying, the company that helps government fight crimes is being treated as the culprits, and the criminals who attacked the company are not.
+"Had a media company been attacked as Hacking Team has been, the press would be outraged," Hacking Team wrote in its press release Wednesday.
+But, every media including us have mentioned that Hacking Team got hacked, which by default indicates that they were the victim to cyber crime.
+So far, neither they nor anyone in media knows who has hacked and leaked 500GB of internal data belonging to Hacking Team.
+So, what do they expect from Media to talk about?
+The Unknown Hacker, about whom no one knows,
+or the 500 GB of leaked Hacking Team’s Secrets
+Hacking Team Spyware: Fighting for Crime or aiding Surveillance?
+Apart from this, the Hacking Team claimed that the strong spyware and hacking tools developed by the company are actually required by the law enforcement agencies to fight crime and terrorism.
+We all know that what NSA and other government agencies are doing (espionage/surveillance) with such capabilities, instead of putting every effort to fight crime and terrorism.
+Recently, a 46-year-old member of South Korea's National Intelligence Service (NIS) apparently committed suicide after it was revealed that the Asian country bought spying tools from the Hacking Team.
+A Suicide note left by the agent at the scene referenced the Hacking Team controversy, and claimed his intelligence team did not use Hacking Team tools to spy on South Korean citizens' mobile phone or any other online communications. 
+This incident could be part of the same conspiracy, which is yet to be investigated.
+Some Facts Highlighted by Hacking Team
+Highlighting the facts about its recent hack attack, the company says the attackers stole and exposed the personal information of its employees and some of its clients.
+However, the attackers were unable to access the data collected by company's clients using purchased spying software, as such information is only stored on the customer's systems and can’t be accessed by the company itself.
+The attackers also exposed some of its source code on the Internet, but according to Hacking Team, the essential elements of its source code were not compromised in the attack.
+The company agreed of selling its equipments to countries, including Ethiopia, Sudan, Russia and South Korea among others, but always sold "strictly under the law and regulation."
+"There have been reports that our software contained some sort of "backdoor" that permitted Hacking Team insight into the operations of our clients or the ability to disable their software," The company says. 
+"This is not true."
+"No such backdoors were ever present, and clients have been permitted to examine the source code to reassure themselves of this fact."
+The company also denied its involvement in any program that make use of airborne drones to attack computers and smartphone devices through Wi-Fi networks as it has been reported earlier this week.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+Hackers Infect Over 200,000 MikroTik Routers With Crypto Mining Malware
+Mohit Kumar
+
+Security researchers have discovered at least three massive malware campaigns exploiting hundreds of thousands of unpatched MikroTik routers to secretly install cryptocurrency miners on computers connected to them.
+In all, the malware campaigns have compromised more than 210,000 routers from Latvian network hardware provider Mikrotik across the world, with the number still increasing as of writing.
+The hackers have been exploiting a known vulnerability in the Winbox component of MikroTik routers that was discovered in April this year and patched within a day of its discovery, which once again shows people's carelessness in applying security patches on time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The security flaw can potentially allow an attacker to gain unauthenticated, remote administrative access to any vulnerable MikroTik router.
+The first campaign, noticed by Trustwave researchers, began with targeting networking devices in Brazil, where a hacker or a group of hackers compromised more than 183,700 MikroTik routers.
+Since other hackers have also started exploiting MikroTik router vulnerability, the campaign is spreading on a global scale.
+Troy Mursch, another security researcher, has identified two similar malware campaigns that infected 25,500 and 16,000 MikroTik routers, mainly in Moldova, with malicious cryptocurrency mining code from infamous CoinHive service.
+The attackers are injecting Coinhive’s Javascript into every web page that a user visits using a vulnerable router, eventually forcing every connected computer to unknowingly mine Monero cryptocurrency for the miscreants.
+"The attacker created a custom error page with the CoinHive script in it" and "if a user receives an error page of any kind while web browsing, they will get this custom error page which will mine CoinHive for the attacker," says Trustwave researcher Simon Kenin.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's notable about this campaign is that how wisely the attackers are infecting a large number of devices at a time, instead of going after websites with few visitors or end users by using "sophisticated ways" to run malware on their computers.
+"There are hundreds of thousands of these (MikroTik) devices around the globe, in use by ISPs and different organizations and businesses, each device serves at least tens if not hundreds of users daily," Kenin said.
+It's a good reminder for users and IT managers who are still running vulnerable MikroTik routers in their environment to patch their devices as soon as possible. A single patch, which is available since April is "enough to stop this exploitation in its tracks."
+This is not the first time MikroTik routers are targeted to spread malware. In March this year, a sophisticated APT hacking group exploited unknown vulnerabilities in MikroTik routers to covertly plant spyware into victims' computers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Researchers uncovered new malware used by Chinese cyber criminals
+Mohit Kumar
+
+Trend Micro researchers have uncovered a new backdoor pieces of malware from the Winnti family, which are mainly used by a Chinese cyber criminal group to target South East Asian organizations from the video gaming sector.
+Winnti malware used by hackers to hijack control of web users systems using a new backdoor contained in the legitimate Aheadlib analysis tool. Dubbed as “Bkdr_Tengo.A,” passes itself off as a legitimate system DLL file called winmm.dll. "We believe that this was done using a legitimate tool called Aheadlib, which is a legitimate analysis tool." wrote Trend Micro's Eduardo Altares.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"The file is not encrypted and neither was it particularly hard to analyze. Its main behavior is to steal Microsoft Office, .PDF, and .TIFF files from USB drives inserted into the system. These stolen files are stored in the $NtUninstallKB080515$ under the Windows folder. It also creates a log file named Usblog_DXM.log. The files can be retrieved by the attacker at a later time. Aside from retrieving files, it has several backdoor commands which allow the attacker to take control of the system."
+Aheadlib is a legitimate analysis tool that can be used to construct C code from DLL files. The tool is capable of hooking all the functions provided by the initial library. The criminals reportedly used the tool, which is connected to various parts of the network it is analysing, to create a backdoor they can use to bypass the system's security protocols.
+"Two of these IP addresses proved to be of particular interest, namely 50.93.204.62 and 98.143.145.118. They are located in the United States, but multiple Chinese-language domains point to them. All of these have been blocked as command-and-control servers," he said.
+This attack highlights how information theft can be performed even with malware that is not particularly advanced or sophisticated. It also shows some of the challenges in attributing attacks of this nature.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DISCOVER.Back_door id="DISCOVE0" start="109" end="118" text="uncovered" TYPE="TRG" />
+<DISCOVER.Back_door id="DISCOVE1" start="1628" end="1634" text="proved" TYPE="TRG" />
+<ATTACK.User_Compromise id="A0" start="1212" end="1225" text=" take control" TYPE="TRG" />
+<ATTACK.Trojan id="ATTACK0" start="337" end="343" text="hijack" TYPE="TRG" />
+<ATTACK.Trojan id="ATTACK1" start="373" end="378" text="using" TYPE="SUP" />
+<ATTACK.Trojan id="ATTACK2" start="472" end="489" text="passes itself off" TYPE="NUG" />
+<ATTACK.Trojan id="ATTACK3" start="571" end="576" text="using" TYPE="SUP" />
+<ATTACK.Trojan id="ATTACK4" start="1022" end="1029" text="creates" TYPE="SUP" />
+<ATTACK.Trojan id="ATTACK5" start="1441" end="1445" text="used" TYPE="TRG" />
+<ATTACK.Trojan id="ATTACK6" start="1527" end="1544" text="create a backdoor" TYPE="SUP" />
+<IMPACT.Breach id="IMPA0" start="841" end="846" text="steal" TYPE="TRG" />
+<IMPACT.Breach id="IMPA1" start="952" end="958" text="stored" TYPE="SUP" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,16 @@
+Former Microsoft Engineer Gets Prison for Role in Reveton Ransomware
+Wang Wei
+
+A former Microsoft network engineer who was charged in April this year has now been sentenced to 18 months in prison after pleading guilty to money laundering in connection with the Reveton ransomware.
+Reveton malware is old ransomware, also known as scareware or police ransomware that instead of encrypting files locks the screen of victims’ computers and displays a message purporting to come from a national law enforcement agency.
+The splash screen of the malware was designed to falsely tell unsuspecting victims that they have been caught doing illegal or malicious activities online or the law enforcement had found illegal material on their computer, forcing users to make pay a "fine" of $200-300 within 48 hours to regain access to their computers.
+Raymond Odigie Uadiale, 41-year-old, who worked as a Microsoft network engineer, is not the actual author of the Reveton ransomware, but he helped the Reveton distributor, residing in the UK and identified as the online moniker "K!NG," in cashing out ransom money collected from victims in the form of Green Dot MoneyPak prepaid vouchers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Uadiale, who was a student at Florida International University at the time of his crime in 2012 and 2013, was said to have acquired MoneyPak debit cards under the fake name of Mike Roland and received payments from victims of Reveton.
+Using Liberty Reserve service, Uadiale then transferred $93,640 into accounts of his unnamed co-conspirator in the United Kingdom, after keeping his 30 percent cut.
+Liberty Reserve was itself closed down by US authorities in May 2013, after its creator pleaded guilty to laundering hundreds of millions of dollars through the digital currency exchange and was sentenced to 20 years in prison.
+In the Southern Florida US District Court on Monday, Uadiale was given an 18-month prison sentence and three years of supervised release, after he agreed to a plea agreement that dismissed the second count of substantive money laundering.
+"The indictment charged Uadiale with one count of conspiracy to commit money laundering and one count of substantive money laundering. As part of the plea agreement, the government dismissed the substantive count."
+"By cashing out and then laundering victim payments, Raymond Uadiale played an essential role in an international criminal operation that victimized unsuspecting Americans by infecting their computers with malicious ransomware," said Assistant Attorney General Brian Benczkowski.
+Microsoft hired Uadiale as a network engineer after the conspiracy charged related to the ransomware scheme in the indictment ended.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

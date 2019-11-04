@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+miniFlame - A New cyber espionage malware discovered
+Mohit Kumar
+
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Kaspersky has discovered new malware dubbed 'miniFlame', cyber espionage software directly linked to Flame. This new nation-state espionage malware that has ties to two previous espionage tools known as Flame and Gauss, and that appears to be a “high-precision, surgical attack tool” targeting victims in Lebanon, Iran and elsewhere.
+miniFlame, also known as SPE, was found by Kaspersky Lab’s experts in July 2012, and was originally identified as a Flame module. But originally MiniFlame seems to be used to gain control of and obtain increased spying capability over select computers originally infected by the Flame and Gauss spyware.
+According to Kaspersky, versions of miniFlame were created in 2010 and 2011, and some of the six variants are still considered active. It is expected that development of the malicious program could have started as far back as 2007. "MiniFlame is a high precision attack tool," said Alexander Gostev, Chief Security Expert, Kaspersky Lab, describing the malware. "Most likely it is a targeted cyber weapon used in what can be defined as the second wave of a cyberattack."
+Main results of miniFlame analyses:
+miniFlame aka SPE, based on the same architectural platform as Flame. It can run as a standalone program or cyber espionage as an internal component of Flame and Gauss.
+The tool of cyber operates via a backdoor ("backdoor") designed to steal data and give direct access to infected systems.
+Development miniFlame could have started as early as 2007 and continued until the end of 2011. Many variants appear to have been created. Today, Kaspersky Lab has identified six key corresponding to two generations 4.x and 5.x.
+Unlike Flame or Gauss, responsible for a large number of infections, due to the miniFlame is much lower. According to the data from Kaspersky Lab, it would be limited to 10 or 20 machines. The total number of infections globally is estimated at 50 or 60.
+The small number of infections combined with flight capabilities miniFlame information and the flexibility of its design indicates that it has been used for highly targeted cyber espionage operations and has most likely been deployed in machines already infected with Flame or Gauss.
+Subscribe to our Daily Newsletter via email - Be First to know about Security and Hackers. or Join our Huge Hackers Community on Facebook, Google+ and Twitter. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<spyware id="s0" start="405" end="414" text="targeting" TYPE="USP" />
+<spyware id="s1" start="656" end="673" text=" increased spying" TYPE="USP" />
+<spyware id="s2" start="717" end="726" text=" infected" TYPE="USP" />
+<spyware id="s3" start="1453" end="1461" text="operates" TYPE="USP" />
+<spyware id="s4" start="1502" end="1512" text="steal data" TYPE="SUP" />
+<trojan id="t0" start="630" end="642" text="gain control" TYPE="USP" />
+<trojan id="t1" start="1517" end="1535" text="give direct access" TYPE="SUP" />
+</TAGS>
+</KddTask>

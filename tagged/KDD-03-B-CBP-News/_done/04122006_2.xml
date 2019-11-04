@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Border Patrol Agents Seize more than 190 pounds of Cocaine
+Contraband valued at $6.1 million
+(Wednesday, April 12, 2006)
+Weslaco, Texas  - On April 11, U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area seized 191.5 pounds of cocaine. The cocaine was concealed in a black Ford Aero-star van and had an estimated value of $6,128,000.
+At 8 a.m., Weslaco Station agents assigned to the San Juan, Texas area, observed a Ford Aero-star van leaving the river area at a high rate of speed. The driver observed a marked Border Patrol unit, and turned the vehicle south and drove to the river area. The driver of the van stopped the vehicle and fled back to Mexico.
+A search of the vehicle revealed 191.5 pounds of cocaine. The contraband was turned over to the Drug Enforcement Administration.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="25" text="CBP Border Patrol Agents" TYPE="BAR" />
+<person id="p1" start="157" end="251" text="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" TYPE="BAR" />
+<person id="p2" start="393" end="452" text="Weslaco Station agents assigned to the San Juan, Texas area" TYPE="BAR" />
+<person id="p3" start="532" end="542" text="The driver" TYPE="NOM" />
+<person id="p5" start="639" end="660" text="The driver of the van" TYPE="NOM" />
+<organization id="o0" start="1" end="18" text="CBP Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o2" start="157" end="211" text="U.S. Customs and Border Protection (CBP) Border Patrol" TYPE="NAMPRE" />
+<organization id="o3" start="157" end="196" text="U.S. Customs and Border Protection (CBP" TYPE="NAMPRE" />
+<organization id="o4" start="193" end="196" text="CBP" TYPE="NAM" />
+<organization id="o5" start="552" end="579" text="a marked Border Patrol unit" TYPE="NOM" />
+<organization id="o6" start="561" end="574" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o7" start="798" end="833" text="the Drug Enforcement Administration" TYPE="NAM" />
+<geographical-political id="g0" start="126" end="140" text="Weslaco, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="135" end="140" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="231" end="246" text="San Juan, Texas" TYPE="NAMPRE" />
+<geographical-political id="g3" start="241" end="246" text="Texas" TYPE="NAMPRE" />
+<geographical-political id="g4" start="432" end="447" text="San Juan, Texas" TYPE="NAMPRE" />
+<geographical-political id="g5" start="442" end="447" text="Texas" TYPE="NAMPRE" />
+<geographical-political id="g6" start="698" end="704" text="Mexico" TYPE="NAM" />
+<location id="l0" start="227" end="251" text="the San Juan, Texas area" TYPE="NOM" />
+<location id="l1" start="428" end="452" text="the San Juan, Texas area" TYPE="NOM" />
+<location id="l2" start="492" end="506" text="the river area" TYPE="NOM" />
+<location id="l3" start="496" end="501" text="river" TYPE="BAR" />
+<location id="l4" start="623" end="637" text="the river area" TYPE="NOM" />
+<location id="l5" start="627" end="632" text="river" TYPE="BAR" />
+<falicity id="f0" start="393" end="408" text="Weslaco Station" TYPE="NAMPRE" />
+<head id="h0" start="19" end="25" text="Agents" />
+<head id="h2" start="126" end="133" text="Weslaco" />
+<head id="h3" start="135" end="140" text="Texas" />
+<head id="h4" start="212" end="218" text="agents" />
+<head id="h1" start="5" end="18" text="Border Patrol" />
+<head id="h5" start="1" end="4" text="CBP" />
+<head id="h6" start="198" end="211" text="Border Patrol" />
+<head id="h7" start="157" end="191" text="U.S. Customs and Border Protection" />
+<head id="h8" start="193" end="196" text="CBP" />
+<head id="h9" start="247" end="251" text="area" />
+<head id="h10" start="231" end="239" text="San Juan" />
+<head id="h11" start="241" end="246" text="Texas" />
+<head id="h12" start="409" end="415" text="agents" />
+<head id="h13" start="393" end="408" text="Weslaco Station" />
+<head id="h14" start="448" end="452" text="area" />
+<head id="h15" start="432" end="440" text="San Juan" />
+<head id="h16" start="442" end="447" text="Texas" />
+<head id="h17" start="502" end="506" text="area" />
+<head id="h18" start="496" end="501" text="river" />
+<head id="h19" start="536" end="542" text="driver" />
+<head id="h20" start="575" end="579" text="unit" />
+<head id="h21" start="561" end="574" text="Border Patrol" />
+<head id="h22" start="633" end="637" text="area" />
+<head id="h23" start="627" end="632" text="river" />
+<head id="h24" start="643" end="649" text="driver" />
+<head id="h25" start="698" end="704" text="Mexico" />
+<head id="h26" start="802" end="833" text="Drug Enforcement Administration" />
+<name id="n1" start="126" end="133" text="Weslaco" />
+<name id="n2" start="135" end="140" text="Texas" />
+<name id="n0" start="5" end="18" text="Border Patrol" />
+<name id="n3" start="1" end="4" text="CBP" />
+<name id="n4" start="198" end="211" text="Border Patrol" />
+<name id="n5" start="157" end="191" text="U.S. Customs and Border Protection" />
+<name id="n6" start="193" end="196" text="CBP" />
+<name id="n7" start="231" end="239" text="San Juan" />
+<name id="n8" start="241" end="246" text="Texas" />
+<name id="n9" start="393" end="408" text="Weslaco Station" />
+<name id="n10" start="432" end="440" text="San Juan" />
+<name id="n11" start="442" end="447" text="Texas" />
+<name id="n12" start="561" end="574" text="Border Patrol" />
+<name id="n13" start="698" end="704" text="Mexico" />
+<name id="n14" start="802" end="833" text="Drug Enforcement Administration" />
+<located-mention id="lo0" start="157" end="251" text="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" TYPE="Participial" />
+<located-mention id="lo1" start="393" end="452" text="Weslaco Station agents assigned to the San Juan, Texas area" TYPE="PreMod" />
+<located-mention id="lo2" start="393" end="452" text="Weslaco Station agents assigned to the San Juan, Texas area" TYPE="Participial" />
+<located-mention id="lo3" start="532" end="637" text="The driver observed a marked Border Patrol unit, and turned the vehicle south and drove to the river area" TYPE="Verbal" />
+<located-mention id="lo4" start="639" end="704" text="The driver of the van stopped the vehicle and fled back to Mexico" TYPE="Verbal" />
+<employment-mention id="e0" start="1" end="25" text="CBP Border Patrol Agents" TYPE="PreMod" />
+<employment-mention id="e1" start="157" end="251" text="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" TYPE="PreMod" />
+<entity_link id="en0" fromID="p1" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="p0" toText="CBP Border Patrol Agents" />
+<entity_link id="en1" fromID="o2" fromText="U.S. Customs and Border Protection (CBP) Border Patrol" toID="o0" toText="CBP Border Patrol" />
+<entity_link id="en2" fromID="o3" fromText="U.S. Customs and Border Protection (CBP" toID="o1" toText="CBP" />
+<entity_link id="en3" fromID="o4" fromText="CBP" toID="o3" toText="U.S. Customs and Border Protection (CBP" />
+<entity_link id="en4" fromID="g3" fromText="Texas" toID="g1" toText="Texas" />
+<entity_link id="en5" fromID="l1" fromText="the San Juan, Texas area" toID="l0" toText="the San Juan, Texas area" />
+<entity_link id="en6" fromID="g4" fromText="San Juan, Texas" toID="g2" toText="San Juan, Texas" />
+<entity_link id="en7" fromID="g5" fromText="Texas" toID="g3" toText="Texas" />
+<entity_link id="en8" fromID="o6" fromText="Border Patrol" toID="o2" toText="U.S. Customs and Border Protection (CBP) Border Patrol" />
+<entity_link id="en9" fromID="l4" fromText="the river area" toID="l2" toText="the river area" />
+<entity_link id="en11" fromID="p5" fromText="The driver of the van" toID="p3" toText="The driver" />
+<head_link id="he0" fromID="p0" fromText="CBP Border Patrol Agents" toID="h0" toText="Agents" />
+<head_link id="he2" fromID="g0" fromText="Weslaco, Texas" toID="h2" toText="Weslaco" />
+<head_link id="he3" fromID="g1" fromText="Texas" toID="h3" toText="Texas" />
+<head_link id="he4" fromID="p1" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="h4" toText="agents" />
+<head_link id="he5" fromID="o0" fromText="CBP Border Patrol" toID="h1" toText="Border Patrol" />
+<head_link id="he6" fromID="o1" fromText="CBP" toID="h5" toText="CBP" />
+<head_link id="he7" fromID="o2" fromText="U.S. Customs and Border Protection (CBP) Border Patrol" toID="h6" toText="Border Patrol" />
+<head_link id="he8" fromID="o3" fromText="U.S. Customs and Border Protection (CBP" toID="h7" toText="U.S. Customs and Border Protection" />
+<head_link id="he9" fromID="o4" fromText="CBP" toID="h8" toText="CBP" />
+<head_link id="he10" fromID="l0" fromText="the San Juan, Texas area" toID="h9" toText="area" />
+<head_link id="he11" fromID="g2" fromText="San Juan, Texas" toID="h10" toText="San Juan" />
+<head_link id="he12" fromID="g3" fromText="Texas" toID="h11" toText="Texas" />
+<head_link id="he13" fromID="p2" fromText="Weslaco Station agents assigned to the San Juan, Texas area" toID="h12" toText="agents" />
+<head_link id="he14" fromID="f0" fromText="Weslaco Station" toID="h13" toText="Weslaco Station" />
+<head_link id="he15" fromID="l1" fromText="the San Juan, Texas area" toID="h14" toText="area" />
+<head_link id="he16" fromID="g5" fromText="Texas" toID="h16" toText="Texas" />
+<head_link id="he17" fromID="g4" fromText="San Juan, Texas" toID="h15" toText="San Juan" />
+<head_link id="he18" fromID="l2" fromText="the river area" toID="h17" toText="area" />
+<head_link id="he19" fromID="l3" fromText="river" toID="h18" toText="river" />
+<head_link id="he20" fromID="p3" fromText="The driver" toID="h19" toText="driver" />
+<head_link id="he21" fromID="o5" fromText="a marked Border Patrol unit" toID="h20" toText="unit" />
+<head_link id="he22" fromID="o6" fromText="Border Patrol" toID="h21" toText="Border Patrol" />
+<head_link id="he23" fromID="l4" fromText="the river area" toID="h22" toText="area" />
+<head_link id="he24" fromID="l5" fromText="river" toID="h23" toText="river" />
+<head_link id="he26" fromID="g6" fromText="Mexico" toID="h25" toText="Mexico" />
+<head_link id="he27" fromID="p5" fromText="The driver of the van" toID="h24" toText="driver" />
+<head_link id="he28" fromID="o7" fromText="the Drug Enforcement Administration" toID="h26" toText="Drug Enforcement Administration" />
+<name_link id="na1" fromID="g0" fromText="Weslaco, Texas" toID="n1" toText="Weslaco" />
+<name_link id="na2" fromID="g1" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="o0" fromText="CBP Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na4" fromID="o1" fromText="CBP" toID="n3" toText="CBP" />
+<name_link id="na5" fromID="o2" fromText="U.S. Customs and Border Protection (CBP) Border Patrol" toID="n4" toText="Border Patrol" />
+<name_link id="na6" fromID="o3" fromText="U.S. Customs and Border Protection (CBP" toID="n5" toText="U.S. Customs and Border Protection" />
+<name_link id="na7" fromID="o4" fromText="CBP" toID="n6" toText="CBP" />
+<name_link id="na8" fromID="g2" fromText="San Juan, Texas" toID="n7" toText="San Juan" />
+<name_link id="na9" fromID="g3" fromText="Texas" toID="n8" toText="Texas" />
+<name_link id="na10" fromID="f0" fromText="Weslaco Station" toID="n9" toText="Weslaco Station" />
+<name_link id="na11" fromID="g5" fromText="Texas" toID="n11" toText="Texas" />
+<name_link id="na12" fromID="g4" fromText="San Juan, Texas" toID="n10" toText="San Juan" />
+<name_link id="na13" fromID="o6" fromText="Border Patrol" toID="n12" toText="Border Patrol" />
+<name_link id="na14" fromID="g6" fromText="Mexico" toID="n13" toText="Mexico" />
+<name_link id="na15" fromID="o7" fromText="the Drug Enforcement Administration" toID="n14" toText="Drug Enforcement Administration" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Border Patrol Agents" toID="p0" toText="CBP Border Patrol Agents" />
+<relation_link1 id="r1" fromID="e1" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="p1" toText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" />
+<relation_link1 id="r2" fromID="lo0" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="p1" toText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" />
+<relation_link1 id="r3" fromID="lo1" fromText="Weslaco Station agents assigned to the San Juan, Texas area" toID="p2" toText="Weslaco Station agents assigned to the San Juan, Texas area" />
+<relation_link1 id="r4" fromID="lo2" fromText="Weslaco Station agents assigned to the San Juan, Texas area" toID="p2" toText="Weslaco Station agents assigned to the San Juan, Texas area" />
+<relation_link1 id="r5" fromID="lo3" fromText="The driver observed a marked Border Patrol unit, and turned the vehicle south and drove to the river area" toID="p3" toText="The driver" />
+<relation_link1 id="r6" fromID="lo4" fromText="The driver of the van stopped the vehicle and fled back to Mexico" toID="p5" toText="The driver of the van" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Border Patrol Agents" toID="o0" toText="CBP Border Patrol" />
+<relation_link2 id="re1" fromID="e1" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="o2" toText="U.S. Customs and Border Protection (CBP) Border Patrol" />
+<relation_link2 id="re2" fromID="lo0" fromText="U.S. Customs and Border Protection (CBP) Border Patrol agents working the San Juan, Texas area" toID="l0" toText="the San Juan, Texas area" />
+<relation_link2 id="re3" fromID="lo1" fromText="Weslaco Station agents assigned to the San Juan, Texas area" toID="f0" toText="Weslaco Station" />
+<relation_link2 id="re4" fromID="lo2" fromText="Weslaco Station agents assigned to the San Juan, Texas area" toID="l1" toText="the San Juan, Texas area" />
+<relation_link2 id="re5" fromID="lo3" fromText="The driver observed a marked Border Patrol unit, and turned the vehicle south and drove to the river area" toID="l4" toText="the river area" />
+<relation_link2 id="re6" fromID="lo4" fromText="The driver of the van stopped the vehicle and fled back to Mexico" toID="g6" toText="Mexico" />
+</TAGS>
+</KddTask>

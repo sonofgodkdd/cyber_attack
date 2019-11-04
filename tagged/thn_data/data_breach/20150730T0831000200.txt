@@ -1,0 +1,15 @@
+United Airlines Hacked by Sophisticated Hacking Group
+Swati Khandelwal
+
+A group of China-backed hackers believed to be responsible for high-profile data breaches, including the  U.S. Office of Personnel Management and the insurance giant Anthem, has now hit another high-profile target – United Airlines.
+United detected a cyber attack into its computer systems in May or early June; Bloomberg reported, citing some unnamed sources familiar with the matter. 
+The same sources say that the hackers responsible for the data breach in United's systems are the same group of China-backed hackers that successfully carried out several other large heists, including the United States' Office of Personnel Management and the health insurer Anthem Inc.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Dangerous Intentions: United Airlines Data Breach
+The stolen data includes manifests, which contain information on flights' passengers and their origins and destinations, meaning that the hackers have "data on the movements of Millions of Americans."
+Since United Airlines is the world's second-largest airline and major contractor for U.S. government travel, experts say that the vast cache of information could be used to track the movements of specific government or military officials.
+Bloomberg also speculated that the combination of security-clearance records from OPM, insurance records from Anthem, and now travel records from United, could be used by hackers to blackmail Americans working in defense and intelligence.
+United Airlines didn't immediately respond to the comment. 
+Although the recent data breach in United Airlines strongly suggests the company to improve its cyber security, United already launched a bug bounty program in May in an effort to find security holes in its products. 
+Two weeks ago, United paid two hackers more than 1 Million frequent-flyer miles each for finding multiple security vulnerabilities in the Airline's IT system.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

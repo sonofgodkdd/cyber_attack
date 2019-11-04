@@ -1,0 +1,19 @@
+30 Million Facebook Accounts Were Hacked: Check If You're One of Them
+Swati Khandelwal
+Late last month Facebook announced its worst-ever security breach that allowed an unknown group of hackers to steal secret access tokens for millions of accounts by taking advantage of a flaw in the 'View As' feature.
+At the time of the initial disclosure, Facebook estimated that the number of users affected by the breach could have been around 50 million, though a new update published today by the social media giant downgraded this number to 30 million.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Out of those 30 million accounts, hackers successfully accessed personal information from 29 million Facebook users, though the company assured that the miscreants apparently didn’t manage to access any third-party app data.
+Here's How Facebook Classified the Stolen Data:
+Facebook vice president of product management Guy Rosen published a new blog post Friday morning to share further details on the massive security breach, informing that the hackers stole data from those affected accounts, as follows:
+For about 15 million Facebook users, attackers accessed two sets of information: usernames and contact information including phone numbers, email addresses and other contact information depending on what users had on their profiles.
+For about 14 million Facebook users, attackers accessed an even wider part of their personal data, including the same two sets of information mentioned above, along with other details users had on their profiles, like gender, language, relationship status, religion, hometown, current city, birthdate, device types used to access Facebook, education, work, the last 10 places they checked into or were tagged in, website, people or pages they follow, and the 15 most recent searches.
+A remaining 1 million Facebook users did not have any personal data accessed by the attackers.
+Besides this, Rosen also added that the attackers had no information to data from "Messenger, Messenger Kids, Instagram, WhatsApp, Oculus, Workplace, Pages, payments, third-party apps, or advertising or developer accounts."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, hackers also were not able to access any private message content, with one notable exception—If a user is a Facebook page administrator who had received or exchanged messages from someone on Facebook, the content of those messages was exposed to the attackers.
+Here's How to Check If You Are One of 30 Million Affected Users
+Facebook said users can check whether they were affected by the breach by visiting the social network's Help Center.
+Facebook also added that the company will directly inform those 30 million users affected to explain what information the attackers might have accessed, along with steps they can take to help protect themselves from any suspicious emails, text messages, or calls.
+So far the identity of the hackers remains unclear, but Rosen said Facebook is working with the FBI, the US Federal Trade Commission, Irish Data Protection Commission, and other authorities to investigate who might be behind the breach or if they were targeting anyone in particular.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

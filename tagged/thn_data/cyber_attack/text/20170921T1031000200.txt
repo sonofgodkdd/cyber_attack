@@ -1,0 +1,34 @@
+CCleaner Malware Infects Big Tech Companies With Second Backdoor
+Unknown
+
+The group of unknown hackers who hijacked CCleaner's download server to distribute a malicious version of the popular system optimization software targeted at least 20 major international technology companies with a second-stage payload.
+Earlier this week, when the CCleaner hack was reported, researchers assured users that there's no second stage malware used in the massive attack and affected users can simply update their version in order to get rid of the malicious software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, during the analysis of the hackers' command-and-control (C2) server to which the malicious CCleaner versions connected, security researchers from Cisco's Talos Group found evidence of a second payload (GeeSetup_x86.dll, a lightweight backdoor module) that was delivered to a specific list of computers based on local domain names.
+Affected Technology Firms 
+According to a predefined list mentioned in the configuration of the C2 server, the attack was designed to find computers inside the networks of the major technology firms and deliver the secondary payload. The target companies included:
+Google
+Microsoft
+Cisco
+Intel
+Samsung
+Sony
+HTC
+Linksys
+D-Link
+Akamai
+VMware
+In the database, researchers found a list of nearly 700,000 backdoored machines infected with the malicious version of CCleaner, i.e. the first-stage payload, and a list of at least 20 machines that were infected with the secondary payload to get a deeper foothold on those systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The CCleaner hackers specifically chose these 20 machines based upon their Domain name, IP address, and Hostname. The researchers believe the secondary malware was likely intended for industrial espionage.
+CCleaner Malware Links to Chinese Hacking Group
+According to the researchers from Kaspersky, the CCleaner malware shares some code with the hacking tools used by a sophisticated Chinese hacking group called Axiom, also known as APT17, Group 72, DeputyDog, Tailgater Team, Hidden Lynx or AuroraPanda.
+"The malware injected into #CCleaner has shared code with several tools used by one of the APT groups from the #Axiom APT 'umbrella'," tweeted director of Global Research and Analysis Team at Kaspersky Lab.
+Cisco researchers also note that one configuration file on the attacker's server was set for China's time zone, which suggests China could be the source of the CCleaner attack. However, this evidence alone is not enough for attribution.
+Cisco Talos researchers also said that they have already notified the affected tech companies about a possible breach.
+Removing Malicious CCleaner Version would Not Help
+Just removing the Avast's software application from the infected machines would not be enough to get rid of the CCleaner second stage malware payload from their network, with the attackers' still-active C2 server.
+So, affected companies that have had their computers infected with the malicious version of CCleaner are strongly recommended to fully restore their systems from backup versions before the installation of the tainted security program.
+"These findings also support and reinforce our previous recommendation that those impacted by this supply chain attack should not simply remove the affected version of CCleaner or update to the latest version, but should restore from backups or reimage systems to ensure that they completely remove not only the backdoored version of CCleaner but also any other malware that may be resident on the system," the researchers say.
+For those who are unaware, the Windows 32-bit version of CCleaner v5.33.6162 and CCleaner Cloud v1.07.3191 were affected by the malware, and affected users should update the software to version 5.34 or higher.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,18 @@
+Worst Data Breach in German History, 18 Million Email Passwords Compromised
+Swati Khandelwal
+
+Germany has confirmed its biggest Data theft in the country's history with usernames and passwords of some 18 million email accounts stolen and compromised by hackers.
+The Story broke by the German press, Der Spiegel on Thursday, when German Authorities revealed another mass hacking of private data belonged to German citizens and major Internet companies both in Germany and abroad.
+16 MILLION AND NOW 18 MILLION
+Authorities in the northwestern city of Verden unearthed a treasure of personal information, a list of about 18 million stolen email addresses and passwords, and seized it just after only two months from the previous major data breach, when researchers came across 16 million compromised email accounts of German users while conducting research on a botnet, a network of computers infected with malware. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The accounts were compromised by hackers in the mid of January, and Der Spiegel suggests that the same group of hackers is responsible for both thefts and that they may be based in one of the Baltic countries.
+MILLION ON SPAM .. SHOP... THEFT
+According to Investigators, some of the accounts are used to send spam emails and some combinations of email and password are used for online shopping portals, as these mass of stolen personal information could also be used to obtain the financial details of users account. 
+To help in securing the Internet users, German authorities warned to take additional security measures to prevent cyber criminals using their data while shopping online.
+"It is suspected that these stolen records are being actively misused," said Lutz Gaebel, spokesman of the prosecutor's office in Verden.
+SOURCE OF DATA
+Till now, It has not been revealed by the investigators that how much they know about this massive data Breach and How the attackers get their evil hands on the personal data of over 18 million users. Lutz Gaebel declined to give more information due to the ongoing investigation.
+It is estimated that at least three million of the accounts belonged to German citizens and some of the compromised email accounts have international domain extensions such as ‘.COM’. But in real, the number could be much larger than the visible one as the investigation is ongoing.
+The German prosecutor investigating the latest major data theft informed the country's IT watchdog, Federal Office for Information Security (BSI), to introduce additional security measures to help the Internet users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,30 @@
+Another Facebook Bug Could Have Exposed Your Private Information
+Swati Khandelwal
+
+Another security vulnerability has been reported in Facebook that could have allowed attackers to obtain certain personal information about users and their friends, potentially putting the privacy of users of the world's most popular social network at risk.
+Discovered by cybersecurity researchers from Imperva, the vulnerability resides in the way Facebook search feature displays results for entered queries.
+According to Imperva researcher Ron Masas, the page that displays search results includes iFrame elements associated with each outcome, where the endpoint URLs of those iFrames did not have any protection mechanisms in place to protect against cross-site request forgery (CSRF) attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It should be noted that the newly reported vulnerability has already been patched, and unlike previously disclosed flaw in Facebook that exposed personal information of 30 million users, it did not allow attackers to extract information from mass accounts at once.
+How Does the Facebook Search Vulnerability Work?
+To exploit this vulnerability, all an attacker needs to do is simply tricking users into visiting a malicious site on their web browser where they have already logged into their Facebook accounts.
+The malicious site contains a javascript code that will get executed in the background as soon as the victim clicks anywhere on that page.
+"For this attack to work we need to trick a Facebook user to open our malicious site and click anywhere on the site, (this can be any site we can run JavaScript on) allowing us to open a popup or a new tab to the Facebook search page, forcing the user to execute any search query we want," Masas explained in a blog post published today.
+As demonstrated by Masas in the video shown below, the JavaScript code opens a new tab or window with a Facebook URL that runs certain predefined search queries and measures the result to extract targeted information.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Searching something on Facebook seems less lucrative, especially when the exploit code returns the result in just yes or no.
+"The attack actually leaks the number of search results for any search query on the currently logged Facebook account. The most basic usage is to make boolean queries like 'photos of me from Iceland'," Masas told The Hacker News.
+But if used correctly, Facebook's search feature could be exploited to extract sensitive information related to your Facebook account, such as checking:
+If you have a friend with a specific name or a keyword in his/her name
+If you like a particular page or are a member of a specific group
+If you have a friend who likes a particular page
+If you have taken photos in a certain location or country
+If you have ever posted a photo taken at certain places/countries
+If you have ever posted an update on your timeline containing a specific text/keyword
+If you have Islamic friends
+And so on… any custom query you can come up with.
+"This process can be repeated without the need for new popups or tabs to be open since the attacker can control the location property of the Facebook window," Masas added. "This is especially dangerous for mobile users, since the open tab can easily get lost in the background, allowing the attacker to extract the results for multiple queries, while the user is watching a video or reading an article on the attacker’s site."
+In short, the vulnerability exposed interests and activities of targeted users and their friends even if their privacy settings are set in a way that this information can only be visible to them or their friends.
+Imperva responsibly reported the bug to Facebook through the company's vulnerability disclosure program in May 2018, and the social network giant resolved the issue days later by adding CSRF protections.
+Almost three months ago, Masas also reported an impressive web browser vulnerability that exposed everything other web platforms, like Facebook and Google, knows about you. He also released a proof of concept exploit of the bug.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

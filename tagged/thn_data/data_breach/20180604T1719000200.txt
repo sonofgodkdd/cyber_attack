@@ -1,0 +1,25 @@
+Facebook Accused of Giving Over 60 Device-Makers Deep Access to User Data
+Swati Khandelwal
+
+After being embroiled into controversies over its data sharing practices, it turns out that Facebook had granted inappropriate access to its users' data to more than 60 device makers, including Amazon, Apple, Microsoft, Blackberry, and Samsung.
+According to a lengthy report published by The New York Times, the social network giant struck data-sharing partnerships with at least 60 device manufacture companies so that they could offer Facebook messaging functions, "Like" buttons, address books, and other features without requiring their users to install a separate app.
+The agreements were reportedly made over the last 10 years, starting before Facebook apps were widely available on smartphones.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Most notably, the publication suggests that the partnerships could be in breach of a 2011 consent decree by the Federal Trade Commission (FTC), which barred Facebook from granting other companies access to data of users' Facebook friends without their explicit consent​.
+During the Cambridge Analytica scandal revealed in March this year, Facebook stated that it already ceased allowing such third-party access in 2015 only, but the publication suggests that this does not include "makers of cellphones, tablets and other hardware."
+Facebook is under heavy fire since the revelation that consultancy firm Cambridge Analytica had misused data of 87 million Facebook users to help Donald Trump win the US presidency in 2016.
+In a recent test conducted by an NYT reporter on a 2013 Blackberry device using his Facebook account with roughly 550 friends, a BlackBerry app called "The Hub" was still able to harvest private data from 556 of his friends, including their religious and political views.
+Not only that, but The Hub was also able to acquire "identifying information" for up to 294,258 friends of his Facebook friends.
+Here's What Facebook Has to Say About this:
+Facebook, who said in front of Congress in March that "every piece of content that you share on Facebook you own. You have complete control over who sees it and how you share it," responded to the NYT report later Sunday in a blog post entitled "Why We Disagree with The New York Times."
+In the post, Facebook said the company created the APIs for Amazon, Apple, Blackberry, HTC, Microsoft, Samsung and other device makers so that they could provide Facebook features on their operating systems at a time when there were no apps or app stores.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The post, written by VP of Product Partnerships Ime Archibong, said the data agreements with the device makers were a necessity:
+"In the early days of mobile, the demand for Facebook outpaced our ability to build versions of the product that worked on every phone or operating system. It's hard to remember now, but back then there were no app stores." 
+"So companies like Facebook, Google, Twitter and YouTube had to work directly with operating system and device manufacturers to get their products into people's hands. This took a lot of time—and Facebook was not able to get to everyone." 
+"To bridge this gap, we built a set of device-integrated APIs that allowed companies to recreate Facebook-like experiences for their individual devices or operating systems. Over the last decade, around 60 companies have used them—including many household names such as Amazon, Apple, Blackberry, HTC, Microsoft, and Samsung."
+The post further said that Facebook controlled these APIs tightly and that its partners signed agreements that prevented Facebook users' information from being used for anything other than to "recreate Facebook-like experience."
+"Partners could not integrate the user's Facebook features with their devices without the user's permission. And our partnership and engineering teams approved the Facebook experiences these companies built," the post reads.
+"Contrary to claims by the New York Times, friends' information, like photos, was only accessible on devices when people made a decision to share their information with those friends. We are not aware of any abuse by these companies."
+Due to the popularity of iOS and Android few people rely on these APIs to create bespoke Facebook experiences, which is why the social network giant began "winding down" the partnerships in April, and so far ended 22 of these partnerships.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

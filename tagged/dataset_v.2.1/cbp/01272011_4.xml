@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Border Patrol Vehicles Spiked; Over 10 Tons of Dope Seized
+(Thursday, January 27, 2011)
+Edinburg, Texas  - Although several Border Patrol vehicles were disabled by homemade spikes, that didn't stop agents from confiscating more than 10 tons of marijuana in multiple seizures throughout the Rio Grande Valley Sector over the past three days.
+Rio Grande Valley Sector agents pursuing suspicious vehicles seized more than 10 tons of marijuana recently, but not before having tire deflation devices deployed against them.
+The vehicles were disabled Tuesday near Havana, Texas, when agents saw a suspicious vehicle driving away from the Rio Grande. When the vehicle's driver noticed the agents, he made a U-turn and returned to the river. As the agents followed the vehicle, the spikes were deployed and disabled four vehicles. A Customs and Border Protection Office of Air and Marine helicopter was called in to assist and observed about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats. As the smugglers fled the area they set the vehicle on fire. The La Joya Fire Department was called to the scene and extinguished the blaze.
+The largest of the drug seizures occurred Tuesday when agents received information from Immigration and Customs Enforcement-Homeland Security Investigations about a ranch near El Sauz, Texas, that possibly contained a large cache of marijuana.
+The agents went to the ranch and followed footprints into the brush. After following the trail for a short distance they found more than 6,000 pounds of marijuana. Shortly after discovering the drugs, the agents heard a vehicle enter the ranch and saw two men approaching their location. The agents identified themselves to the men, at which time the pair fled. After a brief foot pursuit both men were apprehended.
+The marijuana and the two men, who are nationals of Mexico, were turned over to ICE-Homeland Security Investigations.
+Overall between Monday and Wednesday agents seized more than 20,000 pounds of marijuana with a value of more than $16.3 million.
+Because smugglers continue to endanger the lives of innocent motorists through the use of homemade spikes on public roadways, law enforcement authorities are asking the public to help by contacting the Hidalgo County Crime Stoppers at 956-668-TIPS to report any information regarding the deployment or manufacture of spikes being used by smugglers. All callers will remain anonymous and all information will be kept confidential.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="199" end="205" text="agents" TYPE="BAR" />
+<person id="p1" start="342" end="373" text="Rio Grande Valley Sector agents" TYPE="BAR" />
+<person id="p2" start="579" end="585" text="agents" TYPE="BAR" />
+<person id="p3" start="650" end="670" text="the vehicle's driver" TYPE="NOM" />
+<person id="p4" start="679" end="689" text="the agents" TYPE="NOM" />
+<person id="p5" start="691" end="693" text="he" TYPE="PRO" />
+<person id="p6" start="738" end="748" text="the agents" TYPE="NOM" />
+<person id="p7" start="929" end="1022" text="about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" TYPE="NOM" />
+<person id="p8" start="1027" end="1040" text="the smugglers" TYPE="NOM" />
+<person id="p9" start="1220" end="1226" text="agents" TYPE="BAR" />
+<person id="p10" start="1409" end="1419" text="The agents" TYPE="NOM" />
+<person id="p11" start="1525" end="1529" text="they" TYPE="PRO" />
+<person id="p12" start="1610" end="1620" text="the agents" TYPE="NOM" />
+<person id="p13" start="1661" end="1695" text="two men approaching their location" TYPE="NOM" />
+<person id="p14" start="1681" end="1686" text="their" TYPE="PRO" />
+<person id="p15" start="1697" end="1707" text="The agents" TYPE="NOM" />
+<person id="p16" start="1719" end="1729" text="themselves" TYPE="PRO" />
+<person id="p17" start="1733" end="1740" text="the men" TYPE="NOM" />
+<person id="p18" start="1756" end="1764" text="the pair" TYPE="HLS" />
+<person id="p19" start="1798" end="1806" text="both men" TYPE="NOM" />
+<person id="p20" start="1843" end="1883" text="the two men, who are nationals of Mexico" TYPE="NOM" />
+<person id="p21" start="1856" end="1859" text="who" TYPE="WHQ" />
+<person id="p22" start="1980" end="1986" text="agents" TYPE="BAR" />
+<person id="p23" start="2080" end="2089" text="smugglers" TYPE="BAR" />
+<person id="p24" start="2124" end="2142" text="innocent motorists" TYPE="BAR" />
+<person id="p25" start="2198" end="2225" text="law enforcement authorities" TYPE="BAR" />
+<person id="p27" start="2410" end="2419" text="smugglers" TYPE="BAR" />
+<person id="p28" start="2421" end="2432" text="All callers" TYPE="NOM" />
+<person id="p29" start="1864" end="1883" text="nationals of Mexico" TYPE="BAR" />
+<organization id="o0" start="1" end="14" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="125" end="138" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="826" end="880" text="Customs and Border Protection Office of Air and Marine" TYPE="NAMPRE" />
+<organization id="o3" start="1085" end="1112" text="The La Joya Fire Department" TYPE="NAM" />
+<organization id="o4" start="1253" end="1321" text="Immigration and Customs Enforcement-Homeland Security Investigations" TYPE="NAM" />
+<organization id="o7" start="1905" end="1941" text="ICE-Homeland Security Investigations" TYPE="NAM" />
+<organization id="o9" start="2270" end="2303" text="the Hidalgo County Crime Stoppers" TYPE="NAM" />
+<organization id="o5" start="1253" end="1288" text="Immigration and Customs Enforcement" TYPE="NAMPRE" />
+<organization id="o6" start="1905" end="1908" text="ICE" TYPE="NAMPRE" />
+<geographical-political id="g0" start="89" end="104" text="Edinburg, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="559" end="572" text="Havana, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="567" end="572" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="99" end="104" text="Texas" TYPE="NAM" />
+<geographical-political id="g5" start="1006" end="1012" text="Mexico" TYPE="NAM" />
+<geographical-political id="g6" start="1341" end="1355" text="El Sauz, Texas" TYPE="NAM" />
+<geographical-political id="g7" start="1350" end="1355" text="Texas" TYPE="NAM" />
+<geographical-political id="g9" start="1877" end="1883" text="Mexico" TYPE="NAM" />
+<geographical-political id="g4" start="2237" end="2247" text="the public" TYPE="HLS" />
+<location id="l0" start="287" end="315" text="the Rio Grande Valley Sector" TYPE="NAM" />
+<location id="l1" start="342" end="366" text="Rio Grande Valley Sector" TYPE="NAMPRE" />
+<location id="l2" start="629" end="643" text="the Rio Grande" TYPE="NAM" />
+<location id="l3" start="724" end="733" text="the river" TYPE="NOM" />
+<falicity id="f1" start="1328" end="1407" text="a ranch near El Sauz, Texas, that possibly contained a large cache of marijuana" TYPE="NOM" />
+<falicity id="f2" start="1357" end="1361" text="that" TYPE="PRO" />
+<falicity id="f3" start="1428" end="1437" text="the ranch" TYPE="NOM" />
+<falicity id="f4" start="1643" end="1652" text="the ranch" TYPE="NOM" />
+<head id="h0" start="1" end="14" text="Border Patrol" />
+<head id="h1" start="89" end="97" text="Edinburg" />
+<head id="h2" start="125" end="138" text="Border Patrol" />
+<head id="h3" start="199" end="205" text="agents" />
+<head id="h4" start="291" end="315" text="Rio Grande Valley Sector" />
+<head id="h5" start="367" end="373" text="agents" />
+<head id="h6" start="342" end="366" text="Rio Grande Valley Sector" />
+<head id="h7" start="559" end="565" text="Havana" />
+<head id="h8" start="567" end="572" text="Texas" />
+<head id="h9" start="99" end="104" text="Texas" />
+<head id="h10" start="579" end="585" text="agents" />
+<head id="h11" start="633" end="643" text="Rio Grande" />
+<head id="h12" start="664" end="670" text="driver" />
+<head id="h13" start="683" end="689" text="agents" />
+<head id="h14" start="691" end="693" text="he" />
+<head id="h15" start="728" end="733" text="river" />
+<head id="h16" start="742" end="748" text="agents" />
+<head id="h17" start="826" end="880" text="Customs and Border Protection Office of Air and Marine" />
+<head id="h18" start="938" end="944" text="people" />
+<head id="h19" start="1006" end="1012" text="Mexico" />
+<head id="h20" start="1031" end="1040" text="smugglers" />
+<head id="h21" start="1089" end="1112" text="La Joya Fire Department" />
+<head id="h22" start="1220" end="1226" text="agents" />
+<head id="h23" start="1289" end="1321" text="Homeland Security Investigations" />
+<head id="h24" start="1253" end="1288" text="Immigration and Customs Enforcement" />
+<head id="h25" start="1330" end="1335" text="ranch" />
+<head id="h26" start="1341" end="1348" text="El Sauz" />
+<head id="h27" start="1350" end="1355" text="Texas" />
+<head id="h28" start="1357" end="1361" text="that" />
+<head id="h29" start="1413" end="1419" text="agents" />
+<head id="h30" start="1432" end="1437" text="ranch" />
+<head id="h31" start="1525" end="1529" text="they" />
+<head id="h32" start="1614" end="1620" text="agents" />
+<head id="h33" start="1647" end="1652" text="ranch" />
+<head id="h34" start="1665" end="1668" text="men" />
+<head id="h35" start="1681" end="1686" text="their" />
+<head id="h36" start="1701" end="1707" text="agents" />
+<head id="h37" start="1719" end="1729" text="themselves" />
+<head id="h38" start="1737" end="1740" text="men" />
+<head id="h39" start="1760" end="1764" text="pair" />
+<head id="h40" start="1803" end="1806" text="men" />
+<head id="h41" start="1851" end="1854" text="men" />
+<head id="h42" start="1856" end="1859" text="who" />
+<head id="h43" start="1864" end="1873" text="nationals" />
+<head id="h44" start="1877" end="1883" text="Mexico" />
+<head id="h45" start="1909" end="1941" text="Homeland Security Investigations" />
+<head id="h46" start="1905" end="1908" text="ICE" />
+<head id="h47" start="1980" end="1986" text="agents" />
+<head id="h48" start="2080" end="2089" text="smugglers" />
+<head id="h49" start="2133" end="2142" text="motorists" />
+<head id="h50" start="2214" end="2225" text="authorities" />
+<head id="h51" start="2241" end="2247" text="public" />
+<head id="h52" start="2410" end="2419" text="smugglers" />
+<head id="h53" start="2425" end="2432" text="callers" />
+<head id="h54" start="2274" end="2303" text="Hidalgo County Crime Stoppers" />
+<name id="n0" start="1" end="14" text="Border Patrol" />
+<name id="n1" start="89" end="97" text="Edinburg" />
+<name id="n2" start="125" end="138" text="Border Patrol" />
+<name id="n3" start="291" end="315" text="Rio Grande Valley Sector" />
+<name id="n4" start="342" end="366" text="Rio Grande Valley Sector" />
+<name id="n5" start="559" end="565" text="Havana" />
+<name id="n6" start="567" end="572" text="Texas" />
+<name id="n7" start="99" end="104" text="Texas" />
+<name id="n8" start="633" end="643" text="Rio Grande" />
+<name id="n9" start="826" end="880" text="Customs and Border Protection Office of Air and Marine" />
+<name id="n10" start="1006" end="1012" text="Mexico" />
+<name id="n11" start="1089" end="1112" text="La Joya Fire Department" />
+<name id="n12" start="1289" end="1321" text="Homeland Security Investigations" />
+<name id="n13" start="1253" end="1288" text="Immigration and Customs Enforcement" />
+<name id="n14" start="1341" end="1348" text="El Sauz" />
+<name id="n15" start="1350" end="1355" text="Texas" />
+<name id="n16" start="1877" end="1883" text="Mexico" />
+<name id="n17" start="1909" end="1941" text="Homeland Security Investigations" />
+<name id="n18" start="1905" end="1908" text="ICE" />
+<name id="n19" start="2274" end="2303" text="Hidalgo County Crime Stoppers" />
+<located-mention id="lo0" start="342" end="373" text="Rio Grande Valley Sector agents" TYPE="PreMod" />
+<located-mention id="lo2" start="1409" end="1476" text="The agents went to the ranch and followed footprints into the brush" TYPE="Verbal" />
+<located-mention id="lo3" start="645" end="733" text="When the vehicle's driver noticed the agents, he made a U-turn and returned to the river" TYPE="Verbal" />
+<located-mention id="lo4" start="824" end="1022" text="A Customs and Border Protection Office of Air and Marine helicopter was called in to assist and observed about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" TYPE="Other" />
+<CRRE id="C0" start="1864" end="1883" text="nationals of Mexico" TYPE="Preposition" />
+<entity_link id="en0" fromID="o1" fromText="Border Patrol" toID="o0" toText="Border Patrol" />
+<entity_link id="en1" fromID="l1" fromText="Rio Grande Valley Sector" toID="l0" toText="the Rio Grande Valley Sector" />
+<entity_link id="en2" fromID="g2" fromText="Texas" toID="g3" toText="Texas" />
+<entity_link id="en3" fromID="p2" fromText="agents" toID="p1" toText="Rio Grande Valley Sector agents" />
+<entity_link id="en4" fromID="p4" fromText="the agents" toID="p2" toText="agents" />
+<entity_link id="en5" fromID="p5" fromText="he" toID="p3" toText="the vehicle's driver" />
+<entity_link id="en6" fromID="l3" fromText="the river" toID="l2" toText="the Rio Grande" />
+<entity_link id="en7" fromID="p6" fromText="the agents" toID="p4" toText="the agents" />
+<entity_link id="en8" fromID="p8" fromText="the smugglers" toID="p7" toText="about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" />
+<entity_link id="en9" fromID="g7" fromText="Texas" toID="g2" toText="Texas" />
+<entity_link id="en10" fromID="f2" fromText="that" toID="f1" toText="a ranch near El Sauz, Texas, that possibly contained a large cache of marijuana" />
+<entity_link id="en11" fromID="p10" fromText="The agents" toID="p9" toText="agents" />
+<entity_link id="en12" fromID="f3" fromText="the ranch" toID="f1" toText="a ranch near El Sauz, Texas, that possibly contained a large cache of marijuana" />
+<entity_link id="en13" fromID="p11" fromText="they" toID="p10" toText="The agents" />
+<entity_link id="en14" fromID="p12" fromText="the agents" toID="p11" toText="they" />
+<entity_link id="en15" fromID="f4" fromText="the ranch" toID="f3" toText="the ranch" />
+<entity_link id="en16" fromID="p14" fromText="their" toID="p12" toText="the agents" />
+<entity_link id="en17" fromID="p15" fromText="The agents" toID="p14" toText="their" />
+<entity_link id="en18" fromID="p16" fromText="themselves" toID="p15" toText="The agents" />
+<entity_link id="en19" fromID="p17" fromText="the men" toID="p13" toText="two men approaching their location" />
+<entity_link id="en20" fromID="p18" fromText="the pair" toID="p17" toText="the men" />
+<entity_link id="en21" fromID="p19" fromText="both men" toID="p18" toText="the pair" />
+<entity_link id="en22" fromID="p20" fromText="the two men, who are nationals of Mexico" toID="p19" toText="both men" />
+<entity_link id="en23" fromID="p21" fromText="who" toID="p20" toText="the two men, who are nationals of Mexico" />
+<entity_link id="en25" fromID="g9" fromText="Mexico" toID="g5" toText="Mexico" />
+<entity_link id="en26" fromID="o7" fromText="ICE-Homeland Security Investigations" toID="o4" toText="Immigration and Customs Enforcement-Homeland Security Investigations" />
+<entity_link id="en28" fromID="p27" fromText="smugglers" toID="p23" toText="smugglers" />
+<entity_link id="en31" fromID="p29" fromText="nationals of Mexico" toID="p20" toText="the two men, who are nationals of Mexico" />
+<entity_link id="en24" fromID="o6" fromText="ICE" toID="o5" toText="Immigration and Customs Enforcement" />
+<head_link id="he0" fromID="o0" fromText="Border Patrol" toID="h0" toText="Border Patrol" />
+<head_link id="he1" fromID="g0" fromText="Edinburg, Texas" toID="h1" toText="Edinburg" />
+<head_link id="he2" fromID="o1" fromText="Border Patrol" toID="h2" toText="Border Patrol" />
+<head_link id="he3" fromID="p0" fromText="agents" toID="h3" toText="agents" />
+<head_link id="he4" fromID="l0" fromText="the Rio Grande Valley Sector" toID="h4" toText="Rio Grande Valley Sector" />
+<head_link id="he5" fromID="p1" fromText="Rio Grande Valley Sector agents" toID="h5" toText="agents" />
+<head_link id="he6" fromID="l1" fromText="Rio Grande Valley Sector" toID="h6" toText="Rio Grande Valley Sector" />
+<head_link id="he7" fromID="g1" fromText="Havana, Texas" toID="h7" toText="Havana" />
+<head_link id="he8" fromID="g2" fromText="Texas" toID="h8" toText="Texas" />
+<head_link id="he9" fromID="g3" fromText="Texas" toID="h9" toText="Texas" />
+<head_link id="he10" fromID="p2" fromText="agents" toID="h10" toText="agents" />
+<head_link id="he12" fromID="p3" fromText="the vehicle's driver" toID="h12" toText="driver" />
+<head_link id="he13" fromID="p4" fromText="the agents" toID="h13" toText="agents" />
+<head_link id="he14" fromID="p5" fromText="he" toID="h14" toText="he" />
+<head_link id="he15" fromID="l2" fromText="the Rio Grande" toID="h11" toText="Rio Grande" />
+<head_link id="he16" fromID="l3" fromText="the river" toID="h15" toText="river" />
+<head_link id="he17" fromID="p6" fromText="the agents" toID="h16" toText="agents" />
+<head_link id="he18" fromID="o2" fromText="Customs and Border Protection Office of Air and Marine" toID="h17" toText="Customs and Border Protection Office of Air and Marine" />
+<head_link id="he19" fromID="p7" fromText="about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" toID="h18" toText="people" />
+<head_link id="he20" fromID="g5" fromText="Mexico" toID="h19" toText="Mexico" />
+<head_link id="he21" fromID="p8" fromText="the smugglers" toID="h20" toText="smugglers" />
+<head_link id="he22" fromID="o3" fromText="The La Joya Fire Department" toID="h21" toText="La Joya Fire Department" />
+<head_link id="he23" fromID="p9" fromText="agents" toID="h22" toText="agents" />
+<head_link id="he27" fromID="f1" fromText="a ranch near El Sauz, Texas, that possibly contained a large cache of marijuana" toID="h25" toText="ranch" />
+<head_link id="he28" fromID="g6" fromText="El Sauz, Texas" toID="h26" toText="El Sauz" />
+<head_link id="he29" fromID="g7" fromText="Texas" toID="h27" toText="Texas" />
+<head_link id="he30" fromID="f2" fromText="that" toID="h28" toText="that" />
+<head_link id="he31" fromID="p10" fromText="The agents" toID="h29" toText="agents" />
+<head_link id="he32" fromID="f3" fromText="the ranch" toID="h30" toText="ranch" />
+<head_link id="he33" fromID="p11" fromText="they" toID="h31" toText="they" />
+<head_link id="he34" fromID="p12" fromText="the agents" toID="h32" toText="agents" />
+<head_link id="he35" fromID="f4" fromText="the ranch" toID="h33" toText="ranch" />
+<head_link id="he36" fromID="p13" fromText="two men approaching their location" toID="h34" toText="men" />
+<head_link id="he37" fromID="p14" fromText="their" toID="h35" toText="their" />
+<head_link id="he38" fromID="p15" fromText="The agents" toID="h36" toText="agents" />
+<head_link id="he39" fromID="p16" fromText="themselves" toID="h37" toText="themselves" />
+<head_link id="he40" fromID="p17" fromText="the men" toID="h38" toText="men" />
+<head_link id="he41" fromID="p18" fromText="the pair" toID="h39" toText="pair" />
+<head_link id="he42" fromID="p19" fromText="both men" toID="h40" toText="men" />
+<head_link id="he43" fromID="p20" fromText="the two men, who are nationals of Mexico" toID="h41" toText="men" />
+<head_link id="he44" fromID="p21" fromText="who" toID="h42" toText="who" />
+<head_link id="he46" fromID="g9" fromText="Mexico" toID="h44" toText="Mexico" />
+<head_link id="he49" fromID="p22" fromText="agents" toID="h47" toText="agents" />
+<head_link id="he50" fromID="p23" fromText="smugglers" toID="h48" toText="smugglers" />
+<head_link id="he51" fromID="p24" fromText="innocent motorists" toID="h49" toText="motorists" />
+<head_link id="he52" fromID="p25" fromText="law enforcement authorities" toID="h50" toText="authorities" />
+<head_link id="he54" fromID="p27" fromText="smugglers" toID="h52" toText="smugglers" />
+<head_link id="he55" fromID="p28" fromText="All callers" toID="h53" toText="callers" />
+<head_link id="he56" fromID="o9" fromText="the Hidalgo County Crime Stoppers" toID="h54" toText="Hidalgo County Crime Stoppers" />
+<head_link id="he59" fromID="p29" fromText="nationals of Mexico" toID="h43" toText="nationals" />
+<head_link id="he60" fromID="g4" fromText="the public" toID="h51" toText="public" />
+<head_link id="he24" fromID="o4" fromText="Immigration and Customs Enforcement-Homeland Security Investigations" toID="h23" toText="Homeland Security Investigations" />
+<head_link id="he25" fromID="o5" fromText="Immigration and Customs Enforcement" toID="h24" toText="Immigration and Customs Enforcement" />
+<head_link id="he45" fromID="o7" fromText="ICE-Homeland Security Investigations" toID="h45" toText="Homeland Security Investigations" />
+<head_link id="he47" fromID="o6" fromText="ICE" toID="h46" toText="ICE" />
+<name_link id="na0" fromID="o0" fromText="Border Patrol" toID="n0" toText="Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="Edinburg, Texas" toID="n1" toText="Edinburg" />
+<name_link id="na2" fromID="o1" fromText="Border Patrol" toID="n2" toText="Border Patrol" />
+<name_link id="na3" fromID="l0" fromText="the Rio Grande Valley Sector" toID="n3" toText="Rio Grande Valley Sector" />
+<name_link id="na4" fromID="l1" fromText="Rio Grande Valley Sector" toID="n4" toText="Rio Grande Valley Sector" />
+<name_link id="na5" fromID="g1" fromText="Havana, Texas" toID="n5" toText="Havana" />
+<name_link id="na6" fromID="g2" fromText="Texas" toID="n6" toText="Texas" />
+<name_link id="na7" fromID="g3" fromText="Texas" toID="n7" toText="Texas" />
+<name_link id="na9" fromID="l2" fromText="the Rio Grande" toID="n8" toText="Rio Grande" />
+<name_link id="na10" fromID="o2" fromText="Customs and Border Protection Office of Air and Marine" toID="n9" toText="Customs and Border Protection Office of Air and Marine" />
+<name_link id="na11" fromID="g5" fromText="Mexico" toID="n10" toText="Mexico" />
+<name_link id="na12" fromID="o3" fromText="The La Joya Fire Department" toID="n11" toText="La Joya Fire Department" />
+<name_link id="na15" fromID="g6" fromText="El Sauz, Texas" toID="n14" toText="El Sauz" />
+<name_link id="na16" fromID="g7" fromText="Texas" toID="n15" toText="Texas" />
+<name_link id="na17" fromID="g9" fromText="Mexico" toID="n16" toText="Mexico" />
+<name_link id="na20" fromID="o9" fromText="the Hidalgo County Crime Stoppers" toID="n19" toText="Hidalgo County Crime Stoppers" />
+<name_link id="na13" fromID="o4" fromText="Immigration and Customs Enforcement-Homeland Security Investigations" toID="n12" toText="Homeland Security Investigations" />
+<name_link id="na14" fromID="o5" fromText="Immigration and Customs Enforcement" toID="n13" toText="Immigration and Customs Enforcement" />
+<name_link id="na18" fromID="o7" fromText="ICE-Homeland Security Investigations" toID="n17" toText="Homeland Security Investigations" />
+<name_link id="na19" fromID="o6" fromText="ICE" toID="n18" toText="ICE" />
+<relation_link1 id="r0" fromID="lo0" fromText="Rio Grande Valley Sector agents" toID="p1" toText="Rio Grande Valley Sector agents" />
+<relation_link1 id="r2" fromID="lo2" fromText="The agents went to the ranch and followed footprints into the brush" toID="p10" toText="The agents" />
+<relation_link1 id="r4" fromID="C0" fromText="nationals of Mexico" toID="p29" toText="nationals of Mexico" />
+<relation_link1 id="r5" fromID="lo3" fromText="When the vehicle's driver noticed the agents, he made a U-turn and returned to the river" toID="p5" toText="he" />
+<relation_link1 id="r6" fromID="lo4" fromText="A Customs and Border Protection Office of Air and Marine helicopter was called in to assist and observed about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" toID="p7" toText="about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" />
+<relation_link2 id="re0" fromID="lo0" fromText="Rio Grande Valley Sector agents" toID="l1" toText="Rio Grande Valley Sector" />
+<relation_link2 id="re2" fromID="lo2" fromText="The agents went to the ranch and followed footprints into the brush" toID="f3" toText="the ranch" />
+<relation_link2 id="re4" fromID="C0" fromText="nationals of Mexico" toID="g9" toText="Mexico" />
+<relation_link2 id="re5" fromID="lo3" fromText="When the vehicle's driver noticed the agents, he made a U-turn and returned to the river" toID="l3" toText="the river" />
+<relation_link2 id="re6" fromID="lo4" fromText="A Customs and Border Protection Office of Air and Marine helicopter was called in to assist and observed about 30 people retrieving bundles from the vehicle and transporting them to Mexico via boats" toID="g5" toText="Mexico" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,31 @@
+When Time is of the Essence – Testing Controls Against the Latest Threats Faster
+The Hacker News
+
+A new threat has hit head the headlines (Robinhood anyone?), and you need to know if you're protected right now. What do you do? 
+Traditionally, you would have to go with one of the options below.
+Option 1 – Manually check that IoCs have been updated across your security controls. 
+This would require checking that security controls such as your email gateway, web gateway, and endpoint security have all been updated with the latest threats' indicators of compromise (IoCs) usually published by AV companies who detect the malware binaries first. 
+Option 2 – Create a 'carbon copy' of your network and run the threat's binary on that copy. 
+While safe, IT and security teams may be unaware of certain variations from the real deal. So while the attack simulation is running against an 'ideal' copy, your real network may have undergone inadvertent changes, such as a firewall running in monitoring mode, a patch not being installed on time, and other unintentional variations. The resulting mirror image has inadvertently become a 'filtered' one.  
+Option 3 – Build a homegrown simulation.
+While effective, developing your own malware simulation is a time- and resource-intensive effort that usually requires a dedicated threats or vulnerability assessment team.
+Moreover, even if you have the resources, the turnaround time for getting a live and safe simulation to work may not be ideal.
+ Option 4 – Run an automated simulation of the threat in your production environment. 
+What if you could challenge your controls with a threat on the day that it hits the headlines? This is where automated security effectiveness testing can help.
+By running simulations of the latest cyber attacks against the controls required to detect them correctly, you can make sure your current security arsenal is catching risky IoCs, and close any gaps faster.
+Testing Security Control Effectiveness Faster 
+Using a dedicated golden image of a standard workstation (or server), attack simulations can be run continually on a designated system in a production network. This way, a real user's data is not jeopardized, while enabling you to check the latest threat's ability to bypass your security controls.
+By running ongoing or daily simulations of the newest menaces across your network, you can determine if your controls are catching IoCs such as command & control (C2) URLs and malicious file hashes. 
+Immediate Threats Available for Simulation After Their Discovery [click the image to view full size]
+Real vs. Simulated Cyber Attacks – What's the Difference?
+So what is the difference between a real attack and a simulated one? First and foremost, simulations usually run on a dedicated system to avoid compromising a real user's system.
+For C2 communications, a simulation will attempt to establish a connection over HTTP/S, with an agent installed on the endpoint serving as a proxy to block any malicious requests sent and dropping the connection at the end of the test.
+When testing endpoint security controls, rather than executing a real payload, one simulation technique involves dropping a malware sample to see if security controls can detect and remove it.
+To test the effectiveness of an email gateway, a simulated attack will send emails with weaponized attachments that contain different malicious behaviors but are harmless to the target system. An agent sitting on top of the email client handles incoming emails and deletes them immediately thereafter.
+Immediate Insights Against Immediate Threats
+What kind of insights can simulations uncover? Challenging email security controls can reveal whether your email gateway is blocking multi-layer nested files, whether a policy is set up to filter out spoofed email addresses or rarely-used file formats, or whether archive files (e.g., ZIP) are scanned to prevent executables from landing in a user's mailbox.
+To prevent drive-by-downloads, it may alert that your web gateway is not blocking downloads associated with the newest threat's URLs. And vis-à-vis endpoint security, you may learn that your current solution is failing to block or detect dropped payloads on disk.
+Immediate Threats Simulation Results – Blocked or Penetrated [click the image to view full size]
+Ready to test the effectiveness of your security controls against the very latest threats?
+Get started here, or learn more about SaaS-based breach and attack simulation.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

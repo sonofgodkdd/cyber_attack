@@ -1,0 +1,31 @@
+Timehop Hacked — Hackers Stole Personal Data Of All 21 Million Users
+Mohit Kumar
+
+And the hacks just keep on coming.
+Timehop social media app has been hit by a major data breach on July 4th that compromised the personal data of its more than 21 million users.
+Timehop is a simple social media app that collects your old photos and posts from your iPhone, Facebook, Instagram, Twitter and Foursquare and acts as a digital time machine to help you find—what you were doing on this very day exactly a year ago.
+The company revealed on Sunday that unknown attacker(s) managed to break into its Cloud Computing Environment and access the data of entire 21 million users, including their names, email addresses, and approximately 4.7 million phone numbers attached to their accounts.
+"We learned of the breach while it was still in progress, and were able to interrupt it, but data was taken. Some data was breached," the company wrote in a security advisory posted on its website.
+Social Media OAuth2 Tokens Also Compromised
+Moreover, the attackers also got their hands on authorization tokens (keys) provided by other social networking sites to Timehop for gaining access to your social media posts and images.
+With access to these tokens, hackers could view some of your posts on Facebook and other social networks without your permission.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Timehop claims that all the compromised tokens were deauthorized and made invalid within a "short time window" after the company detected the breach on its network on July 4th at 4:23 PM Eastern Time.
+The stolen access tokens cannot be now used to gain access to any of your social media profiles, and the company also claims that there is "no evidence that this actually happened."
+"In addition to our communications with local and federal law enforcement, we are also in contact with all our social media providers, and will update users as needed, but again: there are no credible reports, and there has been no evidence of, any unauthorized use of these access tokens," the company said.
+It should also be noted that these authorization tokens do not give anyone, including the company itself, access to your private messages on Facebook Messenger, Direct Messages on Twitter and Instagram, and things that your friends post to your Facebook wall.
+Timehop is also confident that the security breach did not affect your private/direct messages, financial data, social media and photo content, and other Timehop data including streaks and memories.
+Timehop also pointed out that there was no evidence that any account was accessed without authorization.
+Data Breach Aided By Lack of Two-Factor Authentication
+"The breach occurred because an access credential to our cloud computing environment was compromised," Timehop said.
+The same day Timehop identified the breach on its network, we reported about the Gentoo GitHub account hack that allowed intruders to replace the content of the project's repositories and pages with the malicious one, after guessing the account password.
+The Gentoo breach was aided by the lack of two-factor authentication (2FA) for its Github account. The 2FA makes it mandatory for users to enter an additional passcode besides the password in order to gain access to the account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The same happened with Timehop.
+Since the company was not using two-factor authentication, the attacker(s) were able to gain access to its cloud computing environment by using compromised credential.
+Timehop has now taken some new security measures that include system-wide multifactor authentication to secure its authorization and access controls on all accounts.
+Timehop immediately logged out all of its users of the app after the company invalidated all API credentials, which means you will need to re-authenticate each of your social media accounts to the app when you log into your Timehop account to generate a new token.
+The company is also working with security experts and incident response professionals, local and federal law enforcement officials, and its social media providers to minimize the impact of the breach on its users.
+Since the new GDPR privacy law defines a breach as "likely to result in a risk to the rights and freedoms of the individuals," Timehop claims to have notified all of its affected European users and is working closely with GDPR experts to assist in the countermeasures.
+To know more about the incident and how it happened, you can head on to the technical report published by Timehop, which provides a more detailed breakdown of the security incident.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

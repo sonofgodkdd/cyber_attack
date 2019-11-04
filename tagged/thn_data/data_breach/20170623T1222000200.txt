@@ -1,0 +1,17 @@
+Two British Men Arrested For Hacking Microsoft
+Wang Wei
+
+British police have arrested two men in the UK conspiring to hack into the computer networks of US tech giant Microsoft with plans to steal customers’ data from the software giant.
+The suspects — 22-year-old from Sleaford and a 25-year-old from Bracknell — were arrested by the detectives from the Britain's South East Regional Organised Crime Unit (SEROCU) Thursday morning (22 June 2017).
+The UK authorities arrested them from their home in Lincolnshire and Bracknell and seized a number of devices after searching their home.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While it is still unclear what systems were targeted, SEROCU believes the suspects are part of a larger international group that involved breaking into the Microsoft's network between January 2017 and March 2017 to scoop up the customer information.
+"This group is spread around the world and therefore the investigation is being coordinated with our various partners," Rob Bryant, detective sergeant SEROCU's Cyber Crime Unit said while announcing the arrest. "We have made two arrests in the UK this morning and have seized a number of devices." 
+"We're still in the early stages of this investigation and will work with our partners to ensure that cyber criminals have no place to hide. It's too early to speculate on what information the group has accessed, however, after speaking with Microsoft we can confirm they didn't gain access to customer information."
+Both the suspects, whose identities have not yet revealed by the police, are currently in custody and have been charged under the Britain's Computer Misuse Act for conspiracy to gain "unauthorised access" to protected computers belonging to Microsoft.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the arrests, Tom Burt, Microsoft VP and deputy general counsel of the Digital Crimes Unit released a statement to BBC, saying:
+"Today's action by authorities in the UK represents an important step...Stronger internet security depends on the ability to identify and prosecute cybercriminals. This requires not only a strong technical capability but the willingness to acknowledge issues publicly and refer them to law enforcement." 
+"No company is immune from cybercrime. No customer data was accessed, and we're confident in the integrity of our software and systems. We have comprehensive measures in place to prevent, detect, and respond to attacks."
+SEROCU officials said they are working with Europol, the NCA's National Cyber Crime Unit, the FBI, the East Midlands Special Operations Unit (EMSOU), and Microsoft's cyber team to investigate the intrusions and bring culprits to justice.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

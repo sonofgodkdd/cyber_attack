@@ -1,0 +1,26 @@
+New York, Canada, Ireland Launch New Investigations Into Facebook Privacy Breaches
+Swati Khandelwal
+Facebook has a lot of problems, then there are a lot of problems for Facebook—and both are not going to end anytime sooner.
+Though Facebook has already set aside $5 billion from its revenue to cover a possible fine the company is expecting as a result of an FTC investigation over privacy violations, it seems to be just first installment of what Facebook has to pay for continuously ignoring users' privacy.
+This week, Facebook has been hit with three new separate investigations from various governmental authorities—both in the United States and abroad—over the company's mishandling of its users' data.
+New York Attorney General to Investigate Facebook Email Collection Scandal
+New York Attorney General is opening an investigation into Facebook's unauthorized collection of the email contacts of more than 1.5 million users during site registration without their permission.
+Earlier this month, Facebook was caught practicing the worst ever user-verification mechanism by asking users new to its social network platform for their email account passwords to verify their identity.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, just last week it turned out that the social network "unintentionally" uploaded email contacts from up to 1.5 million new users on its servers, without their consent or knowledge, Facebook admitted while saying the data was reportedly used to "build Facebook's web of social connections and recommend friends to add."
+According to the New York Attorney General Letitia James, the harvested email addresses may have exposed hundreds of millions of Facebook users to targeted advertisements.
+"Facebook has repeatedly demonstrated a lack of respect for consumer information while at the same time profiting from mining that data," James said in a statement, adding that now it's time that the social media company should "held accountable for how it handles consumers' personal information."
+In response to the news, a Facebook spokesperson told The NY Times that the company is "in touch with the New York State attorney general's office and are responding to their questions on this matter."
+Ireland Investigating into Facebook Over Plaintext Passwords Scandal
+The Irish Data Protection Commission had begun an investigation into a separate Facebook's privacy bunder exposed last month when the social network revealed that it left hundreds of millions of passwords of Facebook, Facebook Lite and Instagram users exposed in plain text on company servers.
+At the time, it was reported that the incident exposed "tens of thousands" passwords of Instagram users in plaintext, while just last week it was revealed that the actual number of affected Instagram users were not in hundreds of thousands but millions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The exposed passwords were potentially dated back to 2012 and were accessible to up to 2,000 Facebook employees.
+In a statement on Thursday, the Irish Data Protection Commissioner said it has launched "a statutory inquiry in relation to this issue to determine whether Facebook has complied with its obligations under relevant provisions" of the European Union's General Data Protection Regulation (GDPR) designed to protect people's data.
+Canada to Sue Facebook Over Cambridge Analytica Scandal
+Canadian regulators are also suing Facebook for allegedly violating the country's privacy laws following their investigation into the March 2018's Cambridge Analytica scandal and its impact on Canadians.
+A joint report published Thursday from Canadian privacy commissioner Daniel Therrien and his British Columbia counterpart said lax security practices at the company allowed personal information of hundreds of thousands of Canadians to be used for political purposes.
+The watchdogs started investigating Facebook last year after it was revealed that a UK political consultancy Cambridge Analytica harvested data from about 87 million users and then used it for political gain without their knowledge or permission.
+The report said Facebook committed a "major breach of trust" and "abdicated its responsibility for personal information under its control, effectively shifting that responsibility to users and apps."
+The United States FTC is also investigating Facebook over the Cambridge Analytica scandal, and the company has already kept aside $5 billion from its revenue in anticipation of the settlement with the commission.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

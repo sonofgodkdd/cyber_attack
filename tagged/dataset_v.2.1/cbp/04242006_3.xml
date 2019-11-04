@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Rising Temperatures in South Texas Prompt Rescue Efforts
+CBP Border Patrol Launches Response to Prevent Heat Related Injuries
+(Monday, April 24, 2006)
+McAllen, Texas  - As temperatures continue to climb, U.S. Customs and Border Protection's (CBP) Rio Grande Valley Border Patrol Sector has stepped up search and rescue efforts in an attempt to prevent heat related injuries and deaths along the lower South Texas border. CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR) have been focusing on the Rio Grande Valley's most dangerous corridor, the Brooks County area.
+"Stepping up enforcement along the border combined with successful Border Patrol search and rescue operations in targeted areas is absolutely critical to preventing unnecessary loss of life," stated Rio Grande Valley Sector Chief Patrol Agent Lynne M. Underdown.
+The BORSTAR team is the premier border search and rescue team along the southwest border. They are a specially trained, rapid response search and rescue unit designed to meet the complexities of southwest border search and rescue operations. BORSTAR agents are experts in operating in the border environment, topography, climate and the distinctiveness of the southwest border. So far this fiscal year, Rio Grande Valley Sector Border Patrol agents have rescued over 320 individuals who have fallen into physical distress.
+Traditionally, as we approach the summer months, we see a rise in the number of heat related injuries and the strong probability exists for this trend to continue due to rising temperatures. Along with the heat, alien smugglers who continuously prey upon the desperation of undocumented aliens contribute significantly to the problem. CBP Border Patrol will focus on rescue efforts as well as continue to aggressively target alien smugglers.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="422" end="480" text="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR" TYPE="NAM" />
+<person id="p1" start="473" end="480" text="BORSTAR" TYPE="NAM" />
+<person id="p2" start="776" end="838" text="Rio Grande Valley Sector Chief Patrol Agent Lynne M. Underdown" TYPE="NAM" />
+<person id="p3" start="776" end="819" text="Rio Grande Valley Sector Chief Patrol Agent" TYPE="NOMPRE" />
+<person id="p4" start="840" end="856" text="The BORSTAR team" TYPE="NOM" />
+<person id="p6" start="860" end="928" text="the premier border search and rescue team along the southwest border" TYPE="NOM" />
+<person id="p7" start="930" end="934" text="They" TYPE="PRO" />
+<person id="p8" start="939" end="1080" text="a specially trained, rapid response search and rescue unit designed to meet the complexities of southwest border search and rescue operations" TYPE="NOM" />
+<person id="p9" start="1082" end="1096" text="BORSTAR agents" TYPE="BAR" />
+<person id="p10" start="1082" end="1089" text="BORSTAR" TYPE="NAMPRE" />
+<person id="p11" start="1101" end="1216" text="experts in operating in the border environment, topography, climate and the distinctiveness of the southwest border" TYPE="BAR" />
+<person id="p12" start="1243" end="1288" text="Rio Grande Valley Sector Border Patrol agents" TYPE="BAR" />
+<person id="p13" start="1302" end="1361" text="over 320 individuals who have fallen into physical distress" TYPE="NOM" />
+<person id="p14" start="1323" end="1326" text="who" TYPE="WHQ" />
+<person id="p15" start="1381" end="1383" text="we" TYPE="PRO" />
+<person id="p16" start="1412" end="1414" text="we" TYPE="PRO" />
+<person id="p17" start="1575" end="1656" text="alien smugglers who continuously prey upon the desperation of undocumented aliens" TYPE="BAR" />
+<person id="p18" start="1591" end="1594" text="who" TYPE="WHQ" />
+<person id="p19" start="1637" end="1656" text="undocumented aliens" TYPE="BAR" />
+<person id="p20" start="1788" end="1803" text="alien smugglers" TYPE="BAR" />
+<person id="p5" start="844" end="851" text="BORSTAR" TYPE="NAMPRE" />
+<organization id="o0" start="58" end="75" text="CBP Border Patrol" TYPE="NAM" />
+<organization id="o2" start="205" end="286" text="U.S. Customs and Border Protection's (CBP) Rio Grande Valley Border Patrol Sector" TYPE="NAM" />
+<organization id="o3" start="205" end="246" text="U.S. Customs and Border Protection's (CBP" TYPE="NAM" />
+<organization id="o4" start="243" end="246" text="CBP" TYPE="NAM" />
+<organization id="o5" start="422" end="439" text="CBP Border Patrol" TYPE="NAM" />
+<organization id="o7" start="644" end="657" text="Border Patrol" TYPE="NAMPRE" />
+<organization id="o8" start="776" end="800" text="Rio Grande Valley Sector" TYPE="NAMPRE" />
+<organization id="o9" start="807" end="813" text="Patrol" TYPE="NOMPRE" />
+<organization id="o10" start="1243" end="1281" text="Rio Grande Valley Sector Border Patrol" TYPE="NAMPRE" />
+<organization id="o12" start="1698" end="1715" text="CBP Border Patrol" TYPE="NAM" />
+<geographical-political id="g0" start="24" end="35" text="South Texas" TYPE="NAM" />
+<geographical-political id="g1" start="152" end="166" text="McAllen, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="161" end="166" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="402" end="413" text="South Texas" TYPE="NAMPRE" />
+<geographical-political id="g4" start="508" end="525" text="Rio Grande Valley" TYPE="NAM" />
+<geographical-political id="g5" start="557" end="570" text="Brooks County" TYPE="NAMPRE" />
+<location id="l0" start="392" end="420" text="the lower South Texas border" TYPE="NOM" />
+<location id="l1" start="504" end="575" text="the Rio Grande Valley's most dangerous corridor, the Brooks County area" TYPE="APP" />
+<location id="l2" start="504" end="551" text="the Rio Grande Valley's most dangerous corridor" TYPE="NOM" />
+<location id="l3" start="553" end="575" text="the Brooks County area" TYPE="NOM" />
+<location id="l4" start="608" end="618" text="the border" TYPE="NOM" />
+<location id="l5" start="872" end="878" text="border" TYPE="NOMPRE" />
+<location id="l6" start="908" end="928" text="the southwest border" TYPE="NOM" />
+<location id="l7" start="1035" end="1051" text="southwest border" TYPE="NOMPRE" />
+<location id="l8" start="1129" end="1135" text="border" TYPE="NOMPRE" />
+<location id="l9" start="1196" end="1216" text="the southwest border" TYPE="NOM" />
+<head id="h0" start="24" end="35" text="South Texas" />
+<head id="h3" start="152" end="159" text="McAllen" />
+<head id="h4" start="161" end="166" text="Texas" />
+<head id="h5" start="248" end="286" text="Rio Grande Valley Border Patrol Sector" />
+<head id="h6" start="205" end="239" text="U.S. Customs and Border Protection" />
+<head id="h7" start="243" end="246" text="CBP" />
+<head id="h8" start="414" end="420" text="border" />
+<head id="h9" start="402" end="413" text="South Texas" />
+<head id="h10" start="442" end="471" text="Search Trauma and Rescue Team" />
+<head id="h11" start="473" end="480" text="BORSTAR" />
+<head id="h14" start="543" end="551" text="corridor" />
+<head id="h15" start="571" end="575" text="area" />
+<head id="h16" start="508" end="525" text="Rio Grande Valley" />
+<head id="h17" start="557" end="570" text="Brooks County" />
+<head id="h18" start="612" end="618" text="border" />
+<head id="h19" start="644" end="657" text="Border Patrol" />
+<head id="h20" start="820" end="838" text="Lynne M. Underdown" />
+<head id="h21" start="814" end="819" text="Agent" />
+<head id="h22" start="776" end="800" text="Rio Grande Valley Sector" />
+<head id="h23" start="807" end="813" text="Patrol" />
+<head id="h25" start="897" end="901" text="team" />
+<head id="h26" start="872" end="878" text="border" />
+<head id="h27" start="922" end="928" text="border" />
+<head id="h28" start="930" end="934" text="They" />
+<head id="h29" start="993" end="997" text="unit" />
+<head id="h30" start="1045" end="1051" text="border" />
+<head id="h31" start="1090" end="1096" text="agents" />
+<head id="h32" start="1082" end="1089" text="BORSTAR" />
+<head id="h33" start="1101" end="1108" text="experts" />
+<head id="h34" start="1129" end="1135" text="border" />
+<head id="h35" start="1210" end="1216" text="border" />
+<head id="h36" start="1282" end="1288" text="agents" />
+<head id="h39" start="1311" end="1322" text="individuals" />
+<head id="h40" start="1323" end="1326" text="who" />
+<head id="h41" start="1381" end="1383" text="we" />
+<head id="h42" start="1412" end="1414" text="we" />
+<head id="h43" start="1581" end="1590" text="smugglers" />
+<head id="h44" start="1591" end="1594" text="who" />
+<head id="h45" start="1650" end="1656" text="aliens" />
+<head id="h48" start="1794" end="1803" text="smugglers" />
+<head id="h1" start="58" end="75" text="CBP Border Patrol" />
+<head id="h2" start="422" end="439" text="CBP Border Patrol" />
+<head id="h12" start="1698" end="1715" text="CBP Border Patrol" />
+<head id="h13" start="1243" end="1281" text="Rio Grande Valley Sector Border Patrol" />
+<head id="h24" start="852" end="856" text="team" />
+<head id="h37" start="844" end="851" text="BORSTAR" />
+<name id="n0" start="24" end="35" text="South Texas" />
+<name id="n3" start="152" end="159" text="McAllen" />
+<name id="n4" start="161" end="166" text="Texas" />
+<name id="n5" start="248" end="286" text="Rio Grande Valley Border Patrol Sector" />
+<name id="n6" start="205" end="239" text="U.S. Customs and Border Protection" />
+<name id="n7" start="243" end="246" text="CBP" />
+<name id="n8" start="402" end="413" text="South Texas" />
+<name id="n9" start="442" end="471" text="Search Trauma and Rescue Team" />
+<name id="n10" start="473" end="480" text="BORSTAR" />
+<name id="n13" start="508" end="525" text="Rio Grande Valley" />
+<name id="n14" start="557" end="570" text="Brooks County" />
+<name id="n15" start="644" end="657" text="Border Patrol" />
+<name id="n16" start="820" end="838" text="Lynne M. Underdown" />
+<name id="n17" start="776" end="800" text="Rio Grande Valley Sector" />
+<name id="n19" start="1082" end="1089" text="BORSTAR" />
+<name id="n1" start="58" end="75" text="CBP Border Patrol" />
+<name id="n2" start="422" end="439" text="CBP Border Patrol" />
+<name id="n11" start="1698" end="1715" text="CBP Border Patrol" />
+<name id="n12" start="1243" end="1281" text="Rio Grande Valley Sector Border Patrol" />
+<name id="n18" start="844" end="851" text="BORSTAR" />
+<located-mention id="lo0" start="860" end="928" text="the premier border search and rescue team along the southwest border" TYPE="PreMod" />
+<located-mention id="lo1" start="860" end="928" text="the premier border search and rescue team along the southwest border" TYPE="Preposition" />
+<M id="M0" start="422" end="481" text="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR)" TYPE="Possessive" />
+<M id="M1" start="776" end="819" text="Rio Grande Valley Sector Chief Patrol Agent" TYPE="PreMod" />
+<M id="M2" start="776" end="819" text="Rio Grande Valley Sector Chief Patrol Agent" TYPE="PreMod" />
+<M id="M3" start="1243" end="1288" text="Rio Grande Valley Sector Border Patrol agents" TYPE="PreMod" />
+<entity_link id="en1" fromID="o4" fromText="CBP" toID="o3" toText="U.S. Customs and Border Protection's (CBP" />
+<entity_link id="en2" fromID="g3" fromText="South Texas" toID="g0" toText="South Texas" />
+<entity_link id="en3" fromID="p1" fromText="BORSTAR" toID="p0" toText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR" />
+<entity_link id="en5" fromID="o5" fromText="CBP Border Patrol" toID="o0" toText="CBP Border Patrol" />
+<entity_link id="en7" fromID="l2" fromText="the Rio Grande Valley's most dangerous corridor" toID="l1" toText="the Rio Grande Valley's most dangerous corridor, the Brooks County area" />
+<entity_link id="en8" fromID="l3" fromText="the Brooks County area" toID="l2" toText="the Rio Grande Valley's most dangerous corridor" />
+<entity_link id="en9" fromID="l4" fromText="the border" toID="l0" toText="the lower South Texas border" />
+<entity_link id="en10" fromID="o7" fromText="Border Patrol" toID="o5" toText="CBP Border Patrol" />
+<entity_link id="en11" fromID="p3" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="p2" toText="Rio Grande Valley Sector Chief Patrol Agent Lynne M. Underdown" />
+<entity_link id="en12" fromID="o8" fromText="Rio Grande Valley Sector" toID="o2" toText="U.S. Customs and Border Protection's (CBP) Rio Grande Valley Border Patrol Sector" />
+<entity_link id="en13" fromID="p4" fromText="The BORSTAR team" toID="p1" toText="BORSTAR" />
+<entity_link id="en14" fromID="p6" fromText="the premier border search and rescue team along the southwest border" toID="p4" toText="The BORSTAR team" />
+<entity_link id="en15" fromID="l6" fromText="the southwest border" toID="l0" toText="the lower South Texas border" />
+<entity_link id="en16" fromID="p7" fromText="They" toID="p4" toText="The BORSTAR team" />
+<entity_link id="en17" fromID="p8" fromText="a specially trained, rapid response search and rescue unit designed to meet the complexities of southwest border search and rescue operations" toID="p7" toText="They" />
+<entity_link id="en18" fromID="l7" fromText="southwest border" toID="l6" toText="the southwest border" />
+<entity_link id="en19" fromID="p10" fromText="BORSTAR" toID="p4" toText="The BORSTAR team" />
+<entity_link id="en20" fromID="p9" fromText="BORSTAR agents" toID="p10" toText="BORSTAR" />
+<entity_link id="en21" fromID="p11" fromText="experts in operating in the border environment, topography, climate and the distinctiveness of the southwest border" toID="p9" toText="BORSTAR agents" />
+<entity_link id="en22" fromID="l9" fromText="the southwest border" toID="l7" toText="southwest border" />
+<entity_link id="en23" fromID="o10" fromText="Rio Grande Valley Sector Border Patrol" toID="o5" toText="CBP Border Patrol" />
+<entity_link id="en25" fromID="p14" fromText="who" toID="p13" toText="over 320 individuals who have fallen into physical distress" />
+<entity_link id="en26" fromID="p16" fromText="we" toID="p15" toText="we" />
+<entity_link id="en27" fromID="p18" fromText="who" toID="p17" toText="alien smugglers who continuously prey upon the desperation of undocumented aliens" />
+<entity_link id="en29" fromID="p20" fromText="alien smugglers" toID="p17" toText="alien smugglers who continuously prey upon the desperation of undocumented aliens" />
+<entity_link id="en4" fromID="o12" fromText="CBP Border Patrol" toID="o7" toText="Border Patrol" />
+<entity_link id="en30" fromID="p5" fromText="BORSTAR" toID="p4" toText="The BORSTAR team" />
+<entity_link id="en31" fromID="l8" fromText="border" toID="l5" toText="border" />
+<head_link id="he0" fromID="g0" fromText="South Texas" toID="h0" toText="South Texas" />
+<head_link id="he3" fromID="g1" fromText="McAllen, Texas" toID="h3" toText="McAllen" />
+<head_link id="he4" fromID="g2" fromText="Texas" toID="h4" toText="Texas" />
+<head_link id="he5" fromID="o2" fromText="U.S. Customs and Border Protection's (CBP) Rio Grande Valley Border Patrol Sector" toID="h5" toText="Rio Grande Valley Border Patrol Sector" />
+<head_link id="he6" fromID="o3" fromText="U.S. Customs and Border Protection's (CBP" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="o4" fromText="CBP" toID="h7" toText="CBP" />
+<head_link id="he8" fromID="l0" fromText="the lower South Texas border" toID="h8" toText="border" />
+<head_link id="he9" fromID="g3" fromText="South Texas" toID="h9" toText="South Texas" />
+<head_link id="he10" fromID="p0" fromText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR" toID="h10" toText="Search Trauma and Rescue Team" />
+<head_link id="he11" fromID="p1" fromText="BORSTAR" toID="h11" toText="BORSTAR" />
+<head_link id="he14" fromID="l2" fromText="the Rio Grande Valley's most dangerous corridor" toID="h14" toText="corridor" />
+<head_link id="he15" fromID="l3" fromText="the Brooks County area" toID="h15" toText="area" />
+<head_link id="he16" fromID="g4" fromText="Rio Grande Valley" toID="h16" toText="Rio Grande Valley" />
+<head_link id="he17" fromID="g5" fromText="Brooks County" toID="h17" toText="Brooks County" />
+<head_link id="he18" fromID="l4" fromText="the border" toID="h18" toText="border" />
+<head_link id="he19" fromID="o7" fromText="Border Patrol" toID="h19" toText="Border Patrol" />
+<head_link id="he20" fromID="p2" fromText="Rio Grande Valley Sector Chief Patrol Agent Lynne M. Underdown" toID="h20" toText="Lynne M. Underdown" />
+<head_link id="he21" fromID="p3" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="h21" toText="Agent" />
+<head_link id="he22" fromID="o8" fromText="Rio Grande Valley Sector" toID="h22" toText="Rio Grande Valley Sector" />
+<head_link id="he23" fromID="o9" fromText="Patrol" toID="h23" toText="Patrol" />
+<head_link id="he26" fromID="p6" fromText="the premier border search and rescue team along the southwest border" toID="h25" toText="team" />
+<head_link id="he27" fromID="l5" fromText="border" toID="h26" toText="border" />
+<head_link id="he28" fromID="l6" fromText="the southwest border" toID="h27" toText="border" />
+<head_link id="he29" fromID="p7" fromText="They" toID="h28" toText="They" />
+<head_link id="he30" fromID="p8" fromText="a specially trained, rapid response search and rescue unit designed to meet the complexities of southwest border search and rescue operations" toID="h29" toText="unit" />
+<head_link id="he31" fromID="l7" fromText="southwest border" toID="h30" toText="border" />
+<head_link id="he32" fromID="p9" fromText="BORSTAR agents" toID="h31" toText="agents" />
+<head_link id="he33" fromID="p10" fromText="BORSTAR" toID="h32" toText="BORSTAR" />
+<head_link id="he34" fromID="p11" fromText="experts in operating in the border environment, topography, climate and the distinctiveness of the southwest border" toID="h33" toText="experts" />
+<head_link id="he35" fromID="l8" fromText="border" toID="h34" toText="border" />
+<head_link id="he36" fromID="l9" fromText="the southwest border" toID="h35" toText="border" />
+<head_link id="he37" fromID="p12" fromText="Rio Grande Valley Sector Border Patrol agents" toID="h36" toText="agents" />
+<head_link id="he40" fromID="p13" fromText="over 320 individuals who have fallen into physical distress" toID="h39" toText="individuals" />
+<head_link id="he41" fromID="p14" fromText="who" toID="h40" toText="who" />
+<head_link id="he42" fromID="p15" fromText="we" toID="h41" toText="we" />
+<head_link id="he43" fromID="p16" fromText="we" toID="h42" toText="we" />
+<head_link id="he44" fromID="p17" fromText="alien smugglers who continuously prey upon the desperation of undocumented aliens" toID="h43" toText="smugglers" />
+<head_link id="he45" fromID="p18" fromText="who" toID="h44" toText="who" />
+<head_link id="he46" fromID="p19" fromText="undocumented aliens" toID="h45" toText="aliens" />
+<head_link id="he49" fromID="p20" fromText="alien smugglers" toID="h48" toText="smugglers" />
+<head_link id="he25" fromID="o0" fromText="CBP Border Patrol" toID="h1" toText="CBP Border Patrol" />
+<head_link id="he50" fromID="o5" fromText="CBP Border Patrol" toID="h2" toText="CBP Border Patrol" />
+<head_link id="he51" fromID="o12" fromText="CBP Border Patrol" toID="h12" toText="CBP Border Patrol" />
+<head_link id="he52" fromID="o10" fromText="Rio Grande Valley Sector Border Patrol" toID="h13" toText="Rio Grande Valley Sector Border Patrol" />
+<head_link id="he53" fromID="p4" fromText="The BORSTAR team" toID="h24" toText="team" />
+<head_link id="he54" fromID="p5" fromText="BORSTAR" toID="h37" toText="BORSTAR" />
+<name_link id="na0" fromID="g0" fromText="South Texas" toID="n0" toText="South Texas" />
+<name_link id="na3" fromID="g1" fromText="McAllen, Texas" toID="n3" toText="McAllen" />
+<name_link id="na4" fromID="g2" fromText="Texas" toID="n4" toText="Texas" />
+<name_link id="na5" fromID="o2" fromText="U.S. Customs and Border Protection's (CBP) Rio Grande Valley Border Patrol Sector" toID="n5" toText="Rio Grande Valley Border Patrol Sector" />
+<name_link id="na6" fromID="o3" fromText="U.S. Customs and Border Protection's (CBP" toID="n6" toText="U.S. Customs and Border Protection" />
+<name_link id="na7" fromID="o4" fromText="CBP" toID="n7" toText="CBP" />
+<name_link id="na8" fromID="g3" fromText="South Texas" toID="n8" toText="South Texas" />
+<name_link id="na9" fromID="p0" fromText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR" toID="n9" toText="Search Trauma and Rescue Team" />
+<name_link id="na10" fromID="p1" fromText="BORSTAR" toID="n10" toText="BORSTAR" />
+<name_link id="na13" fromID="g4" fromText="Rio Grande Valley" toID="n13" toText="Rio Grande Valley" />
+<name_link id="na14" fromID="g5" fromText="Brooks County" toID="n14" toText="Brooks County" />
+<name_link id="na15" fromID="o7" fromText="Border Patrol" toID="n15" toText="Border Patrol" />
+<name_link id="na16" fromID="p2" fromText="Rio Grande Valley Sector Chief Patrol Agent Lynne M. Underdown" toID="n16" toText="Lynne M. Underdown" />
+<name_link id="na17" fromID="o8" fromText="Rio Grande Valley Sector" toID="n17" toText="Rio Grande Valley Sector" />
+<name_link id="na19" fromID="p10" fromText="BORSTAR" toID="n19" toText="BORSTAR" />
+<name_link id="na24" fromID="o0" fromText="CBP Border Patrol" toID="n1" toText="CBP Border Patrol" />
+<name_link id="na25" fromID="o5" fromText="CBP Border Patrol" toID="n2" toText="CBP Border Patrol" />
+<name_link id="na26" fromID="o12" fromText="CBP Border Patrol" toID="n11" toText="CBP Border Patrol" />
+<name_link id="na27" fromID="o10" fromText="Rio Grande Valley Sector Border Patrol" toID="n12" toText="Rio Grande Valley Sector Border Patrol" />
+<name_link id="na28" fromID="p5" fromText="BORSTAR" toID="n18" toText="BORSTAR" />
+<relation_link1 id="r0" fromID="M0" fromText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR)" toID="p0" toText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR" />
+<relation_link1 id="r1" fromID="M1" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="p3" toText="Rio Grande Valley Sector Chief Patrol Agent" />
+<relation_link1 id="r2" fromID="M2" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="p3" toText="Rio Grande Valley Sector Chief Patrol Agent" />
+<relation_link1 id="r3" fromID="lo0" fromText="the premier border search and rescue team along the southwest border" toID="p6" toText="the premier border search and rescue team along the southwest border" />
+<relation_link1 id="r4" fromID="lo1" fromText="the premier border search and rescue team along the southwest border" toID="p6" toText="the premier border search and rescue team along the southwest border" />
+<relation_link1 id="r5" fromID="M3" fromText="Rio Grande Valley Sector Border Patrol agents" toID="p12" toText="Rio Grande Valley Sector Border Patrol agents" />
+<relation_link2 id="re0" fromID="M0" fromText="CBP Border Patrol's Search Trauma and Rescue Team (BORSTAR)" toID="o5" toText="CBP Border Patrol" />
+<relation_link2 id="re1" fromID="M1" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="o8" toText="Rio Grande Valley Sector" />
+<relation_link2 id="re2" fromID="M2" fromText="Rio Grande Valley Sector Chief Patrol Agent" toID="o9" toText="Patrol" />
+<relation_link2 id="re3" fromID="lo0" fromText="the premier border search and rescue team along the southwest border" toID="l5" toText="border" />
+<relation_link2 id="re4" fromID="lo1" fromText="the premier border search and rescue team along the southwest border" toID="l6" toText="the southwest border" />
+<relation_link2 id="re5" fromID="M3" fromText="Rio Grande Valley Sector Border Patrol agents" toID="o10" toText="Rio Grande Valley Sector Border Patrol" />
+</TAGS>
+</KddTask>

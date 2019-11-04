@@ -1,0 +1,27 @@
+Yahoo Disables Email Auto-Forwarding; Making It Harder for Users to Move On
+Swati Khandelwal
+
+Yahoo! has disabled automatic email forwarding -- a feature that lets its users forward a copy of incoming emails from one account to another.
+The company has faced lots of bad news regarding its email service in past few weeks. Last month, the company admitted a massive 2014 data breach that exposed account details of over 500 Million Yahoo users.
+If this wasn't enough for users to quit the service, another shocking revelation came last week that the company scanned the emails of hundreds of millions of its users at the request of a U.S. intelligence service last year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+That's enough for making a loyal Yahoo Mail user to switch for other rival alternatives, like Google Gmail, or Microsoft's Outlook.
+Yahoo Mail Disables Auto-Forwarding; Making It Hard to Leave
+But as Yahoo Mail users are trying to leave the email service, the company is making it more difficult for them to transition to another email service.
+That's because since the beginning of October, the company has disabled Yahoo Mail's automatic email forwarding feature that would allow users to automatically redirect incoming emails from their Yahoo account to another account, reported by the Associated Press.
+All of a sudden it's under development? Here's what a post on the company's help page reads about the feature's status:
+"This feature is under development. While we work to improve it, we've temporarily disabled the ability to turn on Mail Forwarding for new forwarding addresses. If you've already enabled Mail Forwarding in the past, your email will continue to forward to the address you previously configured."
+In other words, only users who already had the feature turned ON in the past are out of this trouble, but users who are trying to turn ON automatic email forwarding now have no option.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yahoo has shared the following statement about the recent move:
+"We're working to get auto-forward back up and running as soon as possible because we know how useful it can be to our users. The feature was temporary disabled as part of previously planned maintenance to improve its functionality between a user’s various accounts. Users can expect an update to the auto-forward functionality soon. In the meantime, we continue to support multiple account management."
+Yahoo is trying to save its Verizon Acquisition Deal
+The move to turn off the email forwarding option could be an attempt to keep its customers’ accounts active because any damage to the company at this time is crucial when Yahoo seeks to sell itself to Verizon.
+The Yahoo acquisition deal has not yet closed, and Verizon Communications has reportedly asked for a $1 Billion discount off of Yahoo's $4.83 Billion sales price.
+As a workaround, you could switch on your vacation responder instead to automatically reply to emails with a note about your new email address.
+Delete Your Yahoo Account Before It's Too Late
+You can also forego the forwarding process and simply delete your Yahoo Mail account entirely, until and unless Yahoo disables that option, too.
+As the Reg media reports that British Telecoms customers, whose email had been outsourced to Yahoo, have not been able to set up automatic email forwarding or even access the option to delete their accounts.
+"Sorry, the delete feature is currently unavailable. This feature will become available by the end of September," the error message reads.
+So, hurry up before it gets too late.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

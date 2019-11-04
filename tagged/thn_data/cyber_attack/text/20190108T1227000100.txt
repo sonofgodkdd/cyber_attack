@@ -1,0 +1,20 @@
+Ethereum Classic (ETC) Hit by Double-Spend Attack Worth $1.1 Million
+Swati Khandelwal
+
+Popular cryptocurrency exchange Coinbase has suspended all transactions of Ethereum Classic (ETC)—the original unforked version of the Ethereum network—on their trading platforms, other products and services after detecting a potential attack on the cryptocurrency network that let someone spend the same digital coins twice.
+Why is this attack concerning? The heist resulted in the loss of $1.1 million worth of the Ethereum Classic digital currency. The digital currency immediately fell in price after the news came out.
+Coinbase revealed Monday that it identified "a deep chain reorganization" of the Ethereum Classic blockchain (or 51 percent attack of the network), which means that someone controlling the majority of miners on the network (over 50%) had modified the transaction history.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After reorganizing the Ethereum blockchain, the attackers were able to what's called "double spend" about 219,500 ETC by recovering previously spent coins from the rightful recipients and transferring them to new entities chosen by attackers (typically a wallet in their control).
+"We observed repeated deep reorganizations of the Ethereum Classic blockchain, most of which contained double spends," Coinbase security engineer Mark Nesbitt said in a blog post. "The total value of the double spends that we have observed thus far is 219,500 ETC (~$1.1M)."
+Coinbase identified the deep chain reorganization of the Ethereum Classic blockchain on January 5, at which point the firm halted on-chain ETC payments in order to safeguard its customer funds and the cryptocurrency exchange itself.
+An update on status.coinbase.com reads: "Due to unstable network conditions on the Ethereum Classic network, we have temporarily disabled all sends and receives for ETC. Buy and sell is not impacted. All other systems are operating normally."
+It's worth noting that this incident was not a one-time event, as the attacks are apparently ongoing.
+Initially, Coinbase identified nine reorganizations containing double spends, amounted to 88,500 ETC (about $460,000), but the latest update on its blog post suggests that at least 12 additional reorganizations included double spends, totaling 219,500 ETC (nearly $1.1Million).
+At the time, it is not clear whom the attackers targeted, but Coinbase reassured its customers that the cryptocurrency exchange itself had not been the target of these attacks and that no customer funds were lost.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Initially, Ethereum Classic denied the Coinbase claims, saying that the ETC network appeared to be "operating normally," but hours later it confirmed the "successful 51% attack" on the Ethereum Classic network with "multiple" block reorganizations.
+However, Ethereum Classic said that Coinbase did not contact ETC personnel regarding the attack and added that the investigation is an "ongoing process."
+Since it is incredibly difficult or perhaps virtually impossible to mount such attacks against heavily-mined cryptocurrency networks like Bitcoin and Ethereum, attackers chose to target small-cap cryptocurrencies like Ethereum Classic, Litecoin Cash, Bitcoin Gold, ZenCash (now Horizen), and Verge.
+Created in June 2016, Ethereum Classic is the 18th-largest cryptocurrency with a market cap of over half a billion dollars (around $539 million), which makes it an attractive target for attackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

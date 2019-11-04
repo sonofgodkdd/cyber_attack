@@ -1,0 +1,22 @@
+iPhone Chip Supplier TSMC Stops Production After Computer Virus Attack
+Swati Khandelwal
+
+Taiwan Semiconductor Manufacturing Company (TSMC)—Apple's sole supplier of SoC components for iPhones and iPads, and Qualcomm's major manufacturing partner—shut down several of its chip-fabrication factories Friday night after being hit by a computer virus.
+The world's largest makers of semiconductors and processors TSMC lost an entire day of production after several of its factories systems were halted by a computer virus in the middle of the ramp-up for chips to be used by Apple's future lines of iPhones.
+Though the popular chip maker has been attacked by viruses in the past, this is the first time a virus has affected TSMC's production lines, making the incident a real big deal.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Without revealing many details, TSMC said a number of its computer systems and fabrication tools were infected by the virus on Friday night, but since then it has recovered 80% of its impacted equipment, though others will be recovered by tomorrow.
+According to TSMC, the computer virus was not released into the fabrication factories by any hacker.
+Here's what happened according to the company:
+"This virus outbreak occurred due to misoperation during the software installation process for a new tool, which caused a virus to spread once the tool was connected to the Company's computer network," TSMC said in a statement.
+"Data integrity and confidential information was not compromised. TSMC has taken actions to close this security gap and further strengthen security measures."
+TSMC Expects Attack to Inflict 250 Million Loss in Revenue
+However, it remains unclear how the virus infected the factories at the first place and who was responsible for it, and also, the company did not confirm if the affected facilities were involved in making iPhone chips.
+TSMC expects the shutdown will result in shipment delays and additional costs, and estimated that two days of outages will impact revenue by about 3 percent  (approx. 250 Million), but is confident shipments delayed in the third quarter will be recovered in the fourth quarter 2018.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Being the exclusive provider of Apple's A-series chipsets for 2018, TSMC started mass production of the 7-nanometer A12 chip in May seemingly destined to power the upcoming iPhone models.
+The 2018 iPhone models, which are expected to be officially announced on the 11th or 12th of September this year, will most likely include the A12 processor as the iPhone 8, iPhone 8 Plus, and iPhone X included the A11.
+However, it is unclear if the shut down would result in a delayed release for the devices.
+TSMC said the company has notified its customers of the event and added that it will work closely with them on their wafer deliveries. The details of the incident will be conveyed to each customer individually over the next few days.
+The chipmaker giant, which builds chips for many of the industry's biggest tech companies, including Apple, AMD, NVIDIA, and Qualcomm, promised more information about the incident on August 6th.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

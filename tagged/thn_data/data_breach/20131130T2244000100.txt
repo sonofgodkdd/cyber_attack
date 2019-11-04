@@ -1,0 +1,29 @@
+Vodafone Iceland hacked and exposed 70000 Users' Personal Information
+Anonymous
+Today Vodafone Iceland was hacked by the Turkish group of hackers Maxn3y (@AgentCoOfficial) who in the past has stolen data from  airports' systems, electronic giants and fast food company.
+The hackers announced via Twitter that he has successfully compromised Vodafone Iceland server and defaced the official website (Vodafone.is), including various other sub-domains including the company mobile site.  (adsbygoogle = window.adsbygoogle || []).push({}); The hackers disclosed a compressed 61.7MB rar file which is locked with password TURKISH and that contains a collection of files including one titled users.sql that appears to contain the 77,000 user accounts. 
+The file includes user names, social security numbers, encrypted passwords as many other encrypted information. The portal CyberWarNews posted the list of files disclosed and provided information on their content.
+Following the complete list of files leaked:
+v2.sqlMultimedia database, nothing critical, 400K of user tracking and logging with user agents, refers etc.
+greind.sqlSms history with what appears to be full text messages to a from numbers with timestamps, all dated 2011-08-19SMS logger sender id, sms id, user IP, date.900k rows of user contact details related to an SMS plan.
+users.sqlUser names, ids, encrypted passwords, email addresses, social security numbers, dates, bank details (alot is incomplete)77,25
+sso_vodafone.sqlAccount manager's detailsFull names, phone numbers, email addresses.sms_history.sql and signup.sql explained above.
+XLS files6stodvar_signup.xlskennitala (social security numbers), dates, ticket numbers, campaign ids(unknown campaign), email addressesCount: 23,494
+100mb_pakkar.xlsid, code(unknown), msisdn, sms, timestamp(ts)Count: 1001
+aukalykill_signup.xlsId, full name (nafn), kennitala (SSN), pnr, confirmed, date, ticket, email, senda, receiver.Count: 4305
+env_users.xlsId, IP addresses, user name, encrypted passwords, email addresses, first name, last name, phone, fax, Reg date, last active, user level, notesCount: 334
+ev_users.xlsId, school. login. Clear text passwords, names, isadmin, activeCount: 18
+gagnamaga_account.xlsId, timestamp, IP, session id, social security numbers, email addressesCount: 1491
+registeration.xlsId, phone, social security numbers, email addresses, ticket id, registration status, date, IPCount: 1247
+ris_site_users.xlsUser names, clear text passwords, names, email addresses and permissionsCount: 12
+shop_order.xlscart_id, names, social security numbers, postal codes, email addresses, credit card names, nulled credit card numbers and dates, sale amounts.Count: 3086
+signup_buika.xlsReal name, email addresses, company’s, chairman name.Count: 31
+survey_registration.xlsId, content, date, email addressesCount: 1929
+um_clients.xlsusernames, clear text passwords, active, company’s, full addresses, contact numbers, websites, nulled locations.Count: 767
+vodafonecup2010User names, 5x full names, phone numbers, social security numbersCount: 71
+ris_world_zones.xlsNames, partner countries, to Iceland (nothing important)Count: 10
+shop_cart.xlsSession id and details encrypted, (nothing important)Count: 49, 468
+shop_cart_items.xlsFile name says all, nothing of importance here.
+shop_cart_planFile name says all, nothing of importance here.
+ Vodafone Iceland website was rapidly restored, but at the time I'm writing it is not reachable.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

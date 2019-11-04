@@ -1,0 +1,19 @@
+Air Canada Suffers Data Breach — 20,000 Mobile App Users Affected
+Mohit Kumar
+
+Air Canada has confirmed a data breach that may have affected about 20,000 customers of its 1.7 million mobile app users.
+The company said it had "detected unusual log-in behavior" on its mobile app between August 22 and 24, during which the personal information for some of its customers "may potentially have been improperly accessed."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The exposed information contains basic information such as customers' names, email addresses, phone numbers, and other information they have added to their profiles.
+Passport Numbers Exposed in Air Canada Data Breach
+However, what's worrisome?
+Hackers could have also accessed additional data including customer's passport number, passport expiration date, passport country of issuance and country of residence, Aeroplan number, known traveler number, NEXUS number, gender, date of birth, and nationality, if users had this information saved in their profile on the Air Canada mobile app.
+The airline assured its customers that credit card information saved to their profile was "encrypted and stored in compliance with security standards set by the payment card industry or PCI standards," and therefore, are protected.
+However, Air Canada still recommended affected customers to always monitor their credit card transactions and contact their financial services provider immediately if they found any unusual or unauthorized activity.
+Reset Your Password
+The company estimates about 1% of its 1.7 million people—or about 20,000 users in total—who use its mobile app may have been affected by the security breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although currently, it is not clear how the data breach occurred, if it was a direct breach of Air Canada's systems, or if it was due to the reuse of passwords from other sites, the airline encourages users to reset their passwords using improved password guidelines, which says passwords should be at least 10 characters long and contain one symbol.
+However, as a precaution, the airline has locked down all 1.7 million accounts until all of its customers—even those whose information was not exposed in the breach—change their passwords.
+Air Canada has contacted potentially affected customers directly by email starting August 29 to tell them if their account has potentially been accessed by hackers improperly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

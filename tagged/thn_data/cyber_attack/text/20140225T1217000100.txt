@@ -1,0 +1,23 @@
+Pony Botnet steals $220,000 from multiple Digital Wallets
+Swati Khandelwal
+
+Are you the one of the Digital Currency Holder? PONY is after You. 
+A Group of cyber criminals has used hundreds of thousands of infected computers of the digital currency holders to filch approximately $220,000 worth of Bitcoins and other virtual currencies.
+The researchers at the security firm, Trustwave have uncovered the Bitcoin Heist that was accomplished by the computers infected with a new class of malware that has been dubbed as ‘Pony’, a very powerful type of Spying Keylogger Malware with very dangerous features that was last time found two months ago.
+Pony, for those who have not yet heard about it, is a bot controller much like any other, with the capability to capture all kinds of confidential information and access passwords. It contains a control panel, user management, logging features, a database to manage all the data and, of course, the statistics. It can see the passwords and login credentials of infected users when they access applications and Internet sites.
+The security firm has found that the botnet has infected over 700,000 accounts in four months of the period, between September 2013 and mid-January 2014, and allowed criminals to control those accounts.
+“Not only did this Pony botnet steal credentials for approximately 700,000 accounts, it’s also more advanced and collected approximately $220,000 worth, at the time of writing, of virtual currencies such as BitCoin (BTC), LiteCoin (LTC), FeatherCoin (FTC) and 27 others,” reads the report.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In December, the same piece of malware infected a number of popular websites and services such as Facebook, Google, Yahoo, Twitter, LinkedIn, etc., by stealing a couple of million passwords, that provide them access to all those accounts.
+Latest Pony attack
+This Time the Pony botnet stole over 700,000 credentials, including 600,000 website login credentials, 100,000 email account credentials, 16,000 FTP account credentials and other Secure Shell account information.
+“This instance of Pony compromised 85 wallets, a fairly low number compared to the number of compromised credentials. Despite the small number of wallets compromised, this is one of the larger caches of BitCoin wallets stolen from end-users.”
+The Malware was in the wild when the virtual currency, such as Bitcoin value touched the sky, which was developed by cryptographic experts as a way to move money at a lower cost than traditional financial systems.
+"Bitcoins are stored in virtual wallets, which are essentially pairs of private and public keys," the Trustwave researchers said, adding that “whoever has those keys can take the currency, and stealing Bitcoins and exchanging them for another currency, even a regulated one such as US dollars, is much easier than stealing money from a bank."
+They said that cyber thieves with Bitcoins can use any number of trading websites, to get real cash while maintaining anonymity.
+NOT just BITCOINS
+Here, if you think that the botnet went after only the Bitcoin, then you are wrong. Currently, the Bitcoin value is swinging between $300 and $500. So, instead of sticking to only Bitcoin wallets, the Pony botnet looks for a list of virtual currencies including Anoncoin, BBQcoin, Bytecoin, Craftcoin, Devcoin, Digitalcoin, Fastcoin, Feathercoin, Florincoin, Franko, Freicoin, GoldCoin, I0coin, Infinitecoin, Ixcoin, Junkcoin, Litecoin, Luckycoin, Mincoin, Namecoin, NovaCoin, Phoenixcoin, PPCoin, Primecoin, Quarkcoin, Tagcoin, Terracoin, Worldcoin, Yacoin and Zetacoin.
+If you are wondering that the attack was being shut down by some security companies, then you are guessing wrong, because the attackers themselves “closed shop” during January.
+Researchers haven't explained any Malware removal mechanism, but in order to protect your virtual currency, you are advised to encrypt your wallets. Keep your virtual currency wallets safe!
+In a separate news, you may also like to read, Worlds Largest Bitcoin Exchange Mt. Gox Shuts Down.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

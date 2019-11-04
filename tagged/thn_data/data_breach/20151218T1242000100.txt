@@ -1,0 +1,51 @@
+Shocking! Instagram HACKED! Researcher hacked into Instagram Server and Admin Panel
+Swati Khandelwal
+
+Ever wonder how to hack Instagram or how to hack a facebook account? Well, someone just did it!
+But, remember, even responsibly reporting a security vulnerability could end up in taking legal actions against you.
+An independent security researcher claims he was threatened by Facebook after he responsibly revealed a series of security vulnerabilities and configuration flaws that allowed him to successfully gained access to sensitive data stored on Instagram servers, including:
+Source Code of Instagram website
+SSL Certificates and Private Keys for Instagram
+Keys used to sign authentication cookies
+Personal details of Instagram Users and Employees
+Email server credentials
+Keys for over a half-dozen critical other functions
+However, instead of paying him a reward, Facebook has threatened to sue the researcher of intentionally withholding flaws and information from its team.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Wesley Weinberg, a senior security researcher at Synack, participated in Facebook's bug bounty program and started analyzing Instagram systems after one of his friends hinted him to a potentially vulnerable server located at sensu.instagram.com
+The researcher found an RCE (Remote Code Execution) bug in the way it processed users’ session cookies that are generally used to remember users' log-in details.
+Remote code execution bug was possible due to two weaknesses:
+The Sensu-Admin web app running on the server contained a hard-coded Ruby secret token
+The host running a version of Ruby (3.x) that was susceptible to code execution via the Ruby session cookie
+Exploiting the vulnerability, Weinberg was able to force the server to vomit up a database containing login details, including credentials, of Instagram and Facebook employees.
+Although the passwords were encrypted with ‘bcrypt’, Weinberg was able to crack a dozen of passwords that had been very weak (like changeme, instagram, password) in just a few minutes.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Exposed EVERYTHING including Your Selfies
+Weinberg did not stop here. He took a close look at other configuration files he found on the server and discovered that one of the files contained some keys for Amazon Web Services accounts, the cloud computing service used to host Instagram's Sensu setup.
+These keys listed 82 Amazon S3 buckets (storage units), but these buckets were unique. He found nothing sensitive in the latest file in that bucket, but when he looked at the older version of the file, he found another key pair that let him read the contents of all 82 buckets.
+Weinberg had inadvertently stumbled upon almost EVERYTHING including:
+Instagram's source code
+SSL certificates and private keys (including for instagram.com and *.instagram.com)
+API keys that are used for interacting with other services
+Images uploaded by Instagram users
+Static content from the instagram.com website
+Email server credentials
+iOS/Android app signing keys
+Other sensitive data
+"To say that I had gained access to basically all of Instagram's secret key material would probably be a fair statement," Weinberg wrote in his blog. "With the keys I obtained, I could now easily impersonate Instagram, or any valid user or staff member. While out of scope, I would have easily been able to gain full access to any user’s account, [personal] pictures and data."
+Responsible Disclosure, but Facebook Threatens Lawsuit
+Weinberg reported his findings to Facebook's security team, but the social media giant was concerned he had accessed private data of its users and employees while uncovering the issues.
+Instead of receiving a reward from Facebook for his hard work, Weinberg was unqualified for the bug bounty program by Facebook.
+In early December, Weinberg claims his boss Synack CEO, Jay Kaplan, received a scary call from Facebook security chief Alex Stamos regarding the weaknesses Weinberg discovered in Instagram that left Instagram and Facebook users wide open to a devastating attack.
+Stamos "stated that he did not want to have to get Facebook's legal team involved, but that he was not sure if this was something he needed to go to law enforcement over," Weinberg wrote in his blog in a section entitled 'Threats and Intimidation.'
+In response, Stamos issued a statement, saying he "did not threaten legal action against Synack or [Weinberg] nor did [he] ask for [Weinberg] to be fired."
+Stamos said he only told Kaplan to "keep this out of the hands of the lawyers on both sides."
+"Condoning researchers going well above and beyond what is necessary to find and fix critical issues would create a precedent that could be used by those aiming to violate the privacy of our users, and such behavior by legitimate security researchers puts the future of paid bug bounties at risk," Stamos added.
+Facebook Responds
+After the original publication by the researcher, Facebook issued its response, saying the claims are false and that Weinberg was never told not to publish his findings, rather only asked not to disclose the non-public information he accessed.
+The social media giant confirmed the existence of the remote code execution bug in the sensu.instagram.com domain and promised a bug bounty of $2,500 as a reward to Weinberg and his friend who initially hinted that the server was openly accessible.
+However, the other vulnerabilities that allowed Weinberg to gain access to sensitive data were not qualified, with Facebook saying he violated user privacy while accessing the data.
+Here's the full statement by Facebook:
+We are strong advocates of the security researcher community and have built positive relationships with thousands of people through our bug bounty program. These interactions must include trust, however, and that includes reporting the details of bugs that are found and not using them to access private information in an unauthorized manner. In this case, the researcher intentionally withheld bugs and information from our team and went far beyond the guidelines of our program to pull private, non-user data from internal systems. 
+We paid him for his initial bug report based on the quality, even though he was not the first to report it, but we didn't pay for the subsequent information that he had withheld. At no point did we say he could not publish his findings — we asked that he refrain from disclosing the non-public information he accessed in violation of our program guidelines. We remain firmly committed to paying for high quality research and helping the community learn from researchers' hard work.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

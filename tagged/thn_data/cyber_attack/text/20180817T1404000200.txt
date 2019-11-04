@@ -1,0 +1,22 @@
+16-Year-Old Teen Hacked Apple Servers, Stole 90GB of Secure Files
+Mohit Kumar
+
+Well, there's something quite embarrassing for Apple fans.
+Though Apple servers are widely believed to be unhackable, a 16-year-old high school student proved that nothing is impossible.
+The teenager from Melbourne, Australia, managed to break into Apple servers and downloaded some 90GB of secure files, including extremely secure authorized keys used to grant login access to users, as well as access multiple user accounts.
+The teen told the authorities that he hacked Apple because he was a huge fan of the company and "dreamed of" working for the technology giant.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's more embarrassing? The teen, whose name is being withheld as he's still a minor, hacked the company's servers not once, but numerous times over the course of more than a year, and Apple's system administrators failed to stop their users' data from being stolen.
+When Apple finally noticed the intrusion, the company contacted the FBI, which took the help of the Australian Federal Police (AFP) after detecting his presence on their servers and blocking him.
+Apple Hack: The "Hacky Hack Hack" Folder
+The AFP caught the teenager last year after a raid on his residence and seized two Apple laptops, a mobile phone, and a hard drive.
+"Two Apple laptops were seized, and the serial numbers matched the serial numbers of the devices which accessed the internal systems," a prosecutor was quoted as saying by Australian media The Age. "A mobile phone and hard drive were also seized, and the IP address matched the intrusions into the organization."
+After analyzing the seized equipment, authorities found the stolen data in a folder called "hacky hack hack."
+Besides this, authorities also discovered a series of hacking tools and files that allowed the 16-year-old boy to break into Apple's mainframe repeatedly.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the authorities, the teenager also used Whatsapp to share his offending with others.
+At Apple's request, authorities did not disclose details regarding the methods the teenager used to hack into its secure servers, though investigators said his ways "worked flawlessly" until the company noticed.
+The FBI and the AFP kept everything secret until now, as the teen's defense lawyer said the boy had become so well known in the international hacking community that even mentioning the case in detail could expose him to risk.
+In a statement given by Apple to the press today, the company assured its customers that no personal data was compromised in the hack, though it is still unclear what kind of data the teen stole.
+The teen has pleaded guilty to a Children's Court, but the magistrate has postponed his sentencing till next month (20 September).
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,20 @@
+New Facebook Bug Exposed 6.8 Million Users Photos to Third-Party Apps
+Mohit Kumar
+
+Facebook's latest screw-up — a programming bug in Facebook website accidentally gave 1,500 third-party apps access to the unposted Facebook photos of as many as 6.8 million users.
+Facebook today quietly announced that it discovered a new API bug in its photo-sharing system that let 876 developers access users' private photos which they never shared on their timeline, including images uploaded to Marketplace or Facebook Stories.
+"When someone gives permission for an app to access their photos on Facebook, we usually only grant the app access to photos people share on their timeline. In this case, the bug potentially gave developers access to other photos, such as those shared on Marketplace or Facebook Stories," Facebook said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What's worse? The bug even exposed photos that people uploaded to Facebook but chose not to post or didn't finish posting it for some reason.
+The flaw left users' private data exposed for 12 days, between September 13th and September 25th, until Facebook discovered and fixed the security blunder on the 25th September.
+"Currently, we believe this may have affected up to 6.8 million users and up to 1,500 apps built by 876 developers. The only apps affected by this bug were ones that Facebook approved to access the photos API and that individuals had authorized to access their photos," Facebook said.
+The social media giant has started notifying impacted users of the flaw through an alert on their Facebook timeline that their photos may have been exposed, which will direct them to its Help Center page with more information.
+Facebook also says the social media network will soon be rolling out "tools for app developers that will allow them to determine which people using their app might be impacted by this bug."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Facebook also assures its users that the company will be working with app developers to delete copies of photos that they were not supposed to access.
+2018 has been quite a terrible year for Facebook with the social media giant found dealing with a slew of security incidents this year—the most significant one being the Cambridge Analytic scandal that exposed personal data of 87 million Facebook users.
+The social network also suffered its worst-ever security breach in September this year that exposed highly sensitive data of 14 million users.
+In the same month, Facebook also addressed a similar severe API bug that was actively being exploited by unknown hackers to steal secret access tokens and gather personal information for 30 million Facebook users.
+In June, Facebook also suffered another security issue affecting 14 million users, wherein users' posts that were meant to be private became public.
+These security incidents came out to be a failure of the social media giant in keeping the personal information of its 2.2 billion users protected while generating billions of dollars in revenue from the same information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

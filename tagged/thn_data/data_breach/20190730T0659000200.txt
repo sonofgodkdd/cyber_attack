@@ -1,0 +1,23 @@
+Capital One Data Breach Affects 106 Million Customers; Hacker Arrested
+Swati Khandelwal
+
+Another week, another massive data breach.
+Capital One, the fifth-largest U.S. credit-card issuer and banking institution, has recently suffered a data breach exposing the personal information of more than 100 million credit card applicants in the United States and 6 million in Canada.
+The data breach that occurred on March 22nd and 23rd this year allowed attackers to steal information of customers who had applied for a credit card between 2005 and 2019, Capital One said in a statement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the security incident only came to light after July 19 when a hacker posted information about the theft on her GitHub account.
+The FBI Arrested the Alleged Hacker
+The FBI arrested Paige Thompson a.k.a erratic, 33, a former Amazon Web Services software engineer who worked for a Capital One contractor from 2015 to 2016, in relation to the breach, yesterday morning and seized electronic storage devices containing a copy of the stolen data.
+Thompson appeared in U.S. District Court on Monday and was charged with computer fraud and abuse, which carries up to five years in prison and a $250,000 fine. A hearing has been scheduled for August 1, 2019.
+According to court documents [PDF], Thompson allegedly exploited a misconfigured firewall on Capital One's Amazon Web Services cloud server and unauthorizedly stole more than 700 folders of data stored on that server sometime in March.
+"Capital One quickly alerted law enforcement to the data theft — allowing the FBI to trace the intrusion," U.S. Attorney Moran said. "I commend our law enforcement partners who are doing all they can to determine the status of the data and secure it."
+It is important to note that Amazon Web Services was not compromised in any way since the alleged hacker gained access to the cloud server due to Capital One's misconfiguration and not through a vulnerability in Amazon's infrastructure.
+Number of Customers and Types of Information Affected
+The compromised data includes approximately 140,000 Social Security numbers and 80,000 bank account numbers linked to American customers, and 1 million Canadian Social Insurance numbers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, some customers' names, addresses, dates of birth, credit scores, credit limits, balances, payment history, and contact information were also compromised in the security breach.
+However, in a statement released on Monday, Capital One assured its customers that "no credit card account numbers or log-in credentials were compromised" and that more than 99% of the Social Security numbers that the company has on file weren't affected.
+"Capital One immediately fixed the configuration vulnerability that this individual exploited and promptly began working with federal law enforcement," Capital One said.
+"The FBI has arrested the person responsible. Based on our analysis to date, we believe it is unlikely that the information was used for fraud or disseminated by this individual."
+The company also said it will notify the affected customers and will provide free credit monitoring services to those affected.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

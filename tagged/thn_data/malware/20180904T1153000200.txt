@@ -1,0 +1,23 @@
+Thousands of MikroTik Routers Hacked to Eavesdrop On Network Traffic
+Swati Khandelwal
+
+Last month we reported about a widespread crypto-mining malware campaign that hijacked over 200,000 MikroTik routers using a previously disclosed vulnerability revealed in the CIA Vault 7 leaks.
+Now Chinese security researchers at Qihoo 360 Netlab have discovered that out of 370,000 potentially vulnerable MikroTik routers, more than 7,500 devices have been compromised to enable Socks4 proxy maliciously, allowing attackers to actively eavesdrop on the targeted network traffic since mid-July.
+The vulnerability in question is Winbox Any Directory File Read (CVE-2018-14847) in MikroTik routers that was found exploited by the CIA Vault 7 hacking tool called Chimay Red, along with another MikroTik's Webfig remote code execution vulnerability.
+Both Winbox and Webfig are RouterOS management components with their corresponding communication ports as TCP/8291, TCP/80, and TCP/8080. Winbox is designed for Windows users to easily configure the routers that download some DLL files from the router and execute them on a system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the researchers, more than 370,000 of 1.2 million MikroTik routers are still vulnerable to the CVE-2018-14847 exploit, even after the vendor has already rolled out security updates to patch the loophole.
+Netlab researchers have identified malware exploiting the CVE-2018-14847 vulnerability to perform various malicious activities, including CoinHive mining code injection, silently enabling Socks4 proxy on routers, and spying on victims.
+CoinHive Mining Code Injection — After enabling the Mikrotik RouterOS HTTP proxy, the attackers redirect all the HTTP proxy requests to a local HTTP 403 error page which injects a link for web mining code from Coinhive.
+"By doing this, the attacker hopes to perform web mining for all the proxy traffic on the users’ devices," the researchers explain.
+"What is disappointing for the attacker though, the mining code does not work in this way, because all the external web resources, including those from coinhive.com necessary for web mining, are blocked by the proxy ACLs set by attackers themselves."
+Maliciously Enabling Sock4 Proxy — Silently enabling the Socks4 port or TCP/4153 on victims device allows an attacker to gain control of the device even after it has been rebooted (IP change) by periodically reporting its latest IP address to the attacker's URL.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the researchers, at present, a total of 239,000 IP addresses are confirmed to have Socks4 proxy enabled maliciously, eventually allowing attackers to continuously scan more MikroTik RouterOS devices using these compromised Socks4 proxy.
+Eavesdropping on Victims — Since the MikroTik RouterOS devices allow users to capture packets on the router and forward them to the specified Stream server, attackers are forwarding the traffic from compromised routers to IP addresses controlled by them.
+"At present, a total of 7.5k MikroTik RouterOS device IPs have been compromised by the attacker, and their TZSP traffic is being forwarded to some collecting IP addresses," the researchers say.
+"We also noticed the SNMP port 161 and 162 are also top on the list. This deserve some questions, why the attacker is paying attention to the network management protocol regular users barely use? Are they trying to monitor and capture some special users’ network SNMP community strings?"
+The victims are spread across various countries Russia, Iran, Brazil, India, Ukraine, Bangladesh, Indonesia, Ecuador, the United States, Argentina, Colombia, Poland, Kenya, Iraq, and some European and Asian countries, with Russia being the most affected.
+Netlab did not share the IP addresses of the victims to the public for security reasons but said that relevant security entities in affected countries can contact the company for a full list of infected IP addresses.
+The best way to protect yourself is to PATCH. MikroTik RouterOS users are highly recommended to update their devices and also check if the HTTP proxy, Socks4 proxy, and network traffic capture function are being maliciously exploited.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

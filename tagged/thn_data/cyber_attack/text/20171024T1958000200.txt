@@ -1,0 +1,18 @@
+DUHK Attack Lets Hackers Recover Encryption Key Used in VPNs & Web Sessions
+Mohit Kumar
+
+DUHK — Don't Use Hard-coded Keys — is a new 'non-trivial' cryptographic implementation vulnerability that could allow attackers to recover encryption keys that secure VPN connections and web browsing sessions.
+DUHK is the third crypto-related vulnerability reported this month after KRACK Wi-Fi attack and ROCA factorization attack.
+The vulnerability affects products from dozens of vendors, including Fortinet, Cisco, TechGuard, whose devices rely on ANSI X9.31 RNG — an outdated pseudorandom number generation algorithm — 'in conjunction with a hard-coded seed key.'
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Before getting removed from the list of FIPS-approved pseudorandom number generation algorithms in January 2016, ANSI X9.31 RNG was included into various cryptographic standards over the last three decades.
+Pseudorandom number generators (PRNGs) don’t generate random numbers at all. Instead, it is a deterministic algorithm that produces a sequence of bits based on initial secret values called a seed and the current state. It always generates the same sequence of bits for when used with same initial values.
+Some vendors store this 'secret' seed value hard-coded into the source code of their products, leaving it vulnerable to firmware reverse-engineering.
+Discovered by cryptography researchers — Shaanan Cohney, Nadia Heninger, and Matthew Green — DUHK, a 'state recovery attack,' allows man-in-the-middle attackers, who already know the seed value, to recover the current state value after observing some outputs.
+Using both values in hand, attackers can then use them to re-calculate the encryption keys, allowing them to recover encrypted data that could 'include sensitive business data, login credentials, credit card data and other confidential content.'
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"In order to demonstrate the practicality of this attack, we develop a full passive decryption attack against FortiGate VPN gateway products using FortiOS version 4." researchers said.
+"Our scans found at least 23,000 devices with a publicly visible IPv4 address running a vulnerable version of FortiOS."
+Here below you can check a partial list (tested by researchers) of affected devices from various vendors:
+The security researchers have released a brief blog post and technical researcher paper on a dedicated website for DUHK attack.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

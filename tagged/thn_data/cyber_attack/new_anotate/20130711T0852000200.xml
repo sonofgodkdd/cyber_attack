@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Internet Explorer vulnerability exposed by Google Researcher used in targeted attacks 
+Mohit Kumar
+
+Google and Microsoft are at each other's throats again. In a recent statement, Microsoft says hackers have been actively exploiting a vulnerability that was publicly disclosed by a Google researcher, Tavis Ormandy.
+Microsoft addressed the vulnerability in its monthly "Patch Tuesday" package of fixes for July. Tavis Ormandy revealed the vulnerability in Windows 7 and 8 allows local users to obtain escalated privileges, making it easier for a hacker to compromise a system.
+Ormandy has been criticized by Microsoft and some in the security community who subscribe to the practice that a vulnerability shouldn't be made public until a software maker has an opportunity to fix it. Ormandy said that Microsoft “treat vulnerability researchers with great hostility” and are “often very difficult to work with”. He also advised researchers to use pseudonyms when dealing with the software giants.
+In 2012, Tavis accused Sophos of “poor development practices and coding standards” after he uncovered some nasty flaws.
+It is nowhere mentioned that whether the attempted attacks had been successful, or how widespread the attempts appeared to be. This month in Patch Tuesday, Seven bulletins were released by Microsoft yesterday, six of which were critical.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<DISCOVER.Kernel_Flaws id="DI0" start="426" end="434" text="revealed" TYPE="TRG" />
+<DISCOVER.Kernel_Flaws id="DI1" start="472" end="478" text="allows" TYPE="SUP" />
+<PATCH.Kernel_Flaws id="PA0" start="326" end="335" text="addressed" TYPE="TRG" />
+<ATTACK.Root_Compromise id="AT0" start="556" end="566" text="compromise" TYPE="TRG" />
+<ATTACK.Arbitrary_Code_Execution id="ATTACK.A0" start="222" end="232" text="exploiting" TYPE="TRG" />
+</TAGS>
+</KddTask>

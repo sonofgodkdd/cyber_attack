@@ -1,0 +1,24 @@
+Uber Paid 20-Year-Old Florida Hacker $100,000 to Keep Data Breach Secret
+Swati Khandelwal
+
+Last year, Uber received an email from an anonymous person demanding money in exchange for the stolen user database.
+It turns out that a 20-year-old Florida man, with the help of another, breached Uber's system last year and was paid a huge amount by the company to destroy the data and keep the incident secret.
+Just last week, Uber announced that a massive data breach in October 2016 exposed personal data of 57 million customers and drivers and that it paid two hackers $100,000 in ransom to destroy the information.
+However, the ride-hailing company did not disclose identities or any information about the hackers or how it paid them.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, two unknown sources familiar with the incident have told Reuters that Uber paid a Florida man through HackerOne platform, a service that helps companies to host their bug bounty and vulnerability disclosure program.
+So far, the identity of the Florida man was unable to be obtained or another person who helped him carry out the hack.
+Notably, HackerOne, who does not manage or plays any role in deciding the rewards on behalf of companies, receives identifying information of the recipient (hackers and researchers) via an IRS W-9 or W-8BEN form before payment of the award can be made.
+In other words, some employees at Uber and HackerOne definitely knows the real identity of the hacker, but choose not to pursue the case, as the individual did not appear to pose any future threat to the company.
+Moreover, the sources also said that Uber conducted a forensic analysis of the hacker's computer to make sure that all the stolen data had been wiped, and had the hacker also sign a nondisclosure agreement to prevent further wrongdoings.
+Reportedly, the Florida man also paid some unknown portion of the received bounty to the second person, who was responsible for helping him obtain credentials from GitHub for access to Uber data stored elsewhere.
+Originally occurred in October 2016, the breach exposed the names and driver license numbers of some 600,000 drivers in the United States, and the names, emails, and mobile phone numbers of around 57 million Uber users worldwide, which included drivers as well.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, other personal details, like trip location history, dates of birth, credit card numbers, bank account numbers, and Social Security numbers, were not accessed in the attack.
+Former Uber CEO Travis Kalanick learned of the cyber attack in November 2016 and chose not to involve authorities, believing the company can easily and more effectively negotiate directly with the hackers to limit any harm to its customers.
+However, this secret dealing with the hackers eventually cost Uber security executives their jobs for handling the incident.
+Now Uber CEO Dara Khosrowshahi has reportedly fired Uber Chief Security Officer Joe Sullivan, and one of his deputies, Craig Clark, who worked to keep the data breach quiet.
+"None of this should have happened, and I will not make excuses for it. While I cannot erase the past, I can commit on behalf of every Uber employee that we will learn from our mistakes," Khosrowshahi said.
+"We are changing the way we do business, putting integrity at the core of every decision we make and working hard to earn the trust of our customers."
+Last week, three more top Uber security managers resigned, including Sullivan's chief of staff Pooja Ashok, senior security engineer Prithvi Rai, and physical security chief Jeff Jones.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+July 19, 2012
+2 more convicted for attempting to smuggle 652 assault rifle magazines to Mexico
+LAREDO, Texas - Two Mexican nationals pleaded guilty Thursday to attempting to illegally smuggle 652 assault rifle magazines into Mexico, announced U.S. Attorney Kenneth Magidson, Southern District of Texas. The investigation for this case is being led by U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI).
+Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals, pleaded guilty July 19 before U.S. District Judge Diana Saldana.
+According to court documents, on April 19, HSI obtained information that a person, believed to be a Mexican firearms buyer, was trying to obtain high-capacity AK-47 rifle magazines from the United States. Undercover special agents posed as firearm magazine suppliers and contacted the buyer, later identified as Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines. Padilla-Perez told the special agents he would pay $19,500 cash for the rifle magazines. He then instructed special agents to deliver the magazines to a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas. Flores-Martinez was the truck driver.
+Padilla-Perez and the undercover special agents met with Flores-Martinez. Flores-Martinez received nine black suitcases containing 652 high capacity AK-47 rifle magazines and hid them in the cab of his truck while Padilla-Perez observed from nearby. After Flores-Martinez finished loading, Padilla-Perez then handed the special agents a white plastic bag containing $19,500 in cash.
+Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines. The magazines are made for 7.62x39mm ammunition and designed for use with AK-47-type assault rifles. Each magazine is designed to hold 30 rounds of the rifle ammunition.
+Flores-Martinez and Padilla-Perez have been in custody since their arrest, where they will remain pending sentencing at a date to be determined in the near future. They each face sentences up to 10 years in prison and a $250,000 fine.
+HSI is being assisted with the investigation by the following agencies: the Bureau of Alcohol, Tobacco, Firearms and Explosives; CBP; the U.S. State Department; Webb County Sheriff's Office; and the Laredo Police Department.
+Assistant U.S. Attorney Homero Ramirez, Southern District of Texas is prosecuting this case.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="15" end="95" text="2 more convicted for attempting to smuggle 652 assault rifle magazines to Mexico" TYPE="HLS" />
+<person id="p1" start="112" end="133" text="Two Mexican nationals" TYPE="NOM" />
+<person id="p2" start="244" end="302" text="U.S. Attorney Kenneth Magidson, Southern District of Texas" TYPE="NAM" />
+<person id="p3" start="244" end="257" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p4" start="441" end="529" text="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" TYPE="NAM" />
+<person id="p5" start="441" end="529" text="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" TYPE="NAM" />
+<person id="p6" start="507" end="529" text="both Mexican nationals" TYPE="HLS" />
+<person id="p7" start="512" end="529" text="Mexican nationals" TYPE="BAR" />
+<person id="p8" start="561" end="594" text="U.S. District Judge Diana Saldana" TYPE="NAM" />
+<person id="p9" start="561" end="580" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p10" start="669" end="718" text="a person, believed to be a Mexican firearms buyer" TYPE="NOM" />
+<person id="p11" start="694" end="718" text="a Mexican firearms buyer" TYPE="NOM" />
+<person id="p12" start="801" end="826" text="Undercover special agents" TYPE="BAR" />
+<person id="p13" start="836" end="862" text="firearm magazine suppliers" TYPE="BAR" />
+<person id="p15" start="877" end="976" text="the buyer, later identified as Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" TYPE="NOM" />
+<person id="p17" start="908" end="976" text="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" TYPE="NAM" />
+<person id="p18" start="923" end="926" text="who" TYPE="WHQ" />
+<person id="p19" start="978" end="991" text="Padilla-Perez" TYPE="NAM" />
+<person id="p20" start="997" end="1015" text="the special agents" TYPE="NOM" />
+<person id="p21" start="1016" end="1018" text="he" TYPE="PRO" />
+<person id="p14" start="1067" end="1069" text="He" TYPE="PRO" />
+<person id="p16" start="1086" end="1100" text="special agents" TYPE="BAR" />
+<person id="p22" start="1129" end="1278" text="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" TYPE="NOM" />
+<person id="p23" start="1179" end="1182" text="who" TYPE="WHQ" />
+<person id="p24" start="1280" end="1295" text="Flores-Martinez" TYPE="NAM" />
+<person id="p25" start="1300" end="1316" text="the truck driver" TYPE="NOM" />
+<person id="p26" start="1318" end="1331" text="Padilla-Perez" TYPE="NAM" />
+<person id="p27" start="1336" end="1365" text="the undercover special agents" TYPE="NOM" />
+<person id="p28" start="1375" end="1390" text="Flores-Martinez" TYPE="NAM" />
+<person id="p29" start="1392" end="1407" text="Flores-Martinez" TYPE="NAM" />
+<person id="p30" start="1516" end="1519" text="his" TYPE="PRO" />
+<person id="p31" start="1532" end="1545" text="Padilla-Perez" TYPE="NAM" />
+<person id="p32" start="1574" end="1589" text="Flores-Martinez" TYPE="NAM" />
+<person id="p33" start="1608" end="1621" text="Padilla-Perez" TYPE="NAM" />
+<person id="p34" start="1634" end="1652" text="the special agents" TYPE="NOM" />
+<person id="p35" start="1701" end="1716" text="Flores-Martinez" TYPE="NAM" />
+<person id="p36" start="1755" end="1804" text="U.S. Customs and Border Protection (CBP) officers" TYPE="BAR" />
+<person id="p37" start="2024" end="2039" text="Flores-Martinez" TYPE="NAM" />
+<person id="p38" start="2044" end="2057" text="Padilla-Perez" TYPE="NAM" />
+<person id="p39" start="2085" end="2090" text="their" TYPE="PRO" />
+<person id="p40" start="2105" end="2109" text="they" TYPE="PRO" />
+<person id="p41" start="2188" end="2192" text="They" TYPE="PRO" />
+<person id="p42" start="2193" end="2197" text="each" TYPE="HLS" />
+<person id="p43" start="2420" end="2439" text="Webb County Sheriff" TYPE="BAR" />
+<person id="p44" start="2484" end="2550" text="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" TYPE="NAM" />
+<person id="p45" start="2484" end="2507" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="276" end="302" text="Southern District of Texas" TYPE="NAM" />
+<organization id="o1" start="352" end="438" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="435" end="438" text="HSI" TYPE="NAM" />
+<organization id="o3" start="352" end="399" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="396" end="399" text="ICE" TYPE="NAM" />
+<organization id="o5" start="566" end="574" text="District" TYPE="NOMPRE" />
+<organization id="o6" start="609" end="614" text="court" TYPE="NOMPRE" />
+<organization id="o7" start="639" end="642" text="HSI" TYPE="NAM" />
+<organization id="o8" start="1755" end="1794" text="U.S. Customs and Border Protection (CBP" TYPE="NAMPRE" />
+<organization id="o9" start="1791" end="1794" text="CBP" TYPE="NAM" />
+<organization id="o10" start="2259" end="2262" text="HSI" TYPE="NAM" />
+<organization id="o11" start="2307" end="2482" text="the following agencies: the Bureau of Alcohol, Tobacco, Firearms and Explosives; CBP; the U.S. State Department; Webb County Sheriff's Office; and the Laredo Police Department" TYPE="NOM" />
+<organization id="o12" start="2331" end="2386" text="the Bureau of Alcohol, Tobacco, Firearms and Explosives" TYPE="NAM" />
+<organization id="o13" start="2388" end="2391" text="CBP" TYPE="NAM" />
+<organization id="o14" start="2393" end="2418" text="the U.S. State Department" TYPE="NAM" />
+<organization id="o15" start="2420" end="2448" text="Webb County Sheriff's Office" TYPE="NOM" />
+<organization id="o16" start="2454" end="2482" text="the Laredo Police Department" TYPE="NAM" />
+<organization id="o17" start="2524" end="2550" text="Southern District of Texas" TYPE="NAM" />
+<geographical-political id="g0" start="89" end="95" text="Mexico" TYPE="NAM" />
+<geographical-political id="g1" start="96" end="109" text="LAREDO, Texas" TYPE="NAM" />
+<geographical-political id="g2" start="104" end="109" text="Texas" TYPE="NAM" />
+<geographical-political id="g3" start="116" end="123" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g4" start="226" end="232" text="Mexico" TYPE="NAM" />
+<geographical-political id="g5" start="244" end="247" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g6" start="512" end="519" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g7" start="561" end="564" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g8" start="696" end="703" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g9" start="782" end="799" text="the United States" TYPE="NAM" />
+<geographical-political id="g10" start="1131" end="1138" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1157" end="1177" text="Nuevo Laredo, Mexico" TYPE="NAM" />
+<geographical-political id="g12" start="1171" end="1177" text="Mexico" TYPE="NAM" />
+<geographical-political id="g13" start="1218" end="1224" text="Mexico" TYPE="NAM" />
+<geographical-political id="g14" start="1265" end="1278" text="Laredo, Texas" TYPE="NAM" />
+<geographical-political id="g15" start="1273" end="1278" text="Texas" TYPE="NAM" />
+<geographical-political id="g16" start="2420" end="2431" text="Webb County" TYPE="NAMPRE" />
+<geographical-political id="g17" start="2494" end="2497" text="U.S" TYPE="NAMPRE" />
+<falicity id="f0" start="1229" end="1278" text="one of the international bridges in Laredo, Texas" TYPE="PTV" />
+<falicity id="f1" start="1236" end="1278" text="the international bridges in Laredo, Texas" TYPE="BAR" />
+<falicity id="f2" start="1726" end="1852" text="the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" TYPE="NAM" />
+<falicity id="f3" start="1749" end="1754" text="where" TYPE="WHQ" />
+<falicity id="f4" start="2231" end="2237" text="prison" TYPE="BAR" />
+<head id="h0" start="15" end="16" text="2" />
+<head id="h1" start="89" end="95" text="Mexico" />
+<head id="h2" start="96" end="102" text="LAREDO" />
+<head id="h3" start="104" end="109" text="Texas" />
+<head id="h4" start="124" end="133" text="nationals" />
+<head id="h5" start="116" end="123" text="Mexican" />
+<head id="h6" start="226" end="232" text="Mexico" />
+<head id="h7" start="258" end="274" text="Kenneth Magidson" />
+<head id="h8" start="249" end="257" text="Attorney" />
+<head id="h9" start="244" end="247" text="U.S" />
+<head id="h10" start="276" end="302" text="Southern District of Texas" />
+<head id="h11" start="401" end="433" text="Homeland Security Investigations" />
+<head id="h12" start="435" end="438" text="HSI" />
+<head id="h13" start="352" end="392" text="U.S. Immigration and Customs Enforcement" />
+<head id="h14" start="396" end="399" text="ICE" />
+<head id="h15" start="441" end="468" text="Julio Cesar Flores-Martinez" />
+<head id="h16" start="478" end="501" text="Francisco Padilla-Perez" />
+<head id="h17" start="507" end="511" text="both" />
+<head id="h18" start="520" end="529" text="nationals" />
+<head id="h19" start="512" end="519" text="Mexican" />
+<head id="h20" start="581" end="594" text="Diana Saldana" />
+<head id="h21" start="575" end="580" text="Judge" />
+<head id="h22" start="566" end="574" text="District" />
+<head id="h23" start="561" end="564" text="U.S" />
+<head id="h24" start="609" end="614" text="court" />
+<head id="h25" start="639" end="642" text="HSI" />
+<head id="h26" start="671" end="677" text="person" />
+<head id="h27" start="713" end="718" text="buyer" />
+<head id="h28" start="696" end="703" text="Mexican" />
+<head id="h29" start="786" end="799" text="United States" />
+<head id="h30" start="820" end="826" text="agents" />
+<head id="h31" start="853" end="862" text="suppliers" />
+<head id="h32" start="881" end="886" text="buyer" />
+<head id="h33" start="908" end="921" text="Padilla-Perez" />
+<head id="h34" start="923" end="926" text="who" />
+<head id="h35" start="978" end="991" text="Padilla-Perez" />
+<head id="h36" start="1009" end="1015" text="agents" />
+<head id="h37" start="1016" end="1018" text="he" />
+<head id="h38" start="1067" end="1069" text="He" />
+<head id="h39" start="1094" end="1100" text="agents" />
+<head id="h40" start="1145" end="1151" text="driver" />
+<head id="h41" start="1131" end="1138" text="Mexican" />
+<head id="h42" start="1157" end="1169" text="Nuevo Laredo" />
+<head id="h43" start="1171" end="1177" text="Mexico" />
+<head id="h44" start="1179" end="1182" text="who" />
+<head id="h45" start="1218" end="1224" text="Mexico" />
+<head id="h46" start="1229" end="1232" text="one" />
+<head id="h47" start="1254" end="1261" text="bridges" />
+<head id="h48" start="1265" end="1271" text="Laredo" />
+<head id="h49" start="1273" end="1278" text="Texas" />
+<head id="h50" start="1280" end="1295" text="Flores-Martinez" />
+<head id="h51" start="1310" end="1316" text="driver" />
+<head id="h52" start="1318" end="1331" text="Padilla-Perez" />
+<head id="h53" start="1359" end="1365" text="agents" />
+<head id="h54" start="1375" end="1390" text="Flores-Martinez" />
+<head id="h55" start="1392" end="1407" text="Flores-Martinez" />
+<head id="h56" start="1516" end="1519" text="his" />
+<head id="h57" start="1532" end="1545" text="Padilla-Perez" />
+<head id="h58" start="1574" end="1589" text="Flores-Martinez" />
+<head id="h59" start="1608" end="1621" text="Padilla-Perez" />
+<head id="h60" start="1646" end="1652" text="agents" />
+<head id="h61" start="1701" end="1716" text="Flores-Martinez" />
+<head id="h62" start="1730" end="1748" text="World Trade Bridge" />
+<head id="h63" start="1749" end="1754" text="where" />
+<head id="h64" start="1796" end="1804" text="officers" />
+<head id="h65" start="1755" end="1789" text="U.S. Customs and Border Protection" />
+<head id="h66" start="1791" end="1794" text="CBP" />
+<head id="h67" start="2024" end="2039" text="Flores-Martinez" />
+<head id="h68" start="2044" end="2057" text="Padilla-Perez" />
+<head id="h69" start="2085" end="2090" text="their" />
+<head id="h70" start="2105" end="2109" text="they" />
+<head id="h71" start="2188" end="2192" text="They" />
+<head id="h72" start="2193" end="2197" text="each" />
+<head id="h73" start="2231" end="2237" text="prison" />
+<head id="h74" start="2259" end="2262" text="HSI" />
+<head id="h75" start="2321" end="2329" text="agencies" />
+<head id="h76" start="2335" end="2386" text="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<head id="h77" start="2388" end="2391" text="CBP" />
+<head id="h78" start="2397" end="2418" text="U.S. State Department" />
+<head id="h79" start="2442" end="2448" text="Office" />
+<head id="h80" start="2432" end="2439" text="Sheriff" />
+<head id="h81" start="2420" end="2431" text="Webb County" />
+<head id="h82" start="2458" end="2482" text="Laredo Police Department" />
+<head id="h83" start="2508" end="2522" text="Homero Ramirez" />
+<head id="h84" start="2499" end="2507" text="Attorney" />
+<head id="h85" start="2494" end="2497" text="U.S" />
+<head id="h86" start="2524" end="2550" text="Southern District of Texas" />
+<name id="n0" start="89" end="95" text="Mexico" />
+<name id="n1" start="96" end="102" text="LAREDO" />
+<name id="n2" start="104" end="109" text="Texas" />
+<name id="n3" start="116" end="123" text="Mexican" />
+<name id="n4" start="226" end="232" text="Mexico" />
+<name id="n5" start="258" end="274" text="Kenneth Magidson" />
+<name id="n6" start="244" end="247" text="U.S" />
+<name id="n7" start="276" end="302" text="Southern District of Texas" />
+<name id="n8" start="401" end="433" text="Homeland Security Investigations" />
+<name id="n9" start="435" end="438" text="HSI" />
+<name id="n10" start="352" end="392" text="U.S. Immigration and Customs Enforcement" />
+<name id="n11" start="396" end="399" text="ICE" />
+<name id="n12" start="441" end="468" text="Julio Cesar Flores-Martinez" />
+<name id="n13" start="478" end="501" text="Francisco Padilla-Perez" />
+<name id="n14" start="512" end="519" text="Mexican" />
+<name id="n15" start="581" end="594" text="Diana Saldana" />
+<name id="n17" start="561" end="564" text="U.S" />
+<name id="n18" start="639" end="642" text="HSI" />
+<name id="n19" start="696" end="703" text="Mexican" />
+<name id="n20" start="786" end="799" text="United States" />
+<name id="n21" start="908" end="921" text="Padilla-Perez" />
+<name id="n22" start="978" end="991" text="Padilla-Perez" />
+<name id="n16" start="1131" end="1138" text="Mexican" />
+<name id="n23" start="1157" end="1169" text="Nuevo Laredo" />
+<name id="n24" start="1171" end="1177" text="Mexico" />
+<name id="n25" start="1218" end="1224" text="Mexico" />
+<name id="n26" start="1265" end="1271" text="Laredo" />
+<name id="n27" start="1273" end="1278" text="Texas" />
+<name id="n28" start="1280" end="1295" text="Flores-Martinez" />
+<name id="n29" start="1318" end="1331" text="Padilla-Perez" />
+<name id="n30" start="1375" end="1390" text="Flores-Martinez" />
+<name id="n31" start="1392" end="1407" text="Flores-Martinez" />
+<name id="n32" start="1532" end="1545" text="Padilla-Perez" />
+<name id="n33" start="1574" end="1589" text="Flores-Martinez" />
+<name id="n34" start="1608" end="1621" text="Padilla-Perez" />
+<name id="n35" start="1701" end="1716" text="Flores-Martinez" />
+<name id="n36" start="1730" end="1748" text="World Trade Bridge" />
+<name id="n37" start="1755" end="1789" text="U.S. Customs and Border Protection" />
+<name id="n38" start="1791" end="1794" text="CBP" />
+<name id="n39" start="2024" end="2039" text="Flores-Martinez" />
+<name id="n40" start="2044" end="2057" text="Padilla-Perez" />
+<name id="n41" start="2259" end="2262" text="HSI" />
+<name id="n42" start="2335" end="2386" text="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<name id="n43" start="2388" end="2391" text="CBP" />
+<name id="n44" start="2397" end="2418" text="U.S. State Department" />
+<name id="n45" start="2420" end="2431" text="Webb County" />
+<name id="n46" start="2458" end="2482" text="Laredo Police Department" />
+<name id="n47" start="2508" end="2522" text="Homero Ramirez" />
+<name id="n48" start="2494" end="2497" text="U.S" />
+<name id="n49" start="2524" end="2550" text="Southern District of Texas" />
+<located-mention id="lo0" start="1701" end="1852" text="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" TYPE="Verbal" />
+<located-mention id="lo1" start="1701" end="1852" text="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" TYPE="Other" />
+<employment-mention id="e0" start="244" end="257" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="561" end="580" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="2420" end="2439" text="Webb County Sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="2484" end="2507" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="112" end="133" text="Two Mexican nationals" TYPE="PreMod" />
+<CRRE id="C1" start="512" end="529" text="Mexican nationals" TYPE="PreMod" />
+<CRRE id="C2" start="694" end="718" text="a Mexican firearms buyer" TYPE="PreMod" />
+<CRRE id="C3" start="1129" end="1278" text="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" TYPE="PreMod" />
+<CRRE id="C4" start="1129" end="1278" text="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" TYPE="Preposition" />
+<M id="M0" start="244" end="302" text="U.S. Attorney Kenneth Magidson, Southern District of Texas" TYPE="Formulaic" />
+<M id="M1" start="561" end="580" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M2" start="1755" end="1804" text="U.S. Customs and Border Protection (CBP) officers" TYPE="PreMod" />
+<M id="M3" start="2420" end="2448" text="Webb County Sheriff's Office" TYPE="Possessive" />
+<M id="M4" start="2484" end="2550" text="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" TYPE="Formulaic" />
+<entity_link id="en0" fromID="p1" fromText="Two Mexican nationals" toID="p0" toText="2 more convicted for attempting to smuggle 652 assault rifle magazines to Mexico" />
+<entity_link id="en1" fromID="g3" fromText="Mexican" toID="g0" toText="Mexico" />
+<entity_link id="en2" fromID="g4" fromText="Mexico" toID="g3" toText="Mexican" />
+<entity_link id="en3" fromID="p3" fromText="U.S. Attorney" toID="p2" toText="U.S. Attorney Kenneth Magidson, Southern District of Texas" />
+<entity_link id="en4" fromID="o2" fromText="HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en5" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en6" fromID="p7" fromText="Mexican nationals" toID="p6" toText="both Mexican nationals" />
+<entity_link id="en7" fromID="g6" fromText="Mexican" toID="g4" toText="Mexico" />
+<entity_link id="en8" fromID="p9" fromText="U.S. District Judge" toID="p8" toText="U.S. District Judge Diana Saldana" />
+<entity_link id="en9" fromID="g7" fromText="U.S" toID="g5" toText="U.S" />
+<entity_link id="en10" fromID="o7" fromText="HSI" toID="o2" toText="HSI" />
+<entity_link id="en11" fromID="p11" fromText="a Mexican firearms buyer" toID="p10" toText="a person, believed to be a Mexican firearms buyer" />
+<entity_link id="en12" fromID="g8" fromText="Mexican" toID="g6" toText="Mexican" />
+<entity_link id="en13" fromID="g9" fromText="the United States" toID="g7" toText="U.S" />
+<entity_link id="en14" fromID="p13" fromText="firearm magazine suppliers" toID="p12" toText="Undercover special agents" />
+<entity_link id="en16" fromID="p15" fromText="the buyer, later identified as Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="p10" toText="a person, believed to be a Mexican firearms buyer" />
+<entity_link id="en17" fromID="p17" fromText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="p15" toText="the buyer, later identified as Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" />
+<entity_link id="en18" fromID="p18" fromText="who" toID="p17" toText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" />
+<entity_link id="en19" fromID="p19" fromText="Padilla-Perez" toID="p17" toText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" />
+<entity_link id="en20" fromID="p20" fromText="the special agents" toID="p12" toText="Undercover special agents" />
+<entity_link id="en21" fromID="p21" fromText="he" toID="p19" toText="Padilla-Perez" />
+<entity_link id="en15" fromID="p14" fromText="He" toID="p19" toText="Padilla-Perez" />
+<entity_link id="en22" fromID="p16" fromText="special agents" toID="p20" toText="the special agents" />
+<entity_link id="en23" fromID="g10" fromText="Mexican" toID="g8" toText="Mexican" />
+<entity_link id="en24" fromID="g12" fromText="Mexico" toID="g10" toText="Mexican" />
+<entity_link id="en25" fromID="p23" fromText="who" toID="p22" toText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" />
+<entity_link id="en26" fromID="g13" fromText="Mexico" toID="g12" toText="Mexico" />
+<entity_link id="en27" fromID="g14" fromText="Laredo, Texas" toID="g1" toText="LAREDO, Texas" />
+<entity_link id="en28" fromID="g15" fromText="Texas" toID="g2" toText="Texas" />
+<entity_link id="en29" fromID="p24" fromText="Flores-Martinez" toID="p22" toText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" />
+<entity_link id="en30" fromID="p25" fromText="the truck driver" toID="p24" toText="Flores-Martinez" />
+<entity_link id="en31" fromID="p26" fromText="Padilla-Perez" toID="p17" toText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" />
+<entity_link id="en32" fromID="p27" fromText="the undercover special agents" toID="p16" toText="special agents" />
+<entity_link id="en33" fromID="p28" fromText="Flores-Martinez" toID="p24" toText="Flores-Martinez" />
+<entity_link id="en34" fromID="p29" fromText="Flores-Martinez" toID="p28" toText="Flores-Martinez" />
+<entity_link id="en35" fromID="p30" fromText="his" toID="p29" toText="Flores-Martinez" />
+<entity_link id="en36" fromID="p31" fromText="Padilla-Perez" toID="p26" toText="Padilla-Perez" />
+<entity_link id="en37" fromID="p32" fromText="Flores-Martinez" toID="p29" toText="Flores-Martinez" />
+<entity_link id="en38" fromID="p33" fromText="Padilla-Perez" toID="p31" toText="Padilla-Perez" />
+<entity_link id="en39" fromID="p34" fromText="the special agents" toID="p27" toText="the undercover special agents" />
+<entity_link id="en40" fromID="p35" fromText="Flores-Martinez" toID="p32" toText="Flores-Martinez" />
+<entity_link id="en41" fromID="f3" fromText="where" toID="f2" toText="the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" />
+<entity_link id="en42" fromID="o9" fromText="CBP" toID="o8" toText="U.S. Customs and Border Protection (CBP" />
+<entity_link id="en43" fromID="p37" fromText="Flores-Martinez" toID="p35" toText="Flores-Martinez" />
+<entity_link id="en44" fromID="p38" fromText="Padilla-Perez" toID="p33" toText="Padilla-Perez" />
+<entity_link id="en45" fromID="p40" fromText="they" toID="p39" toText="their" />
+<entity_link id="en46" fromID="p41" fromText="They" toID="p40" toText="they" />
+<entity_link id="en47" fromID="p40" fromText="they" toID="p6" toText="both Mexican nationals" />
+<entity_link id="en48" fromID="p17" fromText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="p5" toText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" />
+<entity_link id="en49" fromID="p24" fromText="Flores-Martinez" toID="p4" toText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" />
+<entity_link id="en50" fromID="p6" fromText="both Mexican nationals" toID="p1" toText="Two Mexican nationals" />
+<entity_link id="en51" fromID="o10" fromText="HSI" toID="o7" toText="HSI" />
+<entity_link id="en52" fromID="o13" fromText="CBP" toID="o9" toText="CBP" />
+<entity_link id="en53" fromID="p45" fromText="Assistant U.S. Attorney" toID="p44" toText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" />
+<entity_link id="en54" fromID="g17" fromText="U.S" toID="g9" toText="the United States" />
+<entity_link id="en55" fromID="o17" fromText="Southern District of Texas" toID="o0" toText="Southern District of Texas" />
+<head_link id="he0" fromID="p0" fromText="2 more convicted for attempting to smuggle 652 assault rifle magazines to Mexico" toID="h0" toText="2" />
+<head_link id="he1" fromID="g0" fromText="Mexico" toID="h1" toText="Mexico" />
+<head_link id="he2" fromID="g1" fromText="LAREDO, Texas" toID="h2" toText="LAREDO" />
+<head_link id="he3" fromID="g2" fromText="Texas" toID="h3" toText="Texas" />
+<head_link id="he4" fromID="p1" fromText="Two Mexican nationals" toID="h4" toText="nationals" />
+<head_link id="he5" fromID="g3" fromText="Mexican" toID="h5" toText="Mexican" />
+<head_link id="he6" fromID="g4" fromText="Mexico" toID="h6" toText="Mexico" />
+<head_link id="he7" fromID="p2" fromText="U.S. Attorney Kenneth Magidson, Southern District of Texas" toID="h7" toText="Kenneth Magidson" />
+<head_link id="he8" fromID="p3" fromText="U.S. Attorney" toID="h8" toText="Attorney" />
+<head_link id="he9" fromID="g5" fromText="U.S" toID="h9" toText="U.S" />
+<head_link id="he10" fromID="o0" fromText="Southern District of Texas" toID="h10" toText="Southern District of Texas" />
+<head_link id="he11" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h11" toText="Homeland Security Investigations" />
+<head_link id="he12" fromID="o2" fromText="HSI" toID="h12" toText="HSI" />
+<head_link id="he13" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h13" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he14" fromID="o4" fromText="ICE" toID="h14" toText="ICE" />
+<head_link id="he15" fromID="p4" fromText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" toID="h15" toText="Julio Cesar Flores-Martinez" />
+<head_link id="he16" fromID="p5" fromText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" toID="h16" toText="Francisco Padilla-Perez" />
+<head_link id="he17" fromID="p6" fromText="both Mexican nationals" toID="h17" toText="both" />
+<head_link id="he18" fromID="p7" fromText="Mexican nationals" toID="h18" toText="nationals" />
+<head_link id="he19" fromID="g6" fromText="Mexican" toID="h19" toText="Mexican" />
+<head_link id="he20" fromID="p8" fromText="U.S. District Judge Diana Saldana" toID="h20" toText="Diana Saldana" />
+<head_link id="he21" fromID="p9" fromText="U.S. District Judge" toID="h21" toText="Judge" />
+<head_link id="he22" fromID="o5" fromText="District" toID="h22" toText="District" />
+<head_link id="he23" fromID="g7" fromText="U.S" toID="h23" toText="U.S" />
+<head_link id="he24" fromID="o6" fromText="court" toID="h24" toText="court" />
+<head_link id="he25" fromID="o7" fromText="HSI" toID="h25" toText="HSI" />
+<head_link id="he26" fromID="p10" fromText="a person, believed to be a Mexican firearms buyer" toID="h26" toText="person" />
+<head_link id="he27" fromID="p11" fromText="a Mexican firearms buyer" toID="h27" toText="buyer" />
+<head_link id="he28" fromID="g8" fromText="Mexican" toID="h28" toText="Mexican" />
+<head_link id="he29" fromID="g9" fromText="the United States" toID="h29" toText="United States" />
+<head_link id="he30" fromID="p12" fromText="Undercover special agents" toID="h30" toText="agents" />
+<head_link id="he31" fromID="p13" fromText="firearm magazine suppliers" toID="h31" toText="suppliers" />
+<head_link id="he33" fromID="p15" fromText="the buyer, later identified as Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="h32" toText="buyer" />
+<head_link id="he34" fromID="p17" fromText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="h33" toText="Padilla-Perez" />
+<head_link id="he35" fromID="p18" fromText="who" toID="h34" toText="who" />
+<head_link id="he36" fromID="p19" fromText="Padilla-Perez" toID="h35" toText="Padilla-Perez" />
+<head_link id="he37" fromID="p20" fromText="the special agents" toID="h36" toText="agents" />
+<head_link id="he38" fromID="p21" fromText="he" toID="h37" toText="he" />
+<head_link id="he32" fromID="p14" fromText="He" toID="h38" toText="He" />
+<head_link id="he39" fromID="p16" fromText="special agents" toID="h39" toText="agents" />
+<head_link id="he40" fromID="p22" fromText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" toID="h40" toText="driver" />
+<head_link id="he41" fromID="g10" fromText="Mexican" toID="h41" toText="Mexican" />
+<head_link id="he42" fromID="g11" fromText="Nuevo Laredo, Mexico" toID="h42" toText="Nuevo Laredo" />
+<head_link id="he43" fromID="g12" fromText="Mexico" toID="h43" toText="Mexico" />
+<head_link id="he44" fromID="p23" fromText="who" toID="h44" toText="who" />
+<head_link id="he45" fromID="g13" fromText="Mexico" toID="h45" toText="Mexico" />
+<head_link id="he46" fromID="f0" fromText="one of the international bridges in Laredo, Texas" toID="h46" toText="one" />
+<head_link id="he47" fromID="f1" fromText="the international bridges in Laredo, Texas" toID="h47" toText="bridges" />
+<head_link id="he48" fromID="g14" fromText="Laredo, Texas" toID="h48" toText="Laredo" />
+<head_link id="he49" fromID="g15" fromText="Texas" toID="h49" toText="Texas" />
+<head_link id="he50" fromID="p24" fromText="Flores-Martinez" toID="h50" toText="Flores-Martinez" />
+<head_link id="he51" fromID="p25" fromText="the truck driver" toID="h51" toText="driver" />
+<head_link id="he52" fromID="p26" fromText="Padilla-Perez" toID="h52" toText="Padilla-Perez" />
+<head_link id="he53" fromID="p27" fromText="the undercover special agents" toID="h53" toText="agents" />
+<head_link id="he54" fromID="p28" fromText="Flores-Martinez" toID="h54" toText="Flores-Martinez" />
+<head_link id="he55" fromID="p29" fromText="Flores-Martinez" toID="h55" toText="Flores-Martinez" />
+<head_link id="he56" fromID="p30" fromText="his" toID="h56" toText="his" />
+<head_link id="he57" fromID="p31" fromText="Padilla-Perez" toID="h57" toText="Padilla-Perez" />
+<head_link id="he58" fromID="p32" fromText="Flores-Martinez" toID="h58" toText="Flores-Martinez" />
+<head_link id="he59" fromID="p33" fromText="Padilla-Perez" toID="h59" toText="Padilla-Perez" />
+<head_link id="he60" fromID="p34" fromText="the special agents" toID="h60" toText="agents" />
+<head_link id="he61" fromID="p35" fromText="Flores-Martinez" toID="h61" toText="Flores-Martinez" />
+<head_link id="he62" fromID="f2" fromText="the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="h62" toText="World Trade Bridge" />
+<head_link id="he63" fromID="f3" fromText="where" toID="h63" toText="where" />
+<head_link id="he64" fromID="p36" fromText="U.S. Customs and Border Protection (CBP) officers" toID="h64" toText="officers" />
+<head_link id="he65" fromID="o8" fromText="U.S. Customs and Border Protection (CBP" toID="h65" toText="U.S. Customs and Border Protection" />
+<head_link id="he66" fromID="o9" fromText="CBP" toID="h66" toText="CBP" />
+<head_link id="he67" fromID="p37" fromText="Flores-Martinez" toID="h67" toText="Flores-Martinez" />
+<head_link id="he68" fromID="p38" fromText="Padilla-Perez" toID="h68" toText="Padilla-Perez" />
+<head_link id="he69" fromID="p39" fromText="their" toID="h69" toText="their" />
+<head_link id="he70" fromID="p40" fromText="they" toID="h70" toText="they" />
+<head_link id="he71" fromID="p41" fromText="They" toID="h71" toText="They" />
+<head_link id="he72" fromID="p42" fromText="each" toID="h72" toText="each" />
+<head_link id="he73" fromID="f4" fromText="prison" toID="h73" toText="prison" />
+<head_link id="he74" fromID="o10" fromText="HSI" toID="h74" toText="HSI" />
+<head_link id="he75" fromID="o11" fromText="the following agencies: the Bureau of Alcohol, Tobacco, Firearms and Explosives; CBP; the U.S. State Department; Webb County Sheriff's Office; and the Laredo Police Department" toID="h75" toText="agencies" />
+<head_link id="he76" fromID="o12" fromText="the Bureau of Alcohol, Tobacco, Firearms and Explosives" toID="h76" toText="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<head_link id="he77" fromID="o13" fromText="CBP" toID="h77" toText="CBP" />
+<head_link id="he78" fromID="o14" fromText="the U.S. State Department" toID="h78" toText="U.S. State Department" />
+<head_link id="he79" fromID="o15" fromText="Webb County Sheriff's Office" toID="h79" toText="Office" />
+<head_link id="he80" fromID="p43" fromText="Webb County Sheriff" toID="h80" toText="Sheriff" />
+<head_link id="he81" fromID="g16" fromText="Webb County" toID="h81" toText="Webb County" />
+<head_link id="he82" fromID="o16" fromText="the Laredo Police Department" toID="h82" toText="Laredo Police Department" />
+<head_link id="he83" fromID="p44" fromText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" toID="h83" toText="Homero Ramirez" />
+<head_link id="he84" fromID="p45" fromText="Assistant U.S. Attorney" toID="h84" toText="Attorney" />
+<head_link id="he85" fromID="g17" fromText="U.S" toID="h85" toText="U.S" />
+<head_link id="he86" fromID="o17" fromText="Southern District of Texas" toID="h86" toText="Southern District of Texas" />
+<name_link id="na0" fromID="g0" fromText="Mexico" toID="n0" toText="Mexico" />
+<name_link id="na1" fromID="g1" fromText="LAREDO, Texas" toID="n1" toText="LAREDO" />
+<name_link id="na2" fromID="g2" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="g3" fromText="Mexican" toID="n3" toText="Mexican" />
+<name_link id="na4" fromID="g4" fromText="Mexico" toID="n4" toText="Mexico" />
+<name_link id="na5" fromID="p2" fromText="U.S. Attorney Kenneth Magidson, Southern District of Texas" toID="n5" toText="Kenneth Magidson" />
+<name_link id="na6" fromID="g5" fromText="U.S" toID="n6" toText="U.S" />
+<name_link id="na7" fromID="o0" fromText="Southern District of Texas" toID="n7" toText="Southern District of Texas" />
+<name_link id="na8" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n8" toText="Homeland Security Investigations" />
+<name_link id="na9" fromID="o2" fromText="HSI" toID="n9" toText="HSI" />
+<name_link id="na10" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n10" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na11" fromID="o4" fromText="ICE" toID="n11" toText="ICE" />
+<name_link id="na12" fromID="p4" fromText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" toID="n12" toText="Julio Cesar Flores-Martinez" />
+<name_link id="na13" fromID="p5" fromText="Julio Cesar Flores-Martinez, 46, and Francisco Padilla-Perez, 41, both Mexican nationals" toID="n13" toText="Francisco Padilla-Perez" />
+<name_link id="na14" fromID="g6" fromText="Mexican" toID="n14" toText="Mexican" />
+<name_link id="na15" fromID="p8" fromText="U.S. District Judge Diana Saldana" toID="n15" toText="Diana Saldana" />
+<name_link id="na17" fromID="g7" fromText="U.S" toID="n17" toText="U.S" />
+<name_link id="na18" fromID="o7" fromText="HSI" toID="n18" toText="HSI" />
+<name_link id="na19" fromID="g8" fromText="Mexican" toID="n19" toText="Mexican" />
+<name_link id="na20" fromID="g9" fromText="the United States" toID="n20" toText="United States" />
+<name_link id="na21" fromID="p17" fromText="Padilla-Perez, who requested 650 high-capacity AK-47 rifle magazines" toID="n21" toText="Padilla-Perez" />
+<name_link id="na22" fromID="p19" fromText="Padilla-Perez" toID="n22" toText="Padilla-Perez" />
+<name_link id="na16" fromID="g10" fromText="Mexican" toID="n16" toText="Mexican" />
+<name_link id="na23" fromID="g11" fromText="Nuevo Laredo, Mexico" toID="n23" toText="Nuevo Laredo" />
+<name_link id="na24" fromID="g12" fromText="Mexico" toID="n24" toText="Mexico" />
+<name_link id="na25" fromID="g13" fromText="Mexico" toID="n25" toText="Mexico" />
+<name_link id="na26" fromID="g14" fromText="Laredo, Texas" toID="n26" toText="Laredo" />
+<name_link id="na27" fromID="g15" fromText="Texas" toID="n27" toText="Texas" />
+<name_link id="na28" fromID="p24" fromText="Flores-Martinez" toID="n28" toText="Flores-Martinez" />
+<name_link id="na29" fromID="p26" fromText="Padilla-Perez" toID="n29" toText="Padilla-Perez" />
+<name_link id="na30" fromID="p28" fromText="Flores-Martinez" toID="n30" toText="Flores-Martinez" />
+<name_link id="na31" fromID="p29" fromText="Flores-Martinez" toID="n31" toText="Flores-Martinez" />
+<name_link id="na32" fromID="p31" fromText="Padilla-Perez" toID="n32" toText="Padilla-Perez" />
+<name_link id="na33" fromID="p32" fromText="Flores-Martinez" toID="n33" toText="Flores-Martinez" />
+<name_link id="na34" fromID="p33" fromText="Padilla-Perez" toID="n34" toText="Padilla-Perez" />
+<name_link id="na35" fromID="p35" fromText="Flores-Martinez" toID="n35" toText="Flores-Martinez" />
+<name_link id="na36" fromID="f2" fromText="the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="n36" toText="World Trade Bridge" />
+<name_link id="na37" fromID="o8" fromText="U.S. Customs and Border Protection (CBP" toID="n37" toText="U.S. Customs and Border Protection" />
+<name_link id="na38" fromID="o9" fromText="CBP" toID="n38" toText="CBP" />
+<name_link id="na39" fromID="p37" fromText="Flores-Martinez" toID="n39" toText="Flores-Martinez" />
+<name_link id="na40" fromID="p38" fromText="Padilla-Perez" toID="n40" toText="Padilla-Perez" />
+<name_link id="na41" fromID="o10" fromText="HSI" toID="n41" toText="HSI" />
+<name_link id="na42" fromID="o12" fromText="the Bureau of Alcohol, Tobacco, Firearms and Explosives" toID="n42" toText="Bureau of Alcohol, Tobacco, Firearms and Explosives" />
+<name_link id="na43" fromID="o13" fromText="CBP" toID="n43" toText="CBP" />
+<name_link id="na44" fromID="o14" fromText="the U.S. State Department" toID="n44" toText="U.S. State Department" />
+<name_link id="na45" fromID="g16" fromText="Webb County" toID="n45" toText="Webb County" />
+<name_link id="na46" fromID="o16" fromText="the Laredo Police Department" toID="n46" toText="Laredo Police Department" />
+<name_link id="na47" fromID="p44" fromText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" toID="n47" toText="Homero Ramirez" />
+<name_link id="na48" fromID="g17" fromText="U.S" toID="n48" toText="U.S" />
+<name_link id="na49" fromID="o17" fromText="Southern District of Texas" toID="n49" toText="Southern District of Texas" />
+<relation_link1 id="r0" fromID="C0" fromText="Two Mexican nationals" toID="p1" toText="Two Mexican nationals" />
+<relation_link1 id="r1" fromID="e0" fromText="U.S. Attorney" toID="p3" toText="U.S. Attorney" />
+<relation_link1 id="r2" fromID="M0" fromText="U.S. Attorney Kenneth Magidson, Southern District of Texas" toID="p2" toText="U.S. Attorney Kenneth Magidson, Southern District of Texas" />
+<relation_link1 id="r3" fromID="C1" fromText="Mexican nationals" toID="p7" toText="Mexican nationals" />
+<relation_link1 id="r4" fromID="e1" fromText="U.S. District Judge" toID="p9" toText="U.S. District Judge" />
+<relation_link1 id="r5" fromID="M1" fromText="U.S. District Judge" toID="p9" toText="U.S. District Judge" />
+<relation_link1 id="r6" fromID="C2" fromText="a Mexican firearms buyer" toID="p11" toText="a Mexican firearms buyer" />
+<relation_link1 id="r7" fromID="C3" fromText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" toID="p22" toText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" />
+<relation_link1 id="r8" fromID="C4" fromText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" toID="p22" toText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" />
+<relation_link1 id="r9" fromID="M2" fromText="U.S. Customs and Border Protection (CBP) officers" toID="p36" toText="U.S. Customs and Border Protection (CBP) officers" />
+<relation_link1 id="r10" fromID="lo0" fromText="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="p35" toText="Flores-Martinez" />
+<relation_link1 id="r11" fromID="lo1" fromText="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="p36" toText="U.S. Customs and Border Protection (CBP) officers" />
+<relation_link1 id="r12" fromID="e2" fromText="Webb County Sheriff" toID="p43" toText="Webb County Sheriff" />
+<relation_link1 id="r13" fromID="M3" fromText="Webb County Sheriff's Office" toID="p43" toText="Webb County Sheriff" />
+<relation_link1 id="r14" fromID="e3" fromText="Assistant U.S. Attorney" toID="p45" toText="Assistant U.S. Attorney" />
+<relation_link1 id="r15" fromID="M4" fromText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" toID="p44" toText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" />
+<relation_link2 id="re0" fromID="C0" fromText="Two Mexican nationals" toID="g3" toText="Mexican" />
+<relation_link2 id="re1" fromID="e0" fromText="U.S. Attorney" toID="g5" toText="U.S" />
+<relation_link2 id="re2" fromID="M0" fromText="U.S. Attorney Kenneth Magidson, Southern District of Texas" toID="o0" toText="Southern District of Texas" />
+<relation_link2 id="re3" fromID="C1" fromText="Mexican nationals" toID="g6" toText="Mexican" />
+<relation_link2 id="re4" fromID="e1" fromText="U.S. District Judge" toID="g7" toText="U.S" />
+<relation_link2 id="re5" fromID="M1" fromText="U.S. District Judge" toID="o5" toText="District" />
+<relation_link2 id="re6" fromID="C2" fromText="a Mexican firearms buyer" toID="g8" toText="Mexican" />
+<relation_link2 id="re7" fromID="C3" fromText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" toID="g10" toText="Mexican" />
+<relation_link2 id="re8" fromID="C4" fromText="a Mexican truck driver from Nuevo Laredo, Mexico, who would attempt to smuggle them into Mexico via one of the international bridges in Laredo, Texas" toID="g11" toText="Nuevo Laredo, Mexico" />
+<relation_link2 id="re9" fromID="M2" fromText="U.S. Customs and Border Protection (CBP) officers" toID="o8" toText="U.S. Customs and Border Protection (CBP" />
+<relation_link2 id="re10" fromID="lo0" fromText="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="f2" toText="the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" />
+<relation_link2 id="re11" fromID="lo1" fromText="Flores-Martinez drove to the World Trade Bridge where U.S. Customs and Border Protection (CBP) officers recovered the 652 high-capacity rifle magazines" toID="f3" toText="where" />
+<relation_link2 id="re12" fromID="e2" fromText="Webb County Sheriff" toID="g16" toText="Webb County" />
+<relation_link2 id="re13" fromID="M3" fromText="Webb County Sheriff's Office" toID="o15" toText="Webb County Sheriff's Office" />
+<relation_link2 id="re14" fromID="e3" fromText="Assistant U.S. Attorney" toID="g17" toText="U.S" />
+<relation_link2 id="re15" fromID="M4" fromText="Assistant U.S. Attorney Homero Ramirez, Southern District of Texas" toID="o17" toText="Southern District of Texas" />
+</TAGS>
+</KddTask>

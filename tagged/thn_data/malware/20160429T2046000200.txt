@@ -1,0 +1,19 @@
+Ransomware Virus Shuts Down Electric and Water Utility
+Mohit Kumar
+
+Ransomware has become an albatross around the neck, targeting businesses, hospitals, and personal computers worldwide and extorting Millions of Dollars.
+Typical Ransomware targets victim's computer encrypts files on it, and then demands a ransom -- typically about $500 in Bitcoin -- in exchange for a key that will decrypt the files.
+Guess what could be the next target of ransomware malware?
+Everything that is connected to the Internet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+There is a huge range of potential targets, from the pacemaker to cars to Internet of the Things, that may provide an opportunity for cybercriminals to launch ransomware attacks.
+Recently, the American public utility Lansing Board of Water & Light (BWL) has announced that the company has become a victim of Ransomware attack that knocked the utility's internal computer systems offline.
+Also Read: FBI Suggests Ransomware Victims — 'Just Pay the Ransom'.
+The attack took place earlier this week when one of the company’s employees opened a malicious email attachment. 
+Once clicked, the malware installed on the computer and quickly began encrypting the organization's files, according to the Lansing State Journal. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+BWL quickly decided to shut down its networks and suspend some services, including accounting and email service for its about 250 employees, in order to prevent further damages. Power and water shut-offs by BWL was also suspended.
+Though the ransomware type is still unknown, the utility is currently working with the Federal Bureau of Investigation (FBI) and local law enforcement authorities to investigate the incident.
+The company assured its 96,000 customers that no personal information related to its customers or employees has been compromised by the ransomware intrusion into the corporate computer network.
+However, it is not yet clear whether the utility paid the Ransom in exchange of its data. The company said law enforcement has limited it from discussing the issue in public, at least for now.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,22 @@
+Feedly and Evernote Hit by DDoS Attacks, Extortion Demands
+Swati Khandelwal
+
+Yesterday, the most popular RSS reader Feedly was down as a result of a large scale distributed-denial-of service (DDoS) attack carried by the cybercriminals to extort money.
+On Wednesday, the Feedly was temporarily unavailable for its users. Feedly posted details of the attack at 5:00 AM ET on its blog saying that they were under a Distributed Denial of Service (DDoS) attack and cyber-criminals were demanding money in return for returning the service to its normal operations.
+“Criminals are attacking feedly with a distributed denial of service attack (DDoS). The attacker is trying to extort us money to make it stop,” Edwin Khodabakchian, founder and CEO of Feedly said in a statement on Wednesday. He also expressed regret, “We want to apologize for the inconvenience. Please know that you data is safe and you will be able to re-access your feedly as soon as the attack is neutralized.”
+Feedly is a very popular RSS feed service which is available for desktop, iOS and Android devices with around 15 million users and 24,000 paying customers. It is also integrated into hundreds of other third party apps, which offers its users to browse the content of their favorite blogs, magazines, websites and more at one place via RSS feed subscriptions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Feedly gained its popularity after Google announced the closure of its Google reader service last year. A huge number of RSS Google reader users switched to Feedly. Its popularity and reputation attracts RSS die-hards and cyber-criminals as well.
+A San Francisco-based firm confirmed that some bad actors had launched a DDoS attack on its popular site, and were demanding a ransom money to restore the service. But the company refused to pay the amount to criminals which is really a matter of appreciation.
+“We refused to give in and are working with our network providers to mitigate the attack as best as we can, ” said Edwin Khodabakchian. He added, “We are working in parallel with other victims of the same group and with law enforcement.”
+WHAT IS DDoS ATTACK?
+For those who are not familiar, a Distributed Denial-of-Service (DDoS) attack is one in which multiple compromised systems attacks a single target system or service to make it unavailable to its intended users. The flood of incoming requests essentially forces the target system or service to shut down, thereby denying service to the system to its legitimate users.
+According to the company, the hackers have compromised Feedly’s network resources, but they haven’t gained access to any of its servers, ensuring its users that their data is safe.
+FEEDLY TIME-OUT
+At the time of writing, the website was still unavailable with visitors greeted by error messages including ‘408 Request Timeout' and ‘Error 502 Timeout'. But latter, the website informed its users that there is no issue with their browser or the website's CloudFlare content delivery network, whereas the host domain was unreachable at the time.
+After few hours of the attack confirmation, Feedly said it had made some changes to its infrastructure on bringing the website online again. "However, these things take some time to put into place and it may still be a few more hours before service is restored," the company said. "Thank you so much for your patience and for sticking with us."
+The popular online notes and web clippings service Evernote suffered a similar attack. It is not yet known whether the two are linked, but Feedly and Evernote work closely together.
+RECORD-BREAKING DDoS ATTACKS
+DDoS attackers have discovered more powerful ways to attack a web service by exploiting Internet protocols such as DNS, NTP and even SNMP which allow cybercriminals to carry out record breaking DDoS attacks with the use of a little skill and relatively small amount of resources.
+Feedly has set up an example for all of us that its really not right to pay the ransom to the bad actors and if you fulfill their demands, you are doing nothing but encouraging them more to carry out more such attacks against you.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

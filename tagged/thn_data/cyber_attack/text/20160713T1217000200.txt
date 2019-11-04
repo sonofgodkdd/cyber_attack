@@ -1,0 +1,31 @@
+Critical Print Spooler Bug allows Attackers to Hack any version of Microsoft Windows
+Swati Khandelwal
+
+Microsoft's July Patch Tuesday offers 11 security bulletins with six rated critical resolving almost 50 security holes in its software.
+The company has patched a security flaw in the Windows Print Spooler service that affects all supported versions of Windows ever released, which if exploited could allow an attacker to take over a device via a simple mechanism.
+The "critical" flaw (CVE-2016-3238) actually resides in the way Windows handles printer driver installations as well as the way end users connect to printers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The flaw could allow an attacker to install malware remotely on victim machine that can be used to view, modify or delete data, or create new accounts with full user rights; Microsoft said in MS16-087 bulletin posted Tuesday.
+Users who are logged in with fewer user rights on the system are less impacted than users who operate with administrative user rights, such as some home accounts and server users.
+Microsoft said the critical flaw could be exploited to allow remote code execution if an attacker can conduct a man-in-the-middle (MiTM) attack on a system or print server or set up a rogue print server on a target network.
+The critical flaw was discovered and reported by the researchers at security firm Vectra Networks, who disclosed some details on the vulnerability, but didn't publish their proof-of-concept (POC) code.
+You can watch the video that shows the hack in action:
+In corporate networks, by default network administrators allow printers to deliver the necessary drivers to workstations or systems connected to the network. These drivers are silently installed without user interaction and run with full privileges under the SYSTEM user.
+According to researchers, attackers can replace these drivers on the printer with malicious files that could allow them to execute code of their choice.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+More worrisome: If the printer is behind a firewall, attackers can even hack other device or computer on that particular network, and then use it to host their malicious files.
+Watering Hole Attacks via Printers
+Like servers, multiple computers are also connected to printers in an effort to print documents as well as download drivers. So, this flaw allows a hacker to execute watering hole attacks technically using printers. 
+Watering hole attacks, or drive-by downloads, are used to target businesses and organizations by infecting them with malware to gain access to the network.
+"Rather than infecting users individually, an attacker can effectively turn one printer into a watering hole that will infect every Windows device that touches it," said Vectra chief security officer Gunter Ollmann.
+"Anyone connecting to the printer share will download the malicious driver. This moves the attack vector from physical devices to any device on the network capable of hosting a virtual printer image."
+This flaw (CVE-2016-3238) is by far the most dangerous vulnerability of the year, which is easy to execute, provides different ways of launch attacks, and affects a huge number of users.
+A second related vulnerability, CVE-2016-3239, in MS16-087 bulletin is a privilege escalation flaw that could allow attackers to write to the file system.
+A security bulletin for Microsoft Office, MS16-088, includes patches for seven remote code execution (RCE) vulnerabilities, 6 of them are memory corruption flaws, which affects Microsoft Office, SharePoint Server as well as Office Web Apps. 
+The flaws can be exploited by specially crafted Office files, allowing attackers to run arbitrary code with same privileges as the logged in user.
+Bulletin MS16-084 addresses flaws in Internet Explorer and MS16-085 in Microsoft Edge. The IE flaws include RCE, privilege escalation, information disclosure and security bypass bugs. 
+Edge flaws include a handful of RCE and memory corruption flaws in the Chakra JavaScript engine, as well as an ASLR bypass, information disclosure, browser memory corruption, and spoofing bugs. 
+Bulletin MS16-086 addresses a vulnerability in the JScript and VBScript engines in Windows, which could allow an attacker to execute remote code execution flaw, affecting VBScript 5.7 and JScript 5.8.
+Rest five bulletins rated as important address flaws in Windows Secure Kernel Mode, Windows Kernel-Mode Drivers, the .NET framework, the Windows Kernel, and Secure Boot process.
+Users are advised to patch their system and software as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

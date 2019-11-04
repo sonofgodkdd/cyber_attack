@@ -1,0 +1,16 @@
+Adobe Issues Patch for Actively Exploited Flash Player Zero-Day Exploit
+Mohit Kumar
+
+If you have already uninstalled Flash player, well done! But if you haven't, here's another great reason for ditching it.
+Adobe has released a security patch update for a critical vulnerability in its Flash Player software that is actively being exploited in the wild by hackers in targeted attacks against Windows users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Independently discovered last week by several security firms—including ICEBRG, Qihoo 360 and Tencent—the Adobe Flash player zero-day attacks have primarily been targeting users in the Middle East using a specially crafted Excel spreadsheet.
+"The hackers carefully constructed an Office document that remotely loaded Flash vulnerability. When the document was opened, all the exploit code and malicious payload were delivered through remote servers," Qihoo 360 published vulnerability analysis in a blog post.
+The stack-based buffer overflow vulnerability, tracked as CVE-2018-5002, impacts Adobe Flash Player 29.0.0.171 and earlier versions on Windows, MacOS, and Linux, as well as Adobe Flash Player for Google Chrome, and can be exploited to achieve arbitrary code execution on targeted systems.
+The vulnerability resides in the interpreter code of the Flash Player that handles static-init methods, which fails to correctly handle the exceptions for try/catch statements.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Because Flash assumes that it is impossible to execute to the catch block when processing the try catch statement, it does not check the bytecode in the catch block," the researchers explain. "The attacker uses the getlocal, setlocal instruction in the catch block to read and write arbitrary addresses on the stack."
+The registration date for a web domain, mimicking a job search website in the Middle East, used as the command and control (C&C) server for zero-day attacks suggests that hackers have been making preparations for the attack since February. 
+Besides the patch for CVE-2018-5002, Adobe also rolled out security updates for two "important" vulnerabilities—including Integer Overflow bug (CVE-2018-5000) and an Out-of-bounds read issue (CVE-2018-5001)—both of which lead to information disclosure.
+So, users are highly recommended to immediately update their Adobe Flash Player to versions 30.0.0.113 via their update mechanism within the software or by visiting the Adobe Flash Player Download Center.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

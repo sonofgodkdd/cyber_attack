@@ -1,0 +1,21 @@
+Hacker puts up 167 Million LinkedIn Passwords for Sale
+Mohit Kumar
+
+LinkedIn's 2012 data breach was much worse than anybody first thought.
+In 2012, LinkedIn suffered a massive data breach in which more than 6 Million users accounts login details, including encrypted passwords, were posted online by a Russian hacker.
+Now, it turns out that it was not just 6 Million users who got their login details stolen.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Latest reports emerged that the 2012's LinkedIn data breach may have resulted in the online sale of sensitive account information, including emails and passwords, of about 117 Million LinkedIn users.
+Almost after 4 years, a hacker under the nickname "Peace" is offering for sale what he/she claims to be the database of 167 Million emails and hashed passwords, which included 117 Million already cracked passwords, belonging to LinkedIn users.
+The hacker, who is selling the stolen data on the illegal Dark Web marketplace "The Real Deal" for 5 Bitcoins (roughly $2,200), has spoken to Motherboard, confirming these logins come from the 2012 data breach.
+Since the passwords have been initially encrypted with the SHA1 algorithm, with "no salt," it just took 'LeakedSource', the paid search engine for hacked data, 72 hours to crack roughly 90% of the passwords.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Troy Hunt, an independent researcher who operates "Have I Been Pwned?" site, reached out to a number of the victims who confirmed to Hunt that the leaked credentials were legitimate.
+The whole incident proved that LinkedIn stored your passwords in an insecure way and that the company did not make it known exactly how widespread the data breach was at the time.
+In response to this incident, a LinkedIn spokesperson informs that the company is investigating the matter.
+In 2015, Linkedin also agreed to settle a class-action lawsuit over 2012's security breach by paying a total of $1.25 million to victims in the U.S, means $50 to each of them.
+According to the lawsuit, the company violated its privacy policy and an agreement with premium subscribers that promised it would keep their personal information safe.
+However, now new reports suggest that a total 167 Million LinkedIn accounts were breached, instead of just 6 million.
+Assuming, if at least 30% of hacked LinkedIn Accounts belongs to Americans, then the company has to pay more than $15 Million.
+Meanwhile, I recommend you to change your passwords (and keep a longer and stronger one this time) and enable two-factor authentication for your LinkedIn accounts as soon as possible. Also, do the same for other online accounts if you are using same passwords on multiple sites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

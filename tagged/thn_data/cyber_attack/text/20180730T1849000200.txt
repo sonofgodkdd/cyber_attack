@@ -1,0 +1,34 @@
+Boys Town Healthcare Data Breach Exposed Personal Details of Patients
+Wang Wei
+
+Another day, Another data breach!
+This time-sensitive and personal data of hundreds of thousands of people at Boys Town National Research Hospital have been exposed in what appears to be the largest ever reported breach by a pediatric care provider or children's hospital.
+According to the U.S. Department of Health and Human Services Office for Civil Rights, the breach incident affected 105,309 individuals, including patients and employees, at the Omaha-based medical organization.
+In a "Notice of Data Security Incident" published on its website, the Boys Town National Research Hospital admitted that the organization became aware of an abnormal behavior regarding one of its employees' email account on May 23, 2018.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After launching a forensic investigation, the hospital found that an unknown hacker managed to infiltrate into the employee's email account and stole personal information stored within the email account as a result of unauthorized access.
+The hacker accessed the personal and medical data of more than 100,000 patients and employees, including:
+Name
+Date of birth
+Social Security number
+Diagnosis or treatment information
+Medicare or Medicaid identification number
+Medical record number
+Billing/claims information
+Health insurance information
+Disability code
+Birth or marriage certificate information
+Employer Identification Number
+Driver's license number
+Passport information
+Banking or financial account number
+Username and password
+With this extensive information in hand, it's most likely that hackers are already selling personal information of victims on the dark web or attempting to carry out further harm to them, particularly child patients at the hospital.
+However, The Boys Town National Research Hospital says it has not received any reports of the misuse of the stolen information so far.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Boys Town takes this incident and the security of personal information seriously. Upon learning of this incident, Boys Town moved quickly to confirm whether personal information may have been affected by this incident, to identify the individuals related to this personal information, to put in place resources to assist them, and to provide them with notice of this incident," the hospital says.
+The hospital has also reported the incident to law enforcement and is notifying state and federal regulators, along with potentially affected individuals. Boys Town has also promised to offer affected individuals access to 12 months of free identity protection services.
+Boys Town hospital is also reviewing its existing policies and procedures and is implementing some additional security measures to safeguard its users' information stored in its systems.
+However, victims are highly recommended to monitor their accounts for any fraudulent transaction and should consider placing a credit freeze request. Here's how you can freeze credit report to protect yourself against identity theft.
+For additional information related to the incident, you can call 1-855-686-9425 (toll-free), Monday through Saturday from 8:00 a.m. to 8:00 p.m. CT.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,26 @@
+Nearly 7 Million Dropbox Account Passwords Allegedly Hacked
+Swati Khandelwal
+
+Internet users have faced a number of major privacy breaches in last two months. Major in the list are The Fappening, The Snappening and now the latest privacy breach in Dropbox security has gained everybody’s attention across the world. 
+Dropbox, the popular online locker service, appears to have been hacked by an unnamed hacker group. It is still unclear how the account details of so many users were accessed and, indeed, if they are actually legitimate or not. However, the group claims to have accessed details from nearly 7 million individual accounts and are threatening to release users’ photos, videos and other files.
+HACKERS CLAIMED TO RELEASE 7 MILLION USERS’ PERSONAL DATA
+A thread surfaced on Reddit today that include links to files containing hundreds of usernames and passwords for Dropbox accounts in plain text. Also a series of posts with hundreds of alleged usernames and passwords for Dropbox accounts have been made to Pastebin, an anonymous information-sharing site.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Hackers have already leaked about 400 accounts by posting login credentials, all starting with the letter B, and labelled it as a "first teaser...just to get things going". The perpetrators are also promising to release more more password details if they're paid a Bitcoin ransom.
+"More Bitcoin = more accounts published on Pastebin. As more BTC is donated, More pastebin pastes will appear."
+The security breach in Dropbox would definitely have bothered its millions of users and since passwords are involved in this incident, so it has more frightening consequences on its users. Reddit users have tested some of the leaked username and password combinations and confirmed that at least some of them work. 
+DROPBOX DENIED THE HACK - THIRD PARTY IS RESPONSIBLE
+However, Dropbox has denied it has been hacked, saying the passwords were stolen apparently from third-party services that users allowed to access their accounts. In a statement to The Next Web, Dropbox said: 
+"Dropbox has not been hacked. These usernames and passwords were unfortunately stolen from other services and used in attempts to log in to Dropbox accounts. We'd previously detected these attacks and the vast majority of the passwords posted have been expired for some time now. All other remaining passwords have expired as well."
+The incident came just few days after the Snappening incident in which the personal images of as much as 100,000 Snapchat users were leaked online, which was the result of a security breach in the its third-party app.
+Snapchat has denied that its service or server was ever compromised, but the servers of a third-party app designed to save Snapchat photos, which became the target for hackers to obtain personal photographs.
+DROPBOX - "HOSTILE TO PRIVACY" SAYS SNOWDEN
+Dropbox was in the news earlier this week when, in a recent interview with The Guardian, NSA whistleblower Edward Snowden called Dropbox a "targeted, wannabe PRISM partner" that is "very hostile to privacy" — referring to its ability to access your data itself, which is yet another security consideration when it comes to web services.
+Snowden suggested web users to stop using Dropbox and warned them that the cloud storage service does not safeguard users’ privacy because it holds encryption keys and can therefore be forced by governments to hand over the personal data they store on its servers. He suggested people to use an alternative cloud storage provider that do not store any encryption keys, so that the users’ data cannot be read by anyone.
+USERS ARE ADVISED TO CHANGE PASSWORDS
+Until the full scope of the problem is known, it’s probably worthwhile changing your password. But whether the attack is confirmed or not, it’s a good idea to change your password just to be on a safer side — especially for those users who use same password for multiple services. 
+Users are also recommended to turn on two-factor authentication, which Dropbox now supports and install a time-based, one-time password app on a mobile device.
+Update: Dropbox has issued a statement on its blog further clarifying that the Dropbox passwords were stolen from "unrelated services."
+"The usernames and passwords...were stolen from unrelated services, not Dropbox," the company said in a blog post. "Attackers then used these stolen credentials to try to log in to sites across the internet, including Dropbox. We have measures in place that detect suspicious login activity and we automatically reset passwords when it happens."
+"Attacks like these are one of the reasons why we strongly encourage users not to reuse passwords across services. For an added layer of security, we always recommend enabling 2 step verification on your account."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

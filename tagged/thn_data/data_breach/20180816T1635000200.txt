@@ -1,0 +1,26 @@
+Chrome Bug Allowed Hackers to Find Out Everything Facebook Knows About You
+Mohit Kumar
+
+With the release of Chrome 68, Google prominently marks all non-HTTPS websites as 'Not Secure' on its browser to make the web a more secure place for Internet users.
+If you haven't yet, there is another significant reason to immediately switch to the latest version of the Chrome web browser.
+Ron Masas, a security researcher from Imperva, has discovered a vulnerability in web browsers that could allow attackers to find everything other web platforms, like Facebook and Google, knows about you—and all they need is just trick you into visiting a website.
+The vulnerability, identified as CVE-2018-6177, takes advantage of a weakness in audio/video HTML tags and affects all web browsers powered by "Blink Engine," including Google Chrome.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+To illustrate the attack scenario, the researcher took an example of Facebook, a popular social media platform that collects in-depth profiling information on its users, including their age, gender, where you have been (location data) and interests, i.e., what you like and what you don't.
+You must be aware of Facebook offering post targeting feature to page administrators, allowing them to define a targeted or restricted audience for specific posts based on their age, location, gender, and interest.
+How the Browser Attack Works?
+To demonstrate the vulnerability, the researcher created multiple Facebook posts with different combinations of the restricted audiences to categorize victims according to their age, location, interest or gender.
+Now, if a website embeds all these Facebook posts on a web page, it will load and display only a few specific posts at the visitors' end based on individuals' profile data on Facebook that matches restricted audience settings.
+For example, if a post—defined to be visible only to the Facebook users with age 26, male, having interest in hacking or Information Security—was loaded successfully, an attacker can potentially learn personal information on visitors, regardless of their privacy settings.
+Though the idea sounds exciting and quite simple, there are no direct ways available for site administrators to determine whether an embedded post was loaded successfully for a specific visitor or not.
+Thanks to Cross-Origin Resource Sharing (CORS)—a browser security mechanism that prevents a website from reading the content of other sites without their explicit permission.
+However, Imperva researcher found that since audio and video HTML tags don't validate the content type of fetched resources or reject responses with invalid MIME types, an attacker can use multiple hidden video or audio tags on a website to request Facebook posts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Though this method doesn't display Facebook posts as intended, it does allow the attacker-controlled website to measure (using JavaScript) the size of cross-origin resources and number of requests to find out which specific posts were successfully fetched from Facebook for an individual visitor.
+"With several scripts running at once — each testing a different and unique restriction — the bad actor can relatively quickly mine a good amount of private data about the user," Masses said.
+"I found that by engineering sites to return a different response size depending on the currently logged user properties it is possible to use this method to extract valuable information."
+A member from Google security team also pointed that the vulnerability could also work against websites using APIs to fetch user session specific information.
+The core of this vulnerability has some similarities with another browser bug, patched in June this year, which exploited a weakness in how web browsers handle cross-origin requests to video and audio files, allowing attackers to read the content of your Gmail or private Facebook messages.
+Imperva researcher reported the vulnerability to Google with a proof of concept exploit, and the Chrome team patched the issue in Chrome 68 release.
+So, Chrome users are strongly recommended to update their browser to the latest version, if they haven't yet.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

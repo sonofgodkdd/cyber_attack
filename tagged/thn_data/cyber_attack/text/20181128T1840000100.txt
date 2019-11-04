@@ -1,0 +1,22 @@
+U.S Charges Two Iranian Hackers for SamSam Ransomware Attacks
+Mohit Kumar
+
+The Department of Justice announced Wednesday charges against two Iranian nationals for their involvement in creating and deploying the notorious SamSam ransomware.
+The alleged hackers, Faramarz Shahi Savandi, 34, and Mohammad Mehdi Shah, 27, have been charged on several counts of computer hacking and fraud charges, the indictment unsealed today at New Jersey court revealed.
+The duo used SamSam ransomware to extort over $6 million in ransom payments since 2015, and also caused more than $30 million in damages to over 200 victims, including hospitals, municipalities, and public institutions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the indictment, Savandi and Mansouri have been charged with a total of six counts, including one count of conspiracy to commit wire fraud, one count of conspiracy to commit fraud and related activity in connection with computers, two counts of intentional damage to a protected computer, and two counts of transmitting a demand in relation to damaging a protected computer.
+Since both hackers live in and operated from Iran, they have not yet been arrested by the United States authorities and the FBI has added them on their list of wanted hackers.
+According to the indictment, Savandi and Mansouri created the first version of the SamSam Ransomware in December 2015 and created further refined versions of the threat in June and October 2017.
+"Defendants authored various versions of the SamSam Ransomware, which was designed to encrypt data on Victim computers. SamSam Ransomware was designed to maximize the damage caused to the Victim by, for instance, also encrypting backups of the targeted computers," the indictment says.
+"Defendants used a variety of methods to gain access to Victim computer networks, including exploiting known security vulnerabilities in common server software and utilizing virtual private servers such as European VPS #1 and European VPS #2 to mask their identities."
+Unlike most ransomware infections, SamSam was not distributed in an unplanned way via spam email campaigns. Instead, the attackers chose potential targets and infected systems manually.
+Attackers first compromised the RDP on a targeted system—either by conducting brute force attacks or using stolen credentials—and then attempted to strategically deploy SamSam throughout the network by exploiting vulnerabilities in other systems.
+Once on the entire network, SamSam encrypts the system's data and demands a huge ransom payment (usually more than $50,000 which is much higher than normal) in Bitcoin in exchange for the decryption keys.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since December 2015, SamSam has significantly targeted some large organizations, including the Atlanta city government, the Colorado Department of Transportation, several hospitals and educational institutions like the Mississippi Valley State University.
+"According to the indictment, [affected victims includes] the City of Atlanta, the City of Newark, the Port of San Diego, the Colorado Department of Transportation, the University of Calgary, Hollywood Presbyterian Medical Centers, Kansas Heart Hospital, MedStar Health, Nebraska Orthopedic Hospital, and Allscripts Healthcare Solutions Inc."
+The Atlanta city's officials refused to pay the ransomware, and the recovery effort cost them estimated $17 million.
+Leaving behind other well-known ransomware viruses like WannaCry and NotPetya, SamSam became the largest paid ransomware of its kind with one individual victim paid $64,000.
+Since Iran has no extradition policy with the United States, the indictment may not guarantee the extraditions or convictions of the two alleged hackers. But being on the wanted list of the FBI make it difficult for the duo to travel outside their country’s boundary freely.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

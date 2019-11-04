@@ -1,0 +1,34 @@
+Experian Breach: 15 Million T-Mobile Customers' Data Hacked
+Swati Khandelwal
+
+If you applied for financing from T-Mobile anytime between 1 September 2013 and 16 September 2015, you have been HACKED! – even if you never had T-Mobile service.
+T-Mobile’s credit application processor Experian was hacked, potentially exposing the highly personal information of more than 15 million people in the United States.
+The stolen information includes names, addresses, phone numbers and – most unfortunately – Social Security numbers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The massive data breach was first discovered in mid-September and has now been confirmed by T-Mobile CEO John Legere.
+According to Legere, Hackers successfully obtained Millions of people’s private information through Experian, one of the world’s largest credit check companies that process T-Mobile's credit applications.
+Both customers and people who submitted to a T-Mobile credit check (but either canceled or never activated their T-Mobile service) between September 1, 2013, and September 16, 2015, are most at risk.
+Now, Hackers have their hands on two years worth of sensitive identifying information that T-Mobile uses to check credit ratings, which could possibly make the rounds on the black market.
+The Stolen victims’ data includes:
+Residential addresses
+Social Security numbers
+Birth Dates
+Driver’s License number
+Passport number
+Military I.D. numbers
+and more
+Some of the pilfered data was encrypted, according to Experian, which is taking responsibility for the breach. However, T-Mobile claims that the "encryption may have been compromised."
+The telecommunication giant said that no credit or debit card numbers of its customers were stolen in the breach. However, one could imagine that with this trove of stolen data, anyone can easily steal someone’s identity without trying too terribly hard.
+Why Losing a Social Security Number is more dangerous than Losing a Payment Card?
+It sounds good to ears hearing that hackers did not access credit or debit card numbers during the data breach, but losing your Social Security number is actually worse than losing your payment cards.
+If hackers make use of your credit or debit card, you have a good option to stop them – Report fraudulent purchases when you see your bill. 
+You hardly lose anything, as you’ll get your money back as well as your financial institution will send you a new payment card. 
+But once your Social Security number stolen, Hackers can screw you up because, you can almost never change your Social Security number.
+Identity thieves can apply for credit cards and run up debt in your name. They can ruin your credit score, even before you come to know that your information is stolen and is misused. 
+The more worrisome part is that there’s not a whole lot victims can do to prevent further damage beyond one thing: Freeze your credit report. 
+This incident marks the latest high-profile data breach and adds itself to the list that includes OPM losing 4 million federal workers’ personal data, health insurer Excellus losing 10 million health records exposed and last year’s Target and Home Depot data breach.
+T-Mobile is very Angry
+Legere said he is reviewing T-Mobile's relationship with the company as a result of the massive breach.
+"Obviously I am incredibly angry about this data breach, and we will institute a thorough review of our relationship with Experian, but right now my top concern and first focus is assisting any and all consumers affected."
+T-Mobile and Experian are offering two years of free credit monitoring to their affected customers. Now, let’s wait and watch how worse this hack goes.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

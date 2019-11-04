@@ -1,0 +1,25 @@
+Hackers Steal $19 Million From Bithumb Cryptocurrency Exchange
+Wang Wei
+
+Hackers yesterday stole nearly $19 million worth of cryptocurrency from Bithumb, the South Korea-based popular cryptocurrency exchange admitted today.
+According to Primitive Ventures' Dovey Wan, who first broke the information on social media, hackers managed to compromise a number of Bithumb's hot EOS and XRP wallets and transferred around 3 million EOS (~ $13 million) and 20 million XRP (~ $6 million) to his newly-created accounts.
+The hacker then distributedly transferred the stolen digital assets to his different accounts created on other cryptocurrency exchanges, including Huobi, HitBTC, WB, and EXmo, via ChangeNow, a non-custodial crypto swap platform does not require KYC/account.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bithumb has been hacked multiple times in the past. Last time the popular cryptocurrency exchange was hacked in June 2018, when hackers stole $31 million, and in July 2017, when hackers stole $1 million worth of EOS from many wallets belonging to its users.
+"And this is the second time Bithumb saw a MAJOR hack, last time it was hacked with a loss over $30m.. lol and after the first hack it was STILL able to get the fiat license from Korea and WTF??" Wan says on Twitter.
+It has been reported that the private key for the EOS hot wallet account belonging to Bithumb was stolen (address g4ydomrxhege), which allowed the hacker to transfer the funds to his address, "ifguz3chmamg."
+The above image shared by Changpeng Zhao, CEO of Binance cryptocurrency exchange, explains how hacker distributed his funds after stealing it from Bithumb.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's how the hacker distributed and transferred the stolen funds to his accounts on different exchanges:
+EXMO: 662,600
+Huobi: 263,605
+Changelly 143,511
+KuCoin: 96,270
+CoinSwitch: 38,725
+According to a blog post published by the company today, Bithumb is still investigating the hack, which it believes was performed with the help of an insider, and has reported the breach incident to security firm Korea Internet and Security Agency (KISA) and cyber police.
+"We deeply apologize to our members for delaying the cryptocurrency deposit and withdrawal service," Bithumb said.
+"As a result of the inspection, it is judged that the incident is an accident involving insiders because the external intrusion path has not been revealed until now. Based on the facts, we are conducting intensive investigations with KISA, Cyber ​​Police Agency and security companies."
+Meanwhile, Bithumb said the company is working with major cryptocurrency exchanges and foundations in hope to recover the loss of the cryptocurrency equivalent.
+Last year when the exchange was hacked and lost $30 million in EOS, it managed to recover half of the stolen funds.
+Would Bithumb be able to do the same this time?
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

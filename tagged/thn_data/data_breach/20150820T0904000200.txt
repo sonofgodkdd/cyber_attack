@@ -1,0 +1,13 @@
+Web.com Hacked! Credit Card information of 93,000 Customers Compromised
+Swati Khandelwal
+Web.com, a Florida-based web hosting company with up to 3.3 Million customers, has suffered a data breach and may have compromised personal information and credit card data belonging to 93,000 of its clients.
+The company on Tuesday confirmed that some unknown hackers had breached one of its computer systems on August 13, 2015, and accessed personal information of nearly 93,000 customers. 
+Web.com, with the goal to help small businesses succeed online, uncovered the unauthorized activity as part of its ongoing security monitoring and shutdown process.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen information includes:Credit Card information
+Actual Names associated with the payment cards
+Residential Addresses
+No other information belonging to customers, such as Social Security numbers, Verification Codes for the exposed credit cards, was affected by the data breach, according to the company."The security of our customer information is a high priority for Web.com," Web.com CEO and Chairman David L. Brown stated in a statement. "Our goals are simple –to protect our clients from the Internet attacks and, in the event that an attack succeeds, to fix the [issue] immediately."However, neither the company mentioned whether the stolen data was encrypted, nor it said how hackers were able to accessed its customers' data.
+The company's shares fell 6.7% to $22.17 in after-hours trading Tuesday, due to the data breach incident.
+Web.com said it reported the crime to authorities and contacted the law enforcement and a nationally recognized security consulting firm to conduct an investigation into the attack. 
+The company has also notified its affected customers via email detailing the necessary steps the company is taking. It is also providing Free Credit-Monitoring Protection for one-year to users affected by the breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

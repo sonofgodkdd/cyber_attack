@@ -1,0 +1,26 @@
+Shadow Brokers reveals list of Servers Hacked by the NSA
+Swati Khandelwal
+
+The hacker group calling itself the Shadow Brokers, who previously claimed to have leaked a portion of the NSA’s hacking tools and exploits, is back with a Bang!
+The Shadow Brokers published more files today, and this time the group dumped a list of foreign servers allegedly compromised by the NSA-linked hacking unit, Equation Group, in various countries to expand its espionage operations.
+Top 3 Targeted Countries — China, Japan, and Korea
+The data dump [Download / File Password: payus] that experts believe contains 306 domain names, and 352 IP addresses belong to at least 49 countries. As many as 32 domains of the total were run by educational institutes in China and Taiwan.
+A few target domains were based in Russia, and at least nine domains include .gov websites.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The top 10 targeted countries include China, Japan, Korea, Spain, Germany, India, Taiwan, Mexico, Italy, and Russia.
+The latest dump has been signed by the same key as the first Shadow Brokers’ dump of NSA exploits, though there is a lot to be done to validate the contents of the leaked data dump fully.
+Targeted Systems — Solaris, Unix, Linux and FreeBSD
+Most of the affected servers were running Solaris, Oracle-owned Unix-based operating system, while some were running FreeBSD or Linux.
+Each compromised servers were reportedly targets of INTONATION and PITCHIMPAIR, code-names given for cyber-spy hacking programs.
+The data dump also contains references to a list of previously undisclosed Equation Group tools, including Dewdrop, Incision, Orangutan, Jackladder, Reticulum, Patchicillin, Sidetrack and Stoicsurgeon.
+The tools as mentioned above could be hacking implants, tools or exploits used by the NSA's notorious group.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security researcher Mustafa Al-Bassam, an ex-member of Lulzsec and the Anonymous hacking collective, said the NSA likely compromised all the servers between 2000 and 2010.
+"So even the NSA hacks machines from compromised servers in China and Russia. This is why attribution is hard," Al-Bassam added. 
+Are Hackers trying to influence U.S. Presidential elections?
+A message accompanying the leaked data dump calls for attempts to disrupt the forthcoming United States presidential election. The portion of message from the Shadow Brokers reads:
+"TheShadowBrokers is having suggestion. On November 8th, instead of not voting, maybe be stopping the vote all together? Maybe being grinch who stopped the election from coming? Maybe hacking election is being the best idea? #hackelection2016."
+Targeted victims can use the leaked files in an effort to determine if they were the potential target of the NSA-linked hacking unit.
+Since the records are old, many servers should now be clean of infection. However, a brief Shodan scan of these domains indicates that some of the affected servers are still active and still running old, possibly-vulnerable systems.
+The latest release comes after the FBI arrested Harold Thomas Martin, an NSA contractor, who was reportedly a prime suspect in The Shadow Brokers case.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

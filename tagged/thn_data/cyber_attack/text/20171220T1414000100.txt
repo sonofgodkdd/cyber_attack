@@ -1,0 +1,31 @@
+Greedy North Korean Hackers Targeting Cryptocurrencies and Point-of-Sale Terminals
+Mohit Kumar
+
+The North Korean hacking group has turned greedy.
+Security researchers have uncovered a new widespread malware campaign targeting cryptocurrency users, believed to be originated from Lazarus Group, a state-sponsored hacking group linked to the North Korean government.
+Active since 2009, Lazarus Group has been attributed to many high profile attacks, including Sony Pictures Hack, $81 million heists from the Bangladesh Bank, and the latest — WannaCry.
+The United States has officially blamed North Korea for global WannaCry ransomware attack that infected hundreds of thousands of computers across more than 150 countries earlier this year.
+In separate news, security experts have blamed Lazarus group for stealing bitcoins worth millions from the South Korean exchange Youbit, forcing it to shut down and file for bankruptcy after losing 17% of its assets.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers from security firm Proofpoint have published a new report, revealing a connection between Lazarus Group and a number of multistage cyber attacks against cryptocurrency users and point-of-sale systems.
+"The group has increasingly focused on financially motivated attacks and appears to be capitalizing on both the increasing interest and skyrocketing prices for cryptocurrencies," the researchers said. "The Lazarus Group’s arsenal of tools, implants, and exploits is extensive and under constant development."
+After analyzing a large number of spear phishing emails with different attack vectors from multiple spear phishing campaigns, researchers discovered a new PowerShell-based reconnaissance implant from Lazarus Group arsenal, dubbed PowerRatankba.
+Encryption, obfuscation, functionality, decoys, and command-and-control servers used by PowerRatankba closely resembles the original Ratankba implant developed by Lazarus Group.
+The PowerRatankba implant is being spread using a massive email campaign through the following attack vectors:
+Windows executable downloader dubbed PowerSpritz
+Malicious Windows Shortcut (LNK) files
+Several malicious Microsoft Compiled HTML Help (CHM) files
+Multiple JavaScript (JS) downloaders
+Macro-based Microsoft Office documents
+Backdoored popular cryptocurrency applications hosted on fake websites
+PowerRatankba, with at least two variants in the wild, acts as a first-stage malware that delivers a fully-featured backdoor (in this case, Gh0st RAT) only to those targeted companies, organizations, and individuals that have interest in cryptocurrency.
+"During our research, we discovered that long-term sandboxing detonations of PowerRatankba not running cryptocurrency related applications were never infected with a Stage2 implant. This may indicate that the PowerRatankba operator(s) were only interested in infecting device owners with an obvious interest in various cryptocurrencies," reads the 38-page-long report [PDF] published by Proofpoint.
+Once installed, Gh0st RAT allows cybercriminals to steal credentials for cryptocurrency wallets and exchanges.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It's notable that PowerRatankba and Gh0st RAT don't exploit any zero-day vulnerability; instead, Lazarus Group relies on mixed programming practices, like C&C communication over HTTP, use of Spritz encryption algorithm and the Base64-encoded custom encryptor.
+"It is already well-known that Lazarus Group has targeted and successfully breached several prominent cryptocurrency companies and exchanges," the researchers say. "From these breaches, law enforcement agencies suspect that the group has amassed nearly $100 million worth of cryptocurrencies based on their value today."
+Besides stealing cryptocurrencies, the group was also found infecting SoftCamp point-of-sale (POS) terminals, largely deployed in South Korea, using RatankbaPOS malware for stealing credit card data.
+Since RatankbaPOS was sharing same C&C server as the PowerRatankba implant, it is believed that both the implants are linked to Lazarus Group.
+The explosive growth in cryptocurrency values has motivated not only traders but also hackers to invest all their time and resources in making digital wealth.
+More details about the new malware campaigns run by Lazarus Group can be found in the in-depth report [PDF], titled "North Korea Bitten by Bitcoin Bug—Financially motivated campaigns reveal a new dimension of the Lazarus Group," published by PowerPoint on Wednesday.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

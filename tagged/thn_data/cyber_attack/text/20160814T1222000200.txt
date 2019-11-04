@@ -1,0 +1,19 @@
+Bitcoin Exchange Offers $3.5 Million Reward for Information of Stolen Bitcoins
+Mohit Kumar
+
+Hong Kong-based Bitcoin exchange 'Bitfinex' that lost around $72 Million worth of its customers’ Bitcoins last week is now offering a reward of $3.5 Million to anyone who can provide information that leads to the recovery of the stolen Bitcoins.
+Bitfinex revealed on August 2 that the cryptocurrency exchange had suffered a major security breach, which resulted in the loss of nearly 120,000 BTC.
+The hack led to a 36 percent loss for each Bitfinex customer, who will be issued tokens to be redeemed as the company is able to reimburse the losses.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, the exchange is willing to offer 5% of the lost funds (nearly 6,000 BTC) as a reward for the recovery of the stolen bitcoins.
+The news came after a Reddit user, using alias someguy916, inquired about a reward Bitfinex would be willing to offer for the stolen bitcoins.
+In response to the question, Bitfinex community director Zane Tackett stated that a bounty would be awarded to anyone who has information that would help the exchange recover the funds.
+"5% of recovery and for information leading to recovery (but no bounty if no recovery); if multiple persons lead to recovery, share pro rata," Tackett wrote.
+Where 5% of the stolen funds is about 6,000 BTC, which is around $3.5 MILLION.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Bitfinex is the third-largest Bitcoin exchange in the world. After the news of the Bitfinex hack had broken on August 2, the price of Bitcoin dropped almost 20%, from $602.78 to $541 per Bitcoin, within the day after the announcement.
+As a precaution, Bitfinex has adopted additional security measures for its customers, as the company said in a statement Wednesday:
+"We have added additional platform and infrastructure security checks; regenerated all encrypted services, including wallets, security tokens, and passwords; moved funds to multisig cold storage; re-evaluated all third-party integrations; performed a comprehensive system audit in order to identify vulnerabilities; and, rebuilt our entire platform on new infrastructure."
+The best way to secure yourself from such hacks is to keep your Bitcoins OFFLINE.
+The safest place to store your Bitcoins or any other digital currency is in on your own (if possible, offline) wallet; instead on any website or cryptocurrency exchange.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

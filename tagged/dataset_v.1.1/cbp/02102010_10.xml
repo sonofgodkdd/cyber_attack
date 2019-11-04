@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Smuggling Attempt Thwarted at Lukeville Port of Entry
+(Wednesday, February 10, 2010)
+Lukeville, Ariz. -  U.S. Customs and Border Protection, Field Operations officers intercepted a smuggling attempt at the Lukeville port of entry on Sunday afternoon and seized more than 169 pounds of marijuana with a street value close to $272,000.
+On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P
+U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico. The primary officer, screening vehicles and persons coming from Mexico, referred the vehicle to secondary inspection based on discrepancies with the vehicle and inconsistencies with answers to routine questions.
+CBP officers at secondary, assisted by a narcotics detector canine, discovered 18 packages concealed in the gas tank and rear quarter panels. The officers extracted more than 169 pounds of marijuana and arrested the driver. Special agents from Immigration and Customs Enforcement were notified for further investigation. The marijuana and vehicle were seized. ICE agents deferred the case to the Pima County Sheriff's Office for prosecution.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="106" end="167" text="U.S. Customs and Border Protection, Field Operations officers" TYPE="BAR" />
+<person id="p1" start="418" end="453" text="a 46-year-old United States citizen" TYPE="NOM" />
+<person id="p3" start="506" end="576" text="The primary officer, screening vehicles and persons coming from Mexico" TYPE="NOM" />
+<person id="p4" start="537" end="576" text="vehicles and persons coming from Mexico" TYPE="BAR" />
+<person id="p5" start="718" end="784" text="CBP officers at secondary, assisted by a narcotics detector canine" TYPE="BAR" />
+<person id="p6" start="860" end="872" text="The officers" TYPE="NOM" />
+<person id="p7" start="930" end="940" text="the driver" TYPE="NOM" />
+<person id="p8" start="942" end="997" text="Special agents from Immigration and Customs Enforcement" TYPE="BAR" />
+<person id="p10" start="1078" end="1088" text="ICE agents" TYPE="NOM" />
+<person id="p11" start="1110" end="1133" text="the Pima County Sheriff" TYPE="NOM" />
+<organization id="o0" start="106" end="140" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o1" start="718" end="721" text="CBP" TYPE="NAMPRE" />
+<organization id="o2" start="962" end="997" text="Immigration and Customs Enforcement" TYPE="NAM" />
+<organization id="o3" start="1078" end="1081" text="ICE" TYPE="NAMPRE" />
+<organization id="o4" start="1110" end="1142" text="the Pima County Sheriff's Office" TYPE="NOM" />
+<geographical-political id="g1" start="86" end="102" text="Lukeville, Ariz." TYPE="NAM" />
+<geographical-political id="g2" start="97" end="102" text="Ariz." TYPE="NAM" />
+<geographical-political id="g4" start="432" end="445" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g6" start="498" end="504" text="Mexico" TYPE="NAM" />
+<geographical-political id="g7" start="570" end="576" text="Mexico" TYPE="BAR" />
+<geographical-political id="g8" start="1114" end="1125" text="Pima County" TYPE="NAMPRE" />
+<falicity id="f0" start="31" end="54" text="Lukeville Port of Entry" TYPE="BAR" />
+<falicity id="f1" start="203" end="230" text="the Lukeville port of entry" TYPE="NOM" />
+<falicity id="f2" start="465" end="492" text="the Lukeville port of entry" TYPE="NOM" />
+<head id="h2" start="86" end="95" text="Lukeville" />
+<head id="h3" start="97" end="102" text="Ariz." />
+<head id="h4" start="159" end="167" text="officers" />
+<head id="h5" start="106" end="140" text="U.S. Customs and Border Protection" />
+<head id="h8" start="446" end="453" text="citizen" />
+<head id="h9" start="432" end="445" text="United States" />
+<head id="h12" start="498" end="504" text="Mexico" />
+<head id="h13" start="518" end="525" text="officer" />
+<head id="h14" start="550" end="557" text="persons" />
+<head id="h15" start="570" end="576" text="Mexico" />
+<head id="h16" start="722" end="730" text="officers" />
+<head id="h17" start="718" end="721" text="CBP" />
+<head id="h18" start="864" end="872" text="officers" />
+<head id="h19" start="934" end="940" text="driver" />
+<head id="h20" start="950" end="956" text="agents" />
+<head id="h21" start="962" end="997" text="Immigration and Customs Enforcement" />
+<head id="h22" start="1082" end="1088" text="agents" />
+<head id="h23" start="1078" end="1081" text="ICE" />
+<head id="h24" start="1136" end="1142" text="Office" />
+<head id="h26" start="1126" end="1133" text="Sheriff" />
+<head id="h27" start="1114" end="1125" text="Pima County" />
+<head id="h0" start="31" end="54" text="Lukeville Port of Entry" />
+<head id="h6" start="469" end="492" text="Lukeville port of entry" />
+<head id="h10" start="207" end="230" text="Lukeville port of entry" />
+<name id="n1" start="86" end="95" text="Lukeville" />
+<name id="n2" start="97" end="102" text="Ariz." />
+<name id="n3" start="106" end="140" text="U.S. Customs and Border Protection" />
+<name id="n5" start="432" end="445" text="United States" />
+<name id="n7" start="498" end="504" text="Mexico" />
+<name id="n8" start="570" end="576" text="Mexico" />
+<name id="n9" start="718" end="721" text="CBP" />
+<name id="n10" start="962" end="997" text="Immigration and Customs Enforcement" />
+<name id="n11" start="1078" end="1081" text="ICE" />
+<name id="n12" start="1114" end="1125" text="Pima County" />
+<name id="n13" start="31" end="54" text="Lukeville Port of Entry" />
+<name id="n14" start="469" end="492" text="Lukeville port of entry" />
+<name id="n15" start="207" end="230" text="Lukeville port of entry" />
+<located-mention id="lo0" start="335" end="504" text="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" TYPE="Other" />
+<located-mention id="lo1" start="335" end="504" text="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" TYPE="Other" />
+<located-mention id="lo2" start="537" end="576" text="vehicles and persons coming from Mexico" TYPE="Participial" />
+<employment-mention id="e0" start="106" end="167" text="U.S. Customs and Border Protection, Field Operations officers" TYPE="PreMod" />
+<employment-mention id="e1" start="718" end="730" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e2" start="942" end="997" text="Special agents from Immigration and Customs Enforcement" TYPE="Preposition" />
+<employment-mention id="e3" start="1078" end="1088" text="ICE agents" TYPE="PreMod" />
+<employment-mention id="e4" start="1110" end="1133" text="the Pima County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="418" end="453" text="a 46-year-old United States citizen" TYPE="PreMod" />
+<entity_link id="en1" fromID="f1" fromText="the Lukeville port of entry" toID="f0" toText="Lukeville Port of Entry" />
+<entity_link id="en3" fromID="f2" fromText="the Lukeville port of entry" toID="f1" toText="the Lukeville port of entry" />
+<entity_link id="en5" fromID="g7" fromText="Mexico" toID="g6" toText="Mexico" />
+<entity_link id="en6" fromID="o1" fromText="CBP" toID="o0" toText="U.S. Customs and Border Protection" />
+<entity_link id="en7" fromID="p6" fromText="The officers" toID="p5" toText="CBP officers at secondary, assisted by a narcotics detector canine" />
+<entity_link id="en8" fromID="p7" fromText="the driver" toID="p1" toText="a 46-year-old United States citizen" />
+<entity_link id="en9" fromID="o3" fromText="ICE" toID="o2" toText="Immigration and Customs Enforcement" />
+<head_link id="he2" fromID="g1" fromText="Lukeville, Ariz." toID="h2" toText="Lukeville" />
+<head_link id="he3" fromID="g2" fromText="Ariz." toID="h3" toText="Ariz." />
+<head_link id="he4" fromID="p0" fromText="U.S. Customs and Border Protection, Field Operations officers" toID="h4" toText="officers" />
+<head_link id="he5" fromID="o0" fromText="U.S. Customs and Border Protection" toID="h5" toText="U.S. Customs and Border Protection" />
+<head_link id="he8" fromID="p1" fromText="a 46-year-old United States citizen" toID="h8" toText="citizen" />
+<head_link id="he9" fromID="g4" fromText="United States" toID="h9" toText="United States" />
+<head_link id="he12" fromID="g6" fromText="Mexico" toID="h12" toText="Mexico" />
+<head_link id="he14" fromID="p3" fromText="The primary officer, screening vehicles and persons coming from Mexico" toID="h13" toText="officer" />
+<head_link id="he15" fromID="p4" fromText="vehicles and persons coming from Mexico" toID="h14" toText="persons" />
+<head_link id="he16" fromID="g7" fromText="Mexico" toID="h15" toText="Mexico" />
+<head_link id="he17" fromID="p5" fromText="CBP officers at secondary, assisted by a narcotics detector canine" toID="h16" toText="officers" />
+<head_link id="he18" fromID="o1" fromText="CBP" toID="h17" toText="CBP" />
+<head_link id="he19" fromID="p6" fromText="The officers" toID="h18" toText="officers" />
+<head_link id="he20" fromID="p7" fromText="the driver" toID="h19" toText="driver" />
+<head_link id="he21" fromID="p8" fromText="Special agents from Immigration and Customs Enforcement" toID="h20" toText="agents" />
+<head_link id="he22" fromID="o2" fromText="Immigration and Customs Enforcement" toID="h21" toText="Immigration and Customs Enforcement" />
+<head_link id="he23" fromID="p10" fromText="ICE agents" toID="h22" toText="agents" />
+<head_link id="he24" fromID="o3" fromText="ICE" toID="h23" toText="ICE" />
+<head_link id="he25" fromID="o4" fromText="the Pima County Sheriff's Office" toID="h24" toText="Office" />
+<head_link id="he27" fromID="p11" fromText="the Pima County Sheriff" toID="h26" toText="Sheriff" />
+<head_link id="he28" fromID="g8" fromText="Pima County" toID="h27" toText="Pima County" />
+<head_link id="he30" fromID="f0" fromText="Lukeville Port of Entry" toID="h0" toText="Lukeville Port of Entry" />
+<head_link id="he31" fromID="f1" fromText="the Lukeville port of entry" toID="h10" toText="Lukeville port of entry" />
+<head_link id="he32" fromID="f2" fromText="the Lukeville port of entry" toID="h6" toText="Lukeville port of entry" />
+<name_link id="na1" fromID="g1" fromText="Lukeville, Ariz." toID="n1" toText="Lukeville" />
+<name_link id="na2" fromID="g2" fromText="Ariz." toID="n2" toText="Ariz." />
+<name_link id="na3" fromID="o0" fromText="U.S. Customs and Border Protection" toID="n3" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="g4" fromText="United States" toID="n5" toText="United States" />
+<name_link id="na7" fromID="g6" fromText="Mexico" toID="n7" toText="Mexico" />
+<name_link id="na8" fromID="g7" fromText="Mexico" toID="n8" toText="Mexico" />
+<name_link id="na9" fromID="o1" fromText="CBP" toID="n9" toText="CBP" />
+<name_link id="na10" fromID="o2" fromText="Immigration and Customs Enforcement" toID="n10" toText="Immigration and Customs Enforcement" />
+<name_link id="na11" fromID="o3" fromText="ICE" toID="n11" toText="ICE" />
+<name_link id="na12" fromID="g8" fromText="Pima County" toID="n12" toText="Pima County" />
+<name_link id="na13" fromID="f0" fromText="Lukeville Port of Entry" toID="n13" toText="Lukeville Port of Entry" />
+<name_link id="na14" fromID="f1" fromText="the Lukeville port of entry" toID="n15" toText="Lukeville port of entry" />
+<name_link id="na15" fromID="f2" fromText="the Lukeville port of entry" toID="n14" toText="Lukeville port of entry" />
+<relation_link1 id="r0" fromID="e0" fromText="U.S. Customs and Border Protection, Field Operations officers" toID="p0" toText="U.S. Customs and Border Protection, Field Operations officers" />
+<relation_link1 id="r1" fromID="lo0" fromText="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" toID="p1" toText="a 46-year-old United States citizen" />
+<relation_link1 id="r2" fromID="e1" fromText="CBP officers" toID="p5" toText="CBP officers at secondary, assisted by a narcotics detector canine" />
+<relation_link1 id="r3" fromID="e2" fromText="Special agents from Immigration and Customs Enforcement" toID="p8" toText="Special agents from Immigration and Customs Enforcement" />
+<relation_link1 id="r4" fromID="e3" fromText="ICE agents" toID="p10" toText="ICE agents" />
+<relation_link1 id="r5" fromID="e4" fromText="the Pima County Sheriff" toID="p11" toText="the Pima County Sheriff" />
+<relation_link1 id="r6" fromID="C0" fromText="a 46-year-old United States citizen" toID="p1" toText="a 46-year-old United States citizen" />
+<relation_link1 id="r7" fromID="lo1" fromText="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" toID="p1" toText="a 46-year-old United States citizen" />
+<relation_link1 id="r8" fromID="lo2" fromText="vehicles and persons coming from Mexico" toID="p4" toText="vehicles and persons coming from Mexico" />
+<relation_link2 id="re0" fromID="e0" fromText="U.S. Customs and Border Protection, Field Operations officers" toID="o0" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re1" fromID="lo0" fromText="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" toID="f2" toText="the Lukeville port of entry" />
+<relation_link2 id="re2" fromID="e1" fromText="CBP officers" toID="o1" toText="CBP" />
+<relation_link2 id="re3" fromID="e2" fromText="Special agents from Immigration and Customs Enforcement" toID="o2" toText="Immigration and Customs Enforcement" />
+<relation_link2 id="re4" fromID="e3" fromText="ICE agents" toID="o3" toText="ICE" />
+<relation_link2 id="re5" fromID="e4" fromText="the Pima County Sheriff" toID="g8" toText="Pima County" />
+<relation_link2 id="re6" fromID="C0" fromText="a 46-year-old United States citizen" toID="g4" toText="United States" />
+<relation_link2 id="re7" fromID="lo1" fromText="On Sunday February 7, at approximately 2:45 p.m., a 1995 Chevy P U truck driven by a 46-year-old United States citizen arrived at the Lukeville port of entry from Mexico" toID="g6" toText="Mexico" />
+<relation_link2 id="re8" fromID="lo2" fromText="vehicles and persons coming from Mexico" toID="g7" toText="Mexico" />
+</TAGS>
+</KddTask>

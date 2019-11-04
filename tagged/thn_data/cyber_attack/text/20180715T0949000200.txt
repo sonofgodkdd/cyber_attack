@@ -1,0 +1,34 @@
+12 Russian Intelligence Agents Indicted For Hacking DNC Emails
+Mohit Kumar
+
+The US Justice Department has announced criminal indictments against 12 Russian intelligence officers tied to the hack of the Democratic National Committee (DNC) during the 2016 US presidential election campaign.
+The charges were drawn up as part of the investigation of Russian interference in the 2016 US presidential election by Robert Mueller, the Special Counsel, and former FBI director.
+The indictments against 12 Russian military officers were announced by Deputy Attorney General Rod Rosenstein during a DoJ press conference on Friday—just 3 days before the Russian leader Vladimir Putin is scheduled to meet with President Donald Trump.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+All 12 Russian officers are members of the country's GRU military intelligence unit and are accused of carrying out "large-scale cyber operations" to hack into DNC network and steal Democrats' emails to influence the 2016 presidential election.
+Here's the list of all 12 defendants:
+Viktor Borisovich Netyksho
+Boris Alekseyevich Antonov
+Dmitriy Sergeyevich Badin
+Ivan Sergeyevich Yermakov
+Aleksey Viktorovich Lukashev
+Sergey Aleksandrovich Morgachev
+Nikolay Yuryevich Kozachek
+Pavel Vyacheslavovich Yershov
+Artem Andreyevich Malyshev
+Aleksandr Vladimirovich Osadchuk
+Aleksey Aleksandrovich Potemkin
+Anatoliy Sergeyevich Kovalev
+The indictments alleged that the election hacking targeted Hillary Clinton's campaign, DNC and the Democratic Congressional Campaign Committee (DCCC), with an intention to release that information online under the name DNCLeaks.
+"The Internet allows foreign adversaries to attack America in new and unexpected ways. Free and fair elections are hard-fought and contentious," Rosenstein said. "There will always be adversaries who work to exacerbate domestic differences and try to confuse, divide, and conquer us."
+However, Rosenstein said the indictments did not allege that the cyberattacks ultimately affected vote count or changed the outcome of the 2016 election.
+According to the indictments, Guccifer 2.0, who posed as a lone hacker from Romania and released sensitive documents hacked from the DNC server, and a website that released records under the name DCLeaks was operated by a Russian hacking team known as "Unit 74455."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The team allegedly used Bitcoin to purchase purchasing servers (including the one in Malaysia to host the DCLeaks website), registering domains, and otherwise making payments in furtherance of hacking activity.
+The indictments include 11 criminal counts:
+One count for a criminal conspiracy to commit an offense against the U.S. through cyber operations by the GRU that involved the staged release of stolen documents to interfere with the 2016 presidential election. 
+Two counts through nine charge aggravated identity theft for using identification belonging to eight victims to further their computer fraud scheme.
+Ten counts for conspiracy to launder money in which the defendants laundered the equivalent of over $95,000 by transferring the funds used to purchase servers and fund other costs related to their hacking activities through cryptocurrencies like Bitcoin. 
+Eleven counts for conspiracy to commit an offense against the U.S. by attempting to hack into the computers of state boards of elections, secretaries of state, and US companies that supplied software and other tech related to the administration of elections.
+Although the defendants claimed to be "American hacktivists" on the DCLeaks website, the indictments note that no American was a knowing participant in any related activity or knew they were communicating with Russian intelligence officers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

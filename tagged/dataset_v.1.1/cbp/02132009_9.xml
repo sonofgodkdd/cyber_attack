@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Officers at Newark Airport Seize Candy Bars Packed with Heroin
+(Friday, February 13, 2009)
+Newark, N.J . - U.S. Customs and Border Protection officers at Newark Liberty Airport arrested Jacqueline Hernandez, a 26-year-old U.S. citizen, and seized approximately seven pounds of heroin concealed in her carry-on luggage.
+Yesterday, CBP selected Hernandez for a routine baggage examination when she arrived on a flight from Bogota, Columbia. Upon examination of her roller bag, the CBP officer uncovered a large quantity of chocolate candy bars. Several candy bars were cut open for suspected concealment of narcotics, which then field tested positive for heroin, resulting in a total of 7.32 pounds of heroin seized.
+Officers in Newark discover candy bars in a travelers luggage concealing packages of heroin totaling 7.32 pounds.
+The passenger and drugs were turned over to the custody of Immigration and Customs Enforcement in Newark.
+"This smuggling attempt was thwarted by the expertise and vigilance of CBP officers to interdict narcotics at out ports of entry, preventing dangerous drugs from entering the United States.," stated Robert E. Perez, director of field operations for CBP in New York.
+The case is being prosecuted by the U.S. Attorney's Office in Newark.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="31" text="CBP Officers at Newark Airport" TYPE="BAR" />
+<person id="p1" start="112" end="181" text="U.S. Customs and Border Protection officers at Newark Liberty Airport" TYPE="BAR" />
+<person id="p2" start="191" end="239" text="Jacqueline Hernandez, a 26-year-old U.S. citizen" TYPE="APP" />
+<person id="p3" start="191" end="211" text="Jacqueline Hernandez" TYPE="NAM" />
+<person id="p4" start="213" end="239" text="a 26-year-old U.S. citizen" TYPE="NOM" />
+<person id="p5" start="302" end="305" text="her" TYPE="PRO" />
+<person id="p6" start="348" end="357" text="Hernandez" TYPE="NAM" />
+<person id="p7" start="397" end="400" text="she" TYPE="PRO" />
+<person id="p8" start="464" end="467" text="her" TYPE="PRO" />
+<person id="p9" start="480" end="495" text="the CBP officer" TYPE="NOM" />
+<person id="p10" start="720" end="738" text="Officers in Newark" TYPE="BAR" />
+<person id="p11" start="762" end="773" text="a travelers" TYPE="NOM" />
+<person id="p12" start="834" end="847" text="The passenger" TYPE="NOM" />
+<person id="p13" start="1011" end="1023" text="CBP officers" TYPE="BAR" />
+<person id="p14" start="1139" end="1204" text="Robert E. Perez, director of field operations for CBP in New York" TYPE="APP" />
+<person id="p15" start="1139" end="1154" text="Robert E. Perez" TYPE="NAM" />
+<person id="p16" start="1156" end="1204" text="director of field operations for CBP in New York" TYPE="BAR" />
+<person id="p17" start="1242" end="1255" text="U.S. Attorney" TYPE="BAR" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="112" end="146" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="335" end="338" text="CBP" TYPE="NAM" />
+<organization id="o3" start="484" end="487" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="893" end="938" text="Immigration and Customs Enforcement in Newark" TYPE="NAM" />
+<organization id="o5" start="1011" end="1014" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1189" end="1204" text="CBP in New York" TYPE="NAM" />
+<organization id="o7" start="1242" end="1274" text="U.S. Attorney's Office in Newark" TYPE="NOM" />
+<geographical-political id="g0" start="96" end="107" text="Newark, N.J" TYPE="NAM" />
+<geographical-political id="g1" start="104" end="107" text="N.J" TYPE="NAM" />
+<geographical-political id="g2" start="227" end="231" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g3" start="426" end="442" text="Bogota, Columbia" TYPE="NAM" />
+<geographical-political id="g4" start="434" end="442" text="Columbia" TYPE="NAM" />
+<geographical-political id="g5" start="732" end="738" text="Newark" TYPE="NAM" />
+<geographical-political id="g6" start="932" end="938" text="Newark" TYPE="NAM" />
+<geographical-political id="g7" start="1111" end="1128" text="the United States" TYPE="NAM" />
+<geographical-political id="g8" start="1196" end="1204" text="New York" TYPE="NAM" />
+<geographical-political id="g9" start="1268" end="1274" text="Newark" TYPE="NAM" />
+<geographical-political id="g10" start="1242" end="1246" text="U.S." TYPE="NAMPRE" />
+<falicity id="f0" start="17" end="31" text="Newark Airport" TYPE="NAM" />
+<falicity id="f1" start="159" end="181" text="Newark Liberty Airport" TYPE="NAM" />
+<falicity id="f2" start="1054" end="1068" text="ports of entry" TYPE="BAR" />
+<head id="h0" start="5" end="13" text="Officers" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="17" end="31" text="Newark Airport" />
+<head id="h3" start="96" end="102" text="Newark" />
+<head id="h4" start="104" end="107" text="N.J" />
+<head id="h5" start="147" end="155" text="officers" />
+<head id="h6" start="112" end="146" text="U.S. Customs and Border Protection" />
+<head id="h8" start="159" end="181" text="Newark Liberty Airport" />
+<head id="h9" start="191" end="211" text="Jacqueline Hernandez" />
+<head id="h10" start="232" end="239" text="citizen" />
+<head id="h11" start="227" end="231" text="U.S." />
+<head id="h12" start="302" end="305" text="her" />
+<head id="h13" start="335" end="338" text="CBP" />
+<head id="h14" start="348" end="357" text="Hernandez" />
+<head id="h15" start="397" end="400" text="she" />
+<head id="h16" start="426" end="432" text="Bogota" />
+<head id="h17" start="434" end="442" text="Columbia" />
+<head id="h18" start="464" end="467" text="her" />
+<head id="h19" start="488" end="495" text="officer" />
+<head id="h20" start="484" end="487" text="CBP" />
+<head id="h21" start="720" end="728" text="Officers" />
+<head id="h22" start="732" end="738" text="Newark" />
+<head id="h23" start="764" end="773" text="travelers" />
+<head id="h24" start="838" end="847" text="passenger" />
+<head id="h25" start="893" end="928" text="Immigration and Customs Enforcement" />
+<head id="h26" start="932" end="938" text="Newark" />
+<head id="h27" start="1015" end="1023" text="officers" />
+<head id="h28" start="1011" end="1014" text="CBP" />
+<head id="h29" start="1054" end="1059" text="ports" />
+<head id="h30" start="1115" end="1128" text="United States" />
+<head id="h31" start="1139" end="1154" text="Robert E. Perez" />
+<head id="h32" start="1156" end="1164" text="director" />
+<head id="h33" start="1189" end="1192" text="CBP" />
+<head id="h34" start="1196" end="1204" text="New York" />
+<head id="h35" start="1258" end="1264" text="Office" />
+<head id="h36" start="1268" end="1274" text="Newark" />
+<head id="h37" start="1247" end="1255" text="Attorney" />
+<head id="h38" start="1242" end="1246" text="U.S." />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="17" end="31" text="Newark Airport" />
+<name id="n2" start="96" end="102" text="Newark" />
+<name id="n3" start="104" end="107" text="N.J" />
+<name id="n4" start="112" end="146" text="U.S. Customs and Border Protection" />
+<name id="n5" start="159" end="181" text="Newark Liberty Airport" />
+<name id="n6" start="191" end="211" text="Jacqueline Hernandez" />
+<name id="n7" start="227" end="231" text="U.S." />
+<name id="n8" start="335" end="338" text="CBP" />
+<name id="n9" start="348" end="357" text="Hernandez" />
+<name id="n10" start="426" end="432" text="Bogota" />
+<name id="n11" start="434" end="442" text="Columbia" />
+<name id="n12" start="484" end="487" text="CBP" />
+<name id="n13" start="732" end="738" text="Newark" />
+<name id="n15" start="893" end="928" text="Immigration and Customs Enforcement" />
+<name id="n16" start="932" end="938" text="Newark" />
+<name id="n17" start="1011" end="1014" text="CBP" />
+<name id="n18" start="1115" end="1128" text="United States" />
+<name id="n19" start="1139" end="1154" text="Robert E. Perez" />
+<name id="n20" start="1189" end="1192" text="CBP" />
+<name id="n21" start="1196" end="1204" text="New York" />
+<name id="n22" start="1268" end="1274" text="Newark" />
+<name id="n23" start="1242" end="1246" text="U.S." />
+<located-mention id="lo0" start="1" end="31" text="CBP Officers at Newark Airport" TYPE="Preposition" />
+<located-mention id="lo1" start="112" end="181" text="U.S. Customs and Border Protection officers at Newark Liberty Airport" TYPE="Preposition" />
+<located-mention id="lo2" start="834" end="938" text="The passenger and drugs were turned over to the custody of Immigration and Customs Enforcement in Newark" TYPE="Verbal" />
+<located-mention id="lo3" start="324" end="442" text="Yesterday, CBP selected Hernandez for a routine baggage examination when she arrived on a flight from Bogota, Columbia" TYPE="Other" />
+<located-mention id="lo4" start="720" end="738" text="Officers in Newark" TYPE="Preposition" />
+<employment-mention id="e0" start="1" end="31" text="CBP Officers at Newark Airport" TYPE="PreMod" />
+<employment-mention id="e1" start="112" end="181" text="U.S. Customs and Border Protection officers at Newark Liberty Airport" TYPE="PreMod" />
+<employment-mention id="e2" start="480" end="495" text="the CBP officer" TYPE="PreMod" />
+<employment-mention id="e3" start="1011" end="1023" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e4" start="1156" end="1204" text="director of field operations for CBP in New York" TYPE="Preposition" />
+<CRRE id="C0" start="213" end="239" text="a 26-year-old U.S. citizen" TYPE="PreMod" />
+<entity_link id="en0" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en1" fromID="p1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="p0" toText="CBP Officers at Newark Airport" />
+<entity_link id="en2" fromID="f1" fromText="Newark Liberty Airport" toID="f0" toText="Newark Airport" />
+<entity_link id="en3" fromID="p3" fromText="Jacqueline Hernandez" toID="p2" toText="Jacqueline Hernandez, a 26-year-old U.S. citizen" />
+<entity_link id="en4" fromID="p4" fromText="a 26-year-old U.S. citizen" toID="p3" toText="Jacqueline Hernandez" />
+<entity_link id="en5" fromID="p5" fromText="her" toID="p3" toText="Jacqueline Hernandez" />
+<entity_link id="en6" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en7" fromID="p6" fromText="Hernandez" toID="p3" toText="Jacqueline Hernandez" />
+<entity_link id="en8" fromID="p7" fromText="she" toID="p6" toText="Hernandez" />
+<entity_link id="en9" fromID="p8" fromText="her" toID="p7" toText="she" />
+<entity_link id="en10" fromID="o3" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en11" fromID="g5" fromText="Newark" toID="g0" toText="Newark, N.J" />
+<entity_link id="en12" fromID="p11" fromText="a travelers" toID="p8" toText="her" />
+<entity_link id="en13" fromID="p12" fromText="The passenger" toID="p6" toText="Hernandez" />
+<entity_link id="en14" fromID="g6" fromText="Newark" toID="g0" toText="Newark, N.J" />
+<entity_link id="en15" fromID="o5" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en16" fromID="g7" fromText="the United States" toID="g2" toText="U.S." />
+<entity_link id="en17" fromID="p15" fromText="Robert E. Perez" toID="p14" toText="Robert E. Perez, director of field operations for CBP in New York" />
+<entity_link id="en18" fromID="p16" fromText="director of field operations for CBP in New York" toID="p15" toText="Robert E. Perez" />
+<entity_link id="en19" fromID="g9" fromText="Newark" toID="g5" toText="Newark" />
+<entity_link id="en20" fromID="g10" fromText="U.S." toID="g7" toText="the United States" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers at Newark Airport" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="f0" fromText="Newark Airport" toID="h2" toText="Newark Airport" />
+<head_link id="he3" fromID="g0" fromText="Newark, N.J" toID="h3" toText="Newark" />
+<head_link id="he4" fromID="g1" fromText="N.J" toID="h4" toText="N.J" />
+<head_link id="he5" fromID="p1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="h5" toText="officers" />
+<head_link id="he6" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="f1" fromText="Newark Liberty Airport" toID="h8" toText="Newark Liberty Airport" />
+<head_link id="he8" fromID="p3" fromText="Jacqueline Hernandez" toID="h9" toText="Jacqueline Hernandez" />
+<head_link id="he9" fromID="p4" fromText="a 26-year-old U.S. citizen" toID="h10" toText="citizen" />
+<head_link id="he10" fromID="g2" fromText="U.S." toID="h11" toText="U.S." />
+<head_link id="he11" fromID="p5" fromText="her" toID="h12" toText="her" />
+<head_link id="he12" fromID="o2" fromText="CBP" toID="h13" toText="CBP" />
+<head_link id="he13" fromID="p6" fromText="Hernandez" toID="h14" toText="Hernandez" />
+<head_link id="he14" fromID="p7" fromText="she" toID="h15" toText="she" />
+<head_link id="he15" fromID="g3" fromText="Bogota, Columbia" toID="h16" toText="Bogota" />
+<head_link id="he16" fromID="g4" fromText="Columbia" toID="h17" toText="Columbia" />
+<head_link id="he17" fromID="p8" fromText="her" toID="h18" toText="her" />
+<head_link id="he18" fromID="p9" fromText="the CBP officer" toID="h19" toText="officer" />
+<head_link id="he19" fromID="o3" fromText="CBP" toID="h20" toText="CBP" />
+<head_link id="he20" fromID="p10" fromText="Officers in Newark" toID="h21" toText="Officers" />
+<head_link id="he21" fromID="g5" fromText="Newark" toID="h22" toText="Newark" />
+<head_link id="he22" fromID="p11" fromText="a travelers" toID="h23" toText="travelers" />
+<head_link id="he23" fromID="p12" fromText="The passenger" toID="h24" toText="passenger" />
+<head_link id="he24" fromID="o4" fromText="Immigration and Customs Enforcement in Newark" toID="h25" toText="Immigration and Customs Enforcement" />
+<head_link id="he25" fromID="g6" fromText="Newark" toID="h26" toText="Newark" />
+<head_link id="he26" fromID="p13" fromText="CBP officers" toID="h27" toText="officers" />
+<head_link id="he27" fromID="o5" fromText="CBP" toID="h28" toText="CBP" />
+<head_link id="he28" fromID="f2" fromText="ports of entry" toID="h29" toText="ports" />
+<head_link id="he29" fromID="g7" fromText="the United States" toID="h30" toText="United States" />
+<head_link id="he30" fromID="p15" fromText="Robert E. Perez" toID="h31" toText="Robert E. Perez" />
+<head_link id="he31" fromID="p16" fromText="director of field operations for CBP in New York" toID="h32" toText="director" />
+<head_link id="he32" fromID="o6" fromText="CBP in New York" toID="h33" toText="CBP" />
+<head_link id="he33" fromID="g8" fromText="New York" toID="h34" toText="New York" />
+<head_link id="he34" fromID="o7" fromText="U.S. Attorney's Office in Newark" toID="h35" toText="Office" />
+<head_link id="he35" fromID="g9" fromText="Newark" toID="h36" toText="Newark" />
+<head_link id="he36" fromID="p17" fromText="U.S. Attorney" toID="h37" toText="Attorney" />
+<head_link id="he37" fromID="g10" fromText="U.S." toID="h38" toText="U.S." />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="f0" fromText="Newark Airport" toID="n1" toText="Newark Airport" />
+<name_link id="na2" fromID="g0" fromText="Newark, N.J" toID="n2" toText="Newark" />
+<name_link id="na3" fromID="g1" fromText="N.J" toID="n3" toText="N.J" />
+<name_link id="na4" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="f1" fromText="Newark Liberty Airport" toID="n5" toText="Newark Liberty Airport" />
+<name_link id="na6" fromID="p3" fromText="Jacqueline Hernandez" toID="n6" toText="Jacqueline Hernandez" />
+<name_link id="na7" fromID="g2" fromText="U.S." toID="n7" toText="U.S." />
+<name_link id="na8" fromID="o2" fromText="CBP" toID="n8" toText="CBP" />
+<name_link id="na9" fromID="p6" fromText="Hernandez" toID="n9" toText="Hernandez" />
+<name_link id="na10" fromID="g3" fromText="Bogota, Columbia" toID="n10" toText="Bogota" />
+<name_link id="na11" fromID="g4" fromText="Columbia" toID="n11" toText="Columbia" />
+<name_link id="na12" fromID="o3" fromText="CBP" toID="n12" toText="CBP" />
+<name_link id="na13" fromID="g5" fromText="Newark" toID="n13" toText="Newark" />
+<name_link id="na14" fromID="o4" fromText="Immigration and Customs Enforcement in Newark" toID="n15" toText="Immigration and Customs Enforcement" />
+<name_link id="na15" fromID="g6" fromText="Newark" toID="n16" toText="Newark" />
+<name_link id="na16" fromID="o5" fromText="CBP" toID="n17" toText="CBP" />
+<name_link id="na17" fromID="g7" fromText="the United States" toID="n18" toText="United States" />
+<name_link id="na18" fromID="p15" fromText="Robert E. Perez" toID="n19" toText="Robert E. Perez" />
+<name_link id="na19" fromID="o6" fromText="CBP in New York" toID="n20" toText="CBP" />
+<name_link id="na20" fromID="g8" fromText="New York" toID="n21" toText="New York" />
+<name_link id="na21" fromID="g9" fromText="Newark" toID="n22" toText="Newark" />
+<name_link id="na22" fromID="g10" fromText="U.S." toID="n23" toText="U.S." />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers at Newark Airport" toID="p0" toText="CBP Officers at Newark Airport" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP Officers at Newark Airport" toID="p0" toText="CBP Officers at Newark Airport" />
+<relation_link1 id="r2" fromID="e1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="p1" toText="U.S. Customs and Border Protection officers at Newark Liberty Airport" />
+<relation_link1 id="r3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="p1" toText="U.S. Customs and Border Protection officers at Newark Liberty Airport" />
+<relation_link1 id="r4" fromID="e2" fromText="the CBP officer" toID="p9" toText="the CBP officer" />
+<relation_link1 id="r5" fromID="lo2" fromText="The passenger and drugs were turned over to the custody of Immigration and Customs Enforcement in Newark" toID="p12" toText="The passenger" />
+<relation_link1 id="r6" fromID="e3" fromText="CBP officers" toID="p13" toText="CBP officers" />
+<relation_link1 id="r7" fromID="e4" fromText="director of field operations for CBP in New York" toID="p16" toText="director of field operations for CBP in New York" />
+<relation_link1 id="r8" fromID="C0" fromText="a 26-year-old U.S. citizen" toID="p4" toText="a 26-year-old U.S. citizen" />
+<relation_link1 id="r9" fromID="lo3" fromText="Yesterday, CBP selected Hernandez for a routine baggage examination when she arrived on a flight from Bogota, Columbia" toID="p7" toText="she" />
+<relation_link1 id="r10" fromID="lo4" fromText="Officers in Newark" toID="p10" toText="Officers in Newark" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers at Newark Airport" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP Officers at Newark Airport" toID="f0" toText="Newark Airport" />
+<relation_link2 id="re2" fromID="e1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re3" fromID="lo1" fromText="U.S. Customs and Border Protection officers at Newark Liberty Airport" toID="f1" toText="Newark Liberty Airport" />
+<relation_link2 id="re4" fromID="e2" fromText="the CBP officer" toID="o3" toText="CBP" />
+<relation_link2 id="re5" fromID="lo2" fromText="The passenger and drugs were turned over to the custody of Immigration and Customs Enforcement in Newark" toID="g6" toText="Newark" />
+<relation_link2 id="re6" fromID="e3" fromText="CBP officers" toID="o5" toText="CBP" />
+<relation_link2 id="re7" fromID="e4" fromText="director of field operations for CBP in New York" toID="o6" toText="CBP in New York" />
+<relation_link2 id="re8" fromID="C0" fromText="a 26-year-old U.S. citizen" toID="g2" toText="U.S." />
+<relation_link2 id="re9" fromID="lo3" fromText="Yesterday, CBP selected Hernandez for a routine baggage examination when she arrived on a flight from Bogota, Columbia" toID="g3" toText="Bogota, Columbia" />
+<relation_link2 id="re10" fromID="lo4" fromText="Officers in Newark" toID="g5" toText="Newark" />
+</TAGS>
+</KddTask>

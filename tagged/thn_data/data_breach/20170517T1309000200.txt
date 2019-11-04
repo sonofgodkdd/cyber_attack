@@ -1,0 +1,28 @@
+Bell Canada Hacked: Data of 1.9 Million Customers Stolen
+Mohit Kumar
+
+While we all were busy in the WannaCry ransomware menace, two separate data breaches have been reported, one in DocuSign, a major provider of electronic signature technology, and another in BELL, Canada’s largest telecommunications company.
+Canadian mobile phone, TV, and internet service provider Bell on Monday confirmed that the company had been hit by an unknown hacker who has managed to access its customer information illegally.
+In a brief statement released by Bell Canada, the company said an unknown hacker managed to have his hands on data of millions of Bell customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the company did not mention the compromised customer details stolen in the hack were pulled from which particular service.
+The company said email addresses, names and telephone numbers of its customers had been accessed in the breach.
+How many victims Affected?
+Bell confirmed the hack and said the unknown hacker has managed to gain access to information on nearly 2 million customers.
+"The illegally accessed information contains approximately 1.9 million active email addresses and approximately 1,700 names and active phone numbers," the company said.
+However, Bell assured its customers that there's no indication of hacker's access to "financial, password or other sensitive personal information," and that the incident is not linked to the global WannaCry ransomware attacks.
+What's the Missing Link?
+The incident seems to be an extortion attempt by a hacker or group of hackers who posted some of the stolen data of Bell Canada customers online and threatened to leak more data if the company fails to cooperate.
+"We are releasing a significant portion of Bell.ca's data due to the fact that they have failed to [co-operate] with us," reads a post on PasteBin published Monday afternoon, several hours before Bell Canada released its apology.
+"This shows how Bell doesn't care for its [customers'] safety and they could have avoided this public announcement… Bell, if you don't [co-operate], more will leak :)."
+There is still no explanation for who is behind the extortion demand or what sort of cooperation the hackers were seeking for, but it appears Bell Canada refused to pay the ransom demand.
+However, this information remains unconfirmed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What is Bell Canada doing? The Canada's largest telecommunication said the company is working with the Canadian law enforcement authorities to figure out who was responsible for the attack.
+"We apologize to Bell customers for this situation and are contacting those affected directly," the company said.
+"Bell took immediate steps to secure affected systems. The company has been working closely with the RCMP cyber crime unit in its investigation and has informed the Office of the Privacy Commissioner."
+What should Bell Canada customers do? 
+While Bell Canada believes there is "minimal risk involved for those affected" by the attack, having access to customer information, including email addresses, names and/or telephone numbers, opens the opportunity for targeted phishing attacks to customers.
+So, users should particularly be alert of any phishing email, which are usually the next step of cyber criminals after a breach to trick users into giving up further details like financial information.
+For the obvious reasons, all Bell Canada customers are highly recommended to change their passwords as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

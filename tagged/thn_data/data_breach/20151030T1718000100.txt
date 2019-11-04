@@ -1,0 +1,17 @@
+TalkTalk Hack: Police Arrest Second Teenager in London
+Mohit Kumar
+
+British Police have arrested a second teenage boy in relation to the major hack on the servers of UK-based telco 'TalkTalk' last week.
+On Monday, a 15-year-old boy (first arrest) from County Antrim, Northern Ireland, was arrested in connection with the TalkTalk Data Breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+On Thursday, The Metropolitan Police Cyber Crime Unit (MPCCU) arrested this second unnamed 16-year-old boy from Feltham in west London on suspicion of Computer Misuse Act offences.
+Latest TalkTalk Data breach put the Bank details and Personally Identifiable Information (PII) of millions of customers at risk, including:
+Nearly 21,000 Bank Accounts
+Almost 28,000 obscured Credit and Debit card details
+Less than 15,000 customer dates of birth
+Names, Email Addresses, and Phone Numbers of 1.2 Million Customers
+TalkTalk has confessed that “Not all of the data was encrypted”... yeah, its' too bad.
+However, "Investigations so far show that the information that may have been accessed is not enough on its own to take money from your bank account," the company claimed.
+“Starting today, we are writing to all customers who have been affected by this to let them know what information has been accessed.”, TalkTalk said in a statement.
+As advised earlier, the affected TalkTalk customers are highly recommended to change their passwords as soon as possible and keep an eye on their bank accounts over the next few months.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

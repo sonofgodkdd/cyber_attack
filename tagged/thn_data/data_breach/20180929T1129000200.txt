@@ -1,0 +1,38 @@
+Facebook Hacked — 10 Important Updates You Need To Know About
+Swati Khandelwal
+If you also found yourself logged out of Facebook on Friday, you are not alone.
+Facebook forced more than 90 million users to log out and back into their accounts in response to a massive data breach.
+On Friday afternoon, the social media giant disclosed that some unknown hackers managed to exploit three vulnerabilities in its website and steal data from 50 million users and that as a precaution, the company reset access tokens for nearly 90 million Facebook users.
+We covered a story yesterday based upon the information available at that time. 
+Facebook Hack: 10 Important Updates You Need To Know About
+However, in a conference call [Transcript 1, Transcript 2] with reporters, Facebook vice president of product Guy Rosen shared a few more details of the terrible breach, which is believed to be the most significant security blunder in Facebook's history.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's below we have briefed the new developments in the Facebook data breach incident that you need to know about:
+1.) Facebook Detected Breach After Noticing Unusual Traffic Spike — Earlier this week, Facebook security team noticed an unusual traffic spike on its servers, which when investigated revealed a massive cyber attack, that had been ongoing since 16 September, aimed at stealing data of millions of Facebook users.
+2.) Hackers Exploited Total 3 Facebook Vulnerabilities — The hack was accomplished using three distinct bugs of Facebook in combination.
+The first bug incorrectly offered users a video uploading option within certain posts that enables people to wish their friends 'Happy Birthday,' when accessed on "View As" page.
+The second bug was in the video uploader that incorrectly generated an access token that had permission to log into the Facebook mobile app, which is otherwise not allowed.
+The third bug was that the generated access token was not for you as the viewer, but for the user that you were looking up, giving attackers an opportunity to steal the keys to access an account of the person they were simulating.
+3.) Hackers Stole Secret Access Tokens for 50 Million Accounts — The attackers walked away with secret access tokens for as many as 50 million Facebook users, which could then be used to take over accounts.
+Access Tokens "are the equivalent of digital keys that keep people logged in to Facebook, so they don't need to re-enter their password every time they use the app."
+4.) Your Facebook Account Password Has Not Been Compromised, But, Wait! — The good news is that the attack did not reveal your Facebook account passwords, but here’s the bad news — it’s not even required.
+An application or an attacker can use millions of secret access tokens to programmatically fetch information from each account using an API, without actually having your password or two-factor authentication code.
+5.) Hackers Downloaded Users' Private Information Using Facebook API — Although it is not clear how many accounts and what personal information was accessed by hackers before Facebook detected the incident, the year-old vulnerabilities had left all your personal information, private messages, photos and videos wide open for hackers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Since we’ve only just started our investigation, we have yet to determine whether these accounts were misused or any information accessed," the company said.
+6.) Your "Logged in as Facebook" Accounts at 3rd-Party Apps/Websites Are At Risk — Since secret tokens enabled attackers to access accounts as the account holder themselves, it could have allowed them to access other third-party apps that were using Facebook login — a feature that lets you sign up for, and log in to, other online services using your Facebook credentials.
+7.) Facebook Reset Access Tokens for 90 Million Accounts — In response to the massive breach, Facebook reset access tokens for nearly 50 million affected Facebook accounts and an additional 40 million accounts, as a precaution. This means that nearly 90 Million Facebook users were logged out of their accounts on Friday.
+8.) Check Active Sessions on Facebook to Find If Your Account Have Been Hacked — Many Facebook users have noticed unknown IP addresses from foreign locations that apparently had accessed their account unauthorizedly.
+You can head on to "Account Settings → Security and Login → Where You're Logged In" to review the list of devices and their location that have accessed your Facebook account.
+If you found any suspicious session that you never logged in, you can revoke back the access in just one click.
+9.) Breach Isn't Connected to the Hacker Who Pledged to Delete Zuckerberg's Personal Page — Earlier this week, a Taiwanese hacker, Chang Chi-Yuang, claimed that he would demonstrate a critical zero-day vulnerability in Facebook by broadcasting himself hacking Mark Zuckerberg's Facebook page on Sunday.
+However, it is not clear whether the latest Facebook breach has anything to do with Chang's hack, at least Facebook does not believe so.
+Besides this, Chang Chi-Yuang Today says he canceled the stream and reported the bug to Facebook.
+10.) Facebook Faces Class-Action Lawsuit Over The Massive Hack — Just after the news of the breach went public, two residents, Carla Echavarria from California and another from Virginia, filed a class-action complaint against the social media giant in US District Court for the Northern District of California.
+Both allege that Facebook failed to protect their and additional potential class members data from going into wrong hands due to its lack of proper security practices.
+The social media giant has already been facing criticism on handling of user data and its privacy policies in the wake of the Cambridge Analytica scandal, in which personal data of 87 million Facebook users was sold to and misused by a data-mining firm without their consent.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Facebook has already reset account logins for tens of millions of users and is also advising affected users who had Instagram or Oculus accounts linked to their Facebook account to de-link and than link those accounts again so that the access tokens can be changed.
+The vulnerabilities exploited by the hackers are fixed, and Facebook is working with the FBI to investigate the security incident, which has impacted approximately 2.5% of Facebook users of its over 2 billion user base.
+Since the investigation is still in the early stages, Facebook has yet to determine whether the attackers misused the stolen access tokens for 50 million accounts or if any information was accessed.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

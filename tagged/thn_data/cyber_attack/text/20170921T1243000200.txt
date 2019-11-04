@@ -1,0 +1,19 @@
+SEC Discloses Hackers Broke Into Edgar Corporate Filing System Last Year
+Unknown
+
+This month has been full of breaches.
+Now, the Securities and Exchange Commission (SEC), the top U.S. markets regulator, has disclosed that hackers managed to hack into its financial document filing system and may have illegally profited from the stolen information.
+On Wednesday, the SEC announced that its officials learnt last month that a previously detected 2016 cyber attack, which exploited a "software vulnerability" in the online EDGAR public-company filing system, may have "provided the basis for illicit gain through trading."
+EDGAR, short for Electronic Data Gathering, Analysis, and Retrieval, is an online filing system where companies submit their financial filings, which processes around 1.7 million electronic filings a year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The database lists millions of filings on corporate disclosures—ranging from quarterly earnings to sensitive and confidential information on mergers and acquisitions, which could be used for insider-trading or manipulating U.S. equity markets.
+The hackers exploited the flaw last year in the EDGAR system, which was "patched promptly" after its discovery, to gain access to its corporate disclosure database and stole nonpublic information, SEC chairman Jay Clayton said in a long statement on Wednesday evening.
+"Notwithstanding our efforts to protect our systems and manage cybersecurity risk, in certain cases cyber threat actors have managed to access or misuse our systems," Clayton said. 
+"We believe the intrusion did not result in unauthorized access to personally identifiable information, jeopardize the operations of the Commission, or result in systemic risk." 
+Clayton further said the SEC is currently investigating the incident and is cooperating with law enforcement authorities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, SEC officials are also looking at cases of individuals who they believe placed false SEC filings on their EDGAR system in order to profit from the "resulting market movements."
+The SEC's disclosure comes two weeks after credit-reporting firm Equifax announced the company had been a victim of a hack that resulted in the theft of personal data on over 143 million Americans.
+Such incidents raise concerns about the security policies of these companies.
+As Reuters reported, months after the 2016 breach was detected, Government Accountability Office found that the SEC did not always use encryption, used unsupported software, and failed to implement well-tuned firewalls and other key security features while going about its business.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

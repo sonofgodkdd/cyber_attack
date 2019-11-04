@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+August 22, 2008
+Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported
+DENVER - A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States. This case was investigated by U.S. Immigration and Customs Enforcement (ICE) with support from the Drug Task Force.
+Salomon Renteria-Valdez, 61, was charged by Criminal Complaint on Feb. 26. He was indicted by a federal grand jury in Denver on March 12. He pleaded guilty before Chief Judge Nottingham on May 9. He was sentenced Aug. 21 to 46 months in prison by the Chief Judge.
+According to the indictment, as well as the stipulated facts contained in the plea agreement, on Jan. 24 Salomon Renteria-Valdez, a national of Mexico, was found in Montrose after having been deported on Aug. 30, 1996. Renteria-Valdez had been previously convicted in Mendocino County, California, of possessing a controlled substance for sale. He was also convicted in Los Angeles County, California, of conspiracy to sell/transport a controlled substance and attempted second degree robbery. In addition, Renteria-Valdez had prior convictions for alien smuggling (1978), and molesting children (1995).
+"We've increased prosecutions on the Western Slope over the past two years, and will keep prosecuting criminal aliens here and in every part of Colorado," said U.S. Attorney Troy Eid.
+"Significant sentences like this put essential teeth into U.S. immigration laws," said Jeffrey Copp, special agent in charge of the ICE Office of Investigations in Denver. "Aliens - especially criminal aliens like Renteria-Valdez - cannot re-enter the United States after being officially deported without suffering the severe consequences of their illegal actions." Copp oversees a four-state area, which includes: Colorado, Montana, Utah and Wyoming.
+Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado, prosecuted this case.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="17" end="142" text="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" TYPE="BAR" />
+<person id="p1" start="152" end="186" text="A former Montrose, Colo., resident" TYPE="NOM" />
+<person id="p2" start="218" end="270" text="Chief U.S. District Court Judge Edward W. Nottingham" TYPE="NAM" />
+<person id="p3" start="218" end="249" text="Chief U.S. District Court Judge" TYPE="NOMPRE" />
+<person id="p4" start="341" end="360" text="an aggravated felon" TYPE="NOM" />
+<person id="p5" start="501" end="528" text="Salomon Renteria-Valdez, 61" TYPE="NAM" />
+<person id="p6" start="576" end="578" text="He" TYPE="PRO" />
+<person id="p8" start="595" end="625" text="a federal grand jury in Denver" TYPE="NOM" />
+<person id="p7" start="639" end="641" text="He" TYPE="PRO" />
+<person id="p9" start="664" end="686" text="Chief Judge Nottingham" TYPE="NAM" />
+<person id="p10" start="664" end="675" text="Chief Judge" TYPE="NOMPRE" />
+<person id="p11" start="697" end="699" text="He" TYPE="PRO" />
+<person id="p12" start="748" end="763" text="the Chief Judge" TYPE="NOM" />
+<person id="p13" start="870" end="915" text="Salomon Renteria-Valdez, a national of Mexico" TYPE="APP" />
+<person id="p14" start="870" end="893" text="Salomon Renteria-Valdez" TYPE="NAM" />
+<person id="p15" start="895" end="915" text="a national of Mexico" TYPE="NOM" />
+<person id="p16" start="984" end="999" text="Renteria-Valdez" TYPE="NAM" />
+<person id="p17" start="1110" end="1112" text="He" TYPE="PRO" />
+<person id="p18" start="1272" end="1287" text="Renteria-Valdez" TYPE="NAM" />
+<person id="p19" start="1314" end="1319" text="alien" TYPE="NOMPRE" />
+<person id="p20" start="1352" end="1360" text="children" TYPE="BAR" />
+<person id="p21" start="1471" end="1521" text="criminal aliens here and in every part of Colorado" TYPE="BAR" />
+<person id="p22" start="1529" end="1551" text="U.S. Attorney Troy Eid" TYPE="NAM" />
+<person id="p23" start="1529" end="1542" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p24" start="1640" end="1723" text="Jeffrey Copp, special agent in charge of the ICE Office of Investigations in Denver" TYPE="APP" />
+<person id="p25" start="1640" end="1652" text="Jeffrey Copp" TYPE="NAM" />
+<person id="p26" start="1654" end="1723" text="special agent in charge of the ICE Office of Investigations in Denver" TYPE="BAR" />
+<person id="p27" start="1726" end="1782" text="Aliens - especially criminal aliens like Renteria-Valdez" TYPE="BAR" />
+<person id="p28" start="1746" end="1782" text="criminal aliens like Renteria-Valdez" TYPE="BAR" />
+<person id="p29" start="1767" end="1782" text="Renteria-Valdez" TYPE="NAM" />
+<person id="p30" start="1896" end="1901" text="their" TYPE="PRO" />
+<person id="p31" start="1920" end="1924" text="Copp" TYPE="NAM" />
+<person id="p32" start="2006" end="2081" text="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" TYPE="NAM" />
+<person id="p33" start="2006" end="2081" text="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" TYPE="NAM" />
+<person id="p34" start="2006" end="2030" text="Assistant U.S. Attorneys" TYPE="NOMPRE" />
+<organization id="o0" start="229" end="243" text="District Court" TYPE="NOMPRE" />
+<organization id="o1" start="415" end="460" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="457" end="460" text="ICE" TYPE="NAM" />
+<organization id="o3" start="480" end="499" text="the Drug Task Force" TYPE="NAM" />
+<organization id="o4" start="1370" end="1372" text="We" TYPE="PRO" />
+<organization id="o5" start="1681" end="1723" text="the ICE Office of Investigations in Denver" TYPE="NAM" />
+<organization id="o6" start="2061" end="2081" text="District of Colorado" TYPE="NAM" />
+<geographical-political id="g0" start="104" end="110" text="the US" TYPE="NAM" />
+<geographical-political id="g1" start="143" end="149" text="DENVER" TYPE="NAM" />
+<geographical-political id="g2" start="161" end="175" text="Montrose, Colo" TYPE="NAM" />
+<geographical-political id="g3" start="171" end="175" text="Colo" TYPE="NAM" />
+<geographical-political id="g5" start="224" end="227" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g6" start="366" end="383" text="the United States" TYPE="NAM" />
+<geographical-political id="g7" start="619" end="625" text="Denver" TYPE="NAM" />
+<geographical-political id="g4" start="909" end="915" text="Mexico" TYPE="NAM" />
+<geographical-political id="g8" start="930" end="938" text="Montrose" TYPE="NAM" />
+<geographical-political id="g9" start="1033" end="1061" text="Mendocino County, California" TYPE="NAM" />
+<geographical-political id="g10" start="1051" end="1061" text="California" TYPE="NAM" />
+<geographical-political id="g11" start="1135" end="1165" text="Los Angeles County, California" TYPE="NAM" />
+<geographical-political id="g12" start="1155" end="1165" text="California" TYPE="NAM" />
+<geographical-political id="g13" start="1513" end="1521" text="Colorado" TYPE="NAM" />
+<geographical-political id="g14" start="1529" end="1532" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1611" end="1614" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g16" start="1717" end="1723" text="Denver" TYPE="NAM" />
+<geographical-political id="g17" start="1801" end="1818" text="the United States" TYPE="NAM" />
+<geographical-political id="g18" start="1941" end="1946" text="state" TYPE="NOMPRE" />
+<geographical-political id="g19" start="1969" end="1977" text="Colorado" TYPE="NAM" />
+<geographical-political id="g20" start="1979" end="1986" text="Montana" TYPE="NAM" />
+<geographical-political id="g21" start="1988" end="1992" text="Utah" TYPE="NAM" />
+<geographical-political id="g22" start="1997" end="2004" text="Wyoming" TYPE="NAM" />
+<geographical-political id="g23" start="2016" end="2019" text="U.S" TYPE="NAMPRE" />
+<location id="l0" start="201" end="205" text="here" TYPE="PRO" />
+<location id="l1" start="1402" end="1419" text="the Western Slope" TYPE="NAM" />
+<location id="l2" start="1487" end="1491" text="here" TYPE="PRO" />
+<location id="l3" start="1499" end="1521" text="every part of Colorado" TYPE="NOM" />
+<location id="l4" start="1934" end="2004" text="a four-state area, which includes: Colorado, Montana, Utah and Wyoming" TYPE="NOM" />
+<location id="l5" start="1953" end="1958" text="which" TYPE="WHQ" />
+<falicity id="f0" start="62" end="76" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="301" end="315" text="federal prison" TYPE="BAR" />
+<falicity id="f2" start="738" end="744" text="prison" TYPE="BAR" />
+<head id="h0" start="25" end="30" text="alien" />
+<head id="h1" start="70" end="76" text="prison" />
+<head id="h2" start="108" end="110" text="US" />
+<head id="h3" start="143" end="149" text="DENVER" />
+<head id="h4" start="178" end="186" text="resident" />
+<head id="h5" start="161" end="169" text="Montrose" />
+<head id="h6" start="171" end="175" text="Colo" />
+<head id="h7" start="201" end="205" text="here" />
+<head id="h8" start="250" end="270" text="Edward W. Nottingham" />
+<head id="h9" start="244" end="249" text="Judge" />
+<head id="h10" start="238" end="243" text="Court" />
+<head id="h11" start="224" end="227" text="U.S" />
+<head id="h12" start="309" end="315" text="prison" />
+<head id="h13" start="355" end="360" text="felon" />
+<head id="h14" start="370" end="383" text="United States" />
+<head id="h15" start="415" end="455" text="U.S. Immigration and Customs Enforcement" />
+<head id="h16" start="457" end="460" text="ICE" />
+<head id="h17" start="484" end="499" text="Drug Task Force" />
+<head id="h18" start="501" end="524" text="Salomon Renteria-Valdez" />
+<head id="h19" start="576" end="578" text="He" />
+<head id="h20" start="611" end="615" text="jury" />
+<head id="h21" start="619" end="625" text="Denver" />
+<head id="h22" start="639" end="641" text="He" />
+<head id="h23" start="676" end="686" text="Nottingham" />
+<head id="h24" start="670" end="675" text="Judge" />
+<head id="h25" start="697" end="699" text="He" />
+<head id="h26" start="738" end="744" text="prison" />
+<head id="h27" start="758" end="763" text="Judge" />
+<head id="h28" start="870" end="893" text="Salomon Renteria-Valdez" />
+<head id="h29" start="897" end="905" text="national" />
+<head id="h30" start="909" end="915" text="Mexico" />
+<head id="h31" start="930" end="938" text="Montrose" />
+<head id="h32" start="984" end="999" text="Renteria-Valdez" />
+<head id="h33" start="1033" end="1049" text="Mendocino County" />
+<head id="h34" start="1051" end="1061" text="California" />
+<head id="h35" start="1110" end="1112" text="He" />
+<head id="h36" start="1135" end="1153" text="Los Angeles County" />
+<head id="h37" start="1155" end="1165" text="California" />
+<head id="h38" start="1272" end="1287" text="Renteria-Valdez" />
+<head id="h39" start="1314" end="1319" text="alien" />
+<head id="h40" start="1352" end="1360" text="children" />
+<head id="h41" start="1370" end="1372" text="We" />
+<head id="h42" start="1406" end="1419" text="Western Slope" />
+<head id="h43" start="1480" end="1486" text="aliens" />
+<head id="h44" start="1487" end="1491" text="here" />
+<head id="h45" start="1505" end="1509" text="part" />
+<head id="h46" start="1513" end="1521" text="Colorado" />
+<head id="h47" start="1543" end="1551" text="Troy Eid" />
+<head id="h48" start="1534" end="1542" text="Attorney" />
+<head id="h49" start="1529" end="1532" text="U.S" />
+<head id="h50" start="1611" end="1614" text="U.S" />
+<head id="h51" start="1640" end="1652" text="Jeffrey Copp" />
+<head id="h52" start="1662" end="1667" text="agent" />
+<head id="h53" start="1685" end="1713" text="ICE Office of Investigations" />
+<head id="h54" start="1717" end="1723" text="Denver" />
+<head id="h55" start="1726" end="1732" text="Aliens" />
+<head id="h56" start="1755" end="1761" text="aliens" />
+<head id="h57" start="1767" end="1782" text="Renteria-Valdez" />
+<head id="h58" start="1805" end="1818" text="United States" />
+<head id="h59" start="1896" end="1901" text="their" />
+<head id="h60" start="1920" end="1924" text="Copp" />
+<head id="h61" start="1947" end="1951" text="area" />
+<head id="h62" start="1941" end="1946" text="state" />
+<head id="h63" start="1969" end="1977" text="Colorado" />
+<head id="h64" start="1953" end="1958" text="which" />
+<head id="h65" start="1979" end="1986" text="Montana" />
+<head id="h66" start="1988" end="1992" text="Utah" />
+<head id="h67" start="1997" end="2004" text="Wyoming" />
+<head id="h68" start="2031" end="2043" text="Wyatt Angelo" />
+<head id="h69" start="2048" end="2059" text="Dave Conner" />
+<head id="h70" start="2021" end="2030" text="Attorneys" />
+<head id="h71" start="2016" end="2019" text="U.S" />
+<head id="h72" start="2061" end="2081" text="District of Colorado" />
+<name id="n0" start="108" end="110" text="US" />
+<name id="n1" start="143" end="149" text="DENVER" />
+<name id="n2" start="161" end="169" text="Montrose" />
+<name id="n3" start="171" end="175" text="Colo" />
+<name id="n4" start="250" end="270" text="Edward W. Nottingham" />
+<name id="n5" start="224" end="227" text="U.S" />
+<name id="n6" start="370" end="383" text="United States" />
+<name id="n7" start="415" end="455" text="U.S. Immigration and Customs Enforcement" />
+<name id="n8" start="457" end="460" text="ICE" />
+<name id="n9" start="484" end="499" text="Drug Task Force" />
+<name id="n10" start="501" end="524" text="Salomon Renteria-Valdez" />
+<name id="n11" start="619" end="625" text="Denver" />
+<name id="n12" start="676" end="686" text="Nottingham" />
+<name id="n13" start="870" end="893" text="Salomon Renteria-Valdez" />
+<name id="n14" start="909" end="915" text="Mexico" />
+<name id="n15" start="930" end="938" text="Montrose" />
+<name id="n16" start="984" end="999" text="Renteria-Valdez" />
+<name id="n17" start="1033" end="1049" text="Mendocino County" />
+<name id="n18" start="1051" end="1061" text="California" />
+<name id="n19" start="1135" end="1153" text="Los Angeles County" />
+<name id="n20" start="1155" end="1165" text="California" />
+<name id="n21" start="1272" end="1287" text="Renteria-Valdez" />
+<name id="n22" start="1406" end="1419" text="Western Slope" />
+<name id="n23" start="1513" end="1521" text="Colorado" />
+<name id="n24" start="1543" end="1551" text="Troy Eid" />
+<name id="n25" start="1529" end="1532" text="U.S" />
+<name id="n26" start="1611" end="1614" text="U.S" />
+<name id="n27" start="1640" end="1652" text="Jeffrey Copp" />
+<name id="n28" start="1685" end="1713" text="ICE Office of Investigations" />
+<name id="n29" start="1717" end="1723" text="Denver" />
+<name id="n30" start="1767" end="1782" text="Renteria-Valdez" />
+<name id="n31" start="1805" end="1818" text="United States" />
+<name id="n32" start="1920" end="1924" text="Copp" />
+<name id="n33" start="1969" end="1977" text="Colorado" />
+<name id="n34" start="1979" end="1986" text="Montana" />
+<name id="n35" start="1988" end="1992" text="Utah" />
+<name id="n36" start="1997" end="2004" text="Wyoming" />
+<name id="n37" start="2031" end="2043" text="Wyatt Angelo" />
+<name id="n38" start="2048" end="2059" text="Dave Conner" />
+<name id="n39" start="2016" end="2019" text="U.S" />
+<name id="n40" start="2061" end="2081" text="District of Colorado" />
+<located-mention id="lo0" start="17" end="142" text="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" TYPE="Other" />
+<located-mention id="lo1" start="152" end="383" text="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" TYPE="Other" />
+<located-mention id="lo2" start="595" end="625" text="a federal grand jury in Denver" TYPE="Preposition" />
+<located-mention id="lo3" start="152" end="383" text="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" TYPE="Verbal" />
+<located-mention id="lo4" start="152" end="383" text="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" TYPE="Other" />
+<located-mention id="lo5" start="765" end="982" text="According to the indictment, as well as the stipulated facts contained in the plea agreement, on Jan. 24 Salomon Renteria-Valdez, a national of Mexico, was found in Montrose after having been deported on Aug. 30, 1996" TYPE="Other" />
+<located-mention id="lo6" start="984" end="1108" text="Renteria-Valdez had been previously convicted in Mendocino County, California, of possessing a controlled substance for sale" TYPE="Other" />
+<located-mention id="lo7" start="1110" end="1257" text="He was also convicted in Los Angeles County, California, of conspiracy to sell/transport a controlled substance and attempted second degree robbery" TYPE="Other" />
+<located-mention id="lo8" start="1471" end="1521" text="criminal aliens here and in every part of Colorado" TYPE="Formulaic" />
+<located-mention id="lo9" start="1471" end="1521" text="criminal aliens here and in every part of Colorado" TYPE="Preposition" />
+<employment-mention id="e0" start="218" end="249" text="Chief U.S. District Court Judge" TYPE="PreMod" />
+<employment-mention id="e1" start="1529" end="1542" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="2006" end="2030" text="Assistant U.S. Attorneys" TYPE="PreMod" />
+<CRRE id="C0" start="152" end="186" text="A former Montrose, Colo., resident" TYPE="PreMod" />
+<CRRE id="C1" start="895" end="915" text="a national of Mexico" TYPE="Preposition" />
+<M id="M0" start="218" end="249" text="Chief U.S. District Court Judge" TYPE="PreMod" />
+<M id="M1" start="1654" end="1723" text="special agent in charge of the ICE Office of Investigations in Denver" TYPE="Preposition" />
+<M id="M2" start="2006" end="2081" text="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" TYPE="Formulaic" />
+<M id="M3" start="2006" end="2081" text="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" TYPE="Formulaic" />
+<entity_link id="en0" fromID="p1" fromText="A former Montrose, Colo., resident" toID="p0" toText="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" />
+<entity_link id="en2" fromID="g5" fromText="U.S" toID="g0" toText="the US" />
+<entity_link id="en3" fromID="p3" fromText="Chief U.S. District Court Judge" toID="p2" toText="Chief U.S. District Court Judge Edward W. Nottingham" />
+<entity_link id="en4" fromID="f1" fromText="federal prison" toID="f0" toText="federal prison" />
+<entity_link id="en5" fromID="p4" fromText="an aggravated felon" toID="p1" toText="A former Montrose, Colo., resident" />
+<entity_link id="en6" fromID="g6" fromText="the United States" toID="g5" toText="U.S" />
+<entity_link id="en7" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en8" fromID="p5" fromText="Salomon Renteria-Valdez, 61" toID="p1" toText="A former Montrose, Colo., resident" />
+<entity_link id="en9" fromID="p6" fromText="He" toID="p5" toText="Salomon Renteria-Valdez, 61" />
+<entity_link id="en10" fromID="g7" fromText="Denver" toID="g1" toText="DENVER" />
+<entity_link id="en11" fromID="p7" fromText="He" toID="p5" toText="Salomon Renteria-Valdez, 61" />
+<entity_link id="en12" fromID="p9" fromText="Chief Judge Nottingham" toID="p2" toText="Chief U.S. District Court Judge Edward W. Nottingham" />
+<entity_link id="en13" fromID="p10" fromText="Chief Judge" toID="p9" toText="Chief Judge Nottingham" />
+<entity_link id="en14" fromID="p11" fromText="He" toID="p7" toText="He" />
+<entity_link id="en15" fromID="p12" fromText="the Chief Judge" toID="p9" toText="Chief Judge Nottingham" />
+<entity_link id="en16" fromID="p14" fromText="Salomon Renteria-Valdez" toID="p13" toText="Salomon Renteria-Valdez, a national of Mexico" />
+<entity_link id="en17" fromID="p14" fromText="Salomon Renteria-Valdez" toID="p5" toText="Salomon Renteria-Valdez, 61" />
+<entity_link id="en18" fromID="p15" fromText="a national of Mexico" toID="p14" toText="Salomon Renteria-Valdez" />
+<entity_link id="en19" fromID="g8" fromText="Montrose" toID="g2" toText="Montrose, Colo" />
+<entity_link id="en20" fromID="p16" fromText="Renteria-Valdez" toID="p14" toText="Salomon Renteria-Valdez" />
+<entity_link id="en21" fromID="p17" fromText="He" toID="p16" toText="Renteria-Valdez" />
+<entity_link id="en22" fromID="g12" fromText="California" toID="g10" toText="California" />
+<entity_link id="en23" fromID="p18" fromText="Renteria-Valdez" toID="p16" toText="Renteria-Valdez" />
+<entity_link id="en24" fromID="l2" fromText="here" toID="l1" toText="the Western Slope" />
+<entity_link id="en25" fromID="g13" fromText="Colorado" toID="g3" toText="Colo" />
+<entity_link id="en26" fromID="p23" fromText="U.S. Attorney" toID="p22" toText="U.S. Attorney Troy Eid" />
+<entity_link id="en27" fromID="g14" fromText="U.S" toID="g6" toText="the United States" />
+<entity_link id="en28" fromID="g15" fromText="U.S" toID="g14" toText="U.S" />
+<entity_link id="en29" fromID="p25" fromText="Jeffrey Copp" toID="p24" toText="Jeffrey Copp, special agent in charge of the ICE Office of Investigations in Denver" />
+<entity_link id="en30" fromID="p26" fromText="special agent in charge of the ICE Office of Investigations in Denver" toID="p25" toText="Jeffrey Copp" />
+<entity_link id="en31" fromID="g16" fromText="Denver" toID="g7" toText="Denver" />
+<entity_link id="en32" fromID="p29" fromText="Renteria-Valdez" toID="p18" toText="Renteria-Valdez" />
+<entity_link id="en33" fromID="g17" fromText="the United States" toID="g15" toText="U.S" />
+<entity_link id="en34" fromID="p30" fromText="their" toID="p27" toText="Aliens - especially criminal aliens like Renteria-Valdez" />
+<entity_link id="en35" fromID="p31" fromText="Copp" toID="p25" toText="Jeffrey Copp" />
+<entity_link id="en36" fromID="g19" fromText="Colorado" toID="g13" toText="Colorado" />
+<entity_link id="en37" fromID="l5" fromText="which" toID="l4" toText="a four-state area, which includes: Colorado, Montana, Utah and Wyoming" />
+<entity_link id="en1" fromID="g23" fromText="U.S" toID="g17" toText="the United States" />
+<head_link id="he0" fromID="p0" fromText="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" toID="h0" toText="alien" />
+<head_link id="he1" fromID="f0" fromText="federal prison" toID="h1" toText="prison" />
+<head_link id="he2" fromID="g0" fromText="the US" toID="h2" toText="US" />
+<head_link id="he3" fromID="g1" fromText="DENVER" toID="h3" toText="DENVER" />
+<head_link id="he4" fromID="p1" fromText="A former Montrose, Colo., resident" toID="h4" toText="resident" />
+<head_link id="he5" fromID="g2" fromText="Montrose, Colo" toID="h5" toText="Montrose" />
+<head_link id="he6" fromID="g3" fromText="Colo" toID="h6" toText="Colo" />
+<head_link id="he8" fromID="p2" fromText="Chief U.S. District Court Judge Edward W. Nottingham" toID="h8" toText="Edward W. Nottingham" />
+<head_link id="he9" fromID="p3" fromText="Chief U.S. District Court Judge" toID="h9" toText="Judge" />
+<head_link id="he10" fromID="o0" fromText="District Court" toID="h10" toText="Court" />
+<head_link id="he11" fromID="g5" fromText="U.S" toID="h11" toText="U.S" />
+<head_link id="he12" fromID="f1" fromText="federal prison" toID="h12" toText="prison" />
+<head_link id="he13" fromID="p4" fromText="an aggravated felon" toID="h13" toText="felon" />
+<head_link id="he14" fromID="g6" fromText="the United States" toID="h14" toText="United States" />
+<head_link id="he15" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h15" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he16" fromID="o2" fromText="ICE" toID="h16" toText="ICE" />
+<head_link id="he17" fromID="o3" fromText="the Drug Task Force" toID="h17" toText="Drug Task Force" />
+<head_link id="he18" fromID="p5" fromText="Salomon Renteria-Valdez, 61" toID="h18" toText="Salomon Renteria-Valdez" />
+<head_link id="he19" fromID="p6" fromText="He" toID="h19" toText="He" />
+<head_link id="he21" fromID="p8" fromText="a federal grand jury in Denver" toID="h20" toText="jury" />
+<head_link id="he22" fromID="g7" fromText="Denver" toID="h21" toText="Denver" />
+<head_link id="he20" fromID="l0" fromText="here" toID="h7" toText="here" />
+<head_link id="he23" fromID="p7" fromText="He" toID="h22" toText="He" />
+<head_link id="he24" fromID="p9" fromText="Chief Judge Nottingham" toID="h23" toText="Nottingham" />
+<head_link id="he25" fromID="p10" fromText="Chief Judge" toID="h24" toText="Judge" />
+<head_link id="he26" fromID="p11" fromText="He" toID="h25" toText="He" />
+<head_link id="he27" fromID="f2" fromText="prison" toID="h26" toText="prison" />
+<head_link id="he28" fromID="p12" fromText="the Chief Judge" toID="h27" toText="Judge" />
+<head_link id="he29" fromID="p14" fromText="Salomon Renteria-Valdez" toID="h28" toText="Salomon Renteria-Valdez" />
+<head_link id="he30" fromID="p15" fromText="a national of Mexico" toID="h29" toText="national" />
+<head_link id="he31" fromID="g4" fromText="Mexico" toID="h30" toText="Mexico" />
+<head_link id="he32" fromID="g8" fromText="Montrose" toID="h31" toText="Montrose" />
+<head_link id="he33" fromID="p16" fromText="Renteria-Valdez" toID="h32" toText="Renteria-Valdez" />
+<head_link id="he34" fromID="g9" fromText="Mendocino County, California" toID="h33" toText="Mendocino County" />
+<head_link id="he35" fromID="g10" fromText="California" toID="h34" toText="California" />
+<head_link id="he36" fromID="p17" fromText="He" toID="h35" toText="He" />
+<head_link id="he37" fromID="g11" fromText="Los Angeles County, California" toID="h36" toText="Los Angeles County" />
+<head_link id="he38" fromID="g12" fromText="California" toID="h37" toText="California" />
+<head_link id="he39" fromID="p18" fromText="Renteria-Valdez" toID="h38" toText="Renteria-Valdez" />
+<head_link id="he40" fromID="p19" fromText="alien" toID="h39" toText="alien" />
+<head_link id="he41" fromID="p20" fromText="children" toID="h40" toText="children" />
+<head_link id="he42" fromID="o4" fromText="We" toID="h41" toText="We" />
+<head_link id="he43" fromID="l1" fromText="the Western Slope" toID="h42" toText="Western Slope" />
+<head_link id="he44" fromID="p21" fromText="criminal aliens here and in every part of Colorado" toID="h43" toText="aliens" />
+<head_link id="he45" fromID="l2" fromText="here" toID="h44" toText="here" />
+<head_link id="he46" fromID="l3" fromText="every part of Colorado" toID="h45" toText="part" />
+<head_link id="he47" fromID="g13" fromText="Colorado" toID="h46" toText="Colorado" />
+<head_link id="he48" fromID="p22" fromText="U.S. Attorney Troy Eid" toID="h47" toText="Troy Eid" />
+<head_link id="he49" fromID="p23" fromText="U.S. Attorney" toID="h48" toText="Attorney" />
+<head_link id="he50" fromID="g14" fromText="U.S" toID="h49" toText="U.S" />
+<head_link id="he51" fromID="g15" fromText="U.S" toID="h50" toText="U.S" />
+<head_link id="he52" fromID="p25" fromText="Jeffrey Copp" toID="h51" toText="Jeffrey Copp" />
+<head_link id="he53" fromID="p26" fromText="special agent in charge of the ICE Office of Investigations in Denver" toID="h52" toText="agent" />
+<head_link id="he54" fromID="o5" fromText="the ICE Office of Investigations in Denver" toID="h53" toText="ICE Office of Investigations" />
+<head_link id="he55" fromID="g16" fromText="Denver" toID="h54" toText="Denver" />
+<head_link id="he56" fromID="p27" fromText="Aliens - especially criminal aliens like Renteria-Valdez" toID="h55" toText="Aliens" />
+<head_link id="he57" fromID="p28" fromText="criminal aliens like Renteria-Valdez" toID="h56" toText="aliens" />
+<head_link id="he58" fromID="p29" fromText="Renteria-Valdez" toID="h57" toText="Renteria-Valdez" />
+<head_link id="he59" fromID="g17" fromText="the United States" toID="h58" toText="United States" />
+<head_link id="he60" fromID="p30" fromText="their" toID="h59" toText="their" />
+<head_link id="he61" fromID="p31" fromText="Copp" toID="h60" toText="Copp" />
+<head_link id="he62" fromID="l4" fromText="a four-state area, which includes: Colorado, Montana, Utah and Wyoming" toID="h61" toText="area" />
+<head_link id="he63" fromID="g18" fromText="state" toID="h62" toText="state" />
+<head_link id="he64" fromID="g19" fromText="Colorado" toID="h63" toText="Colorado" />
+<head_link id="he65" fromID="l5" fromText="which" toID="h64" toText="which" />
+<head_link id="he66" fromID="g20" fromText="Montana" toID="h65" toText="Montana" />
+<head_link id="he7" fromID="g21" fromText="Utah" toID="h66" toText="Utah" />
+<head_link id="he67" fromID="g22" fromText="Wyoming" toID="h67" toText="Wyoming" />
+<head_link id="he68" fromID="p32" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="h68" toText="Wyatt Angelo" />
+<head_link id="he69" fromID="p33" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="h69" toText="Dave Conner" />
+<head_link id="he70" fromID="p34" fromText="Assistant U.S. Attorneys" toID="h70" toText="Attorneys" />
+<head_link id="he71" fromID="g23" fromText="U.S" toID="h71" toText="U.S" />
+<head_link id="he72" fromID="o6" fromText="District of Colorado" toID="h72" toText="District of Colorado" />
+<name_link id="na0" fromID="g0" fromText="the US" toID="n0" toText="US" />
+<name_link id="na1" fromID="g1" fromText="DENVER" toID="n1" toText="DENVER" />
+<name_link id="na2" fromID="g2" fromText="Montrose, Colo" toID="n2" toText="Montrose" />
+<name_link id="na3" fromID="g3" fromText="Colo" toID="n3" toText="Colo" />
+<name_link id="na4" fromID="p2" fromText="Chief U.S. District Court Judge Edward W. Nottingham" toID="n4" toText="Edward W. Nottingham" />
+<name_link id="na5" fromID="g5" fromText="U.S" toID="n5" toText="U.S" />
+<name_link id="na6" fromID="g6" fromText="the United States" toID="n6" toText="United States" />
+<name_link id="na7" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n7" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na8" fromID="o2" fromText="ICE" toID="n8" toText="ICE" />
+<name_link id="na9" fromID="o3" fromText="the Drug Task Force" toID="n9" toText="Drug Task Force" />
+<name_link id="na10" fromID="p5" fromText="Salomon Renteria-Valdez, 61" toID="n10" toText="Salomon Renteria-Valdez" />
+<name_link id="na11" fromID="g7" fromText="Denver" toID="n11" toText="Denver" />
+<name_link id="na12" fromID="p9" fromText="Chief Judge Nottingham" toID="n12" toText="Nottingham" />
+<name_link id="na13" fromID="p14" fromText="Salomon Renteria-Valdez" toID="n13" toText="Salomon Renteria-Valdez" />
+<name_link id="na14" fromID="g4" fromText="Mexico" toID="n14" toText="Mexico" />
+<name_link id="na15" fromID="g8" fromText="Montrose" toID="n15" toText="Montrose" />
+<name_link id="na16" fromID="p16" fromText="Renteria-Valdez" toID="n16" toText="Renteria-Valdez" />
+<name_link id="na17" fromID="g9" fromText="Mendocino County, California" toID="n17" toText="Mendocino County" />
+<name_link id="na18" fromID="g10" fromText="California" toID="n18" toText="California" />
+<name_link id="na19" fromID="g11" fromText="Los Angeles County, California" toID="n19" toText="Los Angeles County" />
+<name_link id="na20" fromID="g12" fromText="California" toID="n20" toText="California" />
+<name_link id="na21" fromID="p18" fromText="Renteria-Valdez" toID="n21" toText="Renteria-Valdez" />
+<name_link id="na22" fromID="l1" fromText="the Western Slope" toID="n22" toText="Western Slope" />
+<name_link id="na23" fromID="g13" fromText="Colorado" toID="n23" toText="Colorado" />
+<name_link id="na24" fromID="p22" fromText="U.S. Attorney Troy Eid" toID="n24" toText="Troy Eid" />
+<name_link id="na25" fromID="g14" fromText="U.S" toID="n25" toText="U.S" />
+<name_link id="na26" fromID="g15" fromText="U.S" toID="n26" toText="U.S" />
+<name_link id="na27" fromID="p25" fromText="Jeffrey Copp" toID="n27" toText="Jeffrey Copp" />
+<name_link id="na28" fromID="o5" fromText="the ICE Office of Investigations in Denver" toID="n28" toText="ICE Office of Investigations" />
+<name_link id="na29" fromID="g16" fromText="Denver" toID="n29" toText="Denver" />
+<name_link id="na30" fromID="p29" fromText="Renteria-Valdez" toID="n30" toText="Renteria-Valdez" />
+<name_link id="na31" fromID="g17" fromText="the United States" toID="n31" toText="United States" />
+<name_link id="na32" fromID="p31" fromText="Copp" toID="n32" toText="Copp" />
+<name_link id="na33" fromID="g19" fromText="Colorado" toID="n33" toText="Colorado" />
+<name_link id="na34" fromID="g20" fromText="Montana" toID="n34" toText="Montana" />
+<name_link id="na35" fromID="g21" fromText="Utah" toID="n35" toText="Utah" />
+<name_link id="na36" fromID="g22" fromText="Wyoming" toID="n36" toText="Wyoming" />
+<name_link id="na37" fromID="p32" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="n37" toText="Wyatt Angelo" />
+<name_link id="na38" fromID="p33" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="n38" toText="Dave Conner" />
+<name_link id="na39" fromID="g23" fromText="U.S" toID="n39" toText="U.S" />
+<name_link id="na40" fromID="o6" fromText="District of Colorado" toID="n40" toText="District of Colorado" />
+<relation_link1 id="r0" fromID="lo0" fromText="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" toID="p0" toText="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" />
+<relation_link1 id="r1" fromID="C0" fromText="A former Montrose, Colo., resident" toID="p1" toText="A former Montrose, Colo., resident" />
+<relation_link1 id="r2" fromID="M0" fromText="Chief U.S. District Court Judge" toID="p3" toText="Chief U.S. District Court Judge" />
+<relation_link1 id="r3" fromID="e0" fromText="Chief U.S. District Court Judge" toID="p3" toText="Chief U.S. District Court Judge" />
+<relation_link1 id="r5" fromID="lo2" fromText="a federal grand jury in Denver" toID="p8" toText="a federal grand jury in Denver" />
+<relation_link1 id="r6" fromID="lo1" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="p4" toText="an aggravated felon" />
+<relation_link1 id="r7" fromID="lo3" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="p1" toText="A former Montrose, Colo., resident" />
+<relation_link1 id="r8" fromID="lo4" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="p2" toText="Chief U.S. District Court Judge Edward W. Nottingham" />
+<relation_link1 id="r9" fromID="C1" fromText="a national of Mexico" toID="p15" toText="a national of Mexico" />
+<relation_link1 id="r10" fromID="lo5" fromText="According to the indictment, as well as the stipulated facts contained in the plea agreement, on Jan. 24 Salomon Renteria-Valdez, a national of Mexico, was found in Montrose after having been deported on Aug. 30, 1996" toID="p14" toText="Salomon Renteria-Valdez" />
+<relation_link1 id="r11" fromID="lo6" fromText="Renteria-Valdez had been previously convicted in Mendocino County, California, of possessing a controlled substance for sale" toID="p16" toText="Renteria-Valdez" />
+<relation_link1 id="r12" fromID="lo7" fromText="He was also convicted in Los Angeles County, California, of conspiracy to sell/transport a controlled substance and attempted second degree robbery" toID="p17" toText="He" />
+<relation_link1 id="r13" fromID="lo8" fromText="criminal aliens here and in every part of Colorado" toID="p21" toText="criminal aliens here and in every part of Colorado" />
+<relation_link1 id="r14" fromID="lo9" fromText="criminal aliens here and in every part of Colorado" toID="p21" toText="criminal aliens here and in every part of Colorado" />
+<relation_link1 id="r15" fromID="e1" fromText="U.S. Attorney" toID="p23" toText="U.S. Attorney" />
+<relation_link1 id="r16" fromID="M1" fromText="special agent in charge of the ICE Office of Investigations in Denver" toID="p26" toText="special agent in charge of the ICE Office of Investigations in Denver" />
+<relation_link1 id="r4" fromID="e2" fromText="Assistant U.S. Attorneys" toID="p34" toText="Assistant U.S. Attorneys" />
+<relation_link1 id="r17" fromID="M2" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="p32" toText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" />
+<relation_link1 id="r18" fromID="M3" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="p33" toText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" />
+<relation_link2 id="re0" fromID="lo0" fromText="Illegal alien sentenced to almost 4 years in federal prison for unlawfully re-entering the US after being previously deported" toID="g0" toText="the US" />
+<relation_link2 id="re1" fromID="C0" fromText="A former Montrose, Colo., resident" toID="g2" toText="Montrose, Colo" />
+<relation_link2 id="re2" fromID="M0" fromText="Chief U.S. District Court Judge" toID="o0" toText="District Court" />
+<relation_link2 id="re3" fromID="e0" fromText="Chief U.S. District Court Judge" toID="g5" toText="U.S" />
+<relation_link2 id="re4" fromID="lo1" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="g6" toText="the United States" />
+<relation_link2 id="re5" fromID="lo2" fromText="a federal grand jury in Denver" toID="g7" toText="Denver" />
+<relation_link2 id="re6" fromID="lo3" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="l0" toText="here" />
+<relation_link2 id="re7" fromID="lo4" fromText="A former Montrose, Colo., resident was sentenced here Thursday by Chief U.S. District Court Judge Edward W. Nottingham to serve almost four years in federal prison for unlawful re-entry of an aggravated felon into the United States" toID="l0" toText="here" />
+<relation_link2 id="re8" fromID="C1" fromText="a national of Mexico" toID="g4" toText="Mexico" />
+<relation_link2 id="re9" fromID="lo5" fromText="According to the indictment, as well as the stipulated facts contained in the plea agreement, on Jan. 24 Salomon Renteria-Valdez, a national of Mexico, was found in Montrose after having been deported on Aug. 30, 1996" toID="g8" toText="Montrose" />
+<relation_link2 id="re10" fromID="lo6" fromText="Renteria-Valdez had been previously convicted in Mendocino County, California, of possessing a controlled substance for sale" toID="g9" toText="Mendocino County, California" />
+<relation_link2 id="re11" fromID="lo7" fromText="He was also convicted in Los Angeles County, California, of conspiracy to sell/transport a controlled substance and attempted second degree robbery" toID="g11" toText="Los Angeles County, California" />
+<relation_link2 id="re12" fromID="lo8" fromText="criminal aliens here and in every part of Colorado" toID="l2" toText="here" />
+<relation_link2 id="re13" fromID="lo9" fromText="criminal aliens here and in every part of Colorado" toID="l3" toText="every part of Colorado" />
+<relation_link2 id="re14" fromID="e1" fromText="U.S. Attorney" toID="g14" toText="U.S" />
+<relation_link2 id="re15" fromID="M1" fromText="special agent in charge of the ICE Office of Investigations in Denver" toID="o5" toText="the ICE Office of Investigations in Denver" />
+<relation_link2 id="re16" fromID="e2" fromText="Assistant U.S. Attorneys" toID="g23" toText="U.S" />
+<relation_link2 id="re19" fromID="M2" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="o6" toText="District of Colorado" />
+<relation_link2 id="re20" fromID="M3" fromText="Assistant U.S. Attorneys Wyatt Angelo and Dave Conner, District of Colorado" toID="o6" toText="District of Colorado" />
+</TAGS>
+</KddTask>

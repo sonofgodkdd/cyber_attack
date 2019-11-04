@@ -1,0 +1,17 @@
+DailyMotion Hacked — 85 Million User Accounts Stolen
+Swati Khandelwal
+
+Another day, another data breach.
+This time a popular video sharing platform DailyMotion has allegedly been hacked and tens of millions of users information have been stolen.
+Breach notification service LeakedSource announced the data breach on Monday after the company obtained 85.2 Million records from Dailymotion.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to LeakedSource, the DailyMotion data breach appears to have taken place on October 20, 2016, which means it is possible that hackers have been circulating the data for over a month.
+The stolen data consists of 85.2 Million unique email addresses and usernames and around 20 percent of the accounts (more than 18 Million users) had hashed passwords tied to them.
+The passwords were protected using the Bcrypt hashing algorithm with ten rounds of rekeying, making it difficult for hackers to obtain user's actual password.
+Bcrypt is a cryptographic algorithm that makes the hashing process so slow that it would literally take centuries to actual brute-force password of a user.
+ZDNet received a sample of the stolen data and confirmed that the data came from the Dailymotion website, but representatives for Vivendi, the majority owner of Dailymotion did not yet respond to any comments.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If you are one of the 18 million DailyMotion users who had their hashed password leaked, you are advised to change your password on the entertainment website as well as on others where you have reused your password.
+LeakedSource has added the DailyMotion stolen data to its search index, so you can check if your account has been affected.
+Also use a good password manager to create complex passwords for different sites as well as remember them. We have listed some good password managers that could help you understand the importance of password manager and choose one according to your requirement.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

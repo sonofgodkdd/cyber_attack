@@ -1,0 +1,18 @@
+US Identifies 6 Russian Government Officials Involved In DNC Hack
+Swati Khandelwal
+
+The United States Department of Justice has reportedly gathered enough evidence to charge at least six Russian government officials for allegedly playing a role in hacking DNC systems and leaking information during the 2016 presidential race.
+Earlier this year, US intelligence agencies concluded that the Russian government was behind the hack and expose of the Democratic National Committee (DNC) emails in order to influence the 2016 presidential election in Donald Trump's favour.
+Now, citing people familiar with the investigation, the Wall Street Journal reported on Thursday that United States federal prosecutors could bring charges against the alleged unnamed Russian officials early next year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The US federal intelligence investigators also believe that "dozens" of other Russian officials may have also participated in the DNC hack, which was allegedly ordered by Russian President Vladimir Putin himself.
+However, both Putin and Russian government officials have denied allegations.
+The DNC computer system hack last year led to thousands of stolen DNC emails, including personal and sensitive emails from Hillary Clinton campaign manager John Podesta, appeared on whistleblowing website WikiLeaks.
+In a separate forensic investigation conducted by FireEye incident response firm Mandiant identified hacking tools and techniques used in the DNC hack associated with Fancy Bear—also known as APT28, Sofacy, Sednit, and Pawn Storm—a state-sponsored hacking group believed to be a unit of Russian Military Intelligence (the GRU).
+U.S. federal agents and prosecutors in Washington, Pittsburgh, Philadelphia and San Francisco have been cooperating with the DNC investigation. However, none of them has revealed the actual identity of the six suspects.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, even after getting charged, the Russian officials or hackers will hardly be prosecuted in the United States until they enter the US soil because the country has no extradition agreement with Russia.
+This is the second time in this year when the United States has charged Russian officials with cyber crimes.
+In March 2017, the DoJ charged two Russian intelligence officers—Dmitry Aleksandrovich Dokuchaev and Igor Anatolyevich Sushchin—and two criminal hackers—Alexsey Alexseyevich Belan and Karim Baratov—in connection with the 2014 Yahoo hack that exposed about 500 million Yahoo user accounts.
+However, no one has ever seen the insides of a United States courtroom.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

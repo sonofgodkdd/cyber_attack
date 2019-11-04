@@ -1,0 +1,18 @@
+Europol Now Going After People Who Bought DDoS-for-Hire Services
+Swati Khandelwal
+
+If you were a buyer of any online DDoS-for-hire service, you might be in trouble.
+After taking down and arresting the operators of the world's biggest DDoS-for-hire service last year, the authorities are now in hunt for customers who bought the service that helped cyber criminals launch millions of attacks against several banks, government institutions, and gaming industry.
+Europol has announced that British police are conducting a number of live operations worldwide to track down the users of the infamous Webstresser.org service that the authorities dismantled in April 2018.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Launched in 2015, Webstresser let its customers rent the service for about £10 to launch Distributed Denial of Service (DDoS) attacks against their targets with little to no technical knowledge, which resulted in more than 4 million DDoS attacks.
+According to the Europol announcement published on Monday, the agency gained access to the accounts of over 151,000 registered Webstresser users last year when it shut down the service and have now uncovered a "trove of information" against some users that could help the agency track them down.
+Europol said more than 250 users of Webstresser and other DDoS-for-hire services will soon face potential prosecution for the damage they have caused.
+"Size does not matter — all levels of users are under the radar of law enforcement, be it a gamer booting out the competition out of a game, or a high-level hacker carrying out DDoS attacks against commercial targets for financial gain," Europol said.
+In the United Kingdom, several webstresser.org users have recently been visited by the police. In the Netherlands, the police are trying to link user profiles to the identities of Dutch people, while "a Dutch user of webstresser.org has already received this alternative sanction."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Other countries, including the United States, Belgium, Croatia, France, Germany, Greece, Denmark, Romania, Estonia, Hungary, Ireland, Switzerland, Norway, Lithuania, Portugal, Slovenia, Sweden, Australia, Colombia, Serbia, have also joined the fight against DDoS attacks.
+While some of these countries are focusing their actions specifically against the Webstresser users, some have intensified their activities against the users of any DDoS booter or stresser service.
+"To this effect, the FBI seized last December 15 other DDoS-for-hire websites, including the relatively well known Downthem and Quantum Stresser," Europol said. "Similarly, the Romanian police has taken measures against the administrators of 2 smaller-scale DDoS platforms and has seized digital evidence, including information about the users."
+So, users of all DDoS-for-Hire services are in danger of being prosecuted.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

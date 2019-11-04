@@ -1,0 +1,151 @@
+What Does PCI 3.0 Mean to Security Practitioners?
+Anonymous
+
+Cybercrime, identity theft, and frauds are on the rise; and in most cases, the data breaches are associated with credit cards and cardholder data. The impact of data breach not only affects your organization, but also your customers. 
+A common observation cites that organizations that are PCI compliant are 50% less likely to suffer a data breach. It is alarming to notice that most organizations have difficulty complying with the requirements necessary for processing cardholder data.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+PCI makes the process smooth
+Based on the feedback from the industry, PCI Security Council has introduced some changes in the compliance regulations and has come up with version 3.0 for PCI compliance whose final version is scheduled for release on November 7, 2013. And, it is expected to be effective from January 2014. So, how will the upgraded version of PCI Compliance impact your organization?
+Awareness : Most security breaches happen due to lack of awareness in the following areas:
+Payment security
+Maintenance of PCI standards
+Proper implementation methods
+The 3.0 upgrade will also clarify the intent of the requirements and implementation methods.  
+Flexibility : The upgrade also adds more flexibility in terms of meeting PCI requirements and how organizations will address the requirements and mitigate risks.
+Shared Responsibility : PCI 3.0 cites that securing cardholder data is a shared responsibility due to an increase in the number of access points for the cardholder data. The challenge posed by the upgrade is how well equipped you are to embrace PCI 3.0.
+Factors considered for the revisions in PCI 3.0
+Improvement of payment security
+Global applicability
+Cost of change for your infrastructure
+Impact of the changes
+What’s new with PCI 3.0 and why the new version?
+   
+PCI   Requirement No.
+   
+Current   PCI DSS Standard
+(as   of October 2013)
+   
+Proposed   PCI DSS Update for 3.0 on top of existing standards
+   
+Purpose
+  
+   
+1
+   
+Install and maintain a firewall   configuration to protect cardholder data.
+   
+Have a current diagram that   shows cardholder data flows.
+   
+To clarify that documented   cardholder data flows are an important component of network diagrams.
+  
+   
+2
+   
+Do not use vendor-supplied defaults   for system passwords and other security parameters.
+   
+Maintain an inventory of   system components in scope for PCI DSS.
+   
+To support effective   scoping practices.
+  
+   
+3
+   
+Protect   stored cardholder data. 
+   
+No change from the existing   version
+   
+  
+   
+4
+   
+Encrypt transmission   of cardholder data across open, public networks.
+   
+No change from the existing   version
+   
+  
+   
+5
+   
+Use and regularly update antivirus   software. 
+   
+Evaluate evolving malware   threats for systems not commonly affected by malware.
+   
+To promote ongoing awareness   and due diligence to protect systems from malware
+  
+   
+6
+   
+Develop   and maintain secure systems and applications.
+   
+Update list of common vulnerabilities   in alignment with OWASP, NIST, and SANS for inclusion in secure coding   practices.
+   
+To keep current with   emerging threats.
+  
+   
+7
+   
+Restrict access to cardholder data   by business need-to-know.
+   
+No change from the existing   version
+   
+  
+   
+8
+   
+Assign a unique ID to each   person with computer access.
+   
+Security considerations for   authentication mechanisms such as physical security tokens, smart cards, and   certificates.
+   
+To address feedback about requirements   for securing authentication methods, other than passwords, that need to be   included.
+  
+   
+9
+   
+Restrict physical access to   cardholder data.
+   
+Protect POS terminals and   devices from tampering or substitution.
+   
+To address the need for   physical security of payment terminals.
+  
+   
+10
+   
+Track and monitor all access to   network resources and cardholder data. 
+   
+No change from the existing   version
+   
+  
+   
+11
+   
+Regularly test security   systems and processes.
+   
+Implement a methodology for   penetration testing, and perform penetration tests to verify that the   segmentation methods are operational and effective.
+   
+To address requests for   more details about penetration tests, and for more stringent scoping verification.
+  
+   
+12
+   
+Maintain a policy that   addresses information security.
+   
+Maintain information about   which PCI DSS requirements are managed by service providers and which are   managed by the entity.
+Service providers need to accept   responsibility for maintaining applicable PCI DSS requirements.
+   
+To address feedback from   the 3rd-Party Security Assurance SIG.
+  
+So, what do these changes mean to you?
+The changes in PCI 3.0 have been more structural in nature, which means they would make your organization more proactive in protecting cardholder data. 
+The upgrade includes the following improvements:
+Elimination of the redundant sub-requirements
+Clarification of the testing procedures for each requirement
+Strengthens the requirements around penetration testing and validation of network segments
+More flexibility around risk mitigation methods comprising password strength and complexity requirements.
+After PCI 3.0 becomes functional, you should complete the following:
+Provide policy guidance and operational procedures for each requirement
+Maintain an inventory of all systems within your PCI scope
+Keeping your Antivirus software up to date and regularly running virus scans is now more important in ensuring that you haven't been susceptible to vulnerabilities. You also need to start investing in the right security information & event management (SIEM) solution that will help you quickly uncover PCI DSS policy violations by identifying attacks, highlighting threats with real-time log analysis, and implementing powerful cross-device, cross-event correlation covering your entire IT infrastructure.
+SolarWinds® Log & Event Manager (LEM) provides 300 pre-built “audit-proven” report templates that you can use to generate reports complying with PCI DSS and other federal compliance regulations, or customize them for internal requirements.
+Have you started assessing and reporting your compliance adherence yet?
+Yaagneshwaran Ganesh - Product Marketing Specialist at SolarWinds, with a primary focus on Information Security. Market Research, Managed Hosting services, etc.(Google+ Profile)
+Follow @TheHackersNews !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

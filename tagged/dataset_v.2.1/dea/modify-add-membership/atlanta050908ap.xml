@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+May 9, 2008
+Contact: Chuvalo Truesdell
+404-893-7124
+Federal Grand Jury Convicts Former State Trooper In Drug Trafficking Case
+MAY 9  -- (Columbia, SC) - Acting United States Attorney, KEVIN F. MCDONALD stated today that Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson and Adarryus Rasul ELLINGTON, 35, of Anderson, were convicted yesterday after a four day trial in federal court in Spartanburg. JOHNSON was convicted of conspiracy to possess with intent to distribute 5 kilograms or more of cocaine. ELLINGTON was convicted of conspiring to launder drug money. Yesterday's verdict came after a lengthy investigation into the cocaine, crack cocaine and marijuana trafficking activities of a drug conspiracy headed by Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses. According to McDonald, PICKENS and eleven other upstate men have been convicted of drug and money laundering offenses and are awaiting sentencing. United States District Judge Henry F. Floyd presided over the trial and will impose sentencing after he receives and reviews pre-sentence reports prepared by the United States Probation Office.
+JOHNSON faces a mandatory minimum sentence of ten years and a maximum term of life imprisonment. PICKENS faces a mandatory minimum sentence of twenty years and a maximum term of life imprisonment. ELLINGTON faces a maximum term of imprisonment of 20 years.
+Mr. McDonald stated that evidence presented at trial established that JOHNSON, a former South Carolina trooper and Marine, supplied and attempted to supply PICKENS and several others with kilogram quantities of cocaine since 1999 and that ELLINGTON conspired with PICKENS to disguise and conceal the proceeds of drug trafficking by conducting financial transactions on his behalf. According to McDonald, the government had no evidence that JOHNSON was involved in drug trafficking while he served as a trooper. During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina.
+The case was investigated by agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department. Assistant United States Attorney Leesa Washington of the Greenville office prosecuted the case.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="22" end="39" text="Chuvalo Truesdell" TYPE="NAM" />
+<person id="p1" start="53" end="71" text="Federal Grand Jury" TYPE="BAR" />
+<person id="p2" start="81" end="101" text="Former State Trooper" TYPE="BAR" />
+<person id="p4" start="154" end="202" text="Acting United States Attorney, KEVIN F. MCDONALD" TYPE="NOM" />
+<person id="p5" start="185" end="202" text="KEVIN F. MCDONALD" TYPE="NAM" />
+<person id="p6" start="221" end="295" text="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" TYPE="NAM" />
+<person id="p7" start="300" end="341" text="Adarryus Rasul ELLINGTON, 35, of Anderson" TYPE="NAM" />
+<person id="p8" start="424" end="431" text="JOHNSON" TYPE="NAM" />
+<person id="p9" start="529" end="538" text="ELLINGTON" TYPE="NAM" />
+<person id="p10" start="745" end="837" text="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" TYPE="NAM" />
+<person id="p11" start="783" end="786" text="who" TYPE="WHQ" />
+<person id="p12" start="852" end="860" text="McDonald" TYPE="NAM" />
+<person id="p13" start="862" end="869" text="PICKENS" TYPE="NAM" />
+<person id="p14" start="874" end="898" text="eleven other upstate men" TYPE="NOM" />
+<person id="p15" start="986" end="1029" text="United States District Judge Henry F. Floyd" TYPE="NAM" />
+<person id="p16" start="986" end="1014" text="United States District Judge" TYPE="NOMPRE" />
+<person id="p17" start="1087" end="1089" text="he" TYPE="PRO" />
+<person id="p18" start="1180" end="1187" text="JOHNSON" TYPE="NAM" />
+<person id="p19" start="1277" end="1284" text="PICKENS" TYPE="NAM" />
+<person id="p20" start="1377" end="1386" text="ELLINGTON" TYPE="NAM" />
+<person id="p21" start="1437" end="1449" text="Mr. McDonald" TYPE="NAM" />
+<person id="p22" start="1437" end="1440" text="Mr." TYPE="NOMPRE" />
+<person id="p23" start="1507" end="1558" text="JOHNSON, a former South Carolina trooper and Marine" TYPE="APP" />
+<person id="p24" start="1507" end="1514" text="JOHNSON" TYPE="NAM" />
+<person id="p25" start="1516" end="1558" text="a former South Carolina trooper and Marine" TYPE="NOM" />
+<person id="p26" start="1516" end="1558" text="a former South Carolina trooper and Marine" TYPE="NOM" />
+<person id="p27" start="1593" end="1600" text="PICKENS" TYPE="NAM" />
+<person id="p28" start="1605" end="1619" text="several others" TYPE="HLS" />
+<person id="p29" start="1676" end="1685" text="ELLINGTON" TYPE="NAM" />
+<person id="p30" start="1701" end="1708" text="PICKENS" TYPE="NAM" />
+<person id="p31" start="1806" end="1809" text="his" TYPE="PRO" />
+<person id="p32" start="1831" end="1839" text="McDonald" TYPE="NAM" />
+<person id="p33" start="1877" end="1884" text="JOHNSON" TYPE="NAM" />
+<person id="p34" start="1924" end="1926" text="he" TYPE="PRO" />
+<person id="p35" start="1937" end="1946" text="a trooper" TYPE="NOM" />
+<person id="p36" start="1966" end="1973" text="JOHNSON" TYPE="NAM" />
+<person id="p37" start="1989" end="1991" text="he" TYPE="PRO" />
+<person id="p38" start="2000" end="2013" text="a drug dealer" TYPE="NOM" />
+<person id="p39" start="2023" end="2025" text="he" TYPE="PRO" />
+<person id="p40" start="2159" end="2331" text="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" TYPE="BAR" />
+<person id="p41" start="2251" end="2278" text="the Anderson County Sheriff" TYPE="NOM" />
+<person id="p42" start="2333" end="2407" text="Assistant United States Attorney Leesa Washington of the Greenville office" TYPE="NAM" />
+<person id="p43" start="2333" end="2365" text="Assistant United States Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="88" end="93" text="State" TYPE="NOMPRE" />
+<organization id="o1" start="394" end="422" text="federal court in Spartanburg" TYPE="BAR" />
+<organization id="o2" start="1144" end="1178" text="the United States Probation Office" TYPE="NAM" />
+<organization id="o4" start="2169" end="2204" text="the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o5" start="2206" end="2249" text="the Bureau of Alcohol, Tobacco and Firearms" TYPE="NAM" />
+<organization id="o6" start="2251" end="2291" text="the Anderson County Sheriff's Department" TYPE="NOM" />
+<organization id="o7" start="2296" end="2331" text="the Anderson City Police Department" TYPE="NAM" />
+<organization id="o8" start="2386" end="2407" text="the Greenville office" TYPE="NAM" />
+<organization id="o9" start="1000" end="1008" text="District" TYPE="NOMPRE" />
+<geographical-political id="g0" start="138" end="150" text="Columbia, SC" TYPE="NAM" />
+<geographical-political id="g1" start="148" end="150" text="SC" TYPE="NAM" />
+<geographical-political id="g2" start="161" end="174" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g3" start="257" end="273" text="Atlanta, Georgia" TYPE="NAM" />
+<geographical-political id="g4" start="266" end="273" text="Georgia" TYPE="NAM" />
+<geographical-political id="g5" start="287" end="295" text="Anderson" TYPE="NAM" />
+<geographical-political id="g6" start="333" end="341" text="Anderson" TYPE="NAM" />
+<geographical-political id="g7" start="411" end="422" text="Spartanburg" TYPE="NAM" />
+<geographical-political id="g8" start="773" end="781" text="Anderson" TYPE="NAM" />
+<geographical-political id="g9" start="986" end="999" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g11" start="1525" end="1539" text="South Carolina" TYPE="NAMPRE" />
+<geographical-political id="g12" start="2102" end="2109" text="Georgia" TYPE="NAM" />
+<geographical-political id="g13" start="2114" end="2128" text="South Carolina" TYPE="NAM" />
+<geographical-political id="g14" start="2255" end="2270" text="Anderson County" TYPE="NAMPRE" />
+<geographical-political id="g15" start="2343" end="2356" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1841" end="1855" text="the government" TYPE="NOM" />
+<head id="h0" start="22" end="39" text="Chuvalo Truesdell" />
+<head id="h1" start="67" end="71" text="Jury" />
+<head id="h2" start="94" end="101" text="Trooper" />
+<head id="h3" start="88" end="93" text="State" />
+<head id="h4" start="138" end="146" text="Columbia" />
+<head id="h5" start="148" end="150" text="SC" />
+<head id="h6" start="175" end="183" text="Attorney" />
+<head id="h7" start="185" end="202" text="KEVIN F. MCDONALD" />
+<head id="h8" start="161" end="174" text="United States" />
+<head id="h9" start="221" end="243" text="Walter Raleigh JOHNSON" />
+<head id="h10" start="257" end="264" text="Atlanta" />
+<head id="h11" start="266" end="273" text="Georgia" />
+<head id="h12" start="287" end="295" text="Anderson" />
+<head id="h13" start="300" end="324" text="Adarryus Rasul ELLINGTON" />
+<head id="h14" start="333" end="341" text="Anderson" />
+<head id="h15" start="402" end="407" text="court" />
+<head id="h16" start="411" end="422" text="Spartanburg" />
+<head id="h17" start="424" end="431" text="JOHNSON" />
+<head id="h18" start="529" end="538" text="ELLINGTON" />
+<head id="h19" start="745" end="764" text="Mayo Levord PICKENS" />
+<head id="h20" start="773" end="781" text="Anderson" />
+<head id="h21" start="783" end="786" text="who" />
+<head id="h22" start="852" end="860" text="McDonald" />
+<head id="h23" start="862" end="869" text="PICKENS" />
+<head id="h24" start="895" end="898" text="men" />
+<head id="h25" start="1015" end="1029" text="Henry F. Floyd" />
+<head id="h26" start="1009" end="1014" text="Judge" />
+<head id="h27" start="986" end="999" text="United States" />
+<head id="h28" start="1000" end="1008" text="District" />
+<head id="h29" start="1087" end="1089" text="he" />
+<head id="h30" start="1148" end="1178" text="United States Probation Office" />
+<head id="h31" start="1180" end="1187" text="JOHNSON" />
+<head id="h32" start="1277" end="1284" text="PICKENS" />
+<head id="h33" start="1377" end="1386" text="ELLINGTON" />
+<head id="h34" start="1441" end="1449" text="McDonald" />
+<head id="h35" start="1437" end="1440" text="Mr." />
+<head id="h36" start="1507" end="1514" text="JOHNSON" />
+<head id="h37" start="1540" end="1547" text="trooper" />
+<head id="h38" start="1552" end="1558" text="Marine" />
+<head id="h39" start="1525" end="1539" text="South Carolina" />
+<head id="h40" start="1593" end="1600" text="PICKENS" />
+<head id="h41" start="1613" end="1619" text="others" />
+<head id="h42" start="1676" end="1685" text="ELLINGTON" />
+<head id="h43" start="1701" end="1708" text="PICKENS" />
+<head id="h44" start="1806" end="1809" text="his" />
+<head id="h45" start="1831" end="1839" text="McDonald" />
+<head id="h46" start="1845" end="1855" text="government" />
+<head id="h47" start="1877" end="1884" text="JOHNSON" />
+<head id="h48" start="1924" end="1926" text="he" />
+<head id="h49" start="1939" end="1946" text="trooper" />
+<head id="h50" start="1966" end="1973" text="JOHNSON" />
+<head id="h51" start="1989" end="1991" text="he" />
+<head id="h52" start="2007" end="2013" text="dealer" />
+<head id="h53" start="2023" end="2025" text="he" />
+<head id="h54" start="2102" end="2109" text="Georgia" />
+<head id="h55" start="2114" end="2128" text="South Carolina" />
+<head id="h56" start="2159" end="2165" text="agents" />
+<head id="h57" start="2173" end="2204" text="Drug Enforcement Administration" />
+<head id="h58" start="2210" end="2249" text="Bureau of Alcohol, Tobacco and Firearms" />
+<head id="h59" start="2281" end="2291" text="Department" />
+<head id="h60" start="2300" end="2331" text="Anderson City Police Department" />
+<head id="h61" start="2271" end="2278" text="Sheriff" />
+<head id="h62" start="2255" end="2270" text="Anderson County" />
+<head id="h63" start="2366" end="2382" text="Leesa Washington" />
+<head id="h64" start="2357" end="2365" text="Attorney" />
+<head id="h65" start="2343" end="2356" text="United States" />
+<head id="h66" start="2390" end="2407" text="Greenville office" />
+<name id="n0" start="22" end="39" text="Chuvalo Truesdell" />
+<name id="n1" start="138" end="146" text="Columbia" />
+<name id="n2" start="148" end="150" text="SC" />
+<name id="n3" start="185" end="202" text="KEVIN F. MCDONALD" />
+<name id="n4" start="161" end="174" text="United States" />
+<name id="n5" start="221" end="243" text="Walter Raleigh JOHNSON" />
+<name id="n6" start="257" end="264" text="Atlanta" />
+<name id="n7" start="266" end="273" text="Georgia" />
+<name id="n8" start="287" end="295" text="Anderson" />
+<name id="n9" start="300" end="324" text="Adarryus Rasul ELLINGTON" />
+<name id="n10" start="333" end="341" text="Anderson" />
+<name id="n11" start="411" end="422" text="Spartanburg" />
+<name id="n12" start="424" end="431" text="JOHNSON" />
+<name id="n13" start="529" end="538" text="ELLINGTON" />
+<name id="n14" start="745" end="764" text="Mayo Levord PICKENS" />
+<name id="n15" start="773" end="781" text="Anderson" />
+<name id="n16" start="852" end="860" text="McDonald" />
+<name id="n17" start="862" end="869" text="PICKENS" />
+<name id="n18" start="1015" end="1029" text="Henry F. Floyd" />
+<name id="n19" start="986" end="999" text="United States" />
+<name id="n20" start="1148" end="1178" text="United States Probation Office" />
+<name id="n21" start="1180" end="1187" text="JOHNSON" />
+<name id="n22" start="1277" end="1284" text="PICKENS" />
+<name id="n23" start="1377" end="1386" text="ELLINGTON" />
+<name id="n24" start="1441" end="1449" text="McDonald" />
+<name id="n25" start="1507" end="1514" text="JOHNSON" />
+<name id="n26" start="1525" end="1539" text="South Carolina" />
+<name id="n27" start="1593" end="1600" text="PICKENS" />
+<name id="n28" start="1676" end="1685" text="ELLINGTON" />
+<name id="n29" start="1701" end="1708" text="PICKENS" />
+<name id="n30" start="1831" end="1839" text="McDonald" />
+<name id="n31" start="1877" end="1884" text="JOHNSON" />
+<name id="n32" start="1966" end="1973" text="JOHNSON" />
+<name id="n33" start="2102" end="2109" text="Georgia" />
+<name id="n34" start="2114" end="2128" text="South Carolina" />
+<name id="n35" start="2173" end="2204" text="Drug Enforcement Administration" />
+<name id="n36" start="2210" end="2249" text="Bureau of Alcohol, Tobacco and Firearms" />
+<name id="n37" start="2300" end="2331" text="Anderson City Police Department" />
+<name id="n38" start="2255" end="2270" text="Anderson County" />
+<name id="n39" start="2366" end="2382" text="Leesa Washington" />
+<name id="n40" start="2343" end="2356" text="United States" />
+<name id="n41" start="2390" end="2407" text="Greenville office" />
+<located-mention id="lo0" start="1948" end="2128" text="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" TYPE="Other" />
+<located-mention id="lo1" start="1948" end="2128" text="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" TYPE="Other" />
+<employment-mention id="e1" start="154" end="202" text="Acting United States Attorney, KEVIN F. MCDONALD" TYPE="PreMod" />
+<employment-mention id="e3" start="986" end="1014" text="United States District Judge" TYPE="PreMod" />
+<employment-mention id="e4" start="1516" end="1558" text="a former South Carolina trooper and Marine" TYPE="PreMod" />
+<employment-mention id="e5" start="1516" end="1558" text="a former South Carolina trooper and Marine" TYPE="PreMod" />
+<employment-mention id="e6" start="2251" end="2278" text="the Anderson County Sheriff" TYPE="PreMod" />
+<employment-mention id="e11" start="2333" end="2365" text="Assistant United States Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="221" end="295" text="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" TYPE="Preposition" />
+<CRRE id="C1" start="221" end="295" text="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" TYPE="Preposition" />
+<CRRE id="C2" start="300" end="341" text="Adarryus Rasul ELLINGTON, 35, of Anderson" TYPE="Preposition" />
+<CRRE id="C3" start="745" end="837" text="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" TYPE="Preposition" />
+<M id="M0" start="2251" end="2291" text="the Anderson County Sheriff's Department" TYPE="Possessive" />
+<M id="M1" start="81" end="101" text="Former State Trooper" TYPE="PreMod" />
+<M id="M2" start="986" end="1014" text="United States District Judge" TYPE="PreMod" />
+<M id="M3" start="2159" end="2331" text="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" TYPE="Preposition" />
+<M id="M4" start="2159" end="2331" text="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" TYPE="Preposition" />
+<M id="M5" start="2159" end="2331" text="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" TYPE="Preposition" />
+<M id="M6" start="2159" end="2331" text="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" TYPE="Preposition" />
+<M id="M7" start="2333" end="2407" text="Assistant United States Attorney Leesa Washington of the Greenville office" TYPE="Preposition" />
+<entity_link id="en1" fromID="p5" fromText="KEVIN F. MCDONALD" toID="p4" toText="Acting United States Attorney, KEVIN F. MCDONALD" />
+<entity_link id="en2" fromID="g6" fromText="Anderson" toID="g5" toText="Anderson" />
+<entity_link id="en3" fromID="p6" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="p2" toText="Former State Trooper" />
+<entity_link id="en4" fromID="p8" fromText="JOHNSON" toID="p6" toText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" />
+<entity_link id="en5" fromID="p9" fromText="ELLINGTON" toID="p7" toText="Adarryus Rasul ELLINGTON, 35, of Anderson" />
+<entity_link id="en6" fromID="g8" fromText="Anderson" toID="g6" toText="Anderson" />
+<entity_link id="en7" fromID="p11" fromText="who" toID="p10" toText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" />
+<entity_link id="en8" fromID="p12" fromText="McDonald" toID="p5" toText="KEVIN F. MCDONALD" />
+<entity_link id="en9" fromID="p13" fromText="PICKENS" toID="p10" toText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" />
+<entity_link id="en10" fromID="p16" fromText="United States District Judge" toID="p15" toText="United States District Judge Henry F. Floyd" />
+<entity_link id="en11" fromID="g9" fromText="United States" toID="g2" toText="United States" />
+<entity_link id="en12" fromID="p17" fromText="he" toID="p15" toText="United States District Judge Henry F. Floyd" />
+<entity_link id="en13" fromID="p18" fromText="JOHNSON" toID="p8" toText="JOHNSON" />
+<entity_link id="en14" fromID="p19" fromText="PICKENS" toID="p10" toText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" />
+<entity_link id="en15" fromID="p20" fromText="ELLINGTON" toID="p9" toText="ELLINGTON" />
+<entity_link id="en16" fromID="p21" fromText="Mr. McDonald" toID="p12" toText="McDonald" />
+<entity_link id="en17" fromID="p22" fromText="Mr." toID="p21" toText="Mr. McDonald" />
+<entity_link id="en18" fromID="p24" fromText="JOHNSON" toID="p23" toText="JOHNSON, a former South Carolina trooper and Marine" />
+<entity_link id="en19" fromID="p25" fromText="a former South Carolina trooper and Marine" toID="p24" toText="JOHNSON" />
+<entity_link id="en20" fromID="p26" fromText="a former South Carolina trooper and Marine" toID="p24" toText="JOHNSON" />
+<entity_link id="en21" fromID="p24" fromText="JOHNSON" toID="p18" toText="JOHNSON" />
+<entity_link id="en22" fromID="g11" fromText="South Carolina" toID="g1" toText="SC" />
+<entity_link id="en23" fromID="p27" fromText="PICKENS" toID="p19" toText="PICKENS" />
+<entity_link id="en24" fromID="p29" fromText="ELLINGTON" toID="p20" toText="ELLINGTON" />
+<entity_link id="en25" fromID="p30" fromText="PICKENS" toID="p27" toText="PICKENS" />
+<entity_link id="en26" fromID="p31" fromText="his" toID="p29" toText="ELLINGTON" />
+<entity_link id="en27" fromID="p32" fromText="McDonald" toID="p21" toText="Mr. McDonald" />
+<entity_link id="en28" fromID="p33" fromText="JOHNSON" toID="p24" toText="JOHNSON" />
+<entity_link id="en29" fromID="p34" fromText="he" toID="p33" toText="JOHNSON" />
+<entity_link id="en30" fromID="p35" fromText="a trooper" toID="p34" toText="he" />
+<entity_link id="en31" fromID="p36" fromText="JOHNSON" toID="p33" toText="JOHNSON" />
+<entity_link id="en32" fromID="p37" fromText="he" toID="p36" toText="JOHNSON" />
+<entity_link id="en33" fromID="p39" fromText="he" toID="p37" toText="he" />
+<entity_link id="en34" fromID="g12" fromText="Georgia" toID="g4" toText="Georgia" />
+<entity_link id="en35" fromID="g13" fromText="South Carolina" toID="g11" toText="South Carolina" />
+<entity_link id="en36" fromID="g14" fromText="Anderson County" toID="g8" toText="Anderson" />
+<entity_link id="en37" fromID="g15" fromText="United States" toID="g9" toText="United States" />
+<entity_link id="en38" fromID="p43" fromText="Assistant United States Attorney" toID="p42" toText="Assistant United States Attorney Leesa Washington of the Greenville office" />
+<entity_link id="en0" fromID="g10" fromText="the government" toID="g9" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Chuvalo Truesdell" toID="h0" toText="Chuvalo Truesdell" />
+<head_link id="he1" fromID="p1" fromText="Federal Grand Jury" toID="h1" toText="Jury" />
+<head_link id="he2" fromID="p2" fromText="Former State Trooper" toID="h2" toText="Trooper" />
+<head_link id="he3" fromID="o0" fromText="State" toID="h3" toText="State" />
+<head_link id="he4" fromID="g0" fromText="Columbia, SC" toID="h4" toText="Columbia" />
+<head_link id="he5" fromID="g1" fromText="SC" toID="h5" toText="SC" />
+<head_link id="he6" fromID="p4" fromText="Acting United States Attorney, KEVIN F. MCDONALD" toID="h6" toText="Attorney" />
+<head_link id="he7" fromID="p5" fromText="KEVIN F. MCDONALD" toID="h7" toText="KEVIN F. MCDONALD" />
+<head_link id="he8" fromID="g2" fromText="United States" toID="h8" toText="United States" />
+<head_link id="he9" fromID="p6" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="h9" toText="Walter Raleigh JOHNSON" />
+<head_link id="he10" fromID="g3" fromText="Atlanta, Georgia" toID="h10" toText="Atlanta" />
+<head_link id="he11" fromID="g4" fromText="Georgia" toID="h11" toText="Georgia" />
+<head_link id="he12" fromID="g5" fromText="Anderson" toID="h12" toText="Anderson" />
+<head_link id="he13" fromID="p7" fromText="Adarryus Rasul ELLINGTON, 35, of Anderson" toID="h13" toText="Adarryus Rasul ELLINGTON" />
+<head_link id="he14" fromID="g6" fromText="Anderson" toID="h14" toText="Anderson" />
+<head_link id="he15" fromID="o1" fromText="federal court in Spartanburg" toID="h15" toText="court" />
+<head_link id="he16" fromID="g7" fromText="Spartanburg" toID="h16" toText="Spartanburg" />
+<head_link id="he17" fromID="p8" fromText="JOHNSON" toID="h17" toText="JOHNSON" />
+<head_link id="he18" fromID="p9" fromText="ELLINGTON" toID="h18" toText="ELLINGTON" />
+<head_link id="he19" fromID="p10" fromText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" toID="h19" toText="Mayo Levord PICKENS" />
+<head_link id="he20" fromID="g8" fromText="Anderson" toID="h20" toText="Anderson" />
+<head_link id="he21" fromID="p11" fromText="who" toID="h21" toText="who" />
+<head_link id="he22" fromID="p12" fromText="McDonald" toID="h22" toText="McDonald" />
+<head_link id="he23" fromID="p13" fromText="PICKENS" toID="h23" toText="PICKENS" />
+<head_link id="he24" fromID="p14" fromText="eleven other upstate men" toID="h24" toText="men" />
+<head_link id="he25" fromID="p15" fromText="United States District Judge Henry F. Floyd" toID="h25" toText="Henry F. Floyd" />
+<head_link id="he26" fromID="p16" fromText="United States District Judge" toID="h26" toText="Judge" />
+<head_link id="he27" fromID="g9" fromText="United States" toID="h27" toText="United States" />
+<head_link id="he29" fromID="p17" fromText="he" toID="h29" toText="he" />
+<head_link id="he30" fromID="o2" fromText="the United States Probation Office" toID="h30" toText="United States Probation Office" />
+<head_link id="he31" fromID="p18" fromText="JOHNSON" toID="h31" toText="JOHNSON" />
+<head_link id="he32" fromID="p19" fromText="PICKENS" toID="h32" toText="PICKENS" />
+<head_link id="he33" fromID="p20" fromText="ELLINGTON" toID="h33" toText="ELLINGTON" />
+<head_link id="he34" fromID="p21" fromText="Mr. McDonald" toID="h34" toText="McDonald" />
+<head_link id="he35" fromID="p22" fromText="Mr." toID="h35" toText="Mr." />
+<head_link id="he36" fromID="p24" fromText="JOHNSON" toID="h36" toText="JOHNSON" />
+<head_link id="he37" fromID="p25" fromText="a former South Carolina trooper and Marine" toID="h37" toText="trooper" />
+<head_link id="he38" fromID="p26" fromText="a former South Carolina trooper and Marine" toID="h38" toText="Marine" />
+<head_link id="he39" fromID="g11" fromText="South Carolina" toID="h39" toText="South Carolina" />
+<head_link id="he40" fromID="p27" fromText="PICKENS" toID="h40" toText="PICKENS" />
+<head_link id="he41" fromID="p28" fromText="several others" toID="h41" toText="others" />
+<head_link id="he42" fromID="p29" fromText="ELLINGTON" toID="h42" toText="ELLINGTON" />
+<head_link id="he43" fromID="p30" fromText="PICKENS" toID="h43" toText="PICKENS" />
+<head_link id="he44" fromID="p31" fromText="his" toID="h44" toText="his" />
+<head_link id="he45" fromID="p32" fromText="McDonald" toID="h45" toText="McDonald" />
+<head_link id="he47" fromID="p33" fromText="JOHNSON" toID="h47" toText="JOHNSON" />
+<head_link id="he48" fromID="p34" fromText="he" toID="h48" toText="he" />
+<head_link id="he49" fromID="p35" fromText="a trooper" toID="h49" toText="trooper" />
+<head_link id="he50" fromID="p36" fromText="JOHNSON" toID="h50" toText="JOHNSON" />
+<head_link id="he51" fromID="p37" fromText="he" toID="h51" toText="he" />
+<head_link id="he52" fromID="p38" fromText="a drug dealer" toID="h52" toText="dealer" />
+<head_link id="he53" fromID="p39" fromText="he" toID="h53" toText="he" />
+<head_link id="he54" fromID="g12" fromText="Georgia" toID="h54" toText="Georgia" />
+<head_link id="he55" fromID="g13" fromText="South Carolina" toID="h55" toText="South Carolina" />
+<head_link id="he56" fromID="p40" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="h56" toText="agents" />
+<head_link id="he57" fromID="o4" fromText="the Drug Enforcement Administration" toID="h57" toText="Drug Enforcement Administration" />
+<head_link id="he58" fromID="o5" fromText="the Bureau of Alcohol, Tobacco and Firearms" toID="h58" toText="Bureau of Alcohol, Tobacco and Firearms" />
+<head_link id="he59" fromID="o6" fromText="the Anderson County Sheriff's Department" toID="h59" toText="Department" />
+<head_link id="he60" fromID="o7" fromText="the Anderson City Police Department" toID="h60" toText="Anderson City Police Department" />
+<head_link id="he61" fromID="p41" fromText="the Anderson County Sheriff" toID="h61" toText="Sheriff" />
+<head_link id="he62" fromID="g14" fromText="Anderson County" toID="h62" toText="Anderson County" />
+<head_link id="he63" fromID="p42" fromText="Assistant United States Attorney Leesa Washington of the Greenville office" toID="h63" toText="Leesa Washington" />
+<head_link id="he64" fromID="p43" fromText="Assistant United States Attorney" toID="h64" toText="Attorney" />
+<head_link id="he65" fromID="g15" fromText="United States" toID="h65" toText="United States" />
+<head_link id="he66" fromID="o8" fromText="the Greenville office" toID="h66" toText="Greenville office" />
+<head_link id="he67" fromID="o9" fromText="District" toID="h28" toText="District" />
+<head_link id="he28" fromID="g10" fromText="the government" toID="h46" toText="government" />
+<name_link id="na0" fromID="p0" fromText="Chuvalo Truesdell" toID="n0" toText="Chuvalo Truesdell" />
+<name_link id="na1" fromID="g0" fromText="Columbia, SC" toID="n1" toText="Columbia" />
+<name_link id="na2" fromID="g1" fromText="SC" toID="n2" toText="SC" />
+<name_link id="na3" fromID="p5" fromText="KEVIN F. MCDONALD" toID="n3" toText="KEVIN F. MCDONALD" />
+<name_link id="na4" fromID="g2" fromText="United States" toID="n4" toText="United States" />
+<name_link id="na5" fromID="p6" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="n5" toText="Walter Raleigh JOHNSON" />
+<name_link id="na6" fromID="g3" fromText="Atlanta, Georgia" toID="n6" toText="Atlanta" />
+<name_link id="na7" fromID="g4" fromText="Georgia" toID="n7" toText="Georgia" />
+<name_link id="na8" fromID="g5" fromText="Anderson" toID="n8" toText="Anderson" />
+<name_link id="na9" fromID="p7" fromText="Adarryus Rasul ELLINGTON, 35, of Anderson" toID="n9" toText="Adarryus Rasul ELLINGTON" />
+<name_link id="na10" fromID="g6" fromText="Anderson" toID="n10" toText="Anderson" />
+<name_link id="na11" fromID="g7" fromText="Spartanburg" toID="n11" toText="Spartanburg" />
+<name_link id="na12" fromID="p8" fromText="JOHNSON" toID="n12" toText="JOHNSON" />
+<name_link id="na13" fromID="p9" fromText="ELLINGTON" toID="n13" toText="ELLINGTON" />
+<name_link id="na14" fromID="p10" fromText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" toID="n14" toText="Mayo Levord PICKENS" />
+<name_link id="na15" fromID="g8" fromText="Anderson" toID="n15" toText="Anderson" />
+<name_link id="na16" fromID="p12" fromText="McDonald" toID="n16" toText="McDonald" />
+<name_link id="na17" fromID="p13" fromText="PICKENS" toID="n17" toText="PICKENS" />
+<name_link id="na18" fromID="p15" fromText="United States District Judge Henry F. Floyd" toID="n18" toText="Henry F. Floyd" />
+<name_link id="na19" fromID="g9" fromText="United States" toID="n19" toText="United States" />
+<name_link id="na20" fromID="o2" fromText="the United States Probation Office" toID="n20" toText="United States Probation Office" />
+<name_link id="na21" fromID="p18" fromText="JOHNSON" toID="n21" toText="JOHNSON" />
+<name_link id="na22" fromID="p19" fromText="PICKENS" toID="n22" toText="PICKENS" />
+<name_link id="na23" fromID="p20" fromText="ELLINGTON" toID="n23" toText="ELLINGTON" />
+<name_link id="na24" fromID="p21" fromText="Mr. McDonald" toID="n24" toText="McDonald" />
+<name_link id="na25" fromID="p24" fromText="JOHNSON" toID="n25" toText="JOHNSON" />
+<name_link id="na26" fromID="g11" fromText="South Carolina" toID="n26" toText="South Carolina" />
+<name_link id="na27" fromID="p27" fromText="PICKENS" toID="n27" toText="PICKENS" />
+<name_link id="na28" fromID="p29" fromText="ELLINGTON" toID="n28" toText="ELLINGTON" />
+<name_link id="na29" fromID="p30" fromText="PICKENS" toID="n29" toText="PICKENS" />
+<name_link id="na30" fromID="p32" fromText="McDonald" toID="n30" toText="McDonald" />
+<name_link id="na31" fromID="p33" fromText="JOHNSON" toID="n31" toText="JOHNSON" />
+<name_link id="na32" fromID="p36" fromText="JOHNSON" toID="n32" toText="JOHNSON" />
+<name_link id="na33" fromID="g12" fromText="Georgia" toID="n33" toText="Georgia" />
+<name_link id="na34" fromID="g13" fromText="South Carolina" toID="n34" toText="South Carolina" />
+<name_link id="na35" fromID="o4" fromText="the Drug Enforcement Administration" toID="n35" toText="Drug Enforcement Administration" />
+<name_link id="na36" fromID="o5" fromText="the Bureau of Alcohol, Tobacco and Firearms" toID="n36" toText="Bureau of Alcohol, Tobacco and Firearms" />
+<name_link id="na37" fromID="o7" fromText="the Anderson City Police Department" toID="n37" toText="Anderson City Police Department" />
+<name_link id="na38" fromID="g14" fromText="Anderson County" toID="n38" toText="Anderson County" />
+<name_link id="na39" fromID="p42" fromText="Assistant United States Attorney Leesa Washington of the Greenville office" toID="n39" toText="Leesa Washington" />
+<name_link id="na40" fromID="g15" fromText="United States" toID="n40" toText="United States" />
+<name_link id="na41" fromID="o8" fromText="the Greenville office" toID="n41" toText="Greenville office" />
+<relation_link1 id="r0" fromID="M1" fromText="Former State Trooper" toID="p2" toText="Former State Trooper" />
+<relation_link1 id="r1" fromID="e1" fromText="Acting United States Attorney, KEVIN F. MCDONALD" toID="p4" toText="Acting United States Attorney, KEVIN F. MCDONALD" />
+<relation_link1 id="r2" fromID="C0" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="p6" toText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" />
+<relation_link1 id="r3" fromID="C1" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="p6" toText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" />
+<relation_link1 id="r4" fromID="C2" fromText="Adarryus Rasul ELLINGTON, 35, of Anderson" toID="p7" toText="Adarryus Rasul ELLINGTON, 35, of Anderson" />
+<relation_link1 id="r5" fromID="C3" fromText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" toID="p10" toText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" />
+<relation_link1 id="r6" fromID="M2" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r7" fromID="e3" fromText="United States District Judge" toID="p16" toText="United States District Judge" />
+<relation_link1 id="r8" fromID="e4" fromText="a former South Carolina trooper and Marine" toID="p25" toText="a former South Carolina trooper and Marine" />
+<relation_link1 id="r9" fromID="e5" fromText="a former South Carolina trooper and Marine" toID="p26" toText="a former South Carolina trooper and Marine" />
+<relation_link1 id="r10" fromID="lo0" fromText="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" toID="p39" toText="he" />
+<relation_link1 id="r11" fromID="lo1" fromText="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" toID="p39" toText="he" />
+<relation_link1 id="r12" fromID="e6" fromText="the Anderson County Sheriff" toID="p41" toText="the Anderson County Sheriff" />
+<relation_link1 id="r13" fromID="M3" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="p40" toText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" />
+<relation_link1 id="r14" fromID="M4" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="p40" toText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" />
+<relation_link1 id="r15" fromID="M5" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="p40" toText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" />
+<relation_link1 id="r16" fromID="M6" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="p40" toText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" />
+<relation_link1 id="r17" fromID="e11" fromText="Assistant United States Attorney" toID="p43" toText="Assistant United States Attorney" />
+<relation_link1 id="r18" fromID="M7" fromText="Assistant United States Attorney Leesa Washington of the Greenville office" toID="p42" toText="Assistant United States Attorney Leesa Washington of the Greenville office" />
+<relation_link1 id="r19" fromID="M0" fromText="the Anderson County Sheriff's Department" toID="p41" toText="the Anderson County Sheriff" />
+<relation_link2 id="re0" fromID="M1" fromText="Former State Trooper" toID="o0" toText="State" />
+<relation_link2 id="re1" fromID="e1" fromText="Acting United States Attorney" toID="g2" toText="United States" />
+<relation_link2 id="re2" fromID="C0" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="g3" toText="Atlanta, Georgia" />
+<relation_link2 id="re3" fromID="C1" fromText="Walter Raleigh JOHNSON, Jr., 41, of Atlanta, Georgia, formerly of Anderson" toID="g5" toText="Anderson" />
+<relation_link2 id="re4" fromID="C2" fromText="Adarryus Rasul ELLINGTON, 35, of Anderson" toID="g6" toText="Anderson" />
+<relation_link2 id="re5" fromID="C3" fromText="Mayo Levord PICKENS, 29, of Anderson, who pled guilty earlier this year to the same offenses" toID="g8" toText="Anderson" />
+<relation_link2 id="re7" fromID="e3" fromText="United States District Judge" toID="g9" toText="United States" />
+<relation_link2 id="re8" fromID="e4" fromText="a former South Carolina trooper and Marine" toID="g11" toText="South Carolina" />
+<relation_link2 id="re9" fromID="e5" fromText="a former South Carolina trooper and Marine" toID="g11" toText="South Carolina" />
+<relation_link2 id="re10" fromID="lo0" fromText="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" toID="g12" toText="Georgia" />
+<relation_link2 id="re11" fromID="lo1" fromText="During the trial, JOHNSON testified that he was not a drug dealer and that he made a living by brokering automobile sales and real estate transactions in Georgia and South Carolina" toID="g13" toText="South Carolina" />
+<relation_link2 id="re12" fromID="e6" fromText="the Anderson County Sheriff" toID="g14" toText="Anderson County" />
+<relation_link2 id="re13" fromID="M3" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="o4" toText="the Drug Enforcement Administration" />
+<relation_link2 id="re14" fromID="M4" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="o5" toText="the Bureau of Alcohol, Tobacco and Firearms" />
+<relation_link2 id="re15" fromID="M5" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="o6" toText="the Anderson County Sheriff's Department" />
+<relation_link2 id="re16" fromID="M6" fromText="agents of the Drug Enforcement Administration, the Bureau of Alcohol, Tobacco and Firearms, the Anderson County Sheriff's Department and the Anderson City Police Department" toID="o7" toText="the Anderson City Police Department" />
+<relation_link2 id="re17" fromID="e11" fromText="Assistant United States Attorney" toID="g15" toText="United States" />
+<relation_link2 id="re18" fromID="M7" fromText="Assistant United States Attorney Leesa Washington of the Greenville office" toID="o8" toText="the Greenville office" />
+<relation_link2 id="re19" fromID="M2" fromText="United States District Judge" toID="o9" toText="District" />
+<relation_link2 id="re6" fromID="M0" fromText="the Anderson County Sheriff's Department" toID="o6" toText="the Anderson County Sheriff's Department" />
+</TAGS>
+</KddTask>

@@ -1,0 +1,18 @@
+New “Fileless Malware” Targets Banks and Organizations Spotted in the Wild
+Swati Khandelwal
+
+More than a hundred banks and financial institutions across the world have been infected with a dangerous sophisticated, memory-based malware that's almost undetectable, researchers warned.
+Newly published report by the Russian security firm Kaspersky Lab indicates that hackers are targeting banks, telecommunication companies, and government organizations in 40 countries, including the US, South America, Europe and Africa, with Fileless malware that resides solely in the memory of the compromised computers.
+Fileless malware was first discovered by the same security firm in 2014, has never been mainstream until now.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Fileless malware is a piece of nasty software that does not copy any files or folder to the hard drive in order to get executed. Instead, payloads are directly injected into the memory of running processes, and the malware executes in the system's RAM.
+Since the malware runs in the memory, the memory acquisition becomes useless once the system gets rebooted, making it difficult for digital forensic experts to find the traces of the malware.
+The attack was initially discovered by a bank's security team after they found a copy of Meterpreter — an in-memory component of Metasploit — inside the physical memory of a Microsoft domain controller.
+After conducting a forensic analysis, Kaspersky researchers found that the attackers leveraged Windows PowerShell to load the Meterpreter code directly into memory rather than writing it to the disk.
+The cyber crooks also used Microsoft's NETSH networking tool to set up a proxy tunnel for communicating with the command and control (C&C) server and remotely controlling the infected host.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+They also stashed the PowerShell commands into the Windows registry in an effort to reduce nearly all traces of the attacks left in logs or hard drive after a reboot of the device, making detection and forensic analysis difficult.
+The ultimate goal of the attackers was apparently aimed at compromising computers that control ATMs so that they could steal money.
+Kaspersky Lab researchers plan to reveal more details in April about the attack, which is occurring on an industrial scale worldwide.
+The attack has already hit more than 140 enterprise networks in business sectors, with most victims located in the US, France, Ecuador, Kenya, the UK, and Russia. And since the threat is so hard to spot, the actual number is likely much higher.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

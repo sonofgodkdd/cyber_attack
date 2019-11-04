@@ -1,0 +1,20 @@
+British Airways Hacked – 380,000 Payment Cards Compromised
+Swati Khandelwal
+
+British Airways, who describes itself as "The World's Favorite Airline," has confirmed a data breach that exposed personal details and credit-card numbers of up to 380,000 customers and lasted for more than two weeks.
+So who exactly are victims?
+In a statement released by British Airways on Thursday, customers booking flights on its website (ba.com) and British Airways mobile app between late 21 August and 5 September were compromised.
+The airline advised customers who made bookings during that 15 days period and believe they may have been affected by this incident to "contact their banks or credit card providers and follow their recommended advice."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+British Airways stated on its Twitter account that personal details stolen in the breach included their customers' names and addresses, along with their financial information, but the company assured its customers that the hackers did not get away with their passport numbers or travel details.
+The company also said that saved cards on its website and mobile app are not compromised in the breach. Only cards that have been used by you to make booking payments during the affected period are stolen.
+"We are investigating, as a matter of urgency, the theft of customer data from our website and our mobile app," the company said in a statement. "The stolen data did not include travel or passport details."
+Although the statement released by the did not mention the number of affected customers, the company's spokesperson confirmed to the media that some 380,000 payment cards were compromised in the breach.
+Also currently, it is not clear how the data breach occurred, but some media outlets are reporting that the breach was identified when "a third party noticed some unusual activity" and informed the company about it.
+A spokesperson from British Airways confirmed The Hacker News that "this is data theft, rather than a breach," which suggests someone with privileged access to the data might have stolen it.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+British Airways also informed the police and the Information Commissioner and currently reaching out to affected customers directly.
+However, the company assured its customers that the security breach has now been resolved, and its website is working normally and is now safe for passengers to check-in online, and book flights online.
+The National Crime Agency is aware of the British Airways data breach and is "working with partners to assess the best course of action."
+Air Canada also suffered a severe data breach late last month, which, along with personal data, also exposed passport number and other passport and travel details of about 20,000 mobile app customers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

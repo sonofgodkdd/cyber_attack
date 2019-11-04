@@ -1,0 +1,23 @@
+Yahoo Admits 1 Billion Accounts Compromised in Newly Discovered Data Breach
+Swati Khandelwal
+
+In what believe to be the largest data breach in history, Yahoo is reporting a massive data breach that disclosed personal details associated with more than 1 Billion user accounts in August 2013.
+…And it's separate from the one disclosed by Yahoo! in September, in which hackers compromised as many as 500 Million user accounts in late 2014.
+What's troubling is that the company has not been able to discovered how "an unauthorized third party" were able to steal the data associated with more than one Billion users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The data breach officially disclosed on Wednesday actually occurred in 2013 and, just like the one in 2014, allowed the cyber crooks to obtain personal information of its users but not credit card details.
+Here's what Yahoo's chief information security officer Bob Lord says the hackers obtained:
+"The stolen user account information may have included names, email addresses, telephone numbers, dates of birth, hashed passwords (using MD5) and, in some cases, encrypted or unencrypted security questions and answers."
+The hashed passwords used an aging algorithm called MD5 that can easily be cracked. Moreover, in some incidents, the hack revealed unencrypted security questions and answers that would provide quick access to users accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The public disclosure of this latest data breach came upon "further analysis" of data that law enforcement provided Yahoo in November.
+Change your Password and Security Q&A Immediately
+Of course, if you are one of those potentially affected users, you are strongly recommended to change your passwords and invalidate affected security questions.
+Also, if you are using the same password and answers for security questions somewhere else, change them too.
+Yahoo has started notifying the account holders affected by the massive data breach, requiring them to change their passwords immediately.
+Both the data breaches at Yahoo! came after the company negotiated a deal to sell its core internet business to Verizon Communication Inc for $4.8 Billion.
+The September disclosure of half a billion users' breach prompted Verizon to say in October that it might withdraw from the agreement to buy Yahoo.
+Here's the statement from Verizon spokesman Bob Verettoni about the recent largest data breach:
+"As we've said all along, we will evaluate the situation as Yahoo continues its investigation. We will review the impact of this new development before reaching any final conclusions."
+Previous data breach news had already magnified company's problems, and now when another data breach affecting a Billion users has been disclosed, would Yahoo be able to save its acquisition deal?
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

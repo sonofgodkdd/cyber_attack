@@ -1,0 +1,29 @@
+Hundreds Of Operations Canceled After Malware Hacks Hospitals Systems
+Mohit Kumar
+
+Computer viruses do not discriminate.
+They are not just hacking your email and online banking accounts anymore.
+Computer viruses do not distinguish between a personal computer or a hospital machine delivering therapy to patients — and the results could prove deadly.
+Cyber attacks on hospitals have emerged as a significant cyber security risk in 2016, which not only threaten highly sensitive information but also potentially harm the very lives of those being protected.
+In the latest incident, hundreds of planned operations, outpatient appointments, and diagnostic procedures have been canceled at multiple hospitals in Lincolnshire, England, after a "major" computer virus compromised the National Health Service (NHS) network on Sunday.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a bright-red alert warning labeled "Major incident" on its website, the Northern Lincolnshire and Goole NHS Foundation Trust (NLAG) said its systems in Scunthorpe and Grimsby were infected with a virus on October 30.
+The incident forced the trust to shut down all the major systems within its shared IT network in order to "isolate and destroy" the virus and cancel surgeries.
+"We have taken the decision, following expert advice, to shut down the majority of our systems so we can isolate and destroy it," the NHS wrote on its website. "All planned operations, outpatient appointments and diagnostic procedures have been canceled for Wednesday, Nov. 2 with a small number of exceptions."
+Some patients, including major trauma patients and high-risk women in labor, were diverted to neighbouring hospitals.
+Although the majority of systems are now back and working, the NHS Trust has not provided any specific information about the sort of virus or malware or if it managed to breach any defense.
+The incident took place after the U.S. and Canada issued a joint cyber alert, warning hospitals and other organizations against a surge in extortion attacks that infect computers with Ransomware that encrypts data and demand money for it to be unlocked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it is unclear at the moment, the virus could likely be a ransomware that has previously targeted hospitals and healthcare facilities.
+Life Threatening Cyber-Attacks
+With the rise in Ransomware threat, we have seen an enormous growth in the malware businesses.
+The countless transactions of Bitcoins into the dark web have energized the Ransomware authors to distribute and adopt new infection methods for the higher successful rate.
+Today, Ransomware have been a soft target for both Corporates as well as Hospitals.
+Since earlier this year, over a dozen hospitals have been targeted by ransomware, enforcing them to pay the ransom amount as per the demand by freezing the central medical systems.
+Technological advancement in the medical arena has digitalized patients data in the form of Electronic Medical Record (EMR) in order to save them into the hospital's central database.
+Since the delay in patients treatment by temporary locking down their details could even result in the patient's death, the attackers seek 100 percent guarantee ransom by infecting hospitals with Ransomware.
+Due to this reason, in most of the cases, hospitals generally agrees to pay the ransom amount to the attackers.
+Earlier this year, the Los Angeles-based Presbyterian Medical Center paid $17,000 in Bitcoins to cyber crooks in order to restore access to its electronic medical systems, after a ransomware virus hit the hospital.
+Also back in April, the MedStar Health chain that runs a number of hospitals in the Baltimore and Washington area, was attacked with Samsam ransomware (or Samas) that encrypted sensitive data at the hospitals.
+Followingly, many more hospitals, including Methodist Hospital in Henderson and Kentucky, Desert Valley Hospital in California and Chino Valley Medical Center, have been infected with Ransomware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

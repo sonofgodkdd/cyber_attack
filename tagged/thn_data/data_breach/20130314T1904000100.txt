@@ -1,0 +1,10 @@
+HP LaserJet Security flaw allows remote data access
+Wang Wei
+
+A critical vulnerability discovered in certain LaserJet Pro printers that could give remote attackers access to sensitive data. Homeland Security’s Computer Emergency Response Team recently issued a vulnerability note warning that HP LaserJet Professional printers contain a telnet debug shell which could allow a remote attacker to gain unauthorized access to data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This flaw was discovered by a Germany security expert, Christoph von Wittich. He detected the vulnerability during a routine network scan of his company's corporate network.
+He said the vulnerability could also be used for a denial-of-service attack. "As long as the printer is not connected to the Internet, this vulnerability should not cause much trouble for the end user,".
+Marked as CVE-2012-5215 (VU#782451, SSRT101078), vulnerability affected 12 printer models including HP LaserJet Pro P1102w, P1102w, P1606dn, M1212nf MFP, M1213nf MFP, M1214nfh MFP, M1216nfh Multifunction Printer, M1217nfw Multifunction Printer, M1218nfs MFP, M1219nf MFP, CP1025nw, and CP1025nw.
+Users are advised to download updated firmware for printers impacted by the bug from the company’s Support Center site.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

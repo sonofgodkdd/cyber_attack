@@ -1,0 +1,17 @@
+U.S. Trade Group Hacked by Chinese Hackers ahead of Trump-Xi Trade Summit
+Swati Khandelwal
+
+Researchers have uncovered a Chinese cyber-espionage against the United States ahead of the trade summit on Thursday between US President Donald Trump and China's President Xi Jinping.
+According to a new report published today by Fidelis Cybersecurity firm, the Chinese APT10 hacking group implanted a piece of malware on the "Events" page of the US National Foreign Trade Council (NFTC) website in February.
+Dubbed 'Operation TradeSecret,' the attack against the NFTC site is seen as an attempt to conduct surveillance on the main industry players and lobbyists closely associated with U.S trade policy activities. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers say hackers placed a malicious link on the NFTC website, inviting the organization's board of directors to register for a meeting in Washington DC on March 7. But clicking on the link deployed a spying tool called "Scanbox."
+Dates back to 2014, Scanbox – previously used by nation-state threat actors associated with the Chinese government – has the ability to record the type and versions of software a victim is running and run keyloggers on compromised computers, said Fidelis researcher John Bambenek.
+"This attack was really at its core a reconnaissance attack. Anyone who visited this calendar entry would expose their software versions and use a JavaScript keylogger that could expose their identity," said Bambenek.
+"Traditionally these attacks are used to precisely identify targets and help them craft targeted phishing attacks using exploits they know the victim is vulnerable to."
+The malicious link was active on the NFTC website between February 27 and March 1. The malware was already removed from the site by the time Fidelis contacted NFTC.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The NFTC's staff and board represent many influential people and companies -- from President Rufus Yerxa, the U.S. Ambassador to GATT to executives from major companies including Google, Amazon, eBay, IBM, Coca-Cola, Microsoft, Oracle, Cisco, KPMG, Pfizer, Visa, Ford, Halliburton, and Walmart.
+Although Fidelis detected no further attacks on NFTC board members, the security firm believed the hackers were after a full range of entities relevant to the trade negotiations due to take place Thursday between US and China.
+This is the second time in a week when APT10 cyber espionage campaign has come to light. A report released this week by BAE Systems, and PwC also claimed that APT10 was targeting managed IT services providers (MSPs) and their customers across the globe to steal sensitive data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

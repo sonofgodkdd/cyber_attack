@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+June 24, 2008
+Violent illegal alien sentenced to 7 years for re-entering the United States
+GREENBELT, Md. - Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md., was sentenced today by U.S. District Judge Alexander Williams, Jr. to seven years in prison followed by three years of supervised release for illegally re-entering the country after being deported. Montez-Flores will be deported after serving his seven year sentence in federal prison. The investigation was lead by agents from U.S. Immigration and Customs Enforcement (ICE) with assistance by the Montgomery County Police Department.
+"This sentence demonstrates that the United States government will pursue violent offenders utilizing all available resources," stated James A. Dinkins, Special Agent in Charge of ICE. "We will work with our law enforcement partners to ensure that criminal aliens are prosecuted to the fullest extent allowable under the law."
+According to his guilty plea and evidence presented at today's hearing, in 1996 Montez-Flores was twice convicted of drug charges and deported. Since that time, he has illegally re-entered the United States and has been convicted three times of driving under the influence of alcohol and various other motor vehicle and assault charges. Montez-Flores used an alias when he was convicted of these charges.
+Today's sentencing is the result of a 2007 arrest in which Montez-Flores refused an officer's order to leave a "no loitering' area. According to testimony at today's hearing, Montez-Flores refused to identify himself and attempted to assault the officer. When he was finally placed under arrest, Montez-Flores threatened to kill the officers.
+Once placed in the cruiser, he repeatedly kicked the windows, the vehicle's computer, police radio and other items, eventually kicking out the rear passenger window of a cruiser. When officers tried to remove him from the vehicle, he repeatedly spat at them and kicked them.
+In the last eight months, U.S. Immigration and Customs Enforcement (ICE) referrals nationwide resulted in the felony prosecution of more than 3,800 criminal aliens for re-entering the country after deportation, more than double the number of re-entry cases the agency recorded in all of last year.
+The heightened focus on re-entry prosecutions is part of the Department of Homeland Security's multi-year plan to secure America's borders and reduce illegal migration. That strategy seeks to gain operational control of both the northern and southern borders, while re-engineering the detention and removal system to ensure that illegal aliens are removed from the country quickly and efficiently.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="15" end="91" text="Violent illegal alien sentenced to 7 years for re-entering the United States" TYPE="BAR" />
+<person id="p1" start="109" end="183" text="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md" TYPE="APP" />
+<person id="p2" start="109" end="133" text="Miguel Montez-Flores, 36" TYPE="NAM" />
+<person id="p3" start="135" end="183" text="a Mexican national residing in Silver Spring, Md" TYPE="NOM" />
+<person id="p4" start="209" end="252" text="U.S. District Judge Alexander Williams, Jr." TYPE="NAM" />
+<person id="p5" start="209" end="228" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p6" start="384" end="397" text="Montez-Flores" TYPE="NAM" />
+<person id="p7" start="429" end="432" text="his" TYPE="PRO" />
+<person id="p8" start="502" end="559" text="agents from U.S. Immigration and Customs Enforcement (ICE" TYPE="BAR" />
+<person id="p9" start="695" end="712" text="violent offenders" TYPE="BAR" />
+<person id="p10" start="756" end="804" text="James A. Dinkins, Special Agent in Charge of ICE" TYPE="APP" />
+<person id="p11" start="756" end="772" text="James A. Dinkins" TYPE="NAM" />
+<person id="p12" start="774" end="804" text="Special Agent in Charge of ICE" TYPE="BAR" />
+<person id="p13" start="869" end="884" text="criminal aliens" TYPE="BAR" />
+<person id="p14" start="961" end="964" text="his" TYPE="PRO" />
+<person id="p15" start="1028" end="1041" text="Montez-Flores" TYPE="NAM" />
+<person id="p16" start="1109" end="1111" text="he" TYPE="PRO" />
+<person id="p17" start="1285" end="1298" text="Montez-Flores" TYPE="NAM" />
+<person id="p18" start="1318" end="1320" text="he" TYPE="PRO" />
+<person id="p19" start="1412" end="1425" text="Montez-Flores" TYPE="NAM" />
+<person id="p20" start="1434" end="1444" text="an officer" TYPE="NOM" />
+<person id="p21" start="1528" end="1541" text="Montez-Flores" TYPE="NAM" />
+<person id="p22" start="1562" end="1569" text="himself" TYPE="PRO" />
+<person id="p23" start="1595" end="1606" text="the officer" TYPE="NOM" />
+<person id="p24" start="1613" end="1615" text="he" TYPE="PRO" />
+<person id="p25" start="1649" end="1662" text="Montez-Flores" TYPE="NAM" />
+<person id="p26" start="1682" end="1694" text="the officers" TYPE="BAR" />
+<person id="p27" start="1724" end="1726" text="he" TYPE="PRO" />
+<person id="p28" start="1844" end="1853" text="passenger" TYPE="NOMPRE" />
+<person id="p29" start="1880" end="1888" text="officers" TYPE="BAR" />
+<person id="p30" start="1905" end="1908" text="him" TYPE="PRO" />
+<person id="p31" start="1927" end="1929" text="he" TYPE="PRO" />
+<person id="p32" start="1949" end="1953" text="them" TYPE="PRO" />
+<person id="p33" start="1965" end="1969" text="them" TYPE="PRO" />
+<person id="p34" start="2103" end="2134" text="more than 3,800 criminal aliens" TYPE="NOM" />
+<person id="p35" start="2598" end="2612" text="illegal aliens" TYPE="BAR" />
+<organization id="o0" start="214" end="222" text="District" TYPE="NOMPRE" />
+<organization id="o1" start="514" end="559" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="556" end="559" text="ICE" TYPE="NAM" />
+<organization id="o3" start="580" end="619" text="the Montgomery County Police Department" TYPE="NAM" />
+<organization id="o5" start="801" end="804" text="ICE" TYPE="NAM" />
+<organization id="o6" start="807" end="809" text="We" TYPE="PRO" />
+<organization id="o7" start="825" end="853" text="our law enforcement partners" TYPE="BAR" />
+<organization id="o8" start="825" end="828" text="our" TYPE="PRO" />
+<organization id="o9" start="1782" end="1788" text="police" TYPE="NOMPRE" />
+<organization id="o10" start="1997" end="2042" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o11" start="2039" end="2042" text="ICE" TYPE="NAM" />
+<organization id="o12" start="2228" end="2238" text="the agency" TYPE="NOM" />
+<organization id="o13" start="2326" end="2361" text="the Department of Homeland Security" TYPE="NAM" />
+<geographical-political id="g0" start="74" end="91" text="the United States" TYPE="NAM" />
+<geographical-political id="g1" start="92" end="105" text="GREENBELT, Md" TYPE="NAM" />
+<geographical-political id="g2" start="103" end="105" text="Md" TYPE="NAM" />
+<geographical-political id="g3" start="137" end="144" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g4" start="166" end="183" text="Silver Spring, Md" TYPE="NAM" />
+<geographical-political id="g5" start="181" end="183" text="Md" TYPE="NAM" />
+<geographical-political id="g6" start="209" end="212" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g7" start="350" end="361" text="the country" TYPE="NOM" />
+<geographical-political id="g8" start="658" end="671" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g9" start="1137" end="1154" text="the United States" TYPE="NAM" />
+<geographical-political id="g10" start="2151" end="2162" text="the country" TYPE="NOM" />
+<geographical-political id="g11" start="2390" end="2397" text="America" TYPE="NAM" />
+<geographical-political id="g12" start="2630" end="2641" text="the country" TYPE="NOM" />
+<geographical-political id="g13" start="654" end="682" text="the United States government" TYPE="NOM" />
+<location id="l0" start="2390" end="2407" text="America's borders" TYPE="NOM" />
+<location id="l1" start="2494" end="2527" text="the northern and southern borders" TYPE="NOM" />
+<falicity id="f0" start="271" end="277" text="prison" TYPE="BAR" />
+<falicity id="f1" start="456" end="470" text="federal prison" TYPE="BAR" />
+<head id="h0" start="31" end="36" text="alien" />
+<head id="h1" start="78" end="91" text="United States" />
+<head id="h2" start="92" end="101" text="GREENBELT" />
+<head id="h3" start="103" end="105" text="Md" />
+<head id="h4" start="109" end="129" text="Miguel Montez-Flores" />
+<head id="h5" start="145" end="153" text="national" />
+<head id="h6" start="137" end="144" text="Mexican" />
+<head id="h7" start="166" end="179" text="Silver Spring" />
+<head id="h8" start="181" end="183" text="Md" />
+<head id="h9" start="229" end="247" text="Alexander Williams" />
+<head id="h10" start="223" end="228" text="Judge" />
+<head id="h11" start="214" end="222" text="District" />
+<head id="h12" start="209" end="212" text="U.S" />
+<head id="h13" start="271" end="277" text="prison" />
+<head id="h14" start="354" end="361" text="country" />
+<head id="h15" start="384" end="397" text="Montez-Flores" />
+<head id="h16" start="429" end="432" text="his" />
+<head id="h17" start="464" end="470" text="prison" />
+<head id="h18" start="502" end="508" text="agents" />
+<head id="h19" start="514" end="554" text="U.S. Immigration and Customs Enforcement" />
+<head id="h20" start="556" end="559" text="ICE" />
+<head id="h21" start="584" end="619" text="Montgomery County Police Department" />
+<head id="h22" start="672" end="682" text="government" />
+<head id="h23" start="658" end="671" text="United States" />
+<head id="h24" start="703" end="712" text="offenders" />
+<head id="h25" start="756" end="772" text="James A. Dinkins" />
+<head id="h26" start="782" end="787" text="Agent" />
+<head id="h27" start="801" end="804" text="ICE" />
+<head id="h28" start="807" end="809" text="We" />
+<head id="h29" start="845" end="853" text="partners" />
+<head id="h30" start="825" end="828" text="our" />
+<head id="h31" start="878" end="884" text="aliens" />
+<head id="h32" start="961" end="964" text="his" />
+<head id="h33" start="1028" end="1041" text="Montez-Flores" />
+<head id="h34" start="1109" end="1111" text="he" />
+<head id="h35" start="1141" end="1154" text="United States" />
+<head id="h36" start="1285" end="1298" text="Montez-Flores" />
+<head id="h37" start="1318" end="1320" text="he" />
+<head id="h38" start="1412" end="1425" text="Montez-Flores" />
+<head id="h39" start="1437" end="1444" text="officer" />
+<head id="h40" start="1528" end="1541" text="Montez-Flores" />
+<head id="h41" start="1562" end="1569" text="himself" />
+<head id="h42" start="1599" end="1606" text="officer" />
+<head id="h43" start="1613" end="1615" text="he" />
+<head id="h44" start="1649" end="1662" text="Montez-Flores" />
+<head id="h45" start="1686" end="1694" text="officers" />
+<head id="h46" start="1724" end="1726" text="he" />
+<head id="h47" start="1782" end="1788" text="police" />
+<head id="h48" start="1844" end="1853" text="passenger" />
+<head id="h49" start="1880" end="1888" text="officers" />
+<head id="h50" start="1905" end="1908" text="him" />
+<head id="h51" start="1927" end="1929" text="he" />
+<head id="h52" start="1949" end="1953" text="them" />
+<head id="h53" start="1965" end="1969" text="them" />
+<head id="h54" start="1997" end="2037" text="U.S. Immigration and Customs Enforcement" />
+<head id="h55" start="2039" end="2042" text="ICE" />
+<head id="h56" start="2128" end="2134" text="aliens" />
+<head id="h57" start="2155" end="2162" text="country" />
+<head id="h58" start="2232" end="2238" text="agency" />
+<head id="h59" start="2330" end="2361" text="Department of Homeland Security" />
+<head id="h60" start="2400" end="2407" text="borders" />
+<head id="h61" start="2390" end="2397" text="America" />
+<head id="h62" start="2520" end="2527" text="borders" />
+<head id="h63" start="2606" end="2612" text="aliens" />
+<head id="h64" start="2634" end="2641" text="country" />
+<name id="n0" start="78" end="91" text="United States" />
+<name id="n1" start="92" end="101" text="GREENBELT" />
+<name id="n2" start="103" end="105" text="Md" />
+<name id="n3" start="109" end="129" text="Miguel Montez-Flores" />
+<name id="n4" start="137" end="144" text="Mexican" />
+<name id="n5" start="166" end="179" text="Silver Spring" />
+<name id="n6" start="181" end="183" text="Md" />
+<name id="n7" start="229" end="247" text="Alexander Williams" />
+<name id="n8" start="209" end="212" text="U.S" />
+<name id="n9" start="384" end="397" text="Montez-Flores" />
+<name id="n10" start="514" end="554" text="U.S. Immigration and Customs Enforcement" />
+<name id="n11" start="556" end="559" text="ICE" />
+<name id="n12" start="584" end="619" text="Montgomery County Police Department" />
+<name id="n13" start="658" end="671" text="United States" />
+<name id="n14" start="756" end="772" text="James A. Dinkins" />
+<name id="n15" start="801" end="804" text="ICE" />
+<name id="n16" start="1028" end="1041" text="Montez-Flores" />
+<name id="n17" start="1141" end="1154" text="United States" />
+<name id="n18" start="1285" end="1298" text="Montez-Flores" />
+<name id="n19" start="1412" end="1425" text="Montez-Flores" />
+<name id="n20" start="1528" end="1541" text="Montez-Flores" />
+<name id="n21" start="1649" end="1662" text="Montez-Flores" />
+<name id="n22" start="1997" end="2037" text="U.S. Immigration and Customs Enforcement" />
+<name id="n23" start="2039" end="2042" text="ICE" />
+<name id="n24" start="2330" end="2361" text="Department of Homeland Security" />
+<name id="n25" start="2390" end="2397" text="America" />
+<located-mention id="lo0" start="15" end="91" text="Violent illegal alien sentenced to 7 years for re-entering the United States" TYPE="Other" />
+<located-mention id="lo1" start="109" end="382" text="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md., was sentenced today by U.S. District Judge Alexander Williams, Jr. to seven years in prison followed by three years of supervised release for illegally re-entering the country after being deported" TYPE="Other" />
+<located-mention id="lo2" start="1092" end="1283" text="Since that time, he has illegally re-entered the United States and has been convicted three times of driving under the influence of alcohol and various other motor vehicle and assault charges" TYPE="Verbal" />
+<located-mention id="lo3" start="1971" end="2267" text="In the last eight months, U.S. Immigration and Customs Enforcement (ICE) referrals nationwide resulted in the felony prosecution of more than 3,800 criminal aliens for re-entering the country after deportation, more than double the number of re-entry cases the agency recorded in all of last year" TYPE="Other" />
+<employment-mention id="e0" start="209" end="228" text="U.S. District Judge" TYPE="PreMod" />
+<CRRE id="C0" start="135" end="183" text="a Mexican national residing in Silver Spring, Md" TYPE="PreMod" />
+<CRRE id="C1" start="135" end="183" text="a Mexican national residing in Silver Spring, Md" TYPE="Participial" />
+<M id="M0" start="209" end="228" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M1" start="502" end="559" text="agents from U.S. Immigration and Customs Enforcement (ICE" TYPE="Preposition" />
+<M id="M2" start="774" end="804" text="Special Agent in Charge of ICE" TYPE="Preposition" />
+<entity_link id="en0" fromID="p2" fromText="Miguel Montez-Flores, 36" toID="p1" toText="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md" />
+<entity_link id="en1" fromID="p1" fromText="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md" toID="p0" toText="Violent illegal alien sentenced to 7 years for re-entering the United States" />
+<entity_link id="en2" fromID="p3" fromText="a Mexican national residing in Silver Spring, Md" toID="p2" toText="Miguel Montez-Flores, 36" />
+<entity_link id="en3" fromID="g5" fromText="Md" toID="g2" toText="Md" />
+<entity_link id="en4" fromID="p5" fromText="U.S. District Judge" toID="p4" toText="U.S. District Judge Alexander Williams, Jr." />
+<entity_link id="en5" fromID="g6" fromText="U.S" toID="g0" toText="the United States" />
+<entity_link id="en6" fromID="g7" fromText="the country" toID="g6" toText="U.S" />
+<entity_link id="en7" fromID="p6" fromText="Montez-Flores" toID="p2" toText="Miguel Montez-Flores, 36" />
+<entity_link id="en8" fromID="p7" fromText="his" toID="p6" toText="Montez-Flores" />
+<entity_link id="en9" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en10" fromID="g8" fromText="United States" toID="g6" toText="U.S" />
+<entity_link id="en11" fromID="p11" fromText="James A. Dinkins" toID="p10" toText="James A. Dinkins, Special Agent in Charge of ICE" />
+<entity_link id="en12" fromID="p12" fromText="Special Agent in Charge of ICE" toID="p11" toText="James A. Dinkins" />
+<entity_link id="en13" fromID="o5" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en14" fromID="o6" fromText="We" toID="o5" toText="ICE" />
+<entity_link id="en15" fromID="o8" fromText="our" toID="o6" toText="We" />
+<entity_link id="en16" fromID="p14" fromText="his" toID="p6" toText="Montez-Flores" />
+<entity_link id="en17" fromID="p15" fromText="Montez-Flores" toID="p6" toText="Montez-Flores" />
+<entity_link id="en18" fromID="p16" fromText="he" toID="p15" toText="Montez-Flores" />
+<entity_link id="en19" fromID="g9" fromText="the United States" toID="g8" toText="United States" />
+<entity_link id="en20" fromID="p17" fromText="Montez-Flores" toID="p15" toText="Montez-Flores" />
+<entity_link id="en21" fromID="p18" fromText="he" toID="p17" toText="Montez-Flores" />
+<entity_link id="en22" fromID="p19" fromText="Montez-Flores" toID="p17" toText="Montez-Flores" />
+<entity_link id="en23" fromID="p21" fromText="Montez-Flores" toID="p19" toText="Montez-Flores" />
+<entity_link id="en24" fromID="p22" fromText="himself" toID="p21" toText="Montez-Flores" />
+<entity_link id="en25" fromID="p23" fromText="the officer" toID="p20" toText="an officer" />
+<entity_link id="en26" fromID="p24" fromText="he" toID="p21" toText="Montez-Flores" />
+<entity_link id="en27" fromID="p25" fromText="Montez-Flores" toID="p21" toText="Montez-Flores" />
+<entity_link id="en28" fromID="p27" fromText="he" toID="p25" toText="Montez-Flores" />
+<entity_link id="en29" fromID="p29" fromText="officers" toID="p26" toText="the officers" />
+<entity_link id="en30" fromID="p30" fromText="him" toID="p25" toText="Montez-Flores" />
+<entity_link id="en31" fromID="p31" fromText="he" toID="p25" toText="Montez-Flores" />
+<entity_link id="en32" fromID="p32" fromText="them" toID="p29" toText="officers" />
+<entity_link id="en33" fromID="p33" fromText="them" toID="p29" toText="officers" />
+<entity_link id="en34" fromID="o10" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="o5" toText="ICE" />
+<entity_link id="en35" fromID="o11" fromText="ICE" toID="o10" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en36" fromID="g10" fromText="the country" toID="g9" toText="the United States" />
+<entity_link id="en37" fromID="o12" fromText="the agency" toID="o10" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en38" fromID="g11" fromText="America" toID="g9" toText="the United States" />
+<entity_link id="en39" fromID="g12" fromText="the country" toID="g9" toText="the United States" />
+<entity_link id="en40" fromID="g13" fromText="the United States government" toID="g8" toText="United States" />
+<head_link id="he0" fromID="p0" fromText="Violent illegal alien sentenced to 7 years for re-entering the United States" toID="h0" toText="alien" />
+<head_link id="he1" fromID="g0" fromText="the United States" toID="h1" toText="United States" />
+<head_link id="he2" fromID="g1" fromText="GREENBELT, Md" toID="h2" toText="GREENBELT" />
+<head_link id="he3" fromID="g2" fromText="Md" toID="h3" toText="Md" />
+<head_link id="he4" fromID="p2" fromText="Miguel Montez-Flores, 36" toID="h4" toText="Miguel Montez-Flores" />
+<head_link id="he5" fromID="p3" fromText="a Mexican national residing in Silver Spring, Md" toID="h5" toText="national" />
+<head_link id="he6" fromID="g3" fromText="Mexican" toID="h6" toText="Mexican" />
+<head_link id="he7" fromID="g4" fromText="Silver Spring, Md" toID="h7" toText="Silver Spring" />
+<head_link id="he8" fromID="g5" fromText="Md" toID="h8" toText="Md" />
+<head_link id="he9" fromID="p4" fromText="U.S. District Judge Alexander Williams, Jr." toID="h9" toText="Alexander Williams" />
+<head_link id="he10" fromID="p5" fromText="U.S. District Judge" toID="h10" toText="Judge" />
+<head_link id="he11" fromID="o0" fromText="District" toID="h11" toText="District" />
+<head_link id="he12" fromID="g6" fromText="U.S" toID="h12" toText="U.S" />
+<head_link id="he13" fromID="f0" fromText="prison" toID="h13" toText="prison" />
+<head_link id="he14" fromID="g7" fromText="the country" toID="h14" toText="country" />
+<head_link id="he15" fromID="p6" fromText="Montez-Flores" toID="h15" toText="Montez-Flores" />
+<head_link id="he16" fromID="p7" fromText="his" toID="h16" toText="his" />
+<head_link id="he17" fromID="f1" fromText="federal prison" toID="h17" toText="prison" />
+<head_link id="he18" fromID="p8" fromText="agents from U.S. Immigration and Customs Enforcement (ICE" toID="h18" toText="agents" />
+<head_link id="he19" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h19" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he20" fromID="o2" fromText="ICE" toID="h20" toText="ICE" />
+<head_link id="he21" fromID="o3" fromText="the Montgomery County Police Department" toID="h21" toText="Montgomery County Police Department" />
+<head_link id="he23" fromID="g8" fromText="United States" toID="h23" toText="United States" />
+<head_link id="he24" fromID="p9" fromText="violent offenders" toID="h24" toText="offenders" />
+<head_link id="he25" fromID="p11" fromText="James A. Dinkins" toID="h25" toText="James A. Dinkins" />
+<head_link id="he26" fromID="p12" fromText="Special Agent in Charge of ICE" toID="h26" toText="Agent" />
+<head_link id="he27" fromID="o5" fromText="ICE" toID="h27" toText="ICE" />
+<head_link id="he28" fromID="o6" fromText="We" toID="h28" toText="We" />
+<head_link id="he29" fromID="o7" fromText="our law enforcement partners" toID="h29" toText="partners" />
+<head_link id="he30" fromID="o8" fromText="our" toID="h30" toText="our" />
+<head_link id="he31" fromID="p13" fromText="criminal aliens" toID="h31" toText="aliens" />
+<head_link id="he32" fromID="p14" fromText="his" toID="h32" toText="his" />
+<head_link id="he33" fromID="p15" fromText="Montez-Flores" toID="h33" toText="Montez-Flores" />
+<head_link id="he34" fromID="p16" fromText="he" toID="h34" toText="he" />
+<head_link id="he35" fromID="g9" fromText="the United States" toID="h35" toText="United States" />
+<head_link id="he36" fromID="p17" fromText="Montez-Flores" toID="h36" toText="Montez-Flores" />
+<head_link id="he37" fromID="p18" fromText="he" toID="h37" toText="he" />
+<head_link id="he38" fromID="p19" fromText="Montez-Flores" toID="h38" toText="Montez-Flores" />
+<head_link id="he39" fromID="p20" fromText="an officer" toID="h39" toText="officer" />
+<head_link id="he40" fromID="p21" fromText="Montez-Flores" toID="h40" toText="Montez-Flores" />
+<head_link id="he41" fromID="p22" fromText="himself" toID="h41" toText="himself" />
+<head_link id="he42" fromID="p23" fromText="the officer" toID="h42" toText="officer" />
+<head_link id="he43" fromID="p24" fromText="he" toID="h43" toText="he" />
+<head_link id="he44" fromID="p25" fromText="Montez-Flores" toID="h44" toText="Montez-Flores" />
+<head_link id="he45" fromID="p26" fromText="the officers" toID="h45" toText="officers" />
+<head_link id="he46" fromID="p27" fromText="he" toID="h46" toText="he" />
+<head_link id="he47" fromID="o9" fromText="police" toID="h47" toText="police" />
+<head_link id="he48" fromID="p28" fromText="passenger" toID="h48" toText="passenger" />
+<head_link id="he49" fromID="p29" fromText="officers" toID="h49" toText="officers" />
+<head_link id="he50" fromID="p30" fromText="him" toID="h50" toText="him" />
+<head_link id="he51" fromID="p31" fromText="he" toID="h51" toText="he" />
+<head_link id="he52" fromID="p32" fromText="them" toID="h52" toText="them" />
+<head_link id="he53" fromID="p33" fromText="them" toID="h53" toText="them" />
+<head_link id="he54" fromID="o10" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h54" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he55" fromID="o11" fromText="ICE" toID="h55" toText="ICE" />
+<head_link id="he56" fromID="p34" fromText="more than 3,800 criminal aliens" toID="h56" toText="aliens" />
+<head_link id="he57" fromID="g10" fromText="the country" toID="h57" toText="country" />
+<head_link id="he58" fromID="o12" fromText="the agency" toID="h58" toText="agency" />
+<head_link id="he59" fromID="o13" fromText="the Department of Homeland Security" toID="h59" toText="Department of Homeland Security" />
+<head_link id="he60" fromID="l0" fromText="America's borders" toID="h60" toText="borders" />
+<head_link id="he61" fromID="g11" fromText="America" toID="h61" toText="America" />
+<head_link id="he62" fromID="l1" fromText="the northern and southern borders" toID="h62" toText="borders" />
+<head_link id="he63" fromID="p35" fromText="illegal aliens" toID="h63" toText="aliens" />
+<head_link id="he64" fromID="g12" fromText="the country" toID="h64" toText="country" />
+<head_link id="he65" fromID="g13" fromText="the United States government" toID="h22" toText="government" />
+<name_link id="na0" fromID="g0" fromText="the United States" toID="n0" toText="United States" />
+<name_link id="na1" fromID="g1" fromText="GREENBELT, Md" toID="n1" toText="GREENBELT" />
+<name_link id="na2" fromID="g2" fromText="Md" toID="n2" toText="Md" />
+<name_link id="na3" fromID="p2" fromText="Miguel Montez-Flores, 36" toID="n3" toText="Miguel Montez-Flores" />
+<name_link id="na4" fromID="g3" fromText="Mexican" toID="n4" toText="Mexican" />
+<name_link id="na5" fromID="g4" fromText="Silver Spring, Md" toID="n5" toText="Silver Spring" />
+<name_link id="na6" fromID="g5" fromText="Md" toID="n6" toText="Md" />
+<name_link id="na7" fromID="p4" fromText="U.S. District Judge Alexander Williams, Jr." toID="n7" toText="Alexander Williams" />
+<name_link id="na8" fromID="g6" fromText="U.S" toID="n8" toText="U.S" />
+<name_link id="na9" fromID="p6" fromText="Montez-Flores" toID="n9" toText="Montez-Flores" />
+<name_link id="na10" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n10" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na11" fromID="o2" fromText="ICE" toID="n11" toText="ICE" />
+<name_link id="na12" fromID="o3" fromText="the Montgomery County Police Department" toID="n12" toText="Montgomery County Police Department" />
+<name_link id="na13" fromID="g8" fromText="United States" toID="n13" toText="United States" />
+<name_link id="na14" fromID="p11" fromText="James A. Dinkins" toID="n14" toText="James A. Dinkins" />
+<name_link id="na15" fromID="o5" fromText="ICE" toID="n15" toText="ICE" />
+<name_link id="na16" fromID="p15" fromText="Montez-Flores" toID="n16" toText="Montez-Flores" />
+<name_link id="na17" fromID="g9" fromText="the United States" toID="n17" toText="United States" />
+<name_link id="na18" fromID="p17" fromText="Montez-Flores" toID="n18" toText="Montez-Flores" />
+<name_link id="na19" fromID="p19" fromText="Montez-Flores" toID="n19" toText="Montez-Flores" />
+<name_link id="na20" fromID="p21" fromText="Montez-Flores" toID="n20" toText="Montez-Flores" />
+<name_link id="na21" fromID="p25" fromText="Montez-Flores" toID="n21" toText="Montez-Flores" />
+<name_link id="na22" fromID="o10" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n22" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na23" fromID="o11" fromText="ICE" toID="n23" toText="ICE" />
+<name_link id="na24" fromID="o13" fromText="the Department of Homeland Security" toID="n24" toText="Department of Homeland Security" />
+<name_link id="na25" fromID="g11" fromText="America" toID="n25" toText="America" />
+<relation_link1 id="r0" fromID="lo0" fromText="Violent illegal alien sentenced to 7 years for re-entering the United States" toID="p0" toText="Violent illegal alien sentenced to 7 years for re-entering the United States" />
+<relation_link1 id="r1" fromID="M0" fromText="U.S. District Judge" toID="p5" toText="U.S. District Judge" />
+<relation_link1 id="r2" fromID="e0" fromText="U.S. District Judge" toID="p5" toText="U.S. District Judge" />
+<relation_link1 id="r3" fromID="lo1" fromText="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md., was sentenced today by U.S. District Judge Alexander Williams, Jr. to seven years in prison followed by three years of supervised release for illegally re-entering the country after being deported" toID="p2" toText="Miguel Montez-Flores, 36" />
+<relation_link1 id="r4" fromID="M1" fromText="agents from U.S. Immigration and Customs Enforcement (ICE" toID="p8" toText="agents from U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link1 id="r5" fromID="C0" fromText="a Mexican national residing in Silver Spring, Md" toID="p3" toText="a Mexican national residing in Silver Spring, Md" />
+<relation_link1 id="r6" fromID="C1" fromText="a Mexican national residing in Silver Spring, Md" toID="p3" toText="a Mexican national residing in Silver Spring, Md" />
+<relation_link1 id="r7" fromID="M2" fromText="Special Agent in Charge of ICE" toID="p12" toText="Special Agent in Charge of ICE" />
+<relation_link1 id="r8" fromID="lo2" fromText="Since that time, he has illegally re-entered the United States and has been convicted three times of driving under the influence of alcohol and various other motor vehicle and assault charges" toID="p16" toText="he" />
+<relation_link1 id="r9" fromID="lo3" fromText="In the last eight months, U.S. Immigration and Customs Enforcement (ICE) referrals nationwide resulted in the felony prosecution of more than 3,800 criminal aliens for re-entering the country after deportation, more than double the number of re-entry cases the agency recorded in all of last year" toID="p34" toText="more than 3,800 criminal aliens" />
+<relation_link2 id="re0" fromID="lo0" fromText="Violent illegal alien sentenced to 7 years for re-entering the United States" toID="g0" toText="the United States" />
+<relation_link2 id="re1" fromID="M0" fromText="U.S. District Judge" toID="o0" toText="District" />
+<relation_link2 id="re2" fromID="e0" fromText="U.S. District Judge" toID="g6" toText="U.S" />
+<relation_link2 id="re3" fromID="lo1" fromText="Miguel Montez-Flores, 36, a Mexican national residing in Silver Spring, Md., was sentenced today by U.S. District Judge Alexander Williams, Jr. to seven years in prison followed by three years of supervised release for illegally re-entering the country after being deported" toID="g7" toText="the country" />
+<relation_link2 id="re4" fromID="M1" fromText="agents from U.S. Immigration and Customs Enforcement (ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link2 id="re5" fromID="C0" fromText="a Mexican national residing in Silver Spring, Md" toID="g3" toText="Mexican" />
+<relation_link2 id="re6" fromID="C1" fromText="a Mexican national residing in Silver Spring, Md" toID="g4" toText="Silver Spring, Md" />
+<relation_link2 id="re7" fromID="M2" fromText="Special Agent in Charge of ICE" toID="o5" toText="ICE" />
+<relation_link2 id="re8" fromID="lo2" fromText="Since that time, he has illegally re-entered the United States and has been convicted three times of driving under the influence of alcohol and various other motor vehicle and assault charges" toID="g9" toText="the United States" />
+<relation_link2 id="re9" fromID="lo3" fromText="In the last eight months, U.S. Immigration and Customs Enforcement (ICE) referrals nationwide resulted in the felony prosecution of more than 3,800 criminal aliens for re-entering the country after deportation, more than double the number of re-entry cases the agency recorded in all of last year" toID="g10" toText="the country" />
+</TAGS>
+</KddTask>

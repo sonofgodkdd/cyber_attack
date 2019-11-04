@@ -1,0 +1,37 @@
+Proposed Bill Would Legally Allow Cyber Crime Victims to Hack Back
+Mohit Kumar
+
+Is it wrong to hack back in order to counter hacking attack when you have become a victim? — this has been a long time debate.
+While many countries, including the United States, consider hacking back practices as illegal, many security firms and experts believe it as "a terrible idea" and officially "cautions" victims against it, even if they use it as a part of an active defense strategy.
+Accessing a system that does not belong to you or distributing code designed to enable unauthorized access to anyone's system is an illegal practice.
+However, this doesn't mean that this practice is not at all performed. In some cases, retribution is part of current defense offerings, and many security firms do occasionally hack the infrastructure of threat groups to unmask several high-profile malware campaigns.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But a new proposed bill intended to amend section 1030 of the Computer Fraud and Abuse Act that would allow victims of ongoing cyber-attacks to fight back against hackers by granting victims more powers to engage in active defense measures to identify the hacker and disrupt the attack.
+The new bill has been proposed by Representative Tom Graves of Georgia and is named the "Active Cyber Defense Certainty" (ACDC) Act — a term that empowers victims to make use of "limited defensive measures that exceed the boundaries of one's network" in order to stop and identify digital attackers.
+However, this new bill allowing hacking back attackers is already stirring up some concerns about potential unintended consequences.
+Many argue…When we have legal authority to defend ourselves during a physical assault, then why not during a cyber attack by hacking back the attacker?
+First of all, cyberspace doesn't work the way the physical world works, as online life moves at digital speeds. In the cyber world, there is a certain sense of helplessness.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Let's understand this by an example: In a home robbery, it is legal to defend your family from the attackers while waiting for the police authorities, since the robbers are in front of you and if you don't defend, a lot can happen in the several minutes in between.
+But, if robbers robbed your house and ran away, you ran behind them and caught a person assuming him one of those, but can not actually identify.
+What if he is really an innocent person who accidentally stumbled into your hands?
+This is the major concern when hacking back targets innocent people, since attribution or identification of an attacker is tough in this cyber-universe.
+But if passed, the ACDC Act will allow hacking victims to "access without authorization the computer of the attacker...to gather information...to establish attribution of criminal activity to share with law enforcement or to disrupt continued unauthorized activity against the victim's own network."
+But What if a Botnet Affected System Used to Attack You?
+It's important to note that there are some limitations. The proposed bill specifies that victims can access the attacker's computer without authorization, but to only gather information about their attackers and sharing it with law enforcement.
+But, the bill doesn't allow hacking victims to perform activities such as destroying any information stored on the attacker's computer, causing physical damage to another person, or creating a threat that can endanger public health or safety. Well, that's commendable.
+The limitation is because today so many compromised computers (botnet) are involved in cyber attacks that a hacking victim could rarely be certain they would be attacking the real attacker rather than an innocent victim.
+Even worse, that compromised machine could also belong to a company that stores personal and/or financial information of its customers. So, accessing that data without authorisation would unintentionally compromise the confidentiality of the company's data.
+"The first question that comes up with this, assuming you’re able to do it, is ‘Do you know who it is you would hack back against?'" said Ed McAndrew, an attorney with Ballard Spahr in Washington, and former federal cybercrime prosecutor. 
+"This is a real concern. You could have people hacking back at pivots (in an attack). Are you hitting back against an attacker or someone accidentally in the middle?"
+Hacking Back is legal in your country, but What about Others Where your Attacker Resides?
+This bill grants you authority to hack back, but if your attacker resides in the different country, you could face hacking charges in that nation by violating their law.
+So, in this case, you inadvertently become a cyber criminal for that country.
+What about the cyber crimes that will take place in the name of Hacking Back?
+In the whole discussion, one can not neglect sophisticated hackers, who always found some ways to carry out internet crimes.
+Today, when hacking back is illegal under the Computer Fraud and Abuse Act, it's quite easy for anyone to judge who is a criminal and who is a victim.
+But, if made legal, Hacking back could provide broad affirmative defenses to hackers who get prosecuted, enabling them to use this law to cover their activity conveniently.
+"Whatever you can convince a jury of is what truth is; that’s the view of a defense lawyer. The hacker could tell their story that they were doing this activity to aid law enforcement," said McAndrew. "You've got a lot of situations where I could envision a defendant saying they're doing this because they're trying to help law enforcement or assist victims."
+Although the ACDC proposed bill is currently undergoing a phase of public discussion, you have a chance to provide your feedback and make recommendations for the draft law before Rep. Graves formally introduce it to the U.S. House of Representatives.
+Here's the draft [PDF] of the proposed ACDC act.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

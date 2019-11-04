@@ -1,0 +1,19 @@
+Flipboard Database Hacked — Users' Account Information Exposed
+Mohit Kumar
+
+Flipboard, a popular social sharing and news aggregator service used by over 150 million people, has disclosed that its databases containing account information of certain users have been hacked.
+According to a public note published yesterday by the company, unknown hackers managed to gain unauthorized access to its systems for nearly 10 months—between June 2, 2018, and March 23, 2019, and then again on April 21-22, 2019.
+The hackers then potentially downloaded database containing Flipboard users' real name, usernames, cryptographically (salted hash) protected passwords and email addresses, including digital tokens for users who linked their Flipboard account to a third-party social media service.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a breach notification email sent out to affected users and seen by The Hacker News, the company has now reset passwords for all users as a precautionary measure, forcing users to create a new strong password for their accounts.
+"You can continue to use Flipboard on devices from which you are already logged in. When you access your Flipboard account from a new device or the next time you log into Flipboard after logging out of your account, you will be asked to create a new password," the company said.
+Flipboard also said it had not seen unauthorized access to any third-party account and still in the process of determining the total number of affected users.
+The company has also decided to replace or delete all digital tokens, making them no longer valid and therefore cannot be misused.
+"We have not found any evidence the unauthorized person accessed third-party account(s) connected to users' Flipboard accounts. As a precaution, we have replaced or deleted all digital tokens," the post read.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"If you connected your Flipboard account to a third-party account to see its content, you may notice in some cases that you need to reconnect it."
+"Notably, Flipboard does not collect from users, and this incident did not involve, government-issued IDs (such as Social Security numbers or driver's license numbers), or payment card, bank account, or other financial information."
+The company did not disclose the total number of users affected by the breach but said next time when you log into your Flipboard account you are required to update the password for your account.
+Also, if you are making use of the same username and password combination as of Flipboard for any other online service, you are recommended to change your password there as well.
+The company has notified law enforcement about the incident and is still investigating to know how hackers managed to gain access to their systems in the first place or what vulnerabilities they exploited.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,19 @@
+PayPal Subsidiary Data Breach Hits Up to 1.6 Million Customers
+Wang Wei
+
+Global e-commerce business PayPal has disclosed a data breach that may have compromised personally identifiable information for roughly 1.6 million customers at a payment processing company PayPal acquired earlier this year.
+PayPal Holdings Inc. said Friday that a review of its recently acquired company TIO Networks showed evidence of unauthorized access to the company's network, including some confidential parts where the personal information of TIO's customers and customers of TIO billers stored.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Acquired by PayPal for US$233 Million in July 2017, TIO Network is a cloud-based multi-channel bill payment processor and receivables management provider that serves the largest telecom, wireless, cable and utility bill issuers in North America.
+PayPal did not clear when or how the data breach incident took place, neither it revealed details about the types of information being stolen by the hackers, but the company did confirm that its platform and systems were not affected by the incident.
+"The PayPal platform is not impacted in any way, as the TIO systems are completely separate from the PayPal network, and PayPal's customers' data remains secure," PayPal said in its press release [PDF].
+The data breach in TIO Networks was discovered as part of an ongoing investigation for identifying security vulnerabilities in the payment processing platform.
+As soon as PayPal identified an unauthorized access to the TIO's network, PayPal took action by "initiating an internal investigation of TIO and bringing in additional third-party cybersecurity expertise to review TIO's bill payment platform," PayPal press release [PDF] reads.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company has begun working with companies it services to notify potentially affected customers.
+Besides notifying, the company is also working with a consumer credit reporting agency, Experian, to provide free credit monitoring memberships for fraud and identity theft to those who are affected by the breach.
+To protect its customers, TIO has also suspended its services until a full-scale investigation into the incident is completed.
+"At this point, TIO cannot provide a timeline for restoring bill pay services, and continues to recommend that you contact your biller to identify alternative ways to pay your bills," TIO's Consumer FAQ reads. 
+"We sincerely apologize for any inconvenience caused to you by the disruption of TIO's service."
+Since the investigation is ongoing, PayPal will communicate with TIO customers and merchant partners directly as soon as the company has more details on the incident. Also, the affected customers will be directly contacted by the company.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

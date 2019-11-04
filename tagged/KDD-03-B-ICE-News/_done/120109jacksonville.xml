@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+January 9, 2012
+Florida man sentenced to 10 years for receiving child pornography
+JACKSONVILLE, Fla. - A Jacksonville area man was sentenced to 10 years in federal prison on a federal child pornography charge, following an investigation by the Volusia County Sheriff's Office and U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI).
+Bryan Ross Spears, 39, of Palm Coast, Fla., pleaded guilty on Sept. 15 to receiving child pornography over the Internet. After the sentencing hearing, Spears was remanded to the custody of the U.S. Marshals Service to await designation to a federal prison. He was also ordered to register as a sex offender and to serve 10 years of supervised release following his prison term.
+According to court documents, in April, a detective with the Volusia County Sheriff's Office used a database that allowed her to view Internet Protocol (IP) addresses in the surrounding geographical area that had access to and/or were trading child pornography over the Internet. Using this database, the detective determined that one or more computers using an IP address was hosting images of child pornography. Further investigation led to the address of a residence located in Palm Coast.
+ICE HSI special agents responded to a request for assistance from the Volusia County Sheriff's Office and joined the investigation. The agents went to the Palm Coast residence to interview the occupants. During an interview with the owner of the residence, the agents explained that the ongoing investigation pertained to child exploitation material that had been downloaded from the Internet by someone at the owner's residence. The owner advised that he operates a small business from his home and that various computers were used for business purposes, including a desktop computer located in one of the bedrooms that was used by Spears. The owner agreed to allow agents to take custody of one desktop and two laptop computers for forensic analysis.
+The subsequent forensic analysis of the three computers revealed that the desktop computer used by Spears contained approximately 10 video files containing child pornography. The child pornography video files were downloaded by Spears using two Internet file sharing programs. Several of the videos depicted sadistic sexual conduct involving young children. Additionally, approximately 14,537 chat log files were saved to the computer used by Spears between Jan. 3, 2008, and May 24. The chat logs examined during the forensic analysis were sexual in nature, and some related to sexually explicit conduct involving children, including the molestation of very young children by adults.
+This case was part of Operation Predator, a nationwide ICE initiative to identify, investigate and arrest those who prey on children, including human traffickers, international sex tourists, Internet pornographers, and foreign-national predators whose crimes make them deportable.
+ICE encourages the public to report suspected child predators and any suspicious activity through its toll-free hotline at 1-866-DHS-2ICE and itsonline tip form
+. Both are staffed around the clock by investigators.
+Suspected child sexual exploitation or missing children may be reported to the National Center for Missing and Exploited Children, an Operation Predator partner, at 1-800-843-5678 orhttp://www.cybertipline.com .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="17" end="82" text="Florida man sentenced to 10 years for receiving child pornography" TYPE="BAR" />
+<person id="p1" start="65" end="70" text="child" TYPE="NOMPRE" />
+<person id="p2" start="104" end="127" text="A Jacksonville area man" TYPE="NOM" />
+<person id="p3" start="185" end="190" text="child" TYPE="NOMPRE" />
+<person id="p4" start="241" end="267" text="the Volusia County Sheriff" TYPE="NOM" />
+<person id="p5" start="370" end="412" text="Bryan Ross Spears, 39, of Palm Coast, Fla." TYPE="NAM" />
+<person id="p6" start="454" end="459" text="child" TYPE="NOMPRE" />
+<person id="p7" start="521" end="527" text="Spears" TYPE="NAM" />
+<person id="p8" start="627" end="629" text="He" TYPE="PRO" />
+<person id="p9" start="662" end="676" text="a sex offender" TYPE="NOM" />
+<person id="p10" start="731" end="734" text="his" TYPE="PRO" />
+<person id="p11" start="788" end="840" text="a detective with the Volusia County Sheriff's Office" TYPE="NOM" />
+<person id="p12" start="805" end="831" text="the Volusia County Sheriff" TYPE="NOM" />
+<person id="p13" start="870" end="873" text="her" TYPE="PRO" />
+<person id="p14" start="991" end="996" text="child" TYPE="NOMPRE" />
+<person id="p15" start="1049" end="1062" text="the detective" TYPE="NOM" />
+<person id="p16" start="1143" end="1148" text="child" TYPE="NOMPRE" />
+<person id="p17" start="1241" end="1263" text="ICE HSI special agents" TYPE="BAR" />
+<person id="p18" start="1307" end="1333" text="the Volusia County Sheriff" TYPE="NOM" />
+<person id="p19" start="1373" end="1383" text="The agents" TYPE="NOM" />
+<person id="p20" start="1430" end="1443" text="the occupants" TYPE="NOM" />
+<person id="p21" start="1470" end="1496" text="the owner of the residence" TYPE="NOM" />
+<person id="p22" start="1498" end="1508" text="the agents" TYPE="NOM" />
+<person id="p23" start="1563" end="1568" text="child" TYPE="NOMPRE" />
+<person id="p24" start="1637" end="1669" text="someone at the owner's residence" TYPE="BAR" />
+<person id="p25" start="1648" end="1657" text="the owner" TYPE="NOM" />
+<person id="p26" start="1671" end="1680" text="The owner" TYPE="NOM" />
+<person id="p27" start="1694" end="1696" text="he" TYPE="PRO" />
+<person id="p28" start="1728" end="1731" text="his" TYPE="PRO" />
+<person id="p29" start="1874" end="1880" text="Spears" TYPE="NAM" />
+<person id="p30" start="1882" end="1891" text="The owner" TYPE="NOM" />
+<person id="p31" start="1908" end="1914" text="agents" TYPE="BAR" />
+<person id="p32" start="2093" end="2099" text="Spears" TYPE="NAM" />
+<person id="p33" start="2150" end="2155" text="child" TYPE="NOMPRE" />
+<person id="p34" start="2173" end="2178" text="child" TYPE="NOMPRE" />
+<person id="p35" start="2222" end="2228" text="Spears" TYPE="NAM" />
+<person id="p36" start="2336" end="2350" text="young children" TYPE="BAR" />
+<person id="p37" start="2437" end="2443" text="Spears" TYPE="NAM" />
+<person id="p38" start="2609" end="2617" text="children" TYPE="BAR" />
+<person id="p39" start="2653" end="2667" text="young children" TYPE="BAR" />
+<person id="p40" start="2671" end="2677" text="adults" TYPE="BAR" />
+<person id="p41" start="2785" end="2958" text="those who prey on children, including human traffickers, international sex tourists, Internet pornographers, and foreign-national predators whose crimes make them deportable" TYPE="HLS" />
+<person id="p42" start="2791" end="2794" text="who" TYPE="WHQ" />
+<person id="p43" start="2803" end="2811" text="children" TYPE="BAR" />
+<person id="p44" start="2823" end="2840" text="human traffickers" TYPE="BAR" />
+<person id="p45" start="2823" end="2828" text="human" TYPE="NOMPRE" />
+<person id="p46" start="2842" end="2868" text="international sex tourists" TYPE="BAR" />
+<person id="p47" start="2870" end="2892" text="Internet pornographers" TYPE="BAR" />
+<person id="p48" start="2898" end="2958" text="foreign-national predators whose crimes make them deportable" TYPE="BAR" />
+<person id="p49" start="2925" end="2930" text="whose" TYPE="WHQ" />
+<person id="p50" start="2943" end="2947" text="them" TYPE="PRO" />
+<person id="p51" start="2996" end="3021" text="suspected child predators" TYPE="BAR" />
+<person id="p52" start="3006" end="3011" text="child" TYPE="NOMPRE" />
+<person id="p53" start="3160" end="3173" text="investigators" TYPE="BAR" />
+<person id="p54" start="3185" end="3190" text="child" TYPE="NOMPRE" />
+<person id="p55" start="3214" end="3230" text="missing children" TYPE="BAR" />
+<organization id="o0" start="241" end="276" text="the Volusia County Sheriff's Office" TYPE="NOM" />
+<organization id="o1" start="281" end="367" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="364" end="367" text="HSI" TYPE="NAM" />
+<organization id="o3" start="281" end="328" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<organization id="o4" start="325" end="328" text="ICE" TYPE="NAM" />
+<organization id="o6" start="559" end="584" text="the U.S. Marshals Service" TYPE="NAM" />
+<organization id="o7" start="761" end="766" text="court" TYPE="NOMPRE" />
+<organization id="o8" start="805" end="840" text="the Volusia County Sheriff's Office" TYPE="NOM" />
+<organization id="o9" start="1241" end="1248" text="ICE HSI" TYPE="NAMPRE" />
+<organization id="o5" start="1307" end="1342" text="the Volusia County Sheriff's Office" TYPE="NOM" />
+<organization id="o10" start="2734" end="2737" text="ICE" TYPE="NAMPRE" />
+<organization id="o11" start="2960" end="2963" text="ICE" TYPE="NAM" />
+<organization id="o12" start="3058" end="3061" text="its" TYPE="PRO" />
+<organization id="o13" start="3250" end="3335" text="the National Center for Missing and Exploited Children, an Operation Predator partner" TYPE="APP" />
+<organization id="o14" start="3250" end="3304" text="the National Center for Missing and Exploited Children" TYPE="NAM" />
+<organization id="o15" start="3306" end="3335" text="an Operation Predator partner" TYPE="NOM" />
+<geographical-political id="g0" start="17" end="24" text="Florida" TYPE="NAMPRE" />
+<geographical-political id="g3" start="106" end="118" text="Jacksonville" TYPE="NAMPRE" />
+<geographical-political id="g4" start="245" end="259" text="Volusia County" TYPE="NAMPRE" />
+<geographical-political id="g5" start="83" end="101" text="JACKSONVILLE, Fla." TYPE="NAM" />
+<geographical-political id="g6" start="97" end="101" text="Fla." TYPE="NAM" />
+<geographical-political id="g7" start="396" end="412" text="Palm Coast, Fla." TYPE="NAM" />
+<geographical-political id="g8" start="408" end="412" text="Fla." TYPE="NAM" />
+<geographical-political id="g9" start="809" end="823" text="Volusia County" TYPE="NAMPRE" />
+<geographical-political id="g10" start="1229" end="1239" text="Palm Coast" TYPE="NAM" />
+<geographical-political id="g1" start="1311" end="1325" text="Volusia County" TYPE="NAMPRE" />
+<geographical-political id="g2" start="1396" end="1406" text="Palm Coast" TYPE="NAMPRE" />
+<geographical-political id="g11" start="2975" end="2985" text="the public" TYPE="NOM" />
+<location id="l0" start="106" end="123" text="Jacksonville area" TYPE="NOMPRE" />
+<falicity id="f0" start="157" end="171" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="609" end="625" text="a federal prison" TYPE="NOM" />
+<falicity id="f2" start="735" end="741" text="prison" TYPE="NOMPRE" />
+<falicity id="f3" start="1206" end="1239" text="a residence located in Palm Coast" TYPE="NOM" />
+<falicity id="f4" start="1392" end="1416" text="the Palm Coast residence" TYPE="NOM" />
+<falicity id="f5" start="1483" end="1496" text="the residence" TYPE="NOM" />
+<falicity id="f6" start="1648" end="1669" text="the owner's residence" TYPE="NOM" />
+<falicity id="f7" start="1728" end="1736" text="his home" TYPE="NOM" />
+<falicity id="f8" start="1837" end="1880" text="one of the bedrooms that was used by Spears" TYPE="PTV" />
+<falicity id="f9" start="1857" end="1861" text="that" TYPE="PRO" />
+<falicity id="f10" start="1844" end="1856" text="the bedrooms" TYPE="NOM" />
+<falicity id="f12" start="3058" end="3097" text="its toll-free hotline at 1-866-DHS-2ICE" TYPE="NOM" />
+<head id="h0" start="25" end="28" text="man" />
+<head id="h1" start="65" end="70" text="child" />
+<head id="h3" start="17" end="24" text="Florida" />
+<head id="h4" start="83" end="95" text="JACKSONVILLE" />
+<head id="h6" start="124" end="127" text="man" />
+<head id="h7" start="119" end="123" text="area" />
+<head id="h8" start="106" end="118" text="Jacksonville" />
+<head id="h9" start="165" end="171" text="prison" />
+<head id="h10" start="185" end="190" text="child" />
+<head id="h11" start="270" end="276" text="Office" />
+<head id="h12" start="260" end="267" text="Sheriff" />
+<head id="h13" start="245" end="259" text="Volusia County" />
+<head id="h14" start="330" end="362" text="Homeland Security Investigations" />
+<head id="h15" start="364" end="367" text="HSI" />
+<head id="h16" start="281" end="321" text="U.S. Immigration and Customs Enforcement" />
+<head id="h17" start="325" end="328" text="ICE" />
+<head id="h18" start="97" end="101" text="Fla." />
+<head id="h19" start="370" end="387" text="Bryan Ross Spears" />
+<head id="h20" start="396" end="406" text="Palm Coast" />
+<head id="h21" start="408" end="412" text="Fla." />
+<head id="h22" start="454" end="459" text="child" />
+<head id="h23" start="521" end="527" text="Spears" />
+<head id="h24" start="563" end="584" text="U.S. Marshals Service" />
+<head id="h25" start="619" end="625" text="prison" />
+<head id="h26" start="627" end="629" text="He" />
+<head id="h27" start="668" end="676" text="offender" />
+<head id="h28" start="731" end="734" text="his" />
+<head id="h29" start="735" end="741" text="prison" />
+<head id="h30" start="761" end="766" text="court" />
+<head id="h31" start="790" end="799" text="detective" />
+<head id="h32" start="834" end="840" text="Office" />
+<head id="h33" start="824" end="831" text="Sheriff" />
+<head id="h34" start="809" end="823" text="Volusia County" />
+<head id="h35" start="870" end="873" text="her" />
+<head id="h36" start="991" end="996" text="child" />
+<head id="h37" start="1053" end="1062" text="detective" />
+<head id="h38" start="1143" end="1148" text="child" />
+<head id="h39" start="1208" end="1217" text="residence" />
+<head id="h40" start="1229" end="1239" text="Palm Coast" />
+<head id="h41" start="1257" end="1263" text="agents" />
+<head id="h42" start="1241" end="1248" text="ICE HSI" />
+<head id="h2" start="1336" end="1342" text="Office" />
+<head id="h5" start="1326" end="1333" text="Sheriff" />
+<head id="h43" start="1311" end="1325" text="Volusia County" />
+<head id="h44" start="1377" end="1383" text="agents" />
+<head id="h45" start="1407" end="1416" text="residence" />
+<head id="h46" start="1396" end="1406" text="Palm Coast" />
+<head id="h47" start="1434" end="1443" text="occupants" />
+<head id="h48" start="1474" end="1479" text="owner" />
+<head id="h49" start="1487" end="1496" text="residence" />
+<head id="h50" start="1502" end="1508" text="agents" />
+<head id="h51" start="1563" end="1568" text="child" />
+<head id="h52" start="1637" end="1644" text="someone" />
+<head id="h53" start="1660" end="1669" text="residence" />
+<head id="h54" start="1652" end="1657" text="owner" />
+<head id="h55" start="1675" end="1680" text="owner" />
+<head id="h56" start="1694" end="1696" text="he" />
+<head id="h57" start="1732" end="1736" text="home" />
+<head id="h58" start="1728" end="1731" text="his" />
+<head id="h59" start="1837" end="1840" text="one" />
+<head id="h60" start="1857" end="1861" text="that" />
+<head id="h61" start="1848" end="1856" text="bedrooms" />
+<head id="h62" start="1874" end="1880" text="Spears" />
+<head id="h63" start="1886" end="1891" text="owner" />
+<head id="h64" start="1908" end="1914" text="agents" />
+<head id="h65" start="2093" end="2099" text="Spears" />
+<head id="h66" start="2150" end="2155" text="child" />
+<head id="h67" start="2173" end="2178" text="child" />
+<head id="h68" start="2222" end="2228" text="Spears" />
+<head id="h69" start="2342" end="2350" text="children" />
+<head id="h70" start="2437" end="2443" text="Spears" />
+<head id="h71" start="2609" end="2617" text="children" />
+<head id="h72" start="2659" end="2667" text="children" />
+<head id="h73" start="2671" end="2677" text="adults" />
+<head id="h74" start="2734" end="2737" text="ICE" />
+<head id="h75" start="2785" end="2790" text="those" />
+<head id="h76" start="2791" end="2794" text="who" />
+<head id="h77" start="2803" end="2811" text="children" />
+<head id="h78" start="2829" end="2840" text="traffickers" />
+<head id="h79" start="2823" end="2828" text="human" />
+<head id="h80" start="2860" end="2868" text="tourists" />
+<head id="h81" start="2879" end="2892" text="pornographers" />
+<head id="h82" start="2915" end="2924" text="predators" />
+<head id="h83" start="2925" end="2930" text="whose" />
+<head id="h84" start="2943" end="2947" text="them" />
+<head id="h85" start="2960" end="2963" text="ICE" />
+<head id="h86" start="2979" end="2985" text="public" />
+<head id="h87" start="3012" end="3021" text="predators" />
+<head id="h88" start="3006" end="3011" text="child" />
+<head id="h89" start="3072" end="3079" text="hotline" />
+<head id="h90" start="3058" end="3061" text="its" />
+<head id="h91" start="3160" end="3173" text="investigators" />
+<head id="h92" start="3185" end="3190" text="child" />
+<head id="h93" start="3222" end="3230" text="children" />
+<head id="h94" start="3254" end="3304" text="National Center for Missing and Exploited Children" />
+<head id="h95" start="3328" end="3335" text="partner" />
+<name id="n0" start="17" end="24" text="Florida" />
+<name id="n1" start="83" end="95" text="JACKSONVILLE" />
+<name id="n3" start="106" end="118" text="Jacksonville" />
+<name id="n4" start="245" end="259" text="Volusia County" />
+<name id="n5" start="330" end="362" text="Homeland Security Investigations" />
+<name id="n6" start="364" end="367" text="HSI" />
+<name id="n7" start="281" end="321" text="U.S. Immigration and Customs Enforcement" />
+<name id="n8" start="325" end="328" text="ICE" />
+<name id="n9" start="97" end="101" text="Fla." />
+<name id="n10" start="370" end="387" text="Bryan Ross Spears" />
+<name id="n11" start="396" end="406" text="Palm Coast" />
+<name id="n12" start="408" end="412" text="Fla." />
+<name id="n13" start="521" end="527" text="Spears" />
+<name id="n14" start="563" end="584" text="U.S. Marshals Service" />
+<name id="n15" start="809" end="823" text="Volusia County" />
+<name id="n16" start="1229" end="1239" text="Palm Coast" />
+<name id="n17" start="1241" end="1248" text="ICE HSI" />
+<name id="n2" start="1311" end="1325" text="Volusia County" />
+<name id="n18" start="1396" end="1406" text="Palm Coast" />
+<name id="n19" start="1874" end="1880" text="Spears" />
+<name id="n20" start="2093" end="2099" text="Spears" />
+<name id="n21" start="2222" end="2228" text="Spears" />
+<name id="n22" start="2437" end="2443" text="Spears" />
+<name id="n23" start="2734" end="2737" text="ICE" />
+<name id="n24" start="2960" end="2963" text="ICE" />
+<name id="n25" start="3254" end="3304" text="National Center for Missing and Exploited Children" />
+<located-mention id="lo0" start="1373" end="1443" text="The agents went to the Palm Coast residence to interview the occupants" TYPE="Verbal" />
+<located-mention id="lo1" start="1373" end="1443" text="The agents went to the Palm Coast residence to interview the occupants" TYPE="Other" />
+<located-mention id="lo2" start="1637" end="1669" text="someone at the owner's residence" TYPE="Preposition" />
+<located-mention id="lo3" start="1671" end="1880" text="The owner advised that he operates a small business from his home and that various computers were used for business purposes, including a desktop computer located in one of the bedrooms that was used by Spears" TYPE="Other" />
+<employment-mention id="e0" start="241" end="267" text="the Volusia County Sheriff" TYPE="PreMod" />
+<employment-mention id="e1" start="805" end="831" text="the Volusia County Sheriff" TYPE="PreMod" />
+<employment-mention id="e2" start="1307" end="1333" text="the Volusia County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="17" end="82" text="Florida man sentenced to 10 years for receiving child pornography" TYPE="PreMod" />
+<CRRE id="C1" start="104" end="127" text="A Jacksonville area man" TYPE="PreMod" />
+<CRRE id="C2" start="370" end="412" text="Bryan Ross Spears, 39, of Palm Coast, Fla." TYPE="Preposition" />
+<M id="M0" start="241" end="276" text="the Volusia County Sheriff's Office" TYPE="Possessive" />
+<M id="M1" start="805" end="840" text="the Volusia County Sheriff's Office" TYPE="Possessive" />
+<M id="M2" start="788" end="840" text="a detective with the Volusia County Sheriff's Office" TYPE="Preposition" />
+<M id="M3" start="1241" end="1263" text="ICE HSI special agents" TYPE="PreMod" />
+<M id="M4" start="1307" end="1342" text="the Volusia County Sheriff's Office" TYPE="Possessive" />
+<entity_link id="en2" fromID="p3" fromText="child" toID="p1" toText="child" />
+<entity_link id="en3" fromID="o2" fromText="HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en4" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<entity_link id="en5" fromID="g6" fromText="Fla." toID="g0" toText="Florida" />
+<entity_link id="en6" fromID="p2" fromText="A Jacksonville area man" toID="p0" toText="Florida man sentenced to 10 years for receiving child pornography" />
+<entity_link id="en7" fromID="g3" fromText="Jacksonville" toID="g5" toText="JACKSONVILLE, Fla." />
+<entity_link id="en8" fromID="p5" fromText="Bryan Ross Spears, 39, of Palm Coast, Fla." toID="p2" toText="A Jacksonville area man" />
+<entity_link id="en9" fromID="g8" fromText="Fla." toID="g6" toText="Fla." />
+<entity_link id="en10" fromID="p6" fromText="child" toID="p3" toText="child" />
+<entity_link id="en11" fromID="p7" fromText="Spears" toID="p5" toText="Bryan Ross Spears, 39, of Palm Coast, Fla." />
+<entity_link id="en12" fromID="p8" fromText="He" toID="p7" toText="Spears" />
+<entity_link id="en13" fromID="p9" fromText="a sex offender" toID="p8" toText="He" />
+<entity_link id="en14" fromID="p10" fromText="his" toID="p7" toText="Spears" />
+<entity_link id="en15" fromID="o8" fromText="the Volusia County Sheriff's Office" toID="o0" toText="the Volusia County Sheriff's Office" />
+<entity_link id="en16" fromID="p12" fromText="the Volusia County Sheriff" toID="p4" toText="the Volusia County Sheriff" />
+<entity_link id="en17" fromID="g9" fromText="Volusia County" toID="g4" toText="Volusia County" />
+<entity_link id="en18" fromID="p13" fromText="her" toID="p11" toText="a detective with the Volusia County Sheriff's Office" />
+<entity_link id="en19" fromID="p14" fromText="child" toID="p6" toText="child" />
+<entity_link id="en20" fromID="p15" fromText="the detective" toID="p11" toText="a detective with the Volusia County Sheriff's Office" />
+<entity_link id="en21" fromID="p16" fromText="child" toID="p14" toText="child" />
+<entity_link id="en22" fromID="g10" fromText="Palm Coast" toID="g7" toText="Palm Coast, Fla." />
+<entity_link id="en0" fromID="o5" fromText="the Volusia County Sheriff's Office" toID="o8" toText="the Volusia County Sheriff's Office" />
+<entity_link id="en1" fromID="p18" fromText="the Volusia County Sheriff" toID="p12" toText="the Volusia County Sheriff" />
+<entity_link id="en23" fromID="g1" fromText="Volusia County" toID="g9" toText="Volusia County" />
+<entity_link id="en24" fromID="p19" fromText="The agents" toID="p17" toText="ICE HSI special agents" />
+<entity_link id="en25" fromID="f4" fromText="the Palm Coast residence" toID="f3" toText="a residence located in Palm Coast" />
+<entity_link id="en26" fromID="g2" fromText="Palm Coast" toID="g10" toText="Palm Coast" />
+<entity_link id="en27" fromID="f5" fromText="the residence" toID="f4" toText="the Palm Coast residence" />
+<entity_link id="en28" fromID="p22" fromText="the agents" toID="p19" toText="The agents" />
+<entity_link id="en29" fromID="p23" fromText="child" toID="p14" toText="child" />
+<entity_link id="en30" fromID="p24" fromText="someone at the owner's residence" toID="p5" toText="Bryan Ross Spears, 39, of Palm Coast, Fla." />
+<entity_link id="en31" fromID="f6" fromText="the owner's residence" toID="f5" toText="the residence" />
+<entity_link id="en32" fromID="p25" fromText="the owner" toID="p21" toText="the owner of the residence" />
+<entity_link id="en33" fromID="p26" fromText="The owner" toID="p25" toText="the owner" />
+<entity_link id="en34" fromID="p27" fromText="he" toID="p26" toText="The owner" />
+<entity_link id="en35" fromID="f7" fromText="his home" toID="f6" toText="the owner's residence" />
+<entity_link id="en36" fromID="p28" fromText="his" toID="p26" toText="The owner" />
+<entity_link id="en37" fromID="f9" fromText="that" toID="f8" toText="one of the bedrooms that was used by Spears" />
+<entity_link id="en38" fromID="p29" fromText="Spears" toID="p7" toText="Spears" />
+<entity_link id="en39" fromID="p30" fromText="The owner" toID="p26" toText="The owner" />
+<entity_link id="en40" fromID="p31" fromText="agents" toID="p22" toText="the agents" />
+<entity_link id="en41" fromID="p32" fromText="Spears" toID="p29" toText="Spears" />
+<entity_link id="en42" fromID="p33" fromText="child" toID="p23" toText="child" />
+<entity_link id="en43" fromID="p34" fromText="child" toID="p33" toText="child" />
+<entity_link id="en44" fromID="p35" fromText="Spears" toID="p32" toText="Spears" />
+<entity_link id="en45" fromID="p37" fromText="Spears" toID="p35" toText="Spears" />
+<entity_link id="en46" fromID="p39" fromText="young children" toID="p36" toText="young children" />
+<entity_link id="en47" fromID="o10" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en48" fromID="p42" fromText="who" toID="p41" toText="those who prey on children, including human traffickers, international sex tourists, Internet pornographers, and foreign-national predators whose crimes make them deportable" />
+<entity_link id="en49" fromID="p43" fromText="children" toID="p38" toText="children" />
+<entity_link id="en50" fromID="p49" fromText="whose" toID="p48" toText="foreign-national predators whose crimes make them deportable" />
+<entity_link id="en51" fromID="p50" fromText="them" toID="p48" toText="foreign-national predators whose crimes make them deportable" />
+<entity_link id="en52" fromID="o11" fromText="ICE" toID="o10" toText="ICE" />
+<entity_link id="en53" fromID="p52" fromText="child" toID="p34" toText="child" />
+<entity_link id="en54" fromID="o12" fromText="its" toID="o11" toText="ICE" />
+<entity_link id="en55" fromID="p54" fromText="child" toID="p52" toText="child" />
+<entity_link id="en56" fromID="o14" fromText="the National Center for Missing and Exploited Children" toID="o13" toText="the National Center for Missing and Exploited Children, an Operation Predator partner" />
+<entity_link id="en57" fromID="o15" fromText="an Operation Predator partner" toID="o14" toText="the National Center for Missing and Exploited Children" />
+<head_link id="he0" fromID="p0" fromText="Florida man sentenced to 10 years for receiving child pornography" toID="h0" toText="man" />
+<head_link id="he1" fromID="p1" fromText="child" toID="h1" toText="child" />
+<head_link id="he2" fromID="g0" fromText="Florida" toID="h3" toText="Florida" />
+<head_link id="he5" fromID="p2" fromText="A Jacksonville area man" toID="h6" toText="man" />
+<head_link id="he6" fromID="l0" fromText="Jacksonville area" toID="h7" toText="area" />
+<head_link id="he7" fromID="g3" fromText="Jacksonville" toID="h8" toText="Jacksonville" />
+<head_link id="he8" fromID="f0" fromText="federal prison" toID="h9" toText="prison" />
+<head_link id="he9" fromID="p3" fromText="child" toID="h10" toText="child" />
+<head_link id="he10" fromID="o0" fromText="the Volusia County Sheriff's Office" toID="h11" toText="Office" />
+<head_link id="he11" fromID="p4" fromText="the Volusia County Sheriff" toID="h12" toText="Sheriff" />
+<head_link id="he12" fromID="g4" fromText="Volusia County" toID="h13" toText="Volusia County" />
+<head_link id="he13" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h14" toText="Homeland Security Investigations" />
+<head_link id="he14" fromID="o2" fromText="HSI" toID="h15" toText="HSI" />
+<head_link id="he15" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h16" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he16" fromID="o4" fromText="ICE" toID="h17" toText="ICE" />
+<head_link id="he17" fromID="g5" fromText="JACKSONVILLE, Fla." toID="h4" toText="JACKSONVILLE" />
+<head_link id="he18" fromID="g6" fromText="Fla." toID="h18" toText="Fla." />
+<head_link id="he19" fromID="p5" fromText="Bryan Ross Spears, 39, of Palm Coast, Fla." toID="h19" toText="Bryan Ross Spears" />
+<head_link id="he20" fromID="g7" fromText="Palm Coast, Fla." toID="h20" toText="Palm Coast" />
+<head_link id="he21" fromID="g8" fromText="Fla." toID="h21" toText="Fla." />
+<head_link id="he22" fromID="p6" fromText="child" toID="h22" toText="child" />
+<head_link id="he23" fromID="p7" fromText="Spears" toID="h23" toText="Spears" />
+<head_link id="he24" fromID="o6" fromText="the U.S. Marshals Service" toID="h24" toText="U.S. Marshals Service" />
+<head_link id="he25" fromID="f1" fromText="a federal prison" toID="h25" toText="prison" />
+<head_link id="he26" fromID="p8" fromText="He" toID="h26" toText="He" />
+<head_link id="he27" fromID="p9" fromText="a sex offender" toID="h27" toText="offender" />
+<head_link id="he28" fromID="p10" fromText="his" toID="h28" toText="his" />
+<head_link id="he29" fromID="f2" fromText="prison" toID="h29" toText="prison" />
+<head_link id="he30" fromID="o7" fromText="court" toID="h30" toText="court" />
+<head_link id="he31" fromID="p11" fromText="a detective with the Volusia County Sheriff's Office" toID="h31" toText="detective" />
+<head_link id="he32" fromID="o8" fromText="the Volusia County Sheriff's Office" toID="h32" toText="Office" />
+<head_link id="he33" fromID="p12" fromText="the Volusia County Sheriff" toID="h33" toText="Sheriff" />
+<head_link id="he34" fromID="g9" fromText="Volusia County" toID="h34" toText="Volusia County" />
+<head_link id="he35" fromID="p13" fromText="her" toID="h35" toText="her" />
+<head_link id="he36" fromID="p14" fromText="child" toID="h36" toText="child" />
+<head_link id="he37" fromID="p15" fromText="the detective" toID="h37" toText="detective" />
+<head_link id="he38" fromID="p16" fromText="child" toID="h38" toText="child" />
+<head_link id="he39" fromID="f3" fromText="a residence located in Palm Coast" toID="h39" toText="residence" />
+<head_link id="he40" fromID="g10" fromText="Palm Coast" toID="h40" toText="Palm Coast" />
+<head_link id="he41" fromID="p17" fromText="ICE HSI special agents" toID="h41" toText="agents" />
+<head_link id="he42" fromID="o9" fromText="ICE HSI" toID="h42" toText="ICE HSI" />
+<head_link id="he3" fromID="o5" fromText="the Volusia County Sheriff's Office" toID="h2" toText="Office" />
+<head_link id="he4" fromID="p18" fromText="the Volusia County Sheriff" toID="h5" toText="Sheriff" />
+<head_link id="he43" fromID="g1" fromText="Volusia County" toID="h43" toText="Volusia County" />
+<head_link id="he44" fromID="p19" fromText="The agents" toID="h44" toText="agents" />
+<head_link id="he45" fromID="f4" fromText="the Palm Coast residence" toID="h45" toText="residence" />
+<head_link id="he46" fromID="g2" fromText="Palm Coast" toID="h46" toText="Palm Coast" />
+<head_link id="he47" fromID="p20" fromText="the occupants" toID="h47" toText="occupants" />
+<head_link id="he48" fromID="p21" fromText="the owner of the residence" toID="h48" toText="owner" />
+<head_link id="he49" fromID="f5" fromText="the residence" toID="h49" toText="residence" />
+<head_link id="he50" fromID="p22" fromText="the agents" toID="h50" toText="agents" />
+<head_link id="he51" fromID="p23" fromText="child" toID="h51" toText="child" />
+<head_link id="he52" fromID="p24" fromText="someone at the owner's residence" toID="h52" toText="someone" />
+<head_link id="he53" fromID="f6" fromText="the owner's residence" toID="h53" toText="residence" />
+<head_link id="he54" fromID="p25" fromText="the owner" toID="h54" toText="owner" />
+<head_link id="he55" fromID="p26" fromText="The owner" toID="h55" toText="owner" />
+<head_link id="he56" fromID="p27" fromText="he" toID="h56" toText="he" />
+<head_link id="he57" fromID="f7" fromText="his home" toID="h57" toText="home" />
+<head_link id="he58" fromID="p28" fromText="his" toID="h58" toText="his" />
+<head_link id="he59" fromID="f8" fromText="one of the bedrooms that was used by Spears" toID="h59" toText="one" />
+<head_link id="he60" fromID="f9" fromText="that" toID="h60" toText="that" />
+<head_link id="he61" fromID="f10" fromText="the bedrooms" toID="h61" toText="bedrooms" />
+<head_link id="he62" fromID="p29" fromText="Spears" toID="h62" toText="Spears" />
+<head_link id="he63" fromID="p30" fromText="The owner" toID="h63" toText="owner" />
+<head_link id="he64" fromID="p31" fromText="agents" toID="h64" toText="agents" />
+<head_link id="he65" fromID="p32" fromText="Spears" toID="h65" toText="Spears" />
+<head_link id="he66" fromID="p33" fromText="child" toID="h66" toText="child" />
+<head_link id="he67" fromID="p34" fromText="child" toID="h67" toText="child" />
+<head_link id="he68" fromID="p35" fromText="Spears" toID="h68" toText="Spears" />
+<head_link id="he69" fromID="p36" fromText="young children" toID="h69" toText="children" />
+<head_link id="he70" fromID="p37" fromText="Spears" toID="h70" toText="Spears" />
+<head_link id="he71" fromID="p38" fromText="children" toID="h71" toText="children" />
+<head_link id="he72" fromID="p39" fromText="young children" toID="h72" toText="children" />
+<head_link id="he73" fromID="p40" fromText="adults" toID="h73" toText="adults" />
+<head_link id="he74" fromID="o10" fromText="ICE" toID="h74" toText="ICE" />
+<head_link id="he75" fromID="p41" fromText="those who prey on children, including human traffickers, international sex tourists, Internet pornographers, and foreign-national predators whose crimes make them deportable" toID="h75" toText="those" />
+<head_link id="he76" fromID="p42" fromText="who" toID="h76" toText="who" />
+<head_link id="he77" fromID="p43" fromText="children" toID="h77" toText="children" />
+<head_link id="he78" fromID="p44" fromText="human traffickers" toID="h78" toText="traffickers" />
+<head_link id="he79" fromID="p45" fromText="human" toID="h79" toText="human" />
+<head_link id="he80" fromID="p46" fromText="international sex tourists" toID="h80" toText="tourists" />
+<head_link id="he81" fromID="p47" fromText="Internet pornographers" toID="h81" toText="pornographers" />
+<head_link id="he82" fromID="p48" fromText="foreign-national predators whose crimes make them deportable" toID="h82" toText="predators" />
+<head_link id="he84" fromID="p49" fromText="whose" toID="h83" toText="whose" />
+<head_link id="he85" fromID="p50" fromText="them" toID="h84" toText="them" />
+<head_link id="he86" fromID="o11" fromText="ICE" toID="h85" toText="ICE" />
+<head_link id="he87" fromID="g11" fromText="the public" toID="h86" toText="public" />
+<head_link id="he88" fromID="p51" fromText="suspected child predators" toID="h87" toText="predators" />
+<head_link id="he89" fromID="p52" fromText="child" toID="h88" toText="child" />
+<head_link id="he90" fromID="f12" fromText="its toll-free hotline at 1-866-DHS-2ICE" toID="h89" toText="hotline" />
+<head_link id="he91" fromID="o12" fromText="its" toID="h90" toText="its" />
+<head_link id="he92" fromID="p53" fromText="investigators" toID="h91" toText="investigators" />
+<head_link id="he93" fromID="p54" fromText="child" toID="h92" toText="child" />
+<head_link id="he94" fromID="p55" fromText="missing children" toID="h93" toText="children" />
+<head_link id="he95" fromID="o14" fromText="the National Center for Missing and Exploited Children" toID="h94" toText="National Center for Missing and Exploited Children" />
+<head_link id="he96" fromID="o15" fromText="an Operation Predator partner" toID="h95" toText="partner" />
+<name_link id="na0" fromID="g0" fromText="Florida" toID="n0" toText="Florida" />
+<name_link id="na3" fromID="g3" fromText="Jacksonville" toID="n3" toText="Jacksonville" />
+<name_link id="na4" fromID="g4" fromText="Volusia County" toID="n4" toText="Volusia County" />
+<name_link id="na5" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n5" toText="Homeland Security Investigations" />
+<name_link id="na6" fromID="o2" fromText="HSI" toID="n6" toText="HSI" />
+<name_link id="na7" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n7" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na8" fromID="o4" fromText="ICE" toID="n8" toText="ICE" />
+<name_link id="na9" fromID="g5" fromText="JACKSONVILLE, Fla." toID="n1" toText="JACKSONVILLE" />
+<name_link id="na10" fromID="g6" fromText="Fla." toID="n9" toText="Fla." />
+<name_link id="na11" fromID="p5" fromText="Bryan Ross Spears, 39, of Palm Coast, Fla." toID="n10" toText="Bryan Ross Spears" />
+<name_link id="na12" fromID="g7" fromText="Palm Coast, Fla." toID="n11" toText="Palm Coast" />
+<name_link id="na13" fromID="g8" fromText="Fla." toID="n12" toText="Fla." />
+<name_link id="na14" fromID="p7" fromText="Spears" toID="n13" toText="Spears" />
+<name_link id="na15" fromID="o6" fromText="the U.S. Marshals Service" toID="n14" toText="U.S. Marshals Service" />
+<name_link id="na16" fromID="g9" fromText="Volusia County" toID="n15" toText="Volusia County" />
+<name_link id="na17" fromID="g10" fromText="Palm Coast" toID="n16" toText="Palm Coast" />
+<name_link id="na18" fromID="o9" fromText="ICE HSI" toID="n17" toText="ICE HSI" />
+<name_link id="na1" fromID="g1" fromText="Volusia County" toID="n2" toText="Volusia County" />
+<name_link id="na2" fromID="g2" fromText="Palm Coast" toID="n18" toText="Palm Coast" />
+<name_link id="na19" fromID="p29" fromText="Spears" toID="n19" toText="Spears" />
+<name_link id="na20" fromID="p32" fromText="Spears" toID="n20" toText="Spears" />
+<name_link id="na21" fromID="p35" fromText="Spears" toID="n21" toText="Spears" />
+<name_link id="na22" fromID="p37" fromText="Spears" toID="n22" toText="Spears" />
+<name_link id="na23" fromID="o10" fromText="ICE" toID="n23" toText="ICE" />
+<name_link id="na24" fromID="o11" fromText="ICE" toID="n24" toText="ICE" />
+<name_link id="na25" fromID="o14" fromText="the National Center for Missing and Exploited Children" toID="n25" toText="National Center for Missing and Exploited Children" />
+<relation_link1 id="r0" fromID="C0" fromText="Florida man sentenced to 10 years for receiving child pornography" toID="p0" toText="Florida man sentenced to 10 years for receiving child pornography" />
+<relation_link1 id="r1" fromID="C1" fromText="A Jacksonville area man" toID="p2" toText="A Jacksonville area man" />
+<relation_link1 id="r2" fromID="e0" fromText="the Volusia County Sheriff" toID="p4" toText="the Volusia County Sheriff" />
+<relation_link1 id="r3" fromID="M0" fromText="the Volusia County Sheriff's Office" toID="p4" toText="the Volusia County Sheriff" />
+<relation_link1 id="r4" fromID="C2" fromText="Bryan Ross Spears, 39, of Palm Coast, Fla." toID="p5" toText="Bryan Ross Spears, 39, of Palm Coast, Fla." />
+<relation_link1 id="r5" fromID="e1" fromText="the Volusia County Sheriff" toID="p12" toText="the Volusia County Sheriff" />
+<relation_link1 id="r6" fromID="M1" fromText="the Volusia County Sheriff's Office" toID="p12" toText="the Volusia County Sheriff" />
+<relation_link1 id="r7" fromID="M2" fromText="a detective with the Volusia County Sheriff's Office" toID="p11" toText="a detective with the Volusia County Sheriff's Office" />
+<relation_link1 id="r8" fromID="M3" fromText="ICE HSI special agents" toID="p17" toText="ICE HSI special agents" />
+<relation_link1 id="r9" fromID="e2" fromText="the Volusia County Sheriff" toID="p18" toText="the Volusia County Sheriff" />
+<relation_link1 id="r10" fromID="M4" fromText="the Volusia County Sheriff's Office" toID="p18" toText="the Volusia County Sheriff" />
+<relation_link1 id="r11" fromID="lo0" fromText="The agents went to the Palm Coast residence to interview the occupants" toID="p19" toText="The agents" />
+<relation_link1 id="r12" fromID="lo1" fromText="The agents went to the Palm Coast residence to interview the occupants" toID="p20" toText="the occupants" />
+<relation_link1 id="r13" fromID="lo2" fromText="someone at the owner's residence" toID="p24" toText="someone at the owner's residence" />
+<relation_link1 id="r14" fromID="lo3" fromText="The owner advised that he operates a small business from his home and that various computers were used for business purposes, including a desktop computer located in one of the bedrooms that was used by Spears" toID="p27" toText="he" />
+<relation_link2 id="re0" fromID="C0" fromText="Florida man sentenced to 10 years for receiving child pornography" toID="g0" toText="Florida" />
+<relation_link2 id="re1" fromID="C1" fromText="A Jacksonville area man" toID="l0" toText="Jacksonville area" />
+<relation_link2 id="re2" fromID="e0" fromText="the Volusia County Sheriff" toID="g4" toText="Volusia County" />
+<relation_link2 id="re3" fromID="M0" fromText="the Volusia County Sheriff's Office" toID="o0" toText="the Volusia County Sheriff's Office" />
+<relation_link2 id="re4" fromID="C2" fromText="Bryan Ross Spears, 39, of Palm Coast, Fla." toID="g7" toText="Palm Coast, Fla." />
+<relation_link2 id="re5" fromID="e1" fromText="the Volusia County Sheriff" toID="g9" toText="Volusia County" />
+<relation_link2 id="re6" fromID="M1" fromText="the Volusia County Sheriff's Office" toID="o8" toText="the Volusia County Sheriff's Office" />
+<relation_link2 id="re7" fromID="M2" fromText="a detective with the Volusia County Sheriff's Office" toID="o8" toText="the Volusia County Sheriff's Office" />
+<relation_link2 id="re8" fromID="M3" fromText="ICE HSI special agents" toID="o9" toText="ICE HSI" />
+<relation_link2 id="re9" fromID="e2" fromText="the Volusia County Sheriff" toID="g1" toText="Volusia County" />
+<relation_link2 id="re10" fromID="M4" fromText="the Volusia County Sheriff's Office" toID="o5" toText="the Volusia County Sheriff's Office" />
+<relation_link2 id="re11" fromID="lo0" fromText="The agents went to the Palm Coast residence to interview the occupants" toID="f4" toText="the Palm Coast residence" />
+<relation_link2 id="re12" fromID="lo1" fromText="The agents went to the Palm Coast residence to interview the occupants" toID="f4" toText="the Palm Coast residence" />
+<relation_link2 id="re13" fromID="lo2" fromText="someone at the owner's residence" toID="f6" toText="the owner's residence" />
+<relation_link2 id="re14" fromID="lo3" fromText="The owner advised that he operates a small business from his home and that various computers were used for business purposes, including a desktop computer located in one of the bedrooms that was used by Spears" toID="f7" toText="his home" />
+</TAGS>
+</KddTask>

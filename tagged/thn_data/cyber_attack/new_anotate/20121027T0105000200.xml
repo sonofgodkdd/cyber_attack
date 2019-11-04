@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Virus threat hit Israeli Foreign Ministry computers
+Mohit Kumar
+A number of Israel's government offices have fallen victim to a cyber attack over the past week, one apparently aimed at slipping a "Trojan horse" into the computer servers at these ministries.
+Israeli police immediately pulled the national computer network from the civilian Internet after this cyber threat . A Trojan horse has been sent as files attached to emails bearing the name of the IDF Chief of Staff Benny Gantz in the subject line.
+According to the reports from haaretz,A senior government clerk stressed that the threat facing the police was being investigated by experts. It is also not clear that either breach involved a wide-scale cyber-attack, or a virus infecting only a few computers.  (adsbygoogle = window.adsbygoogle || []).push({}); Government employees were advised not to open their emails or Facebook messages if such strange activity was noticed. Dozens of identical emails were sent Wednesday to Israel embassies abroad and to Foreign Ministry employees in Israel.
+The intelligence tip did not indicate the culprit behind the attack, but it appeared to be an external organization. The police are still trying to identify the source.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Trojan id="ATTACK0" start="400" end="404" text="sent" TYPE="TRG" />
+<ATTACK.Trojan id="ATTACK1" start="186" end="194" text="slipping" TYPE="TRG" />
+</TAGS>
+</KddTask>

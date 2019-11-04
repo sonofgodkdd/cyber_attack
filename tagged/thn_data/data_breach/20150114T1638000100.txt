@@ -1,0 +1,46 @@
+Data Loss Prevention – Log & Event Manager
+Wang Wei
+
+In today’s world your network is subject to a multitude of vulnerabilities and potential intrusions and it seems like we see or hear of a new attack weekly. A data breach is arguably the most costly and damaging of these attacks and while loss of data is painful the residual impact of the breach is even more costly.
+The loss or leakage of sensitive data can result in serious damage to an organization, including:
+Loss of intellectual property
+Loss of copyrighted information
+Compliance violations
+Damage to corporate reputation/brand
+Loss of customer loyalty
+Loss of future business opportunities
+Lawsuits and ongoing litigation
+Financial and criminal penalties
+To help you protect sensitive data and reduce the risk of data loss, we recommend using a Security Information and Event Management (SIEM) technology such as SolarWinds® Log & Event Manager.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+If you’re not familiar with Log & Event Manager (LEM), it’s a comprehensive SIEM product, packaged in an easy-to-use, all-in-one virtual appliance. It’s loaded with out-of-the-box functionality so you can hit the ground running without having to be a security expert! Most importantly, LEM has expert developed features to help with data loss prevention.
+Download a free, Fully-Functional, 30 day trial of LEM.
+Feature #1 Real-Time Event Correlation
+SolarWinds LEM employs a proactive approach to help you identify and respond to threats in real time. LEM automatically collects and aggregates log data from network devices, systems, and applications throughout the IT infrastructure. It then normalizes this data into a consistent format and performs multiple event correlation, along with the distinct ability to set independent activity thresholds per event or per group of events. The end result is security intelligence you can count on and reduced false positives.
+Instantly detect security, operational, and compliance issues, including external breaches, insider abuse, policy violations, application availability, performance problems, and more
+Get alerted in real time and contain threats at network speed
+Leverage over 700 built-in event correlation rules for out-of-the-box visibility and intelligence
+Gain immediate insight into network anomalies and suspicious patterns in your environment
+Detect and stop zero-day, multi-vector and blended threats
+Feature #2 Unauthorized Network Access Prevention
+SolarWinds LEM can help protect your network from unauthorized access in multiple ways, including the ability to monitor user activity, such as logon attempts, and then correlate events with other log activity to identify suspicious behavior and malicious activity. LEM can then automatically disable user access. Another key way LEM can prevent access to sensitive data is through its real-time detection and automatic detachment of unauthorized USB devices. Plus, LEM enables you to monitor what files and processes are accessed on the device.
+Feature #3 Embedded File Integrity Monitoring
+SolarWinds’ SIEM software has real-time File Integrity Monitoring (FIM) for Windows® allowing you to address more compliance requirements and gain deeper security visibility.
+Provides intelligence that you can’t get from logs to detect zero-day malware, insider abuse, and stealthy attacks
+Addresses key requirements of regulations including PCI DSS, HIPAA, SOX, and more at no extra cost
+Deep integration with SIEM provides a complete view of all user activity across files, applications, systems, and networks
+Advanced threat techniques and increased regulatory scrutiny demands make attacks harder to detect and audits harder to pass. Logs alone don’t provide the intelligence required to detect today’s advanced threats. Log & Event Manager includes File Integrity Monitoring (FIM) to deliver granular information about file and system access that you can’t get from logs. 
+Feature #4 Stay Compliant, Stay Secure
+Being in line with IT compliance regulations, such as PCI DSS, GLBA, SOX, NERC CIP, and HIPAA require businesses to protect, track, and control access to and usage of confidential/proprietary information and private customer data. Unfortunately, many organizations treat compliance as just a “checkbox” to pass an audit, instead of focusing on putting truly effective controls in place to better secure their network resources and critical data.
+With SolarWinds Log & Event Manager’s real-time log analysis and powerful cross-device/cross-event correlation, you can quickly uncover policy violations that could leave your network vulnerable to a breach. And, with over 300 predefined, customizable reporting templates, you can ensure the right controls are in place to not only maintain compliance, but keep your network and the data it holds secure.
+Log & Event Manager for Network Protection and Data Loss Prevention
+SolarWinds Log & Event Manager Feature Highlights:
+Easy Collection of Network, Security, Machine, Application and Cloud logs
+Real-time, In-Memory, Event Correlation for Immediate Threat Detection
+Built-in Active Responses for Automated “Hands-Free” Remediation
+Automatic USB Device Detection and Detachment for Protecting Sensitive Data
+Advanced IT Search and Intuitive Data Visualization for Fast and Easy Forensic Analysis
+Predefined, Customizable Templates for Simplified Security, Compliance, and Operations Reporting
+Affordable, All-in-One Virtual Appliance for Quick and Easy Deployment and Use
+You can download a Free, Fully-Functional, 30 day trial of LEM.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

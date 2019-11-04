@@ -1,0 +1,24 @@
+Ashley Madison 2.0 — Hackers Leak 20GB Data Dump, Including CEO's Emails
+Swati Khandelwal
+
+The Impact Team – Wait, Cheaters! We haven't yet done.
+The group of hackers behind the breach of Ashley Madison, the popular cheater's dating service, have released a second, even much bigger 'cheat sheet' exposing sensitive materials that include sensitive corporate information.
+Two days ago, the hackers released nearly 10GB of its customers' personal data online, which included 36 million emails and hashed passwords, 9.6 Million Credit Card Transactions records and their associated usernames.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nearly 20GB of Ashley Madison Internal Data LEAKED
+This time, the Impact Team leaked nearly 20GB worth of what appears to be internal data – not customers' data – from the adultery website on the dark Web.
+The leaked data appears to include the source code for the site, as well as a massive amount of e-mail from Ashley Madison parent company's Avid Life Media CEO Noel Biderman.
+According to the researcher, who analysed the leaked data, the TL;DR of the leak is:
+The leak contains lots of Source Code
+73 different git repositories are present
+Ashley Madison used gitlab internally
+The 13GB compressed file appears to contain Ashley Madison CEO's emails seems corrupted
+The leak contains plain text or poorly hashed (md5) db credentials
+Personal Emails of Avid Life Media CEO Noel Biderman Exposed
+The trove of information was dumped with a taunting message to the adultery website's founder posted on the same dark web hosting the earlier data dump. The message reads:
+"Hey Noel, you can admit it's real now." – presumably directed at CEO Noel Biderman, who has refused to recognize the data is all legitimate. 
+Dave Kennedy, the founder of cyber security company TrustedSec LLC, has analysed the second data dump and confirmed that it contained nearly 1GB of Biderman's emails.
+"The dump appears to contain all of the business/corporate e-mails, the source code for all of [Avid Life Media's] websites, mobile applications, and more," TrustedSec wrote in its official blog post published yesterday.
+This is really interesting; having the complete source code to these websites means that hackers now are capable of finding new security holes in Avid Life's websites, and further compromise them more.
+However, we have yet to wait for a response to this new release from Avid Life Media officials. If they do, we'll update this post accordingly.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

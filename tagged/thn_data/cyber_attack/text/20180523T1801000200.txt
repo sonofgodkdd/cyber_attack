@@ -1,0 +1,23 @@
+Researchers unearth a huge botnet army of 500,000 hacked routers
+Swati Khandelwal
+
+More than half a million routers and storage devices in dozens of countries have been infected with a piece of highly sophisticated IoT botnet malware, likely designed by Russia-baked state-sponsored group.
+Cisco's Talos cyber intelligence unit have discovered an advanced piece of IoT botnet malware, dubbed VPNFilter, that has been designed with versatile capabilities to gather intelligence, interfere with internet communications, as well as conduct destructive cyber attack operations.
+The malware has already infected over 500,000 devices in at least 54 countries, most of which are small and home offices routers and internet-connected storage devices from Linksys, MikroTik, NETGEAR, and TP-Link. Some network-attached storage (NAS) devices known to have been targeted as well.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+VPNFilter is a multi-stage, modular malware that can steal website credentials and monitor industrial controls or SCADA systems, such as those used in electric grids, other infrastructure and factories.
+The malware communicates over Tor anonymizing network and even contains a killswitch for routers, where the malware deliberately kills itself.
+Unlike most other malware that targets internet-of-things (IoT) devices, the first stage of VPNFilter persists through a reboot, gaining a persistent foothold on the infected device and enabling the deployment of the second stage malware.
+VPNFilter is named after a directory (/var/run/vpnfilterw) the malware creates to hide its files on an infected device.
+Since the research is still ongoing, Talos researchers "do not have definitive proof on how the threat actor is exploiting the affected devices," but they strongly believe that VPNFilter does not exploit any zero-day vulnerability to infect its victims.
+Instead, the malware targets devices still exposed to well-known, public vulnerabilities or have default credentials, making compromise relatively straightforward.
+Talos researchers have high confidence that the Russian government is behind VPNFilter because the malware code overlaps with versions of BlackEnergy—the malware responsible for multiple large-scale attacks targeting devices in Ukraine that the U.S. government has attributed to Russia.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although devices infected with VPNFilter have been found across 54 countries, researchers believe the hackers are targeting specifically Ukraine, following a surge in the malware infections in the country on May 8.
+"The malware has a destructive capability that can render an infected device unusable, which can be triggered on individual victim machines or en masse, and has the potential of cutting off internet access for hundreds of thousands of victims worldwide," Talos researcher William Largent said in a blog post.
+The researchers said they released their findings prior to the completion of their research, due to concern over a potential upcoming attack against Ukraine, which has repeatedly been the victim of Russian cyber attacks, including large-scale power outage and NotPetya.
+If you are already infected with the malware, reset your router to factory default to remove the potentially destructive malware and update the firmware of your device as soon as possible.
+You need to be more vigilant about the security of your smart IoT devices. To prevent yourself against such malware attacks, you are recommended to change default credentials for your device.
+If your router is by default vulnerable and cannot be updated, throw it away and buy a new one, it's that simple. Your security and privacy is more than worth a router's price.
+Moreover, always put your routers behind a firewall, and turn off remote administration until and unless you really need it.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

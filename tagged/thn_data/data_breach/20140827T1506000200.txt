@@ -1,0 +1,15 @@
+70% of South Korean Population Victimized In Online Gaming Heist
+Wang Wei
+
+More than half of South Korea's 50 million population aged between 15 and 65 have been affected in a massive data breach, compromising their personal information.
+The data breach came to light when 16 individual were arrested following the theft of about 220 million stolen records from a number of online game, ringtone storefronts and movie ticket sites that contains personally identifiable information related to 27 million victims.
+The stolen records included actual name, account name, password and resident registration number of the victims, According to the English version of a Seoul-based daily newspaper, the Korea Joongang Daily.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Among 16 perpetrators, the South Jeolla Provincial Police Agency arrested a 24-year-old man named ‘Kim’ , for allegedly obtaining and selling all 220 million personal information including names, registration numbers, account names, and passwords, from a Chinese hacker he met through an online game in 2011.
+Police estimated the breach caused in secondary damages alone is nearly $2 million. Also, Kim hacked into a total of 6 online video games in South Korea using the stolen information, from which he allegedly stole almost $400,000. Kim reportedly gave $130,000 cut of the money to the Chinese hacker whom he initially acquired the information from.
+The stolen information was sold for prices ranging from US$0.001 to US$20 per item depending on whether the buyer is a thief or illegal gaming advertiser, the police said. Authorities claim Kim went on to sell the personal information to mortgage fraudsters and “illegal gambling advertisers” for for 10 to 300 won, or a fraction of a U.S. dollar. Those swindlers and advertisers duped hundreds of South Koreans between September 2012 and November 2013.
+Online gaming is wildly popular in South Korea, so the stolen information is of much use for the buyers. They used those credentials to steal in-game currency and other game-related items from online gaming accounts and sold off to other players at a much higher rates. 
+It is estimated that the hackers have used a hack tool dubbed "extractor" that would log into user accounts and steal the information. Although, the authorities are investigating how the stolen information has been circulating and is  in the middle of pursuing seven other suspects, including the Chinese hacker. 
+The breach was really bad, but it isn’t the first time that Internet users in South Korea are suffering from a massive data breach. The more damaging data breach occurred in 2011, in which 35 million people of the country were exposed after hackers broke into the database South Cyworld, a South Korean social media site and the search engine Nate portal.
+Earlier this year, 20 million South Koreans were impacted by a data breach caused by an employee of the Korea Credit Bureau, who copied their PII onto an external drive over a period of 18 months.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,54 @@
+<!ENTITY name "KddTask">
+
+
+<!ELEMENT user_compromise   (#PCDATA)>
+<!ATTLIST user_compromise TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT root_compromise   (#PCDATA)>
+<!ATTLIST root_compromise TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT web_compromise   (#PCDATA)>
+<!ATTLIST web_compromise TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT viruss   (#PCDATA)>
+<!ATTLIST viruss TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT spyware   (#PCDATA)>
+<!ATTLIST spyware TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT trojan   (#PCDATA)>
+<!ATTLIST trojan TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT worms   (#PCDATA)>
+<!ATTLIST worms TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT arbitrary_code_execution   (#PCDATA)>
+<!ATTLIST arbitrary_code_execution TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT DoS   (#PCDATA)>
+<!ATTLIST DoS TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC|SUP) #IMPLIED "USP" >
+
+<!ELEMENT head   (#PCDATA)>
+<!ELEMENT name   (#PCDATA)>
+<!ELEMENT confuse   (#PCDATA)>
+
+<!--
+<!ELEMENT located-mention   (#PCDATA)>
+<!ATTLIST located-mention TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+<!ELEMENT employment-mention   (#PCDATA)>
+<!ATTLIST employment-mention TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+<!ELEMENT CRRE   (#PCDATA)>
+<!ATTLIST CRRE TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+
+<!ELEMENT M   (#PCDATA)>
+<!ATTLIST M TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+-->
+
+<!ELEMENT entity_link 	EMPTY >
+<!ELEMENT head_link 	EMPTY >
+<!ELEMENT name_link 	EMPTY >
+
+
+<!--<!ELEMENT relation_link1 	EMPTY >-->
+<!--<!ELEMENT relation_link2 	EMPTY >-->
+

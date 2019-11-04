@@ -1,0 +1,20 @@
+New Malware Takes Commands From Memes Posted On Twitter
+Wang Wei
+
+Security researchers have discovered yet another example of how cybercriminals disguise their malware activities as regular traffic by using legitimate cloud-based services.
+Trend Micro researchers have uncovered a new piece of malware that retrieves commands from memes posted on a Twitter account controlled by the attackers.
+Most malware relies on communication with their command-and-control server to receive instructions from attackers and perform various tasks on infected computers.
+Since security tools keep an eye on the network traffic to detect malicious IP addresses, attackers are increasingly using legitimate websites and servers as infrastructure in their attacks to make the malicious software more difficult to detect.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the recently spotted malicious scheme, which according to the researchers is in its early stage, the hackers uses Steganography—a technique of hiding contents within a digital graphic image in such a way that's invisible to an observer—to hide the malicious commands embedded in a meme posted on Twitter, which the malware then parses and executes.
+Although the internet meme looks a normal image to human eyes, the command "/print" is hidden in the file's metadata, which then prompts the malware to send a screenshot of the infected computer to a remote command-and-control server.
+Also Read: Hacking With Just An Image — Stegano
+Here, the malware, which the researchers named "TROJAN.MSIL.BERBOMTHUM.AA," has been designed to check the attacker's Twitter account and then download and scan meme (image) files for the secret commands.
+According to the Trend Micro researchers, the Twitter account in question was created in 2017 and contained only two memes posted on October 25 and 26 that delivered "/print" commands to the malware that instructed it to take screenshots.
+The malware then sends the screenshots to a command and control server, whose address is obtained through a "hard-coded" URL on the Pastebin site.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides taking screenshots, the malware can also be given a variety of other commands, such as to retrieve a list of running processes, grab the account name of the logged in user, get filenames from specific directories on an infected machine, and grab a dump of the user’s clipboard.
+The malware appears to be in the early stages of its development as the pastebin link points to a local, private IP address, "which is possibly a temporary placeholder used by the attackers."
+It's worth noting that the malware was not downloaded from Twitter itself and the researchers currently haven't found what specific mechanism that was or could be used by attackers to deliver the malware to the victims' computers.
+The good news is that the Twitter account used to deliver the malicious memes appears to have been disabled, but it is still not clear who is behind this malware and how the mysterious hacker was circulating the malware.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

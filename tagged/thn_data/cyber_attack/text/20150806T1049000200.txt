@@ -1,0 +1,30 @@
+SSL Encryption — Securing Internet of Things (IoT)
+Khyati Jain
+
+Internet of Things (IoT) with the purpose of providing convenience to the users enabled every object in the universe to be as smart as a whip.
+By assigning IP address to all sorts of devices, ranging from household appliances, machines, medical devices and sensors to other day-to-day objects, and putting them all together on a standardised network is a common Internet of Things (IoT) practice.
+Is Internet of Things Secure?
+In my previous articles, I gave you a glance of the most vulnerable smart cities that are increasingly adopting devices connected to the Internet in an attempt to add convenience and ease to daily activities.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+By 2020, there will be more than 45 Billion Internet-connected devices that will transform the way we live and work.
+The bottom line:
+As the number of IoT enabled systems increases, the complexity of handling them increases; leading to an introduction of new risk and vulnerabilities associated with them.
+Security of Internet of Things (IoT) Can’t Be Ignored
+The risks can be mitigated by more robust authentication methods at the time when the ‘Internet-connected devices’ initiate communication with each other, hence developing secure identification management.
+For secure communication among the IoT devices, many security mechanisms and protocols have been implemented, including:
+Public Key Infrastructure (PKI) system for securing communications between the Internet-connected devices.
+Secure Socket Layer (SSL) protocol implementation for IoTs to encrypt their communication over the network.
+As it is evident, Security solutions for embedded devices connected to the Internet is also necessary. The devices also need to be secured from attacks like eavesdropping, DDoS and tampering of network traffic.
+SSL Encryption for Internet of Things (IoT)
+For SSL/TLS implementation in IoT devices, INSIDE Secure has introduced a new open source embedded SSL called MatrixSSL Tiny as an extension to MatrixSSL - a source for web servers to implement encryption layer for secure management of remote devices.
+MatrixSSL Tiny is going to be demonstrated this week at Black Hat conference in Las Vegas, where the security researchers will be representing its full suite of security products and will talk about its solution for cyber attacks focussed at IoT.
+MatrixSSL Tiny is a lightweight TLS software implementation for IoT devices with limited memory to make secure communications among them, yet demand more robust security to prevent eavesdropping and tampering of network traffic.
+The software also performs real time functions that nulls the memory on completion of a particular session. According to researchers, MatrixSSL Tiny is the world’s smallest, yet powerful IoT security solution.
+Why SSL is Not Sufficient?
+Despite developments for enhancing the security, IoT infrastructure is still massively prone to cyber attacks that lead to offer open gateways for people with malicious intents.
+Any command initiated on a smart device, be it an application or a firmware, must be verified through a chain of trust.
+If we consider a situation, where communication is taking place on a traditional IT system and an IoT smart device, we see that IT systems follow a layered security procedure; whereas in IoT smart devices authenticity and confidentiality can be tampered with.
+Therefore, multi-layer security measures are needed for IoT devices too so that the IoT devices could differentiate that the information received or sent is by an authorized user or an intruder.
+To sum up, I would say…
+The security of IoT enabled devices are becoming critical and a thing of concern for the security enablers. The point to be worried about is its future developments where, it is seen as a boon and not a bane.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

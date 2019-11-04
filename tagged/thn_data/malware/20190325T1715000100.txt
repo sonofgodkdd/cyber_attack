@@ -1,0 +1,22 @@
+Warning: ASUS Software Update Server Hacked to Distribute Malware
+Swati Khandelwal
+
+Remember the CCleaner hack?
+CCleaner hack was one of the largest supply chain attacks that infected more than 2.3 million users with a backdoored version of the software in September 2017.
+Security researchers today revealed another massive supply chain attack that compromised over 1 million computers manufactured by Taiwan-based tech giant ASUS.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A group of state-sponsored hackers last year managed to hijack ASUS Live automatic software update server between June and November 2018 and pushed malicious updates to install backdoors on over one million Windows computers worldwide.
+According to cybersecurity researchers from Russian firm Kaspersky Lab, who discovered the attack and dubbed it Operation ShadowHammer, Asus was informed about the ongoing supply chain attack on Jan 31, 2019.
+After analyzing over 200 samples of the malicious updates, researchers learned that hackers did not want to target all users, instead only a specific list of users identified by their unique MAC addresses, which were hardcoded into the malware.
+"We were able to extract more than 600 unique MAC addresses from over 200 samples used in this attack. Of course, there might be other samples out there with different MAC addresses in their list," researchers say.
+Like the CCleaner and ShadowPad hacks, the malicious file was signed with legitimate ASUS digital certificates in order to make it look an official software update from the company and to remain undetected for a long time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers didn't attribute the attack to any APT group at this moment, but certain evidence linked the latest attack to the ShadowPad incident from 2017, which Microsoft attributed to the BARIUM APT actors behind the Winnti backdoor.
+"Recently, our colleagues from ESET wrote about another supply chain attack in which BARIUM was also involved, that we believe is connected to this case as well," researchers say.
+According to Kaspersky, the backdoored version of ASUS Live Update was downloaded and installed by at least 57,000 Kaspersky users.
+"We [researchers] are not able to calculate the total count of affected users based only on our data; however, we estimate that the real scale of the problem is much bigger and is possibly affecting over a million users worldwide," Kaspersky says.
+Symantec told Vice that the company identified the malware on more than 13,000 machines running its antivirus software.
+Most of the victims Kaspersky detected are from Russia, Germany, France, Italy, and the United States, though the malware infected users from around the world.
+Kaspersky has notified ASUS and other antivirus companies of the attack while the investigation into the matter is still ongoing.
+The antivirus firm has also released an automated tool for users to check whether they had specifically been targeted by the ShadowHammer advanced persistent threat.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

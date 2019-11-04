@@ -1,0 +1,10 @@
+40 Million Credit Card accounts affected in massive data breach at 'Target' Stores during Black Friday
+Swati Khandelwal
+
+If you have shopped something during the Black Friday weekend from Target's U.S based Retailer stores, then please pay serious attention - Your Credit and Debit card account may have been at Risk.  (adsbygoogle = window.adsbygoogle || []).push({}); There are more than 1,500 Target stores throughout the U.S and 40 Million credit and debit card accounts of Target's customers may have been stolen during the height of the holiday shopping season, according to a statement published by the company.
+Somehow thieves allegedly gained access to personal data in stores when customers swiped their cards at the register. That information is then typically sold to buyers who then make bogus debit or credit cards with it.
+So the customers who made purchases by swiping their cards at terminals in its U.S. Stores between November 27 and December 15 may have been exposed. Krebs who broke the story reports that the breach does not impact shoppers who purchased items online.
+Target has not disclosed exactly how the data breach occurred, but said that they have fixed the issue and credit card account holders can continue shopping at their stores. Sources told Krebs that the breach could be among the largest retail breaches in U.S. History.
+"Whether or not you feel like you might be impacted by this breach, it's a really good idea, particularly around this time of year, to pay attention to what's on your debit and credit card statements."
+The US Secret Service is also investigating the breach, according to the Wall Street Journal. Target officials said customer who suspect unauthorized activity should contact Target at: 866-852-8680.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,31 @@
+TalkTalk Hacked; 4 Million Credit Card Profiles may have been Stolen
+Swati Khandelwal
+
+TalkTalk, one of the biggest UK-based phone and Internet service provider with more than 4 Million customers, has been hacked again, the company announced late Thursday.
+TalkTalk is informing its 4 million customers that it has fallen victim to a "significant and sustained cyber attack" and it is possible that sensitive data including bank details have been stolen.
+In February, TalkTalk suffered a major data breach in which its customer details were stolen and misused by scammers to access additional information as well as steal considerable amount of money.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What data might have been Exposed?
+According to the company, potentially all of its 4 Million customers could be affected by the data breach. 
+However, TalkTalk hasn't specified exactly what kind of data was stolen from its servers, but says that the systems accessed by hackers contained information including: 
+Credit card details and/or bank details
+Full names
+Postal addresses
+Dates of birth
+Email addresses
+Telephone numbers
+TalkTalk accounts information
+The company has admitted that "not all of the data was encrypted," which means that the hackers could easily access some of the user data — which also includes their bank details and email addresses.
+In a statement, TalkTalk said the Metropolitan Cyber Crime Unit has launched a criminal investigation "following a significant and sustained cyber attack on [their] website."
+What kind of attack was it, and when did it happen?
+The cyber attack on its servers took place on Wednesday, and the telecom said it took all its website down when it noticed some unusual activities on its website.
+TalkTalk website was unavailable last night, displaying a message: "Sorry we are currently facing technical issues, [and] our engineers are working hard to fix it. We apologise for any inconvenience this may cause."
+The internet provider assured its customers that the company did so in an "effort to protect [its users] data". 
+BBC reported that TalkTalk's website was targeted by a distributed denial of service attack or DDoS attack — overwhelming servers with a flood of traffic.
+However, DDoS on its own is not capable of handing over the hacker access to internal data.
+What Should You Do Now?
+All TalkTalk customers are highly recommended to change their passwords as soon as possible and keep an eye on their bank accounts over the next few months.
+If you come across any fraudulent activity, report to their bank or Action Fraud, the UK's fraud reporting centre.
+Customers should also be vigilant to unrequested calls asking for their personal details or account passwords, as the firm emphasises that it "never call customers and ask [them] to provide bank details."
+Customers should also particularly be alert of the Phishing emails, which are usually the next step of cyber criminals after a large-scale hack at any telecoms company. Phishing is designed to trick users into giving up further personal details like passwords.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

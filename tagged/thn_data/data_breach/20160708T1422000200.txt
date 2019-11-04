@@ -1,0 +1,17 @@
+Over 1000 Wendy's Restaurants Hit by Credit Card Hackers
+Mohit Kumar
+
+The Popular fast-food restaurant chain Wendy's on Thursday admitted that a massive cyber attack had hit more than 1,000 of its restaurants across the country. 
+The burger chain did not speculate how many people may have been affected, though it did confirm that the hackers were able to steal its customers' credit and debit card information.
+The data breach is more than three times bigger than initially thought.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The original data breach was believed to have affected "fewer than 300" of its 5,144 franchised locations in the United States when the malware was discovered in May.
+The Malware had been installed on Point-of-Sale (PoS) systems in the affected restaurants and was able to obtain cardholder's name, payment card number, expiration date, service code, cardholder verification value, among other data.
+The data breach began in fall 2015 and discovered in February this year, and the company went public with in May. 
+Just last month, Wendy's said the company learned of a second malware variant that had infected its systems and disabled it from all locations. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company is now offering one year of "complimentary" fraud protection services to affected customers.
+Wendy's has blamed a third-party for the cyber attack, saying a "service provider" had its remote access credentials compromised that allowed attackers to deploy malware remotely to some franchisees’ POS systems.
+Once identified, the US burger chain found a method of disabling the malware and has done so at all affected locations. Customers can see the list of affected locations through Wendy's website.
+So, if you have used your debit or credit card at Wendy's restaurant early this year, you are advised to keep a close eye on your bank account statements. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

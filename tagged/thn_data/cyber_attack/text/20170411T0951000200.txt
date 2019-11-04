@@ -1,0 +1,20 @@
+U.S. Takes Down Kelihos Botnet After Its Russian Operator Arrested in Spain
+Mohit Kumar
+
+A Russian computer hacker arrested over the weekend in Barcelona was apparently detained for his role in a massive computer botnet, and not for last year's US presidential election hack as reported by the Russian media.
+Peter Yuryevich Levashov, 32-years-old Russian computer programmer, suspected of operating the Kelihos botnet — a global network of over 100,000 infected computers that was used to deliver spam, steal login passwords, and infect computers with ransomware and other types of malware since approximately 2010, the U.S. Justice Department announced Monday.
+As suspected earlier, Levashov, also known as Peter Severa, is the same man who has also been listed in the World's Top 10 Worst Spammers maintained by anti-spam group Spamhaus, which has given him the 7th position in the list.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The arrest was made possible after the FBI learned just last month that Levashov was traveling with his family to Spain from his home in Russia, a country without any extradition treaty to the United States.
+Initially, it was believed that Levashov was detained on suspicion of 2016 US election hack, after his wife told Russian publication RT that authorities said her husband’s apprehension was in part due to his involvement in the U.S. election hacking, including the notorious breach of the Democratic National Committee (DNC).
+However, the DoJ press release indicates no link between Levashov and US election hack at all.
+Instead, Levashov was linked to the Kelihos botnet by the FBI because he used the same IP address to operate the botnet that he used to access his email and other online accounts in his name, including Apple iCloud and Google Gmail accounts.
+According to the indictment unsealed Monday, Levashov operated the botnet since 2010, targeting Microsoft Windows machines for infection. He allegedly used Kelihos to distribute hundreds of millions of spam emails per year, and pump-and-dump stock scams.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides conducting spamming operations, prosecutors also alleged Levashov also used the Kelihos botnet to infect end-user computers with malware and harvest passwords to online and bank accounts belonging to thousands of Americans.
+"The ability of botnets like Kelihos to be weaponized quickly for vast and varied types of harms is a dangerous and deep threat to all Americans, driving at the core of how we communicate, network, earn a living, and live our everyday lives," said Acting Assistant Attorney General Blanco.
+"Our success in disrupting the Kelihos botnet was the result of strong cooperation between private industry experts and law enforcement, and the use of innovative legal and technical tactics."
+The FBI officials obtained court orders (Rule 41 of the Federal Rules of Criminal Procedure) to redirect Kelihos-infected PCs to servers operated by authorities — a process known as "Sinkhole attack" — and to block any attempts by the botnet to regain control of those sinkholed computers.
+The FBI said it worked with security firm CrowdStrike and Shadowserver Foundation, a volunteer group of information security experts, to deploy the sinkhole attack to disconnect communications between criminals and infected computers.
+Levashov has been charged with wire fraud and unauthorized interception of electronic communications. The government is now seeking his extradition to the United States.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

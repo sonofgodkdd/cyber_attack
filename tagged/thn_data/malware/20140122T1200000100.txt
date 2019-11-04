@@ -1,0 +1,14 @@
+16 Million German Users' Data Compromised in mysterious Botnet Malware attack
+Swati Khandelwal
+
+A New day begins with a Cup of Coffee and with new massive Data Breach News.
+This time in Germany, the Digital identities of about 16 million online users had been stolen, and posing a risk to their accounts linked to social media and other services.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Federal Office for Information Security (BSI) discovered a security breach after running an analysis of the botnet network of computers infected with malware.
+The compromised accounts have email addresses as their username and also the passwords were stolen, that could also be sold to spammers and people looking to “phish” account holders.
+Until now it hasn't been known that how and when the analysis was carried out and who exactly were involved behind this massive data breach, as the BSI refused to give details on the source of the information.
+Authorities have set up a German-language website which allows users to enter their email address and check whether their email accounts are compromised or not.
+The officer advised those with compromised email addresses to change their passwords of "social networking sites, online shops, email accounts and other online services;” and check their computers for malware and viruses and also assured the user that they are taking necessary security measures against it.
+An Agency spokesman, Tim Griese, said about half the accounts have '.de' domain-name endings, denoting German-based accounts, and it appears the majority of users are in Germany, RT reports.
+Data breach has become a burning issue these days, and a problem which is skyrocketing!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,23 @@
+Facebook Admits Sharing Users' Data With 61 Tech Companies
+Swati Khandelwal
+
+Facebook has admitted that the company gave dozens of tech companies and app developers special access to its users' data after publicly saying it had restricted outside companies to access such data back in 2015.
+It's an unusual clear view of how the largest social networking site manages your personal information.
+During the Cambridge Analytica scandal revealed March this year, Facebook stated that it already cut off third-party access to its users' data and their friends in May 2015 only.
+However, in a 747-page long document [PDF] delivered to Congress late Friday, the social networking giant admitted that it continued sharing data with 61 hardware and software makers, as well as app developers after 2015 as well.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The disclosure comes in response to hundreds of questions posed to Facebook CEO Mark Zuckerberg by members of Congress in April about its company's practices with data of its billions of users.
+The Washington Post reported that the company submitted the documents, representing Facebook's most granular explanation of exemption, within hours of a Friday night deadline.
+Among other things, the documents revealed that Facebook granted a "one-time" six-month extension to 61 companies including AOL, Nike, United Parcel Service and dating app Hinge to come into compliance with Facebook's new privacy policy on user data.
+Besides this, there are at least five other companies that theoretically may have accessed limited friends’ data, as a result of API access that they were granted as part of a Facebook beta test, the social media added.
+The documents also acknowledged that Facebook partnered with 52 domestic and international companies, including U.S. tech giants Apple, Microsoft, Spotify, Amazon, Sony, Acer, China-based Huawei and Alibaba, and device-makers Samsung and BlackBerry.
+The social network shared information about its users with these companies to help them create their own versions of Facebook or Facebook features for their devices, well of course, "under the terms and policies they provide to their users."
+"We engaged companies to build integrations for a variety of devices, operating systems, and other products where we and our partners wanted to offer people a way to receive Facebook or Facebook experiences," the document reads. "These integrations were built by our partners, for our users, but approved by Facebook."
+However, Facebook also said the company has already discontinued 38 of these 52 partnerships and is going to end its partnership with an additional seven by the end of this July and another one by the end of this October.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Whereas, partnerships with three companies will continue, which includes Apple, Amazon, and Tobii, an accessibility app that enables people with ALS to access Facebook, with whom the company has agreements that extend beyond October 2018.
+The document comes months after it revealed that personal data of 87 million Facebook users were harvested by Cambridge Analytica, a political consultancy firm, who reportedly helped Donald Trump win the US presidency in 2016.
+The revelation led to public outcry for lawmakers to hold the social network accountable for its data-management practices, raising questions about whether Facebook can be trusted to protect the personal data of its 2 billion users.
+Facebook's admission to the extensions, as Post noted, is "the fullest to date regarding reports that Facebook [had continued sharing] user data with some companies for years."
+Just three days ago, we covered a separate incident, wherein a popular third-party quiz app that runs on Facebook app platform exposed data of up to 120 million Facebook users to hackers.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

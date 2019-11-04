@@ -1,0 +1,38 @@
+Hackers Can Now Steal Data Even From Faraday Cage Air-Gapped Computers
+Swati Khandelwal
+
+A team of security researchers—which majorly focuses on finding clever ways to get into air-gapped computers by exploiting little-noticed emissions of a computer's components like light, sound and heat—have published another research showcasing that they can steal data not only from an air gap computer but also from a computer inside a Faraday cage.
+Air-gapped computers are those that are isolated from the Internet and local networks and so, are believed to be the most secure devices that are difficult to infiltrate.
+Whereas, Faraday cages are metallic enclosures that even blocks all electromagnetic signals, such as Wi-Fi, Bluetooth, cellular and other wireless communications, making any device kept inside the cage, even more, isolate from outside networks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Cybersecurity Research Center at Israel's Ben Gurion University, directed by 38-year-old Mordechai Guri, has developed two techniques that helped them exfiltrate data from computers placed inside a Faraday cage.
+Dubbed MAGNETO [pdf] and ODINI [pdf], both the techniques make use of proof-of-concept (PoC) malware installed on an air-gapped computer inside the Faraday cage to control the "magnetic fields emanating from the computer by regulating workloads on the CPU cores" and use it to transmit data stealthily.
+"Everyone was talking about breaking the air gap to get in, but no one was talking about getting the information out," Guri says. "That opened the gate to all this research, to break the paradigm that there's a hermetic seal around air-gapped networks."
+According to the researcher, once a computer (no matter if it is air-gapped or inside a Faraday cage) has been infected, hackers can exfiltrate stolen data without needing to wait for another traditional connection to the infected machine.
+How MAGNETO & ODINI Attacks Work:
+Once a motivated attacker somehow succeeded in planting malware on an air-gapped computer, the malware then collects small pieces of information, like keylogging data, encryption keys, credential tokens, and passwords.
+Also Read: CIA developed Malware for Hacking Air-Gapped Networks.
+The PoC malware developed by the team then electrically generates a pattern of magnetic field frequencies by regulating CPU's workload, which can be achieved by overloading the CPU with calculations that increase power consumption and generate a stronger magnetic field.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+These electromagnetic (acoustic, optical and thermal) emissions from the infected computer are powerful enough to carry a small stream of stolen data to a nearby device, a receiver planted by the hacker.
+The process involves translating data first into binary, i.e. 0 and 1, and the transmitting it into morse-code-like patterns in accordance with electromagnetic emission.
+"The transmitting program leaves only a small footprint in the memory, making its presence easier to hide from AVs. At the OS level, the transmitting program requires no special or elevated privileges (e.g., root or admin), and hence can be initiated from an ordinary userspace process," the paper reads.
+"The transmitting code mainly consists of basic CPU operations such as busy loops, which do not expose malicious behaviors, making it highly evasive from automated analysis tools."
+Also Read: Stealing Data from Air-Gapped Computers Using CCTV Cameras
+While both MAGNETO and ODINI attacks are designed to exfiltrate data from a secured computer using electromagnetic emissions, the only difference between the two is:
+MAGNETO is a short-distance attack where an Android app installed on the attacker's smartphone can receive stolen data with the help of phone's magnetometer— a magnetic sensor that can transmit data even if the smartphone is placed inside a Faraday bag or is set to airplane mode.
+ODINI attack enables attackers to capture electromagnetic signals from a slightly longer range using a dedicated magnetic sensor.
+In case of MAGNETO, the team managed to achieve only up to 5 bits/sec over a distance of up to 12.5 cm (5 inches), while ODINI is quite more efficient with a maximum transfer rate of 40 bits/sec over a range of 100 to 150 cm (3-5 feet).
+Both ODINI and MAGNETO also work if the targeted air-gapped device is inside a Faraday cage, which is designed to block electromagnetic fields, including Bluetooth, Wi-Fi, cellular, and other wireless communications.
+Researchers suggest three different approaches that can be used to prevent attackers from establishing a covert magnetic channel, i.e., shielding, jamming, and zoning.
+Video Demonstration of MAGNETO And ODINI Attacks
+The team published proof-of-concept video demonstrations for both MAGNETO and ODINI attacks, which shows both the attacks in action.
+It's not the first time Ben-Gurion researchers came up with a covert technique to target air-gapped computers. Their previous research of hacking air-gap computers include:
+aIR-Jumper attack that steals sensitive information from air-gapped computers with the help of infrared-equipped CCTV cameras that are used for night vision.
+USBee attack that can be used steal data from air-gapped computers using radio frequency transmissions from USB connectors.
+DiskFiltration attack that can steal data using sound signals emitted from the hard disk drive (HDD) of the targeted air-gapped computer;
+BitWhisper that relies on heat exchange between two computer systems to stealthily siphon passwords or security keys;
+AirHopper that turns a computer's video card into an FM transmitter to capture keystrokes;
+Fansmitter technique that uses noise emitted by a computer fan to transmit data; and
+GSMem attack that relies on cellular frequencies.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

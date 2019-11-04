@@ -1,0 +1,28 @@
+Yahoo Hacked Once Again! Quietly Warns Affected Users About New Attack
+Mohit Kumar
+
+Has Yahoo rebuilt your trust again?
+If yes, then you need to think once again, as the company is warning its users of another hack.
+Last year, Yahoo admitted two of the largest data breaches on record. One of which that took place in 2013 disclosed personal details associated with more than 1 Billion Yahoo user accounts.
+Well, it's happened yet again.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Yahoo sent out another round of notifications to its users on Wednesday, warning that their accounts may have been compromised as recently as last year after an ongoing investigation turned up evidence that hackers used forged cookies to log accounts without passwords.
+The company quietly revealed the data breach in security update in December 2016, but the news was largely overlooked, as the statement from Yahoo provided information on a separate data breach that occurred in August 2013 involving more than 1 billion accounts.
+The warning message sent Wednesday to some Yahoo users read:
+"Based on the ongoing investigation, we believe a forged cookie may have been used in 2015 or 2016 to access your account."
+The total number of customers affected by this attack is still unknown, though the company has confirmed that the accounts were affected by a security flaw in Yahoo's mail service.
+The flaw allowed "state-sponsored attackers" to use a "forged cookie" created by software stolen from within the company's internal systems to gain access to Yahoo accounts without passwords.
+"Forged cookies" are digital keys that allow access to accounts without re-entering passwords.
+Here's how the attack works:
+Instead of stealing passwords, hackers trick a web browser into telling the company that the victim had already logged in by forging little web browser tokens called cookies.
+You use cookies every time you log into any service and check that box that says "keep me logged in," or, "remember me."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, even if you close the window, or shutdown your system, you will not have to log back into your account because the cookie stored by your browser tells the online service that you already submitted your username and password.
+Here's what a Yahoo spokesperson said about the recently disclosed breach:
+"As we have previously disclosed, our outside forensic experts have been investigating the creation of forged cookies that could have enabled an intruder to access our users' accounts without a password." 
+"The investigation has identified user accounts for which we believe forged cookies were taken or used. Yahoo is in the process of notifying all potentially affected account holders."
+The warning notification has been sent out to almost all affected Yahoo users, although investigations are still ongoing.
+The notice sent to Yahoo's customers on Wednesday, the same day it was reported that Verizon is slashing the price the telecom service will pay for Yahoo by at least $250 Million, following revelations of two security breaches last year, according to a report by Bloomberg.
+The price cut appears to indicate the troubled deal will go through.
+With yet another disclosed security breach, one might think about closing online accounts associated with Yahoo.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

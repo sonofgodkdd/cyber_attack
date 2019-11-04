@@ -1,0 +1,30 @@
+U.S. Charges 9 Iranians With Hacking Universities to Steal Research Data
+Swati Khandelwal
+
+The United States Department of Justice has announced criminal charges and sanctions against 9 Iranians involved in hacking universities, tech companies, and government organisations worldwide to steal scientific research resources and academic papers.
+According to the FBI officials, the individuals are connected to the Mabna Institute, an Iran-based company created in 2013 whose members were allegedly hired by the Iranian government for gathering intelligence. 
+Though the content of the papers is not yet known, investigators believe it might have helped Iranian scientists to develop nuclear weapons.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In past four years, the state-sponsored hacking group has allegedly infiltrated more than 320 universities in 22 countries—144 of which were in the United States—and stolen over 30 terabytes of academic data and intellectual property.
+The group used spear-phishing attacks to target more than 100,000 e-mail accounts and computer systems of the professors around the world, and successfully compromised 7,998 of those accounts till last December—3,768 of them at US universities.
+"Their primary goal was to obtain usernames and passwords for the accounts of professors so they could gain unauthorized access and steal whatever kind of proprietary academic information they could get their hands on," said the FBI agent who investigated the case.
+According to the indictment unsealed today in a Manhattan federal court, Mabna Institute also shared stolen credentials with the Islamic Revolutionary Guard Corps (IRGC)—a branch of Iran's Armed Forces responsible for gathering intelligence.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The group then exfiltrated the academic data and sold the content via Megapaper.ir and Gigapaper.ir, Iranian websites "where customers could access the online library systems of the hacked universities."
+Following are the names and roles of the nine Iranians who were charged by the U.S. federal court:
+Gholamreza Rafatnejad — one of the founding members of the Mabna Institute.
+Ehsan Mohammadi — another founding member of the Mabna Institute and responsible for organising hacking campaign along with Rafatnejad.
+Seyed Ali Mirkarimi — a hacker and Mabna Institute contractor, who was engaged in crafting and sending malicious spear phishing emails to steal credentials belonging to university professors.
+Mostafa Sadeghi — another hacker working with the Mabna Institute, who allegedly compromised more than 1,000 university professors’ accounts and exchanged their credentials with Iranian partners.
+Sajjad Tahmasebi — a Mabna Institute contractor who was maintaining the list of stolen credentials and helped other hackers in reconnaissance process in order to prepare the list of targeted universities and professors to facilitate the spear phishing campaign.
+Abdollah Karima — a businessman who owned and operated a website to sell stolen academic materials online.
+Abuzar Gohari Moqadam — an Iranian professor who exchanged stolen credentials for compromised accounts with Mabna Institute founders.
+Roozbeh Sabahi — another contractor for the Mabna Institute.
+Mohammed Reza Sabahi — another Mabna Institute contractor, who assisted in making the lists of targeted university professors and academic databases.
+"Although it is difficult to calculate a dollar loss amount, through the course of the conspiracy, U.S.-based universities spent approximately $3.4 billion to procure and access data that the Iranians accessed for free because of their criminal activity," FBI said.
+Targeted countries include Japan, China, Australia, Canada, Denmark, Finland, Germany, Ireland, Israel, Italy, Malaysia, the Netherlands, Norway, Poland, Singapore, South Korea, Spain, Sweden, Switzerland, Turkey, and the United Kingdom.
+The US also imposes sanctions on "Game of Thrones" hacker
+Besides these 9 Iranian hackers, the U.S. Department of Treasury has also charged a 10th Iranian hacker, named Behzad Mesri, in connection with cyber attacks against HBO and with leaking "Game of Thrones" episodes last summer.
+According to the authorities, Mesri compromised multiple user accounts belonging to HBO in order to "repeatedly gain unauthorized access to the company’s computer servers and steal valuable stolen data including confidential and proprietary information, financial documents, and employee contact information."
+Mesri then attempted to extort HBO for $6 million to delete the stolen data.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

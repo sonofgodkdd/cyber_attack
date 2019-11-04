@@ -1,0 +1,53 @@
+Facebook and Cambridge Analytica – What's Happened So Far
+Swati Khandelwal
+
+Top Story— Facebook has just lost over $60 billion in market value over the past two days—that's more than Tesla's entire market capitalisation and almost three times that of Snapchat.
+Facebook shares plunge over revelations that personal data of 50 million users was obtained and misused by British data analytics firm 'Cambridge Analytica,' who reportedly helped Donald Trump win the US presidency in 2016.
+The privacy scandal that rocked the social media giant was revealed earlier this week when Chris Wylie, the 28-year-old data scientist who worked with a Cambridge University academic, turned into a whistleblower and leaked to the newspapers how poorly Facebook handles people's private information.
+Wylie claims Cambridge Analytica created "Steve Bannon's psychological warfare mindf**k tool" that profiles citizens to predict their voting patterns based on the personal information gathered from a variety of sources and then helps political parties target voters with tailored advertisements and messages.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since lots of things have happened since last week, we have compiled this brief article to explain what has happened so far in "Facebook and Cambridge Analytica" saga and how it keeps growing.
+How Cambridge Analytica Collected 50 Million Facebook Users' Data
+The story started four years ago when Cambridge psychologist Aleksandr Kogan approached researcher Michal Kosinski to get Facebook users data, which he had collected using a simple ‘online personality quiz’ app that requires users to log in using Facebook to participate.
+While Kosinski refused to provide any data his app was used to collect, Cambridge paid Kogan over $800,000 to create a similar quiz app for him with an aim to collect Facebook users’ profile data, including the list of pages they have "liked."
+Kogan's personality quiz app, dubbed “thisisyourdigitallife,” was a hit. Although it attracted 270,000 Facebook users to take part, Facebook's APIs at the time let the app also collect a wide range of information about each authorized user's friends.
+Since an average Facebook user has hundreds of friends in his/her friend-list, Kogan was able to leverage his user base of 270,000 people to collect data for about 50 million Facebook users for use in its ad-targeting work.
+Stop Third-Party Apps From Using Your Facebook Data
+Not only Cambridge Analytica's quiz app, there are other thousands of other apps that you might have encountered on your Facebook timeline—such as "how you’ll look in your 80s," "which celebrity you look like," "who’ll be your Valentine this year"—that work on the same model.
+All Facebook apps offer access using their Facebook account and ask you to grant the app’s developer a range of information from your Facebook profile, like your name, location, email, and friends list.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, ‘Login with Facebook’ option that you might have seen on hundreds of thousands of websites works similarly by allowing site admins to offer one-click login/signup for easy to verify your identity.
+It would be a good time now to revisit those third-party apps you have granted permission to access your Facebook data and completely revoke them if you don't want them to use your data and limit an app's permissions without entirely revoking it.
+To disable such apps from accessing your data, you can follow these steps:
+On the desktop computer, click the downward arrow in the top-right corner and select Settings and Apps from the menu. Here you’ll see all the apps where you have logged into Facebook.
+On mobile devices, open the menu(bottom-right for iOS, top-right for Android), and then select Settings → Account Settings → Apps → Logged in with Facebook.
+For entirely revoking any app, just tap on the remove button (cross icon) next to that app. You can also limit any app's permission by clicking the edit button (pencil icon), next to the cross icon, to view each app’s settings.
+From here, you can revoke specific permissions by de-selecting the checkmark next to each data point.
+Facebook Founder Mark Zuckerberg Apologizes For the Cambridge Analytica Scandal
+Today in an interview with CNN’s Laurie Segall, Facebook founder Mark Zuckerberg apologized for the social media giant’s failure to prevent privacy of its users.
+"This was a major breach of trust, and I’m really sorry this happened," Zuckerberg told Laurie.
+While addressing the Cambridge Analytica scandal, Zuckerberg acknowledged that it was a huge mistake to allow third-party developers to access users’ data and blindly trust that Cambridge Analytica and other companies involved in data harvesting would actually delete that data just because Facebook has asked them to.
+"That ... is probably the biggest mistake that we made here,"
+Zuckerberg pledged to solve all the problems and safeguard users’ privacy, explaining how the company has already changed its policies after 2014 to prevent abuse of Facebook's APIs.
+"Our responsibility now is to make sure this doesn’t happen again," Zuck assured its customers and shareholders across the world who are furious after knowing about the Cambridge Analytica scandal.
+During the interview, Zuckerberg promised to conduct a "full forensic audit" of the platform very soon to find which 3rd-party apps may have gained access to user data without their full consent and would notify everyone whose data was improperly used.
+Mark Zuckerberg Says It's Time to Regulate Tech Firms
+Some analysts believe that stricter government regulations are required to protect consumers’ privacy over social media companies.
+Since social media is playing an essential role in the world, Zuckerberg says he believes it's time to impose more regulations on technology companies, but he also recommends Artificial Intelligence as a better tool to regulate such a rapidly growing community of 2 billion people all over the world
+Besides this, Facebook has also planned to have more than 20,000 employees to closely monitor security and privacy operations by the end of this year.
+Facebook Faces International Investigation Over Personal Data Use
+Facebook is in trouble with governments across the world after this whole Cambridge Analytica mess.
+Following reports of the transfer of personal information of over 50 million users from Facebook to data-mining firm Cambridge Analytica, Facebook is facing probes by some countries including the United States, European Union, UK,  Israel, India, and Canada.
+The United States’ Federal Trade Commission (FTC) has started investigating whether or not the use of personal data from over 50 million users by Cambridge Analytica violated a consent decree Facebook signed with the agency in 2011.
+The European Commission has also asked data protection authorities to investigate Facebook's data leak to Cambridge Analytica, and if the commission finds Facebook in breach of data protection laws, it could levy fines on the company.
+The social networking site is also facing a separate probe by the U.K. government, who is pursuing a warrant to conduct its on-site investigation to determine whether Cambridge Analytica still has the information, which the company said has been deleted.
+Israeli Justice Ministry has also informed Facebook that it is opening an "administrative investigation" into Facebook "and the possibility of additional violations of Israelis’ personal information," the ministry said Thursday.
+Cambridge Analytica CEO Suspended After Undercover Recordings Released
+Cambridge Analytica has suspended its CEO from the research firm’s board of directors on Tuesday following an undercover video was aired which showed him discussing the use of bribes and prostitutes to sway political elections.
+The board said that Alexander Nix would be suspended pending a "full, independent investigation," adding that "In the view of the Board, Mr. Nix’s recent comments secretly recorded by Channel 4 and other allegations do not represent the values or operations of the firm and his suspension reflects the seriousness with which we view this violation."
+In an uncover video published by Channel 4 News in London on Monday, Nix found discussing how his firm is engaged in dirty tricks for political clients, like recording videos of operatives offering their opponents bribes.
+Nix also told a journalist, who posed as a potential Sri Lankan client, that his firm could also send "some girls around to the candidate’s house" to put the candidate in a compromising position.
+However, Cambridge has denied engaging in any of such tactics Nix described in the video.
+Cambridge Analytica mess has become one of the biggest scandals in tech right now, and it is becoming messier with each passing day, which could have enormous implications not only for Facebook but for every other online company out there that sells user data for a living.
+Facebook shares continued falling and dropped today by 2.66% to $164.89 as of the time of this writing.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

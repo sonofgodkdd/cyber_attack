@@ -1,0 +1,22 @@
+Ashley Madison Dating Site Agrees to Pay $1.6 Million Fine Over Massive Breach
+Swati Khandelwal
+
+Ashley Madison, an American most prominent dating website that helps married people cheat on their spouses has been hacked, has agreed to pay a hefty fine of $1.6 Million for failing to protect account information of 36 Million users, after a massive data breach last year.
+Yes, the parent company of Ashley Madison, Ruby Corp. will pay $1.6 Million to settle charges from both Federal Trade Commission (FTC) and 13 states alleging that it misled its consumers about its privacy practices and did not do enough to protect their information.
+Not only the company failed to protect the account information of its 36 Million users, but also it failed to delete account information after regretful users paid a $20 fee for "Full Delete" of their accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, the Ashley Madison site operators were accused of creating fake accounts of "female" users in an effort to attract new members.
+Avid Life Media denied the claim at the time, but a year later when the company rebranded as Ruby Corp., it admitted that tens of thousands of female users on AshleyMadison.com had just been lines of code.
+Last year, a group of hackers released tons of gigabytes of critical data belonging to the company's internal operation as well as millions of Ashley Madison users that led to blackmails and even suicides.
+Ruby Corp. was intended to pay a total of $17.5 Million fine -- $8.75 million fine to the FTC and another $8.75 million to 13 states that also filed complaints -- but the company can afford to pay just $1.6 Million fine.
+"Today's settlement closes an important chapter on the company's past and reinforces our commitment to operating with integrity and to building a new future for our members, our team and our company," Rob Segal, Ruby's newly-appointed CEO, wrote in a blog post.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Besides this, Ruby Corp. has agreed to 20 years' worth of the FTC overseeing its network security to ensure that user data is being protected.
+Here's the federal court order [PDF] that requires Ashley Madison to:
+Perform a risk assessment to protect customer data
+Implement new data security protocols
+Upgrade systems based on the assessments
+Offer periodic security risk assessment (both internal and third-party)
+Require "reasonable safeguards" against any potential cyber attacks from their service providers
+Ashley Madison was hacked in July 2015, resulting in the disclosure of personal information belonging to 35 Million users, including their usernames, first and last names, passwords, credit card data info, street names, phone numbers, transactions records, and email addresses.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

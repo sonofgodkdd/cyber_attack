@@ -1,0 +1,23 @@
+Singapore's Largest Healthcare Group Hacked, 1.5 Million Patient Records Stolen
+Mohit Kumar
+
+Singapore's largest healthcare group, SingHealth, has suffered a massive data breach that allowed hackers to snatch personal information on 1.5 million patients who visited SingHealth clinics between May 2015 and July 2018.
+SingHealth is the largest healthcare group in Singapore with 2 tertiary hospitals, 5 national specialty , and eight polyclinics.
+According to an advisory released by Singapore's Ministry of Health (MOH), along with the personal data, hackers also managed to stole 'information on the outpatient dispensed medicines' of about 160,000 patients, including Singapore's Prime Minister Lee Hsien Loong, and few ministers.
+"On 4 July 2018, IHiS' database administrators detected unusual activity on one of SingHealth’s IT databases. They acted immediately to halt the activity," MOH said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen data includes the patient's name, address, gender, race, date of birth, and National Registration Identity Card (NRIC) numbers.
+The Ministry of Health said the hackers "specifically and repeatedly" targeted the PM's "personal particulars and information on his outpatient dispensed medicine."
+So far there's no evidence of who was behind the attack, but the MOH stated that the cyber attack was "not the work of casual hackers or criminal gangs." The local media is also speculating that the hack could be a work of state-sponsored hackers.
+Investigations by the Cyber Security Agency of Singapore (CSA) and the Integrated Health Information System (IHiS) also confirmed that "this was a deliberate, targeted, and well-planned cyberattack."
+PM Comments On SingHealth Healthcare Data Breach
+Commenting on the cyber attack through a Facebook post published today, Singapore's Prime Minister said he believes that the attackers are "extremely skilled and determined" and they have "huge resources" to conduct such cyber attacks repeatedly.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"I don’t know what the attackers were hoping to find. Perhaps they were hunting for some dark state secret or at least something to embarrass me. If so, they would have been disappointed," Singapore PM said. "My medication data is not something I would ordinarily tell people about, but nothing is alarming in it."
+The Singapore government has assured its citizens that no medical records were tampered, or deleted and that no diagnoses, test results, or doctors' notes were stolen in the attack.
+All affected patients will be contacted by the healthcare institution over the next five days.
+Since the healthcare sector is part of the critical nation's infrastructure, alongside water, electricity, and transport, it has increasingly become an attractive target for hackers.
+In the past few years, we have reported several hacks and data breaches, targeting the healthcare sector. Just last month, it was revealed that DNA registries of more than 92 million MyHeritage customers were stolen in the previous year by some unknown hackers.
+Earlier this year, it was reported that more than half of Norway's population exposed its healthcare data in a massive data breach that targeted the country's major healthcare organization.
+The foremost thing to protect against any data breach is to stay vigilant, as nobody knows when or where your stolen identities will be used. So, affected consumers will just have to remain mindful.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

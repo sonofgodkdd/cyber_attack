@@ -1,0 +1,37 @@
+12-Year-Old SSH Bug Exposes More than 2 Million IoT Devices
+Mohit Kumar
+
+Are your internet-connected devices spying on you? Perhaps.
+We already know that the Internet of Thing (IoT) devices are so badly insecure that hackers are adding them to their botnet network for launching Distributed Denial of Service (DDoS) attacks against target services.
+But, these connected devices are not just limited to conduct DDoS attacks; they have far more potential to harm you.
+New research [PDF] published by the content delivery network provider Akamai Technologies shows how unknown threat actors are using a 12-year-old vulnerability in OpenSSH to secretly gain control of millions of connected devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hackers then turn, what researchers call, these "Internet of Unpatchable Things" into proxies for malicious traffic to attack internet-based targets and 'internet-facing' services, along with the internal networks that host them.
+Unlike recent attacks via Mirai botnet, the new targeted attack, dubbed SSHowDowN Proxy, specifically makes use of IoT devices such as:
+Internet-connected Network Attached Storage (NAS) devices.
+CCTV, NVR, DVR devices (video surveillance).
+Satellite antenna equipment.
+Networking devices like routers, hotspots, WiMax, cable and ADSL modems.
+Other devices could be susceptible as well.
+More importantly, the SSHowDowN Proxy attack exploits over a decade old default configuration flaw (CVE-2004-1653) in OpenSSH that was initially discovered in 2004 and patched in early 2005. The flaw enables TCP forwarding and port bounces when a proxy is in use.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, after analyzing IP addresses from its Cloud Security Intelligence platform, Akamai estimates that over 2 Million IoT and networking devices have been compromised by SSHowDowN type attacks.
+Due to lax credential security, hackers can compromise IoT devices and then use them to mount attacks "against a multitude of Internet targets and Internet-facing services, like HTTP, SMTP and network scanning," and to mount attacks against internal networks that host these connected devices.
+Once hackers access the web administration console of vulnerable devices, it is possible for them to compromise the device's data and, in some cases, fully take over the affected machine.
+While the flaw itself is not so critical, the company says the continual failure of vendors to secure IoT devices as well as implementing default and hard-coded credentials has made the door wide open for hackers to exploit them.
+"We are entering a very interesting time when it comes to DDoS and other web attacks; 'The Internet of Unpatchable Things' so to speak," said Eric Kobrin, senior director of Akamai's Threat Research team. 
+"New devices are being shipped from the factory not only with this vulnerability exposed but also without any effective way to fix it. We've been hearing for years that it was theoretically possible for IoT devices to attack. That, unfortunately, has now become the reality."
+According to the company, at least 11 of Akamai's customers in industries such as financial services, retail, hospitality, and gaming have been targets of SSHowDowN Proxy attack.
+The company is "currently working with the most prevalent device vendors on a proposed plan of mitigation."
+ 
+How to Mitigate Such Attacks?
+So, if you own a connected coffee machine, thermostat or any IoT device, you can protect yourself by changing the factory default credentials of your device as soon as you activate it, as well as disabling SSH services on the device if it is not required.
+More technical users can establish inbound firewall rules that prevent SSH access to and from external forces.
+Meanwhile, vendors of internet-connected devices are recommended to:
+Avoid shipping such products with undocumented accounts.
+Force their customers to change the factory default credentials after device installation.
+Restrict TCP forwarding.
+Allow users to update the SSH configuration to mitigate such flaws.
+Since IoT devices number has now reached in the tens of billions, it’s time to protect these devices before hackers cause a disastrous situation.
+Non-profit organizations like MITRE has come forward to help protect IoT devices by challenging researchers to come up with new, non-traditional approaches for detecting rogue IoT devices on a network. The company is also offering up to $50,000 prize money.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

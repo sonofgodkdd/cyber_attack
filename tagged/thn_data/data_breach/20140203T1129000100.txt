@@ -1,0 +1,12 @@
+800,000 Customers' detail stolen in Data Breach at French Telecom 'Orange'
+Swati Khandelwal
+
+One of the world’s largest mobile operator 'Orange' has been hit by data breach.
+The French multinational telecommunication company announced recently, it was targeted by unknown hackers on 16th January 2014, who allegedly gained access to the accounts of up to 800,000 customers of Orange website.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a report published on the PC INpact website, the company warned their customers in an email that their Client Area website orange.fr was hacked and personal data of 3% customers have been stolen, but the passwords are not affected.
+The hacker has successfully stolen customers' names, mailing address, email, landline and mobile phone numbers.
+The company warned, with the information lost in this attack, hackers can perform phishing attacks, allowing them to steal personal data, including bank account details and passwords by sending emails that look as if they have come from official sources.
+Orange has confirmed the data breach, and after the discovery of the attack, they closed "My Account" page from the website quickly for a few hours as a precaution.
+Orange customers should, of course, change their security details of the affected accounts. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

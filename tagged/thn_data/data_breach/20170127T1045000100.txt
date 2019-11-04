@@ -1,0 +1,17 @@
+Breach Database Site 'LeakedSource' Goes Offline After Alleged Police Raid
+Mohit Kumar
+
+The biggest mistake companies make with data security is leaving all their secrets unprotected at one place, which if attacked, they are all gone in one shot.
+An unnamed law enforcement agency has reportedly accessed billions of compromised usernames, email IDs, and their passwords, collected by LeakedSource, a popular breach notification service.
+LeakedSource, launched in late 2015, that exposed some of the largest data breaches in 2016, including LinkedIn, DailyMotion, Rambler.ru, Last.fm, VK.com, Weebly, and Foursquare, might be facing a permanent shut down after law enforcement officers allegedly raided its operator.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The LeakedSource website that allowed visitors to look up for their account details that had been collected from multiple data breaches has suddenly disappeared, and its associated social media accounts have been suspended.
+The data breach aggregation service had always been criticized for its unethical policy of allowing anyone to look up hacked account details, rather than discreetly notifying compromised account owners.
+The service, which indexed more than 3.1 billion compromised accounts records last year, also sells access to the full archive for which it charges a membership fee.
+Although there is no official announcement from the company or any law enforcement agency, an online OGFlip forum post made shortly after the site's takedown claims LeakedSource has been raided and the police have seized all the data hosted on it.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Here's the message from a person using the handle LTD wrote on OGF forum:
+"Leakedsource is down forever and will not be coming back. Owner raided early this morning. Was not arrested, but all [solid state drives (SSD)] got taken, and LeakedSource servers got subpoenaed and placed under federal investigation. If somehow he recovers from this and launches LS again, then I'll be wrong. But I am not wrong."
+LeakedSource made headlines last year for indexing the leaked data compromised during the high-profile data breach in LinkedIn, MySpace, Twitter, and Weebly.
+While it is not clear whether LeakedSource hard drives and servers were located, or was actually raided, and if true, which law enforcement agency conducted the raid, the website is still unavailable.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,15 @@
+ZeuS Trojan variant Targets Salesforce accounts and SaaS Applications
+Swati Khandelwal
+
+Zeus, a financially aimed Banking Trojan that comes in many different forms and flavors, is capable to steal users' online-banking credentials once installed. This time, an infamous Zeus Trojan has turned out to be a more sophisticated piece of malware that uses web-crawling action.
+Instead of going after Banking credentials and performing malicious keystroke logging, a new variant of Zeus Trojan focuses on Software-as-a-service (SaaS) applications for the purpose of obtaining access to proprietary data or code.
+The SaaS Security firm vendor Adallom, detected a targeted malware attack campaign against a Salesforce.com customer, which began as an attack on an employee's home computer. Adallom found that the new variant had web crawling capabilities that were used to grab sensitive business data from that customer's CRM instance.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Security firm noticed the attack when they saw about 2GB of data been downloaded to the victim’s computer in less than 10 minutes. Furthermore, while Zeus usually hijacks the user session and performs wire transactions, this variant crawled the site and created a real time copy of the user’s Salesforce.com instance that contained all the information from the company account.
+"This looks like a targeted attack against the company, cleverly targeting the employee home instead of the enterprise – thus bypassing the company controls. This was probably just the first step, using the Zeus Web inject capabilities they could have used the same tactics as in the banking sites attacks and ask the user to enter more information regarding his company credentials or send out messages in his name," says Ami Luttwak, co-founder and CTO of Adallom. 
+Zeus Trojan is one of the most popular family of banking Trojan. Also in 2012, the FBI warned us about the ‘GameOver’ banking Trojan, a variant of Zeus financial malware that spreads via phishing emails.
+GameOver makes fraudulent transactions from your bank once installed in your system with the capability to conduct Distributed Denial of Service, or DDoS, attack using a botnet, which involves multiple computers flooding the financial institution’s server with traffic in an effort to deny legitimate users access to the site.
+At the beginning of this year, Security researcher Gary Warner explains the behavior of the new variant of GameOver Zeus malware that uses Encryption to bypass perimeter security, in a blog post.
+The attackers now bypassing traditional security measures and putting Zeus to use it against Salesforce.com and possibly other SaaS applications in a type of attack that Adallom refers to as "land-mining" and "rolladexing" to grab loads of business data and customer information.
+The Adallom Labs team has yet to figure out exactly how these machines were infected and who are behind the cyber attack, so the matter is still being investigated by them.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

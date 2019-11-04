@@ -1,0 +1,22 @@
+Massive ATM Hack Hits 3.2 Million Indian Debit Cards — Change Your PIN Now!
+Swati Khandelwal
+
+India is undergoing the biggest data breaches to date with as many as 3.2 Million debit card details reportedly stolen from multiple banks and financial platforms.
+The massive financial breach has hit India's biggest banks including State Bank of India (SBI), HDFC Bank, Yes Bank, ICICI Bank and Axis, and customers are advised to change their ATM PIN immediately.
+Hackers allegedly used malware to compromise the Hitachi Payment Services platform — which is used to power country's ATM, point-of-sale (PoS) machines and other financial transactions — and stole details of 3.2 Million debit cards, reports The Economic Times.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Of 3.2 Million debit cards, 2.6 Million are powered by Visa or Mastercard and rest 600,000 work on top of India’s own RuPay platform.
+Hacked Debit Cards Reportedly Used in China
+It is not yet clear who is behind the cyber attack, but the report adds that a number of affected customers have observed unauthorized transactions made by their cards in various locations in China.
+Some banks, including the country's biggest lender SBI, have announced that they'll replace compromised debit cards, while others banks, including HDFC Bank, have urged their customers to change their ATM PINs and avoid using ATMs of other banks.
+The extent of damage due to breach also depends on the type of cards customers are using.
+Cards which use Magnetic Stripe transmit your account number and secret PIN to merchants in a way that it could make easy for fraudsters to hack them, making these cards easier to clone.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Whereas, banks who are using EMV (Europay, MasterCard, and Visa) chip-equipped cards (better known as Chip-and-Pin cards) store your data in encrypted form and only transmit a unique code (one-time-use Token) for every transaction, making these cards more secure and lot harder to clone.
+SBI Blocks and will Re-Issue 600,000 Debit Cards
+SBI has blocked affected debit cards and will re-issue over 600,000 cards. Here's what SBI CTO Shiv Kumar Bhasin told the publication:
+"It's a security breach, but not in our bank's systems. Many other banks also have this breach—right now and since a long time. A few ATMs have been affected by malware. When people use their card on infected switches or ATMs, there is a high probability that their data will be compromised."
+Mastercard also denied that its systems were breached, issuing the following statement:
+"We're aware of the data compromise event. To be clear, Mastercard's own systems have not been breached. At Mastercard, safety and security of payments are a top priority for us and we're working on the investigations with the regulators, issuers, acquirers, global and local law enforcement agencies and third party payment networks to assess the current situation."
+Meanwhile, the Payments Council of India has ordered a forensic audit on the Indian bank servers to measure the damage and investigate the origin of the cyber attack. Bengaluru-based payment and security specialist SISA will conduct the forensic audit.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,16 @@
+MyHeritage Says Over 92 Million User Accounts Have Been Compromised
+Swati Khandelwal
+
+MyHeritage, the Israel-based DNA testing service designed to investigate family history, has disclosed that the company website was breached last year by unknown attackers, who stole login credentials of its more than 92 million customers.
+The company learned about the breach on June 4, 2018, after an unnamed security researcher discovered a database file named "myheritage" on a private server located outside of the company, and shared it with MyHeritage team.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+After analyzing the file, the company found that the database, which included the email addresses and hashed passwords of nearly 92.3 million users, are of those customers who signed up for the MyHeritage website before October 27, 2017.
+While the MyHeritage security team is still investigating the data breach to identify any potential exploitation of its system, the company confirmed that no other data such as credit card details and family trees, genetic data were ever breached and are stored on a separate system.
+"Credit card information is not stored on MyHeritage to begin with, but only on trusted third-party billing providers (e.g., BlueSnap, PayPal) utilized by MyHeritage," MyHeritage wrote in a blog post published today. 
+"Other types of sensitive data such as family trees and DNA data are stored by MyHeritage on segregated systems, separate from those that store the email addresses, and they include added layers of security. We have no reason to believe those systems have been compromised."
+MyHeritage also confirmed that there was no evidence of account compromise.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company also notes that it does not store its customer passwords in plaintext; instead, the affected website uses a hashing algorithm with a unique salt to protect users' passwords, making them more resilient to cracking.
+Therefore, your stolen passwords are probably safe, but the company still advised all of its users to change their passwords and keep a stronger and unique one, just to be on the safer side.
+MyHeritage said it had hired an independent cybersecurity firm to conduct a forensic investigation of the data breach. The company also said it is adding two-factor authentication feature as an option for users.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

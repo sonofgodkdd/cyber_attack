@@ -1,0 +1,27 @@
+Someone Hacked PHP PEAR Site and Replaced the Official Package Manager
+Mohit Kumar
+
+Beware! If you have downloaded PHP PEAR package manager from its official website in past 6 months, we are sorry to say that your server might have been compromised.
+Last week, the maintainers at PEAR took down the official website of the PEAR (pear-php.net) after they found that someone has replaced original PHP PEAR package manager (go-pear.phar) with a modified version in the core PEAR file system.
+Though the PEAR developers are still in the process of analyzing the malicious package, a security announcement published on January 19, 2019, confirmed that the allegedly hacked website had been serving the installation file contaminated with the malicious code to download for at least half a year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The PHP Extension and Application Repository (PEAR) is a community-driven framework and distribution system that offers anyone to search and download free libraries written in PHP programming language.
+These open-source libraries (better known as packages) allows developers to easily include additional functionalities into their projects and websites, including authentication, caching, encryption, web services, and many more.
+When you download PHP software for Unix/Linux/BSD systems, PEAR download manager (go-pear.phar) comes pre-installed, whereas Windows and Mac OS X users need to install the component when required manually.
+Since many web hosting companies, including shared hosting providers, also allow their users to install and run PEAR, this latest security breach could impact a large number of websites and their visitors.
+"If you have downloaded this go-pear.phar in the past six months, you should get a new copy of the same release version from GitHub (pear/pearweb_phars) and compare file hashes. If different, you may have the infected file," the note on the official PEAR website reads.
+According to the PEAR maintainers, the team is currently performing a forensic investigation to determine what is the extent of the attack and how the attackers managed to compromise the server in the first place.
+A new clean version 1.10.10 of pearweb_phars is now available on Github, which "re-releases the correct 'go-pear.phar' as v1.10.9, the file that was found tainted on the 'http://pear.php.net' server, and now includes separate GPG signature files with each 'phar."
+The developers further notified that only the copy on the pear.php.net server was impacted, to their knowledge, and that the GitHub copy of go-pear.phar is not compromised.
+Since the PEAR officials have just put out a warning notification and not released any details about the security incident, it is still unclear that who is behind the attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The developers tweeted that they will publish a "more detailed announcement" on the PEAR Blog once it's back online.
+All PHP/PEAR users who have downloaded the installation file go-pear.phar from the official website in the past six months should consider themselves compromised and quickly download and install the Github version.
+UPDATE — The PEAR team has published more details about the recent security incident, explaining the tainted "go-pear.phar" found on its server appeared to be planted after the last official file release on 20 December 2018.
+After analyzing the tainted version of the package manager, the team found that the malicious module "spawn a reverse shell via Perl to IP 104.131.154.154" from the infected servers, allowing attackers to take complete control over them, including the ability to install apps, run malicious code, and steal sensitive data.
+According to the DCSO, a German cybersecurity organization who also analyzed the tainted code, the server IP address 104.131.154.154 points to a web domain bestlinuxgames[.]com, which it believes was a compromised host used by the attackers.
+"This IP has been reported to its host in relation to the taint. No other breach was identified. The install-pear-nozlib.phar was ok. The go-pear.phar file at GitHub was ok, and could be used as a good md5sum comparison for any suspect copies," PEAR team said in a series of tweets.
+"So, if you downloaded go-pear.phar since 12/20 in order to run it once to install the PEAR package on your system, you *should* be concerned, particularly if your system has 'sh' and 'perl' available."
+"If you downloaded go-pear.phar before 12/20, we have no concrete evidence you received an infected file... but it would be prudent to check your system if you used go-pear.phar to perform a PEAR installation in the last several months."
+"Also note that this does *not* affect the PEAR installer package itself... it affects the go-pear.phar executable that you would use to initially install the PEAR installer. Using the 'pear' command to install various PEAR package is *not* affected."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

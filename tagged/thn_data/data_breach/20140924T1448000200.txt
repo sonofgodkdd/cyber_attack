@@ -1,0 +1,17 @@
+TripAdvisor's Viator Hit by Massive Data Breach Affecting 1.4 Customers
+Swati Khandelwal
+
+TripAdvisor's Online travel booking and review website Viator has reportedly been hit by a massive data breach at its  that may have exposed payment card details and account credentials of its customers, affecting an estimated 1.4 million of its customers.
+The San Francisco-based Viator, acquired by TripAdvisor – the world's largest travel site – for £122 million (US$ 200 million) back in July, admitted late on Friday that the intruders have hacked into some of its customers' payment card accounts and made unauthorized charges.
+The data breach was discovered in the bookings made through Viator's websites and mobile offerings that could potentially affect payment card data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Viator said that the company has hired forensic experts to figure out the extent of the breach. Meanwhile, the company has begun notifying its affected customers about the security breach as said by the travel outfit in a press release.
+“On September 2, we were informed by our payment card service provider that unauthorized charges occurred on a number of our customers' credit cards,” Viator wrote. “We have hired forensic experts, notified law enforcement and we have been working diligently and comprehensively to investigate the incident, identify how our systems may have been impacted, and secure our systems.”
+“While our investigation is ongoing, we are in the process of notifying approximately 1.4 million Viator customers, who had some form of information potentially affected by the compromise.”
+During investigation it found that the cyber criminals have broken into its internal databases and accessed the payment card data – including encrypted credit or debit card number, card expiration date, name, billing address and email address – of approximately 880,000 customers, and possibly their Viator account information that includes email address, encrypted password and Viator 'nickname.' 
+Additionally, the intruders may have also accessed the Viator account information, including email addresses and encrypted passwords, of over 560,000 Viator customers.
+According to the company, Debit-card PIN numbers were not included in the breach because Viator does not store them. The travel advisor said that they believe that the CVV number, the security numbers printed on the back of the customer’s credit card, were also not stolen in the breach.
+For those who are affected by the breach in United States, Viator is offering them identity protection and credit card monitoring services for free and and the company is also investigating the possibility of offering similar services to customers outside the country.
+Meanwhile, the company has warned its affected customers to regularly monitor their card activity and report any fraudulent charges to their card company. “Customers will not be responsible for fraudulent charges to their accounts if they are reported in a timely manner,” Viator said.
+Viator also recommends its users to change their password for the site, as well as all other websites that uses the same credentials.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

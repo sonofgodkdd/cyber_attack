@@ -1,0 +1,21 @@
+Hackers leak 13,000 Passwords Of Amazon, Walmart and Brazzers Users
+Mohit Kumar
+
+Hackers claiming affiliation with the hacktivist group "Anonymous" have allegedly leaked more than 13,000 username and password combinations for some of the worlds most popular websites, including Amazon, Xbox Live and Playstation Network.
+The stolen personal information was released in a massive text document posted to the Internet file-sharing website Ghostbin (now deleted), on Friday. The document contains a huge number of usernames and passwords, along with credit card numbers and expiration dates.  
+The news came just a day after the hacker group Lizard Squad compromised Sony’s Playstation and Microsoft’s Xbox Live gaming networks on Christmas day, which is estimated to have affected Xbox's 48 million subscribers and PlayStation's 110 million users, making it a total of more than 150 million users worldwide.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, data breach of 13,000 users is not the biggest data breach we've ever seen. When millions of passwords are used for sites around the globe, chances are very minor that our’s among those compromised. But still it’s important to note as these accounts come from a variety of online sources and among those, some are really very popular.
+The Daily Dot's Aaron Sankin has compiled a comprehensive list of sites associated with the username and password leaks, and discovered that the leaks came from the sites run the gamut from pornography to gaming to online shopping. The list of the compromised websites is as follows:
+Amazon
+Walmart
+PlayStation Network
+Xbox Live
+Twitch.tv
+Dell
+Brazzers
+DigitalPlayground
+and see complete list.
+Just to be on a safer side, users are recommended to change their passwords if they have accounts on these compromised websites, and also pay attention to your credit card transactions and if any suspicious activity found, immediately communicate with related banks and financial institutions.
+Also, don't use the same passwords for banking and online shopping sites, and always keep an eye out for unusual activities or unauthorized purchases with your accounts.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

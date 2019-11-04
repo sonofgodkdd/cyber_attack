@@ -1,0 +1,44 @@
+Equifax Data Breach: Steps You should Take to Protect Yourself
+Swati Khandelwal
+
+Equifax has suffered one of the largest data breaches in history that has left highly sensitive data of as many as 143 million people—that's nearly half of the US population—in the hands of hackers.
+Based on the company's investigation, some unknown hackers managed to exploit a security flaw on the Equifax website and gained unauthorized access to certain files between mid-May and July 2017.
+The information accessed primarily include full names, birth dates, Social Security numbers, addresses and, in some cases, driver's license numbers—most of the information that's banks, insurance companies, and other businesses use to confirm a consumer identity.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company added that 209,000 credit card numbers were also obtained by the attackers, along with "certain dispute documents with personal identifying information for approximately 182,000 U.S. consumers."
+Equifax is one of the three major organizations in the United States that calculates credit scores, which means the company has access to an extraordinary amount of personal and financial information for virtually all American adults.
+Here's How Roughly Equifax Handled the Massive Data Breach
+For a second, keep aside the scope and severity of the data breach, and let's talk about the how Equifax handled the breach after discovering it and what all it did for its customers.
+First of all, the third largest U.S. credit reporting firm took over five weeks to publically disclose the data breach, which began in mid-May that means the data of 143 million people were exposed for over 3 months.
+What's more? Reportedly, three senior Equifax executives, namely John Gamble (CFO), Joseph Loughran and Rodolfo Ploder, were permitted to sell almost $2 million worth of their shares just days after the company learned of this massive hack.
+However, the company officials told Bloomberg that the employees were unaware of the data breach at the time of the sale.
+Wait there's even more: After revealing the data breach on Thursday, Equifax did not contact everyone who was affected, rather it asked customers to go to its special website to figure out whether they were affected by entering the last 6 digits of their SSN and last name.
+But it's not that simple. The website is not giving a clear answer about whether or not your data may have been affected, but making it clear to those who were not exposed. It's confusing.
+What Would Be Hackers Next Move?
+With this data in hand, it's most likely that hackers are already selling your personal information on the dark web or attempting to extort the company, like cyber criminals do in most massive data breach cases.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Game of Thrones hackers did the same by leaking upcoming episodes of the widely watched show after HBO refused to their $6 Million ransom demand for the 1.5 terabytes of data they claimed to have stolen from the company.
+Same happened to Netflix in April this year when the company refused to meet 50 Bitcoins ransom demand of a hacking group calling itself The Dark Overlord, which then leaked 10 back-to-back episodes of the Season 5 premiere of Netflix's "Orange Is the New Black."
+Although Equifax has not yet confirmed whether the hackers have contacted the company for any demand or not, the breach is major, and all 143 Million Americans quickly need to take action to protect themselves and their loved ones.
+Here's what all you can do to Protect Yourself:
+1. Enroll in TrustedID Premier
+Equifax is offering a year of free credit monitoring and identity theft protection program for free for one year through TrustedID Premier that you should sign up if you are a US resident—the service is free whether or not you have been affected by the breach.
+The program offers services such as Equifax credit report, 3 bureau credit file monitoring, Equifax credit report lock, Social Security number monitoring and up to $1M identity theft insurance.
+However, Equifax's own identity protection service is not enough, you must follow below steps to help ensure you're doing everything to protect your identity.
+2. Monitor your accounts
+In upcoming days, the personal and payment cards details are likely to be sold in underground black markets, resulting in financial loss and identity theft to millions of customers.
+So, users are advised to be vigilant in reviewing their bank account statements, checking for any changes in their personal information and reporting any unauthorized transactions to the respective bank.
+3. Freeze Your Credit Report
+Since your stolen Social Security number can be misused by hackers to open new accounts in your name or ruin your credit score, you should consider placing a credit freeze request.
+Freezing your credit will make it difficult for anyone to open a new account in your name, as you (or anyone masquerading as you) will need the PIN that you got when you froze your credit to unfreeze your account.
+To freeze your credit, contact these credit bureaus: Equifax: 1-800-349-9960, Experian: 1‑888‑397‑3742, and TransUnion: 1-888-909-8872.
+4. Change your Passwords and Logins
+Meanwhile, all customers are advised to reset their account passwords and login information on the website.
+5. Watch out for tax season
+It's important for you to know that identity thieves can use your stolen social security number to file fraudulent tax returns and get refunds.
+So, you should consider filing your taxes early.
+6. Watch Out for Scams
+Users are strongly advised to be cautious if they receive any suspicious or unrecognised phone call, text message, or email from anyone saying you must pay taxes or a debt immediately—even if they provide your personal information.
+7. Already Experienced Identity Theft? Here's what to do now:
+If you have already a victim to the identity theft, visit the FTC Identity Theft Recovery website and fill in the form. The Federal Trade Commission will provide you with a specific identity theft report and "to-do" recovery plans.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

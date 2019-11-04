@@ -1,0 +1,21 @@
+U.S. Charges Three Chinese Hackers for Hacking Siemens, Trimble & Moody
+Wang Wei
+
+The United States Justice Department has charged three Chinese nationals for allegedly hacking Moody's Analytics economist, German electronics manufacturer Siemens, and GPS maker Trimble, and stealing gigabytes of sensitive data and trade secrets.
+According to an indictment unsealed Monday in federal court in Pittsburgh, Pennsylvania, the three men worked for a Chinese cybersecurity company, Guangzhou Bo Yu Information Technology Company Limited (Boyusec), previously linked to China's Ministry of State Security.
+Earlier this year, security researchers also linked Boyusec to one of the active Chinese government-sponsored espionage groups, called Advanced Persistent Threat 3 (or APT3), which is also known as Gothic Panda, UPS Team, Buckeye, and TG-0110.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In 2013, APT3 allegedly stole the blueprints for ASIO's new Canberra building using a piece of malware that was uploaded to an ASIO employee's laptop.
+According to the indictment, the three Chinese nationals—identified as Wu Yingzhuo, Dong Hao, and Xia Lei—launched "coordinated and unauthorized" cyber attacks between 2011 and 2017, and successfully steal information from a number of organizations by compromising their accounts.
+The trio of hackers has alleged to have attacked Moody's Analytics, Siemens, and Trimble by sending spear-phishing emails with malicious attachments or links to malware. 
+The men also used customized tools collectively known as the 'ups' or 'exeproxy' malware to gain unauthorized, persistent access to the targeted companies' networks, allowing them to search for and steal confidential business information and user credentials.
+"The primary goal of the co-conspirators’ unauthorized access to victim computers was to search for, identify, copy, package, and steal data from those computers, including confidential business and commercial information, work product, and sensitive victim employee information, such as usernames and passwords that could be used to extend unauthorized access within the victim systems," the DOJ said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The most affected one of the three companies was IT giant Siemens. According to the indictment, the defendants:
+Stole approximately 407 gigabytes of data from Siemens' energy, technology and transportation businesses in 2014.
+Hacked into Trimble's network and stole at least 275 megabytes of data, including trade secrets related to global navigation satellite systems technology the company spent millions of dollars developing, in 2015 and 2016.
+Accessed an internal email server at Moody's in 2011 and forwarded the account of an unidentified "prominent employee" to their own accounts, and eventually accessing the confidential messages sent to that account until 2014.
+According to the DoJ, both Wu and Dong were co-founders and shareholders of Boyusec, while Lei was an employee. All the three defendants were residents of Guangzhou.
+The Chinese men have been charged with a total of eight counts, including one charge of committing computer fraud and abuse, two charges of committing trade secret theft, three counts of wire fraud and four to eight counts of aggravated identity theft.
+If found guilty in the court of law, the hackers face a maximum sentence of 42 years in prison.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

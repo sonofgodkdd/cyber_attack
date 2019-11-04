@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Reserve Bank of Australia Hacked by Chinese malware
+Mohit Kumar
+If hackers want to get into your computer network, they will find a way. You can make it harder but you can’t stop them.  (adsbygoogle = window.adsbygoogle || []).push({}); According to Australian Financial Review report on Monday, the Reserve Bank of Australia (RBA) was hacked by hackers who infiltrated its networks and allegedly stole information using a Chinese piece of malware.
+After investigations they found multiple computers had been compromised by malicious software seeking intelligence. Several RBA staffers including heads of department were sent the malicious emails over two days, but it isn't known if the malware executed and succeeded in capturing information from the compromised computers.
+ The malware consisted of a web address that linked to a zip file that contained a Trojan which at the time was not detected by the anti-virus program, according to the bank. 
+A Defence department spokesperson said: “The government does not discuss specific cyber incidents, activities or capabilities. [Doing so] could jeopardise ongoing investigations, monitoring of cyber incidents and the ability to protect information and networks.”
+Documents also showed that six users clicked on the link contained in the mail. All of the six workstations affected did not have local administrator rights, so the virus could not spread.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<web_compromise id="w0" start="790" end="799" text="consisted" TYPE="USP" />
+<web_compromise id="w1" start="822" end="828" text="linked" TYPE="SUP" />
+<web_compromise id="w2" start="1253" end="1260" text="clicked" TYPE="USP" />
+<viruss id="v0" start="359" end="370" text="infiltrated" TYPE="USP" />
+<viruss id="v1" start="337" end="343" text="hacked" TYPE="USP" />
+<spyware id="s0" start="510" end="521" text="compromised" TYPE="USP" />
+</TAGS>
+</KddTask>

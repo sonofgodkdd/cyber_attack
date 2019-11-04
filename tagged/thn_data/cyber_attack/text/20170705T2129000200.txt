@@ -1,0 +1,19 @@
+[Video] Ukrainian Police Seize Servers of Software Firm Linked to NotPetya Cyberattack
+Mohit Kumar
+
+Ukrainian National Police has released a video showing officers raiding company of M.E.Doc accounting software makers, whose systems have been linked to outbreak of Petya (NotPetya) ransomware that recently infected computers of several major companies worldwide.
+On 4th July, masked police officers from Ukrainian anti-cybercrime unit — carrying shotguns and assault rifles — raided the software development firm “Intellect Service,” in the capital city Kyiv and seized their servers, which were reportedly compromised by hackers to spread (ExPetr, PetrWrap, Petya, NotPetya) ransomware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Researchers from ESET security firm have found a very stealthy malicious code in the M.E.Doc software update which was injected by an unknown hacker or group of hackers in mid-April by exploiting a vulnerability.
+The malicious software upgrade, designed to install a backdoor and give unauthorized remote access to attackers, was then delivered as an update to nearly 1 million computers belonging to its client companies.
+Researchers explain that the backdoor installed in endpoint computers was designed to allow hackers to execute various commands remotely and further install other malicious programs, eventually used to conduct WannaCry like global ransomware attack.
+The software company previously denied its servers had been compromised, but several researchers and even Microsoft blamed the company for being "patient zero" for the NotPetya attack.
+Ukrainian authority has also said that the company could face charges.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Moreover, the Petya investigation took interesting twist last week when researchers found that NotPetya is not a ransomware; instead, it’s a destructive piece of “wiper” malware designed to destroy all records from the targeted systems, making organizations to shut down their operations.
+Ukrainian authority has recommended M.E.Doc customers to stop using its accounting software until further notice. So, you are supposed to turn off your computers if it has the M.E.Doc software installed on and change your passwords.
+Ukraine believes Russia is behind the NotPetya cyber attack that shut down the nation's critical operations, including the airport, local metro, hospitals, and government, but authorities are still investigating the case.
+NotPetya Hacker Demands 100 Bitcoins for the Decryption Key
+It was also reported today that the hackers connected to the NotPetya ransomware moved $10,000 worth of Bitcoins from the online wallet they were using to receive payments from victims to a different wallet.
+After that someone claimed to be connected to NotPetya Posted an announcement on DeepPaste and Pastebin, asking for 100 Bitcoins (roughly $256,000) for the private key that supposedly decrypts any file encrypted with NotPetya.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

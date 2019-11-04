@@ -1,0 +1,33 @@
+CouchPotato: CIA Hacking Tool to Remotely Spy On Video Streams in Real-Time
+Swati Khandelwal
+
+After disclosing CIA's strategies to hijack and manipulate webcams and microphones to corrupt or delete recordings, WikiLeaks has now published another Vault 7 leak, revealing CIA's ability to spy on video streams remotely in real-time.
+Dubbed 'CouchPotato,' document leaked from the CIA details how the CIA agents use a remote tool to stealthy collect RTSP/H.264 video streams.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Real Time Streaming Protocol, or RTSP, is a network control protocol designed for use in entertainment and communication systems for controlling streaming media servers.
+CouchPotato gives CIA hackers ability to "collect either the stream as a video file (AVI) or capture still images (JPG) of frames from the stream that are of significant change from a previously captured frame," a leaked CIA manual reads.
+The tool utilises FFmpeg for video and image encoding and decoding and Real Time Streaming Protocol connectivity.
+The CouchPotato tool works stealthily without leaving any evidence on the targeted systems because it has been designed to support ICE v3 "Fire and Collect" loader, which is an in-memory code execution (ICE) technique that runs malicious code without the module code being written to the disk.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, neither Wikileaks nor the leaked user guide details how the agency penetrates into the targeted systems at the first place, but since the publication has previously leaked many CIA malware, exploits and hacking tools to get into a network, the agency might have been using CouchPotato in combining with other tools.
+Previous Vault 7 CIA Leaks
+Since March, WikiLeaks has published 20 batches of "Vault 7" series, which includes the latest and last week leaks, along with the following batches:
+Imperial — Details of at least 3 CIA-developed hacking tools and implants designed to target PCs running Apple Mac OS X and different flavours of Linux operating systems.
+UCL/Raytheon — An alleged CIA contractor, which analysed in-the-wild malware and hacking tools and submitted at least five reports to the agency for help the CIA developed its own malware.
+Highrise — An alleged CIA project that let the spying agency stealthy collects and forwards stolen data from compromised smartphones to its server via SMSes.
+BothanSpy and Gyrfalcon — 2 alleged CIA implants that let the CIA intercept and exfiltrate SSH credentials from targeted Windows and Linux PCs using different attack vectors.
+OutlawCountry – An alleged CIA project that allowed the spying agency to hack and remotely spy on systems running Linux OS.
+ELSA – Alleged CIA malware that tracks geo-location of targeted computers and laptops running the Microsoft Windows OS.
+Brutal Kangaroo – A tool suite for Microsoft Windows OS used by the CIA agents to target closed networks or air-gap computers within an organisation or enterprise without requiring any direct access.
+Cherry Blossom – A framework employed by the agency to monitor the Internet activity of the targeted systems by exploiting flaws in Wi-Fi devices.
+Pandemic – A CIA's project that allowed the spying agency to turn Windows file servers into covert attack machines that can silently infect other PCs of interest inside the same network.
+Athena – A spyware framework that the agency designed to take full control over the infected Windows systems remotely and works against every version of Windows OS–from Windows XP to Windows 10.
+AfterMidnight and Assassin – 2 alleged CIA malware frameworks for the Microsoft Windows platform that's meant to monitor and report back actions on the infected remote host PC and execute malicious actions.
+Archimedes – Man-in-the-middle attack tool reportedly developed by the CIA to target computers and laptops inside a Local Area Network (LAN).
+Scribbles – Software supposedly designed to embed 'web beacons' into confidential files and documents, allowing the CIA to track insiders and whistleblowers.
+Grasshopper – A framework that allowed the spying agency to quickly create custom malware for breaking into Microsoft Windows OS and bypassing antivirus protection.
+Marble – Source code of a secret anti-forensic framework used by the CIA agents to hide the actual source of its malware.
+Dark Matter – Hacking tools the spying agency used to target iPhones and Macs.
+Weeping Angel – Spying tool used by the CIA to infiltrate smart TVs, and transforming them into covert microphones.
+Year Zero – CIA hacking tools and exploits for popular hardware and software.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

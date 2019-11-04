@@ -1,0 +1,24 @@
+Most LokiBot samples in the wild are "hijacked" versions of the original malware
+Swati Khandelwal
+
+Hacker himself got hacked.
+It turns out that most samples of the LokiBot malware being distributed in the wild are modified versions of the original sample, a security researcher has learned.
+Targeting users since 2015, LokiBot is a password and cryptocoin-wallet stealer that can harvest credentials from a variety of popular web browsers, FTP, poker and email clients, as well as IT administration tools such as PuTTY.
+The original LokiBot malware was developed and sold by online alias "lokistov," a.k.a. "Carter," on multiple underground hacking forums for up to $300, but later some other hackers on the dark web also started selling same malware for a lesser price (as low as $80).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It was believed that the source code for LokiBot was leaked which might have allowed others to compile their own versions of the stealer.
+However, a researcher who goes by alias "d00rt" on Twitter found that someone made little changes (patching) in the original LokiBot sample, without having access to its source code, which let other hackers define their own custom domains for receiving the stolen data.
+Hackers Are Actively Spreading "Hijacked" Versions of LokiBot
+The researcher found that the C&C server location of the malware, where the stolen data should be sent, has been stored at five places in the program—four of them are encrypted using Triple DES algorithm and one using a simple XOR cipher.
+The malware has a function, called "Decrypt3DESstring," that it uses to decrypt all the encrypted strings and get the URL of the command-and-control server.
+The researcher analyzed the new LokiBot samples and compared them with the old original sample, and found that Decrypt3DESstring function in new samples has been modified in a way that it always return value from the XOR-protected string, instead of Triple DES strings.
+"The 3DES protected URLs are always the same in the all of the LokiBot samples of this [new] version," the researcher said. 
+"In addition, those URLs are never used. Decrypt3DESstring returns a 3DES decrypted buffer. This should be the ideal behavior of this function, but as was described before, each time Decrypt3DESstring is called, it returns a decrypted url with XOR or encrypted url with XOR."
+These changes allowed anyone with a new sample of LokiBot to edit the program, using a simple HEX editor, and add their own custom URLs for receiving the stolen data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, it is not clear why the original malware author also stored the same C&C server URL in a string encrypted by the less secure XOR cipher, even when it was unnecessary.
+A lot of different LokiBot samples currently distributed in the wild and available for sale on the underground market at a very low price have also been patched in the same way by several hackers.
+Meanwhile, the original author of LokiBot has already launched its new version 2.0 and selling it online on many forums.
+The decryption function was also being used to get registry values required for making the malware persistent on a system, but since after patching the decryption function only returns a URL, the new LokiBot samples fails to restart after the device reboots.
+To know more technical details about the new samples, you can head on to the research paper [PDF] published by the researchers on GitHub.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

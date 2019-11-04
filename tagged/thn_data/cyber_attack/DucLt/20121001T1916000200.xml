@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Chinese hackers attack on White House computers
+Mohit Kumar
+The White House acknowledged Monday that one of its computer networks was hit by a cyber attack, but said there was no breach of any classified systems and no indication any data was lost. Including systems used by the military for nuclear commands were breached by Chinese hackers.
+A conservative newspaper that has been regularly critical of the Obama administration, called The Washington Free Beacon, first published the report on Sunday and said that the attackers were linked to the Chinese government.
+One official said the cyber breach was one of Beijing's most brazen cyber attacks against the United States and highlights a failure of the Obama administration to press China on its persistent cyber attacks. Disclosure of the cyber attack also comes amid heightened tensions in Asia, as the Pentagon moved two U.S. aircraft carrier strike groups and Marine amphibious units near waters by Japan's Senkaku islands.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The official called the incident a "spear-phishing" attack, which implies that it was aimed specifically at the White House. Spear-phishing entails using somethings such as a personalized e-mail to trick someone into clicking on a malicious link or downloading a file.
+The attempted hacking of U.S. military networks used by the White House is a common occurrence, but success is rare. 
+Things get a bit more terrifying when you learn what exactly China was after. The Free Beacon’s report says that the hackers were trying to get into the White House Military Office system. This is the system the contains the codes for the football the collection of nuclear launch codes that the president has on him at all times.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Trojan id="ATTACK3" start="1236" end="1241" text="trick" TYPE="TRG" />
+<ATTACK.Trojan id="ATTACK4" start="1255" end="1263" text="clicking" TYPE="SUP" />
+<ATTACK.Trojan id="ATTACK5" start="1287" end="1298" text="downloading" TYPE="SUP" />
+<IMPACT.Breach id="IMPA3" start="315" end="323" text="breached" TYPE="TRG" />
+</TAGS>
+</KddTask>

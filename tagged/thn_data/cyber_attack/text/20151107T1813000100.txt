@@ -1,0 +1,46 @@
+What is Threat Intelligence and How It Helps to Identify Security Threats
+Wang Wei
+Simply put, threat intelligence is knowledge that helps you identify security threats and make informed decisions. Threat intelligence can help you solve the following problems:How do I keep up to date on the overwhelming amount of information on security threats…including bad actors, methods, vulnerabilities, targets, etc.?
+How do I get more proactive about future security threats?
+How do I inform my leaders about the dangers and repercussions of specific security threats?
+Threat Intelligence: What is it?
+Threat intelligence has received a lot of attention lately. While there are many different definitions, here are a few that get quoted often:Threat intelligence is evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard. – Gartner The set of data collected, assessed and applied regarding security threats, threat actors, exploits, malware, vulnerabilities and compromise indicators – SANS Institute
+Why is everyone talking about it?
+Verizon’s 2015 DBIR estimated a financial loss of $400 million from 700 million compromised records, which resulted from 79,790 security incidents!
+As long as security threats and breaches occur, every business will look for ways to protect their data. The threat landscape is always changing and the business risk is increasing because of our dependence on IT systems.  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Threats come from internal as well as external sources. Bottom line is, organizations are under tremendous pressure to manage threats. Though information in the form of raw data is available abundantly, it is hard and time-consuming to get meaningful information based on which proactive measures can be set.
+This naturally pulls more and more users towards threat intelligence as it helps to prioritize threats within the deluge of data, alerts, and attacks and provides actionable information.
+The table below presents several common indicators of compromise that can be identified with threat intelligence feeds:
+     Category     Indicators of Compromise     Examples   
+     Network     IP addresses
+URLs
+Domain names
+     Malware infections targeting internal hosts that are communicating with known bad actors   
+     Email     Sender’s email address and email subject
+Attachments
+Links
+     Phishing attempts where internal hosts click on an unsuspecting email and “phone home” to a malicious command and control server   
+     Host-Based     Filenames and file hashes (e.g. MD5)
+Registry keys
+Dynamic link libraries (DLLs)
+Mutex names
+     External attacks from hosts that might be infected themselves or are already known for nefarious activity   
+Threat Intelligence capabilities
+Attacks can be broadly categorized as user based, application based and infrastructure based threats. Some of the most common threats are SQL injections, DDoS, web application attacks and phishing. 
+It is important to have an IT security solution that provides threat intelligence capabilities to manage these attacks by being both proactive and responsive.
+Attackers are constantly changing their methods to challenge security systems. Therefore, it becomes inevitable for organizations to get threat intelligence from a variety of sources.
+One of the proven methods to stay on top of attacks is to detect and respond to threats with a SIEM (Security Information & Event Management system).
+A SIEM can be used to track everything that happens in your environment and identify anomalous activities. Isolated incidents might look unrelated, but with event correlation and threat intelligence, you can see what is actually happening in your environment.
+Nowadays, IT security professionals must operate under the assumed breach mentality. Comparing monitored traffic against known bad actors sourced from threat intelligence would help in identifying malicious activities.
+However, this could be manual and time-consuming. Integrating indicator based threat intelligence to a SEIM security solution would help in identifying compromised system and possibly even prevent some attacks.
+Best Practices
+Integrating threat intelligence and responding to attacks is not enough to combat the ever-changing threat landscape. You need to analyze the situation and determine threats you are likely to face, based on which you can come up with precautionary measures.
+Here is a list of several best practices:Have an application whitelist and blacklist. This helps in preventing execution of malicious or unapproved programs including, .DLL files, scripts and installers.
+Check your logs carefully to see if an attempted attack was an isolated event, or if the vulnerability had been exploited before.
+Determine what was changed in the attempted attack.
+Audit logs and identify why this incident happened – reasons could range from system vulnerability to an out-of-date driver.
+What will threat intelligence enabled SIEM solveA SIEM, like SolarWinds Log & Event Manager, collects and normalizes log data from monitored traffic and automatically tags suspicious events.
+With integrated threat intelligence mechanism and built-in rules, the monitored events can be compared against the list of constantly updated known bad actors.You can quickly search & monitor for hits from the bad actors against the log data in real time and identify common indicators of compromise.
+You can automatically respond with actions like blocking known bad IP addresses, in case of malicious attack attempts.
+Watch how threat intelligence works in a SIEM and download your free trial of a leading SIEM from SolarWinds.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

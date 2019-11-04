@@ -1,0 +1,14 @@
+UK Teenager, Aged 18, Charged With Running DDoS-For-Hire Service
+Wang Wei
+
+A teenage student has been charged with running a supplying malware that was used for launching distributed denial of service (DDoS) attacks against websites of some of the world's leading businesses.
+Jack Chappell, an 18-year-old teenager from Stockport, is accused of helping cyber criminals with his DDoS booter service (DDoS-for-hire service) to flood millions of websites around the world with the massive amount of data and eventually bring them down, making them unavailable to their users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Among the victims that were allegedly attacked by Chappell's malware are the National Crime Agency (NCA), T-Mobile, O2, Virgin Media, the BBC, Amazon, Vodafone, BT, Netflix, and NatWest that had its online banking systems down in a 2015 cyber attack.
+Chappell is charged following an investigation led by the West Midlands Regional Cyber Crime Unit and assisted by Israeli Police, the Federal Bureau of Investigation (FBI) and Europol’s European Cybercrime Centre (EC3).
+According to authorities, the teenager rented his DDoS-for-hire service to criminals and also ran an online helpdesk for would-be hackers as part of his operation.
+"He has been charged with impairing the operation of computers under the Computer Misuse Act, plus encouraging or assisting an offense and money laundering crime proceeds together with an American national," West Midlands Police said in a statement.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Chappell is due to appear at Manchester Magistrates' Court on July 4, Tuesday.
+Late last year, another 19-year-old student from Hertford (Town in the UK) was pled guilty for running Titanium Stresser DDoS-for-hire service, one of the most popular DDoS booter tool that was used to launch over 1.7 Million DDoS attacks worldwide and brought him an income of more than US$385,000.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

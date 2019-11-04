@@ -1,0 +1,16 @@
+UK Parliament Hit by Cyberattack, Up to 90 MPs' E-mail Accounts Hacked
+Mohit Kumar
+
+A cyber attack has hit the email system of UK Houses of Parliament on Friday morning that breached at least 90 emails accounts protected by weak passwords belonging to MPs, lawmakers, and other parliamentary staff.
+Meanwhile, as a precaution, the Security service has temporarily shut down the remote access (outside the Westminster) to its network to protect email accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Liberal Democrat Chris Rennard has advised on Twitter that urgent messages should be sent by text message.
+"We have discovered unauthorized attempts to access accounts of parliamentary networks users and are investigating this ongoing incident, working closely with the National Cyber Security Centre," the spokesperson said.
+"Parliament has robust measures in place to protect all of our accounts and systems, and we are taking the necessary steps to protect and secure our network."
+The authorities found less than 1% of parliament’s 9,000 email addresses had been compromised using the brute-force attack that lasted for more than 12 hours.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But if the emails were successfully accessed, experts believe and have warned that politicians could be at risk of blackmail or terror attacks.
+It is unclear who is responsible for the attack, but the breach has happened just two days after the passwords of British cabinet ministers and officials were reportedly being sold online by hackers on Russian underground forums.
+However, most UK officials suspect Russia and North Korea for the British Parliament cyber-attack.
+"We are continuing to investigate this incident and take further measures to secure the computer network, liaising with the Britain’s National Cyber Security Centre (NCSC)." spokeswoman said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

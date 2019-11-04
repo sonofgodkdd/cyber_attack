@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Swedish authorities raid on PRQ prompts new cyber attack from Anonymous
+Mohit Kumar
+Computer hackers claiming to be from the Anonymous network took over the official website of Sweden's National Board of Health and Welfare. The attacks come just days after police on Monday raided a Stockholm-based webhosting company, PRQ, and a video was posted on YouTube - allegedly made on behalf of the hacker group Anonymous - warning Swedish authorities of repercussions.
+Hacktivist network Anonymous has warned that Sweden’s Riksbank will suffer a cyber-attack on Wednesday night. “It’s come to our attention that Swedish government raided PRQ servers in order to shut down numerous file sharing and torrent websites,”
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+“This has gone too far. This is unacceptable. Anonymous says this stops right now. You don’t fuck with The Internet… Today we hit their wallets hard.” wrote the Anonymous group on 4chan.
+The Riksbank is taking the threat seriously: “We recognize this as a public threat against websites and we are always trying to keep the web as safe as possible. We have people who are responsible for taking care of the web and IT security,” said Charlotta Edler, spokesperson of the Riksbank.
+PRQ Head Mikael Viborg says his company previously hosted servers for file-sharing site the Pirate Bay and still houses some servers for the secret-spilling website WikiLeaks.
+"The raid on PRQ disabled many of our torrent sites. We see this as a crime against freedom to information," says a masked spokesperson in a video posted on YouTube by a user claiming ties to Anonymous. "Swedish government; you know our capabilities and what we want! The choice is yours."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Root_Compromise id="AT0" start="144" end="153" text="took over" TYPE="TRG" />
+</TAGS>
+</KddTask>

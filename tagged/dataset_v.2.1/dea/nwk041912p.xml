@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Date: April 19, 2012
+Contact: DEA Special Agent
+Douglas S. Collier, M.A.
+Public Information Officer
+Tel: (973) 776-1143
+Eight Sentenced in Edison, New Jersey Oxycodone Distribution Case
+April 19 (Newark, NJ)  - Brian R. Crowell, the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration and Paul J. Fishman, the United States Attorney for the District of New Jersey, announced a Manalapan, N.J., man was sentenced today to 48 months in federal prison, the last of eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy.
+Jason Caracappa, 31, previously pled guilty before U.S. District Judge Susan D. Wigenton to a superseding Indictment charging Caracappa, convicted pharmacist Vincent Hsia -proprietor of Lincoln Pharmacy Network in Edison, N.J. - and others in connection with the distribution of oxycodone, a Schedule II controlled substance. In addition to the prison term, Judge Wigenton sentenced Caracappa to three years supervised release.
+Also sentenced by Judge Wigenton this week in connection with the case were:
+Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release. 
+Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine. 
+Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release. 
+Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release. 
+Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release. 
+Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release. 
+Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release.
+According to documents filed in this case and statements made in court:
+The defendants and Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to 
+25 years in prison, engaged in a conspiracy to distribute oxycodone. Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy. Cifelli was charged with furthering the conspiracy by driving co-conspirators to Lincoln Pharmacy and otherwise assisting with the distribution of oxycodone.
+U.S. Attorney Fishman credited special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell; special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward; special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga; the Newark, Elizabeth, and Nutley, New Jersey police departments; and the Essex County Prosecutor's and Sheriff's Offices for the investigation leading to this week's sentencing's.
+The case is being prosecuted by Assistant U.S. Attorney Anthony J. Mahajan of the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="31" end="73" text="DEA Special Agent Douglas S. Collier, M.A." TYPE="NAM" />
+<person id="p1" start="31" end="48" text="DEA Special Agent" TYPE="NOMPRE" />
+<person id="p2" start="74" end="100" text="Public Information Officer" TYPE="BAR" />
+<person id="p3" start="121" end="186" text="Eight Sentenced in Edison, New Jersey Oxycodone Distribution Case" TYPE="HLS" />
+<person id="p4" start="212" end="323" text="Brian R. Crowell, the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" TYPE="APP" />
+<person id="p5" start="212" end="228" text="Brian R. Crowell" TYPE="NAM" />
+<person id="p6" start="230" end="323" text="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" TYPE="NOM" />
+<person id="p7" start="328" end="402" text="Paul J. Fishman, the United States Attorney for the District of New Jersey" TYPE="APP" />
+<person id="p8" start="328" end="343" text="Paul J. Fishman" TYPE="NAM" />
+<person id="p9" start="345" end="402" text="the United States Attorney for the District of New Jersey" TYPE="NOM" />
+<person id="p10" start="414" end="436" text="a Manalapan, N.J., man" TYPE="NOM" />
+<person id="p11" start="489" end="636" text="the last of eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" TYPE="HLS" />
+<person id="p12" start="501" end="636" text="eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" TYPE="NOM" />
+<person id="p13" start="538" end="543" text="their" TYPE="PRO" />
+<person id="p14" start="596" end="636" text="the owner of a Middlesex County pharmacy" TYPE="NOM" />
+<person id="p15" start="638" end="657" text="Jason Caracappa, 31" TYPE="NAM" />
+<person id="p16" start="689" end="726" text="U.S. District Judge Susan D. Wigenton" TYPE="NAM" />
+<person id="p17" start="689" end="708" text="U.S. District Judge" TYPE="NOMPRE" />
+<person id="p18" start="764" end="773" text="Caracappa" TYPE="NAM" />
+<person id="p19" start="775" end="864" text="convicted pharmacist Vincent Hsia -proprietor of Lincoln Pharmacy Network in Edison, N.J." TYPE="APP" />
+<person id="p20" start="775" end="808" text="convicted pharmacist Vincent Hsia" TYPE="NAM" />
+<person id="p21" start="775" end="795" text="convicted pharmacist" TYPE="NOMPRE" />
+<person id="p22" start="810" end="864" text="proprietor of Lincoln Pharmacy Network in Edison, N.J." TYPE="BAR" />
+<person id="p23" start="871" end="877" text="others" TYPE="HLS" />
+<person id="p24" start="996" end="1010" text="Judge Wigenton" TYPE="NAM" />
+<person id="p25" start="996" end="1001" text="Judge" TYPE="NOMPRE" />
+<person id="p26" start="1021" end="1030" text="Caracappa" TYPE="NAM" />
+<person id="p27" start="1084" end="1098" text="Judge Wigenton" TYPE="NAM" />
+<person id="p28" start="1084" end="1089" text="Judge" TYPE="NOMPRE" />
+<person id="p29" start="1143" end="1233" text="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" TYPE="NAM" />
+<person id="p30" start="1236" end="1303" text="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" TYPE="NAM" />
+<person id="p31" start="1306" end="1395" text="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" TYPE="NAM" />
+<person id="p32" start="1398" end="1483" text="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" TYPE="NAM" />
+<person id="p33" start="1486" end="1566" text="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" TYPE="NAM" />
+<person id="p34" start="1569" end="1659" text="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" TYPE="NAM" />
+<person id="p35" start="1662" end="1750" text="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" TYPE="NAM" />
+<person id="p36" start="1824" end="1838" text="The defendants" TYPE="NOM" />
+<person id="p37" start="1843" end="1929" text="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" TYPE="NAM" />
+<person id="p38" start="1874" end="1877" text="who" TYPE="WHQ" />
+<person id="p39" start="1980" end="2002" text="Some of the defendants" TYPE="PTV" />
+<person id="p40" start="1988" end="2002" text="the defendants" TYPE="NOM" />
+<person id="p41" start="2065" end="2084" text="fictitious patients" TYPE="BAR" />
+<person id="p42" start="2116" end="2120" text="Hsia" TYPE="NAM" />
+<person id="p43" start="2142" end="2149" text="Cifelli" TYPE="NAM" />
+<person id="p44" start="2204" end="2219" text="co-conspirators" TYPE="BAR" />
+<person id="p45" start="2300" end="2321" text="U.S. Attorney Fishman" TYPE="NAM" />
+<person id="p46" start="2300" end="2313" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p47" start="2331" end="2476" text="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" TYPE="BAR" />
+<person id="p48" start="2436" end="2476" text="special agent in Charge Brian R. Crowell" TYPE="NAM" />
+<person id="p49" start="2436" end="2459" text="special agent in Charge" TYPE="NOMPRE" />
+<person id="p51" start="2478" end="2567" text="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" TYPE="BAR" />
+<person id="p52" start="2528" end="2567" text="Special Agent in Charge Michael B. Ward" TYPE="NAM" />
+<person id="p53" start="2528" end="2551" text="Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p55" start="2569" end="2684" text="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" TYPE="BAR" />
+<person id="p56" start="2638" end="2684" text="Acting Special Agent in Charge JoAnn S. Zuniga" TYPE="NAM" />
+<person id="p57" start="2638" end="2668" text="Acting Special Agent in Charge" TYPE="NOMPRE" />
+<person id="p50" start="2756" end="2797" text="the Essex County Prosecutor's and Sheriff" TYPE="NOM" />
+<person id="p54" start="2756" end="2797" text="the Essex County Prosecutor's and Sheriff" TYPE="NOM" />
+<person id="p58" start="2899" end="3017" text="Assistant U.S. Attorney Anthony J. Mahajan of the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" TYPE="NAM" />
+<person id="p59" start="2899" end="2922" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="31" end="34" text="DEA" TYPE="NAMPRE" />
+<organization id="o1" start="261" end="323" text="the New Jersey Division of the Drug Enforcement Administration" TYPE="NAM" />
+<organization id="o2" start="376" end="402" text="the District of New Jersey" TYPE="NAM" />
+<organization id="o3" start="694" end="702" text="District" TYPE="NOMPRE" />
+<organization id="o4" start="824" end="864" text="Lincoln Pharmacy Network in Edison, N.J." TYPE="NAM" />
+<organization id="o5" start="1817" end="1822" text="court" TYPE="BAR" />
+<organization id="o6" start="2351" end="2411" text="the Drug Enforcement Administration Tactical Diversion Squad" TYPE="NAM" />
+<organization id="o7" start="2496" end="2503" text="the FBI" TYPE="NAM" />
+<organization id="o8" start="2587" end="2613" text="IRS-Criminal Investigation" TYPE="NAM" />
+<organization id="o9" start="2686" end="2750" text="the Newark, Elizabeth, and Nutley, New Jersey police departments" TYPE="NOM" />
+<organization id="o11" start="2756" end="2807" text="the Essex County Prosecutor's and Sheriff's Offices" TYPE="NOM" />
+<organization id="o12" start="2945" end="3017" text="the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" TYPE="NAM" />
+<geographical-political id="g0" start="140" end="158" text="Edison, New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g1" start="148" end="158" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g2" start="197" end="207" text="Newark, NJ" TYPE="NAM" />
+<geographical-political id="g3" start="205" end="207" text="NJ" TYPE="NAM" />
+<geographical-political id="g4" start="349" end="362" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="416" end="431" text="Manalapan, N.J." TYPE="NAMPRE" />
+<geographical-political id="g6" start="427" end="431" text="N.J." TYPE="NAM" />
+<geographical-political id="g7" start="611" end="627" text="Middlesex County" TYPE="NAMPRE" />
+<geographical-political id="g8" start="689" end="693" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g9" start="852" end="864" text="Edison, N.J." TYPE="NAM" />
+<geographical-political id="g10" start="860" end="864" text="N.J." TYPE="NAM" />
+<geographical-political id="g11" start="1165" end="1177" text="Nutley, N.J." TYPE="NAM" />
+<geographical-political id="g12" start="1173" end="1177" text="N.J." TYPE="NAM" />
+<geographical-political id="g13" start="1256" end="1262" text="Nutley" TYPE="NAM" />
+<geographical-political id="g14" start="1325" end="1339" text="Roseland, N.J." TYPE="NAM" />
+<geographical-political id="g15" start="1335" end="1339" text="N.J." TYPE="NAM" />
+<geographical-political id="g16" start="1421" end="1427" text="Newark" TYPE="NAM" />
+<geographical-political id="g17" start="1504" end="1513" text="Elizabeth" TYPE="NAM" />
+<geographical-political id="g18" start="1589" end="1603" text="Carteret, N.J." TYPE="NAM" />
+<geographical-political id="g19" start="1599" end="1603" text="N.J." TYPE="NAM" />
+<geographical-political id="g20" start="1679" end="1694" text="Lyndhurst, N.J." TYPE="NAM" />
+<geographical-political id="g21" start="1690" end="1694" text="N.J." TYPE="NAM" />
+<geographical-political id="g22" start="1856" end="1872" text="Flemington, N.J." TYPE="NAM" />
+<geographical-political id="g23" start="1868" end="1872" text="N.J." TYPE="NAM" />
+<geographical-political id="g24" start="2300" end="2304" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g25" start="2690" end="2696" text="Newark" TYPE="NAMPRE" />
+<geographical-political id="g26" start="2698" end="2707" text="Elizabeth" TYPE="NAMPRE" />
+<geographical-political id="g27" start="2713" end="2719" text="Nutley" TYPE="NAMPRE" />
+<geographical-political id="g28" start="2721" end="2731" text="New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g29" start="2760" end="2772" text="Essex County" TYPE="NAMPRE" />
+<geographical-political id="g30" start="2909" end="2913" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g31" start="3011" end="3017" text="Newark" TYPE="NAM" />
+<falicity id="f0" start="473" end="487" text="federal prison" TYPE="BAR" />
+<falicity id="f1" start="609" end="636" text="a Middlesex County pharmacy" TYPE="NOM" />
+<falicity id="f2" start="983" end="989" text="prison" TYPE="BAR" />
+<falicity id="f3" start="1192" end="1198" text="prison" TYPE="BAR" />
+<falicity id="f4" start="1354" end="1360" text="prison" TYPE="BAR" />
+<falicity id="f5" start="1442" end="1448" text="prison" TYPE="BAR" />
+<falicity id="f6" start="1528" end="1534" text="prison" TYPE="BAR" />
+<falicity id="f7" start="1618" end="1624" text="prison" TYPE="BAR" />
+<falicity id="f8" start="1709" end="1715" text="prison" TYPE="BAR" />
+<falicity id="f9" start="1923" end="1929" text="prison" TYPE="BAR" />
+<falicity id="f10" start="2124" end="2140" text="Lincoln Pharmacy" TYPE="NAM" />
+<falicity id="f11" start="2223" end="2239" text="Lincoln Pharmacy" TYPE="NAM" />
+<head id="h0" start="49" end="67" text="Douglas S. Collier" />
+<head id="h1" start="43" end="48" text="Agent" />
+<head id="h2" start="31" end="34" text="DEA" />
+<head id="h3" start="93" end="100" text="Officer" />
+<head id="h4" start="121" end="126" text="Eight" />
+<head id="h5" start="140" end="146" text="Edison" />
+<head id="h6" start="148" end="158" text="New Jersey" />
+<head id="h7" start="197" end="203" text="Newark" />
+<head id="h8" start="205" end="207" text="NJ" />
+<head id="h9" start="212" end="228" text="Brian R. Crowell" />
+<head id="h10" start="242" end="247" text="Agent" />
+<head id="h11" start="265" end="323" text="New Jersey Division of the Drug Enforcement Administration" />
+<head id="h12" start="328" end="343" text="Paul J. Fishman" />
+<head id="h13" start="363" end="371" text="Attorney" />
+<head id="h14" start="349" end="362" text="United States" />
+<head id="h15" start="380" end="402" text="District of New Jersey" />
+<head id="h16" start="433" end="436" text="man" />
+<head id="h17" start="416" end="425" text="Manalapan" />
+<head id="h18" start="427" end="431" text="N.J." />
+<head id="h19" start="481" end="487" text="prison" />
+<head id="h20" start="493" end="497" text="last" />
+<head id="h21" start="507" end="513" text="people" />
+<head id="h22" start="538" end="543" text="their" />
+<head id="h23" start="600" end="605" text="owner" />
+<head id="h24" start="628" end="636" text="pharmacy" />
+<head id="h25" start="611" end="627" text="Middlesex County" />
+<head id="h26" start="638" end="653" text="Jason Caracappa" />
+<head id="h27" start="709" end="726" text="Susan D. Wigenton" />
+<head id="h28" start="703" end="708" text="Judge" />
+<head id="h29" start="694" end="702" text="District" />
+<head id="h30" start="689" end="693" text="U.S." />
+<head id="h31" start="764" end="773" text="Caracappa" />
+<head id="h32" start="796" end="808" text="Vincent Hsia" />
+<head id="h33" start="785" end="795" text="pharmacist" />
+<head id="h34" start="810" end="820" text="proprietor" />
+<head id="h35" start="824" end="848" text="Lincoln Pharmacy Network" />
+<head id="h36" start="852" end="858" text="Edison" />
+<head id="h37" start="860" end="864" text="N.J." />
+<head id="h38" start="871" end="877" text="others" />
+<head id="h39" start="983" end="989" text="prison" />
+<head id="h40" start="1002" end="1010" text="Wigenton" />
+<head id="h41" start="996" end="1001" text="Judge" />
+<head id="h42" start="1021" end="1030" text="Caracappa" />
+<head id="h43" start="1090" end="1098" text="Wigenton" />
+<head id="h44" start="1084" end="1089" text="Judge" />
+<head id="h45" start="1143" end="1156" text="Marc Calabria" />
+<head id="h46" start="1165" end="1171" text="Nutley" />
+<head id="h47" start="1173" end="1177" text="N.J." />
+<head id="h48" start="1236" end="1250" text="Angelo Cifelli" />
+<head id="h49" start="1256" end="1262" text="Nutley" />
+<head id="h50" start="1192" end="1198" text="prison" />
+<head id="h51" start="1306" end="1316" text="Gary Cross" />
+<head id="h52" start="1325" end="1333" text="Roseland" />
+<head id="h53" start="1335" end="1339" text="N.J." />
+<head id="h54" start="1354" end="1360" text="prison" />
+<head id="h55" start="1398" end="1412" text="Keith Thompson" />
+<head id="h56" start="1421" end="1427" text="Newark" />
+<head id="h57" start="1442" end="1448" text="prison" />
+<head id="h58" start="1486" end="1495" text="Ivan Lugo" />
+<head id="h59" start="1504" end="1513" text="Elizabeth" />
+<head id="h60" start="1528" end="1534" text="prison" />
+<head id="h61" start="1569" end="1583" text="Cheryle Sutter" />
+<head id="h62" start="1589" end="1597" text="Carteret" />
+<head id="h63" start="1599" end="1603" text="N.J." />
+<head id="h64" start="1618" end="1624" text="prison" />
+<head id="h65" start="1662" end="1673" text="Ryan Otskey" />
+<head id="h66" start="1679" end="1688" text="Lyndhurst" />
+<head id="h67" start="1690" end="1694" text="N.J." />
+<head id="h68" start="1709" end="1715" text="prison" />
+<head id="h69" start="1817" end="1822" text="court" />
+<head id="h70" start="1828" end="1838" text="defendants" />
+<head id="h71" start="1843" end="1847" text="Hsia" />
+<head id="h72" start="1874" end="1877" text="who" />
+<head id="h73" start="1856" end="1866" text="Flemington" />
+<head id="h74" start="1868" end="1872" text="N.J." />
+<head id="h75" start="1923" end="1929" text="prison" />
+<head id="h76" start="1980" end="1984" text="Some" />
+<head id="h77" start="1992" end="2002" text="defendants" />
+<head id="h78" start="2076" end="2084" text="patients" />
+<head id="h79" start="2116" end="2120" text="Hsia" />
+<head id="h80" start="2124" end="2140" text="Lincoln Pharmacy" />
+<head id="h81" start="2142" end="2149" text="Cifelli" />
+<head id="h82" start="2204" end="2219" text="co-conspirators" />
+<head id="h83" start="2223" end="2239" text="Lincoln Pharmacy" />
+<head id="h84" start="2314" end="2321" text="Fishman" />
+<head id="h85" start="2305" end="2313" text="Attorney" />
+<head id="h86" start="2300" end="2304" text="U.S." />
+<head id="h87" start="2339" end="2345" text="agents" />
+<head id="h88" start="2355" end="2411" text="Drug Enforcement Administration Tactical Diversion Squad" />
+<head id="h90" start="2460" end="2476" text="Brian R. Crowell" />
+<head id="h91" start="2444" end="2449" text="agent" />
+<head id="h92" start="2486" end="2492" text="agents" />
+<head id="h93" start="2500" end="2503" text="FBI" />
+<head id="h94" start="2552" end="2567" text="Michael B. Ward" />
+<head id="h96" start="2536" end="2541" text="Agent" />
+<head id="h97" start="2577" end="2583" text="agents" />
+<head id="h98" start="2587" end="2613" text="IRS-Criminal Investigation" />
+<head id="h99" start="2669" end="2684" text="JoAnn S. Zuniga" />
+<head id="h100" start="2653" end="2658" text="Agent" />
+<head id="h101" start="2739" end="2750" text="departments" />
+<head id="h103" start="2690" end="2696" text="Newark" />
+<head id="h104" start="2698" end="2707" text="Elizabeth" />
+<head id="h105" start="2713" end="2719" text="Nutley" />
+<head id="h106" start="2721" end="2731" text="New Jersey" />
+<head id="h89" start="2800" end="2807" text="Offices" />
+<head id="h95" start="2790" end="2797" text="Sheriff" />
+<head id="h107" start="2773" end="2783" text="Prosecutor" />
+<head id="h108" start="2760" end="2772" text="Essex County" />
+<head id="h109" start="2923" end="2941" text="Anthony J. Mahajan" />
+<head id="h110" start="2914" end="2922" text="Attorney" />
+<head id="h111" start="2909" end="2913" text="U.S." />
+<head id="h112" start="2949" end="3007" text="Narcotics/Organized Crime Drug Enforcement Task Force Unit" />
+<head id="h113" start="3011" end="3017" text="Newark" />
+<name id="n0" start="49" end="67" text="Douglas S. Collier" />
+<name id="n1" start="31" end="34" text="DEA" />
+<name id="n2" start="140" end="146" text="Edison" />
+<name id="n3" start="148" end="158" text="New Jersey" />
+<name id="n4" start="197" end="203" text="Newark" />
+<name id="n5" start="205" end="207" text="NJ" />
+<name id="n6" start="212" end="228" text="Brian R. Crowell" />
+<name id="n7" start="265" end="323" text="New Jersey Division of the Drug Enforcement Administration" />
+<name id="n8" start="328" end="343" text="Paul J. Fishman" />
+<name id="n9" start="349" end="362" text="United States" />
+<name id="n10" start="380" end="402" text="District of New Jersey" />
+<name id="n11" start="416" end="425" text="Manalapan" />
+<name id="n12" start="427" end="431" text="N.J." />
+<name id="n13" start="611" end="627" text="Middlesex County" />
+<name id="n14" start="638" end="653" text="Jason Caracappa" />
+<name id="n15" start="709" end="726" text="Susan D. Wigenton" />
+<name id="n16" start="689" end="693" text="U.S." />
+<name id="n17" start="764" end="773" text="Caracappa" />
+<name id="n18" start="796" end="808" text="Vincent Hsia" />
+<name id="n19" start="824" end="848" text="Lincoln Pharmacy Network" />
+<name id="n20" start="852" end="858" text="Edison" />
+<name id="n21" start="860" end="864" text="N.J." />
+<name id="n22" start="1002" end="1010" text="Wigenton" />
+<name id="n23" start="1021" end="1030" text="Caracappa" />
+<name id="n24" start="1090" end="1098" text="Wigenton" />
+<name id="n25" start="1143" end="1156" text="Marc Calabria" />
+<name id="n26" start="1165" end="1171" text="Nutley" />
+<name id="n27" start="1173" end="1177" text="N.J." />
+<name id="n28" start="1236" end="1250" text="Angelo Cifelli" />
+<name id="n29" start="1256" end="1262" text="Nutley" />
+<name id="n30" start="1306" end="1316" text="Gary Cross" />
+<name id="n31" start="1325" end="1333" text="Roseland" />
+<name id="n32" start="1335" end="1339" text="N.J." />
+<name id="n33" start="1398" end="1412" text="Keith Thompson" />
+<name id="n34" start="1421" end="1427" text="Newark" />
+<name id="n35" start="1486" end="1495" text="Ivan Lugo" />
+<name id="n36" start="1504" end="1513" text="Elizabeth" />
+<name id="n37" start="1569" end="1583" text="Cheryle Sutter" />
+<name id="n38" start="1589" end="1597" text="Carteret" />
+<name id="n39" start="1599" end="1603" text="N.J." />
+<name id="n40" start="1662" end="1673" text="Ryan Otskey" />
+<name id="n41" start="1679" end="1688" text="Lyndhurst" />
+<name id="n42" start="1690" end="1694" text="N.J." />
+<name id="n43" start="1843" end="1847" text="Hsia" />
+<name id="n44" start="1856" end="1866" text="Flemington" />
+<name id="n45" start="1868" end="1872" text="N.J." />
+<name id="n46" start="2116" end="2120" text="Hsia" />
+<name id="n47" start="2124" end="2140" text="Lincoln Pharmacy" />
+<name id="n48" start="2142" end="2149" text="Cifelli" />
+<name id="n49" start="2223" end="2239" text="Lincoln Pharmacy" />
+<name id="n50" start="2314" end="2321" text="Fishman" />
+<name id="n51" start="2300" end="2304" text="U.S." />
+<name id="n52" start="2355" end="2411" text="Drug Enforcement Administration Tactical Diversion Squad" />
+<name id="n54" start="2460" end="2476" text="Brian R. Crowell" />
+<name id="n55" start="2500" end="2503" text="FBI" />
+<name id="n56" start="2552" end="2567" text="Michael B. Ward" />
+<name id="n57" start="2587" end="2613" text="IRS-Criminal Investigation" />
+<name id="n58" start="2669" end="2684" text="JoAnn S. Zuniga" />
+<name id="n59" start="2690" end="2696" text="Newark" />
+<name id="n60" start="2698" end="2707" text="Elizabeth" />
+<name id="n61" start="2713" end="2719" text="Nutley" />
+<name id="n62" start="2721" end="2731" text="New Jersey" />
+<name id="n53" start="2760" end="2772" text="Essex County" />
+<name id="n63" start="2923" end="2941" text="Anthony J. Mahajan" />
+<name id="n64" start="2909" end="2913" text="U.S." />
+<name id="n65" start="2949" end="3007" text="Narcotics/Organized Crime Drug Enforcement Task Force Unit" />
+<name id="n66" start="3011" end="3017" text="Newark" />
+<located-mention id="lo0" start="1980" end="2140" text="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" TYPE="Other" />
+<located-mention id="lo1" start="1980" end="2140" text="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" TYPE="Other" />
+<employment-mention id="e0" start="345" end="402" text="the United States Attorney for the District of New Jersey" TYPE="PreMod" />
+<employment-mention id="e1" start="689" end="708" text="U.S. District Judge" TYPE="PreMod" />
+<employment-mention id="e2" start="2300" end="2313" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e3" start="2756" end="2797" text="the Essex County Prosecutor's and Sheriff" TYPE="PreMod" />
+<employment-mention id="e4" start="2756" end="2797" text="the Essex County Prosecutor's and Sheriff" TYPE="PreMod" />
+<employment-mention id="e5" start="2899" end="2922" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="414" end="436" text="a Manalapan, N.J., man" TYPE="PreMod" />
+<CRRE id="C1" start="1143" end="1233" text="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" TYPE="Preposition" />
+<CRRE id="C2" start="1236" end="1303" text="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" TYPE="Formulaic" />
+<CRRE id="C3" start="1306" end="1395" text="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" TYPE="Preposition" />
+<CRRE id="C4" start="1398" end="1483" text="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" TYPE="Preposition" />
+<CRRE id="C5" start="1486" end="1566" text="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" TYPE="Preposition" />
+<CRRE id="C6" start="1569" end="1659" text="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" TYPE="Formulaic" />
+<CRRE id="C7" start="1662" end="1750" text="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" TYPE="Formulaic" />
+<CRRE id="C8" start="1843" end="1929" text="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" TYPE="Preposition" />
+<M id="M0" start="31" end="48" text="DEA Special Agent" TYPE="PreMod" />
+<M id="M1" start="230" end="323" text="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" TYPE="Preposition" />
+<M id="M2" start="345" end="402" text="the United States Attorney for the District of New Jersey" TYPE="Preposition" />
+<M id="M3" start="689" end="708" text="U.S. District Judge" TYPE="PreMod" />
+<M id="M4" start="2331" end="2476" text="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" TYPE="Preposition" />
+<M id="M5" start="2478" end="2567" text="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" TYPE="Preposition" />
+<M id="M6" start="2569" end="2684" text="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" TYPE="Preposition" />
+<M id="M7" start="2756" end="2807" text="the Essex County Prosecutor's and Sheriff's Offices" TYPE="Possessive" />
+<M id="M8" start="2756" end="2807" text="the Essex County Prosecutor's and Sheriff's Offices" TYPE="Possessive" />
+<entity_link id="en0" fromID="p1" fromText="DEA Special Agent" toID="p0" toText="DEA Special Agent Douglas S. Collier, M.A." />
+<entity_link id="en1" fromID="p2" fromText="Public Information Officer" toID="p0" toText="DEA Special Agent Douglas S. Collier, M.A." />
+<entity_link id="en2" fromID="g3" fromText="NJ" toID="g1" toText="New Jersey" />
+<entity_link id="en3" fromID="p5" fromText="Brian R. Crowell" toID="p4" toText="Brian R. Crowell, the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" />
+<entity_link id="en4" fromID="p6" fromText="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" toID="p5" toText="Brian R. Crowell" />
+<entity_link id="en5" fromID="p8" fromText="Paul J. Fishman" toID="p7" toText="Paul J. Fishman, the United States Attorney for the District of New Jersey" />
+<entity_link id="en6" fromID="p9" fromText="the United States Attorney for the District of New Jersey" toID="p8" toText="Paul J. Fishman" />
+<entity_link id="en7" fromID="g6" fromText="N.J." toID="g3" toText="NJ" />
+<entity_link id="en8" fromID="p11" fromText="the last of eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" toID="p10" toText="a Manalapan, N.J., man" />
+<entity_link id="en10" fromID="p13" fromText="their" toID="p12" toText="eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" />
+<entity_link id="en11" fromID="p12" fromText="eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" toID="p3" toText="Eight Sentenced in Edison, New Jersey Oxycodone Distribution Case" />
+<entity_link id="en12" fromID="p15" fromText="Jason Caracappa, 31" toID="p10" toText="a Manalapan, N.J., man" />
+<entity_link id="en13" fromID="p17" fromText="U.S. District Judge" toID="p16" toText="U.S. District Judge Susan D. Wigenton" />
+<entity_link id="en14" fromID="g8" fromText="U.S." toID="g4" toText="United States" />
+<entity_link id="en15" fromID="p18" fromText="Caracappa" toID="p15" toText="Jason Caracappa, 31" />
+<entity_link id="en16" fromID="p20" fromText="convicted pharmacist Vincent Hsia" toID="p19" toText="convicted pharmacist Vincent Hsia -proprietor of Lincoln Pharmacy Network in Edison, N.J." />
+<entity_link id="en17" fromID="p21" fromText="convicted pharmacist" toID="p20" toText="convicted pharmacist Vincent Hsia" />
+<entity_link id="en18" fromID="p22" fromText="proprietor of Lincoln Pharmacy Network in Edison, N.J." toID="p20" toText="convicted pharmacist Vincent Hsia" />
+<entity_link id="en19" fromID="g9" fromText="Edison, N.J." toID="g0" toText="Edison, New Jersey" />
+<entity_link id="en20" fromID="g10" fromText="N.J." toID="g6" toText="N.J." />
+<entity_link id="en9" fromID="p24" fromText="Judge Wigenton" toID="p16" toText="U.S. District Judge Susan D. Wigenton" />
+<entity_link id="en21" fromID="p25" fromText="Judge" toID="p24" toText="Judge Wigenton" />
+<entity_link id="en22" fromID="p26" fromText="Caracappa" toID="p18" toText="Caracappa" />
+<entity_link id="en23" fromID="p27" fromText="Judge Wigenton" toID="p24" toText="Judge Wigenton" />
+<entity_link id="en24" fromID="p28" fromText="Judge" toID="p27" toText="Judge Wigenton" />
+<entity_link id="en25" fromID="g12" fromText="N.J." toID="g10" toText="N.J." />
+<entity_link id="en26" fromID="g13" fromText="Nutley" toID="g11" toText="Nutley, N.J." />
+<entity_link id="en27" fromID="f3" fromText="prison" toID="f2" toText="prison" />
+<entity_link id="en28" fromID="g15" fromText="N.J." toID="g12" toText="N.J." />
+<entity_link id="en29" fromID="f4" fromText="prison" toID="f3" toText="prison" />
+<entity_link id="en30" fromID="g16" fromText="Newark" toID="g2" toText="Newark, NJ" />
+<entity_link id="en31" fromID="f5" fromText="prison" toID="f4" toText="prison" />
+<entity_link id="en32" fromID="f6" fromText="prison" toID="f5" toText="prison" />
+<entity_link id="en33" fromID="g19" fromText="N.J." toID="g15" toText="N.J." />
+<entity_link id="en34" fromID="f7" fromText="prison" toID="f6" toText="prison" />
+<entity_link id="en35" fromID="g21" fromText="N.J." toID="g19" toText="N.J." />
+<entity_link id="en36" fromID="f8" fromText="prison" toID="f7" toText="prison" />
+<entity_link id="en37" fromID="p36" fromText="The defendants" toID="p12" toText="eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" />
+<entity_link id="en38" fromID="p38" fromText="who" toID="p37" toText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" />
+<entity_link id="en39" fromID="g23" fromText="N.J." toID="g21" toText="N.J." />
+<entity_link id="en40" fromID="f9" fromText="prison" toID="f8" toText="prison" />
+<entity_link id="en41" fromID="p37" fromText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" toID="p20" toText="convicted pharmacist Vincent Hsia" />
+<entity_link id="en42" fromID="p40" fromText="the defendants" toID="p36" toText="The defendants" />
+<entity_link id="en43" fromID="p42" fromText="Hsia" toID="p37" toText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" />
+<entity_link id="en44" fromID="f10" fromText="Lincoln Pharmacy" toID="f1" toText="a Middlesex County pharmacy" />
+<entity_link id="en45" fromID="p43" fromText="Cifelli" toID="p30" toText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" />
+<entity_link id="en46" fromID="f11" fromText="Lincoln Pharmacy" toID="f10" toText="Lincoln Pharmacy" />
+<entity_link id="en47" fromID="p45" fromText="U.S. Attorney Fishman" toID="p8" toText="Paul J. Fishman" />
+<entity_link id="en48" fromID="p46" fromText="U.S. Attorney" toID="p45" toText="U.S. Attorney Fishman" />
+<entity_link id="en49" fromID="g24" fromText="U.S." toID="g8" toText="U.S." />
+<entity_link id="en50" fromID="p48" fromText="special agent in Charge Brian R. Crowell" toID="p5" toText="Brian R. Crowell" />
+<entity_link id="en51" fromID="p49" fromText="special agent in Charge" toID="p48" toText="special agent in Charge Brian R. Crowell" />
+<entity_link id="en52" fromID="p53" fromText="Special Agent in Charge" toID="p52" toText="Special Agent in Charge Michael B. Ward" />
+<entity_link id="en53" fromID="p57" fromText="Acting Special Agent in Charge" toID="p56" toText="Acting Special Agent in Charge JoAnn S. Zuniga" />
+<entity_link id="en54" fromID="g25" fromText="Newark" toID="g16" toText="Newark" />
+<entity_link id="en55" fromID="g26" fromText="Elizabeth" toID="g17" toText="Elizabeth" />
+<entity_link id="en56" fromID="g27" fromText="Nutley" toID="g13" toText="Nutley" />
+<entity_link id="en57" fromID="g28" fromText="New Jersey" toID="g1" toText="New Jersey" />
+<entity_link id="en58" fromID="g30" fromText="U.S." toID="g24" toText="U.S." />
+<entity_link id="en59" fromID="p59" fromText="Assistant U.S. Attorney" toID="p58" toText="Assistant U.S. Attorney Anthony J. Mahajan of the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" />
+<entity_link id="en60" fromID="g31" fromText="Newark" toID="g25" toText="Newark" />
+<head_link id="he0" fromID="p0" fromText="DEA Special Agent Douglas S. Collier, M.A." toID="h0" toText="Douglas S. Collier" />
+<head_link id="he1" fromID="p1" fromText="DEA Special Agent" toID="h1" toText="Agent" />
+<head_link id="he2" fromID="o0" fromText="DEA" toID="h2" toText="DEA" />
+<head_link id="he3" fromID="p2" fromText="Public Information Officer" toID="h3" toText="Officer" />
+<head_link id="he4" fromID="p3" fromText="Eight Sentenced in Edison, New Jersey Oxycodone Distribution Case" toID="h4" toText="Eight" />
+<head_link id="he5" fromID="g0" fromText="Edison, New Jersey" toID="h5" toText="Edison" />
+<head_link id="he6" fromID="g1" fromText="New Jersey" toID="h6" toText="New Jersey" />
+<head_link id="he7" fromID="g2" fromText="Newark, NJ" toID="h7" toText="Newark" />
+<head_link id="he8" fromID="g3" fromText="NJ" toID="h8" toText="NJ" />
+<head_link id="he9" fromID="p5" fromText="Brian R. Crowell" toID="h9" toText="Brian R. Crowell" />
+<head_link id="he10" fromID="p6" fromText="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" toID="h10" toText="Agent" />
+<head_link id="he11" fromID="o1" fromText="the New Jersey Division of the Drug Enforcement Administration" toID="h11" toText="New Jersey Division of the Drug Enforcement Administration" />
+<head_link id="he12" fromID="p8" fromText="Paul J. Fishman" toID="h12" toText="Paul J. Fishman" />
+<head_link id="he13" fromID="p9" fromText="the United States Attorney for the District of New Jersey" toID="h13" toText="Attorney" />
+<head_link id="he14" fromID="g4" fromText="United States" toID="h14" toText="United States" />
+<head_link id="he15" fromID="o2" fromText="the District of New Jersey" toID="h15" toText="District of New Jersey" />
+<head_link id="he16" fromID="p10" fromText="a Manalapan, N.J., man" toID="h16" toText="man" />
+<head_link id="he17" fromID="g5" fromText="Manalapan, N.J." toID="h17" toText="Manalapan" />
+<head_link id="he18" fromID="g6" fromText="N.J." toID="h18" toText="N.J." />
+<head_link id="he19" fromID="f0" fromText="federal prison" toID="h19" toText="prison" />
+<head_link id="he20" fromID="p11" fromText="the last of eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" toID="h20" toText="last" />
+<head_link id="he21" fromID="p12" fromText="eight people sentenced this week for their roles in an oxycodone distribution scheme involving the owner of a Middlesex County pharmacy" toID="h21" toText="people" />
+<head_link id="he22" fromID="p13" fromText="their" toID="h22" toText="their" />
+<head_link id="he23" fromID="p14" fromText="the owner of a Middlesex County pharmacy" toID="h23" toText="owner" />
+<head_link id="he24" fromID="f1" fromText="a Middlesex County pharmacy" toID="h24" toText="pharmacy" />
+<head_link id="he25" fromID="g7" fromText="Middlesex County" toID="h25" toText="Middlesex County" />
+<head_link id="he26" fromID="p15" fromText="Jason Caracappa, 31" toID="h26" toText="Jason Caracappa" />
+<head_link id="he27" fromID="p16" fromText="U.S. District Judge Susan D. Wigenton" toID="h27" toText="Susan D. Wigenton" />
+<head_link id="he28" fromID="p17" fromText="U.S. District Judge" toID="h28" toText="Judge" />
+<head_link id="he29" fromID="o3" fromText="District" toID="h29" toText="District" />
+<head_link id="he30" fromID="g8" fromText="U.S." toID="h30" toText="U.S." />
+<head_link id="he31" fromID="p18" fromText="Caracappa" toID="h31" toText="Caracappa" />
+<head_link id="he33" fromID="p20" fromText="convicted pharmacist Vincent Hsia" toID="h32" toText="Vincent Hsia" />
+<head_link id="he34" fromID="p21" fromText="convicted pharmacist" toID="h33" toText="pharmacist" />
+<head_link id="he35" fromID="p22" fromText="proprietor of Lincoln Pharmacy Network in Edison, N.J." toID="h34" toText="proprietor" />
+<head_link id="he36" fromID="o4" fromText="Lincoln Pharmacy Network in Edison, N.J." toID="h35" toText="Lincoln Pharmacy Network" />
+<head_link id="he37" fromID="g9" fromText="Edison, N.J." toID="h36" toText="Edison" />
+<head_link id="he38" fromID="g10" fromText="N.J." toID="h37" toText="N.J." />
+<head_link id="he32" fromID="p23" fromText="others" toID="h38" toText="others" />
+<head_link id="he39" fromID="f2" fromText="prison" toID="h39" toText="prison" />
+<head_link id="he40" fromID="p24" fromText="Judge Wigenton" toID="h40" toText="Wigenton" />
+<head_link id="he41" fromID="p25" fromText="Judge" toID="h41" toText="Judge" />
+<head_link id="he42" fromID="p26" fromText="Caracappa" toID="h42" toText="Caracappa" />
+<head_link id="he43" fromID="p27" fromText="Judge Wigenton" toID="h43" toText="Wigenton" />
+<head_link id="he44" fromID="p28" fromText="Judge" toID="h44" toText="Judge" />
+<head_link id="he45" fromID="p29" fromText="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" toID="h45" toText="Marc Calabria" />
+<head_link id="he46" fromID="g11" fromText="Nutley, N.J." toID="h46" toText="Nutley" />
+<head_link id="he47" fromID="g12" fromText="N.J." toID="h47" toText="N.J." />
+<head_link id="he48" fromID="p30" fromText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" toID="h48" toText="Angelo Cifelli" />
+<head_link id="he49" fromID="g13" fromText="Nutley" toID="h49" toText="Nutley" />
+<head_link id="he50" fromID="f3" fromText="prison" toID="h50" toText="prison" />
+<head_link id="he51" fromID="p31" fromText="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" toID="h51" toText="Gary Cross" />
+<head_link id="he52" fromID="g14" fromText="Roseland, N.J." toID="h52" toText="Roseland" />
+<head_link id="he53" fromID="g15" fromText="N.J." toID="h53" toText="N.J." />
+<head_link id="he54" fromID="f4" fromText="prison" toID="h54" toText="prison" />
+<head_link id="he55" fromID="p32" fromText="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" toID="h55" toText="Keith Thompson" />
+<head_link id="he56" fromID="g16" fromText="Newark" toID="h56" toText="Newark" />
+<head_link id="he57" fromID="f5" fromText="prison" toID="h57" toText="prison" />
+<head_link id="he58" fromID="p33" fromText="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" toID="h58" toText="Ivan Lugo" />
+<head_link id="he59" fromID="g17" fromText="Elizabeth" toID="h59" toText="Elizabeth" />
+<head_link id="he60" fromID="f6" fromText="prison" toID="h60" toText="prison" />
+<head_link id="he61" fromID="p34" fromText="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" toID="h61" toText="Cheryle Sutter" />
+<head_link id="he62" fromID="g18" fromText="Carteret, N.J." toID="h62" toText="Carteret" />
+<head_link id="he63" fromID="g19" fromText="N.J." toID="h63" toText="N.J." />
+<head_link id="he64" fromID="f7" fromText="prison" toID="h64" toText="prison" />
+<head_link id="he65" fromID="p35" fromText="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" toID="h65" toText="Ryan Otskey" />
+<head_link id="he66" fromID="g20" fromText="Lyndhurst, N.J." toID="h66" toText="Lyndhurst" />
+<head_link id="he67" fromID="g21" fromText="N.J." toID="h67" toText="N.J." />
+<head_link id="he68" fromID="f8" fromText="prison" toID="h68" toText="prison" />
+<head_link id="he69" fromID="o5" fromText="court" toID="h69" toText="court" />
+<head_link id="he70" fromID="p36" fromText="The defendants" toID="h70" toText="defendants" />
+<head_link id="he71" fromID="p37" fromText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" toID="h71" toText="Hsia" />
+<head_link id="he72" fromID="p38" fromText="who" toID="h72" toText="who" />
+<head_link id="he73" fromID="g22" fromText="Flemington, N.J." toID="h73" toText="Flemington" />
+<head_link id="he74" fromID="g23" fromText="N.J." toID="h74" toText="N.J." />
+<head_link id="he75" fromID="f9" fromText="prison" toID="h75" toText="prison" />
+<head_link id="he76" fromID="p39" fromText="Some of the defendants" toID="h76" toText="Some" />
+<head_link id="he77" fromID="p40" fromText="the defendants" toID="h77" toText="defendants" />
+<head_link id="he78" fromID="p41" fromText="fictitious patients" toID="h78" toText="patients" />
+<head_link id="he79" fromID="p42" fromText="Hsia" toID="h79" toText="Hsia" />
+<head_link id="he81" fromID="f10" fromText="Lincoln Pharmacy" toID="h80" toText="Lincoln Pharmacy" />
+<head_link id="he82" fromID="p43" fromText="Cifelli" toID="h81" toText="Cifelli" />
+<head_link id="he83" fromID="p44" fromText="co-conspirators" toID="h82" toText="co-conspirators" />
+<head_link id="he84" fromID="f11" fromText="Lincoln Pharmacy" toID="h83" toText="Lincoln Pharmacy" />
+<head_link id="he85" fromID="p45" fromText="U.S. Attorney Fishman" toID="h84" toText="Fishman" />
+<head_link id="he86" fromID="p46" fromText="U.S. Attorney" toID="h85" toText="Attorney" />
+<head_link id="he87" fromID="g24" fromText="U.S." toID="h86" toText="U.S." />
+<head_link id="he88" fromID="p47" fromText="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" toID="h87" toText="agents" />
+<head_link id="he89" fromID="o6" fromText="the Drug Enforcement Administration Tactical Diversion Squad" toID="h88" toText="Drug Enforcement Administration Tactical Diversion Squad" />
+<head_link id="he90" fromID="p48" fromText="special agent in Charge Brian R. Crowell" toID="h90" toText="Brian R. Crowell" />
+<head_link id="he91" fromID="p49" fromText="special agent in Charge" toID="h91" toText="agent" />
+<head_link id="he92" fromID="p51" fromText="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" toID="h92" toText="agents" />
+<head_link id="he93" fromID="o7" fromText="the FBI" toID="h93" toText="FBI" />
+<head_link id="he94" fromID="p52" fromText="Special Agent in Charge Michael B. Ward" toID="h94" toText="Michael B. Ward" />
+<head_link id="he95" fromID="p53" fromText="Special Agent in Charge" toID="h96" toText="Agent" />
+<head_link id="he97" fromID="p55" fromText="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" toID="h97" toText="agents" />
+<head_link id="he98" fromID="o8" fromText="IRS-Criminal Investigation" toID="h98" toText="IRS-Criminal Investigation" />
+<head_link id="he99" fromID="p56" fromText="Acting Special Agent in Charge JoAnn S. Zuniga" toID="h99" toText="JoAnn S. Zuniga" />
+<head_link id="he100" fromID="p57" fromText="Acting Special Agent in Charge" toID="h100" toText="Agent" />
+<head_link id="he101" fromID="o9" fromText="the Newark, Elizabeth, and Nutley, New Jersey police departments" toID="h101" toText="departments" />
+<head_link id="he103" fromID="g25" fromText="Newark" toID="h103" toText="Newark" />
+<head_link id="he104" fromID="g26" fromText="Elizabeth" toID="h104" toText="Elizabeth" />
+<head_link id="he105" fromID="g27" fromText="Nutley" toID="h105" toText="Nutley" />
+<head_link id="he106" fromID="g28" fromText="New Jersey" toID="h106" toText="New Jersey" />
+<head_link id="he80" fromID="o11" fromText="the Essex County Prosecutor's and Sheriff's Offices" toID="h89" toText="Offices" />
+<head_link id="he96" fromID="p50" fromText="the Essex County Prosecutor's and Sheriff" toID="h95" toText="Sheriff" />
+<head_link id="he107" fromID="p54" fromText="the Essex County Prosecutor's and Sheriff" toID="h107" toText="Prosecutor" />
+<head_link id="he108" fromID="g29" fromText="Essex County" toID="h108" toText="Essex County" />
+<head_link id="he109" fromID="p58" fromText="Assistant U.S. Attorney Anthony J. Mahajan of the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" toID="h109" toText="Anthony J. Mahajan" />
+<head_link id="he110" fromID="p59" fromText="Assistant U.S. Attorney" toID="h110" toText="Attorney" />
+<head_link id="he111" fromID="g30" fromText="U.S." toID="h111" toText="U.S." />
+<head_link id="he112" fromID="o12" fromText="the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" toID="h112" toText="Narcotics/Organized Crime Drug Enforcement Task Force Unit" />
+<head_link id="he113" fromID="g31" fromText="Newark" toID="h113" toText="Newark" />
+<name_link id="na0" fromID="p0" fromText="DEA Special Agent Douglas S. Collier, M.A." toID="n0" toText="Douglas S. Collier" />
+<name_link id="na1" fromID="o0" fromText="DEA" toID="n1" toText="DEA" />
+<name_link id="na2" fromID="g0" fromText="Edison, New Jersey" toID="n2" toText="Edison" />
+<name_link id="na3" fromID="g1" fromText="New Jersey" toID="n3" toText="New Jersey" />
+<name_link id="na4" fromID="g2" fromText="Newark, NJ" toID="n4" toText="Newark" />
+<name_link id="na5" fromID="g3" fromText="NJ" toID="n5" toText="NJ" />
+<name_link id="na6" fromID="p5" fromText="Brian R. Crowell" toID="n6" toText="Brian R. Crowell" />
+<name_link id="na7" fromID="o1" fromText="the New Jersey Division of the Drug Enforcement Administration" toID="n7" toText="New Jersey Division of the Drug Enforcement Administration" />
+<name_link id="na8" fromID="p8" fromText="Paul J. Fishman" toID="n8" toText="Paul J. Fishman" />
+<name_link id="na9" fromID="g4" fromText="United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="o2" fromText="the District of New Jersey" toID="n10" toText="District of New Jersey" />
+<name_link id="na11" fromID="g5" fromText="Manalapan, N.J." toID="n11" toText="Manalapan" />
+<name_link id="na12" fromID="g6" fromText="N.J." toID="n12" toText="N.J." />
+<name_link id="na13" fromID="g7" fromText="Middlesex County" toID="n13" toText="Middlesex County" />
+<name_link id="na14" fromID="p15" fromText="Jason Caracappa, 31" toID="n14" toText="Jason Caracappa" />
+<name_link id="na15" fromID="p16" fromText="U.S. District Judge Susan D. Wigenton" toID="n15" toText="Susan D. Wigenton" />
+<name_link id="na16" fromID="g8" fromText="U.S." toID="n16" toText="U.S." />
+<name_link id="na17" fromID="p18" fromText="Caracappa" toID="n17" toText="Caracappa" />
+<name_link id="na19" fromID="p20" fromText="convicted pharmacist Vincent Hsia" toID="n18" toText="Vincent Hsia" />
+<name_link id="na20" fromID="o4" fromText="Lincoln Pharmacy Network in Edison, N.J." toID="n19" toText="Lincoln Pharmacy Network" />
+<name_link id="na21" fromID="g9" fromText="Edison, N.J." toID="n20" toText="Edison" />
+<name_link id="na22" fromID="g10" fromText="N.J." toID="n21" toText="N.J." />
+<name_link id="na18" fromID="p24" fromText="Judge Wigenton" toID="n22" toText="Wigenton" />
+<name_link id="na23" fromID="p26" fromText="Caracappa" toID="n23" toText="Caracappa" />
+<name_link id="na24" fromID="p27" fromText="Judge Wigenton" toID="n24" toText="Wigenton" />
+<name_link id="na25" fromID="p29" fromText="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" toID="n25" toText="Marc Calabria" />
+<name_link id="na26" fromID="g11" fromText="Nutley, N.J." toID="n26" toText="Nutley" />
+<name_link id="na27" fromID="g12" fromText="N.J." toID="n27" toText="N.J." />
+<name_link id="na28" fromID="p30" fromText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" toID="n28" toText="Angelo Cifelli" />
+<name_link id="na29" fromID="g13" fromText="Nutley" toID="n29" toText="Nutley" />
+<name_link id="na30" fromID="p31" fromText="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" toID="n30" toText="Gary Cross" />
+<name_link id="na31" fromID="g14" fromText="Roseland, N.J." toID="n31" toText="Roseland" />
+<name_link id="na32" fromID="g15" fromText="N.J." toID="n32" toText="N.J." />
+<name_link id="na33" fromID="p32" fromText="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" toID="n33" toText="Keith Thompson" />
+<name_link id="na34" fromID="g16" fromText="Newark" toID="n34" toText="Newark" />
+<name_link id="na35" fromID="p33" fromText="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" toID="n35" toText="Ivan Lugo" />
+<name_link id="na36" fromID="g17" fromText="Elizabeth" toID="n36" toText="Elizabeth" />
+<name_link id="na37" fromID="p34" fromText="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" toID="n37" toText="Cheryle Sutter" />
+<name_link id="na38" fromID="g18" fromText="Carteret, N.J." toID="n38" toText="Carteret" />
+<name_link id="na39" fromID="g19" fromText="N.J." toID="n39" toText="N.J." />
+<name_link id="na40" fromID="p35" fromText="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" toID="n40" toText="Ryan Otskey" />
+<name_link id="na41" fromID="g20" fromText="Lyndhurst, N.J." toID="n41" toText="Lyndhurst" />
+<name_link id="na42" fromID="g21" fromText="N.J." toID="n42" toText="N.J." />
+<name_link id="na43" fromID="p37" fromText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" toID="n43" toText="Hsia" />
+<name_link id="na44" fromID="g22" fromText="Flemington, N.J." toID="n44" toText="Flemington" />
+<name_link id="na45" fromID="g23" fromText="N.J." toID="n45" toText="N.J." />
+<name_link id="na46" fromID="p42" fromText="Hsia" toID="n46" toText="Hsia" />
+<name_link id="na47" fromID="f10" fromText="Lincoln Pharmacy" toID="n47" toText="Lincoln Pharmacy" />
+<name_link id="na48" fromID="p43" fromText="Cifelli" toID="n48" toText="Cifelli" />
+<name_link id="na49" fromID="f11" fromText="Lincoln Pharmacy" toID="n49" toText="Lincoln Pharmacy" />
+<name_link id="na50" fromID="p45" fromText="U.S. Attorney Fishman" toID="n50" toText="Fishman" />
+<name_link id="na51" fromID="g24" fromText="U.S." toID="n51" toText="U.S." />
+<name_link id="na52" fromID="o6" fromText="the Drug Enforcement Administration Tactical Diversion Squad" toID="n52" toText="Drug Enforcement Administration Tactical Diversion Squad" />
+<name_link id="na53" fromID="p48" fromText="special agent in Charge Brian R. Crowell" toID="n54" toText="Brian R. Crowell" />
+<name_link id="na54" fromID="o7" fromText="the FBI" toID="n55" toText="FBI" />
+<name_link id="na55" fromID="p52" fromText="Special Agent in Charge Michael B. Ward" toID="n56" toText="Michael B. Ward" />
+<name_link id="na56" fromID="o8" fromText="IRS-Criminal Investigation" toID="n57" toText="IRS-Criminal Investigation" />
+<name_link id="na57" fromID="p56" fromText="Acting Special Agent in Charge JoAnn S. Zuniga" toID="n58" toText="JoAnn S. Zuniga" />
+<name_link id="na58" fromID="g25" fromText="Newark" toID="n59" toText="Newark" />
+<name_link id="na59" fromID="g26" fromText="Elizabeth" toID="n60" toText="Elizabeth" />
+<name_link id="na60" fromID="g27" fromText="Nutley" toID="n61" toText="Nutley" />
+<name_link id="na61" fromID="g28" fromText="New Jersey" toID="n62" toText="New Jersey" />
+<name_link id="na62" fromID="g29" fromText="Essex County" toID="n53" toText="Essex County" />
+<name_link id="na63" fromID="p58" fromText="Assistant U.S. Attorney Anthony J. Mahajan of the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" toID="n63" toText="Anthony J. Mahajan" />
+<name_link id="na64" fromID="g30" fromText="U.S." toID="n64" toText="U.S." />
+<name_link id="na65" fromID="o12" fromText="the Narcotics/Organized Crime Drug Enforcement Task Force Unit in Newark" toID="n65" toText="Narcotics/Organized Crime Drug Enforcement Task Force Unit" />
+<name_link id="na66" fromID="g31" fromText="Newark" toID="n66" toText="Newark" />
+<relation_link1 id="r0" fromID="M0" fromText="DEA Special Agent" toID="p1" toText="DEA Special Agent" />
+<relation_link1 id="r1" fromID="M1" fromText="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" toID="p6" toText="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" />
+<relation_link1 id="r2" fromID="e0" fromText="the United States Attorney for the District of New Jersey" toID="p9" toText="the United States Attorney for the District of New Jersey" />
+<relation_link1 id="r3" fromID="M2" fromText="the United States Attorney for the District of New Jersey" toID="p9" toText="the United States Attorney for the District of New Jersey" />
+<relation_link1 id="r4" fromID="C0" fromText="a Manalapan, N.J., man" toID="p10" toText="a Manalapan, N.J., man" />
+<relation_link1 id="r5" fromID="M3" fromText="U.S. District Judge" toID="p17" toText="U.S. District Judge" />
+<relation_link1 id="r6" fromID="e1" fromText="U.S. District Judge" toID="p17" toText="U.S. District Judge" />
+<relation_link1 id="r7" fromID="C1" fromText="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" toID="p29" toText="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" />
+<relation_link1 id="r8" fromID="C2" fromText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" toID="p30" toText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" />
+<relation_link1 id="r9" fromID="C3" fromText="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" toID="p31" toText="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" />
+<relation_link1 id="r10" fromID="C4" fromText="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" toID="p32" toText="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" />
+<relation_link1 id="r11" fromID="C5" fromText="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" toID="p33" toText="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" />
+<relation_link1 id="r12" fromID="C6" fromText="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" toID="p34" toText="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" />
+<relation_link1 id="r13" fromID="C7" fromText="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" toID="p35" toText="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" />
+<relation_link1 id="r14" fromID="C8" fromText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" toID="p37" toText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" />
+<relation_link1 id="r15" fromID="lo0" fromText="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" toID="p39" toText="Some of the defendants" />
+<relation_link1 id="r17" fromID="lo1" fromText="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" toID="p42" toText="Hsia" />
+<relation_link1 id="r18" fromID="e2" fromText="U.S. Attorney" toID="p46" toText="U.S. Attorney" />
+<relation_link1 id="r19" fromID="M4" fromText="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" toID="p47" toText="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" />
+<relation_link1 id="r20" fromID="M5" fromText="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" toID="p51" toText="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" />
+<relation_link1 id="r21" fromID="M6" fromText="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" toID="p55" toText="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" />
+<relation_link1 id="r16" fromID="e3" fromText="the Essex County Prosecutor's and Sheriff" toID="p50" toText="the Essex County Prosecutor's and Sheriff" />
+<relation_link1 id="r22" fromID="e4" fromText="the Essex County Prosecutor's and Sheriff" toID="p54" toText="the Essex County Prosecutor's and Sheriff" />
+<relation_link1 id="r23" fromID="e5" fromText="Assistant U.S. Attorney" toID="p59" toText="Assistant U.S. Attorney" />
+<relation_link1 id="r24" fromID="M7" fromText="the Essex County Prosecutor's and Sheriff's Offices" toID="p50" toText="the Essex County Prosecutor's and Sheriff" />
+<relation_link1 id="r25" fromID="M8" fromText="the Essex County Prosecutor's and Sheriff's Offices" toID="p54" toText="the Essex County Prosecutor's and Sheriff" />
+<relation_link2 id="re0" fromID="M0" fromText="DEA Special Agent" toID="o0" toText="DEA" />
+<relation_link2 id="re1" fromID="M1" fromText="the Special Agent in Charge of the New Jersey Division of the Drug Enforcement Administration" toID="o1" toText="the New Jersey Division of the Drug Enforcement Administration" />
+<relation_link2 id="re2" fromID="e0" fromText="the United States Attorney for the District of New Jersey" toID="g4" toText="United States" />
+<relation_link2 id="re3" fromID="M2" fromText="the United States Attorney for the District of New Jersey" toID="o2" toText="the District of New Jersey" />
+<relation_link2 id="re4" fromID="C0" fromText="a Manalapan, N.J., man" toID="g5" toText="Manalapan, N.J." />
+<relation_link2 id="re5" fromID="M3" fromText="U.S. District Judge" toID="o3" toText="District" />
+<relation_link2 id="re6" fromID="e1" fromText="U.S. District Judge" toID="g8" toText="U.S." />
+<relation_link2 id="re7" fromID="C1" fromText="Marc Calabria, 33, of Nutley, N.J., 51 months in prison, three years of supervised release" toID="g11" toText="Nutley, N.J." />
+<relation_link2 id="re8" fromID="C2" fromText="Angelo Cifelli, 34, Nutley, three years probation and a $2,500 fine" toID="g13" toText="Nutley" />
+<relation_link2 id="re9" fromID="C3" fromText="Gary Cross, 28, of Roseland, N.J., 20 months in prison, three years of supervised release" toID="g14" toText="Roseland, N.J." />
+<relation_link2 id="re10" fromID="C4" fromText="Keith Thompson, 33, of Newark, 75 months in prison, three years of supervised release" toID="g16" toText="Newark" />
+<relation_link2 id="re11" fromID="C5" fromText="Ivan Lugo, 34, of Elizabeth, 84 months in prison, three years supervised release" toID="g17" toText="Elizabeth" />
+<relation_link2 id="re12" fromID="C6" fromText="Cheryle Sutter, 31, Carteret, N.J., 12 months in prison, three years of supervised release" toID="g18" toText="Carteret, N.J." />
+<relation_link2 id="re13" fromID="C7" fromText="Ryan Otskey, 36, Lyndhurst, N.J., 57 months in prison, three years of supervised release" toID="g20" toText="Lyndhurst, N.J." />
+<relation_link2 id="re14" fromID="C8" fromText="Hsia, 52, of Flemington, N.J., who was sentenced Feb. 23, 2012, to  25 years in prison" toID="g22" toText="Flemington, N.J." />
+<relation_link2 id="re15" fromID="lo0" fromText="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" toID="f10" toText="Lincoln Pharmacy" />
+<relation_link2 id="re16" fromID="lo1" fromText="Some of the defendants used stolen, blank prescriptions or prescriptions made out to fictitious patients to obtain oxycodone pills from Hsia at Lincoln Pharmacy" toID="f10" toText="Lincoln Pharmacy" />
+<relation_link2 id="re17" fromID="e2" fromText="U.S. Attorney" toID="g24" toText="U.S." />
+<relation_link2 id="re18" fromID="M4" fromText="special agents with the Drug Enforcement Administration Tactical Diversion Squad, under the direction of special agent in Charge Brian R. Crowell" toID="o6" toText="the Drug Enforcement Administration Tactical Diversion Squad" />
+<relation_link2 id="re19" fromID="M5" fromText="special agents of the FBI, under the direction of Special Agent in Charge Michael B. Ward" toID="o7" toText="the FBI" />
+<relation_link2 id="re20" fromID="M6" fromText="special agents of IRS-Criminal Investigation, under the direction of Acting Special Agent in Charge JoAnn S. Zuniga" toID="o8" toText="IRS-Criminal Investigation" />
+<relation_link2 id="re21" fromID="e3" fromText="the Essex County Prosecutor's and Sheriff" toID="g29" toText="Essex County" />
+<relation_link2 id="re22" fromID="e4" fromText="the Essex County Prosecutor's and Sheriff" toID="g29" toText="Essex County" />
+<relation_link2 id="re23" fromID="e5" fromText="Assistant U.S. Attorney" toID="g30" toText="U.S." />
+<relation_link2 id="re24" fromID="M7" fromText="the Essex County Prosecutor's and Sheriff's Offices" toID="o11" toText="the Essex County Prosecutor's and Sheriff's Offices" />
+<relation_link2 id="re25" fromID="M8" fromText="the Essex County Prosecutor's and Sheriff's Offices" toID="o11" toText="the Essex County Prosecutor's and Sheriff's Offices" />
+</TAGS>
+</KddTask>

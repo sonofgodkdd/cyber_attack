@@ -1,0 +1,11 @@
+Hackers breach Twitter and 250,000 accounts compromised
+Mohit Kumar
+
+In recent The Hacker News updates, we have reported about some major hacking events and critical vulnerabilities i.e Cyber attack and spying on The New York Times and Wall Street Journal by Chinese Hackers, Security Flaws in UPnP protocol, Botnet attack hack 16,000 Facebook accounts, 700,000 accounts hacked in Africa and new android malware that infect more that 620,000 users.
+Today Twitter also announced that they have recorded some unusual access patterns that is identified as unauthorized access attempts to Twitter user data. Unknown hackers breach Twitter this week and may have gained access to passwords and other information for as many as 250,000 user accounts
+"the attackers may have had access to limited user information – usernames, email addresses, session tokens and encrypted/salted versions of passwords" said Bob Lord ,Director of Information Security, at Twitter.
+For security reasons twitter have reset passwords and revoked session tokens for these suspected compromised accounts. "This attack was not the work of amateurs and we do not believe it was an isolated incident," he added.
+"The attackers were extremely sophisticated and we believe other companies and organisations have also been recently similarly attacked."
+Twitter have not mention that how hackers were able to infiltrate Twitter’s systems, but Twitter’s blog post alluded that hackers had broken in through a zero day vulnerability in Oracle’s Java software.
+Some media portals also relate this attack to Hacktivist Anonymous Group incorrectly, because twitter itself no where mention anything about who is attacker! If you are not using good password hygiene, take a moment now to change your Twitter passwords.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

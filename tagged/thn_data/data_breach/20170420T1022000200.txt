@@ -1,0 +1,29 @@
+Hackers Steal Payment Card Data From Over 1,150 InterContinental Hotels
+Swati Khandelwal
+
+InterContinental Hotels Group (IHG) is notifying its customers that credit card numbers and other sensitive information may have been stolen after it found malware on payment card systems at 1,174 franchise hotels in the United States.
+It's the second data breach that U.K.-based IHG, which owns Holiday Inn and Crowne Plaza, has disclosed this year. The multinational hotel conglomerate confirmed a credit card breach in February which affected 12 of its hotels and restaurants.
+What happened?
+IHG identified malware accessing payment data from cards used at front desk systems between September 29 and December 29, 2016, but the malware was erased after the investigation got completed in March 2017.
+"Many IHG-branded locations are independently owned and operated franchises and certain of these franchisee operated locations in the Americas were made aware by payment card networks of patterns of unauthorized charges occurring on payment cards after they were legitimately used at their locations," read the notice published to IHG’s site on Friday.
+What type of information?
+The malware obtained credit card data, such as cardholders' names, credit card numbers, expiration dates and internal verification codes, from the card's magnetic stripe, although the company said there is no evidence of any unauthorized access to payment card data after late December.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the company can not confirm that the malware was removed until February and March 2017, when it began its investigation around the data breach.
+How many victims?
+The total number of affected customers is not revealed by the company, although customers can use a lookup tool IHG has posted on its website to search for hotels by city and state.
+The company says this most recent breach mostly affects guests from U.S-based hotels, who stayed between September 29 and December 29, 2016. The 1,174 hotels breached in the US include, 163 in Texas, 64 in California, 61 in Florida, 53 in Indiana, 50 in Ohio, 45 in New York, 42 in Michigan, 39 in Illinois, among others.
+Only one hotel in Puerto Rico, a Holiday Inn Express in San Juan, is the non-U.S. hotel that was hit by malware.
+Who are not affected by the breach?
+Those franchise hotel locations that had implemented IHG's Secure Payment Solution (SPS) – a point-to-point encryption payment acceptance solution – before 29th September 2016 were not affected by this data breach.
+IHG is advising all franchise hotels to implement SPS in order to protect themselves from such malware attacks, though the company also said, many more properties implemented SPS after September 29, 2016, which ended the malware’s ability to find payment card data.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+What is the IHG doing?
+IHG has already notified law enforcement of the recent data breach.
+Moreover, on behalf of franchisees, the company has been working closely with the payment card networks and the cyber security firm to confirm that the malware has been removed and evaluate ways for franchisees to enhance security measures. 
+What should IHG customers do?
+Users are advised to review their payment card statements carefully and to report any unauthorized bank transactions.
+You should also consider requesting a replacement card if you visited any of the affected properties during that three months duration when the breach was active.
+"The phone number to call is usually on the back of your payment card. Please see the section that follows this notice for additional steps you may take," the company says.
+IHG became the latest hotel chain to report a potential customer data breach in past few years, following the data breach in Hyatt, Hilton, Mandarin Oriental, Starwood, White Lodging and the Trump Collection that acknowledged finding malware in their payment systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

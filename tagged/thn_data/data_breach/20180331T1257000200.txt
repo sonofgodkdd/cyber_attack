@@ -1,0 +1,23 @@
+Russian Hacker Who Allegedly Hacked LinkedIn and Dropbox Extradited to US
+Mohit Kumar
+
+A Russian man accused of hacking LinkedIn, Dropbox, and Formspring in 2012 and possibly compromising personal details of over 100 million users, has pleaded not guilty in a U.S. federal court after being extradited from the Czech Republic.
+Yevgeniy Aleksandrovich Nikulin, 30, of Moscow was arrested in Prague on October 5, 2016, by Interpol agents working in collaboration with the FBI, but he was recently extradited to the United States from the Czech Republic on Thursday for his first appearance in federal court.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nikulin's arrest started an extradition battle between the United States and Russia, where he faces significantly lesser criminal charges of stealing $3,450 via Webmoney in 2009. But the Czech Republic ruled in favor of the United States.
+In the U.S., Nikulin is facing:
+3 counts of computer intrusion
+2 counts of intentional transmission of information, code, or command causing damage to a protected computer
+2 counts of aggravated identity theft
+1 count of trafficking in unauthorized access devices
+1 count of conspiracy
+According to the maximum penalties for each count, Nikulin faces a maximum of 32 years in prison and a massive fine of more than $1 Million.
+The U.S. Justice Department accused Nikulin of allegedly hacking into computers belonging to three American social media firms, including LinkedIn, the online cloud storage platform Dropbox and now-defunct social-networking firm Formspring.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nikulin reportedly gained access to LinkedIn's network between March 3 and March 4, 2012, Dropbox between May 14 and July 25, 2012, and Formspring between June 13 and June 29, 2012.
+The hacker allegedly stole accounts of more than 117 Million LinkedIn users and more than 68 Million Dropbox users. Authorities also say that after stealing data from the three companies, Nikulin worked with unnamed co-conspirators to sell the stolen data.
+Besides hacking into the three social media firms, the Justice Department also accused Nikulin of allegedly gaining access to credentials belonging to LinkedIn and Formspring employees, which helped him carry out the computer hacks.
+Nikulin appeared in Federal District Court in San Francisco on Friday and pleaded not guilty to the charges against him, the New York times reported.
+"This is deeply troubling behavior once again emanating from Russia," said Attorney General Jeff Sessions in a statement. "We will not tolerate criminal cyber-attacks and will make it a priority to investigate and prosecute these crimes, regardless of the country where they originate."
+Judge Jacqueline Scott Corley scheduled Nikulin's next court appearance for status on April 2, 2018, and scheduled a detention hearing for April 4, 2018.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

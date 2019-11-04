@@ -1,0 +1,17 @@
+TESCO Customers' account details leaked online
+Swati Khandelwal
+
+You all were busy in celebrating Valentine’s Day with your loved ones, and the cyber criminals were too celebrating the day in their own way, and this time, with the TESCO customers.
+A list of over 2,240 Tesco.com Internet Shopping accounts was posted Online on the Pastebin website by some unknown hackers on Thursday, allowing access to online shopping accounts, personal details and Tesco Clubcard vouchers, reported by The Guardian.
+A Tesco spokesperson told The Hacker News that this information has not come from Tesco’s website itself, rather there have been high profile hacks on other businesses 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A Tesco spokesperson said, "We take the security of our customers' data extremely seriously and are urgently investigating these claims.”
+“We have contacted all customers who may have been affected and are committed to ensuring that none of them miss out as a result of this. We will issue replacement vouchers to the very small numbers who are affected."
+It is still vague how exactly the cyber criminals were potentially viable to gain access to the Tesco customer details, but some experts say the hackers compiled the stolen details from other websites and then found that Tesco customers used the same username and password combination as those on previous hacks.
+This was not the first time when Tesco has fallen victim to cyber thieves. In 2013, Tesco came under a similar attack when hundreds of Tesco Clubcard users found their online accounts had been compromised.
+The company has also encountered several security issues with its website, where an XSS flaw left customers at risk of having their accounts hijacked.
+In a blog post, the security researcher Troy Hunt, who previously claimed that Tesco was sending passwords in plain text via email, criticized the giant and said, "I would not for a moment assume that the extent of the damage is only a couple of thousand accounts, that's almost certainly only the tip of the iceberg."
+Earlier this month, Tesco accidentally revealed hundreds of customer email addresses as it attempted to apologize for a pricing error by including all recipients’ email addresses in the ‘to’ field, which meant they were seen by all those receiving the message, that’s a humble thing.
+Cyber criminals mostly become hyper active during festivals, last Christmas Holidays, the massive data breach occurred at TARGET in which over 40 million Credit & Debit cards were stolen that used to pay for purchases at its 1500 stores nationwide in the U.S.
+The customers are advised to use a different password for every single online account which they use, because you can’t always put your security onto the head of service providers. It’s your own concern in protecting ourselves by not using the same password combinations or using passwords that are easy to second guess. Rather, use a pass-phrases that include lower case, upper case, numbers, special symbols which will also help you increase the complexity and easily re-memorable.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

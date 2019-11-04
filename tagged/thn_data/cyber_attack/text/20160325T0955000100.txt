@@ -1,0 +1,23 @@
+The 7 Most Wanted Iranian Hackers By the FBI
+Wang Wei
+
+The Federal Bureau of Investigation (FBI) has lengthened its Most Wanted List by adding seven Iranian hackers who are accused of attacking a range of US banks and a New York dam.
+On Thursday, the United States Department of Justice (DoJ) charged seven Iranian hackers with a slew of computer hacking offences for breaking into computer systems of dozens of US banks, causing Millions of dollars in damages, and tried to shut down a New York dam.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The individual hackers, who allegedly worked for computer security companies linked to the Iranian government, were indicted for an "extensive campaign" of cyber attacks against the US financial sector.
+All the seven hackers have been added to the FBI's Most Wanted list, and their names are:
+Ahmad Fathi, 37
+Hamid Firoozi, 34
+Amin Shokohi, 25
+Sadegh Ahmadzadegan (aka Nitr0jen26), 23
+Omid Ghaffarinia (aka PLuS), 25
+Sina Keissar, 25
+Nader Saedi (aka Turk Server), 26
+All the hackers have been charged with conducting numerous Distributed Denial-of-Service (DDoS) attacks on major U.S. banks, with Firoozi separately gaining unauthorized access to a New York dam's industrial automation control (SCADA) system in August and September of 2013.
+"This unauthorized access allowed [Firoozi] to repeatedly obtain information regarding the status and operation of the dam, including information about the water levels, temperature, and status of the sluice gate, which is responsible for controlling water levels and flow rates," a DoJ statement reads.
+Luckily, the sluice gate had already been manually disconnected for the purpose of maintenance at the time Firoozi attacked.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hackers' work allegedly involved Botnets – networks of compromised machines – that hit major American banks, including Bank of America and J.P. Morgan Chase, as well as the Nasdaq stock exchange with floods of traffics measuring up to 140Gbps and knocked them offline.
+The Iranian hackers targeted more than 46 financial institutions and financial sector companies, costing them "tens of Millions of dollars in remediation costs" in preventing the attacks in various incidents spanning 2011 to 2013.
+All the seven hackers will face up to 10 years in prison on computer hacking charges while Firoozi faces an additional 5-year prison sentence for breaking into a dam in Bowman Avenue Dam in Rye Brook, New York.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

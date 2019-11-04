@@ -1,0 +1,49 @@
+Petya Ransomware Spreading Rapidly Worldwide, Just Like WannaCry
+Swati Khandelwal
+
+Watch out, readers! It is ransomware, another WannaCry, another wide-spread attack.
+The WannaCry ransomware is not dead yet and another large scale ransomware attack is making chaos worldwide, shutting down computers at corporates, power supplies, and banks across Russia, Ukraine, Spain, France, UK, India, and Europe and demanding $300 in bitcoins.
+According to multiple sources, a new variant of Petya ransomware, also known as Petwrap, is spreading rapidly with the help of same Windows SMBv1 vulnerability that the WannaCry ransomware abused to infect 300,000 systems and servers worldwide in just 72 hours last month.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Apart from this, many victims have also informed that Petya ransomware has also infected their patch systems.
+"Petya uses the NSA Eternalblue exploit but also spreads in internal networks with WMIC and PSEXEC. That's why patched systems can get hit." Mikko Hypponen confirms, Chief Research Officer at F-Secure.
+Petya is a nasty piece of ransomware and works very differently from any other ransomware malware. Unlike other traditional ransomware, Petya does not encrypt files on a targeted system one by one.
+Instead, Petya reboots victims computers and encrypts the hard drive's master file table (MFT) and renders the master boot record (MBR) inoperable, restricting access to the full system by seizing information about file names, sizes, and location on the physical disk.
+Petya ransomware replaces the computer's MBR with its own malicious code that displays the ransom note and leaves computers unable to boot.
+Don't Pay Ransom, You Wouldn’t Get Your Files Back 
+Infected users are advised not to pay the ransom because hackers behind Petya ransomware can’t get your emails anymore.
+Posteo, the German email provider, has suspended the email address i.e. wowsmith123456@posteo.net, which was behind used by the criminals to communicate with victims after getting the ransom to send the decryption keys.
+At the time of writing, 23 victims have paid in Bitcoin to '1Mz7153HMuxXTuR2R1t78mGSdzaAtNbBWX' address for decrypting their files infected by Petya, which total roughly $6775.
+Petya! Petya! Another Worldwide Ransomware Attack
+Screenshots of the latest Petya infection, shared on Twitter, shows that the ransomware displays a text, demanding $300 worth of Bitcoins. Here's what the text read:
+"If you see this text, then your files are no longer accessible, because they are encrypted. Perhaps you are busy looking for a way to recover your files, but don't waste your time. Nobody can recover your files without our decryption service."
+According to a recent VirusTotal scan, currently, only 16 out of 61 anti-virus services are successfully detecting the Petya ransomware malware.
+Petya Ransomware Hits Banks, Telecom, Businesses & Power Companies
+Supermarket in Kharkiv, East Ukraine
+Petya ransomware has already infected — Russian state-owned oil giant Rosneft, Ukrainian state electricity suppliers, "Kyivenergo" and "Ukrenergo," in past few hours.
+"We were attacked. Two hours ago, we had to turn off all our computers. We are waiting for permission from Ukraine's Security Service (SBU) to switch them back on," Kyivenergo's press service said.
+There are reports from several banks, including National Bank of Ukraine (NBU) and Oschadbank, as well as other companies confirming they have been hit by the Petya ransomware attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Maersk, an international logistics company, has also confirmed on Twitter that the latest Petya ransomware attacks have shut down its IT systems at multiple locations and business units.
+"We can confirm that Maersk IT systems are down across multiple sites and business units. We are currently asserting the situation. The safety of our employees, our operations and customers' business is our top priority. We will update when we have more information," the company said.
+The ransomware also impacts multiple workstations at Ukrainian branch's mining company Evraz.
+The most severe damages reported by Ukrainian businesses also include compromised systems at Ukraine's local metro and Kiev's Boryspil Airport.
+Three Ukrainian telecommunication operators, Kyivstar, LifeCell, Ukrtelecom, are also affected in the latest Petya attack.
+How Petya Ransomware Spreading So Fast?
+Symantec, the cyber security company, has also confirmed that Petya ransomware is exploiting SMBv1 EternalBlue exploit, just like WannaCry, and taking advantage of unpatched Windows machines.
+"Petya ransomware successful in spreading because it combines both a client-side attack (CVE-2017-0199) and a network based threat (MS17-010)," security researcher using Twitter handle ‏HackerFantastic tweeted.
+EternalBlue is a Windows SMB exploit leaked by the infamous hacking group Shadow Brokers in its April data dump, who claimed to have stolen it from the US intelligence agency NSA, along with other Windows exploits.
+Microsoft has since patched the vulnerability for all versions of Windows operating systems, but many users remain vulnerable, and a string of malware variants are exploiting the flaw to deliver ransomware and mine cryptocurrency.
+Just three days ago, we reported about the latest WannaCry attack that hit Honda Motor Company and around 55 speed and traffic light cameras in Japan and Australia, respectively.
+Well, it is quite surprising that even after knowing about the WannaCry issue for quite a decent amount of time, big corporates and companies have not yet implemented proper security measures to defend against such threat.
+How to Protect Yourself from Ransomware Attacks
+What to do immediately? Go and apply those goddamn patches against EternalBlue (MS17-010) and disable the unsecured, 30-year-old SMBv1 file-sharing protocol on your Windows systems and servers.
+Since Petya Ransomware is also taking advantage of WMIC and PSEXEC tools to infect fully-patched Windows computers, you are also advised to disable WMIC (Windows Management Instrumentation Command-line).
+Prevent Infection & Petya Kill-Switch
+Researcher finds Petya ransomware encrypt systems after rebooting the computer. So if your system is infected with Petya ransomware and it tries to restart, just do not power it back on.
+"If machine reboots and you see this message, power off immediately! This is the encryption process. If you do not power on, files are fine." ‏HackerFantastic tweeted. "Use a LiveCD or external machine to recover files"
+PT Security, a UK-based cyber security company and Amit Serper from Cybereason, have discovered a Kill-Switch for Petya ransomware. According to a tweet, company has advised users to create a file i.e. "C:\Windows\perfc" to prevent ransomware infection.
+To safeguard against any ransomware infection, you should always be suspicious of unwanted files and documents sent over an email and should never click on links inside them unless verifying the source.
+To always have a tight grip on your valuable data, keep a good back-up routine in place that makes their copies to an external storage device that isn't always connected to your PC.
+Moreover, make sure that you run a good and effective anti-virus security suite on your system, and keep it up-to-date. Most importantly, always browse the Internet safely.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

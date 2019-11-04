@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Agents Seize Raft and Contraband along the Rio Grande
+(Tuesday, February 23, 2010)
+Rio Grande City, Texas  - U.S. Border Patrol agents assigned to the Rio Grande City station in conjunction with the Office of Air and Marine, McAllen Air Branch seized close to 600 pounds of marijuana Thursday Afternoon.
+A U.S. Border Patrol agent recovers a raft loaded with 28 bundles of marijuana weighing 600 pounds with an estimated value of $500,000.
+A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas. As the helicopter approached, the men dove into the water and swam to Mexico, abandoning the vessel. U.S. Border Patrol agents in partnership with a state enforcement agency retrieved the raft and seized 28 bundles of marijuana worth close to $500.000.
+The raft was seized and the narcotics were turned over to the Drug Enforcement Administration.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="7" text="Agents" TYPE="BAR" />
+<person id="p1" start="110" end="175" text="U.S. Border Patrol agents assigned to the Rio Grande City station" TYPE="BAR" />
+<person id="p2" start="305" end="331" text="A U.S. Border Patrol agent" TYPE="NOM" />
+<person id="p3" start="551" end="559" text="five men" TYPE="NOM" />
+<person id="p4" start="676" end="683" text="the men" TYPE="NOM" />
+<person id="p5" start="747" end="772" text="U.S. Border Patrol agents" TYPE="BAR" />
+<organization id="o0" start="110" end="128" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o1" start="196" end="244" text="the Office of Air and Marine, McAllen Air Branch" TYPE="NAM" />
+<organization id="o2" start="200" end="224" text="Office of Air and Marine" TYPE="NAMPRE" />
+<organization id="o3" start="307" end="325" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o4" start="441" end="516" text="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River" TYPE="NOM" />
+<organization id="o5" start="443" end="461" text="McAllen Air Branch" TYPE="NAMPRE" />
+<organization id="o6" start="747" end="765" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o7" start="793" end="819" text="a state enforcement agency" TYPE="NOM" />
+<organization id="o8" start="957" end="992" text="the Drug Enforcement Administration" TYPE="NAM" />
+<geographical-political id="g0" start="84" end="106" text="Rio Grande City, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="101" end="106" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="622" end="644" text="Rio Grande City, Texas" TYPE="NAM" />
+<geographical-political id="g3" start="639" end="644" text="Texas" TYPE="NAM" />
+<geographical-political id="g4" start="716" end="722" text="Mexico" TYPE="NAM" />
+<location id="l0" start="40" end="54" text="the Rio Grande" TYPE="NAM" />
+<location id="l1" start="483" end="516" text="the banks of the Rio Grande River" TYPE="NOM" />
+<location id="l2" start="496" end="516" text="the Rio Grande River" TYPE="NAM" />
+<location id="l3" start="536" end="545" text="the river" TYPE="NOM" />
+<location id="l4" start="613" end="644" text="south of Rio Grande City, Texas" TYPE="BAR" />
+<falicity id="f0" start="148" end="175" text="the Rio Grande City station" TYPE="NAM" />
+<head id="h0" start="1" end="7" text="Agents" />
+<head id="h1" start="44" end="54" text="Rio Grande" />
+<head id="h2" start="84" end="99" text="Rio Grande City" />
+<head id="h3" start="101" end="106" text="Texas" />
+<head id="h4" start="129" end="135" text="agents" />
+<head id="h5" start="110" end="128" text="U.S. Border Patrol" />
+<head id="h6" start="152" end="175" text="Rio Grande City station" />
+<head id="h7" start="226" end="244" text="McAllen Air Branch" />
+<head id="h8" start="200" end="224" text="Office of Air and Marine" />
+<head id="h9" start="326" end="331" text="agent" />
+<head id="h10" start="307" end="325" text="U.S. Border Patrol" />
+<head id="h11" start="462" end="466" text="unit" />
+<head id="h12" start="443" end="461" text="McAllen Air Branch" />
+<head id="h13" start="487" end="492" text="banks" />
+<head id="h14" start="500" end="516" text="Rio Grande River" />
+<head id="h15" start="540" end="545" text="river" />
+<head id="h16" start="556" end="559" text="men" />
+<head id="h17" start="613" end="618" text="south" />
+<head id="h18" start="622" end="637" text="Rio Grande City" />
+<head id="h19" start="639" end="644" text="Texas" />
+<head id="h20" start="680" end="683" text="men" />
+<head id="h21" start="716" end="722" text="Mexico" />
+<head id="h22" start="766" end="772" text="agents" />
+<head id="h23" start="747" end="765" text="U.S. Border Patrol" />
+<head id="h24" start="813" end="819" text="agency" />
+<head id="h25" start="961" end="992" text="Drug Enforcement Administration" />
+<name id="n0" start="44" end="54" text="Rio Grande" />
+<name id="n1" start="84" end="99" text="Rio Grande City" />
+<name id="n2" start="101" end="106" text="Texas" />
+<name id="n3" start="110" end="128" text="U.S. Border Patrol" />
+<name id="n4" start="152" end="175" text="Rio Grande City station" />
+<name id="n5" start="226" end="244" text="McAllen Air Branch" />
+<name id="n6" start="200" end="224" text="Office of Air and Marine" />
+<name id="n7" start="307" end="325" text="U.S. Border Patrol" />
+<name id="n8" start="443" end="461" text="McAllen Air Branch" />
+<name id="n9" start="500" end="516" text="Rio Grande River" />
+<name id="n10" start="622" end="637" text="Rio Grande City" />
+<name id="n11" start="639" end="644" text="Texas" />
+<name id="n12" start="716" end="722" text="Mexico" />
+<name id="n13" start="747" end="765" text="U.S. Border Patrol" />
+<name id="n14" start="961" end="992" text="Drug Enforcement Administration" />
+<located-mention id="lo0" start="110" end="175" text="U.S. Border Patrol agents assigned to the Rio Grande City station" TYPE="Participial" />
+<located-mention id="lo1" start="441" end="644" text="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" TYPE="Other" />
+<located-mention id="lo2" start="441" end="644" text="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" TYPE="Other" />
+<located-mention id="lo3" start="646" end="745" text="As the helicopter approached, the men dove into the water and swam to Mexico, abandoning the vessel" TYPE="Verbal" />
+<located-mention id="lo4" start="1" end="54" text="Agents Seize Raft and Contraband along the Rio Grande" TYPE="Other" />
+<employment-mention id="e0" start="110" end="175" text="U.S. Border Patrol agents assigned to the Rio Grande City station" TYPE="PreMod" />
+<employment-mention id="e1" start="305" end="331" text="A U.S. Border Patrol agent" TYPE="PreMod" />
+<employment-mention id="e2" start="747" end="772" text="U.S. Border Patrol agents" TYPE="PreMod" />
+<entity_link id="en0" fromID="o3" fromText="U.S. Border Patrol" toID="o0" toText="U.S. Border Patrol" />
+<entity_link id="en1" fromID="o5" fromText="McAllen Air Branch" toID="o1" toText="the Office of Air and Marine, McAllen Air Branch" />
+<entity_link id="en2" fromID="l2" fromText="the Rio Grande River" toID="l0" toText="the Rio Grande" />
+<entity_link id="en3" fromID="l3" fromText="the river" toID="l2" toText="the Rio Grande River" />
+<entity_link id="en4" fromID="g2" fromText="Rio Grande City, Texas" toID="g0" toText="Rio Grande City, Texas" />
+<entity_link id="en5" fromID="g3" fromText="Texas" toID="g1" toText="Texas" />
+<entity_link id="en6" fromID="p4" fromText="the men" toID="p3" toText="five men" />
+<entity_link id="en7" fromID="o6" fromText="U.S. Border Patrol" toID="o3" toText="U.S. Border Patrol" />
+<entity_link id="en8" fromID="p5" fromText="U.S. Border Patrol agents" toID="p1" toText="U.S. Border Patrol agents assigned to the Rio Grande City station" />
+<entity_link id="en9" fromID="p1" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="p0" toText="Agents" />
+<head_link id="he0" fromID="p0" fromText="Agents" toID="h0" toText="Agents" />
+<head_link id="he1" fromID="l0" fromText="the Rio Grande" toID="h1" toText="Rio Grande" />
+<head_link id="he2" fromID="g0" fromText="Rio Grande City, Texas" toID="h2" toText="Rio Grande City" />
+<head_link id="he3" fromID="g1" fromText="Texas" toID="h3" toText="Texas" />
+<head_link id="he4" fromID="p1" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="h4" toText="agents" />
+<head_link id="he5" fromID="o0" fromText="U.S. Border Patrol" toID="h5" toText="U.S. Border Patrol" />
+<head_link id="he6" fromID="f0" fromText="the Rio Grande City station" toID="h6" toText="Rio Grande City station" />
+<head_link id="he7" fromID="o1" fromText="the Office of Air and Marine, McAllen Air Branch" toID="h7" toText="McAllen Air Branch" />
+<head_link id="he8" fromID="o2" fromText="Office of Air and Marine" toID="h8" toText="Office of Air and Marine" />
+<head_link id="he9" fromID="p2" fromText="A U.S. Border Patrol agent" toID="h9" toText="agent" />
+<head_link id="he10" fromID="o3" fromText="U.S. Border Patrol" toID="h10" toText="U.S. Border Patrol" />
+<head_link id="he11" fromID="o4" fromText="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River" toID="h11" toText="unit" />
+<head_link id="he13" fromID="o5" fromText="McAllen Air Branch" toID="h12" toText="McAllen Air Branch" />
+<head_link id="he14" fromID="l1" fromText="the banks of the Rio Grande River" toID="h13" toText="banks" />
+<head_link id="he15" fromID="l2" fromText="the Rio Grande River" toID="h14" toText="Rio Grande River" />
+<head_link id="he16" fromID="l3" fromText="the river" toID="h15" toText="river" />
+<head_link id="he17" fromID="p3" fromText="five men" toID="h16" toText="men" />
+<head_link id="he18" fromID="l4" fromText="south of Rio Grande City, Texas" toID="h17" toText="south" />
+<head_link id="he19" fromID="g2" fromText="Rio Grande City, Texas" toID="h18" toText="Rio Grande City" />
+<head_link id="he20" fromID="g3" fromText="Texas" toID="h19" toText="Texas" />
+<head_link id="he21" fromID="p4" fromText="the men" toID="h20" toText="men" />
+<head_link id="he22" fromID="g4" fromText="Mexico" toID="h21" toText="Mexico" />
+<head_link id="he23" fromID="p5" fromText="U.S. Border Patrol agents" toID="h22" toText="agents" />
+<head_link id="he24" fromID="o6" fromText="U.S. Border Patrol" toID="h23" toText="U.S. Border Patrol" />
+<head_link id="he12" fromID="o7" fromText="a state enforcement agency" toID="h24" toText="agency" />
+<head_link id="he25" fromID="o8" fromText="the Drug Enforcement Administration" toID="h25" toText="Drug Enforcement Administration" />
+<name_link id="na0" fromID="l0" fromText="the Rio Grande" toID="n0" toText="Rio Grande" />
+<name_link id="na1" fromID="g0" fromText="Rio Grande City, Texas" toID="n1" toText="Rio Grande City" />
+<name_link id="na2" fromID="g1" fromText="Texas" toID="n2" toText="Texas" />
+<name_link id="na3" fromID="o0" fromText="U.S. Border Patrol" toID="n3" toText="U.S. Border Patrol" />
+<name_link id="na4" fromID="f0" fromText="the Rio Grande City station" toID="n4" toText="Rio Grande City station" />
+<name_link id="na5" fromID="o1" fromText="the Office of Air and Marine, McAllen Air Branch" toID="n5" toText="McAllen Air Branch" />
+<name_link id="na6" fromID="o2" fromText="Office of Air and Marine" toID="n6" toText="Office of Air and Marine" />
+<name_link id="na7" fromID="o3" fromText="U.S. Border Patrol" toID="n7" toText="U.S. Border Patrol" />
+<name_link id="na8" fromID="o5" fromText="McAllen Air Branch" toID="n8" toText="McAllen Air Branch" />
+<name_link id="na9" fromID="l2" fromText="the Rio Grande River" toID="n9" toText="Rio Grande River" />
+<name_link id="na10" fromID="g2" fromText="Rio Grande City, Texas" toID="n10" toText="Rio Grande City" />
+<name_link id="na11" fromID="g3" fromText="Texas" toID="n11" toText="Texas" />
+<name_link id="na12" fromID="g4" fromText="Mexico" toID="n12" toText="Mexico" />
+<name_link id="na13" fromID="o6" fromText="U.S. Border Patrol" toID="n13" toText="U.S. Border Patrol" />
+<name_link id="na14" fromID="o8" fromText="the Drug Enforcement Administration" toID="n14" toText="Drug Enforcement Administration" />
+<relation_link1 id="r0" fromID="e0" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="p1" toText="U.S. Border Patrol agents assigned to the Rio Grande City station" />
+<relation_link1 id="r1" fromID="lo0" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="p1" toText="U.S. Border Patrol agents assigned to the Rio Grande City station" />
+<relation_link1 id="r2" fromID="e1" fromText="A U.S. Border Patrol agent" toID="p2" toText="A U.S. Border Patrol agent" />
+<relation_link1 id="r3" fromID="lo1" fromText="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" toID="p3" toText="five men" />
+<relation_link1 id="r4" fromID="lo2" fromText="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" toID="p3" toText="five men" />
+<relation_link1 id="r5" fromID="lo3" fromText="As the helicopter approached, the men dove into the water and swam to Mexico, abandoning the vessel" toID="p4" toText="the men" />
+<relation_link1 id="r6" fromID="e2" fromText="U.S. Border Patrol agents" toID="p5" toText="U.S. Border Patrol agents" />
+<relation_link1 id="r7" fromID="lo4" fromText="Agents Seize Raft and Contraband along the Rio Grande" toID="p0" toText="Agents" />
+<relation_link2 id="re0" fromID="e0" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="o0" toText="U.S. Border Patrol" />
+<relation_link2 id="re1" fromID="lo0" fromText="U.S. Border Patrol agents assigned to the Rio Grande City station" toID="f0" toText="the Rio Grande City station" />
+<relation_link2 id="re2" fromID="e1" fromText="A U.S. Border Patrol agent" toID="o3" toText="U.S. Border Patrol" />
+<relation_link2 id="re3" fromID="lo1" fromText="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" toID="l3" toText="the river" />
+<relation_link2 id="re4" fromID="lo2" fromText="A McAllen Air Branch unit on patrol along the banks of the Rio Grande River observed a raft in the river with five men and several bundles of what appeared to be narcotics south of Rio Grande City, Texas" toID="l4" toText="south of Rio Grande City, Texas" />
+<relation_link2 id="re5" fromID="lo3" fromText="As the helicopter approached, the men dove into the water and swam to Mexico, abandoning the vessel" toID="g4" toText="Mexico" />
+<relation_link2 id="re6" fromID="e2" fromText="U.S. Border Patrol agents" toID="o6" toText="U.S. Border Patrol" />
+<relation_link2 id="re7" fromID="lo4" fromText="Agents Seize Raft and Contraband along the Rio Grande" toID="l0" toText="the Rio Grande" />
+</TAGS>
+</KddTask>

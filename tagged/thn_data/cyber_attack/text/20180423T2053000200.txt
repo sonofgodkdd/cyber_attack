@@ -1,0 +1,21 @@
+Hackers Behind Healthcare Espionage Infect X-Ray and MRI Machines
+Mohit Kumar
+
+Security researchers have uncovered a new hacking group that is aggressively targeting healthcare organizations and related sectors across the globe to conduct corporate espionage.
+Dubbed "Orangeworm," the hacking group has been found installing a wormable trojan on machines hosting software used for controlling high-tech imaging devices, such as X-Ray and MRI machines, as well as machines used to assist patients in completing consent forms.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a new report published by Symantec on Monday, the Orangeworm hacking group has been active since early 2015 and targeting systems of major international corporations based in the United States, Europe, and Asia with a primary focus on the healthcare sector.
+"We believe that these industries have also been targeted as part of a larger supply-chain attack in order for Orangeworm to get access to their intended victims related to healthcare," Symantec said.
+After getting into the victim's network, attackers install a trojan, dubbed Kwampirs, which opens a backdoor on the compromised computers, allowing attackers to remotely access equipment and steal sensitive data.
+While decrypting, the Kwampirs malware inserts a randomly generated string into its main DLL payload in an attempt to evade hash-based detection. The malware also starts a service on the compromised systems to persist and restart after the system reboots.
+Kwampirs then collects some basic information about the compromised computers and send it to the attackers to a remote command-and-control server, using which the group determines whether the hacked system is used by a researcher or a high-value target.
+If the victim is of interest, the malware then "aggressively" spread itself across open network shares to infect other computers within the same organisation.
+To gather additional information about the victim's network and compromised systems, the malware uses system's built-in commands, instead of using third-party reconnaissance and enumeration tools.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Above shown list of commands help attackers to steal information including, "any information pertaining to recently accessed computers, network adapter information, available network shares, mapped drives, and files present on the compromised computer."
+Besides health-care providers and pharmaceutical companies that account for nearly 40% of targets, Orangeworm has also launched attacks against other industries including information technology and manufacturing sectors, agriculture, and logistics.
+However, these industries also somehow work for healthcare, like manufacturers that make medical devices, technology companies that offer services to clinics, and logistics firms that deliver healthcare products.
+Although the exact motive of Orangeworm is not clear and there's no information that could help determine the group's origins, Symantec believes the group is likely conducting espionage for commercial purposes and there's no evidence that it's backed by a nation-state.
+"Based on the list of known victims, Orangeworm does not select its targets randomly or conduct opportunistic hacking," Symantec said. "Rather, the group appears to choose its targets carefully and deliberately, conducting a good amount of planning before launching an attack."
+The highest percentage of victims has been detected in the United States, followed by Saudi Arabia, India, Philippines, Hungary, United Kingdom, Turkey, Germany, Poland, Hong Kong, Sweden, Canada, France, and several other countries across the globe.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

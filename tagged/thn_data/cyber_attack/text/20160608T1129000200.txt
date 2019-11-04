@@ -1,0 +1,25 @@
+University Pays Hackers $20,000 to get back its Ransomware Infected Files
+Mohit Kumar
+
+What's the worst that could happen when a Ransomware malware hits University?
+Last month, the IT department of the University from where I have done my graduation called me for helping them get rid of a Ransomware infection that locked down all its student's results just a day before the announcement.
+Unfortunately, there was no decrypter available for that specific ransomware sample, but luckily they had the digital backup for the examination results in the form of hundreds of excel sheets.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+So, somehow backup helped administrator to re-compile complete result once again into the database, but this delayed the announcement for over 30 days.
+However, the situation is not same every time.
+Recently, the University of Calgary in Alberta paid a ransom of $20,000 to decrypt their computer systems' files and regain access to its own email system after getting hit by a ransomware infection.
+The University fell victim to ransomware last month, when the malware installed itself on computers, encrypted all documents and demanded $20,000 in Bitcoins to recover the data.
+Also Read: Ransomware attacks on Hospitals put Patients at Risk
+Since the University obviously was not properly backing up the data, the administrators have agreed to pay up the ransom amount, the university announced in a release Tuesday, after a cyber attack that left students and staff unable to access university-issued PCs, email or Skype.
+"As part of efforts to maintain all options to address these systems issues, the university has paid a ransom totaling about $20,000 CDN that was demanded as part of this 'ransomware' attack," Linda Dalgetty, VP of finance and services at the University said in a release.
+The University assured its staff and students that no personal or University data was released to the public and that it is working with Calgary police to investigate the cyber attack that affected more than 100 computers.
+The university's IT department is still in the process of assessing and evaluating the decryption keys and is working to recover data and ensure all of the affected systems are operational again.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The University also confirmed the decryption keys provided by the attacker worked successfully. The email service for its students and staff was brought back yesterday, but not on the original University system.
+The University did not further comment on how the infection made its way into their systems and networks.
+Also Read: Ransomware attacks Shuts Down Electric and Water Utility.
+We saw an enormous rise in Ransomware threats, both in numbers and sophistication. You would be surprised to know about the latest version of Cerber ransomware that generates a different sample in every 15 seconds in order to bypass signature-based antivirus software.
+One of the best first steps in securing your environment is to deploy automated and isolated backup mechanism, along with an Intrusion detection system (IDS) at the network level as well as host-based IDS on your critical assets.
+IDS gives you detailed insight into what exactly is coming across the wire, instead of just relying on signature-based antivirus and anti-malware software.
+You can try AlienVault Unified Security Management (USM) that includes an inbuilt IDS with SIEM and real-time threat intelligence to help you quickly detect malware and other threats in your network.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

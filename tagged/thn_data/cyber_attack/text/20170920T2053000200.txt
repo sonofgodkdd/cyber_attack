@@ -1,0 +1,21 @@
+APT33: Researchers Expose Iranian Hacking Group Linked to Destructive Malware
+Swati Khandelwal
+
+Security researchers have recently uncovered a cyber espionage group targeting aerospace, defence and energy organisations in the United States, Saudi Arabia and South Korea.
+According to the latest research published Wednesday by US security firm FireEye, an Iranian hacking group that it calls Advanced Persistent Threat 33 (or APT33) has been targeting critical infrastructure, energy and military sectors since at least 2013 as part of a massive cyber-espionage operation to gather intelligence and steal trade secrets.
+The security firm also says it has evidence that APT33 works on behalf of Iran's government.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+FireEye researchers have spotted cyber attacks aimed by APT33 since at least May 2016 and found that the group has successfully targeted aviation sector—both military and commercial—as well as organisations in the energy sector with a link to petrochemical.
+The APT33 victims include a U.S. firm in the aerospace sector, a Saudi Arabian business conglomerate with aviation holdings, and a South Korean company involved in oil refining and petrochemicals.
+Most recently, in May 2017, APT33 targeted employees of a Saudi organisation and a South Korean business conglomerate using a malicious file that attempted to entice them with job vacancies for a Saudi Arabian petrochemical company.
+"We believe the targeting of the Saudi organisation may have been an attempt to gain insight into regional rivals, while the targeting of South Korean companies may be due to South Korea’s recent partnerships with Iran’s petrochemical industry as well as South Korea’s relationships with Saudi petrochemical companies," the FireEye report reads.
+APT33 targets organisations by sending spear phishing emails with malicious HTML links to infect targets' computers with malware. The malware used by the espionage group includes DROPSHOT (dropper), SHAPESHIFT (wiper) and TURNEDUP (custom backdoor, which is the final payload).
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, in previous research published by Kaspersky, DROPSHOT was tracked by its researchers as StoneDrill, which targeted petroleum company in Europe and believed to be an updated version of Shamoon 2 malware.
+"Although we have only directly observed APT33 use DROPSHOT to deliver the TURNEDUP backdoor, we have identified multiple DROPSHOT samples in the wild that drop SHAPESHIFT," the report reads.
+The SHAPESHIFT malware can wipe disks, erase volumes and delete files, depending on its configuration.
+According to FireEye, APT 33 sent hundreds of spear phishing emails last year from several domains, which masqueraded as Saudi aviation companies and international organisations, including Boeing, Alsalam Aircraft Company and Northrop Grumman Aviation Arabia.
+The security firm also believes APT 33 is linked to Nasr Institute, an Iranian government organisation that conducts cyber warfare operations.
+In July, researchers at Trend Micro and Israeli firm ClearSky uncovered another Iranian espionage group, dubbed Rocket Kittens, that was also active since 2013 and targeted organisations and individuals, including diplomats and researchers, in Israel, Saudi Arabia, Turkey, the United States, Jordan and Germany.
+However, FireEye report does not show any links between both the hacking group. For more technical details about the APT33 operations, you can head on to FireEye's official blog post.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

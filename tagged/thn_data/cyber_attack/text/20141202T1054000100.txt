@@ -1,0 +1,27 @@
+Sony Pictures Hack — 5 Things You Need To Know
+Swati Khandelwal
+
+What a horrible start the holiday season in U.S. Over Thanksgiving weekend, Sony Pictures Entertainment suffered a massive data breach as "Guardians of Peace" hacked-into Sony Pictures' computer system that brought the studio's network to a screeching halt. 
+Following the hack, hackers leaked five unreleased Sony movies to Torrent file-sharing website during Black Friday. It's still not clear whether both the incident back to back with Sony Pictures belongs to same group of hackers or not, but here's what you need to know about the breach:
+1. FBI MALWARE WARNING AFTER SONY PICTURES HACK
+The U.S. Federal Bureau of Investigation (FBI) warned businesses that cyber criminals have used malicious software to launch destructive cyber-attacks in the United States, following the  last week's massive data breach at Sony Pictures Entertainment, in which four unreleased films were stolen and pirate-shared.
+In a five-page confidential 'flash' warning, FBI recommended users to strengthen the protection of their information systems and limit access to databases. But when asked if the same malicious software had been used against the Sony Pictures hack, FBI declined to comment. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+This new "destructive" malware has capability to overwrite a victim host's master boot record and all data files. "The overwriting of the data files will make it extremely difficult and costly, if not impossible, to recover the data using standard forensic methods," according to Reuters who independently obtained the report.
+2. IS NORTH KOREA BEHIND THE CYBER ATTACK ON SONY PICTURES ?
+As we reported earlier, Sony Pictures is investigating the possibility that hackers working on behalf of North Korea were behind the hacking incident. 
+Sony hack is the payback for upcoming Kim Jong assassination comedy film. It is because the hack comes just a month before the scheduled release of Sony's upcoming comedy "The Interview," a comedy about two journalists who are recruited by the CIA to assassinate North Korean leader Kim Jong Un. 
+The film became a source of international controversy, and the Pyongyang government denounced the film as "undisguised sponsoring of terrorism, as well as an Act of War" in a letter to U.N. Secretary-General Ban Ki-moon in June.
+But pointing finger towards North Korea without any strong evidence would be wrong. So, we still won't confirm whether its cyber war by North Korea or some other unknown, sophisticated hacker.
+3. FIVE MOVIE LEAKED LINKED TO SONY PICTURES 
+Following the last weeks cyber-attack on Sony Pictures Entertainment, high-quality versions of five newest films – Annie, Fury, Still Alice, Mr. Turner and To Write Love on Her Arms – distributed by Sony Pictures leaked online during Black Friday. 
+Four of the leaked films have yet to hit the big screen. The remake of the 1982 released "Annie" is Sony's next big film, schedule to hit theaters on Dec. 19 with new stars Quvenzhané Wallis, Cameron Diaz and Jamie Foxx.
+Two other new films, "Mr. Turner" and "Still Alice" are also considered possible Oscar contenders for their lead actors Timothy Spall and Julianne Moore.
+4. SONY HIRED FIREEYE FOR INVESTIGATION
+Sony Pictures Entertainment has hired Mandiant incident response team of FireEye Inc to help clean-up the damage caused by the huge cyber attack on its network, which forced its employees to put pen to paper over the last few weeks.
+In addition to the FireEye, FBI is also investigating the matter and is looking into the devastating leak of four of its upcoming movies, although it has not been confirmed that the leak of all the films came from the same data breach.
+Mandiant is a well-known security incident response team of FireEye which deals in forensic analysis, repairs and network restoration. Mandiant is the same team that helped in the catastrophic security breach experienced by one of the world's largest retailer Target in 2013.
+5. SONY PICTURES HACK IS NOT THE COMPANY'S FIRST TIME HACK
+In August, Sony's PlayStation Network was completely taken down by a distributed denial-of-service (DDoS) attack, a common technique used by hackers to overwhelm a system with traffic and make the network temporarily inaccessible to users.
+The gaming network also suffered a more severe hack in 2011, which led to the exposure of 77 million PlayStation and Qriocity accounts along with 25 million Sony Online Entertainment accounts, bringing the total to more than 100 million in one of the largest data breaches ever. The hack cost Sony 14 billion yen ($172 million), and it took the networks -- for downloading and playing games, movies, and music -- offline for about a month before bringing them back up.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

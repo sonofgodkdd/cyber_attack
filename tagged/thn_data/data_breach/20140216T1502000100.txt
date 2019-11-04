@@ -1,0 +1,12 @@
+Crowd-Funding site Kickstarter Hacked! It's time to change your Password
+Wang Wei
+
+If you have an account at the popular crowd funding site Kickstarter, it's time to change your account's password. Kickstarter's CEO Yancey Strickler says that the company has been hacked by an unknown hacker earlier this week.
+Kickstarter said in a blog post that no credit card information was stolen in Data Breach, but users' personal information has been compromised and they also haven't found evidence of unauthorized activities on accounts.
+Data accessed and stolen by hackers included usernames, email addresses, mailing addresses, phone numbers and encrypted passwords of the users. Facebook usernames and logins were not compromised for those who use that log-in system to get on Kickstarter.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a Kickstarter's team member, the older users’ passwords were encrypted using salted SHA1 and newer users' passwords are encrypted with a stronger hashing algorithm called ‘bcrypt’.
+Hackers could attempt to crack the encrypted passwords, thus providing them access to a password that’s linked to a specific user account. So users are recommended to change their passwords for Kickstarter website and also for any other accounts that using the same password. "To change your password, log in to your Kickstarter account and look for the banner at the top of the page to create a new, secure password."
+Kickstarter did not say how many accounts were compromised, but the site has more than 5.9 million registered users.
+"Upon learning this, we immediately closed the security breach and began strengthening security measures throughout the Kickstarter system." Yancey Strickler said.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

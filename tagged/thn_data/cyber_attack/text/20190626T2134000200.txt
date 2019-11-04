@@ -1,0 +1,19 @@
+Two Florida Cities Paid $1.1 Million to Ransomware Hackers This Month
+Mohit Kumar
+
+In the last two weeks, Florida has paid more than $1.1 million in bitcoin to cybercriminals to recover encrypted files from two separate ransomware attacks—one against Riviera Beach and the other against Lake City.
+Lake City, a city in northern Florida, agreed on Monday to pay hackers 42 Bitcoin (equivalent to $573,300 at the current value) to unlock phone and email systems following a ransomware attack that crippled its computer systems for two weeks.
+The ransomware attack, dubbed "Triple Threat" since it combines three different methods of attack to target network systems, infected Lake City systems on June 10 after an employee in city hall opened a malicious email.
+Though the IT staff disconnected computers within just 10 minutes of the cyber attack starting, it was too late. The attack locked down the city workers' email accounts and servers.
+  (adsbygoogle = window.adsbygoogle || []).push({});  
+Since the police and fire departments operate on a different server, they were the only ones not impacted by the attack. While other Lake City networks are currently disabled, Public Safety services remain unaffected by this attack.
+The unknown hackers contacted the city's insurer and negotiated ransom payment of 42 bitcoins, currently $573,300. Lake City officials voted on Monday to pay the ransom to regain access to their important files.
+The ransom payment would be mostly covered by insurance, although $10,000 would be incurred by taxpayers.
+"Our systems are shut down, but there is no evidence to indicate any sensitive data has been compromised. All customer service payment data, such as credit card data, is stored off-site by third-party vendors and would not have been accessed by an attack like this on our network," said City Information Technology Director Brian Hawkins.
+Lake City is the second city in Florida recently being hit by a ransomware attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Riviera Beach, another city in Florida, became a victim of a ransomware attack on May 29 after a city employee clicked on a malicious link in an email, according to local media reports.
+The ransomware attack crippled the city's computer systems for at least three weeks after which the Riviera Beach City Council authorized the city's insurer to pay a ransom of 65 Bitcoin ($897,650 at today's value) to regain access to their locked systems.
+Federal authorities and cybersecurity experts have always advised victims not to pay ransoms since it encourages cybercriminals, and also there's no guarantee of your files or computer systems being completely restored.
+Instead of paying hackers a ransom, organisations, and companies should have robust backups of their important and required files and data as well as educate their employees to avoid being a victim of any cyber attack.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

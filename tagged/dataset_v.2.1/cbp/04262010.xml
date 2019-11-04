@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Scientist Featured for Forensic Work
+Forensic Geology Key in Solving Case
+(Monday, April 26, 2010)
+Washington  - A U.S. Customs and Border Protection scientist will be featured in the Investigation Discovery channel series "Solved: Extreme Forensics" for his role in aiding the Warren County Sheriff's Office in solving the murder of a Virginia man. The show airs tonight at 9 p.m., check your local listings for details.
+Captain Jay Cornett of the Warren County Sheriff's Office contacted Dr. Erich Junger after recalling a presentation the doctor gave to the Virginia Homicide Investigator's Association. The detective asked Dr. Junger to examine soils from the suspect's vehicle. The two coordinated the collection and analysis of the soil samples to aid in the investigation of the case.
+Forensic Geology is the science of utilizing various geologic disciplines such as mineralogy, petrology, sedimentology, geological engineering, or hydrology in criminal and civil investigations. It is utilized in a wide spectrum of investigations, including crime scene investigation and reconstruction, identification of source contaminations in HAZMAT and other environmental crises, and used in conjunction with other disciplines to determine the cause of engineering failures. Forensic Geology is used by CBP to track smuggled goods and contraband, as well as determine Country of Origin for gemstones and other commercial geologic materials.
+Erich P. Junger, Ph.D., is a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985. Dr. Junger went on to complete his Master of Science from the University of New Haven in 1990 and a Doctor of Philosophy degree in forensic science from the Union Institute and University in 1994. Dr. Junger has served as a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C. before retiring from the military. He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau. He retired from the department in October, 2009. Dr. Junger is currently a scientist for CBP.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="1" end="14" text="CBP Scientist" TYPE="BAR" />
+<person id="p1" start="118" end="164" text="A U.S. Customs and Border Protection scientist" TYPE="NOM" />
+<person id="p2" start="260" end="263" text="his" TYPE="PRO" />
+<person id="p3" start="279" end="304" text="the Warren County Sheriff" TYPE="NOM" />
+<person id="p4" start="339" end="353" text="a Virginia man" TYPE="NOM" />
+<person id="p5" start="394" end="398" text="your" TYPE="PRO" />
+<person id="p6" start="427" end="484" text="Captain Jay Cornett of the Warren County Sheriff's Office" TYPE="NAM" />
+<person id="p7" start="427" end="434" text="Captain" TYPE="NOMPRE" />
+<person id="p8" start="450" end="475" text="the Warren County Sheriff" TYPE="NOM" />
+<person id="p9" start="495" end="511" text="Dr. Erich Junger" TYPE="NAM" />
+<person id="p10" start="495" end="498" text="Dr." TYPE="NOMPRE" />
+<person id="p11" start="543" end="553" text="the doctor" TYPE="NOM" />
+<person id="p12" start="612" end="625" text="The detective" TYPE="NOM" />
+<person id="p13" start="632" end="642" text="Dr. Junger" TYPE="NAM" />
+<person id="p14" start="632" end="635" text="Dr." TYPE="NOMPRE" />
+<person id="p15" start="665" end="676" text="the suspect" TYPE="NOM" />
+<person id="p16" start="688" end="695" text="The two" TYPE="HLS" />
+<person id="p17" start="1444" end="1466" text="Erich P. Junger, Ph.D." TYPE="NAM" />
+<person id="p18" start="1471" end="1658" text="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" TYPE="NOM" />
+<person id="p19" start="1590" end="1592" text="he" TYPE="PRO" />
+<person id="p20" start="1603" end="1606" text="his" TYPE="PRO" />
+<person id="p21" start="1618" end="1650" text="a health physicist and anatomist" TYPE="NOM" />
+<person id="p22" start="1618" end="1650" text="a health physicist and anatomist" TYPE="NOM" />
+<person id="p23" start="1660" end="1670" text="Dr. Junger" TYPE="NAM" />
+<person id="p24" start="1660" end="1663" text="Dr." TYPE="NOMPRE" />
+<person id="p25" start="1691" end="1694" text="his" TYPE="PRO" />
+<person id="p26" start="1857" end="1867" text="Dr. Junger" TYPE="NAM" />
+<person id="p27" start="1857" end="1860" text="Dr." TYPE="NOMPRE" />
+<person id="p29" start="1882" end="2024" text="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." TYPE="NOM" />
+<person id="p30" start="1882" end="2024" text="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." TYPE="NOM" />
+<person id="p31" start="2060" end="2062" text="He" TYPE="PRO" />
+<person id="p32" start="2078" end="2142" text="a detective for the Fauquier County Sheriff's Office in Virginia" TYPE="NOM" />
+<person id="p33" start="2094" end="2121" text="the Fauquier County Sheriff" TYPE="NOM" />
+<person id="p34" start="2213" end="2263" text="a crime scene analyst in the identification bureau" TYPE="NOM" />
+<person id="p35" start="2265" end="2267" text="He" TYPE="PRO" />
+<person id="p36" start="2314" end="2324" text="Dr. Junger" TYPE="NAM" />
+<person id="p37" start="2314" end="2317" text="Dr." TYPE="NOMPRE" />
+<person id="p38" start="2338" end="2357" text="a scientist for CBP" TYPE="NOM" />
+<organization id="o0" start="1" end="4" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="120" end="154" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="279" end="313" text="the Warren County Sheriff's Office" TYPE="NOM" />
+<organization id="o3" start="450" end="484" text="the Warren County Sheriff's Office" TYPE="NOM" />
+<organization id="o4" start="562" end="610" text="the Virginia Homicide Investigator's Association" TYPE="NAM" />
+<organization id="o5" start="1306" end="1309" text="CBP" TYPE="NAM" />
+<organization id="o6" start="1492" end="1505" text="the U.S. Navy" TYPE="NAM" />
+<organization id="o8" start="1532" end="1658" text="the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" TYPE="NAM" />
+<organization id="o9" start="1584" end="1589" text="where" TYPE="WHQ" />
+<organization id="o10" start="1718" end="1745" text="the University of New Haven" TYPE="NAM" />
+<organization id="o11" start="1813" end="1847" text="the Union Institute and University" TYPE="NAM" />
+<organization id="o14" start="1921" end="2024" text="the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." TYPE="NAM" />
+<organization id="o15" start="2046" end="2058" text="the military" TYPE="NOM" />
+<organization id="o16" start="2094" end="2142" text="the Fauquier County Sheriff's Office in Virginia" TYPE="NOM" />
+<organization id="o17" start="2158" end="2201" text="the Prince William County Police Department" TYPE="NAM" />
+<organization id="o18" start="2281" end="2295" text="the department" TYPE="NOM" />
+<organization id="o19" start="2354" end="2357" text="CBP" TYPE="NAM" />
+<organization id="o7" start="2238" end="2263" text="the identification bureau" TYPE="NOM" />
+<geographical-political id="g0" start="104" end="114" text="Washington" TYPE="NAM" />
+<geographical-political id="g1" start="283" end="296" text="Warren County" TYPE="NAMPRE" />
+<geographical-political id="g2" start="341" end="349" text="Virginia" TYPE="NAMPRE" />
+<geographical-political id="g3" start="454" end="467" text="Warren County" TYPE="NAMPRE" />
+<geographical-political id="g4" start="1371" end="1388" text="Country of Origin" TYPE="BAR" />
+<geographical-political id="g5" start="2008" end="2024" text="Washington, D.C." TYPE="NAM" />
+<geographical-political id="g6" start="2098" end="2113" text="Fauquier County" TYPE="NAMPRE" />
+<geographical-political id="g7" start="2134" end="2142" text="Virginia" TYPE="NAM" />
+<head id="h0" start="5" end="14" text="Scientist" />
+<head id="h1" start="1" end="4" text="CBP" />
+<head id="h2" start="104" end="114" text="Washington" />
+<head id="h3" start="155" end="164" text="scientist" />
+<head id="h4" start="120" end="154" text="U.S. Customs and Border Protection" />
+<head id="h5" start="260" end="263" text="his" />
+<head id="h6" start="307" end="313" text="Office" />
+<head id="h7" start="297" end="304" text="Sheriff" />
+<head id="h8" start="283" end="296" text="Warren County" />
+<head id="h9" start="350" end="353" text="man" />
+<head id="h10" start="341" end="349" text="Virginia" />
+<head id="h11" start="394" end="398" text="your" />
+<head id="h12" start="435" end="446" text="Jay Cornett" />
+<head id="h13" start="427" end="434" text="Captain" />
+<head id="h14" start="478" end="484" text="Office" />
+<head id="h15" start="468" end="475" text="Sheriff" />
+<head id="h16" start="454" end="467" text="Warren County" />
+<head id="h17" start="499" end="511" text="Erich Junger" />
+<head id="h18" start="495" end="498" text="Dr." />
+<head id="h19" start="547" end="553" text="doctor" />
+<head id="h20" start="566" end="610" text="Virginia Homicide Investigator's Association" />
+<head id="h21" start="616" end="625" text="detective" />
+<head id="h22" start="636" end="642" text="Junger" />
+<head id="h23" start="632" end="635" text="Dr." />
+<head id="h24" start="669" end="676" text="suspect" />
+<head id="h25" start="692" end="695" text="two" />
+<head id="h26" start="1306" end="1309" text="CBP" />
+<head id="h27" start="1371" end="1378" text="Country" />
+<head id="h28" start="1444" end="1459" text="Erich P. Junger" />
+<head id="h29" start="1481" end="1488" text="veteran" />
+<head id="h30" start="1496" end="1505" text="U.S. Navy" />
+<head id="h31" start="1536" end="1583" text="George Washington University School of Medicine" />
+<head id="h32" start="1584" end="1589" text="where" />
+<head id="h33" start="1590" end="1592" text="he" />
+<head id="h34" start="1603" end="1606" text="his" />
+<head id="h35" start="1627" end="1636" text="physicist" />
+<head id="h36" start="1641" end="1650" text="anatomist" />
+<head id="h37" start="1664" end="1670" text="Junger" />
+<head id="h38" start="1660" end="1663" text="Dr." />
+<head id="h39" start="1691" end="1694" text="his" />
+<head id="h40" start="1722" end="1745" text="University of New Haven" />
+<head id="h41" start="1817" end="1847" text="Union Institute and University" />
+<head id="h42" start="1861" end="1867" text="Junger" />
+<head id="h43" start="1857" end="1860" text="Dr." />
+<head id="h44" start="1899" end="1907" text="examiner" />
+<head id="h45" start="1912" end="1917" text="chief" />
+<head id="h48" start="1925" end="2004" text="trace materials analysis laboratory for the Armed Forces Institute of Pathology" />
+<head id="h49" start="2008" end="2024" text="Washington, D.C." />
+<head id="h50" start="2050" end="2058" text="military" />
+<head id="h51" start="2060" end="2062" text="He" />
+<head id="h52" start="2080" end="2089" text="detective" />
+<head id="h53" start="2124" end="2130" text="Office" />
+<head id="h54" start="2114" end="2121" text="Sheriff" />
+<head id="h55" start="2098" end="2113" text="Fauquier County" />
+<head id="h56" start="2134" end="2142" text="Virginia" />
+<head id="h57" start="2162" end="2201" text="Prince William County Police Department" />
+<head id="h58" start="2227" end="2234" text="analyst" />
+<head id="h59" start="2265" end="2267" text="He" />
+<head id="h60" start="2285" end="2295" text="department" />
+<head id="h61" start="2318" end="2324" text="Junger" />
+<head id="h62" start="2314" end="2317" text="Dr." />
+<head id="h63" start="2340" end="2349" text="scientist" />
+<head id="h64" start="2354" end="2357" text="CBP" />
+<head id="h46" start="2257" end="2263" text="bureau" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="104" end="114" text="Washington" />
+<name id="n2" start="120" end="154" text="U.S. Customs and Border Protection" />
+<name id="n3" start="283" end="296" text="Warren County" />
+<name id="n4" start="341" end="349" text="Virginia" />
+<name id="n5" start="435" end="446" text="Jay Cornett" />
+<name id="n6" start="454" end="467" text="Warren County" />
+<name id="n7" start="499" end="511" text="Erich Junger" />
+<name id="n8" start="566" end="610" text="Virginia Homicide Investigator's Association" />
+<name id="n9" start="636" end="642" text="Junger" />
+<name id="n10" start="1306" end="1309" text="CBP" />
+<name id="n11" start="1444" end="1459" text="Erich P. Junger" />
+<name id="n12" start="1496" end="1505" text="U.S. Navy" />
+<name id="n13" start="1536" end="1583" text="George Washington University School of Medicine" />
+<name id="n14" start="1664" end="1670" text="Junger" />
+<name id="n15" start="1722" end="1745" text="University of New Haven" />
+<name id="n16" start="1817" end="1847" text="Union Institute and University" />
+<name id="n17" start="1861" end="1867" text="Junger" />
+<name id="n21" start="1925" end="2004" text="trace materials analysis laboratory for the Armed Forces Institute of Pathology" />
+<name id="n22" start="2008" end="2024" text="Washington, D.C." />
+<name id="n23" start="2098" end="2113" text="Fauquier County" />
+<name id="n24" start="2134" end="2142" text="Virginia" />
+<name id="n25" start="2162" end="2201" text="Prince William County Police Department" />
+<name id="n26" start="2318" end="2324" text="Junger" />
+<name id="n27" start="2354" end="2357" text="CBP" />
+<employment-mention id="e2" start="279" end="304" text="the Warren County Sheriff" TYPE="PreMod" />
+<employment-mention id="e3" start="450" end="475" text="the Warren County Sheriff" TYPE="PreMod" />
+<employment-mention id="e6" start="1882" end="2024" text="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." TYPE="Preposition" />
+<employment-mention id="e7" start="1882" end="2024" text="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." TYPE="Preposition" />
+<employment-mention id="e8" start="2094" end="2121" text="the Fauquier County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="339" end="353" text="a Virginia man" TYPE="PreMod" />
+<M id="M0" start="279" end="313" text="the Warren County Sheriff's Office" TYPE="Possessive" />
+<M id="M1" start="450" end="484" text="the Warren County Sheriff's Office" TYPE="Possessive" />
+<M id="M2" start="2094" end="2142" text="the Fauquier County Sheriff's Office in Virginia" TYPE="Possessive" />
+<M id="M3" start="2213" end="2263" text="a crime scene analyst in the identification bureau" TYPE="Preposition" />
+<M id="M4" start="1" end="14" text="CBP Scientist" TYPE="Other" />
+<M id="M5" start="118" end="164" text="A U.S. Customs and Border Protection scientist" TYPE="Other" />
+<M id="M6" start="427" end="484" text="Captain Jay Cornett of the Warren County Sheriff's Office" TYPE="Other" />
+<M id="M7" start="1471" end="1658" text="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" TYPE="Other" />
+<M id="M8" start="2078" end="2142" text="a detective for the Fauquier County Sheriff's Office in Virginia" TYPE="Other" />
+<M id="M9" start="2060" end="2263" text="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" TYPE="Other" />
+<M id="M10" start="2060" end="2263" text="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" TYPE="Other" />
+<M id="M11" start="2265" end="2312" text="He retired from the department in October, 2009" TYPE="Other" />
+<M id="M12" start="2338" end="2357" text="a scientist for CBP" TYPE="Other" />
+<M id="M13" start="1857" end="2058" text="Dr. Junger has served as a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C. before retiring from the military" TYPE="Other" />
+<entity_link id="en0" fromID="p1" fromText="A U.S. Customs and Border Protection scientist" toID="p0" toText="CBP Scientist" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP" />
+<entity_link id="en2" fromID="p2" fromText="his" toID="p1" toText="A U.S. Customs and Border Protection scientist" />
+<entity_link id="en3" fromID="p7" fromText="Captain" toID="p6" toText="Captain Jay Cornett of the Warren County Sheriff's Office" />
+<entity_link id="en4" fromID="o3" fromText="the Warren County Sheriff's Office" toID="o2" toText="the Warren County Sheriff's Office" />
+<entity_link id="en5" fromID="p8" fromText="the Warren County Sheriff" toID="p3" toText="the Warren County Sheriff" />
+<entity_link id="en6" fromID="g3" fromText="Warren County" toID="g1" toText="Warren County" />
+<entity_link id="en7" fromID="p9" fromText="Dr. Erich Junger" toID="p1" toText="A U.S. Customs and Border Protection scientist" />
+<entity_link id="en8" fromID="p10" fromText="Dr." toID="p9" toText="Dr. Erich Junger" />
+<entity_link id="en9" fromID="p11" fromText="the doctor" toID="p9" toText="Dr. Erich Junger" />
+<entity_link id="en10" fromID="p12" fromText="The detective" toID="p6" toText="Captain Jay Cornett of the Warren County Sheriff's Office" />
+<entity_link id="en11" fromID="p14" fromText="Dr." toID="p13" toText="Dr. Junger" />
+<entity_link id="en12" fromID="o5" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en13" fromID="p17" fromText="Erich P. Junger, Ph.D." toID="p13" toText="Dr. Junger" />
+<entity_link id="en14" fromID="p18" fromText="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="p17" toText="Erich P. Junger, Ph.D." />
+<entity_link id="en15" fromID="o9" fromText="where" toID="o8" toText="the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" />
+<entity_link id="en16" fromID="p19" fromText="he" toID="p17" toText="Erich P. Junger, Ph.D." />
+<entity_link id="en17" fromID="p20" fromText="his" toID="p19" toText="he" />
+<entity_link id="en18" fromID="p21" fromText="a health physicist and anatomist" toID="p20" toText="his" />
+<entity_link id="en19" fromID="p22" fromText="a health physicist and anatomist" toID="p21" toText="a health physicist and anatomist" />
+<entity_link id="en20" fromID="p23" fromText="Dr. Junger" toID="p17" toText="Erich P. Junger, Ph.D." />
+<entity_link id="en21" fromID="p24" fromText="Dr." toID="p23" toText="Dr. Junger" />
+<entity_link id="en22" fromID="p25" fromText="his" toID="p23" toText="Dr. Junger" />
+<entity_link id="en23" fromID="p26" fromText="Dr. Junger" toID="p23" toText="Dr. Junger" />
+<entity_link id="en24" fromID="p27" fromText="Dr." toID="p26" toText="Dr. Junger" />
+<entity_link id="en26" fromID="p29" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="p26" toText="Dr. Junger" />
+<entity_link id="en27" fromID="p30" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="p29" toText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." />
+<entity_link id="en28" fromID="p31" fromText="He" toID="p26" toText="Dr. Junger" />
+<entity_link id="en29" fromID="p32" fromText="a detective for the Fauquier County Sheriff's Office in Virginia" toID="p31" toText="He" />
+<entity_link id="en30" fromID="g7" fromText="Virginia" toID="g2" toText="Virginia" />
+<entity_link id="en31" fromID="p34" fromText="a crime scene analyst in the identification bureau" toID="p31" toText="He" />
+<entity_link id="en32" fromID="p35" fromText="He" toID="p31" toText="He" />
+<entity_link id="en33" fromID="o18" fromText="the department" toID="o17" toText="the Prince William County Police Department" />
+<entity_link id="en34" fromID="p36" fromText="Dr. Junger" toID="p35" toText="He" />
+<entity_link id="en35" fromID="p37" fromText="Dr." toID="p36" toText="Dr. Junger" />
+<entity_link id="en36" fromID="p38" fromText="a scientist for CBP" toID="p36" toText="Dr. Junger" />
+<entity_link id="en37" fromID="o19" fromText="CBP" toID="o5" toText="CBP" />
+<head_link id="he0" fromID="p0" fromText="CBP Scientist" toID="h0" toText="Scientist" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="g0" fromText="Washington" toID="h2" toText="Washington" />
+<head_link id="he3" fromID="p1" fromText="A U.S. Customs and Border Protection scientist" toID="h3" toText="scientist" />
+<head_link id="he4" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h4" toText="U.S. Customs and Border Protection" />
+<head_link id="he5" fromID="p2" fromText="his" toID="h5" toText="his" />
+<head_link id="he6" fromID="o2" fromText="the Warren County Sheriff's Office" toID="h6" toText="Office" />
+<head_link id="he7" fromID="p3" fromText="the Warren County Sheriff" toID="h7" toText="Sheriff" />
+<head_link id="he8" fromID="g1" fromText="Warren County" toID="h8" toText="Warren County" />
+<head_link id="he9" fromID="p4" fromText="a Virginia man" toID="h9" toText="man" />
+<head_link id="he10" fromID="g2" fromText="Virginia" toID="h10" toText="Virginia" />
+<head_link id="he11" fromID="p5" fromText="your" toID="h11" toText="your" />
+<head_link id="he12" fromID="p6" fromText="Captain Jay Cornett of the Warren County Sheriff's Office" toID="h12" toText="Jay Cornett" />
+<head_link id="he13" fromID="p7" fromText="Captain" toID="h13" toText="Captain" />
+<head_link id="he14" fromID="o3" fromText="the Warren County Sheriff's Office" toID="h14" toText="Office" />
+<head_link id="he15" fromID="p8" fromText="the Warren County Sheriff" toID="h15" toText="Sheriff" />
+<head_link id="he16" fromID="g3" fromText="Warren County" toID="h16" toText="Warren County" />
+<head_link id="he17" fromID="p9" fromText="Dr. Erich Junger" toID="h17" toText="Erich Junger" />
+<head_link id="he18" fromID="p10" fromText="Dr." toID="h18" toText="Dr." />
+<head_link id="he19" fromID="p11" fromText="the doctor" toID="h19" toText="doctor" />
+<head_link id="he20" fromID="o4" fromText="the Virginia Homicide Investigator's Association" toID="h20" toText="Virginia Homicide Investigator's Association" />
+<head_link id="he21" fromID="p12" fromText="The detective" toID="h21" toText="detective" />
+<head_link id="he22" fromID="p13" fromText="Dr. Junger" toID="h22" toText="Junger" />
+<head_link id="he23" fromID="p14" fromText="Dr." toID="h23" toText="Dr." />
+<head_link id="he24" fromID="p15" fromText="the suspect" toID="h24" toText="suspect" />
+<head_link id="he25" fromID="p16" fromText="The two" toID="h25" toText="two" />
+<head_link id="he26" fromID="o5" fromText="CBP" toID="h26" toText="CBP" />
+<head_link id="he27" fromID="g4" fromText="Country of Origin" toID="h27" toText="Country" />
+<head_link id="he28" fromID="p17" fromText="Erich P. Junger, Ph.D." toID="h28" toText="Erich P. Junger" />
+<head_link id="he29" fromID="p18" fromText="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="h29" toText="veteran" />
+<head_link id="he30" fromID="o6" fromText="the U.S. Navy" toID="h30" toText="U.S. Navy" />
+<head_link id="he32" fromID="o8" fromText="the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="h31" toText="George Washington University School of Medicine" />
+<head_link id="he33" fromID="o9" fromText="where" toID="h32" toText="where" />
+<head_link id="he34" fromID="p19" fromText="he" toID="h33" toText="he" />
+<head_link id="he35" fromID="p20" fromText="his" toID="h34" toText="his" />
+<head_link id="he36" fromID="p21" fromText="a health physicist and anatomist" toID="h35" toText="physicist" />
+<head_link id="he37" fromID="p22" fromText="a health physicist and anatomist" toID="h36" toText="anatomist" />
+<head_link id="he38" fromID="p23" fromText="Dr. Junger" toID="h37" toText="Junger" />
+<head_link id="he39" fromID="p24" fromText="Dr." toID="h38" toText="Dr." />
+<head_link id="he40" fromID="p25" fromText="his" toID="h39" toText="his" />
+<head_link id="he41" fromID="o10" fromText="the University of New Haven" toID="h40" toText="University of New Haven" />
+<head_link id="he42" fromID="o11" fromText="the Union Institute and University" toID="h41" toText="Union Institute and University" />
+<head_link id="he43" fromID="p26" fromText="Dr. Junger" toID="h42" toText="Junger" />
+<head_link id="he44" fromID="p27" fromText="Dr." toID="h43" toText="Dr." />
+<head_link id="he46" fromID="p29" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="h44" toText="examiner" />
+<head_link id="he47" fromID="p30" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="h45" toText="chief" />
+<head_link id="he50" fromID="o14" fromText="the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="h48" toText="trace materials analysis laboratory for the Armed Forces Institute of Pathology" />
+<head_link id="he51" fromID="g5" fromText="Washington, D.C." toID="h49" toText="Washington, D.C." />
+<head_link id="he52" fromID="o15" fromText="the military" toID="h50" toText="military" />
+<head_link id="he53" fromID="p31" fromText="He" toID="h51" toText="He" />
+<head_link id="he54" fromID="p32" fromText="a detective for the Fauquier County Sheriff's Office in Virginia" toID="h52" toText="detective" />
+<head_link id="he55" fromID="o16" fromText="the Fauquier County Sheriff's Office in Virginia" toID="h53" toText="Office" />
+<head_link id="he56" fromID="p33" fromText="the Fauquier County Sheriff" toID="h54" toText="Sheriff" />
+<head_link id="he57" fromID="g6" fromText="Fauquier County" toID="h55" toText="Fauquier County" />
+<head_link id="he58" fromID="g7" fromText="Virginia" toID="h56" toText="Virginia" />
+<head_link id="he59" fromID="o17" fromText="the Prince William County Police Department" toID="h57" toText="Prince William County Police Department" />
+<head_link id="he60" fromID="p34" fromText="a crime scene analyst in the identification bureau" toID="h58" toText="analyst" />
+<head_link id="he61" fromID="p35" fromText="He" toID="h59" toText="He" />
+<head_link id="he62" fromID="o18" fromText="the department" toID="h60" toText="department" />
+<head_link id="he63" fromID="p36" fromText="Dr. Junger" toID="h61" toText="Junger" />
+<head_link id="he64" fromID="p37" fromText="Dr." toID="h62" toText="Dr." />
+<head_link id="he65" fromID="p38" fromText="a scientist for CBP" toID="h63" toText="scientist" />
+<head_link id="he66" fromID="o19" fromText="CBP" toID="h64" toText="CBP" />
+<head_link id="he31" fromID="o7" fromText="the identification bureau" toID="h46" toText="bureau" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Washington" toID="n1" toText="Washington" />
+<name_link id="na2" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n2" toText="U.S. Customs and Border Protection" />
+<name_link id="na3" fromID="g1" fromText="Warren County" toID="n3" toText="Warren County" />
+<name_link id="na4" fromID="g2" fromText="Virginia" toID="n4" toText="Virginia" />
+<name_link id="na5" fromID="p6" fromText="Captain Jay Cornett of the Warren County Sheriff's Office" toID="n5" toText="Jay Cornett" />
+<name_link id="na6" fromID="g3" fromText="Warren County" toID="n6" toText="Warren County" />
+<name_link id="na7" fromID="p9" fromText="Dr. Erich Junger" toID="n7" toText="Erich Junger" />
+<name_link id="na8" fromID="o4" fromText="the Virginia Homicide Investigator's Association" toID="n8" toText="Virginia Homicide Investigator's Association" />
+<name_link id="na9" fromID="p13" fromText="Dr. Junger" toID="n9" toText="Junger" />
+<name_link id="na10" fromID="o5" fromText="CBP" toID="n10" toText="CBP" />
+<name_link id="na11" fromID="p17" fromText="Erich P. Junger, Ph.D." toID="n11" toText="Erich P. Junger" />
+<name_link id="na12" fromID="o6" fromText="the U.S. Navy" toID="n12" toText="U.S. Navy" />
+<name_link id="na14" fromID="o8" fromText="the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="n13" toText="George Washington University School of Medicine" />
+<name_link id="na15" fromID="p23" fromText="Dr. Junger" toID="n14" toText="Junger" />
+<name_link id="na16" fromID="o10" fromText="the University of New Haven" toID="n15" toText="University of New Haven" />
+<name_link id="na17" fromID="o11" fromText="the Union Institute and University" toID="n16" toText="Union Institute and University" />
+<name_link id="na18" fromID="p26" fromText="Dr. Junger" toID="n17" toText="Junger" />
+<name_link id="na21" fromID="o14" fromText="the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="n21" toText="trace materials analysis laboratory for the Armed Forces Institute of Pathology" />
+<name_link id="na22" fromID="g5" fromText="Washington, D.C." toID="n22" toText="Washington, D.C." />
+<name_link id="na23" fromID="g6" fromText="Fauquier County" toID="n23" toText="Fauquier County" />
+<name_link id="na24" fromID="g7" fromText="Virginia" toID="n24" toText="Virginia" />
+<name_link id="na25" fromID="o17" fromText="the Prince William County Police Department" toID="n25" toText="Prince William County Police Department" />
+<name_link id="na26" fromID="p36" fromText="Dr. Junger" toID="n26" toText="Junger" />
+<name_link id="na27" fromID="o19" fromText="CBP" toID="n27" toText="CBP" />
+<relation_link1 id="r0" fromID="M4" fromText="CBP Scientist" toID="p0" toText="CBP Scientist" />
+<relation_link1 id="r1" fromID="M5" fromText="A U.S. Customs and Border Protection scientist" toID="p1" toText="A U.S. Customs and Border Protection scientist" />
+<relation_link1 id="r2" fromID="e2" fromText="the Warren County Sheriff" toID="p3" toText="the Warren County Sheriff" />
+<relation_link1 id="r3" fromID="e3" fromText="the Warren County Sheriff" toID="p8" toText="the Warren County Sheriff" />
+<relation_link1 id="r4" fromID="M6" fromText="Captain Jay Cornett of the Warren County Sheriff's Office" toID="p6" toText="Captain Jay Cornett of the Warren County Sheriff's Office" />
+<relation_link1 id="r5" fromID="M7" fromText="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="p18" toText="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" />
+<relation_link1 id="r6" fromID="e6" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="p29" toText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." />
+<relation_link1 id="r7" fromID="e7" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="p30" toText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." />
+<relation_link1 id="r8" fromID="e8" fromText="the Fauquier County Sheriff" toID="p33" toText="the Fauquier County Sheriff" />
+<relation_link1 id="r9" fromID="M8" fromText="a detective for the Fauquier County Sheriff's Office in Virginia" toID="p32" toText="a detective for the Fauquier County Sheriff's Office in Virginia" />
+<relation_link1 id="r10" fromID="M9" fromText="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" toID="p31" toText="He" />
+<relation_link1 id="r11" fromID="M10" fromText="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" toID="p34" toText="a crime scene analyst in the identification bureau" />
+<relation_link1 id="r12" fromID="M11" fromText="He retired from the department in October, 2009" toID="p35" toText="He" />
+<relation_link1 id="r13" fromID="M12" fromText="a scientist for CBP" toID="p38" toText="a scientist for CBP" />
+<relation_link1 id="r14" fromID="M13" fromText="Dr. Junger has served as a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C. before retiring from the military" toID="p26" toText="Dr. Junger" />
+<relation_link1 id="r15" fromID="C0" fromText="a Virginia man" toID="p4" toText="a Virginia man" />
+<relation_link1 id="r16" fromID="M0" fromText="the Warren County Sheriff's Office" toID="p3" toText="the Warren County Sheriff" />
+<relation_link1 id="r17" fromID="M1" fromText="the Warren County Sheriff's Office" toID="p8" toText="the Warren County Sheriff" />
+<relation_link1 id="r18" fromID="M2" fromText="the Fauquier County Sheriff's Office in Virginia" toID="p33" toText="the Fauquier County Sheriff" />
+<relation_link1 id="r19" fromID="M3" fromText="a crime scene analyst in the identification bureau" toID="p34" toText="a crime scene analyst in the identification bureau" />
+<relation_link2 id="re0" fromID="M4" fromText="CBP Scientist" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="M5" fromText="A U.S. Customs and Border Protection scientist" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re2" fromID="e2" fromText="the Warren County Sheriff" toID="g1" toText="Warren County" />
+<relation_link2 id="re3" fromID="e3" fromText="the Warren County Sheriff" toID="g3" toText="Warren County" />
+<relation_link2 id="re4" fromID="M6" fromText="Captain Jay Cornett of the Warren County Sheriff's Office" toID="o3" toText="the Warren County Sheriff's Office" />
+<relation_link2 id="re5" fromID="M7" fromText="a 20-year veteran of the U.S. Navy, graduated cum laude from the George Washington University School of Medicine where he completed his studies as a health physicist and anatomist in 1985" toID="o6" toText="the U.S. Navy" />
+<relation_link2 id="re6" fromID="e6" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="o14" toText="the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." />
+<relation_link2 id="re7" fromID="e7" fromText="a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." toID="o14" toText="the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C." />
+<relation_link2 id="re8" fromID="e8" fromText="the Fauquier County Sheriff" toID="g6" toText="Fauquier County" />
+<relation_link2 id="re9" fromID="M8" fromText="a detective for the Fauquier County Sheriff's Office in Virginia" toID="o16" toText="the Fauquier County Sheriff's Office in Virginia" />
+<relation_link2 id="re10" fromID="M9" fromText="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" toID="o17" toText="the Prince William County Police Department" />
+<relation_link2 id="re11" fromID="M10" fromText="He then served as a detective for the Fauquier County Sheriff's Office in Virginia before joining the Prince William County Police Department in 2005 as a crime scene analyst in the identification bureau" toID="o17" toText="the Prince William County Police Department" />
+<relation_link2 id="re12" fromID="M11" fromText="He retired from the department in October, 2009" toID="o18" toText="the department" />
+<relation_link2 id="re13" fromID="M12" fromText="a scientist for CBP" toID="o19" toText="CBP" />
+<relation_link2 id="re14" fromID="M13" fromText="Dr. Junger has served as a deputy medical examiner and chief of the trace materials analysis laboratory for the Armed Forces Institute of Pathology in Washington, D.C. before retiring from the military" toID="o15" toText="the military" />
+<relation_link2 id="re15" fromID="C0" fromText="a Virginia man" toID="g2" toText="Virginia" />
+<relation_link2 id="re16" fromID="M0" fromText="the Warren County Sheriff's Office" toID="o2" toText="the Warren County Sheriff's Office" />
+<relation_link2 id="re17" fromID="M1" fromText="the Warren County Sheriff's Office" toID="o3" toText="the Warren County Sheriff's Office" />
+<relation_link2 id="re18" fromID="M2" fromText="the Fauquier County Sheriff's Office in Virginia" toID="o16" toText="the Fauquier County Sheriff's Office in Virginia" />
+<relation_link2 id="re19" fromID="M3" fromText="a crime scene analyst in the identification bureau" toID="o7" toText="the identification bureau" />
+</TAGS>
+</KddTask>

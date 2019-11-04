@@ -1,0 +1,27 @@
+7 New Meltdown and Spectre-type CPU Flaws Affect Intel, AMD, ARM CPUs
+Swati Khandelwal
+
+Disclosed earlier this year, potentially dangerous Meltdown and Spectre vulnerabilities that affected a large family of modern processors proven that speculative execution attacks can be exploited in a trivial way to access highly sensitive information.
+Since then, several more variants of speculative execution attacks have been discovered, including Spectre-NG, SpectreRSB, Spectre 1.1, Spectre1.2, TLBleed, Lazy FP, NetSpectre and Foreshadow, patches for which were released by affected vendors time-to-time.
+Speculative execution is a core component of modern processors design that speculatively executes instructions based on assumptions that are considered likely to be true. If the assumptions come out to be valid, the execution continues, otherwise discarded.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Now, the same team of cybersecurity researchers who discovered original Meltdown and Spectre vulnerabilities have uncovered 7 new transient execution attacks affecting 3 major processor vendors—Intel, AMD, ARM.
+While some of the newly-discovered transient execution attacks are mitigated by existing mitigation techniques for Spectre and Meltdown, others are not.
+"Transient execution attacks leak otherwise inaccessible information via the CPU’s microarchitectural state from instructions which are never committed," the researchers say. 
+"We also systematically evaluated all defenses, discovering that some transient execution attacks are not successfully mitigated by the rolled out patches and others are not mitigated because they have been overlooked."
+Out of 7 newly discovered attacks, as listed below, two are Meltdown variants, named as Meltdown-PK and Meltdown-BR, and other 5 are new Spectre mistraining strategies.
+1. Meltdown-PK (Protection Key Bypass)—On Intel CPUs, an attacker with code execution ability in the containing process can bypass both read and write isolation guarantees enforced through memory-protection keys for userspace.
+2. Meltdown-BR (Bounds Check Bypass)—Intel and AMD x86 processors that ship with Memory Protection eXtensions (MPX) or IA32 bound for efficient array bounds checking can be bypassed to encode out-of-bounds secrets that are never architecturally visible.
+Spectre-PHT (Pattern History Table)
+3. Spectre-PHT-CA-OP (Cross-Address-space Out of Place)—Performing previously disclosed Spectre-PHT attacks within an attacker-controlled address space at a congruent address to the victim branch.
+ 4. Spectre-PHT-SA-IP (Same Address-space In Place)—Performing Spectre-PHT attacks within the same address space and the same branch location that is later on exploited.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+5. Spectre-PHT-SA-OP (Same Address-space Out of Place)—Performing Spectre-PHT attacks within the same address space with a different branch.
+Spectre-BTB (Branch Target Buffer)
+ 6. Spectre-BTB-SA-IP (Same Address-space In Place)—Performing Spectre-BTB attacks within the same address space and the same branch location that is later on exploited.
+7. Spectre-BTB-SA-OP (Same Address-space Out of Place)—Performing Spectre-BTB attacks within the same address space with a different branch.
+Researchers demonstrate all of the above attacks in practical proof-of-concept attacks against processors from Intel, ARM, and AMD. For Spectre-PHT, all vendors have processors that are vulnerable to all four variants of mistraining, they say.
+"We performed a vulnerability assessment for these new attack vectors on Intel, ARM, and AMD. For Intel, we tested our proofs-of-concept on a Skylake i5-6200U and a Haswell i7-4790. Our AMD test machines were a Ryzen 1950X and a Ryzen Threadripper 1920X. For experiments on ARM, a NVIDIA Jetson TX1 has been used," the researchers say.
+Researchers responsibly disclosed their findings to Intel, ARM, and AMD, of which Intel and ARM acknowledged the report. The team also said since the vendors are working to address the issues, they decided to hold their proof-of-concept exploits for some time.
+For in-depth details about the new attacks, you can head on to the research paper titled, "A Systematic Evaluation of Transient Execution Attacks and Defenses," published by the team of researchers today.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

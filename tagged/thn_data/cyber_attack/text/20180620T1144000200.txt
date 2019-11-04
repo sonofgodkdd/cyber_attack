@@ -1,0 +1,20 @@
+OpenBSD Disables Intel Hyper-Threading to Prevent Spectre-Class Attacks
+Swati Khandelwal
+
+Security-oriented BSD operating system OpenBSD has decided to disable support for Intel's hyper-threading performance-boosting feature, citing security concerns over Spectre-style timing attacks.
+Introduced in 2002, Hyper-threading is Intel's implementation of Simultaneous Multi-Threading (SMT) that allows the operating system to use a virtual core for each physical core present in processors in order to improve performance.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Hyper-threading feature comes enabled on computers by default for performance boosting, but in a detailed post published Tuesday, OpenBSD maintainer Mark Kettenis said such processor implementations could lead to Spectre-style timing attacks.
+"SMT (Simultaneous multithreading) implementations typically share TLBs and L1 caches between threads," Kettenis wrote. "This can make cache timing attacks a lot easier, and we strongly suspect that this will make several Spectre-class bugs exploitable."
+In cryptography, side-channel timing attack allows attackers to compromise a system by analyzing the time taken to execute cryptographic algorithms. By measuring the precise time taken for each operation, an attacker can inversely calculate the input values to reveal confidential information.
+Meltdown and Spectre-class vulnerabilities discovered earlier this year would be excellent examples of timing attacks.
+Therefore, to prevent users of the OpenBSD operating system from such previously disclosed, as well as future timing attacks, the OpenBSD project has disabled the hyper-threading feature on Intel processors by default, as part of system hardening.
+What About System Performance?
+You might be thinking, removing this optimization feature could impact the performance of your system negatively, but OpenBSD doesn't think so.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Kettenis believes that switching off SMT will not have any negative effect on the system performance, saying leaving it enabled could actually slow down most compute workloads on CPUs with more than two physical cores.
+Kettenis also stressed that OpenBSD will also disable the built-in SMT feature by default for CPUs from other vendors, like AMD, in the future.
+"We really should not run different security domains on different processor threads of the same core," Kettenis wrote.
+OpenBSD has rolled out a new setting via "hw.smt sysctl" that, by default, disables SMT support, and those who want to leverage simultaneous multithreading feature can manually enable it.
+However, the new toggle feature only available for Intel CPUs running OpenBSD/amd64 for now and soon will be extended to other vendors and hardware architectures.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

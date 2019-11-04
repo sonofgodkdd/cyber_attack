@@ -1,0 +1,45 @@
+Hacker Breaches Dozens of Sites, Puts 127 Million New Records Up for Sale
+Swati Khandelwal
+
+A hacker who was selling details of nearly 620 million online accounts stolen from 16 popular websites has now put up a second batch of 127 million records originating from 8 other sites for sale on the dark web.
+Last week, The Hacker News received an email from a Pakistani hacker who claims to have hacked dozens of popular websites (listed below) and selling their stolen databases online.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+During an interview with The Hacker News, the hacker also claimed that many targeted companies have probably no idea that they have been compromised and that their customers' data have already been sold to multiple cyber criminal groups and individuals.
+Package 1: Databases From 16 Compromised Websites On Sale
+In the first round, the hacker who goes by online alias "gnosticplayers" was selling details of 617 million accounts belonging to the following 16 compromised websites for less than $20,000 in Bitcoin on dark web marketplace Dream Market:
+Dubsmash — 162 million accounts
+MyFitnessPal — 151 million accounts
+MyHeritage — 92 million accounts
+ShareThis — 41 million accounts
+HauteLook — 28 million accounts
+Animoto — 25 million accounts
+EyeEm — 22 million accounts
+8fit — 20 million accounts
+Whitepages — 18 million accounts
+Fotolog — 16 million accounts
+500px — 15 million accounts
+Armor Games — 11 million accounts
+BookMate — 8 million accounts
+CoffeeMeetsBagel — 6 million accounts
+Artsy — 1 million accounts
+DataCamp — 700,000 accounts
+Out of these, the popular photo-sharing service 500px has confirmed that the company suffered a data breach in July last year and that personal data, including full names, usernames, email addresses, password hashes, location, birth date, and gender, for all the roughly 14.8 million users existed at the time was exposed online.
+Just yesterday, Artsy, DataCamp and CoffeeMeetsBagel have also confirmed that the companies were victims of a breach last year and that personal and account details of their customers was stolen by an unauthorized attacker.
+Diet tracking service MyFitnessPal, online genealogy platform MyHeritage and cloud-based video maker service Animoto had confirmed the data breaches last year.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In response to the news, video-sharing app Dubsmash also issued a notice informing its users that they have launched an investigation and contacted law enforcement to look into the matter.
+Package 2: Hacked Databases From 8 More Websites On Sale
+While putting the second round of the stolen accounts up for sale on the Dream Market—one of the largest dark web marketplaces for illegal narcotics and drug paraphernalia—the hacker removed the collection of the first round to avoid them from getting leaked and land on security initiatives like Google's new Password Checkup tool.
+Gnosticplayers told The Hacker News in an email that the second round listed stolen data from 127 million accounts that belonged to the following 8 hacked websites, which was up for sale for $14,500 in bitcoin:
+Houzz — 57 million accounts
+YouNow — 40 million accounts
+Ixigo — 18 million accounts
+Stronghold Kingdoms — 5 million accounts
+Roll20.net — 4 million accounts
+Ge.tt — 1.83 million accounts
+Petflow and Vbulletin forum — 1.5 million accounts
+Coinmama (Cryptocurrency Exchange) — 420,000 accounts 
+Of the above-listed websites, only Houzz has confirmed the security breach earlier this month that compromised its customers' public information and certain internal account information.
+Like the first round, the recent collection of 127 million stolen accounts has also been removed from the sale on the dark web.
+Though some of the services are resetting users' passwords after confirming its data was stolen, if you are a user of any of the above-listed services, you should consider changing your passwords in the event you re-used the same password across different websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

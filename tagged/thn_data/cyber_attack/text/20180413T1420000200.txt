@@ -1,0 +1,25 @@
+Popular Android Phone Manufacturers Caught Lying About Security Updates
+Mohit Kumar
+
+Android ecosystem is highly broken when it comes to security, and device manufacturers (better known as OEMs) make it even worse by not providing critical patches in time.
+According to a new study, most Android vendors have been lying to users about security updates and telling customers that their smartphones are running the latest updates.
+In other words, most smartphone manufacturers including big players like Samsung, Xiaomi, OnePlus, Sony, HTC, LG, and Huawei are not delivering you every critical security patch they're supposed to, a study by Karsten Nohl and Jakob Lell of German security firm Security Research Labs (SRL) revealed.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Nohl and Lell examined the firmware of 1,200 smartphones from over a dozen vendors, for every Android patch released last year, and found that many devices have a "patch gap," leaving parts of the Android ecosystem exposed to hackers.
+"Sometimes these guys just change the date without installing any patches. Probably for marketing reasons, they just set the patch level to almost an arbitrary date, whatever looks best," Nohl says in an interview with Wired.
+Google releases security patches every month to keep its Android ecosystem safe and secure from the underlying risks, but since every manufacturer and mobile carrier modify the operating system to make their smartphone unique, they often fail to apply all those patches in time.
+SRL researchers investigated smartphones that had supposedly received and installed the latest Android updates and released the following breakdown of their findings:
+0-1 missed patches—Google, Sony, Samsung, Wiko Mobile
+1-3 missed patches—Xiaomi, OnePlus, Nokia
+3-4 missed patches—HTC, Huawei, LG, Motorola
+4+ missed patches—TCL, ZTE
+Specifically, the above result focused on security patches for Critical and High severity vulnerabilities that were released in 2017.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+As shown above, Google, Samsung, Wiko Mobile and Sony are still doing great in installing patches, but others, specifically Chinese vendors like Xiaomi and OnePlus are worse in protecting their customers against latest security flaws.
+In order to address the patch gap issue, Google has already launched a project, dubbed Treble, under which the company brought some significant changes to the Android system architecture last year to gain more control over the update process.
+Project Treble was included as part of Android 8.0 Oreo and has been designed to separate core hardware code from the OS code, eliminating OEMs’ dependencies over to deliver Android updates faster.
+However, even if your Android device runs Oreo 8.0 operating system, it's not necessary that it supports Treble project, as it's still up to the device manufacturer to include it. For example, Oreo firmware update for OnePlus devices don't support Treble yet.
+But new devices will be required to support Treble moving forward.
+Check Your Device For ‘Patch Level’
+Meanwhile, SRL has developed an app called SnoopSnitch, which you can download for free, to measure the patch level of your own Android smartphone, helping you verify vendor claims about the security of your devices.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

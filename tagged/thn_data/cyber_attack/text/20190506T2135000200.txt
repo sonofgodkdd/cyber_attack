@@ -1,0 +1,17 @@
+Popular Online Tutoring Marketplace 'Wyzant' Suffers Data Breach
+Swati Khandelwal
+
+Wyzant—an online marketplace that makes it easy for parents and students to connect with private tutors, in-person and online, in over 250 different subjects—has suffered a data breach exposing "certain personal identification information" for its customers.
+The Hacker News received a copy of an email notification Wyzant recently sent to its affected customers, which reveals an unknown attacker was able to gain access to one of its databases on April 27, which the company identified a week after the security incident.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen personal identification information for affected customers includes their first name, last name, email address, zip code, and, for certain customers, their Facebook profile image as well who log-in to the platform using Facebook.
+Wyzant also explicitly made it clear that the stolen data did not include any password, payment information, or record of its customers' activity on the Wyzant platform, and that no other than the above-mentioned data was known to have been accessed.
+Though it is still unclear how many customers were actually hit by the security breach, or if both tutors and students are affected, or what security hole the unknown attackers exploited to get into the company's network, the company did confirm that it has now patched the underlying issue.
+With more than 2 million registered users and over 76,000 active tutors in its database, Wyzant is a decade-old popular tutoring service that bring students and instructors together, online and in-person.
+In response to the security incident, Wyzant says it is performing an extensive audit of its entire network and application security infrastructure and will notify its customers of any significant development. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Wyzant has implemented additional security measures designed to prevent a recurrence of such an attack and to protect the privacy of our valued customers," the company says.
+"This includes reviewing our security processes and protocols. We are also working closely with law enforcement to ensure the incident is properly addressed."
+For affected customers, Wyzant also warned them to beware of potential phishing attacks wherein attackers could use their personal information to trick them into providing additional personal information, such as credit card information or passwords.
+The Hacker News has reached out to the company to know more about the data breach incident and will update this article as soon as we'll hear back from it.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

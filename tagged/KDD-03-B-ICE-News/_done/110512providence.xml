@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+May 12, 2011
+New Jersey sex offender indicted in Rhode Island in child sex case
+PROVIDENCE, R.I. - A New Jersey man with three previous convictions in New Jersey for crimes against children was indicted by a federal grand jury in Providence Wednesday for a variety of federal felony sex crimes. The charges include interstate travel to engage in illicit sexual acts with a minor, enticement of a minor, and distribution of child pornography. The indictment followed a joint investigation involving U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI) and the Rhode Island State Police.
+Donald J. Jones, III, 46, of Pemberton, New Jersey, was named in a six-count indictment announced by U.S. Attorney Peter F. Neronha. Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor.
+According to the New Jersey sex offender registry, Jones is a level two child sex offender convicted in 1993 on charges of aggravated sexual assault and endangering the welfare of a girl under the age of 13.
+According to court documents, an undercover investigation of pedophiles on the Internet began in March 2011, focusing on forums commonly used to chat and trade child pornography. An undercover investigator observed a posting by an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child.
+Posing as a parent, the undercover agent began communicating with Jones, who allegedly transmitted numerous videos containing child pornography. Jones allegedly made arrangements to travel to Rhode Island to have sex with a child.
+An indictment is merely an allegation and is not evidence of guilt. A defendant is entitled to a fair trial in which it will be the government's burden to prove guilt beyond a reasonable doubt.
+Jones remains in custody. If convicted of the charges, he faces possible life in prison.
+The Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force is a Department of Justice grant-funded program with membership that includes special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office and detectives from the state police and several local police departments.
+ICE also conducts investigations as part of Operation Predator, a nationwide ICE initiative to protect children from sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers.
+ICE encourages the public to report suspected child predators and any suspicious activity through its toll-free hotline at 1-866-DHS-2ICE. This hotline is staffed around the clock by investigators. Suspected child sexual exploitation or missing children may be reported to the National Center for Missing and Exploited Children, an Operation Predator partner, at 1-800-843-5678 orhttp://www.cybertipline.com .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="14" end="80" text="New Jersey sex offender indicted in Rhode Island in child sex case" TYPE="BAR" />
+<person id="p1" start="100" end="190" text="A New Jersey man with three previous convictions in New Jersey for crimes against children" TYPE="NOM" />
+<person id="p2" start="182" end="190" text="children" TYPE="BAR" />
+<person id="p3" start="207" end="241" text="a federal grand jury in Providence" TYPE="NOM" />
+<person id="p4" start="372" end="379" text="a minor" TYPE="NOM" />
+<person id="p5" start="395" end="402" text="a minor" TYPE="NOM" />
+<person id="p6" start="424" end="429" text="child" TYPE="NOMPRE" />
+<person id="p7" start="622" end="672" text="Donald J. Jones, III, 46, of Pemberton, New Jersey" TYPE="NAM" />
+<person id="p8" start="723" end="753" text="U.S. Attorney Peter F. Neronha" TYPE="NAM" />
+<person id="p9" start="723" end="736" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p10" start="755" end="760" text="Jones" TYPE="NAM" />
+<person id="p11" start="802" end="804" text="he" TYPE="PRO" />
+<person id="p12" start="930" end="937" text="a minor" TYPE="NOM" />
+<person id="p13" start="967" end="979" text="sex offender" TYPE="NOMPRE" />
+<person id="p14" start="990" end="995" text="Jones" TYPE="NAM" />
+<person id="p15" start="999" end="1145" text="a level two child sex offender convicted in 1993 on charges of aggravated sexual assault and endangering the welfare of a girl under the age of 13" TYPE="NOM" />
+<person id="p16" start="1011" end="1016" text="child" TYPE="NOMPRE" />
+<person id="p17" start="1119" end="1145" text="a girl under the age of 13" TYPE="NOM" />
+<person id="p18" start="1208" end="1218" text="pedophiles" TYPE="BAR" />
+<person id="p19" start="1307" end="1312" text="child" TYPE="NOMPRE" />
+<person id="p20" start="1326" end="1352" text="An undercover investigator" TYPE="NOM" />
+<person id="p21" start="1375" end="1552" text="an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child" TYPE="NOM" />
+<person id="p22" start="1414" end="1419" text="Jones" TYPE="NAM" />
+<person id="p23" start="1421" end="1424" text="who" TYPE="WHQ" />
+<person id="p24" start="1445" end="1447" text="he" TYPE="PRO" />
+<person id="p25" start="1460" end="1552" text="a very young female whose mother or father would allow him to engage in sex with their child" TYPE="NOM" />
+<person id="p26" start="1480" end="1485" text="whose" TYPE="WHQ" />
+<person id="p27" start="1486" end="1492" text="mother" TYPE="BAR" />
+<person id="p28" start="1496" end="1502" text="father" TYPE="BAR" />
+<person id="p29" start="1515" end="1518" text="him" TYPE="PRO" />
+<person id="p30" start="1541" end="1552" text="their child" TYPE="NOM" />
+<person id="p31" start="1541" end="1546" text="their" TYPE="PRO" />
+<person id="p32" start="1564" end="1572" text="a parent" TYPE="NOM" />
+<person id="p33" start="1574" end="1594" text="the undercover agent" TYPE="NOM" />
+<person id="p35" start="1620" end="1697" text="Jones, who allegedly transmitted numerous videos containing child pornography" TYPE="NAM" />
+<person id="p36" start="1627" end="1630" text="who" TYPE="WHQ" />
+<person id="p37" start="1680" end="1685" text="child" TYPE="NOMPRE" />
+<person id="p38" start="1699" end="1704" text="Jones" TYPE="NAM" />
+<person id="p39" start="1776" end="1783" text="a child" TYPE="NOM" />
+<person id="p40" start="1853" end="1864" text="A defendant" TYPE="NOM" />
+<person id="p41" start="1979" end="1984" text="Jones" TYPE="NAM" />
+<person id="p42" start="2034" end="2036" text="he" TYPE="PRO" />
+<person id="p43" start="2234" end="2316" text="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" TYPE="BAR" />
+<person id="p44" start="2263" end="2275" text="U.S. Marshal" TYPE="BAR" />
+<person id="p45" start="2286" end="2307" text="U.S. Postal Inspector" TYPE="BAR" />
+<person id="p46" start="2321" end="2390" text="detectives from the state police and several local police departments" TYPE="BAR" />
+<person id="p47" start="2495" end="2503" text="children" TYPE="BAR" />
+<person id="p48" start="2509" end="2669" text="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" TYPE="BAR" />
+<person id="p49" start="2537" end="2669" text="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" TYPE="HLS" />
+<person id="p50" start="2543" end="2546" text="who" TYPE="WHQ" />
+<person id="p51" start="2576" end="2582" text="minors" TYPE="BAR" />
+<person id="p52" start="2584" end="2612" text="Internet child pornographers" TYPE="BAR" />
+<person id="p53" start="2593" end="2598" text="child" TYPE="NOMPRE" />
+<person id="p54" start="2614" end="2642" text="criminal alien sex offenders" TYPE="BAR" />
+<person id="p55" start="2648" end="2669" text="child sex traffickers" TYPE="BAR" />
+<person id="p56" start="2648" end="2653" text="child" TYPE="NOMPRE" />
+<person id="p57" start="2707" end="2732" text="suspected child predators" TYPE="BAR" />
+<person id="p58" start="2717" end="2722" text="child" TYPE="NOMPRE" />
+<person id="p59" start="2854" end="2867" text="investigators" TYPE="BAR" />
+<person id="p60" start="2879" end="2884" text="child" TYPE="NOMPRE" />
+<person id="p61" start="2908" end="2924" text="missing children" TYPE="BAR" />
+<organization id="o1" start="499" end="585" text="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" TYPE="NAM" />
+<organization id="o2" start="582" end="585" text="HSI" TYPE="NAM" />
+<organization id="o4" start="543" end="546" text="ICE" TYPE="NAM" />
+<organization id="o5" start="591" end="620" text="the Rhode Island State Police" TYPE="NAM" />
+<organization id="o6" start="1160" end="1165" text="court" TYPE="NOMPRE" />
+<organization id="o0" start="2068" end="2155" text="The Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" TYPE="NAM" />
+<organization id="o7" start="2161" end="2182" text="Department of Justice" TYPE="NAM" />
+<organization id="o8" start="2254" end="2261" text="ICE HSI" TYPE="NAM" />
+<organization id="o9" start="2263" end="2284" text="U.S. Marshal's Office" TYPE="BAR" />
+<organization id="o10" start="2286" end="2316" text="U.S. Postal Inspector's Office" TYPE="BAR" />
+<organization id="o11" start="2337" end="2353" text="the state police" TYPE="NOM" />
+<organization id="o12" start="2358" end="2390" text="several local police departments" TYPE="BAR" />
+<organization id="o13" start="2372" end="2378" text="police" TYPE="NOMPRE" />
+<organization id="o14" start="2392" end="2395" text="ICE" TYPE="NAM" />
+<organization id="o15" start="2469" end="2472" text="ICE" TYPE="NAM" />
+<organization id="o16" start="2159" end="2203" text="a Department of Justice grant-funded program" TYPE="NOM" />
+<organization id="o17" start="2671" end="2674" text="ICE" TYPE="NAM" />
+<organization id="o18" start="2769" end="2772" text="its" TYPE="PRO" />
+<organization id="o19" start="2944" end="2998" text="the National Center for Missing and Exploited Children" TYPE="NAM" />
+<organization id="o20" start="2944" end="3029" text="the National Center for Missing and Exploited Children, an Operation Predator partner" TYPE="APP" />
+<organization id="o21" start="3000" end="3029" text="an Operation Predator partner" TYPE="NOM" />
+<organization id="o3" start="499" end="546" text="U.S. Immigration and Customs Enforcement's (ICE" TYPE="NAM" />
+<geographical-political id="g0" start="14" end="24" text="New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g1" start="50" end="62" text="Rhode Island" TYPE="NAM" />
+<geographical-political id="g2" start="81" end="96" text="PROVIDENCE, R.I" TYPE="NAM" />
+<geographical-political id="g3" start="93" end="96" text="R.I" TYPE="NAM" />
+<geographical-political id="g4" start="102" end="112" text="New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g5" start="152" end="162" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g6" start="231" end="241" text="Providence" TYPE="NAM" />
+<geographical-political id="g7" start="651" end="672" text="Pemberton, New Jersey" TYPE="NAM" />
+<geographical-political id="g8" start="662" end="672" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g9" start="723" end="726" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g10" start="777" end="787" text="Providence" TYPE="NAM" />
+<geographical-political id="g11" start="823" end="831" text="New York" TYPE="NAM" />
+<geographical-political id="g12" start="865" end="875" text="New Jersey" TYPE="NAM" />
+<geographical-political id="g13" start="879" end="891" text="Rhode Island" TYPE="NAM" />
+<geographical-political id="g14" start="956" end="966" text="New Jersey" TYPE="NAMPRE" />
+<geographical-political id="g15" start="1746" end="1758" text="Rhode Island" TYPE="NAM" />
+<geographical-political id="g16" start="1913" end="1927" text="the government" TYPE="NOM" />
+<geographical-political id="g17" start="2263" end="2266" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g18" start="2286" end="2289" text="U.S" TYPE="NAMPRE" />
+<geographical-political id="g19" start="2686" end="2696" text="the public" TYPE="HLS" />
+<falicity id="f0" start="853" end="875" text="his home in New Jersey" TYPE="NOM" />
+<falicity id="f1" start="2060" end="2066" text="prison" TYPE="BAR" />
+<falicity id="f2" start="2769" end="2808" text="its toll-free hotline at 1-866-DHS-2ICE" TYPE="NOM" />
+<falicity id="f3" start="2810" end="2822" text="This hotline" TYPE="NOM" />
+<head id="h0" start="29" end="37" text="offender" />
+<head id="h1" start="14" end="24" text="New Jersey" />
+<head id="h2" start="50" end="62" text="Rhode Island" />
+<head id="h3" start="81" end="91" text="PROVIDENCE" />
+<head id="h4" start="93" end="96" text="R.I" />
+<head id="h5" start="113" end="116" text="man" />
+<head id="h6" start="102" end="112" text="New Jersey" />
+<head id="h7" start="152" end="162" text="New Jersey" />
+<head id="h8" start="182" end="190" text="children" />
+<head id="h9" start="223" end="227" text="jury" />
+<head id="h10" start="231" end="241" text="Providence" />
+<head id="h11" start="374" end="379" text="minor" />
+<head id="h12" start="397" end="402" text="minor" />
+<head id="h13" start="424" end="429" text="child" />
+<head id="h14" start="548" end="580" text="Homeland Security Investigations" />
+<head id="h15" start="582" end="585" text="HSI" />
+<head id="h16" start="499" end="539" text="U.S. Immigration and Customs Enforcement" />
+<head id="h17" start="543" end="546" text="ICE" />
+<head id="h18" start="595" end="620" text="Rhode Island State Police" />
+<head id="h19" start="622" end="637" text="Donald J. Jones" />
+<head id="h20" start="651" end="660" text="Pemberton" />
+<head id="h21" start="662" end="672" text="New Jersey" />
+<head id="h22" start="737" end="753" text="Peter F. Neronha" />
+<head id="h23" start="728" end="736" text="Attorney" />
+<head id="h24" start="723" end="726" text="U.S" />
+<head id="h25" start="755" end="760" text="Jones" />
+<head id="h26" start="777" end="787" text="Providence" />
+<head id="h27" start="802" end="804" text="he" />
+<head id="h28" start="823" end="831" text="New York" />
+<head id="h29" start="857" end="861" text="home" />
+<head id="h30" start="865" end="875" text="New Jersey" />
+<head id="h31" start="879" end="891" text="Rhode Island" />
+<head id="h32" start="932" end="937" text="minor" />
+<head id="h33" start="971" end="979" text="offender" />
+<head id="h34" start="956" end="966" text="New Jersey" />
+<head id="h35" start="990" end="995" text="Jones" />
+<head id="h36" start="1021" end="1029" text="offender" />
+<head id="h37" start="1011" end="1016" text="child" />
+<head id="h39" start="1121" end="1125" text="girl" />
+<head id="h40" start="1160" end="1165" text="court" />
+<head id="h38" start="1208" end="1218" text="pedophiles" />
+<head id="h41" start="1307" end="1312" text="child" />
+<head id="h42" start="1340" end="1352" text="investigator" />
+<head id="h43" start="1378" end="1388" text="individual" />
+<head id="h44" start="1414" end="1419" text="Jones" />
+<head id="h45" start="1421" end="1424" text="who" />
+<head id="h46" start="1445" end="1447" text="he" />
+<head id="h47" start="1473" end="1479" text="female" />
+<head id="h48" start="1480" end="1485" text="whose" />
+<head id="h49" start="1486" end="1492" text="mother" />
+<head id="h50" start="1496" end="1502" text="father" />
+<head id="h51" start="1515" end="1518" text="him" />
+<head id="h52" start="1547" end="1552" text="child" />
+<head id="h53" start="1541" end="1546" text="their" />
+<head id="h54" start="1566" end="1572" text="parent" />
+<head id="h55" start="1589" end="1594" text="agent" />
+<head id="h56" start="1620" end="1625" text="Jones" />
+<head id="h57" start="1627" end="1630" text="who" />
+<head id="h58" start="1680" end="1685" text="child" />
+<head id="h59" start="1699" end="1704" text="Jones" />
+<head id="h60" start="1746" end="1758" text="Rhode Island" />
+<head id="h61" start="1778" end="1783" text="child" />
+<head id="h62" start="1855" end="1864" text="defendant" />
+<head id="h63" start="1917" end="1927" text="government" />
+<head id="h64" start="1979" end="1984" text="Jones" />
+<head id="h65" start="2034" end="2036" text="he" />
+<head id="h66" start="2060" end="2066" text="prison" />
+<head id="h67" start="2072" end="2155" text="Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" />
+<head id="h68" start="2161" end="2182" text="Department of Justice" />
+<head id="h69" start="2242" end="2248" text="agents" />
+<head id="h70" start="2254" end="2261" text="ICE HSI" />
+<head id="h71" start="2278" end="2284" text="Office" />
+<head id="h72" start="2268" end="2275" text="Marshal" />
+<head id="h73" start="2263" end="2266" text="U.S" />
+<head id="h74" start="2310" end="2316" text="Office" />
+<head id="h75" start="2298" end="2307" text="Inspector" />
+<head id="h76" start="2286" end="2289" text="U.S" />
+<head id="h77" start="2321" end="2331" text="detectives" />
+<head id="h78" start="2347" end="2353" text="police" />
+<head id="h79" start="2379" end="2390" text="departments" />
+<head id="h80" start="2372" end="2378" text="police" />
+<head id="h81" start="2392" end="2395" text="ICE" />
+<head id="h82" start="2469" end="2472" text="ICE" />
+<head id="h83" start="2196" end="2203" text="program" />
+<head id="h84" start="2495" end="2503" text="children" />
+<head id="h85" start="2516" end="2525" text="predators" />
+<head id="h86" start="2537" end="2542" text="those" />
+<head id="h87" start="2543" end="2546" text="who" />
+<head id="h88" start="2576" end="2582" text="minors" />
+<head id="h89" start="2599" end="2612" text="pornographers" />
+<head id="h90" start="2593" end="2598" text="child" />
+<head id="h91" start="2633" end="2642" text="offenders" />
+<head id="h92" start="2658" end="2669" text="traffickers" />
+<head id="h93" start="2648" end="2653" text="child" />
+<head id="h94" start="2671" end="2674" text="ICE" />
+<head id="h95" start="2690" end="2696" text="public" />
+<head id="h96" start="2723" end="2732" text="predators" />
+<head id="h97" start="2717" end="2722" text="child" />
+<head id="h98" start="2783" end="2790" text="hotline" />
+<head id="h99" start="2769" end="2772" text="its" />
+<head id="h100" start="2815" end="2822" text="hotline" />
+<head id="h101" start="2854" end="2867" text="investigators" />
+<head id="h102" start="2879" end="2884" text="child" />
+<head id="h103" start="2916" end="2924" text="children" />
+<head id="h104" start="2948" end="2998" text="National Center for Missing and Exploited Children" />
+<head id="h105" start="3022" end="3029" text="partner" />
+<name id="n0" start="14" end="24" text="New Jersey" />
+<name id="n1" start="50" end="62" text="Rhode Island" />
+<name id="n2" start="81" end="91" text="PROVIDENCE" />
+<name id="n3" start="93" end="96" text="R.I" />
+<name id="n4" start="102" end="112" text="New Jersey" />
+<name id="n5" start="152" end="162" text="New Jersey" />
+<name id="n6" start="231" end="241" text="Providence" />
+<name id="n7" start="548" end="580" text="Homeland Security Investigations" />
+<name id="n8" start="582" end="585" text="HSI" />
+<name id="n9" start="499" end="539" text="U.S. Immigration and Customs Enforcement" />
+<name id="n10" start="543" end="546" text="ICE" />
+<name id="n11" start="595" end="620" text="Rhode Island State Police" />
+<name id="n12" start="622" end="637" text="Donald J. Jones" />
+<name id="n13" start="651" end="660" text="Pemberton" />
+<name id="n14" start="662" end="672" text="New Jersey" />
+<name id="n15" start="737" end="753" text="Peter F. Neronha" />
+<name id="n16" start="723" end="726" text="U.S" />
+<name id="n17" start="755" end="760" text="Jones" />
+<name id="n18" start="777" end="787" text="Providence" />
+<name id="n19" start="823" end="831" text="New York" />
+<name id="n20" start="865" end="875" text="New Jersey" />
+<name id="n21" start="879" end="891" text="Rhode Island" />
+<name id="n22" start="956" end="966" text="New Jersey" />
+<name id="n23" start="990" end="995" text="Jones" />
+<name id="n24" start="1414" end="1419" text="Jones" />
+<name id="n25" start="1620" end="1625" text="Jones" />
+<name id="n26" start="1699" end="1704" text="Jones" />
+<name id="n27" start="1746" end="1758" text="Rhode Island" />
+<name id="n28" start="1979" end="1984" text="Jones" />
+<name id="n29" start="2072" end="2155" text="Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" />
+<name id="n30" start="2161" end="2182" text="Department of Justice" />
+<name id="n31" start="2254" end="2261" text="ICE HSI" />
+<name id="n32" start="2263" end="2266" text="U.S" />
+<name id="n33" start="2286" end="2289" text="U.S" />
+<name id="n34" start="2392" end="2395" text="ICE" />
+<name id="n35" start="2469" end="2472" text="ICE" />
+<name id="n36" start="2671" end="2674" text="ICE" />
+<name id="n37" start="2948" end="2998" text="National Center for Missing and Exploited Children" />
+<located-mention id="lo0" start="14" end="80" text="New Jersey sex offender indicted in Rhode Island in child sex case" TYPE="Participial" />
+<located-mention id="lo1" start="207" end="241" text="a federal grand jury in Providence" TYPE="Preposition" />
+<located-mention id="lo2" start="755" end="937" text="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" TYPE="Verbal" />
+<located-mention id="lo3" start="755" end="937" text="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" TYPE="Other" />
+<located-mention id="lo4" start="755" end="937" text="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" TYPE="Other" />
+<located-mention id="lo5" start="1699" end="1783" text="Jones allegedly made arrangements to travel to Rhode Island to have sex with a child" TYPE="Other" />
+<employment-mention id="e0" start="723" end="736" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e1" start="2263" end="2275" text="U.S. Marshal" TYPE="PreMod" />
+<employment-mention id="e2" start="2286" end="2307" text="U.S. Postal Inspector" TYPE="PreMod" />
+<CRRE id="C0" start="14" end="80" text="New Jersey sex offender indicted in Rhode Island in child sex case" TYPE="PreMod" />
+<CRRE id="C1" start="100" end="190" text="A New Jersey man with three previous convictions in New Jersey for crimes against children" TYPE="PreMod" />
+<CRRE id="C2" start="622" end="672" text="Donald J. Jones, III, 46, of Pemberton, New Jersey" TYPE="Preposition" />
+<M id="M0" start="2234" end="2316" text="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" TYPE="Preposition" />
+<M id="M1" start="2234" end="2316" text="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" TYPE="Preposition" />
+<M id="M2" start="2234" end="2316" text="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" TYPE="Preposition" />
+<M id="M3" start="2321" end="2390" text="detectives from the state police and several local police departments" TYPE="Preposition" />
+<M id="M4" start="2321" end="2390" text="detectives from the state police and several local police departments" TYPE="Preposition" />
+<entity_link id="en0" fromID="p1" fromText="A New Jersey man with three previous convictions in New Jersey for crimes against children" toID="p0" toText="New Jersey sex offender indicted in Rhode Island in child sex case" />
+<entity_link id="en1" fromID="g4" fromText="New Jersey" toID="g0" toText="New Jersey" />
+<entity_link id="en2" fromID="g6" fromText="Providence" toID="g2" toText="PROVIDENCE, R.I" />
+<entity_link id="en3" fromID="o2" fromText="HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en5" fromID="p7" fromText="Donald J. Jones, III, 46, of Pemberton, New Jersey" toID="p1" toText="A New Jersey man with three previous convictions in New Jersey for crimes against children" />
+<entity_link id="en6" fromID="g8" fromText="New Jersey" toID="g5" toText="New Jersey" />
+<entity_link id="en7" fromID="p9" fromText="U.S. Attorney" toID="p8" toText="U.S. Attorney Peter F. Neronha" />
+<entity_link id="en8" fromID="g5" fromText="New Jersey" toID="g4" toText="New Jersey" />
+<entity_link id="en9" fromID="p10" fromText="Jones" toID="p7" toText="Donald J. Jones, III, 46, of Pemberton, New Jersey" />
+<entity_link id="en10" fromID="g10" fromText="Providence" toID="g6" toText="Providence" />
+<entity_link id="en11" fromID="p11" fromText="he" toID="p10" toText="Jones" />
+<entity_link id="en12" fromID="g12" fromText="New Jersey" toID="g8" toText="New Jersey" />
+<entity_link id="en13" fromID="g3" fromText="R.I" toID="g1" toText="Rhode Island" />
+<entity_link id="en14" fromID="g13" fromText="Rhode Island" toID="g3" toText="R.I" />
+<entity_link id="en15" fromID="p12" fromText="a minor" toID="p4" toText="a minor" />
+<entity_link id="en16" fromID="g14" fromText="New Jersey" toID="g12" toText="New Jersey" />
+<entity_link id="en17" fromID="p14" fromText="Jones" toID="p10" toText="Jones" />
+<entity_link id="en18" fromID="p15" fromText="a level two child sex offender convicted in 1993 on charges of aggravated sexual assault and endangering the welfare of a girl under the age of 13" toID="p14" toText="Jones" />
+<entity_link id="en19" fromID="p16" fromText="child" toID="p6" toText="child" />
+<entity_link id="en20" fromID="p19" fromText="child" toID="p16" toText="child" />
+<entity_link id="en21" fromID="p22" fromText="Jones" toID="p21" toText="an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child" />
+<entity_link id="en22" fromID="p21" fromText="an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child" toID="p14" toText="Jones" />
+<entity_link id="en23" fromID="p23" fromText="who" toID="p21" toText="an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child" />
+<entity_link id="en24" fromID="p24" fromText="he" toID="p22" toText="Jones" />
+<entity_link id="en25" fromID="p26" fromText="whose" toID="p25" toText="a very young female whose mother or father would allow him to engage in sex with their child" />
+<entity_link id="en26" fromID="p29" fromText="him" toID="p24" toText="he" />
+<entity_link id="en27" fromID="p30" fromText="their child" toID="p25" toText="a very young female whose mother or father would allow him to engage in sex with their child" />
+<entity_link id="en28" fromID="p32" fromText="a parent" toID="p20" toText="An undercover investigator" />
+<entity_link id="en29" fromID="p33" fromText="the undercover agent" toID="p20" toText="An undercover investigator" />
+<entity_link id="en31" fromID="p35" fromText="Jones, who allegedly transmitted numerous videos containing child pornography" toID="p22" toText="Jones" />
+<entity_link id="en32" fromID="p36" fromText="who" toID="p35" toText="Jones, who allegedly transmitted numerous videos containing child pornography" />
+<entity_link id="en33" fromID="p37" fromText="child" toID="p19" toText="child" />
+<entity_link id="en34" fromID="p38" fromText="Jones" toID="p35" toText="Jones, who allegedly transmitted numerous videos containing child pornography" />
+<entity_link id="en35" fromID="g15" fromText="Rhode Island" toID="g13" toText="Rhode Island" />
+<entity_link id="en36" fromID="g16" fromText="the government" toID="g9" toText="U.S" />
+<entity_link id="en37" fromID="p41" fromText="Jones" toID="p38" toText="Jones" />
+<entity_link id="en38" fromID="p42" fromText="he" toID="p41" toText="Jones" />
+<entity_link id="en39" fromID="o8" fromText="ICE HSI" toID="o1" toText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" />
+<entity_link id="en40" fromID="g17" fromText="U.S" toID="g9" toText="U.S" />
+<entity_link id="en41" fromID="g18" fromText="U.S" toID="g17" toText="U.S" />
+<entity_link id="en42" fromID="o14" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en43" fromID="o15" fromText="ICE" toID="o14" toText="ICE" />
+<entity_link id="en44" fromID="o16" fromText="a Department of Justice grant-funded program" toID="o0" toText="The Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" />
+<entity_link id="en45" fromID="p50" fromText="who" toID="p49" toText="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" />
+<entity_link id="en46" fromID="p53" fromText="child" toID="p37" toText="child" />
+<entity_link id="en47" fromID="p56" fromText="child" toID="p53" toText="child" />
+<entity_link id="en48" fromID="o17" fromText="ICE" toID="o14" toText="ICE" />
+<entity_link id="en49" fromID="p58" fromText="child" toID="p56" toText="child" />
+<entity_link id="en50" fromID="o18" fromText="its" toID="o17" toText="ICE" />
+<entity_link id="en51" fromID="f3" fromText="This hotline" toID="f2" toText="its toll-free hotline at 1-866-DHS-2ICE" />
+<entity_link id="en52" fromID="p60" fromText="child" toID="p58" toText="child" />
+<entity_link id="en53" fromID="o19" fromText="the National Center for Missing and Exploited Children" toID="o20" toText="the National Center for Missing and Exploited Children, an Operation Predator partner" />
+<entity_link id="en54" fromID="o21" fromText="an Operation Predator partner" toID="o19" toText="the National Center for Missing and Exploited Children" />
+<entity_link id="en30" fromID="o4" fromText="ICE" toID="o3" toText="U.S. Immigration and Customs Enforcement's (ICE" />
+<head_link id="he0" fromID="p0" fromText="New Jersey sex offender indicted in Rhode Island in child sex case" toID="h0" toText="offender" />
+<head_link id="he1" fromID="g0" fromText="New Jersey" toID="h1" toText="New Jersey" />
+<head_link id="he2" fromID="g1" fromText="Rhode Island" toID="h2" toText="Rhode Island" />
+<head_link id="he3" fromID="g2" fromText="PROVIDENCE, R.I" toID="h3" toText="PROVIDENCE" />
+<head_link id="he4" fromID="g3" fromText="R.I" toID="h4" toText="R.I" />
+<head_link id="he5" fromID="p1" fromText="A New Jersey man with three previous convictions in New Jersey for crimes against children" toID="h5" toText="man" />
+<head_link id="he6" fromID="g4" fromText="New Jersey" toID="h6" toText="New Jersey" />
+<head_link id="he7" fromID="g5" fromText="New Jersey" toID="h7" toText="New Jersey" />
+<head_link id="he8" fromID="p2" fromText="children" toID="h8" toText="children" />
+<head_link id="he9" fromID="p3" fromText="a federal grand jury in Providence" toID="h9" toText="jury" />
+<head_link id="he10" fromID="g6" fromText="Providence" toID="h10" toText="Providence" />
+<head_link id="he11" fromID="p4" fromText="a minor" toID="h11" toText="minor" />
+<head_link id="he12" fromID="p5" fromText="a minor" toID="h12" toText="minor" />
+<head_link id="he13" fromID="p6" fromText="child" toID="h13" toText="child" />
+<head_link id="he14" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="h14" toText="Homeland Security Investigations" />
+<head_link id="he15" fromID="o2" fromText="HSI" toID="h15" toText="HSI" />
+<head_link id="he17" fromID="o4" fromText="ICE" toID="h17" toText="ICE" />
+<head_link id="he18" fromID="o5" fromText="the Rhode Island State Police" toID="h18" toText="Rhode Island State Police" />
+<head_link id="he19" fromID="p7" fromText="Donald J. Jones, III, 46, of Pemberton, New Jersey" toID="h19" toText="Donald J. Jones" />
+<head_link id="he20" fromID="g7" fromText="Pemberton, New Jersey" toID="h20" toText="Pemberton" />
+<head_link id="he21" fromID="g8" fromText="New Jersey" toID="h21" toText="New Jersey" />
+<head_link id="he22" fromID="p8" fromText="U.S. Attorney Peter F. Neronha" toID="h22" toText="Peter F. Neronha" />
+<head_link id="he23" fromID="p9" fromText="U.S. Attorney" toID="h23" toText="Attorney" />
+<head_link id="he25" fromID="g9" fromText="U.S" toID="h24" toText="U.S" />
+<head_link id="he26" fromID="p10" fromText="Jones" toID="h25" toText="Jones" />
+<head_link id="he27" fromID="g10" fromText="Providence" toID="h26" toText="Providence" />
+<head_link id="he28" fromID="p11" fromText="he" toID="h27" toText="he" />
+<head_link id="he29" fromID="g11" fromText="New York" toID="h28" toText="New York" />
+<head_link id="he30" fromID="f0" fromText="his home in New Jersey" toID="h29" toText="home" />
+<head_link id="he31" fromID="g12" fromText="New Jersey" toID="h30" toText="New Jersey" />
+<head_link id="he32" fromID="g13" fromText="Rhode Island" toID="h31" toText="Rhode Island" />
+<head_link id="he33" fromID="p12" fromText="a minor" toID="h32" toText="minor" />
+<head_link id="he34" fromID="p13" fromText="sex offender" toID="h33" toText="offender" />
+<head_link id="he35" fromID="g14" fromText="New Jersey" toID="h34" toText="New Jersey" />
+<head_link id="he36" fromID="p14" fromText="Jones" toID="h35" toText="Jones" />
+<head_link id="he37" fromID="p15" fromText="a level two child sex offender convicted in 1993 on charges of aggravated sexual assault and endangering the welfare of a girl under the age of 13" toID="h36" toText="offender" />
+<head_link id="he38" fromID="p16" fromText="child" toID="h37" toText="child" />
+<head_link id="he39" fromID="p17" fromText="a girl under the age of 13" toID="h39" toText="girl" />
+<head_link id="he40" fromID="o6" fromText="court" toID="h40" toText="court" />
+<head_link id="he24" fromID="p18" fromText="pedophiles" toID="h38" toText="pedophiles" />
+<head_link id="he41" fromID="p19" fromText="child" toID="h41" toText="child" />
+<head_link id="he42" fromID="p20" fromText="An undercover investigator" toID="h42" toText="investigator" />
+<head_link id="he43" fromID="p21" fromText="an individual eventually identified as Jones, who allegedly indicated he was seeking a very young female whose mother or father would allow him to engage in sex with their child" toID="h43" toText="individual" />
+<head_link id="he44" fromID="p22" fromText="Jones" toID="h44" toText="Jones" />
+<head_link id="he45" fromID="p23" fromText="who" toID="h45" toText="who" />
+<head_link id="he46" fromID="p24" fromText="he" toID="h46" toText="he" />
+<head_link id="he47" fromID="p25" fromText="a very young female whose mother or father would allow him to engage in sex with their child" toID="h47" toText="female" />
+<head_link id="he48" fromID="p26" fromText="whose" toID="h48" toText="whose" />
+<head_link id="he49" fromID="p27" fromText="mother" toID="h49" toText="mother" />
+<head_link id="he50" fromID="p28" fromText="father" toID="h50" toText="father" />
+<head_link id="he51" fromID="p29" fromText="him" toID="h51" toText="him" />
+<head_link id="he52" fromID="p30" fromText="their child" toID="h52" toText="child" />
+<head_link id="he53" fromID="p31" fromText="their" toID="h53" toText="their" />
+<head_link id="he54" fromID="p32" fromText="a parent" toID="h54" toText="parent" />
+<head_link id="he55" fromID="p33" fromText="the undercover agent" toID="h55" toText="agent" />
+<head_link id="he57" fromID="p35" fromText="Jones, who allegedly transmitted numerous videos containing child pornography" toID="h56" toText="Jones" />
+<head_link id="he58" fromID="p36" fromText="who" toID="h57" toText="who" />
+<head_link id="he59" fromID="p37" fromText="child" toID="h58" toText="child" />
+<head_link id="he60" fromID="p38" fromText="Jones" toID="h59" toText="Jones" />
+<head_link id="he61" fromID="g15" fromText="Rhode Island" toID="h60" toText="Rhode Island" />
+<head_link id="he62" fromID="p39" fromText="a child" toID="h61" toText="child" />
+<head_link id="he63" fromID="p40" fromText="A defendant" toID="h62" toText="defendant" />
+<head_link id="he64" fromID="g16" fromText="the government" toID="h63" toText="government" />
+<head_link id="he65" fromID="p41" fromText="Jones" toID="h64" toText="Jones" />
+<head_link id="he66" fromID="p42" fromText="he" toID="h65" toText="he" />
+<head_link id="he67" fromID="f1" fromText="prison" toID="h66" toText="prison" />
+<head_link id="he68" fromID="o0" fromText="The Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" toID="h67" toText="Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" />
+<head_link id="he69" fromID="o7" fromText="Department of Justice" toID="h68" toText="Department of Justice" />
+<head_link id="he70" fromID="p43" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="h69" toText="agents" />
+<head_link id="he71" fromID="o8" fromText="ICE HSI" toID="h70" toText="ICE HSI" />
+<head_link id="he72" fromID="o9" fromText="U.S. Marshal's Office" toID="h71" toText="Office" />
+<head_link id="he73" fromID="p44" fromText="U.S. Marshal" toID="h72" toText="Marshal" />
+<head_link id="he74" fromID="g17" fromText="U.S" toID="h73" toText="U.S" />
+<head_link id="he75" fromID="o10" fromText="U.S. Postal Inspector's Office" toID="h74" toText="Office" />
+<head_link id="he76" fromID="p45" fromText="U.S. Postal Inspector" toID="h75" toText="Inspector" />
+<head_link id="he77" fromID="g18" fromText="U.S" toID="h76" toText="U.S" />
+<head_link id="he78" fromID="p46" fromText="detectives from the state police and several local police departments" toID="h77" toText="detectives" />
+<head_link id="he79" fromID="o11" fromText="the state police" toID="h78" toText="police" />
+<head_link id="he80" fromID="o12" fromText="several local police departments" toID="h79" toText="departments" />
+<head_link id="he81" fromID="o13" fromText="police" toID="h80" toText="police" />
+<head_link id="he82" fromID="o14" fromText="ICE" toID="h81" toText="ICE" />
+<head_link id="he83" fromID="o15" fromText="ICE" toID="h82" toText="ICE" />
+<head_link id="he84" fromID="o16" fromText="a Department of Justice grant-funded program" toID="h83" toText="program" />
+<head_link id="he85" fromID="p47" fromText="children" toID="h84" toText="children" />
+<head_link id="he86" fromID="p48" fromText="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" toID="h85" toText="predators" />
+<head_link id="he87" fromID="p49" fromText="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" toID="h86" toText="those" />
+<head_link id="he88" fromID="p50" fromText="who" toID="h87" toText="who" />
+<head_link id="he89" fromID="p51" fromText="minors" toID="h88" toText="minors" />
+<head_link id="he90" fromID="p52" fromText="Internet child pornographers" toID="h89" toText="pornographers" />
+<head_link id="he91" fromID="p53" fromText="child" toID="h90" toText="child" />
+<head_link id="he92" fromID="p54" fromText="criminal alien sex offenders" toID="h91" toText="offenders" />
+<head_link id="he93" fromID="p55" fromText="child sex traffickers" toID="h92" toText="traffickers" />
+<head_link id="he94" fromID="p56" fromText="child" toID="h93" toText="child" />
+<head_link id="he95" fromID="o17" fromText="ICE" toID="h94" toText="ICE" />
+<head_link id="he96" fromID="g19" fromText="the public" toID="h95" toText="public" />
+<head_link id="he97" fromID="p57" fromText="suspected child predators" toID="h96" toText="predators" />
+<head_link id="he98" fromID="p58" fromText="child" toID="h97" toText="child" />
+<head_link id="he99" fromID="f2" fromText="its toll-free hotline at 1-866-DHS-2ICE" toID="h98" toText="hotline" />
+<head_link id="he100" fromID="o18" fromText="its" toID="h99" toText="its" />
+<head_link id="he101" fromID="f3" fromText="This hotline" toID="h100" toText="hotline" />
+<head_link id="he102" fromID="p59" fromText="investigators" toID="h101" toText="investigators" />
+<head_link id="he103" fromID="p60" fromText="child" toID="h102" toText="child" />
+<head_link id="he104" fromID="p61" fromText="missing children" toID="h103" toText="children" />
+<head_link id="he105" fromID="o19" fromText="the National Center for Missing and Exploited Children" toID="h104" toText="National Center for Missing and Exploited Children" />
+<head_link id="he106" fromID="o21" fromText="an Operation Predator partner" toID="h105" toText="partner" />
+<head_link id="he56" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="h16" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na0" fromID="g0" fromText="New Jersey" toID="n0" toText="New Jersey" />
+<name_link id="na1" fromID="g1" fromText="Rhode Island" toID="n1" toText="Rhode Island" />
+<name_link id="na2" fromID="g2" fromText="PROVIDENCE, R.I" toID="n2" toText="PROVIDENCE" />
+<name_link id="na3" fromID="g3" fromText="R.I" toID="n3" toText="R.I" />
+<name_link id="na4" fromID="g4" fromText="New Jersey" toID="n4" toText="New Jersey" />
+<name_link id="na5" fromID="g5" fromText="New Jersey" toID="n5" toText="New Jersey" />
+<name_link id="na6" fromID="g6" fromText="Providence" toID="n6" toText="Providence" />
+<name_link id="na7" fromID="o1" fromText="U.S. Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI" toID="n7" toText="Homeland Security Investigations" />
+<name_link id="na8" fromID="o2" fromText="HSI" toID="n8" toText="HSI" />
+<name_link id="na10" fromID="o4" fromText="ICE" toID="n10" toText="ICE" />
+<name_link id="na11" fromID="o5" fromText="the Rhode Island State Police" toID="n11" toText="Rhode Island State Police" />
+<name_link id="na12" fromID="p7" fromText="Donald J. Jones, III, 46, of Pemberton, New Jersey" toID="n12" toText="Donald J. Jones" />
+<name_link id="na13" fromID="g7" fromText="Pemberton, New Jersey" toID="n13" toText="Pemberton" />
+<name_link id="na14" fromID="g8" fromText="New Jersey" toID="n14" toText="New Jersey" />
+<name_link id="na15" fromID="p8" fromText="U.S. Attorney Peter F. Neronha" toID="n15" toText="Peter F. Neronha" />
+<name_link id="na16" fromID="g9" fromText="U.S" toID="n16" toText="U.S" />
+<name_link id="na17" fromID="p10" fromText="Jones" toID="n17" toText="Jones" />
+<name_link id="na18" fromID="g10" fromText="Providence" toID="n18" toText="Providence" />
+<name_link id="na19" fromID="g11" fromText="New York" toID="n19" toText="New York" />
+<name_link id="na20" fromID="g12" fromText="New Jersey" toID="n20" toText="New Jersey" />
+<name_link id="na21" fromID="g13" fromText="Rhode Island" toID="n21" toText="Rhode Island" />
+<name_link id="na22" fromID="g14" fromText="New Jersey" toID="n22" toText="New Jersey" />
+<name_link id="na23" fromID="p14" fromText="Jones" toID="n23" toText="Jones" />
+<name_link id="na24" fromID="p22" fromText="Jones" toID="n24" toText="Jones" />
+<name_link id="na26" fromID="p35" fromText="Jones, who allegedly transmitted numerous videos containing child pornography" toID="n25" toText="Jones" />
+<name_link id="na27" fromID="p38" fromText="Jones" toID="n26" toText="Jones" />
+<name_link id="na29" fromID="g15" fromText="Rhode Island" toID="n27" toText="Rhode Island" />
+<name_link id="na30" fromID="p41" fromText="Jones" toID="n28" toText="Jones" />
+<name_link id="na31" fromID="o0" fromText="The Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" toID="n29" toText="Rhode Island State Police (RISP) Internet Crimes Against Children (ICAC) Task Force" />
+<name_link id="na32" fromID="o7" fromText="Department of Justice" toID="n30" toText="Department of Justice" />
+<name_link id="na33" fromID="o8" fromText="ICE HSI" toID="n31" toText="ICE HSI" />
+<name_link id="na34" fromID="g17" fromText="U.S" toID="n32" toText="U.S" />
+<name_link id="na35" fromID="g18" fromText="U.S" toID="n33" toText="U.S" />
+<name_link id="na36" fromID="o14" fromText="ICE" toID="n34" toText="ICE" />
+<name_link id="na37" fromID="o15" fromText="ICE" toID="n35" toText="ICE" />
+<name_link id="na38" fromID="o17" fromText="ICE" toID="n36" toText="ICE" />
+<name_link id="na39" fromID="o19" fromText="the National Center for Missing and Exploited Children" toID="n37" toText="National Center for Missing and Exploited Children" />
+<name_link id="na25" fromID="o3" fromText="U.S. Immigration and Customs Enforcement's (ICE" toID="n9" toText="U.S. Immigration and Customs Enforcement" />
+<relation_link1 id="r0" fromID="C0" fromText="New Jersey sex offender indicted in Rhode Island in child sex case" toID="p0" toText="New Jersey sex offender indicted in Rhode Island in child sex case" />
+<relation_link1 id="r1" fromID="lo0" fromText="New Jersey sex offender indicted in Rhode Island in child sex case" toID="p0" toText="New Jersey sex offender indicted in Rhode Island in child sex case" />
+<relation_link1 id="r2" fromID="C1" fromText="A New Jersey man with three previous convictions in New Jersey for crimes against children" toID="p1" toText="A New Jersey man with three previous convictions in New Jersey for crimes against children" />
+<relation_link1 id="r3" fromID="lo1" fromText="a federal grand jury in Providence" toID="p3" toText="a federal grand jury in Providence" />
+<relation_link1 id="r4" fromID="C2" fromText="Donald J. Jones, III, 46, of Pemberton, New Jersey" toID="p7" toText="Donald J. Jones, III, 46, of Pemberton, New Jersey" />
+<relation_link1 id="r5" fromID="e0" fromText="U.S. Attorney" toID="p9" toText="U.S. Attorney" />
+<relation_link1 id="r6" fromID="lo2" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="p10" toText="Jones" />
+<relation_link1 id="r7" fromID="lo3" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="p11" toText="he" />
+<relation_link1 id="r8" fromID="lo4" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="p11" toText="he" />
+<relation_link1 id="r9" fromID="lo5" fromText="Jones allegedly made arrangements to travel to Rhode Island to have sex with a child" toID="p38" toText="Jones" />
+<relation_link1 id="r10" fromID="e1" fromText="U.S. Marshal" toID="p44" toText="U.S. Marshal" />
+<relation_link1 id="r11" fromID="e2" fromText="U.S. Postal Inspector" toID="p45" toText="U.S. Postal Inspector" />
+<relation_link1 id="r12" fromID="M0" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="p43" toText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" />
+<relation_link1 id="r13" fromID="M1" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="p43" toText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" />
+<relation_link1 id="r14" fromID="M2" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="p43" toText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" />
+<relation_link1 id="r15" fromID="M3" fromText="detectives from the state police and several local police departments" toID="p46" toText="detectives from the state police and several local police departments" />
+<relation_link1 id="r16" fromID="M4" fromText="detectives from the state police and several local police departments" toID="p46" toText="detectives from the state police and several local police departments" />
+<relation_link2 id="re0" fromID="C0" fromText="New Jersey sex offender indicted in Rhode Island in child sex case" toID="g0" toText="New Jersey" />
+<relation_link2 id="re1" fromID="lo0" fromText="New Jersey sex offender indicted in Rhode Island in child sex case" toID="g1" toText="Rhode Island" />
+<relation_link2 id="re2" fromID="C1" fromText="A New Jersey man with three previous convictions in New Jersey for crimes against children" toID="g4" toText="New Jersey" />
+<relation_link2 id="re3" fromID="lo1" fromText="a federal grand jury in Providence" toID="g6" toText="Providence" />
+<relation_link2 id="re4" fromID="C2" fromText="Donald J. Jones, III, 46, of Pemberton, New Jersey" toID="g7" toText="Pemberton, New Jersey" />
+<relation_link2 id="re5" fromID="e0" fromText="U.S. Attorney" toID="g9" toText="U.S" />
+<relation_link2 id="re6" fromID="lo2" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="g10" toText="Providence" />
+<relation_link2 id="re7" fromID="lo3" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="g11" toText="New York" />
+<relation_link2 id="re8" fromID="lo4" fromText="Jones was arrested in Providence last month as he exited a bus from New York after traveling from his home in New Jersey to Rhode Island in an alleged scheme to have sex with a minor" toID="g13" toText="Rhode Island" />
+<relation_link2 id="re9" fromID="lo5" fromText="Jones allegedly made arrangements to travel to Rhode Island to have sex with a child" toID="g15" toText="Rhode Island" />
+<relation_link2 id="re10" fromID="e1" fromText="U.S. Marshal" toID="g17" toText="U.S" />
+<relation_link2 id="re11" fromID="e2" fromText="U.S. Postal Inspector" toID="g18" toText="U.S" />
+<relation_link2 id="re12" fromID="M0" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="o8" toText="ICE HSI" />
+<relation_link2 id="re13" fromID="M1" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="o9" toText="U.S. Marshal's Office" />
+<relation_link2 id="re14" fromID="M2" fromText="special agents from ICE HSI, U.S. Marshal's Office, U.S. Postal Inspector's Office" toID="o10" toText="U.S. Postal Inspector's Office" />
+<relation_link2 id="re15" fromID="M3" fromText="detectives from the state police and several local police departments" toID="o11" toText="the state police" />
+<relation_link2 id="re16" fromID="M4" fromText="detectives from the state police and several local police departments" toID="o12" toText="several local police departments" />
+</TAGS>
+</KddTask>

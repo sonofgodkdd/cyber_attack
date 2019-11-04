@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+September 26 , 2008
+Contact: Joanna Zoltay
+Number: 312-886-2597
+St Paul Man Pleads Guilty to Distribution of Methamphetamine
+SEP 26  -- 
+September 25 (Minneapolis) - St. Paul resident Israel Garcia Rea has pled guilty to one count of possession with intent to distribute approximately 888 grams of methamphetamine. Rea, 32, was indicted by a federal grand jury in the District of Minnesota in August 2008. Rea entered his guilty plea September 23 before U.S. District Court Chief Judge Michael Davis.
+As part of a joint investigation, the DEA and Dakota County Drug Task Force identified Rea as a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties. On July 2, 2008, the investigation led to a police stop of Rea's vehicle in St. Paul at which time a K-9 officer gave an alert to the possible presence of narcotics in the driver's door and the rear portion of the vehicle. Officers subsequently seized approximately 888.08 grams of methamphetamine from the rear cargo area and arrested Rea. According to his plea agreement, Rea admitted that he was in the process of delivering the methamphetamine to a customer when he was stopped by the police prior to the sale and arrested.
+"The 888.08 grams of methamphetamine seized in this investigation is 888.08 shots of methamphetamine that didn't make it to the street," stated Gary G. Olenkiewicz, Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota. "DEA will continue working with our law enforcement partners on the Dakota County Drug Task Force to keep this addictive poison from our communities."
+Judge Davis will determine Rea's sentencing at a future date. Rea faces a potential maximum penalty of life in prison. The case was prosecuted by Assistant U.S. Attorney Nancy E. Brasel.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="30" end="43" text="Joanna Zoltay" TYPE="NAM" />
+<person id="p1" start="65" end="76" text="St Paul Man" TYPE="BAR" />
+<person id="p2" start="167" end="202" text="St. Paul resident Israel Garcia Rea" TYPE="NAM" />
+<person id="p3" start="167" end="184" text="St. Paul resident" TYPE="NOMPRE" />
+<person id="p4" start="316" end="323" text="Rea, 32" TYPE="NAM" />
+<person id="p5" start="341" end="390" text="a federal grand jury in the District of Minnesota" TYPE="NOM" />
+<person id="p6" start="407" end="410" text="Rea" TYPE="NAM" />
+<person id="p7" start="419" end="422" text="his" TYPE="PRO" />
+<person id="p8" start="455" end="500" text="U.S. District Court Chief Judge Michael Davis" TYPE="NAM" />
+<person id="p9" start="455" end="486" text="U.S. District Court Chief Judge" TYPE="NOMPRE" />
+<person id="p10" start="589" end="592" text="Rea" TYPE="NAM" />
+<person id="p11" start="596" end="691" text="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" TYPE="NOM" />
+<person id="p12" start="752" end="755" text="Rea" TYPE="NAM" />
+<person id="p13" start="792" end="805" text="a K-9 officer" TYPE="NOM" />
+<person id="p14" start="861" end="871" text="the driver" TYPE="NOM" />
+<person id="p15" start="916" end="924" text="Officers" TYPE="BAR" />
+<person id="p16" start="1029" end="1032" text="Rea" TYPE="NAM" />
+<person id="p17" start="1047" end="1050" text="his" TYPE="PRO" />
+<person id="p18" start="1067" end="1070" text="Rea" TYPE="NAM" />
+<person id="p19" start="1085" end="1087" text="he" TYPE="PRO" />
+<person id="p20" start="1144" end="1154" text="a customer" TYPE="NOM" />
+<person id="p21" start="1160" end="1162" text="he" TYPE="PRO" />
+<person id="p23" start="1365" end="1481" text="Gary G. Olenkiewicz, Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" TYPE="APP" />
+<person id="p24" start="1365" end="1384" text="Gary G. Olenkiewicz" TYPE="NAM" />
+<person id="p25" start="1386" end="1481" text="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" TYPE="BAR" />
+<person id="p26" start="1634" end="1645" text="Judge Davis" TYPE="NAM" />
+<person id="p27" start="1661" end="1664" text="Rea" TYPE="NAM" />
+<person id="p28" start="1634" end="1639" text="Judge" TYPE="NOMPRE" />
+<person id="p29" start="1696" end="1699" text="Rea" TYPE="NAM" />
+<person id="p30" start="1780" end="1819" text="Assistant U.S. Attorney Nancy E. Brasel" TYPE="NAM" />
+<person id="p31" start="1780" end="1803" text="Assistant U.S. Attorney" TYPE="NOMPRE" />
+<organization id="o0" start="365" end="390" text="the District of Minnesota" TYPE="NAM" />
+<organization id="o1" start="455" end="474" text="U.S. District Court" TYPE="NOMPRE" />
+<organization id="o2" start="460" end="468" text="District" TYPE="NOMPRE" />
+<organization id="o3" start="536" end="543" text="the DEA" TYPE="NAM" />
+<organization id="o4" start="548" end="577" text="Dakota County Drug Task Force" TYPE="NAM" />
+<organization id="o5" start="608" end="691" text="a methamphetamine distribution organization operating in Dakota and Ramsey Counties" TYPE="NOM" />
+<organization id="o6" start="737" end="743" text="police" TYPE="NOMPRE" />
+<organization id="o7" start="1178" end="1188" text="the police" TYPE="NOM" />
+<organization id="o8" start="1413" end="1481" text="the DEA's Chicago Field Division which covers the state of Minnesota" TYPE="NAM" />
+<organization id="o9" start="1413" end="1420" text="the DEA" TYPE="NAM" />
+<organization id="o10" start="1446" end="1451" text="which" TYPE="WHQ" />
+<organization id="o12" start="1484" end="1487" text="DEA" TYPE="NAM" />
+<organization id="o14" start="1515" end="1518" text="our" TYPE="PRO" />
+<organization id="o15" start="1515" end="1580" text="our law enforcement partners on the Dakota County Drug Task Force" TYPE="BAR" />
+<organization id="o16" start="1547" end="1580" text="the Dakota County Drug Task Force" TYPE="NAM" />
+<geographical-political id="g0" start="65" end="72" text="St Paul" TYPE="NAMPRE" />
+<geographical-political id="g1" start="152" end="163" text="Minneapolis" TYPE="NAM" />
+<geographical-political id="g2" start="167" end="175" text="St. Paul" TYPE="NAMPRE" />
+<geographical-political id="g3" start="455" end="459" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g4" start="665" end="691" text="Dakota and Ramsey Counties" TYPE="BAR" />
+<geographical-political id="g5" start="676" end="682" text="Ramsey" TYPE="NAMPRE" />
+<geographical-political id="g6" start="665" end="671" text="Dakota" TYPE="NAMPRE" />
+<geographical-political id="g7" start="769" end="777" text="St. Paul" TYPE="NAM" />
+<geographical-political id="g8" start="1459" end="1481" text="the state of Minnesota" TYPE="NOM" />
+<geographical-political id="g9" start="1472" end="1481" text="Minnesota" TYPE="NAM" />
+<geographical-political id="g10" start="1616" end="1619" text="our" TYPE="PRO" />
+<geographical-political id="g11" start="1790" end="1794" text="U.S." TYPE="NAMPRE" />
+<falicity id="f0" start="1745" end="1751" text="prison" TYPE="BAR" />
+<head id="h0" start="30" end="43" text="Joanna Zoltay" />
+<head id="h1" start="65" end="72" text="St Paul" />
+<head id="h2" start="73" end="76" text="Man" />
+<head id="h3" start="152" end="163" text="Minneapolis" />
+<head id="h4" start="185" end="202" text="Israel Garcia Rea" />
+<head id="h5" start="176" end="184" text="resident" />
+<head id="h6" start="167" end="175" text="St. Paul" />
+<head id="h7" start="316" end="319" text="Rea" />
+<head id="h8" start="357" end="361" text="jury" />
+<head id="h9" start="369" end="390" text="District of Minnesota" />
+<head id="h10" start="407" end="410" text="Rea" />
+<head id="h11" start="419" end="422" text="his" />
+<head id="h12" start="487" end="500" text="Michael Davis" />
+<head id="h13" start="481" end="486" text="Judge" />
+<head id="h14" start="469" end="474" text="Court" />
+<head id="h15" start="460" end="468" text="District" />
+<head id="h16" start="455" end="459" text="U.S." />
+<head id="h17" start="540" end="543" text="DEA" />
+<head id="h18" start="548" end="577" text="Dakota County Drug Task Force" />
+<head id="h19" start="589" end="592" text="Rea" />
+<head id="h20" start="598" end="604" text="member" />
+<head id="h21" start="639" end="651" text="organization" />
+<head id="h22" start="683" end="691" text="Counties" />
+<head id="h23" start="676" end="682" text="Ramsey" />
+<head id="h24" start="665" end="671" text="Dakota" />
+<head id="h25" start="752" end="755" text="Rea" />
+<head id="h26" start="769" end="777" text="St. Paul" />
+<head id="h27" start="798" end="805" text="officer" />
+<head id="h28" start="737" end="743" text="police" />
+<head id="h29" start="865" end="871" text="driver" />
+<head id="h30" start="916" end="924" text="Officers" />
+<head id="h31" start="1029" end="1032" text="Rea" />
+<head id="h32" start="1047" end="1050" text="his" />
+<head id="h33" start="1067" end="1070" text="Rea" />
+<head id="h34" start="1085" end="1087" text="he" />
+<head id="h35" start="1146" end="1154" text="customer" />
+<head id="h36" start="1160" end="1162" text="he" />
+<head id="h37" start="1182" end="1188" text="police" />
+<head id="h38" start="1365" end="1384" text="Gary G. Olenkiewicz" />
+<head id="h39" start="1394" end="1399" text="Agent" />
+<head id="h40" start="1423" end="1445" text="Chicago Field Division" />
+<head id="h41" start="1417" end="1420" text="DEA" />
+<head id="h42" start="1446" end="1451" text="which" />
+<head id="h43" start="1463" end="1468" text="state" />
+<head id="h44" start="1472" end="1481" text="Minnesota" />
+<head id="h45" start="1484" end="1487" text="DEA" />
+<head id="h46" start="1535" end="1543" text="partners" />
+<head id="h47" start="1515" end="1518" text="our" />
+<head id="h48" start="1551" end="1580" text="Dakota County Drug Task Force" />
+<head id="h49" start="1616" end="1619" text="our" />
+<head id="h50" start="1640" end="1645" text="Davis" />
+<head id="h51" start="1661" end="1664" text="Rea" />
+<head id="h52" start="1634" end="1639" text="Judge" />
+<head id="h53" start="1696" end="1699" text="Rea" />
+<head id="h54" start="1804" end="1819" text="Nancy E. Brasel" />
+<head id="h55" start="1795" end="1803" text="Attorney" />
+<head id="h56" start="1790" end="1794" text="U.S." />
+<head id="h57" start="1745" end="1751" text="prison" />
+<name id="n0" start="30" end="43" text="Joanna Zoltay" />
+<name id="n1" start="65" end="72" text="St Paul" />
+<name id="n2" start="152" end="163" text="Minneapolis" />
+<name id="n3" start="185" end="202" text="Israel Garcia Rea" />
+<name id="n4" start="167" end="175" text="St. Paul" />
+<name id="n5" start="316" end="319" text="Rea" />
+<name id="n6" start="369" end="390" text="District of Minnesota" />
+<name id="n7" start="407" end="410" text="Rea" />
+<name id="n8" start="487" end="500" text="Michael Davis" />
+<name id="n9" start="455" end="459" text="U.S." />
+<name id="n10" start="540" end="543" text="DEA" />
+<name id="n11" start="548" end="577" text="Dakota County Drug Task Force" />
+<name id="n12" start="589" end="592" text="Rea" />
+<name id="n13" start="676" end="682" text="Ramsey" />
+<name id="n14" start="665" end="671" text="Dakota" />
+<name id="n15" start="752" end="755" text="Rea" />
+<name id="n16" start="769" end="777" text="St. Paul" />
+<name id="n17" start="1029" end="1032" text="Rea" />
+<name id="n18" start="1067" end="1070" text="Rea" />
+<name id="n19" start="1365" end="1384" text="Gary G. Olenkiewicz" />
+<name id="n20" start="1423" end="1445" text="Chicago Field Division" />
+<name id="n21" start="1417" end="1420" text="DEA" />
+<name id="n22" start="1472" end="1481" text="Minnesota" />
+<name id="n23" start="1484" end="1487" text="DEA" />
+<name id="n24" start="1551" end="1580" text="Dakota County Drug Task Force" />
+<name id="n25" start="1640" end="1645" text="Davis" />
+<name id="n26" start="1661" end="1664" text="Rea" />
+<name id="n27" start="1696" end="1699" text="Rea" />
+<name id="n28" start="1804" end="1819" text="Nancy E. Brasel" />
+<name id="n29" start="1790" end="1794" text="U.S." />
+<located-mention id="lo0" start="693" end="914" text="On July 2, 2008, the investigation led to a police stop of Rea's vehicle in St. Paul at which time a K-9 officer gave an alert to the possible presence of narcotics in the driver's door and the rear portion of the vehicle" TYPE="Other" />
+<employment-mention id="e0" start="1780" end="1803" text="Assistant U.S. Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="167" end="184" text="St. Paul resident" TYPE="PreMod" />
+<CRRE id="C1" start="65" end="76" text="St Paul Man" TYPE="PreMod" />
+<M id="M0" start="341" end="390" text="a federal grand jury in the District of Minnesota" TYPE="Preposition" />
+<M id="M1" start="455" end="486" text="U.S. District Court Chief Judge" TYPE="PreMod" />
+<M id="M2" start="596" end="691" text="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" TYPE="Preposition" />
+<M id="M3" start="1386" end="1481" text="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" TYPE="Preposition" />
+<entity_link id="en0" fromID="p2" fromText="St. Paul resident Israel Garcia Rea" toID="p1" toText="St Paul Man" />
+<entity_link id="en1" fromID="p3" fromText="St. Paul resident" toID="p2" toText="St. Paul resident Israel Garcia Rea" />
+<entity_link id="en2" fromID="g2" fromText="St. Paul" toID="g0" toText="St Paul" />
+<entity_link id="en3" fromID="p4" fromText="Rea, 32" toID="p2" toText="St. Paul resident Israel Garcia Rea" />
+<entity_link id="en4" fromID="p6" fromText="Rea" toID="p4" toText="Rea, 32" />
+<entity_link id="en5" fromID="p7" fromText="his" toID="p6" toText="Rea" />
+<entity_link id="en6" fromID="p9" fromText="U.S. District Court Chief Judge" toID="p8" toText="U.S. District Court Chief Judge Michael Davis" />
+<entity_link id="en7" fromID="p10" fromText="Rea" toID="p6" toText="Rea" />
+<entity_link id="en8" fromID="p11" fromText="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" toID="p10" toText="Rea" />
+<entity_link id="en9" fromID="p12" fromText="Rea" toID="p10" toText="Rea" />
+<entity_link id="en10" fromID="g7" fromText="St. Paul" toID="g2" toText="St. Paul" />
+<entity_link id="en11" fromID="p14" fromText="the driver" toID="p12" toText="Rea" />
+<entity_link id="en12" fromID="p16" fromText="Rea" toID="p12" toText="Rea" />
+<entity_link id="en13" fromID="p17" fromText="his" toID="p16" toText="Rea" />
+<entity_link id="en14" fromID="p18" fromText="Rea" toID="p16" toText="Rea" />
+<entity_link id="en15" fromID="p19" fromText="he" toID="p18" toText="Rea" />
+<entity_link id="en16" fromID="p21" fromText="he" toID="p18" toText="Rea" />
+<entity_link id="en17" fromID="p24" fromText="Gary G. Olenkiewicz" toID="p23" toText="Gary G. Olenkiewicz, Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" />
+<entity_link id="en18" fromID="p25" fromText="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" toID="p24" toText="Gary G. Olenkiewicz" />
+<entity_link id="en19" fromID="o9" fromText="the DEA" toID="o3" toText="the DEA" />
+<entity_link id="en20" fromID="o10" fromText="which" toID="o8" toText="the DEA's Chicago Field Division which covers the state of Minnesota" />
+<entity_link id="en21" fromID="g9" fromText="Minnesota" toID="g8" toText="the state of Minnesota" />
+<entity_link id="en22" fromID="o12" fromText="DEA" toID="o9" toText="the DEA" />
+<entity_link id="en23" fromID="o14" fromText="our" toID="o12" toText="DEA" />
+<entity_link id="en24" fromID="o16" fromText="the Dakota County Drug Task Force" toID="o4" toText="Dakota County Drug Task Force" />
+<entity_link id="en25" fromID="g10" fromText="our" toID="g3" toText="U.S." />
+<entity_link id="en26" fromID="p26" fromText="Judge Davis" toID="p8" toText="U.S. District Court Chief Judge Michael Davis" />
+<entity_link id="en27" fromID="p27" fromText="Rea" toID="p18" toText="Rea" />
+<entity_link id="en28" fromID="p28" fromText="Judge" toID="p26" toText="Judge Davis" />
+<entity_link id="en29" fromID="p29" fromText="Rea" toID="p27" toText="Rea" />
+<entity_link id="en30" fromID="p31" fromText="Assistant U.S. Attorney" toID="p30" toText="Assistant U.S. Attorney Nancy E. Brasel" />
+<entity_link id="en31" fromID="g11" fromText="U.S." toID="g3" toText="U.S." />
+<head_link id="he0" fromID="p0" fromText="Joanna Zoltay" toID="h0" toText="Joanna Zoltay" />
+<head_link id="he1" fromID="g0" fromText="St Paul" toID="h1" toText="St Paul" />
+<head_link id="he2" fromID="p1" fromText="St Paul Man" toID="h2" toText="Man" />
+<head_link id="he3" fromID="g1" fromText="Minneapolis" toID="h3" toText="Minneapolis" />
+<head_link id="he4" fromID="p2" fromText="St. Paul resident Israel Garcia Rea" toID="h4" toText="Israel Garcia Rea" />
+<head_link id="he5" fromID="p3" fromText="St. Paul resident" toID="h5" toText="resident" />
+<head_link id="he6" fromID="g2" fromText="St. Paul" toID="h6" toText="St. Paul" />
+<head_link id="he7" fromID="p4" fromText="Rea, 32" toID="h7" toText="Rea" />
+<head_link id="he8" fromID="p5" fromText="a federal grand jury in the District of Minnesota" toID="h8" toText="jury" />
+<head_link id="he9" fromID="p5" fromText="a federal grand jury in the District of Minnesota" toID="h9" toText="District of Minnesota" />
+<head_link id="he10" fromID="p6" fromText="Rea" toID="h10" toText="Rea" />
+<head_link id="he11" fromID="p7" fromText="his" toID="h11" toText="his" />
+<head_link id="he12" fromID="p8" fromText="U.S. District Court Chief Judge Michael Davis" toID="h12" toText="Michael Davis" />
+<head_link id="he13" fromID="p9" fromText="U.S. District Court Chief Judge" toID="h13" toText="Judge" />
+<head_link id="he14" fromID="o1" fromText="U.S. District Court" toID="h14" toText="Court" />
+<head_link id="he16" fromID="o2" fromText="District" toID="h15" toText="District" />
+<head_link id="he17" fromID="g3" fromText="U.S." toID="h16" toText="U.S." />
+<head_link id="he18" fromID="o3" fromText="the DEA" toID="h17" toText="DEA" />
+<head_link id="he19" fromID="o4" fromText="Dakota County Drug Task Force" toID="h18" toText="Dakota County Drug Task Force" />
+<head_link id="he20" fromID="p10" fromText="Rea" toID="h19" toText="Rea" />
+<head_link id="he21" fromID="p11" fromText="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" toID="h20" toText="member" />
+<head_link id="he22" fromID="o5" fromText="a methamphetamine distribution organization operating in Dakota and Ramsey Counties" toID="h21" toText="organization" />
+<head_link id="he23" fromID="g4" fromText="Dakota and Ramsey Counties" toID="h22" toText="Counties" />
+<head_link id="he24" fromID="g6" fromText="Dakota" toID="h24" toText="Dakota" />
+<head_link id="he25" fromID="g5" fromText="Ramsey" toID="h23" toText="Ramsey" />
+<head_link id="he15" fromID="p12" fromText="Rea" toID="h25" toText="Rea" />
+<head_link id="he26" fromID="g7" fromText="St. Paul" toID="h26" toText="St. Paul" />
+<head_link id="he27" fromID="p13" fromText="a K-9 officer" toID="h27" toText="officer" />
+<head_link id="he28" fromID="o6" fromText="police" toID="h28" toText="police" />
+<head_link id="he29" fromID="p14" fromText="the driver" toID="h29" toText="driver" />
+<head_link id="he30" fromID="p15" fromText="Officers" toID="h30" toText="Officers" />
+<head_link id="he31" fromID="p16" fromText="Rea" toID="h31" toText="Rea" />
+<head_link id="he32" fromID="p17" fromText="his" toID="h32" toText="his" />
+<head_link id="he33" fromID="p18" fromText="Rea" toID="h33" toText="Rea" />
+<head_link id="he34" fromID="p19" fromText="he" toID="h34" toText="he" />
+<head_link id="he35" fromID="p20" fromText="a customer" toID="h35" toText="customer" />
+<head_link id="he36" fromID="p21" fromText="he" toID="h36" toText="he" />
+<head_link id="he37" fromID="o7" fromText="the police" toID="h37" toText="police" />
+<head_link id="he38" fromID="p24" fromText="Gary G. Olenkiewicz" toID="h38" toText="Gary G. Olenkiewicz" />
+<head_link id="he39" fromID="p25" fromText="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" toID="h39" toText="Agent" />
+<head_link id="he40" fromID="o8" fromText="the DEA's Chicago Field Division which covers the state of Minnesota" toID="h40" toText="Chicago Field Division" />
+<head_link id="he41" fromID="o9" fromText="the DEA" toID="h41" toText="DEA" />
+<head_link id="he42" fromID="o10" fromText="which" toID="h42" toText="which" />
+<head_link id="he43" fromID="g8" fromText="the state of Minnesota" toID="h43" toText="state" />
+<head_link id="he44" fromID="g9" fromText="Minnesota" toID="h44" toText="Minnesota" />
+<head_link id="he45" fromID="o12" fromText="DEA" toID="h45" toText="DEA" />
+<head_link id="he47" fromID="o14" fromText="our" toID="h47" toText="our" />
+<head_link id="he48" fromID="o15" fromText="our law enforcement partners on the Dakota County Drug Task Force" toID="h46" toText="partners" />
+<head_link id="he49" fromID="o16" fromText="the Dakota County Drug Task Force" toID="h48" toText="Dakota County Drug Task Force" />
+<head_link id="he50" fromID="g10" fromText="our" toID="h49" toText="our" />
+<head_link id="he51" fromID="p26" fromText="Judge Davis" toID="h50" toText="Davis" />
+<head_link id="he52" fromID="p27" fromText="Rea" toID="h51" toText="Rea" />
+<head_link id="he53" fromID="p28" fromText="Judge" toID="h52" toText="Judge" />
+<head_link id="he54" fromID="p29" fromText="Rea" toID="h53" toText="Rea" />
+<head_link id="he55" fromID="p30" fromText="Assistant U.S. Attorney Nancy E. Brasel" toID="h54" toText="Nancy E. Brasel" />
+<head_link id="he56" fromID="p31" fromText="Assistant U.S. Attorney" toID="h55" toText="Attorney" />
+<head_link id="he57" fromID="g11" fromText="U.S." toID="h56" toText="U.S." />
+<head_link id="he46" fromID="f0" fromText="prison" toID="h57" toText="prison" />
+<name_link id="na0" fromID="p0" fromText="Joanna Zoltay" toID="n0" toText="Joanna Zoltay" />
+<name_link id="na1" fromID="g0" fromText="St Paul" toID="n1" toText="St Paul" />
+<name_link id="na2" fromID="g1" fromText="Minneapolis" toID="n2" toText="Minneapolis" />
+<name_link id="na3" fromID="p2" fromText="St. Paul resident Israel Garcia Rea" toID="n3" toText="Israel Garcia Rea" />
+<name_link id="na4" fromID="g2" fromText="St. Paul" toID="n4" toText="St. Paul" />
+<name_link id="na5" fromID="p4" fromText="Rea, 32" toID="n5" toText="Rea" />
+<name_link id="na6" fromID="p5" fromText="a federal grand jury in the District of Minnesota" toID="n6" toText="District of Minnesota" />
+<name_link id="na7" fromID="p6" fromText="Rea" toID="n7" toText="Rea" />
+<name_link id="na8" fromID="p8" fromText="U.S. District Court Chief Judge Michael Davis" toID="n8" toText="Michael Davis" />
+<name_link id="na9" fromID="g3" fromText="U.S." toID="n9" toText="U.S." />
+<name_link id="na10" fromID="o3" fromText="the DEA" toID="n10" toText="DEA" />
+<name_link id="na11" fromID="o4" fromText="Dakota County Drug Task Force" toID="n11" toText="Dakota County Drug Task Force" />
+<name_link id="na12" fromID="p10" fromText="Rea" toID="n12" toText="Rea" />
+<name_link id="na13" fromID="g6" fromText="Dakota" toID="n14" toText="Dakota" />
+<name_link id="na14" fromID="g5" fromText="Ramsey" toID="n13" toText="Ramsey" />
+<name_link id="na15" fromID="p12" fromText="Rea" toID="n15" toText="Rea" />
+<name_link id="na16" fromID="g7" fromText="St. Paul" toID="n16" toText="St. Paul" />
+<name_link id="na17" fromID="p16" fromText="Rea" toID="n17" toText="Rea" />
+<name_link id="na18" fromID="p18" fromText="Rea" toID="n18" toText="Rea" />
+<name_link id="na19" fromID="p24" fromText="Gary G. Olenkiewicz" toID="n19" toText="Gary G. Olenkiewicz" />
+<name_link id="na20" fromID="o8" fromText="the DEA's Chicago Field Division which covers the state of Minnesota" toID="n20" toText="Chicago Field Division" />
+<name_link id="na21" fromID="o9" fromText="the DEA" toID="n21" toText="DEA" />
+<name_link id="na22" fromID="g9" fromText="Minnesota" toID="n22" toText="Minnesota" />
+<name_link id="na23" fromID="o12" fromText="DEA" toID="n23" toText="DEA" />
+<name_link id="na24" fromID="o16" fromText="the Dakota County Drug Task Force" toID="n24" toText="Dakota County Drug Task Force" />
+<name_link id="na25" fromID="p26" fromText="Judge Davis" toID="n25" toText="Davis" />
+<name_link id="na26" fromID="p27" fromText="Rea" toID="n26" toText="Rea" />
+<name_link id="na27" fromID="p29" fromText="Rea" toID="n27" toText="Rea" />
+<name_link id="na28" fromID="p30" fromText="Assistant U.S. Attorney Nancy E. Brasel" toID="n28" toText="Nancy E. Brasel" />
+<name_link id="na29" fromID="g11" fromText="U.S." toID="n29" toText="U.S." />
+<relation_link1 id="r0" fromID="C0" fromText="St. Paul resident" toID="p3" toText="St. Paul resident" />
+<relation_link1 id="r1" fromID="C1" fromText="St Paul Man" toID="p1" toText="St Paul Man" />
+<relation_link1 id="r4" fromID="M0" fromText="a federal grand jury in the District of Minnesota" toID="p5" toText="a federal grand jury in the District of Minnesota" />
+<relation_link1 id="r5" fromID="M1" fromText="U.S. District Court Chief Judge" toID="p9" toText="U.S. District Court Chief Judge" />
+<relation_link1 id="r6" fromID="M2" fromText="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" toID="p11" toText="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" />
+<relation_link1 id="r7" fromID="lo0" fromText="On July 2, 2008, the investigation led to a police stop of Rea's vehicle in St. Paul at which time a K-9 officer gave an alert to the possible presence of narcotics in the driver's door and the rear portion of the vehicle" toID="p12" toText="Rea" />
+<relation_link1 id="r8" fromID="M3" fromText="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" toID="p25" toText="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" />
+<relation_link1 id="r9" fromID="e0" fromText="Assistant U.S. Attorney" toID="p31" toText="Assistant U.S. Attorney" />
+<relation_link2 id="re0" fromID="C0" fromText="St. Paul resident" toID="g2" toText="St. Paul" />
+<relation_link2 id="re1" fromID="C1" fromText="St Paul Man" toID="g0" toText="St Paul" />
+<relation_link2 id="re4" fromID="M0" fromText="a federal grand jury in the District of Minnesota" toID="o0" toText="the District of Minnesota" />
+<relation_link2 id="re5" fromID="M1" fromText="U.S. District Court Chief Judge" toID="o1" toText="U.S. District Court" />
+<relation_link2 id="re6" fromID="M2" fromText="a member of a methamphetamine distribution organization operating in Dakota and Ramsey Counties" toID="o5" toText="a methamphetamine distribution organization operating in Dakota and Ramsey Counties" />
+<relation_link2 id="re7" fromID="lo0" fromText="On July 2, 2008, the investigation led to a police stop of Rea's vehicle in St. Paul at which time a K-9 officer gave an alert to the possible presence of narcotics in the driver's door and the rear portion of the vehicle" toID="g7" toText="St. Paul" />
+<relation_link2 id="re8" fromID="M3" fromText="Special Agent in Charge of the DEA's Chicago Field Division which covers the state of Minnesota" toID="o8" toText="the DEA's Chicago Field Division which covers the state of Minnesota" />
+<relation_link2 id="re9" fromID="e0" fromText="Assistant U.S. Attorney" toID="g11" toText="U.S." />
+</TAGS>
+</KddTask>

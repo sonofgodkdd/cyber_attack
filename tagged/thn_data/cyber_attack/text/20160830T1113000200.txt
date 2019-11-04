@@ -1,0 +1,24 @@
+Two US State Election Systems Hacked to Steal Voter Databases — FBI Warns
+Mohit Kumar
+
+A group of unknown hackers or an individual hacker may have breached voter registration databases for election systems in at least two US states, according to the FBI, who found evidence during an investigation this month.
+Although any intrusion in the state voting system has not been reported, the FBI is currently investigating the cyberattacks on the official websites for voter registration system in both Illinois and Arizona, said Yahoo News.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The FBI's Cyber Division released a "Flash Alert" to election offices and officials across the United States, asking them to watch out for any potential intrusions and take better security precautions.
+"In late June 2016, an unknown actor scanned a state's Board of Election website for vulnerabilities using Acunetix, and after identifying a Structured Query Language (SQL) injection (SQLi) vulnerability, used SQLmap to target the state website," the FBI alert reads.
+"The majority of the data exfiltration occurred in mid-July. There were 7 suspicious IPs and penetration testing tools Acunetix, SQLMap, and DirBuster used by the actor."
+The SQL injection attack on Illinois state board website took place in late July, which brought down the state’s voter registration for ten days and siphoned off data on as many as 200,000 registered voters.
+However, the Arizona attack was less significant, as the hackers were not able to discover any potential loophole using a vulnerability scanning tool, which could have allowed them to steal any data successfully.
+In the wake of these attacks, the FBI also advised ‘Board of Elections’ of all States to investigate their server logs and determine whether any similar SQL injection, privilege escalation attempts, or directory enumeration activity has occurred.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Last December, a misconfigured 300GB of the database also resulted in the exposure of around 191 Million US Voter records, including their full names, home addresses, unique voter IDs, date of births and phone numbers.
+Why Blame Russia, Always? There's No Evidence Yet
+The attacks against the state election boards came weeks after the DNC hack that leaked embarrassing emails about the party, leading to the resignation of DNC (Democratic National Committee) Chairwoman Debbie Wasserman Schultz.
+Some security experts and law enforcement agencies raised concerns about politically motivated hacking, pointing finger over the Russian state-sponsored hackers in an attempt to damage Hillary Clinton’s presidential campaign.
+Although the FBI does not attribute the recent attacks to any particular hacking group or country, Yahoo News links the attacks to Russia on the basis of IP addresses involved.
+However, those IP addresses that the FBI said were associated with the attacks belong to a Russian VPN service, which does not conclude that the Russians are behind the attacks.
+It's believed that the hacks were carried out to disturb the election process either by altering voting totals in the database or by modifying the voter registration page.
+Script-Kiddie Move Reveals Everything:
+But, by scanning the website with a vulnerability scanner and downloading the whole database, the ‘script-kiddies’ itself made a rod for their own back, which indicates that neither they are sophisticated state-sponsored hackers, nor they had any intention to influence the election covertly.
+Neither the Illinois nor Arizona board of elections have responded to these hack attempts.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

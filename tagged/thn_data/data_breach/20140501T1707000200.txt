@@ -1,0 +1,23 @@
+Facebook Introduces Anonymous Login to Limit Third-party App Permissions
+Swati Khandelwal
+
+We're comfortable in sharing information with our Facebook friends, but it is quite sneaky for Facebook users to offer their Identities and credentials when logging in to third-party apps, they don’t trust. To deal with this issue, the social network giant has plans to improve the way users login to the third party apps with more privacy controls on the web as well as mobile devices.
+ANONYMOUS LOGIN
+At Facebook’s F8 developer conference in San Francisco on Wednesday, Keynote speaker - Chief Executive Mark Zuckerberg announced the new Facebook’s login tool, "Anonymous Login" that would let users sign into apps and websites anonymously without sharing their personal information-Biggest news for Facebook users.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Today, we want to do more to put control and power back into people's hands," Zuckerberg said at the conference. "Up until now, your friends have been able to share your data via using apps. Now we're changing this, so everybody controls how their data is shared with apps, even ones others are using."
+USERS’ TOTAL CONTROL OVER APP PERMISSIONS
+Another new feature Facebook is rolling out in the next few months will also gives you total control over exactly what information you would like to share with the individual third-party app. Facebook is also planning to limit the ability of third-party app to read the content shared between the users and their friends. 
+This new privacy feature will let user options to permit whether third-party apps will be able to access their information when their friend logs in with Facebook or not.
+“With the new Login, I can sign in on my own terms. I can uncheck boxes I don't want to share. We've heard very clearly about how you want more control with how you're sharing with apps, and this new Login gives you that control."
+Once users have decided an Facebook app is trustworthy, they can connect it to their profile and allow, say, the posting of automatic status updates, or access other parts of an account.
+In addition to the Anonymous Login and better controls over app permissions, Facebook is also going to redesign its app permissions dashboard, making it much easier for its users to edit what permissions they have granted to their apps.
+"At Facebook, we serve a lot of groups, including developers, advertisers, and employees—but the most important group we serve is the people who use our products," Zuckerberg said. "And we must always put those people first. People want more control over how they share their information, especially with apps, and they want more control how apps share their data."
+PLANS FOR ADVERTISERS & APP DEVELOPERS
+Addressing the developers, Mark Zuckerberg said the tool would let Facebook users feel free and more comfortable about signing into more apps using Facebook and moreover this new feature will let more and more people to try out new apps.
+“By giving people more power and control, they're going to trust all the apps that we build more, and over time use them more. And that’s positive for everyone,” said Zuckerberg.
+For advertisers and app makers, the company has also announced a new mobile AD Product dubbed as “Facebook Audience Network," that will leverage app developers to insert ads from Facebook’s more than 1 million advertisers into their own apps and then split the revenue, which is now open for registration.
+For the rest of Facebook's developer audience, the social network promised not to break things anymore, a dramatic switch in its founding motto of "Move fast and break things."
+This new move of the popular Internet giant is a conscious effort to get users more comfortable with sharing their information during a time when privacy concerns and security breaches abound and it shows Facebook cares about your privacy.
+The engineers at Facebook are testing the Anonymous Login with a few developers for now, and after the testing period it will widely available to all developers "in the coming months."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

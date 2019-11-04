@@ -1,0 +1,20 @@
+Hackers Compromise Microsoft Support Agent to Access Outlook Email Accounts
+Swati Khandelwal
+
+If you have an account with Microsoft Outlook email service, there is a possibility that your account information has been compromised by an unknown hacker or group of hackers, Microsoft confirmed The Hacker News.
+Earlier this year, hackers managed to breach Microsoft's customer support portal and access information related to some email accounts registered with the company's Outlook service.
+Yesterday, a user on Reddit publicly posted a screenshot of an email which he received from Microsoft warning that unknown attackers were able to access some information of his OutLook account between 1 January 2019 and 28 March 2019.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Another user on Reddit also confirmed that he/she too received the same email from Microsoft.
+According to the incident notification email, as shown below, attackers were able to compromise credentials for one of Microsoft's customer support agents and used it to unauthorisedly access some information related to the affected accounts, but not the content of the emails or attachments.
+The information that a Microsoft's customer support agent can view is limited to account email addresses, folder names, subject lines of emails, and the name of other email addresses you communicate with.
+"Our data indicates that account-related information (but not the content of any e-mails) could have been viewed, but Microsoft has no indication why that information was viewed or how it may have been used," the company says in the email.
+It should be noted that since attackers had an alternative window, i.e., access to customer support account, to partially look inside the affected email accounts without actually having to log into each account, even the two-factor authentication was not able to prevent users' accounts.
+At this time, it is not clear how the attackers were able to compromise Microsoft employee, but the tech company confirmed that it has now revoked the stolen credentials and started notifying all affected customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In an email to The Hacker News, Microsoft verified the authenticity of the notification email and confirmed the breach saying:
+"We addressed this scheme, which affected a limited subset of consumer accounts, by disabling the compromised credentials and blocking the perpetrators' access."
+However, Microsoft did not disclose the total number of accounts affected by the incident.
+Although the breach did not directly impact your email login credentials, Microsoft recommended users to still consider resetting passwords for their Microsoft accounts just to be on the safer side.
+"Microsoft regrets any inconvenience caused by this issue," the company says. "Please be assured that Microsoft takes data protection very seriously and has engaged its internal security and privacy teams in the investigation and resolution of the issue, as well as. additional hardening of systems and processes to prevent such recurrence."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

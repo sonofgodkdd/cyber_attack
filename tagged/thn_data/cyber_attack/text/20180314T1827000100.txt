@@ -1,0 +1,20 @@
+Trojanized BitTorrent Software Update Hijacked 400,000 PCs Last Week
+Swati Khandelwal
+
+A massive malware outbreak that last week infected nearly half a million computers with cryptocurrency mining malware in just a few hours was caused by a backdoored version of popular BitTorrent client called MediaGet.
+Dubbed Dofoil (also known as Smoke Loader), the malware was found dropping a cryptocurrency miner program as payload on infected Windows computers that mine Electroneum digital coins for attackers using victims' CPU cycles.
+Dofoil campaign that hit PCs in Russia, Turkey, and Ukraine on 6th March was discovered by Microsoft Windows Defender research department and blocked the attack before it could have done any severe damages.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+At the time when Windows Defender researchers detected this attack, they did not mention how the malware was delivered to such a massive audience in just 12 hours.
+However, after investigation Microsoft today revealed that the attackers targeted the update mechanism of MediaGet BitTorrent software to push its trojanized version (mediaget.exe) to users' computers.
+"A signed mediaget.exe downloads an update.exe program and runs it on the machine to install a new mediaget.exe. The new mediaget.exe program has the same functionality as the original but with additional backdoor capability," the researchers explain in a blog post published today.
+Researchers believe MediaGet that signed update.exe is likely to be a victim of the supply chain attack, similar to CCleaner hack that infected over 2.3 million users with the backdoored version of the software in September 2017.
+Also, in this case, the attackers signed the poisoned update.exe with a different certificate and successfully passed the validation required by the legitimate MediaGet.
+"The dropped update.exe is a packaged InnoSetup SFX which has an embedded trojanized mediaget.exe, update.exe. When run, it drops a trojanized unsigned version of mediaget.exe."
+Once updated, the malicious BitTorrent software with additional backdoor functionality randomly connects to one (out of four) of its command-and-control (C&C) servers hosted on decentralized Namecoin network infrastructure and listens for new commands.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+It then immediately downloads CoinMiner component from its C&C server, and start using victims' computers mine cryptocurrencies for the attackers.
+Using C&C servers, attackers can also command infected systems to download and install additional malware from a remote URL.
+The researchers found that the trojanized BitTorrent client, detected by Windows Defender AV as Trojan:Win32/Modimer.A, has 98% similarity to the original MediaGet binary.
+Microsoft says behavior monitoring and AI-based machine learning techniques used by its Windows Defender Antivirus software have played an important role to detect and block this massive malware campaign.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

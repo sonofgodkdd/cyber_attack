@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+U.S. Border Patrol Seizes Large Quantity of Marijuana Over Long Weekend
+Busts Net More Than $4 Million in Narcotics
+(Tuesday, January 18, 2011)
+Tucson, Ariz.  - U.S. Border Patrol agents seized more than 5,326 pounds of marijuana in three separate incidents across the Tucson Sector over the long weekend. The estimated value of the contraband is approximately $4,188,800.
+The first seizure took place Friday when agents assigned to the Willcox Station noticed a suspicious semi-truck and performed a vehicle stop near Willcox, Ariz. After a positive hit from a K-9 team, agents performed a more thorough inspection and discovered 100 cellophane-wrapped bundles of marijuana concealed within the paneling of the vehicle. The narcotics weighed 2,390 pounds with and estimated value of $1,912,000. The vehicle, marijuana and driver were turned over to the Drug Enforcement Administration (DEA) for further processing.
+Agents assigned to the Casa Grande Station made a significant seizure Sunday after responding to sensor activation in the West Desert. The agents deployed night vision technology and spotted 10 illegal aliens. Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400. The marijuana was turned over to the DEA.
+Monday evening, agents assigned to the Ajo Station spotted a suspicious vehicle traveling off-road in the West Desert. Through the use of mobile surveillance technology, multiple agents responded to the area where the suspicious vehicle became immobilized in a wash. After securing the area, the agents discovered 128 bundles of marijuana weighing 2,253 pounds with an estimated value of $1,802,400. The vehicle was seized and the marijuana was turned over to the DEA.
+"These seizures signify a success not only for the U.S. Border Patrol, but also for the citizens of Arizona and the nation. The millions of dollars that could have been made from the sale of these drugs will no longer end up in the hands of drug trafficking organizations. It is always gratifying when we make strides in keeping contraband from entering further into the United States," said Chief Patrol Agent Randy Hill.
+The Border Patrol continues to rely on the community to assist. Should you see any suspicious activity please report it by calling our toll free number at 
+1-877-872-7435 . All calls will be answered and will remain anonymous.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="162" end="187" text="U.S. Border Patrol agents" TYPE="BAR" />
+<person id="p2" start="415" end="453" text="agents assigned to the Willcox Station" TYPE="BAR" />
+<person id="p3" start="561" end="571" text="a K-9 team" TYPE="NOM" />
+<person id="p4" start="573" end="579" text="agents" TYPE="BAR" />
+<person id="p5" start="797" end="830" text="The vehicle, marijuana and driver" TYPE="NOM" />
+<person id="p6" start="917" end="959" text="Agents assigned to the Casa Grande Station" TYPE="BAR" />
+<person id="p7" start="1052" end="1062" text="The agents" TYPE="NOM" />
+<person id="p8" start="1108" end="1125" text="10 illegal aliens" TYPE="NOM" />
+<person id="p9" start="1153" end="1165" text="the subjects" TYPE="NOM" />
+<person id="p10" start="1344" end="1378" text="agents assigned to the Ajo Station" TYPE="BAR" />
+<person id="p11" start="1498" end="1513" text="multiple agents" TYPE="BAR" />
+<person id="p12" start="1620" end="1630" text="the agents" TYPE="NOM" />
+<person id="p13" start="2189" end="2218" text="Chief Patrol Agent Randy Hill" TYPE="NAM" />
+<person id="p14" start="2189" end="2207" text="Chief Patrol Agent" TYPE="NOMPRE" />
+<person id="p15" start="2291" end="2294" text="you" TYPE="PRO" />
+<organization id="o0" start="1" end="19" text="U.S. Border Patrol" TYPE="NAM" />
+<organization id="o1" start="162" end="180" text="U.S. Border Patrol" TYPE="NAMPRE" />
+<organization id="o2" start="851" end="891" text="the Drug Enforcement Administration (DEA" TYPE="NAM" />
+<organization id="o3" start="888" end="891" text="DEA" TYPE="NAM" />
+<organization id="o4" start="1319" end="1326" text="the DEA" TYPE="NAM" />
+<organization id="o5" start="1788" end="1795" text="the DEA" TYPE="NAM" />
+<organization id="o6" start="1844" end="1866" text="the U.S. Border Patrol" TYPE="NAM" />
+<organization id="o7" start="2038" end="2068" text="drug trafficking organizations" TYPE="BAR" />
+<organization id="o8" start="2099" end="2101" text="we" TYPE="PRO" />
+<organization id="o10" start="2220" end="2237" text="The Border Patrol" TYPE="NAM" />
+<organization id="o11" start="2351" end="2354" text="our" TYPE="PRO" />
+<organization id="o9" start="2195" end="2201" text="Patrol" TYPE="NOMPRE" />
+<geographical-political id="g0" start="145" end="157" text="Tucson, Ariz" TYPE="NAM" />
+<geographical-political id="g1" start="153" end="157" text="Ariz" TYPE="NAM" />
+<geographical-political id="g2" start="520" end="533" text="Willcox, Ariz" TYPE="NAM" />
+<geographical-political id="g3" start="1182" end="1188" text="Mexico" TYPE="NAM" />
+<geographical-political id="g4" start="1881" end="1904" text="the citizens of Arizona" TYPE="NOM" />
+<geographical-political id="g5" start="1897" end="1904" text="Arizona" TYPE="NAM" />
+<geographical-political id="g6" start="1909" end="1919" text="the nation" TYPE="NOM" />
+<geographical-political id="g7" start="529" end="533" text="Ariz" TYPE="NAM" />
+<geographical-political id="g8" start="2164" end="2181" text="the United States" TYPE="NAM" />
+<geographical-political id="g9" start="2259" end="2272" text="the community" TYPE="NOM" />
+<location id="l0" start="266" end="283" text="the Tucson Sector" TYPE="NAM" />
+<location id="l1" start="1035" end="1050" text="the West Desert" TYPE="NAM" />
+<location id="l2" start="1430" end="1445" text="the West Desert" TYPE="NAM" />
+<location id="l3" start="1143" end="1151" text="the area" TYPE="NOM" />
+<location id="l4" start="1527" end="1593" text="the area where the suspicious vehicle became immobilized in a wash" TYPE="NOM" />
+<location id="l5" start="1536" end="1541" text="where" TYPE="WHQ" />
+<location id="l6" start="1610" end="1618" text="the area" TYPE="NOM" />
+<falicity id="f0" start="434" end="453" text="the Willcox Station" TYPE="NAM" />
+<falicity id="f1" start="936" end="959" text="the Casa Grande Station" TYPE="NAM" />
+<falicity id="f2" start="1363" end="1378" text="the Ajo Station" TYPE="NAM" />
+<head id="h0" start="1" end="19" text="U.S. Border Patrol" />
+<head id="h1" start="145" end="151" text="Tucson" />
+<head id="h2" start="153" end="157" text="Ariz" />
+<head id="h3" start="181" end="187" text="agents" />
+<head id="h4" start="162" end="180" text="U.S. Border Patrol" />
+<head id="h5" start="270" end="283" text="Tucson Sector" />
+<head id="h6" start="415" end="421" text="agents" />
+<head id="h7" start="438" end="453" text="Willcox Station" />
+<head id="h8" start="520" end="527" text="Willcox" />
+<head id="h9" start="567" end="571" text="team" />
+<head id="h10" start="573" end="579" text="agents" />
+<head id="h11" start="824" end="830" text="driver" />
+<head id="h12" start="855" end="886" text="Drug Enforcement Administration" />
+<head id="h13" start="888" end="891" text="DEA" />
+<head id="h14" start="917" end="923" text="Agents" />
+<head id="h15" start="940" end="959" text="Casa Grande Station" />
+<head id="h16" start="1039" end="1050" text="West Desert" />
+<head id="h17" start="1056" end="1062" text="agents" />
+<head id="h18" start="1119" end="1125" text="aliens" />
+<head id="h19" start="1157" end="1165" text="subjects" />
+<head id="h20" start="1182" end="1188" text="Mexico" />
+<head id="h21" start="1323" end="1326" text="DEA" />
+<head id="h22" start="1344" end="1350" text="agents" />
+<head id="h23" start="1367" end="1378" text="Ajo Station" />
+<head id="h24" start="1434" end="1445" text="West Desert" />
+<head id="h25" start="1507" end="1513" text="agents" />
+<head id="h27" start="1624" end="1630" text="agents" />
+<head id="h28" start="1792" end="1795" text="DEA" />
+<head id="h29" start="1848" end="1866" text="U.S. Border Patrol" />
+<head id="h30" start="1885" end="1893" text="citizens" />
+<head id="h31" start="1897" end="1904" text="Arizona" />
+<head id="h32" start="1913" end="1919" text="nation" />
+<head id="h33" start="529" end="533" text="Ariz" />
+<head id="h34" start="2055" end="2068" text="organizations" />
+<head id="h35" start="2099" end="2101" text="we" />
+<head id="h36" start="2168" end="2181" text="United States" />
+<head id="h37" start="2208" end="2218" text="Randy Hill" />
+<head id="h38" start="2202" end="2207" text="Agent" />
+<head id="h40" start="2224" end="2237" text="Border Patrol" />
+<head id="h41" start="2291" end="2294" text="you" />
+<head id="h42" start="2351" end="2354" text="our" />
+<head id="h26" start="2195" end="2201" text="Patrol" />
+<head id="h39" start="2263" end="2272" text="community" />
+<head id="h43" start="1147" end="1151" text="area" />
+<head id="h44" start="1531" end="1535" text="area" />
+<head id="h45" start="1536" end="1541" text="where" />
+<head id="h46" start="1614" end="1618" text="area" />
+<name id="n0" start="1" end="19" text="U.S. Border Patrol" />
+<name id="n1" start="145" end="151" text="Tucson" />
+<name id="n2" start="153" end="157" text="Ariz" />
+<name id="n3" start="162" end="180" text="U.S. Border Patrol" />
+<name id="n4" start="270" end="283" text="Tucson Sector" />
+<name id="n5" start="438" end="453" text="Willcox Station" />
+<name id="n6" start="520" end="527" text="Willcox" />
+<name id="n7" start="855" end="886" text="Drug Enforcement Administration" />
+<name id="n8" start="888" end="891" text="DEA" />
+<name id="n9" start="940" end="959" text="Casa Grande Station" />
+<name id="n10" start="1039" end="1050" text="West Desert" />
+<name id="n11" start="1182" end="1188" text="Mexico" />
+<name id="n12" start="1323" end="1326" text="DEA" />
+<name id="n13" start="1367" end="1378" text="Ajo Station" />
+<name id="n14" start="1434" end="1445" text="West Desert" />
+<name id="n15" start="1792" end="1795" text="DEA" />
+<name id="n16" start="1848" end="1866" text="U.S. Border Patrol" />
+<name id="n17" start="1897" end="1904" text="Arizona" />
+<name id="n18" start="529" end="533" text="Ariz" />
+<name id="n19" start="2168" end="2181" text="United States" />
+<name id="n20" start="2208" end="2218" text="Randy Hill" />
+<name id="n21" start="2224" end="2237" text="Border Patrol" />
+<located-mention id="lo0" start="415" end="453" text="agents assigned to the Willcox Station" TYPE="Participial" />
+<located-mention id="lo1" start="917" end="959" text="Agents assigned to the Casa Grande Station" TYPE="Participial" />
+<located-mention id="lo2" start="1344" end="1378" text="agents assigned to the Ajo Station" TYPE="Participial" />
+<located-mention id="lo4" start="1127" end="1284" text="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" TYPE="Verbal" />
+<located-mention id="lo3" start="1127" end="1284" text="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" TYPE="Other" />
+<located-mention id="lo5" start="1447" end="1593" text="Through the use of mobile surveillance technology, multiple agents responded to the area where the suspicious vehicle became immobilized in a wash" TYPE="Verbal" />
+<located-mention id="lo6" start="917" end="1050" text="Agents assigned to the Casa Grande Station made a significant seizure Sunday after responding to sensor activation in the West Desert" TYPE="Other" />
+<located-mention id="lo7" start="1595" end="1726" text="After securing the area, the agents discovered 128 bundles of marijuana weighing 2,253 pounds with an estimated value of $1,802,400" TYPE="Other" />
+<located-mention id="lo8" start="162" end="305" text="U.S. Border Patrol agents seized more than 5,326 pounds of marijuana in three separate incidents across the Tucson Sector over the long weekend" TYPE="Other" />
+<M id="M0" start="162" end="187" text="U.S. Border Patrol agents" TYPE="PreMod" />
+<M id="M1" start="2189" end="2207" text="Chief Patrol Agent" TYPE="PreMod" />
+<entity_link id="en0" fromID="p4" fromText="agents" toID="p2" toText="agents assigned to the Willcox Station" />
+<entity_link id="en1" fromID="p7" fromText="The agents" toID="p6" toText="Agents assigned to the Casa Grande Station" />
+<entity_link id="en2" fromID="p9" fromText="the subjects" toID="p8" toText="10 illegal aliens" />
+<entity_link id="en3" fromID="p11" fromText="multiple agents" toID="p10" toText="agents assigned to the Ajo Station" />
+<entity_link id="en4" fromID="p12" fromText="the agents" toID="p11" toText="multiple agents" />
+<entity_link id="en5" fromID="o5" fromText="the DEA" toID="o4" toText="the DEA" />
+<entity_link id="en6" fromID="o6" fromText="the U.S. Border Patrol" toID="o1" toText="U.S. Border Patrol" />
+<entity_link id="en7" fromID="g5" fromText="Arizona" toID="g4" toText="the citizens of Arizona" />
+<entity_link id="en9" fromID="g4" fromText="the citizens of Arizona" toID="g7" toText="Ariz" />
+<entity_link id="en10" fromID="g7" fromText="Ariz" toID="g1" toText="Ariz" />
+<entity_link id="en11" fromID="o1" fromText="U.S. Border Patrol" toID="o0" toText="U.S. Border Patrol" />
+<entity_link id="en12" fromID="o3" fromText="DEA" toID="o2" toText="the Drug Enforcement Administration (DEA" />
+<entity_link id="en13" fromID="o4" fromText="the DEA" toID="o3" toText="DEA" />
+<entity_link id="en14" fromID="o8" fromText="we" toID="o6" toText="the U.S. Border Patrol" />
+<entity_link id="en15" fromID="p14" fromText="Chief Patrol Agent" toID="p13" toText="Chief Patrol Agent Randy Hill" />
+<entity_link id="en17" fromID="o10" fromText="The Border Patrol" toID="o6" toText="the U.S. Border Patrol" />
+<entity_link id="en18" fromID="o11" fromText="our" toID="o10" toText="The Border Patrol" />
+<entity_link id="en8" fromID="o9" fromText="Patrol" toID="o6" toText="the U.S. Border Patrol" />
+<entity_link id="en16" fromID="l2" fromText="the West Desert" toID="l1" toText="the West Desert" />
+<entity_link id="en19" fromID="l3" fromText="the area" toID="l1" toText="the West Desert" />
+<entity_link id="en20" fromID="l4" fromText="the area where the suspicious vehicle became immobilized in a wash" toID="l2" toText="the West Desert" />
+<entity_link id="en21" fromID="l5" fromText="where" toID="l4" toText="the area where the suspicious vehicle became immobilized in a wash" />
+<entity_link id="en22" fromID="l6" fromText="the area" toID="l2" toText="the West Desert" />
+<entity_link id="en23" fromID="g8" fromText="the United States" toID="g6" toText="the nation" />
+<head_link id="he0" fromID="o0" fromText="U.S. Border Patrol" toID="h0" toText="U.S. Border Patrol" />
+<head_link id="he1" fromID="g0" fromText="Tucson, Ariz" toID="h1" toText="Tucson" />
+<head_link id="he2" fromID="g1" fromText="Ariz" toID="h2" toText="Ariz" />
+<head_link id="he3" fromID="p0" fromText="U.S. Border Patrol agents" toID="h3" toText="agents" />
+<head_link id="he4" fromID="o1" fromText="U.S. Border Patrol" toID="h4" toText="U.S. Border Patrol" />
+<head_link id="he5" fromID="l0" fromText="the Tucson Sector" toID="h5" toText="Tucson Sector" />
+<head_link id="he6" fromID="p2" fromText="agents assigned to the Willcox Station" toID="h6" toText="agents" />
+<head_link id="he7" fromID="f0" fromText="the Willcox Station" toID="h7" toText="Willcox Station" />
+<head_link id="he8" fromID="g2" fromText="Willcox, Ariz" toID="h8" toText="Willcox" />
+<head_link id="he9" fromID="p3" fromText="a K-9 team" toID="h9" toText="team" />
+<head_link id="he10" fromID="p4" fromText="agents" toID="h10" toText="agents" />
+<head_link id="he11" fromID="p5" fromText="The vehicle, marijuana and driver" toID="h11" toText="driver" />
+<head_link id="he12" fromID="o2" fromText="the Drug Enforcement Administration (DEA" toID="h12" toText="Drug Enforcement Administration" />
+<head_link id="he13" fromID="o3" fromText="DEA" toID="h13" toText="DEA" />
+<head_link id="he14" fromID="p6" fromText="Agents assigned to the Casa Grande Station" toID="h14" toText="Agents" />
+<head_link id="he15" fromID="f1" fromText="the Casa Grande Station" toID="h15" toText="Casa Grande Station" />
+<head_link id="he16" fromID="l1" fromText="the West Desert" toID="h16" toText="West Desert" />
+<head_link id="he17" fromID="p7" fromText="The agents" toID="h17" toText="agents" />
+<head_link id="he18" fromID="p8" fromText="10 illegal aliens" toID="h18" toText="aliens" />
+<head_link id="he19" fromID="p9" fromText="the subjects" toID="h19" toText="subjects" />
+<head_link id="he20" fromID="g3" fromText="Mexico" toID="h20" toText="Mexico" />
+<head_link id="he21" fromID="o4" fromText="the DEA" toID="h21" toText="DEA" />
+<head_link id="he22" fromID="p10" fromText="agents assigned to the Ajo Station" toID="h22" toText="agents" />
+<head_link id="he23" fromID="f2" fromText="the Ajo Station" toID="h23" toText="Ajo Station" />
+<head_link id="he24" fromID="l2" fromText="the West Desert" toID="h24" toText="West Desert" />
+<head_link id="he25" fromID="p11" fromText="multiple agents" toID="h25" toText="agents" />
+<head_link id="he26" fromID="p12" fromText="the agents" toID="h27" toText="agents" />
+<head_link id="he27" fromID="o5" fromText="the DEA" toID="h28" toText="DEA" />
+<head_link id="he28" fromID="o6" fromText="the U.S. Border Patrol" toID="h29" toText="U.S. Border Patrol" />
+<head_link id="he29" fromID="g4" fromText="the citizens of Arizona" toID="h30" toText="citizens" />
+<head_link id="he30" fromID="g5" fromText="Arizona" toID="h31" toText="Arizona" />
+<head_link id="he31" fromID="g6" fromText="the nation" toID="h32" toText="nation" />
+<head_link id="he32" fromID="g7" fromText="Ariz" toID="h33" toText="Ariz" />
+<head_link id="he33" fromID="o7" fromText="drug trafficking organizations" toID="h34" toText="organizations" />
+<head_link id="he34" fromID="o8" fromText="we" toID="h35" toText="we" />
+<head_link id="he35" fromID="g8" fromText="the United States" toID="h36" toText="United States" />
+<head_link id="he36" fromID="p13" fromText="Chief Patrol Agent Randy Hill" toID="h37" toText="Randy Hill" />
+<head_link id="he37" fromID="p14" fromText="Chief Patrol Agent" toID="h38" toText="Agent" />
+<head_link id="he39" fromID="o10" fromText="The Border Patrol" toID="h40" toText="Border Patrol" />
+<head_link id="he40" fromID="p15" fromText="you" toID="h41" toText="you" />
+<head_link id="he41" fromID="o11" fromText="our" toID="h42" toText="our" />
+<head_link id="he38" fromID="o9" fromText="Patrol" toID="h26" toText="Patrol" />
+<head_link id="he42" fromID="g9" fromText="the community" toID="h39" toText="community" />
+<head_link id="he43" fromID="l3" fromText="the area" toID="h43" toText="area" />
+<head_link id="he44" fromID="l4" fromText="the area where the suspicious vehicle became immobilized in a wash" toID="h44" toText="area" />
+<head_link id="he45" fromID="l5" fromText="where" toID="h45" toText="where" />
+<head_link id="he46" fromID="l6" fromText="the area" toID="h46" toText="area" />
+<name_link id="na0" fromID="o0" fromText="U.S. Border Patrol" toID="n0" toText="U.S. Border Patrol" />
+<name_link id="na1" fromID="g0" fromText="Tucson, Ariz" toID="n1" toText="Tucson" />
+<name_link id="na2" fromID="g1" fromText="Ariz" toID="n2" toText="Ariz" />
+<name_link id="na3" fromID="o1" fromText="U.S. Border Patrol" toID="n3" toText="U.S. Border Patrol" />
+<name_link id="na4" fromID="l0" fromText="the Tucson Sector" toID="n4" toText="Tucson Sector" />
+<name_link id="na5" fromID="f0" fromText="the Willcox Station" toID="n5" toText="Willcox Station" />
+<name_link id="na6" fromID="g2" fromText="Willcox, Ariz" toID="n6" toText="Willcox" />
+<name_link id="na7" fromID="o2" fromText="the Drug Enforcement Administration (DEA" toID="n7" toText="Drug Enforcement Administration" />
+<name_link id="na8" fromID="o3" fromText="DEA" toID="n8" toText="DEA" />
+<name_link id="na9" fromID="f1" fromText="the Casa Grande Station" toID="n9" toText="Casa Grande Station" />
+<name_link id="na10" fromID="l1" fromText="the West Desert" toID="n10" toText="West Desert" />
+<name_link id="na11" fromID="g3" fromText="Mexico" toID="n11" toText="Mexico" />
+<name_link id="na12" fromID="o4" fromText="the DEA" toID="n12" toText="DEA" />
+<name_link id="na13" fromID="f2" fromText="the Ajo Station" toID="n13" toText="Ajo Station" />
+<name_link id="na14" fromID="l2" fromText="the West Desert" toID="n14" toText="West Desert" />
+<name_link id="na15" fromID="o5" fromText="the DEA" toID="n15" toText="DEA" />
+<name_link id="na16" fromID="o6" fromText="the U.S. Border Patrol" toID="n16" toText="U.S. Border Patrol" />
+<name_link id="na17" fromID="g5" fromText="Arizona" toID="n17" toText="Arizona" />
+<name_link id="na18" fromID="g7" fromText="Ariz" toID="n18" toText="Ariz" />
+<name_link id="na19" fromID="g8" fromText="the United States" toID="n19" toText="United States" />
+<name_link id="na20" fromID="p13" fromText="Chief Patrol Agent Randy Hill" toID="n20" toText="Randy Hill" />
+<name_link id="na21" fromID="o10" fromText="The Border Patrol" toID="n21" toText="Border Patrol" />
+<relation_link1 id="r1" fromID="lo0" fromText="agents assigned to the Willcox Station" toID="p2" toText="agents assigned to the Willcox Station" />
+<relation_link1 id="r2" fromID="lo1" fromText="Agents assigned to the Casa Grande Station" toID="p6" toText="Agents assigned to the Casa Grande Station" />
+<relation_link1 id="r3" fromID="lo2" fromText="agents assigned to the Ajo Station" toID="p10" toText="agents assigned to the Ajo Station" />
+<relation_link1 id="r4" fromID="lo4" fromText="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" toID="p9" toText="the subjects" />
+<relation_link1 id="r6" fromID="lo3" fromText="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" toID="p9" toText="the subjects" />
+<relation_link1 id="r7" fromID="lo5" fromText="Through the use of mobile surveillance technology, multiple agents responded to the area where the suspicious vehicle became immobilized in a wash" toID="p11" toText="multiple agents" />
+<relation_link1 id="r8" fromID="lo6" fromText="Agents assigned to the Casa Grande Station made a significant seizure Sunday after responding to sensor activation in the West Desert" toID="p6" toText="Agents assigned to the Casa Grande Station" />
+<relation_link1 id="r9" fromID="lo7" fromText="After securing the area, the agents discovered 128 bundles of marijuana weighing 2,253 pounds with an estimated value of $1,802,400" toID="p12" toText="the agents" />
+<relation_link1 id="r10" fromID="lo8" fromText="U.S. Border Patrol agents seized more than 5,326 pounds of marijuana in three separate incidents across the Tucson Sector over the long weekend" toID="p0" toText="U.S. Border Patrol agents" />
+<relation_link1 id="r11" fromID="M0" fromText="U.S. Border Patrol agents" toID="p0" toText="U.S. Border Patrol agents" />
+<relation_link1 id="r12" fromID="M1" fromText="Chief Patrol Agent" toID="p14" toText="Chief Patrol Agent" />
+<relation_link2 id="re1" fromID="lo0" fromText="agents assigned to the Willcox Station" toID="f0" toText="the Willcox Station" />
+<relation_link2 id="re2" fromID="lo1" fromText="Agents assigned to the Casa Grande Station" toID="f1" toText="the Casa Grande Station" />
+<relation_link2 id="re3" fromID="lo2" fromText="agents assigned to the Ajo Station" toID="f2" toText="the Ajo Station" />
+<relation_link2 id="re4" fromID="lo4" fromText="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" toID="g3" toText="Mexico" />
+<relation_link2 id="re6" fromID="lo3" fromText="Upon responding the area, the subjects fled south into Mexico and left behind 12 bundles of marijuana weighing 593 pounds with an estimated value of $474,400" toID="l3" toText="the area" />
+<relation_link2 id="re7" fromID="lo5" fromText="Through the use of mobile surveillance technology, multiple agents responded to the area where the suspicious vehicle became immobilized in a wash" toID="l4" toText="the area where the suspicious vehicle became immobilized in a wash" />
+<relation_link2 id="re8" fromID="lo6" fromText="Agents assigned to the Casa Grande Station made a significant seizure Sunday after responding to sensor activation in the West Desert" toID="l1" toText="the West Desert" />
+<relation_link2 id="re9" fromID="lo7" fromText="After securing the area, the agents discovered 128 bundles of marijuana weighing 2,253 pounds with an estimated value of $1,802,400" toID="l6" toText="the area" />
+<relation_link2 id="re10" fromID="lo8" fromText="U.S. Border Patrol agents seized more than 5,326 pounds of marijuana in three separate incidents across the Tucson Sector over the long weekend" toID="l0" toText="the Tucson Sector" />
+<relation_link2 id="re11" fromID="M0" fromText="U.S. Border Patrol agents" toID="o1" toText="U.S. Border Patrol" />
+<relation_link2 id="re12" fromID="M1" fromText="Chief Patrol Agent" toID="o9" toText="Patrol" />
+</TAGS>
+</KddTask>

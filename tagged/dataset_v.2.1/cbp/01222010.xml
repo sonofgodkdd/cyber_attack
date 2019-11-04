@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP Field Operations Arrest Fugitive Wanted for Battery Resulting in Serious Bodily Injury
+(Friday, January 22, 2010)
+Niagara Falls, N.Y.  - U.S. Customs and Border Protection Field Operations announced the apprehension of a United States citizen wanted in the state of Indiana for battery resulting in serious bodily injury.
+On January 21, CBP officers received notification from Canada Border Services Agency that Jerry Sims, a 36-year-old United States citizen from Jeffersonville, Ind., was being returned to U.S. authorities. Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges. Due to his past criminal history and possible outstanding warrant, Mr. Sims was given an order of deportation from Canadian authorities. Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y.
+Additional name and electronic fingerprint queries of Sims by CBP officers verified that he was in fact the subject of an active nation-wide no bond warrant issued August, 2009 by the Clark County Sheriff's Office in Jeffersonville, Ind. The warrant charges Mr. Sims with battery resulting in serious bodily injury.
+CBP officers verified the validity of the warrant and confirmed extradition. Mr. Sims was arrested on the outstanding warrant and turned over to the custody of the Niagara Falls Police Department pending extradition to Indiana.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="224" end="278" text="a United States citizen wanted in the state of Indiana" TYPE="NOM" />
+<person id="p1" start="342" end="354" text="CBP officers" TYPE="BAR" />
+<person id="p2" start="417" end="490" text="Jerry Sims, a 36-year-old United States citizen from Jeffersonville, Ind." TYPE="APP" />
+<person id="p3" start="417" end="427" text="Jerry Sims" TYPE="NAM" />
+<person id="p4" start="429" end="490" text="a 36-year-old United States citizen from Jeffersonville, Ind." TYPE="NOM" />
+<person id="p5" start="514" end="530" text="U.S. authorities" TYPE="BAR" />
+<person id="p6" start="532" end="536" text="Sims" TYPE="NAM" />
+<person id="p7" start="582" end="591" text="a visitor" TYPE="NOM" />
+<person id="p8" start="617" end="620" text="his" TYPE="PRO" />
+<person id="p9" start="675" end="678" text="his" TYPE="PRO" />
+<person id="p10" start="735" end="743" text="Mr. Sims" TYPE="NAM" />
+<person id="p11" start="735" end="738" text="Mr." TYPE="NOMPRE" />
+<person id="p12" start="783" end="803" text="Canadian authorities" TYPE="BAR" />
+<person id="p13" start="805" end="813" text="Mr. Sims" TYPE="NAM" />
+<person id="p14" start="805" end="808" text="Mr." TYPE="NOMPRE" />
+<person id="p15" start="989" end="993" text="Sims" TYPE="NAM" />
+<person id="p16" start="997" end="1009" text="CBP officers" TYPE="BAR" />
+<person id="p17" start="1024" end="1026" text="he" TYPE="PRO" />
+<person id="p18" start="1039" end="1171" text="the subject of an active nation-wide no bond warrant issued August, 2009 by the Clark County Sheriff's Office in Jeffersonville, Ind" TYPE="NOM" />
+<person id="p19" start="1115" end="1139" text="the Clark County Sheriff" TYPE="NOM" />
+<person id="p20" start="1193" end="1201" text="Mr. Sims" TYPE="NAM" />
+<person id="p21" start="1193" end="1196" text="Mr." TYPE="NOMPRE" />
+<person id="p22" start="1251" end="1263" text="CBP officers" TYPE="BAR" />
+<person id="p23" start="1328" end="1336" text="Mr. Sims" TYPE="NAM" />
+<person id="p24" start="1328" end="1331" text="Mr." TYPE="NOMPRE" />
+<person id="p25" start="29" end="91" text="Fugitive Wanted for Battery Resulting in Serious Bodily Injury" TYPE="BAR" />
+<organization id="o0" start="1" end="21" text="CBP Field Operations" TYPE="NAM" />
+<organization id="o1" start="142" end="193" text="U.S. Customs and Border Protection Field Operations" TYPE="NAM" />
+<organization id="o2" start="342" end="345" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="382" end="411" text="Canada Border Services Agency" TYPE="NAM" />
+<organization id="o4" start="997" end="1000" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="1115" end="1171" text="the Clark County Sheriff's Office in Jeffersonville, Ind" TYPE="NOM" />
+<organization id="o6" start="1251" end="1254" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="1411" end="1446" text="the Niagara Falls Police Department" TYPE="NAM" />
+<geographical-political id="g0" start="134" end="137" text="N.Y" TYPE="NAM" />
+<geographical-political id="g1" start="226" end="239" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g2" start="258" end="278" text="the state of Indiana" TYPE="NOM" />
+<geographical-political id="g3" start="271" end="278" text="Indiana" TYPE="NAM" />
+<geographical-political id="g4" start="443" end="456" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="470" end="490" text="Jeffersonville, Ind." TYPE="NAM" />
+<geographical-political id="g6" start="486" end="490" text="Ind." TYPE="NAM" />
+<geographical-political id="g7" start="514" end="518" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g8" start="545" end="551" text="Canada" TYPE="NAM" />
+<geographical-political id="g9" start="605" end="610" text="there" TYPE="PRO" />
+<geographical-political id="g10" start="638" end="645" text="Toronto" TYPE="NAM" />
+<geographical-political id="g11" start="783" end="791" text="Canadian" TYPE="NAMPRE" />
+<geographical-political id="g12" start="832" end="838" text="Canada" TYPE="NAM" />
+<geographical-political id="g13" start="855" end="872" text="the United States" TYPE="NAM" />
+<geographical-political id="g14" start="930" end="933" text="N.Y" TYPE="NAM" />
+<geographical-political id="g15" start="1064" end="1070" text="nation" TYPE="BAR" />
+<geographical-political id="g16" start="1119" end="1131" text="Clark County" TYPE="NAMPRE" />
+<geographical-political id="g17" start="1152" end="1171" text="Jeffersonville, Ind" TYPE="NAM" />
+<geographical-political id="g18" start="1168" end="1171" text="Ind" TYPE="NAM" />
+<geographical-political id="g19" start="1470" end="1477" text="Indiana" TYPE="NAM" />
+<geographical-political id="g20" start="119" end="137" text="Niagara Falls, N.Y" TYPE="NAM" />
+<geographical-political id="g21" start="915" end="933" text="Niagara Falls, N.Y" TYPE="NAM" />
+<falicity id="f0" start="877" end="933" text="the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="NOM" />
+<falicity id="f1" start="881" end="895" text="Rainbow Bridge" TYPE="NAMPRE" />
+<head id="h0" start="1" end="21" text="CBP Field Operations" />
+<head id="h1" start="119" end="132" text="Niagara Falls" />
+<head id="h2" start="134" end="137" text="N.Y" />
+<head id="h4" start="142" end="193" text="U.S. Customs and Border Protection Field Operations" />
+<head id="h5" start="240" end="247" text="citizen" />
+<head id="h6" start="226" end="239" text="United States" />
+<head id="h7" start="262" end="267" text="state" />
+<head id="h8" start="271" end="278" text="Indiana" />
+<head id="h9" start="346" end="354" text="officers" />
+<head id="h10" start="342" end="345" text="CBP" />
+<head id="h11" start="382" end="411" text="Canada Border Services Agency" />
+<head id="h12" start="417" end="427" text="Jerry Sims" />
+<head id="h13" start="457" end="464" text="citizen" />
+<head id="h14" start="443" end="456" text="United States" />
+<head id="h3" start="470" end="484" text="Jeffersonville" />
+<head id="h16" start="486" end="490" text="Ind." />
+<head id="h17" start="519" end="530" text="authorities" />
+<head id="h18" start="514" end="518" text="U.S." />
+<head id="h19" start="532" end="536" text="Sims" />
+<head id="h20" start="545" end="551" text="Canada" />
+<head id="h21" start="584" end="591" text="visitor" />
+<head id="h22" start="605" end="610" text="there" />
+<head id="h23" start="617" end="620" text="his" />
+<head id="h24" start="638" end="645" text="Toronto" />
+<head id="h25" start="675" end="678" text="his" />
+<head id="h26" start="739" end="743" text="Sims" />
+<head id="h27" start="735" end="738" text="Mr." />
+<head id="h28" start="792" end="803" text="authorities" />
+<head id="h29" start="783" end="791" text="Canadian" />
+<head id="h30" start="809" end="813" text="Sims" />
+<head id="h31" start="805" end="808" text="Mr." />
+<head id="h32" start="832" end="838" text="Canada" />
+<head id="h33" start="859" end="872" text="United States" />
+<head id="h35" start="915" end="928" text="Niagara Falls" />
+<head id="h36" start="930" end="933" text="N.Y" />
+<head id="h37" start="989" end="993" text="Sims" />
+<head id="h38" start="1001" end="1009" text="officers" />
+<head id="h39" start="997" end="1000" text="CBP" />
+<head id="h40" start="1024" end="1026" text="he" />
+<head id="h41" start="1043" end="1050" text="subject" />
+<head id="h42" start="1064" end="1070" text="nation" />
+<head id="h43" start="1142" end="1148" text="Office" />
+<head id="h44" start="1132" end="1139" text="Sheriff" />
+<head id="h45" start="1119" end="1131" text="Clark County" />
+<head id="h46" start="1152" end="1166" text="Jeffersonville" />
+<head id="h47" start="1168" end="1171" text="Ind" />
+<head id="h48" start="1197" end="1201" text="Sims" />
+<head id="h49" start="1193" end="1196" text="Mr." />
+<head id="h50" start="1255" end="1263" text="officers" />
+<head id="h51" start="1251" end="1254" text="CBP" />
+<head id="h52" start="1332" end="1336" text="Sims" />
+<head id="h53" start="1328" end="1331" text="Mr." />
+<head id="h54" start="1415" end="1446" text="Niagara Falls Police Department" />
+<head id="h55" start="1470" end="1477" text="Indiana" />
+<head id="h15" start="896" end="911" text="border crossing" />
+<head id="h34" start="881" end="895" text="Rainbow Bridge" />
+<head id="h56" start="29" end="37" text="Fugitive" />
+<name id="n0" start="1" end="21" text="CBP Field Operations" />
+<name id="n1" start="119" end="132" text="Niagara Falls" />
+<name id="n2" start="134" end="137" text="N.Y" />
+<name id="n3" start="142" end="193" text="U.S. Customs and Border Protection Field Operations" />
+<name id="n4" start="226" end="239" text="United States" />
+<name id="n5" start="271" end="278" text="Indiana" />
+<name id="n6" start="342" end="345" text="CBP" />
+<name id="n7" start="382" end="411" text="Canada Border Services Agency" />
+<name id="n8" start="417" end="427" text="Jerry Sims" />
+<name id="n9" start="443" end="456" text="United States" />
+<name id="n10" start="470" end="484" text="Jeffersonville" />
+<name id="n11" start="486" end="490" text="Ind." />
+<name id="n12" start="514" end="518" text="U.S." />
+<name id="n13" start="532" end="536" text="Sims" />
+<name id="n14" start="545" end="551" text="Canada" />
+<name id="n15" start="638" end="645" text="Toronto" />
+<name id="n16" start="739" end="743" text="Sims" />
+<name id="n17" start="783" end="791" text="Canadian" />
+<name id="n18" start="809" end="813" text="Sims" />
+<name id="n19" start="832" end="838" text="Canada" />
+<name id="n20" start="859" end="872" text="United States" />
+<name id="n22" start="915" end="928" text="Niagara Falls" />
+<name id="n23" start="930" end="933" text="N.Y" />
+<name id="n24" start="989" end="993" text="Sims" />
+<name id="n25" start="997" end="1000" text="CBP" />
+<name id="n26" start="1119" end="1131" text="Clark County" />
+<name id="n27" start="1152" end="1166" text="Jeffersonville" />
+<name id="n28" start="1168" end="1171" text="Ind" />
+<name id="n29" start="1197" end="1201" text="Sims" />
+<name id="n30" start="1251" end="1254" text="CBP" />
+<name id="n31" start="1332" end="1336" text="Sims" />
+<name id="n32" start="1415" end="1446" text="Niagara Falls Police Department" />
+<name id="n33" start="1470" end="1477" text="Indiana" />
+<name id="n21" start="881" end="895" text="Rainbow Bridge" />
+<located-mention id="lo0" start="532" end="666" text="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" TYPE="Verbal" />
+<located-mention id="lo1" start="532" end="666" text="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" TYPE="Verbal" />
+<located-mention id="lo3" start="805" end="933" text="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="Verbal" />
+<located-mention id="lo4" start="805" end="933" text="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="Other" />
+<located-mention id="lo5" start="805" end="933" text="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" TYPE="Verbal" />
+<located-mention id="lo6" start="532" end="666" text="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" TYPE="Other" />
+<employment-mention id="e0" start="514" end="530" text="U.S. authorities" TYPE="PreMod" />
+<employment-mention id="e1" start="783" end="803" text="Canadian authorities" TYPE="PreMod" />
+<employment-mention id="e4" start="1115" end="1139" text="the Clark County Sheriff" TYPE="PreMod" />
+<CRRE id="C0" start="224" end="278" text="a United States citizen wanted in the state of Indiana" TYPE="PreMod" />
+<CRRE id="C1" start="429" end="490" text="a 36-year-old United States citizen from Jeffersonville, Ind." TYPE="PreMod" />
+<CRRE id="C2" start="429" end="490" text="a 36-year-old United States citizen from Jeffersonville, Ind." TYPE="Preposition" />
+<M id="M0" start="1115" end="1171" text="the Clark County Sheriff's Office in Jeffersonville, Ind" TYPE="Possessive" />
+<M id="M1" start="342" end="354" text="CBP officers" TYPE="PreMod" />
+<M id="M2" start="997" end="1009" text="CBP officers" TYPE="PreMod" />
+<M id="M3" start="1251" end="1263" text="CBP officers" TYPE="PreMod" />
+<entity_link id="en0" fromID="g3" fromText="Indiana" toID="g2" toText="the state of Indiana" />
+<entity_link id="en1" fromID="p3" fromText="Jerry Sims" toID="p2" toText="Jerry Sims, a 36-year-old United States citizen from Jeffersonville, Ind." />
+<entity_link id="en2" fromID="p4" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="p3" toText="Jerry Sims" />
+<entity_link id="en3" fromID="p3" fromText="Jerry Sims" toID="p0" toText="a United States citizen wanted in the state of Indiana" />
+<entity_link id="en4" fromID="g4" fromText="United States" toID="g1" toText="United States" />
+<entity_link id="en5" fromID="g6" fromText="Ind." toID="g3" toText="Indiana" />
+<entity_link id="en6" fromID="g7" fromText="U.S." toID="g4" toText="United States" />
+<entity_link id="en7" fromID="p6" fromText="Sims" toID="p3" toText="Jerry Sims" />
+<entity_link id="en8" fromID="p7" fromText="a visitor" toID="p6" toText="Sims" />
+<entity_link id="en9" fromID="g9" fromText="there" toID="g8" toText="Canada" />
+<entity_link id="en10" fromID="p8" fromText="his" toID="p6" toText="Sims" />
+<entity_link id="en11" fromID="p9" fromText="his" toID="p6" toText="Sims" />
+<entity_link id="en12" fromID="p11" fromText="Mr." toID="p10" toText="Mr. Sims" />
+<entity_link id="en13" fromID="p10" fromText="Mr. Sims" toID="p9" toText="his" />
+<entity_link id="en14" fromID="g11" fromText="Canadian" toID="g8" toText="Canada" />
+<entity_link id="en15" fromID="p14" fromText="Mr." toID="p13" toText="Mr. Sims" />
+<entity_link id="en16" fromID="p13" fromText="Mr. Sims" toID="p10" toText="Mr. Sims" />
+<entity_link id="en17" fromID="g12" fromText="Canada" toID="g8" toText="Canada" />
+<entity_link id="en18" fromID="g13" fromText="the United States" toID="g4" toText="United States" />
+<entity_link id="en20" fromID="g14" fromText="N.Y" toID="g0" toText="N.Y" />
+<entity_link id="en21" fromID="p15" fromText="Sims" toID="p13" toText="Mr. Sims" />
+<entity_link id="en22" fromID="p16" fromText="CBP officers" toID="p1" toText="CBP officers" />
+<entity_link id="en23" fromID="o4" fromText="CBP" toID="o2" toText="CBP" />
+<entity_link id="en24" fromID="o1" fromText="U.S. Customs and Border Protection Field Operations" toID="o0" toText="CBP Field Operations" />
+<entity_link id="en25" fromID="p17" fromText="he" toID="p15" toText="Sims" />
+<entity_link id="en26" fromID="p18" fromText="the subject of an active nation-wide no bond warrant issued August, 2009 by the Clark County Sheriff's Office in Jeffersonville, Ind" toID="p17" toText="he" />
+<entity_link id="en27" fromID="g15" fromText="nation" toID="g7" toText="U.S." />
+<entity_link id="en28" fromID="g17" fromText="Jeffersonville, Ind" toID="g5" toText="Jeffersonville, Ind." />
+<entity_link id="en29" fromID="g18" fromText="Ind" toID="g6" toText="Ind." />
+<entity_link id="en30" fromID="p21" fromText="Mr." toID="p20" toText="Mr. Sims" />
+<entity_link id="en31" fromID="p20" fromText="Mr. Sims" toID="p17" toText="he" />
+<entity_link id="en32" fromID="p22" fromText="CBP officers" toID="p16" toText="CBP officers" />
+<entity_link id="en33" fromID="o6" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en34" fromID="p24" fromText="Mr." toID="p23" toText="Mr. Sims" />
+<entity_link id="en35" fromID="p23" fromText="Mr. Sims" toID="p20" toText="Mr. Sims" />
+<entity_link id="en36" fromID="g19" fromText="Indiana" toID="g18" toText="Ind" />
+<entity_link id="en37" fromID="g21" fromText="Niagara Falls, N.Y" toID="g20" toText="Niagara Falls, N.Y" />
+<entity_link id="en19" fromID="f1" fromText="Rainbow Bridge" toID="f0" toText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" />
+<entity_link id="en38" fromID="p0" fromText="a United States citizen wanted in the state of Indiana" toID="p25" toText="Fugitive Wanted for Battery Resulting in Serious Bodily Injury" />
+<head_link id="he0" fromID="o0" fromText="CBP Field Operations" toID="h0" toText="CBP Field Operations" />
+<head_link id="he2" fromID="g0" fromText="N.Y" toID="h2" toText="N.Y" />
+<head_link id="he3" fromID="o1" fromText="U.S. Customs and Border Protection Field Operations" toID="h4" toText="U.S. Customs and Border Protection Field Operations" />
+<head_link id="he4" fromID="p0" fromText="a United States citizen wanted in the state of Indiana" toID="h5" toText="citizen" />
+<head_link id="he5" fromID="g1" fromText="United States" toID="h6" toText="United States" />
+<head_link id="he6" fromID="g2" fromText="the state of Indiana" toID="h7" toText="state" />
+<head_link id="he7" fromID="g3" fromText="Indiana" toID="h8" toText="Indiana" />
+<head_link id="he8" fromID="p1" fromText="CBP officers" toID="h9" toText="officers" />
+<head_link id="he9" fromID="o2" fromText="CBP" toID="h10" toText="CBP" />
+<head_link id="he10" fromID="o3" fromText="Canada Border Services Agency" toID="h11" toText="Canada Border Services Agency" />
+<head_link id="he11" fromID="p3" fromText="Jerry Sims" toID="h12" toText="Jerry Sims" />
+<head_link id="he12" fromID="p4" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="h13" toText="citizen" />
+<head_link id="he13" fromID="g4" fromText="United States" toID="h14" toText="United States" />
+<head_link id="he14" fromID="g5" fromText="Jeffersonville, Ind." toID="h3" toText="Jeffersonville" />
+<head_link id="he15" fromID="g6" fromText="Ind." toID="h16" toText="Ind." />
+<head_link id="he16" fromID="p5" fromText="U.S. authorities" toID="h17" toText="authorities" />
+<head_link id="he17" fromID="g7" fromText="U.S." toID="h18" toText="U.S." />
+<head_link id="he18" fromID="p6" fromText="Sims" toID="h19" toText="Sims" />
+<head_link id="he19" fromID="g8" fromText="Canada" toID="h20" toText="Canada" />
+<head_link id="he20" fromID="p7" fromText="a visitor" toID="h21" toText="visitor" />
+<head_link id="he21" fromID="g9" fromText="there" toID="h22" toText="there" />
+<head_link id="he22" fromID="p8" fromText="his" toID="h23" toText="his" />
+<head_link id="he23" fromID="g10" fromText="Toronto" toID="h24" toText="Toronto" />
+<head_link id="he24" fromID="p9" fromText="his" toID="h25" toText="his" />
+<head_link id="he25" fromID="p10" fromText="Mr. Sims" toID="h26" toText="Sims" />
+<head_link id="he26" fromID="p11" fromText="Mr." toID="h27" toText="Mr." />
+<head_link id="he27" fromID="p12" fromText="Canadian authorities" toID="h28" toText="authorities" />
+<head_link id="he28" fromID="g11" fromText="Canadian" toID="h29" toText="Canadian" />
+<head_link id="he29" fromID="p13" fromText="Mr. Sims" toID="h30" toText="Sims" />
+<head_link id="he30" fromID="p14" fromText="Mr." toID="h31" toText="Mr." />
+<head_link id="he31" fromID="g12" fromText="Canada" toID="h32" toText="Canada" />
+<head_link id="he32" fromID="g13" fromText="the United States" toID="h33" toText="United States" />
+<head_link id="he35" fromID="g14" fromText="N.Y" toID="h36" toText="N.Y" />
+<head_link id="he36" fromID="p15" fromText="Sims" toID="h37" toText="Sims" />
+<head_link id="he37" fromID="p16" fromText="CBP officers" toID="h38" toText="officers" />
+<head_link id="he38" fromID="o4" fromText="CBP" toID="h39" toText="CBP" />
+<head_link id="he39" fromID="p17" fromText="he" toID="h40" toText="he" />
+<head_link id="he40" fromID="p18" fromText="the subject of an active nation-wide no bond warrant issued August, 2009 by the Clark County Sheriff's Office in Jeffersonville, Ind" toID="h41" toText="subject" />
+<head_link id="he41" fromID="g15" fromText="nation" toID="h42" toText="nation" />
+<head_link id="he42" fromID="o5" fromText="the Clark County Sheriff's Office in Jeffersonville, Ind" toID="h43" toText="Office" />
+<head_link id="he43" fromID="p19" fromText="the Clark County Sheriff" toID="h44" toText="Sheriff" />
+<head_link id="he44" fromID="g16" fromText="Clark County" toID="h45" toText="Clark County" />
+<head_link id="he45" fromID="g17" fromText="Jeffersonville, Ind" toID="h46" toText="Jeffersonville" />
+<head_link id="he46" fromID="g18" fromText="Ind" toID="h47" toText="Ind" />
+<head_link id="he47" fromID="p20" fromText="Mr. Sims" toID="h48" toText="Sims" />
+<head_link id="he48" fromID="p21" fromText="Mr." toID="h49" toText="Mr." />
+<head_link id="he49" fromID="p22" fromText="CBP officers" toID="h50" toText="officers" />
+<head_link id="he50" fromID="o6" fromText="CBP" toID="h51" toText="CBP" />
+<head_link id="he51" fromID="p23" fromText="Mr. Sims" toID="h52" toText="Sims" />
+<head_link id="he52" fromID="p24" fromText="Mr." toID="h53" toText="Mr." />
+<head_link id="he53" fromID="o7" fromText="the Niagara Falls Police Department" toID="h54" toText="Niagara Falls Police Department" />
+<head_link id="he54" fromID="g19" fromText="Indiana" toID="h55" toText="Indiana" />
+<head_link id="he55" fromID="g20" fromText="Niagara Falls, N.Y" toID="h1" toText="Niagara Falls" />
+<head_link id="he56" fromID="g21" fromText="Niagara Falls, N.Y" toID="h35" toText="Niagara Falls" />
+<head_link id="he1" fromID="f0" fromText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="h15" toText="border crossing" />
+<head_link id="he33" fromID="f1" fromText="Rainbow Bridge" toID="h34" toText="Rainbow Bridge" />
+<head_link id="he34" fromID="p25" fromText="Fugitive Wanted for Battery Resulting in Serious Bodily Injury" toID="h56" toText="Fugitive" />
+<name_link id="na0" fromID="o0" fromText="CBP Field Operations" toID="n0" toText="CBP Field Operations" />
+<name_link id="na2" fromID="g0" fromText="N.Y" toID="n2" toText="N.Y" />
+<name_link id="na3" fromID="o1" fromText="U.S. Customs and Border Protection Field Operations" toID="n3" toText="U.S. Customs and Border Protection Field Operations" />
+<name_link id="na4" fromID="g1" fromText="United States" toID="n4" toText="United States" />
+<name_link id="na5" fromID="g3" fromText="Indiana" toID="n5" toText="Indiana" />
+<name_link id="na6" fromID="o2" fromText="CBP" toID="n6" toText="CBP" />
+<name_link id="na7" fromID="o3" fromText="Canada Border Services Agency" toID="n7" toText="Canada Border Services Agency" />
+<name_link id="na8" fromID="p3" fromText="Jerry Sims" toID="n8" toText="Jerry Sims" />
+<name_link id="na9" fromID="g4" fromText="United States" toID="n9" toText="United States" />
+<name_link id="na10" fromID="g5" fromText="Jeffersonville, Ind." toID="n10" toText="Jeffersonville" />
+<name_link id="na11" fromID="g6" fromText="Ind." toID="n11" toText="Ind." />
+<name_link id="na12" fromID="g7" fromText="U.S." toID="n12" toText="U.S." />
+<name_link id="na13" fromID="p6" fromText="Sims" toID="n13" toText="Sims" />
+<name_link id="na14" fromID="g8" fromText="Canada" toID="n14" toText="Canada" />
+<name_link id="na15" fromID="g10" fromText="Toronto" toID="n15" toText="Toronto" />
+<name_link id="na16" fromID="p10" fromText="Mr. Sims" toID="n16" toText="Sims" />
+<name_link id="na17" fromID="g11" fromText="Canadian" toID="n17" toText="Canadian" />
+<name_link id="na18" fromID="p13" fromText="Mr. Sims" toID="n18" toText="Sims" />
+<name_link id="na19" fromID="g12" fromText="Canada" toID="n19" toText="Canada" />
+<name_link id="na20" fromID="g13" fromText="the United States" toID="n20" toText="United States" />
+<name_link id="na23" fromID="g14" fromText="N.Y" toID="n23" toText="N.Y" />
+<name_link id="na24" fromID="p15" fromText="Sims" toID="n24" toText="Sims" />
+<name_link id="na25" fromID="o4" fromText="CBP" toID="n25" toText="CBP" />
+<name_link id="na26" fromID="g16" fromText="Clark County" toID="n26" toText="Clark County" />
+<name_link id="na27" fromID="g17" fromText="Jeffersonville, Ind" toID="n27" toText="Jeffersonville" />
+<name_link id="na28" fromID="g18" fromText="Ind" toID="n28" toText="Ind" />
+<name_link id="na29" fromID="p20" fromText="Mr. Sims" toID="n29" toText="Sims" />
+<name_link id="na30" fromID="o6" fromText="CBP" toID="n30" toText="CBP" />
+<name_link id="na31" fromID="p23" fromText="Mr. Sims" toID="n31" toText="Sims" />
+<name_link id="na32" fromID="o7" fromText="the Niagara Falls Police Department" toID="n32" toText="Niagara Falls Police Department" />
+<name_link id="na33" fromID="g19" fromText="Indiana" toID="n33" toText="Indiana" />
+<name_link id="na34" fromID="g20" fromText="Niagara Falls, N.Y" toID="n1" toText="Niagara Falls" />
+<name_link id="na35" fromID="g21" fromText="Niagara Falls, N.Y" toID="n22" toText="Niagara Falls" />
+<name_link id="na1" fromID="f1" fromText="Rainbow Bridge" toID="n21" toText="Rainbow Bridge" />
+<relation_link1 id="r0" fromID="e0" fromText="U.S. authorities" toID="p5" toText="U.S. authorities" />
+<relation_link1 id="r1" fromID="lo0" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="p6" toText="Sims" />
+<relation_link1 id="r2" fromID="lo1" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="p6" toText="Sims" />
+<relation_link1 id="r4" fromID="e1" fromText="Canadian authorities" toID="p12" toText="Canadian authorities" />
+<relation_link1 id="r5" fromID="lo3" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="p13" toText="Mr. Sims" />
+<relation_link1 id="r7" fromID="M1" fromText="CBP officers" toID="p1" toText="CBP officers" />
+<relation_link1 id="r8" fromID="M2" fromText="CBP officers" toID="p16" toText="CBP officers" />
+<relation_link1 id="r9" fromID="e4" fromText="the Clark County Sheriff" toID="p19" toText="the Clark County Sheriff" />
+<relation_link1 id="r10" fromID="M3" fromText="CBP officers" toID="p22" toText="CBP officers" />
+<relation_link1 id="r11" fromID="lo4" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="p13" toText="Mr. Sims" />
+<relation_link1 id="r6" fromID="C0" fromText="a United States citizen wanted in the state of Indiana" toID="p0" toText="a United States citizen wanted in the state of Indiana" />
+<relation_link1 id="r12" fromID="C1" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="p4" toText="a 36-year-old United States citizen from Jeffersonville, Ind." />
+<relation_link1 id="r13" fromID="C2" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="p4" toText="a 36-year-old United States citizen from Jeffersonville, Ind." />
+<relation_link1 id="r14" fromID="lo5" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="p13" toText="Mr. Sims" />
+<relation_link1 id="r15" fromID="lo6" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="p8" toText="his" />
+<relation_link1 id="r16" fromID="M0" fromText="the Clark County Sheriff's Office in Jeffersonville, Ind" toID="p19" toText="the Clark County Sheriff" />
+<relation_link2 id="re0" fromID="e0" fromText="U.S. authorities" toID="g7" toText="U.S." />
+<relation_link2 id="re1" fromID="lo0" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="g8" toText="Canada" />
+<relation_link2 id="re2" fromID="lo1" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="g9" toText="there" />
+<relation_link2 id="re4" fromID="e1" fromText="Canadian authorities" toID="g11" toText="Canadian" />
+<relation_link2 id="re5" fromID="lo3" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="g13" toText="the United States" />
+<relation_link2 id="re7" fromID="M1" fromText="CBP officers" toID="o2" toText="CBP" />
+<relation_link2 id="re8" fromID="M2" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re9" fromID="e4" fromText="the Clark County Sheriff" toID="g16" toText="Clark County" />
+<relation_link2 id="re10" fromID="M3" fromText="CBP officers" toID="o6" toText="CBP" />
+<relation_link2 id="re11" fromID="lo4" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="f0" toText="the Rainbow Bridge border crossing in Niagara Falls, N.Y" />
+<relation_link2 id="re6" fromID="C0" fromText="a United States citizen wanted in the state of Indiana" toID="g1" toText="United States" />
+<relation_link2 id="re12" fromID="C1" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="g4" toText="United States" />
+<relation_link2 id="re13" fromID="C2" fromText="a 36-year-old United States citizen from Jeffersonville, Ind." toID="g5" toText="Jeffersonville, Ind." />
+<relation_link2 id="re14" fromID="lo5" fromText="Mr. Sims was deported from Canada and returned to the United States via the Rainbow Bridge border crossing in Niagara Falls, N.Y" toID="g12" toText="Canada" />
+<relation_link2 id="re15" fromID="lo6" fromText="Sims entered Canada approximately one week ago as a visitor and remained there until his recent arrest in Toronto on unrelated charges" toID="g10" toText="Toronto" />
+<relation_link2 id="re16" fromID="M0" fromText="the Clark County Sheriff's Office in Jeffersonville, Ind" toID="o5" toText="the Clark County Sheriff's Office in Jeffersonville, Ind" />
+</TAGS>
+</KddTask>

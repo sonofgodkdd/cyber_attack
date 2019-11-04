@@ -1,0 +1,22 @@
+SHEIN-Fashion Shopping Site Suffers Data Breach Affecting 6.5 Million Users
+Swati Khandelwal
+
+U.S. online fashion retailer SHEIN has admitted that the company has suffered a significant data breach after unknown hackers stole personally identifiable information (PII) of almost 6.5 million customers.
+Based in North Brunswick and founded in 2008, SHEIN has become one of the largest online fashion retailers that ships to more than 80 countries worldwide. The site has been initially designed to produce "affordable" and trendy fashion clothing for women.
+SHEIN revealed last weekend that its servers had been targeted by a "concerted criminal cyber-attack" that began in June this year and lasted until August 22, when the company was finally made aware of the potential theft.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Soon after that, the company scanned its servers to remove all possible backdoored entry points, leveraging which hackers could again infiltrate the servers. SHEIN assured its customers that the website is now safe to visit.
+Hackers Stole Over 6.42 Million SHEIN Customers' Data
+Although details about the incident are scarce, the online retailer revealed that the malicious hackers managed to steal gain access to email addresses and encrypted password credentials for 6.42 million customers who registered on its website.
+"While the full extent of the attack will continue to be investigated, it can now be confirmed that the personal information illegally acquired by the intruders included email addresses and encrypted password credentials of customers who visited the company website," SHEIN said.
+"It is our understanding that the breach began in June 2018 and continued through early August 2018 and involves approximately 6.42 million customers."
+However, the company said it typically does not store any credit card information on its systems and has currently no evidence that any credit card information of its customers was taken from its systems.
+Since no payment card details were stolen, it does not appear that if the online retailer was hit by the recent series of Magecart cyber attacks that have recently affected popular online services including Ticketmaster, British Airways, and Newegg.
+Are You Affected? Here's What Users Should Do
+Upon becoming aware of this potential theft, SHEIN immediately hired a leading international forensic cybersecurity firm and an international law firm to launch a thorough investigation into the breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The company has already begun contacting all affected customers and requesting them to change passwords for their online store accounts by either clicking the link provided in the email notification from SHEIN or directly logging into their SHEIN account to change the password.
+You can find "Edit Password" link under the "Account Setting" page.
+If customers believe the attackers may have compromised their credit card information, the company urged them to directly contact their respective banks or credit card companies with any concerns.
+For more information regarding the breach investigation and the actions SHEIN is taking to protect its customer information, you can contact the company at 844-802-2500, or visit its FAQ at www.shein.com/datasecurity.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

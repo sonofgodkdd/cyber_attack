@@ -1,0 +1,19 @@
+LeakedSource Founder Arrested for Selling 3 Billion Stolen Credentials
+Swati Khandelwal
+
+Canadian authorities have arrested and charged an Ontario man for operating a website that collected 'stolen' personal identity records and credentials from some three billion online accounts and sold them for profit.
+According to the Royal Canadian Mounted Police (RCMP), the 27-year-old Jordan Evan Bloom of Thornhill is the person behind the notorious LeakedSource.com—a major repository that compiled public data breaches and sold access to the data, including plaintext passwords.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Launched in late 2015, LeakedSource had collected around 3 billion personal identity records and associated passwords from some of the massive data breaches, including LinkedIn, VK.com, Last.Fm, Ashley Madison, MySpace, Twitter, Weebly and Foursquare, and made them accessible and searchable to anyone for a fee.
+LeakedSource was shut down, and its associated social media accounts have been suspended after the law enforcement raided its operator earlier last year.
+However, another website with the same domain name hosted by servers in Russia is still in operation.
+Bloom is accused of operating the notorious website and claimed to have earned nearly US$200,000 by selling stolen personal identity records and associated passwords for a "small fee" via his site.
+Appeared in a Toronto court on Monday, January 15, Bloom charged with trafficking in identity information, mischief to data, unauthorised use of a computer, and possession of property obtained by crime, the RCMP said.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"This investigation is related to claims about a website operator alleged to have made hundreds of thousands of dollars selling personal information," the RCMP Cybercrime Investigative Team said in a statement.
+"The RCMP will continue to work diligently with our domestic and international law enforcement partners to prosecute online criminality."
+Bloom was arrested and charged on December 22, 2017, as part of the RCMP's national cybercrime division investigation, dubbed 'Project Adoration.'
+The RCMP said the Dutch national police and the United States' FBI assisted in the operation, adding the case could not have been cracked without international collaboration.
+Bloom is currently in custody and due back in court on February 16.
+Cybersecurity lawyer Imran Ahmad told Reuters that Bloom could face a maximum sentence 10 years in prison.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

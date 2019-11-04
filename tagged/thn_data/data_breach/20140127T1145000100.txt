@@ -1,0 +1,17 @@
+Possible Data Breach at Arts and Crafts Retailer 'Michaels Store'
+Anonymous
+
+Western landscapes are facing a hell lot of data breaches started with Target, Neiman Marcus and now country's largest crafts chain 'Michael’s Art and Crafts' may be is the latest retailer hit by a security breach.
+In a statement, Irving, Texas-based company acknowledged a possible data security breach that may have affected its customers'  payment card information at its 1250 stores across the United States and  Canada.
+They also announced that it is working closely with federal law enforcement and is conducting an investigation with the help of third-party data security experts to establish the facts.
+"Michaels said in its statement that it had "recently learned of possible fraudulent activity on some US payment cards that had been used at Michaels, suggesting that the company may have experienced a data security attack" company said.
+CEO Chuck Rubin said that the company has not confirmed a breach, but wanted to alert customers: 
+We are concerned there may have been a data security attack on Michaels that may have affected our customers’ payment card information and we are taking aggressive action to determine the nature and scope of the issue. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Michaels gave no additional information on the possible breach. At the time of writing, it was not known that how many customers may be involved and the possible breach affected online or  in-store shoppers.
+Michaels, a 37 year old chain with 1259 stores had revenue more than $4 Billion in 2012, and this is not the first time when the company has faced a data breach. In 2011, about 94,000 payment card numbers were stolen from approx 80 stores.
+Michaels is the third major targeted retailer in the past month. In December, the attack on Target affected as many as 110 million customers, including 40 million credit and debit card and Neiman Marcus said a 3 month breach in the summer affected its 1.1 million customers.
+The FBI has sent a three-page confidential memo to retailers and warned them to get prepared for more attacks involving “memory-parsing” malware that lives on point of sale registers (POS), which includes card-swiping machines and cash registers.
+This memory-parsing malware is also referred to as a RAM scraper. The FBI mentions one particular variant of this malware, apparently called Alina, available at $6000 on underground forums.
+If Michaels confirms a breach, it would become the latest victim in a string of data attacks rattling merchants across the U.S. Meanwhile, clients have been recommended to check their payment card account statements for unauthorized charges.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

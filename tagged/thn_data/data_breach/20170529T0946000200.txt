@@ -1,0 +1,35 @@
+Russian Hackers Made 'Tainted Leaks' a Thing — Phishing to Propaganda
+Swati Khandelwal
+
+We came across so many revelations of sensitive government and corporate data on the Internet these days, but what's the accuracy of that information leaked by unknown actors?
+Security researchers have discovered new evidence of one such sophisticated global espionage and disinformation campaign with suspected ties to the Russian government that's been aimed to discredit enemies of the state.
+Although there is no definitive proof of Russian government's involvement in the campaign, there is "overlap" with previously reported cyber espionage activities tied to a Russia-backed hacking group well known as APT28.
+APT28 — also known as Fancy Bear, Sofacy, Sednit, and Pawn Storm — is the same group which was responsible for the Democratic National Committee (DNC) breach. The group has been operating since at least 2007 and has alleged tied to the Russian government.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+A new report, titled Tainted Leaks, published this week by the Citizen Lab at the University of Toronto's Munk School of Global Affairs gives a new view on how Russian state-sponsored hackers targeted over 200 Gmail users, including journalists, activists critical of the Kremlin and those connected with the Ukrainian military to steal sensitive emails from their accounts.
+The hackers then manipulate those stolen emails before being published on the Internet, planting disinformation alongside legitimate leaks.
+"It provides evidence of how documents stolen from a prominent journalist and critic of Russia was tampered with and then "leaked" to achieve specific propaganda aims," the researchers wrote.
+Citizen Lab researchers said that the hackers abused Google's own services and used phishing emails to steal Gmail credentials from 218 targets across 39 countries, including former US defense officials, a former Russian prime minister, and Ukrainian military official.
+Researchers detected the campaign in October 2016, but the attacks were going on for several months before that.
+Phishing Attack Abuses Google's Own Service
+The attackers sent phishing emails that looked almost identical to the security warnings from Google, alerting victims that someone had obtained their passwords and that they should change it right away.
+But, as soon as the victims visited the link and entered their login details, the hackers gained access to their accounts.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The phishing link was convincing to trick victims into handing over their credentials to the attackers because the campaign was abusing Google AMP's open redirect and short URL service in combination to hide their phishing pages.
+https://www.google.com/amp/tiny.cc/(redacted)
+Which redirects to:
+hxxp://myaccount.google.com-changepassword-securitypagesettingmyaccountgooglepagelogin.id833[.]ga/security/signinoptions/password
+The above landing URL looks like a Google's password-reset page, which captures users credentials as soon as it is entered.
+"After highlighting the similarities between this campaign and those documented by previous research, we round out the picture on Russia-linked operations by showing how related campaigns that attracted recent media attention for operations during the 2016 United States presidential election also targeted journalists, opposition groups, and civil society," Citizen Lab wrote.
+Citizen Lab researchers able to identify the campaign after analyzing two phishing emails sent to David Satter, an American journalist and Kremlin critic, and who has been banned from the country in 2014.
+Connection with DNC and French President Leak
+According to the security firm, the approach and techniques used in the campaign appear similar to the hacking attempts that hit Hillary Clinton presidential campaign chairman John Podesta last year and the recent one that targeted French President Emmanuel Macron.
+"In the 2017 French presidential election, tainted leaks appear to have been used in an attempt to discredit the political party and candidate for election directly," the researchers said.
+US intelligence officials have previously discovered that Russian government was behind the attacks on Podesta and other Democratic officials. Now, Citizen Lab said Russian government was behind the recent phishing campaign and subsequent manipulation of Satter's e-mail.
+Besides Satter, the same phishing campaign also targeted 218 other individuals, including politicians and other government officials, members of cabinets from Europe and Eurasia, journalists, academics, CEOs of energy and mining companies, UN officials, and high-ranking military personnel from more than a dozen countries, including the United States and NATO.
+Tainted Leaks: A New Threat
+CyberBerkut, a self-described pro-Russian group, published some of the documents obtained from Satter email accounts, one of which was so much manipulated that it made Satter appeared to be paying Russian journalists and activists to post articles critical of the Russian government, which would subsequently be published by several media outlets.
+"Tainted leaks are a growing and particularly troublesome addition to disinformation tactics, and in the current digital environment are likely to become more prevalent," the Citizen Lab researchers concluded. 
+"Tainted leaks—fakes in a forest of facts—test the limits of how media, citizen journalism, and social media users handle fact checking, and the amplification of enticing, but questionable information."
+So next time, when you came across any widespread data leak, just do not trust it blindly before the authenticity of those leaked documents is not proved.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

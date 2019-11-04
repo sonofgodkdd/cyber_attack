@@ -1,0 +1,15 @@
+Minecraft hacked! More than 1800 Minecraft account Credentials Leaked
+Swati Khandelwal
+
+A sad reality for gamers all around the world who enjoy playing the very popular game Minecraft on their PCs. If you are one of them, you'll want to pay attention here.
+A plain text file containing over 1,800 Minecraft account usernames and passwords has just been leaked online, German media reports. The details available in the leak has been posted to Pastebin, which would allow anyone to log into a legitimate user's account in order to play online and download the full version of the game to their own computers.
+However, the more serious implication of the leaked credentials would be for those affected users who had used the same username and password combination for other online services, like shopping site, banking site, email service or for any social networking site.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Minecraft is an incredibly popular online game bought by Microsoft just few months back for $2.5 billion. The game has more than 100 million registered accounts for its PC version alone, and 1800 leaked accounts is just a fraction of the overall Minecraft population. This means its an extremely minor breach. 
+However, the problem could be serious for both Minecraft’s developer Mojang and its parent company Microsoft if the leaked player data turns out to be just the beginning of the data breach.
+Microsoft’s Xbox Live gaming service has regularly been a target for hackers. On Christmas day, Microsoft’s Xbox Live service knocked offline by hackers group, Lizard squad, who launched Distributed Denial of Service (DDoS) attack against the gaming network. Sony’s Playstation was also targeted by the group at the same time. And now another gaming brand of Microsoft is under attack.
+So far, there's no clue as to where the credentials obtained, or if the leak itself is a herald to a much larger attack targeted at Minecraft.
+"There’s no guarantee that whoever gained access to them hasn't got a whole lot more in their back pocket which they haven’t chosen to release to the rest of the world," wrote Graham Cluley.
+"There is no mention of the security breach on Minecraft’s homepage, but my recommendation would be that if users have any concern that their accounts might be exposed to hackers that they should change their passwords immediately. It goes without saying that they should be particularly concerned if they are using the same password anywhere else on the web."
+At the moment, both Microsoft and Minecraft have not publicly acknowledged the leak. Just to keep yourself safe, we strongly recommend you to change your passwords to your Minecraft’s account and others if you use the same as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

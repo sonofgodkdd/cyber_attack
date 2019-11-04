@@ -1,0 +1,28 @@
+Scranos: New Rapidly Evolving Rootkit-Enabled Spyware Discovered
+Swati Khandelwal
+
+A new powerful rootkit-enabled spyware operation has been discovered wherein hackers are distributing multifunctional malware disguised as cracked software or trojanized app posing as legitimate software like video players, drivers and even anti-virus products.
+While the rootkit malware—dubbed Scranos—which was first discovered late last year, still appears to be a work in progress, it is continuously evolving, testing new components and regularly making an improvement to old components, which makes it a significant threat.
+Scranos features a modular design that has already gained capabilities to steal login credentials and payment accounts from various popular services, exfiltrate browsing history and cookies, get YouTube subscribers, display ads, as well as download and execute any payload.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to a 48 page in-depth report Bitdefender shared with The Hacker News prior to its release, the malware gains persistence on infected machines by installing a digitally-signed rootkit driver.
+Researchers believe attackers obtained the valid digital code-signing certificate fraudulently, which was originally issued to Yun Yu Health Management Consulting (Shanghai) Co., Ltd. and has not been revoked at the time of writing.
+"The rootkit registers a Shutdown callback to achieve persistence. At shutdown, the driver is written to disk, and a start-up service key is created in the Registry," the researchers say.
+Upon infection, the rootkit malware injects a downloader into a legitimate process which then communicates with the attacker-controlled Command-and-Control (C&C) server and downloads one or more payloads.
+Here we have listed a few data and password-stealing payloads:
+Password and Browsing History Stealing Payload —  The main dropper steals browser cookies and login credentials from Google Chrome, Chromium, Mozilla Firefox, Opera, Microsoft Edge, Internet Explorer, Baidu Browser and Yandex. It can also steal cookies and login info from victims' accounts on Facebook, YouTube, Amazon, and Airbnb.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Extension Installer Payload — This payload installs adware extensions in Chrome and injects malicious or malware-laden ads on all webpages users visit. A few samples also found installing fake browser extensions, such as Chrome Filter, Fierce-tips and PDF Maker.
+Steam Data Stealer Payload — This component steals and sends victims' Steam account credentials and information, including the list of installed apps and games, as well as hardcoded version, to the attacker's server.
+Malware Interacts with Facebook and YouTube on Victims' Behalf
+Some other payloads can even interact with various websites on the victim's behalf, such as:
+YouTube subscriber payload — This payload manipulates YouTube pages by running Chrome in debugging mode, instructing the browser to take various actions on a webpage like starting a video, muting a video, subscribing to a channel, and clicking ads.
+Facebook Spammer Payload — Using collected cookies and other tokens, attackers can command malware to send Facebook friend requests to other users. It can also send private messages to the victim's Facebook friends with links to malicious Android APKs.
+Android Adware App — Disguised as the legitimate "Accurate scanning of QR code" app available on Google Play Store, the malware app aggressively displays ads, tracks infected victims and uses same C&C server as the Windows malware.
+Scranos Steals Payment Information from Popular Websites
+Here's the list of DLLs contained in the main dropper:
+Facebook DLL — This DLL extracts information about the user Facebook accounts including their payment accounts, their list of friends, and if they are an administrator of a page.
+Amazon DLL — This DLL extracts information from the user’s Amazon account. Researchers even found a version of this DLL that has been designed to extract information from logged-in Airbnb accounts.
+According to the telemetry gathered by Bitdefender researchers, Scranos is targeting users worldwide, but "it seems more prevalent in India, Romania, Brazil, France, Italy, and Indonesia."
+The oldest sample of this malware traced back to November 2018, with a massive spike in December and January, but in March 2019, Scranos was started pushing other strains of malware, which researchers say is "a clear indicator that the network is now affiliated with third parties in pay-per install schemes."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

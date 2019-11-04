@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+March 7, 2008
+Fargo man pleads guilty to possessing child pornography
+FARGO, N.D. - A local man pleaded guilty here Thursday to possessing and transporting child pornography. This guilty plea was announced by U.S. Attorney Drew Wrigley, District of North Dakota; U.S. Immigration and Customs Enforcement (ICE) investigated the case.
+Chad Seeba, 38, of Fargo, pleaded guilty before U.S. District Court Judge Rodney S. Webb to possessing numerous computer files containing visual depictions of minor children engaging in sexually explicit conduct. Seeba also pleaded guilty to knowingly transporting or shipping child pornography in interstate commerce. The incidents occurred from October through December 2006 in North Dakota.
+The charge of possessing child pornography carries a maximum penalty of 10 years in prison; the charge of transporting or shipping child pornography carries a minimum mandatory penalty of five years in prison, and a maximum of 20 years.
+"Identifying those who sexually exploit children is one of the most important responsibilities we have," said Michael Mach, resident agent in charge of the ICE office in Grand Forks. "Unfortunately, the advent of technologies such as the Internet has increased accessibility to child pornography. But ICE is able to use these same technologies to identify and catch these predators."
+Sentencing for Seeba has been scheduled for June 10 in U.S. District Court in Fargo.
+This investigation was part of Operation Predator, a nationwide ICE initiative to protect children from sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers. Since Operation Predator was launched in July 2003, ICE agents have arrested more than 10,900 individuals, including more than 32 in South Dakota.
+ICE encourages the public to report suspected child predators and any suspicious activity through its toll-free hotline at 1-866-DHS-2-ICE. Investigators staff this hotline around the clock. Suspected child sexual exploitation or missing children may be reported to the National Center for Missing & Exploited Children, an Operation Predator partner, at 1-800-843-5678 orhttp://www.cybertipline.com .
+]]></TEXT>
+<TAGS>
+<person id="p0" start="15" end="24" text="Fargo man" TYPE="BAR" />
+<person id="p1" start="53" end="58" text="child" TYPE="NOMPRE" />
+<person id="p2" start="85" end="96" text="A local man" TYPE="NOM" />
+<person id="p3" start="157" end="162" text="child" TYPE="NOMPRE" />
+<person id="p4" start="210" end="262" text="U.S. Attorney Drew Wrigley, District of North Dakota" TYPE="NAM" />
+<person id="p5" start="210" end="223" text="U.S. Attorney" TYPE="NOMPRE" />
+<person id="p6" start="334" end="358" text="Chad Seeba, 38, of Fargo" TYPE="NAM" />
+<person id="p7" start="382" end="422" text="U.S. District Court Judge Rodney S. Webb" TYPE="NAM" />
+<person id="p8" start="382" end="407" text="U.S. District Court Judge" TYPE="NOMPRE" />
+<person id="p9" start="493" end="545" text="minor children engaging in sexually explicit conduct" TYPE="BAR" />
+<person id="p10" start="547" end="552" text="Seeba" TYPE="NAM" />
+<person id="p11" start="611" end="616" text="child" TYPE="NOMPRE" />
+<person id="p12" start="753" end="758" text="child" TYPE="NOMPRE" />
+<person id="p13" start="859" end="864" text="child" TYPE="NOMPRE" />
+<person id="p14" start="978" end="1013" text="those who sexually exploit children" TYPE="HLS" />
+<person id="p15" start="984" end="987" text="who" TYPE="WHQ" />
+<person id="p16" start="1005" end="1013" text="children" TYPE="BAR" />
+<person id="p17" start="1075" end="1146" text="Michael Mach, resident agent in charge of the ICE office in Grand Forks" TYPE="APP" />
+<person id="p18" start="1075" end="1087" text="Michael Mach" TYPE="NAM" />
+<person id="p19" start="1089" end="1146" text="resident agent in charge of the ICE office in Grand Forks" TYPE="BAR" />
+<person id="p20" start="1243" end="1248" text="child" TYPE="NOMPRE" />
+<person id="p21" start="1331" end="1346" text="these predators" TYPE="NOM" />
+<person id="p22" start="1364" end="1369" text="Seeba" TYPE="NAM" />
+<person id="p23" start="1524" end="1532" text="children" TYPE="BAR" />
+<person id="p24" start="1538" end="1698" text="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" TYPE="BAR" />
+<person id="p25" start="1566" end="1698" text="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" TYPE="HLS" />
+<person id="p26" start="1572" end="1575" text="who" TYPE="WHQ" />
+<person id="p27" start="1605" end="1611" text="minors" TYPE="BAR" />
+<person id="p28" start="1613" end="1641" text="Internet child pornographers" TYPE="BAR" />
+<person id="p29" start="1622" end="1627" text="child" TYPE="NOMPRE" />
+<person id="p30" start="1643" end="1671" text="criminal alien sex offenders" TYPE="BAR" />
+<person id="p31" start="1677" end="1698" text="child sex traffickers" TYPE="BAR" />
+<person id="p32" start="1677" end="1682" text="child" TYPE="NOMPRE" />
+<person id="p33" start="1752" end="1762" text="ICE agents" TYPE="BAR" />
+<person id="p34" start="1777" end="1845" text="more than 10,900 individuals, including more than 32 in South Dakota" TYPE="NOM" />
+<person id="p36" start="1817" end="1845" text="more than 32 in South Dakota" TYPE="HLS" />
+<person id="p38" start="1883" end="1908" text="suspected child predators" TYPE="BAR" />
+<person id="p39" start="1893" end="1898" text="child" TYPE="NOMPRE" />
+<person id="p40" start="1987" end="2000" text="Investigators" TYPE="BAR" />
+<person id="p41" start="2048" end="2053" text="child" TYPE="NOMPRE" />
+<person id="p42" start="2077" end="2093" text="missing children" TYPE="BAR" />
+<organization id="o0" start="238" end="262" text="District of North Dakota" TYPE="NAM" />
+<organization id="o1" start="264" end="309" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAM" />
+<organization id="o2" start="306" end="309" text="ICE" TYPE="NAM" />
+<organization id="o3" start="387" end="401" text="District Court" TYPE="NOMPRE" />
+<organization id="o5" start="1060" end="1062" text="we" TYPE="PRO" />
+<organization id="o6" start="1117" end="1146" text="the ICE office in Grand Forks" TYPE="NOM" />
+<organization id="o7" start="1121" end="1124" text="ICE" TYPE="NAMPRE" />
+<organization id="o8" start="1266" end="1269" text="ICE" TYPE="NAM" />
+<organization id="o9" start="1404" end="1432" text="U.S. District Court in Fargo" TYPE="NAM" />
+<organization id="o10" start="1498" end="1501" text="ICE" TYPE="NAMPRE" />
+<organization id="o11" start="1752" end="1755" text="ICE" TYPE="NAMPRE" />
+<organization id="o12" start="1847" end="1850" text="ICE" TYPE="NAM" />
+<organization id="o13" start="1945" end="1948" text="its" TYPE="PRO" />
+<organization id="o14" start="1976" end="1979" text="DHS" TYPE="NAM" />
+<organization id="o15" start="1982" end="1985" text="ICE" TYPE="NAM" />
+<organization id="o16" start="2113" end="2196" text="the National Center for Missing &amp; Exploited Children, an Operation Predator partner" TYPE="APP" />
+<organization id="o17" start="2113" end="2165" text="the National Center for Missing &amp; Exploited Children" TYPE="NAM" />
+<organization id="o18" start="2167" end="2196" text="an Operation Predator partner" TYPE="NOM" />
+<geographical-political id="g0" start="15" end="20" text="Fargo" TYPE="NAMPRE" />
+<geographical-political id="g1" start="71" end="81" text="FARGO, N.D" TYPE="NAM" />
+<geographical-political id="g2" start="78" end="81" text="N.D" TYPE="NAM" />
+<geographical-political id="g4" start="210" end="214" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g5" start="353" end="358" text="Fargo" TYPE="NAM" />
+<geographical-political id="g6" start="382" end="386" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g7" start="714" end="726" text="North Dakota" TYPE="NAM" />
+<geographical-political id="g8" start="1135" end="1146" text="Grand Forks" TYPE="NAM" />
+<geographical-political id="g9" start="1427" end="1432" text="Fargo" TYPE="NAM" />
+<geographical-political id="g10" start="1833" end="1845" text="South Dakota" TYPE="NAM" />
+<geographical-political id="g11" start="1862" end="1872" text="the public" TYPE="HLS" />
+<geographical-political id="g3" start="387" end="395" text="District" TYPE="NOMPRE" />
+<location id="l0" start="112" end="116" text="here" TYPE="PRO" />
+<falicity id="f0" start="812" end="818" text="prison" TYPE="BAR" />
+<falicity id="f1" start="930" end="936" text="prison" TYPE="BAR" />
+<falicity id="f3" start="1945" end="1985" text="its toll-free hotline at 1-866-DHS-2-ICE" TYPE="NOM" />
+<falicity id="f4" start="2007" end="2019" text="this hotline" TYPE="NOM" />
+<head id="h0" start="21" end="24" text="man" />
+<head id="h1" start="15" end="20" text="Fargo" />
+<head id="h2" start="53" end="58" text="child" />
+<head id="h3" start="71" end="76" text="FARGO" />
+<head id="h4" start="78" end="81" text="N.D" />
+<head id="h5" start="93" end="96" text="man" />
+<head id="h6" start="112" end="116" text="here" />
+<head id="h7" start="157" end="162" text="child" />
+<head id="h8" start="224" end="236" text="Drew Wrigley" />
+<head id="h9" start="215" end="223" text="Attorney" />
+<head id="h10" start="210" end="214" text="U.S." />
+<head id="h11" start="238" end="262" text="District of North Dakota" />
+<head id="h12" start="264" end="304" text="U.S. Immigration and Customs Enforcement" />
+<head id="h13" start="306" end="309" text="ICE" />
+<head id="h14" start="334" end="344" text="Chad Seeba" />
+<head id="h15" start="353" end="358" text="Fargo" />
+<head id="h16" start="408" end="422" text="Rodney S. Webb" />
+<head id="h17" start="402" end="407" text="Judge" />
+<head id="h18" start="396" end="401" text="Court" />
+<head id="h19" start="387" end="395" text="District" />
+<head id="h20" start="382" end="386" text="U.S." />
+<head id="h21" start="499" end="507" text="children" />
+<head id="h22" start="547" end="552" text="Seeba" />
+<head id="h23" start="611" end="616" text="child" />
+<head id="h24" start="714" end="726" text="North Dakota" />
+<head id="h25" start="753" end="758" text="child" />
+<head id="h26" start="812" end="818" text="prison" />
+<head id="h27" start="859" end="864" text="child" />
+<head id="h28" start="930" end="936" text="prison" />
+<head id="h29" start="978" end="983" text="those" />
+<head id="h30" start="984" end="987" text="who" />
+<head id="h31" start="1005" end="1013" text="children" />
+<head id="h32" start="1060" end="1062" text="we" />
+<head id="h33" start="1075" end="1087" text="Michael Mach" />
+<head id="h34" start="1098" end="1103" text="agent" />
+<head id="h35" start="1125" end="1131" text="office" />
+<head id="h36" start="1121" end="1124" text="ICE" />
+<head id="h37" start="1135" end="1146" text="Grand Forks" />
+<head id="h38" start="1243" end="1248" text="child" />
+<head id="h39" start="1266" end="1269" text="ICE" />
+<head id="h40" start="1337" end="1346" text="predators" />
+<head id="h41" start="1364" end="1369" text="Seeba" />
+<head id="h42" start="1404" end="1423" text="U.S. District Court" />
+<head id="h43" start="1427" end="1432" text="Fargo" />
+<head id="h44" start="1498" end="1501" text="ICE" />
+<head id="h45" start="1524" end="1532" text="children" />
+<head id="h46" start="1545" end="1554" text="predators" />
+<head id="h47" start="1566" end="1571" text="those" />
+<head id="h48" start="1572" end="1575" text="who" />
+<head id="h49" start="1605" end="1611" text="minors" />
+<head id="h50" start="1628" end="1641" text="pornographers" />
+<head id="h51" start="1622" end="1627" text="child" />
+<head id="h52" start="1662" end="1671" text="offenders" />
+<head id="h53" start="1687" end="1698" text="traffickers" />
+<head id="h54" start="1677" end="1682" text="child" />
+<head id="h55" start="1756" end="1762" text="agents" />
+<head id="h56" start="1752" end="1755" text="ICE" />
+<head id="h57" start="1794" end="1805" text="individuals" />
+<head id="h58" start="1827" end="1829" text="32" />
+<head id="h59" start="1833" end="1845" text="South Dakota" />
+<head id="h60" start="1847" end="1850" text="ICE" />
+<head id="h61" start="1866" end="1872" text="public" />
+<head id="h62" start="1899" end="1908" text="predators" />
+<head id="h63" start="1893" end="1898" text="child" />
+<head id="h64" start="1945" end="1948" text="its" />
+<head id="h65" start="1959" end="1966" text="hotline" />
+<head id="h66" start="1976" end="1979" text="DHS" />
+<head id="h67" start="1982" end="1985" text="ICE" />
+<head id="h68" start="1987" end="2000" text="Investigators" />
+<head id="h69" start="2012" end="2019" text="hotline" />
+<head id="h70" start="2048" end="2053" text="child" />
+<head id="h71" start="2085" end="2093" text="children" />
+<head id="h72" start="2117" end="2165" text="National Center for Missing &amp; Exploited Children" />
+<head id="h73" start="2189" end="2196" text="partner" />
+<name id="n0" start="15" end="20" text="Fargo" />
+<name id="n1" start="71" end="76" text="FARGO" />
+<name id="n2" start="78" end="81" text="N.D" />
+<name id="n3" start="224" end="236" text="Drew Wrigley" />
+<name id="n4" start="210" end="214" text="U.S." />
+<name id="n5" start="238" end="262" text="District of North Dakota" />
+<name id="n6" start="264" end="304" text="U.S. Immigration and Customs Enforcement" />
+<name id="n7" start="306" end="309" text="ICE" />
+<name id="n8" start="334" end="344" text="Chad Seeba" />
+<name id="n9" start="353" end="358" text="Fargo" />
+<name id="n10" start="408" end="422" text="Rodney S. Webb" />
+<name id="n11" start="382" end="386" text="U.S." />
+<name id="n12" start="547" end="552" text="Seeba" />
+<name id="n13" start="714" end="726" text="North Dakota" />
+<name id="n14" start="1075" end="1087" text="Michael Mach" />
+<name id="n15" start="1121" end="1124" text="ICE" />
+<name id="n16" start="1135" end="1146" text="Grand Forks" />
+<name id="n17" start="1266" end="1269" text="ICE" />
+<name id="n18" start="1364" end="1369" text="Seeba" />
+<name id="n19" start="1404" end="1423" text="U.S. District Court" />
+<name id="n20" start="1427" end="1432" text="Fargo" />
+<name id="n21" start="1498" end="1501" text="ICE" />
+<name id="n22" start="1752" end="1755" text="ICE" />
+<name id="n23" start="1833" end="1845" text="South Dakota" />
+<name id="n24" start="1847" end="1850" text="ICE" />
+<name id="n25" start="1976" end="1979" text="DHS" />
+<name id="n26" start="1982" end="1985" text="ICE" />
+<name id="n27" start="2117" end="2165" text="National Center for Missing &amp; Exploited Children" />
+<located-mention id="lo0" start="1817" end="1845" text="more than 32 in South Dakota" TYPE="Preposition" />
+<employment-mention id="e0" start="210" end="223" text="U.S. Attorney" TYPE="PreMod" />
+<employment-mention id="e2" start="382" end="407" text="U.S. District Court Judge" TYPE="PreMod" />
+<CRRE id="C0" start="15" end="24" text="Fargo man" TYPE="PreMod" />
+<CRRE id="C1" start="334" end="358" text="Chad Seeba, 38, of Fargo" TYPE="Preposition" />
+<M id="M0" start="210" end="262" text="U.S. Attorney Drew Wrigley, District of North Dakota" TYPE="Formulaic" />
+<M id="M1" start="382" end="407" text="U.S. District Court Judge" TYPE="PreMod" />
+<M id="M2" start="1089" end="1146" text="resident agent in charge of the ICE office in Grand Forks" TYPE="Preposition" />
+<M id="M3" start="1752" end="1762" text="ICE agents" TYPE="PreMod" />
+<entity_link id="en0" fromID="g1" fromText="FARGO, N.D" toID="g0" toText="Fargo" />
+<entity_link id="en1" fromID="p2" fromText="A local man" toID="p0" toText="Fargo man" />
+<entity_link id="en3" fromID="p3" fromText="child" toID="p1" toText="child" />
+<entity_link id="en4" fromID="p5" fromText="U.S. Attorney" toID="p4" toText="U.S. Attorney Drew Wrigley, District of North Dakota" />
+<entity_link id="en5" fromID="o2" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en6" fromID="p6" fromText="Chad Seeba, 38, of Fargo" toID="p2" toText="A local man" />
+<entity_link id="en7" fromID="g5" fromText="Fargo" toID="g1" toText="FARGO, N.D" />
+<entity_link id="en8" fromID="p8" fromText="U.S. District Court Judge" toID="p7" toText="U.S. District Court Judge Rodney S. Webb" />
+<entity_link id="en9" fromID="g6" fromText="U.S." toID="g4" toText="U.S." />
+<entity_link id="en10" fromID="p10" fromText="Seeba" toID="p6" toText="Chad Seeba, 38, of Fargo" />
+<entity_link id="en11" fromID="p11" fromText="child" toID="p3" toText="child" />
+<entity_link id="en12" fromID="p12" fromText="child" toID="p11" toText="child" />
+<entity_link id="en13" fromID="p13" fromText="child" toID="p12" toText="child" />
+<entity_link id="en14" fromID="f1" fromText="prison" toID="f0" toText="prison" />
+<entity_link id="en15" fromID="p15" fromText="who" toID="p14" toText="those who sexually exploit children" />
+<entity_link id="en16" fromID="o5" fromText="we" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en17" fromID="p18" fromText="Michael Mach" toID="p17" toText="Michael Mach, resident agent in charge of the ICE office in Grand Forks" />
+<entity_link id="en18" fromID="p19" fromText="resident agent in charge of the ICE office in Grand Forks" toID="p18" toText="Michael Mach" />
+<entity_link id="en19" fromID="o7" fromText="ICE" toID="o1" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en20" fromID="p20" fromText="child" toID="p13" toText="child" />
+<entity_link id="en21" fromID="o8" fromText="ICE" toID="o7" toText="ICE" />
+<entity_link id="en22" fromID="p21" fromText="these predators" toID="p14" toText="those who sexually exploit children" />
+<entity_link id="en23" fromID="p22" fromText="Seeba" toID="p10" toText="Seeba" />
+<entity_link id="en24" fromID="g9" fromText="Fargo" toID="g5" toText="Fargo" />
+<entity_link id="en25" fromID="o10" fromText="ICE" toID="o8" toText="ICE" />
+<entity_link id="en26" fromID="p23" fromText="children" toID="p16" toText="children" />
+<entity_link id="en27" fromID="p26" fromText="who" toID="p25" toText="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" />
+<entity_link id="en28" fromID="p29" fromText="child" toID="p20" toText="child" />
+<entity_link id="en29" fromID="p32" fromText="child" toID="p29" toText="child" />
+<entity_link id="en30" fromID="o11" fromText="ICE" toID="o10" toText="ICE" />
+<entity_link id="en31" fromID="o12" fromText="ICE" toID="o11" toText="ICE" />
+<entity_link id="en32" fromID="p39" fromText="child" toID="p32" toText="child" />
+<entity_link id="en33" fromID="o13" fromText="its" toID="o12" toText="ICE" />
+<entity_link id="en34" fromID="o15" fromText="ICE" toID="o12" toText="ICE" />
+<entity_link id="en35" fromID="f4" fromText="this hotline" toID="f3" toText="its toll-free hotline at 1-866-DHS-2-ICE" />
+<entity_link id="en36" fromID="p41" fromText="child" toID="p39" toText="child" />
+<entity_link id="en37" fromID="o17" fromText="the National Center for Missing &amp; Exploited Children" toID="o16" toText="the National Center for Missing &amp; Exploited Children, an Operation Predator partner" />
+<entity_link id="en38" fromID="o18" fromText="an Operation Predator partner" toID="o17" toText="the National Center for Missing &amp; Exploited Children" />
+<head_link id="he0" fromID="p0" fromText="Fargo man" toID="h0" toText="man" />
+<head_link id="he1" fromID="g0" fromText="Fargo" toID="h1" toText="Fargo" />
+<head_link id="he2" fromID="p1" fromText="child" toID="h2" toText="child" />
+<head_link id="he3" fromID="g1" fromText="FARGO, N.D" toID="h3" toText="FARGO" />
+<head_link id="he4" fromID="g2" fromText="N.D" toID="h4" toText="N.D" />
+<head_link id="he5" fromID="p2" fromText="A local man" toID="h5" toText="man" />
+<head_link id="he7" fromID="p3" fromText="child" toID="h7" toText="child" />
+<head_link id="he8" fromID="p4" fromText="U.S. Attorney Drew Wrigley, District of North Dakota" toID="h8" toText="Drew Wrigley" />
+<head_link id="he9" fromID="p5" fromText="U.S. Attorney" toID="h9" toText="Attorney" />
+<head_link id="he10" fromID="g4" fromText="U.S." toID="h10" toText="U.S." />
+<head_link id="he11" fromID="o0" fromText="District of North Dakota" toID="h11" toText="District of North Dakota" />
+<head_link id="he12" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h12" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he13" fromID="o2" fromText="ICE" toID="h13" toText="ICE" />
+<head_link id="he14" fromID="p6" fromText="Chad Seeba, 38, of Fargo" toID="h14" toText="Chad Seeba" />
+<head_link id="he15" fromID="g5" fromText="Fargo" toID="h15" toText="Fargo" />
+<head_link id="he16" fromID="p7" fromText="U.S. District Court Judge Rodney S. Webb" toID="h16" toText="Rodney S. Webb" />
+<head_link id="he17" fromID="p8" fromText="U.S. District Court Judge" toID="h17" toText="Judge" />
+<head_link id="he18" fromID="o3" fromText="District Court" toID="h18" toText="Court" />
+<head_link id="he20" fromID="g6" fromText="U.S." toID="h20" toText="U.S." />
+<head_link id="he21" fromID="p9" fromText="minor children engaging in sexually explicit conduct" toID="h21" toText="children" />
+<head_link id="he22" fromID="p10" fromText="Seeba" toID="h22" toText="Seeba" />
+<head_link id="he23" fromID="p11" fromText="child" toID="h23" toText="child" />
+<head_link id="he24" fromID="g7" fromText="North Dakota" toID="h24" toText="North Dakota" />
+<head_link id="he25" fromID="p12" fromText="child" toID="h25" toText="child" />
+<head_link id="he26" fromID="f0" fromText="prison" toID="h26" toText="prison" />
+<head_link id="he27" fromID="p13" fromText="child" toID="h27" toText="child" />
+<head_link id="he28" fromID="f1" fromText="prison" toID="h28" toText="prison" />
+<head_link id="he29" fromID="p14" fromText="those who sexually exploit children" toID="h29" toText="those" />
+<head_link id="he30" fromID="p15" fromText="who" toID="h30" toText="who" />
+<head_link id="he31" fromID="p16" fromText="children" toID="h31" toText="children" />
+<head_link id="he32" fromID="o5" fromText="we" toID="h32" toText="we" />
+<head_link id="he33" fromID="p18" fromText="Michael Mach" toID="h33" toText="Michael Mach" />
+<head_link id="he34" fromID="p19" fromText="resident agent in charge of the ICE office in Grand Forks" toID="h34" toText="agent" />
+<head_link id="he35" fromID="o6" fromText="the ICE office in Grand Forks" toID="h35" toText="office" />
+<head_link id="he36" fromID="o7" fromText="ICE" toID="h36" toText="ICE" />
+<head_link id="he37" fromID="g8" fromText="Grand Forks" toID="h37" toText="Grand Forks" />
+<head_link id="he38" fromID="p20" fromText="child" toID="h38" toText="child" />
+<head_link id="he39" fromID="o8" fromText="ICE" toID="h39" toText="ICE" />
+<head_link id="he40" fromID="p21" fromText="these predators" toID="h40" toText="predators" />
+<head_link id="he41" fromID="p22" fromText="Seeba" toID="h41" toText="Seeba" />
+<head_link id="he42" fromID="o9" fromText="U.S. District Court in Fargo" toID="h42" toText="U.S. District Court" />
+<head_link id="he43" fromID="g9" fromText="Fargo" toID="h43" toText="Fargo" />
+<head_link id="he44" fromID="o10" fromText="ICE" toID="h44" toText="ICE" />
+<head_link id="he45" fromID="p23" fromText="children" toID="h45" toText="children" />
+<head_link id="he46" fromID="p24" fromText="sexual predators, including those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" toID="h46" toText="predators" />
+<head_link id="he47" fromID="p25" fromText="those who travel overseas for sex with minors, Internet child pornographers, criminal alien sex offenders, and child sex traffickers" toID="h47" toText="those" />
+<head_link id="he48" fromID="p26" fromText="who" toID="h48" toText="who" />
+<head_link id="he49" fromID="p27" fromText="minors" toID="h49" toText="minors" />
+<head_link id="he50" fromID="p28" fromText="Internet child pornographers" toID="h50" toText="pornographers" />
+<head_link id="he51" fromID="p29" fromText="child" toID="h51" toText="child" />
+<head_link id="he52" fromID="p30" fromText="criminal alien sex offenders" toID="h52" toText="offenders" />
+<head_link id="he53" fromID="p31" fromText="child sex traffickers" toID="h53" toText="traffickers" />
+<head_link id="he54" fromID="p32" fromText="child" toID="h54" toText="child" />
+<head_link id="he55" fromID="p33" fromText="ICE agents" toID="h55" toText="agents" />
+<head_link id="he56" fromID="o11" fromText="ICE" toID="h56" toText="ICE" />
+<head_link id="he57" fromID="p34" fromText="more than 10,900 individuals, including more than 32 in South Dakota" toID="h57" toText="individuals" />
+<head_link id="he59" fromID="g10" fromText="South Dakota" toID="h59" toText="South Dakota" />
+<head_link id="he60" fromID="p36" fromText="more than 32 in South Dakota" toID="h58" toText="32" />
+<head_link id="he61" fromID="o12" fromText="ICE" toID="h60" toText="ICE" />
+<head_link id="he62" fromID="g11" fromText="the public" toID="h61" toText="public" />
+<head_link id="he63" fromID="p38" fromText="suspected child predators" toID="h62" toText="predators" />
+<head_link id="he64" fromID="p39" fromText="child" toID="h63" toText="child" />
+<head_link id="he65" fromID="o13" fromText="its" toID="h64" toText="its" />
+<head_link id="he66" fromID="f3" fromText="its toll-free hotline at 1-866-DHS-2-ICE" toID="h65" toText="hotline" />
+<head_link id="he67" fromID="o14" fromText="DHS" toID="h66" toText="DHS" />
+<head_link id="he68" fromID="o15" fromText="ICE" toID="h67" toText="ICE" />
+<head_link id="he69" fromID="p40" fromText="Investigators" toID="h68" toText="Investigators" />
+<head_link id="he70" fromID="f4" fromText="this hotline" toID="h69" toText="hotline" />
+<head_link id="he71" fromID="p41" fromText="child" toID="h70" toText="child" />
+<head_link id="he72" fromID="p42" fromText="missing children" toID="h71" toText="children" />
+<head_link id="he73" fromID="o17" fromText="the National Center for Missing &amp; Exploited Children" toID="h72" toText="National Center for Missing &amp; Exploited Children" />
+<head_link id="he74" fromID="o18" fromText="an Operation Predator partner" toID="h73" toText="partner" />
+<head_link id="he58" fromID="l0" fromText="here" toID="h6" toText="here" />
+<head_link id="he6" fromID="g3" fromText="District" toID="h19" toText="District" />
+<name_link id="na0" fromID="g0" fromText="Fargo" toID="n0" toText="Fargo" />
+<name_link id="na1" fromID="g1" fromText="FARGO, N.D" toID="n1" toText="FARGO" />
+<name_link id="na2" fromID="g2" fromText="N.D" toID="n2" toText="N.D" />
+<name_link id="na3" fromID="p4" fromText="U.S. Attorney Drew Wrigley, District of North Dakota" toID="n3" toText="Drew Wrigley" />
+<name_link id="na4" fromID="g4" fromText="U.S." toID="n4" toText="U.S." />
+<name_link id="na5" fromID="o0" fromText="District of North Dakota" toID="n5" toText="District of North Dakota" />
+<name_link id="na6" fromID="o1" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n6" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na7" fromID="o2" fromText="ICE" toID="n7" toText="ICE" />
+<name_link id="na8" fromID="p6" fromText="Chad Seeba, 38, of Fargo" toID="n8" toText="Chad Seeba" />
+<name_link id="na9" fromID="g5" fromText="Fargo" toID="n9" toText="Fargo" />
+<name_link id="na10" fromID="p7" fromText="U.S. District Court Judge Rodney S. Webb" toID="n10" toText="Rodney S. Webb" />
+<name_link id="na11" fromID="g6" fromText="U.S." toID="n11" toText="U.S." />
+<name_link id="na12" fromID="p10" fromText="Seeba" toID="n12" toText="Seeba" />
+<name_link id="na13" fromID="g7" fromText="North Dakota" toID="n13" toText="North Dakota" />
+<name_link id="na14" fromID="p18" fromText="Michael Mach" toID="n14" toText="Michael Mach" />
+<name_link id="na15" fromID="o7" fromText="ICE" toID="n15" toText="ICE" />
+<name_link id="na16" fromID="g8" fromText="Grand Forks" toID="n16" toText="Grand Forks" />
+<name_link id="na17" fromID="o8" fromText="ICE" toID="n17" toText="ICE" />
+<name_link id="na18" fromID="p22" fromText="Seeba" toID="n18" toText="Seeba" />
+<name_link id="na19" fromID="o9" fromText="U.S. District Court in Fargo" toID="n19" toText="U.S. District Court" />
+<name_link id="na20" fromID="g9" fromText="Fargo" toID="n20" toText="Fargo" />
+<name_link id="na21" fromID="o10" fromText="ICE" toID="n21" toText="ICE" />
+<name_link id="na22" fromID="o11" fromText="ICE" toID="n22" toText="ICE" />
+<name_link id="na23" fromID="g10" fromText="South Dakota" toID="n23" toText="South Dakota" />
+<name_link id="na24" fromID="o12" fromText="ICE" toID="n24" toText="ICE" />
+<name_link id="na25" fromID="o14" fromText="DHS" toID="n25" toText="DHS" />
+<name_link id="na26" fromID="o15" fromText="ICE" toID="n26" toText="ICE" />
+<name_link id="na27" fromID="o17" fromText="the National Center for Missing &amp; Exploited Children" toID="n27" toText="National Center for Missing &amp; Exploited Children" />
+<relation_link1 id="r0" fromID="C0" fromText="Fargo man" toID="p0" toText="Fargo man" />
+<relation_link1 id="r1" fromID="e0" fromText="U.S. Attorney" toID="p5" toText="U.S. Attorney" />
+<relation_link1 id="r2" fromID="M0" fromText="U.S. Attorney Drew Wrigley, District of North Dakota" toID="p4" toText="U.S. Attorney Drew Wrigley, District of North Dakota" />
+<relation_link1 id="r3" fromID="C1" fromText="Chad Seeba, 38, of Fargo" toID="p6" toText="Chad Seeba, 38, of Fargo" />
+<relation_link1 id="r4" fromID="M1" fromText="U.S. District Court Judge" toID="p8" toText="U.S. District Court Judge" />
+<relation_link1 id="r5" fromID="e2" fromText="U.S. District Court Judge" toID="p8" toText="U.S. District Court Judge" />
+<relation_link1 id="r6" fromID="M2" fromText="resident agent in charge of the ICE office in Grand Forks" toID="p19" toText="resident agent in charge of the ICE office in Grand Forks" />
+<relation_link1 id="r7" fromID="M3" fromText="ICE agents" toID="p33" toText="ICE agents" />
+<relation_link1 id="r8" fromID="lo0" fromText="more than 32 in South Dakota" toID="p36" toText="more than 32 in South Dakota" />
+<relation_link2 id="re0" fromID="C0" fromText="Fargo man" toID="g0" toText="Fargo" />
+<relation_link2 id="re1" fromID="e0" fromText="U.S. Attorney" toID="g4" toText="U.S." />
+<relation_link2 id="re2" fromID="M0" fromText="U.S. Attorney Drew Wrigley, District of North Dakota" toID="o0" toText="District of North Dakota" />
+<relation_link2 id="re3" fromID="C1" fromText="Chad Seeba, 38, of Fargo" toID="g5" toText="Fargo" />
+<relation_link2 id="re4" fromID="M1" fromText="U.S. District Court Judge" toID="o3" toText="District Court" />
+<relation_link2 id="re5" fromID="e2" fromText="U.S. District Court Judge" toID="g6" toText="U.S." />
+<relation_link2 id="re6" fromID="M2" fromText="resident agent in charge of the ICE office in Grand Forks" toID="o6" toText="the ICE office in Grand Forks" />
+<relation_link2 id="re7" fromID="M3" fromText="ICE agents" toID="o11" toText="ICE" />
+<relation_link2 id="re8" fromID="lo0" fromText="more than 32 in South Dakota" toID="g10" toText="South Dakota" />
+</TAGS>
+</KddTask>

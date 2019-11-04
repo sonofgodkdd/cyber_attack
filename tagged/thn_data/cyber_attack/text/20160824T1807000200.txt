@@ -1,0 +1,15 @@
+ATMs in Thailand Hacked; 12 Million Baht Stolen; 10,000 ATMs Prone to Hackers
+Wang Wei
+
+Thailand has suffered its first ATM Hack!
+An Eastern European gang of criminals has stolen over 12 Million Baht (approximately US$350,000) from a total of 21 ATMs in Bangkok and other five provinces by hacking a Thai bank's ATM network; police said Wednesday
+The Central Bank of Thailand (BoT) has issued a warning to all commercial banks about security flaws in roughly 10,000 ATMs that were exploited to steal cash from the machines.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The warning came shortly after the state-owned Government Savings Bank (GSB) shut down approximately 3,000 of their ATMs following an ongoing police investigation into the recent hack in which hackers were able to infect many its cash machines with malware.
+GSB found that millions of Thailand Baht were stolen between August 1 and 8 from 21 ATMs across the provinces of Bangkok, Phuket, Chumphon, Prachuap Khiri Khan, Phetchaburi, and Surat Thani, the Bangkok Post reports.
+The hackers made over 12.29 Million Thailand Baht (US$346,000) by inserting cards installed with malware into multiple ATMs to spew out cash, up to 40,000 Baht each transaction.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+GSB President Chartchai Payuhanaveechai told the local media that the bank has reviewed security camera footage and identified potential suspects as foreign nationals who infected their cash machines with malware that forced them to dispense cash.
+Payuhanaweechai also ensured its customers that they are not affected by the theft as the gang's malware only tricked the bank ATMs to release cash without authorization, not from customers' accounts.
+Thai police suspect a ring of at least 25 Eastern European nationals committed the crime and link them to a similar hacking theft occurred last month when the top eight banks in Taiwan were forced to shut down hundreds of its ATMS after thieves used malware to steal NT$70 Million ($2.17 Million) in cash.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

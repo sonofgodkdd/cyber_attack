@@ -1,0 +1,37 @@
+<!ENTITY name "KddTask">
+
+
+<!ELEMENT person   (#PCDATA)>
+<!ATTLIST person TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC) #IMPLIED "USP" >
+
+<!ELEMENT organization   (#PCDATA)>
+<!ATTLIST organization TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC) #IMPLIED "USP" >
+
+<!ELEMENT geographical-political   (#PCDATA)>
+<!ATTLIST geographical-political TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC) #IMPLIED "USP" >
+
+<!ELEMENT location   (#PCDATA)>
+<!ATTLIST location TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC) #IMPLIED "USP" >
+
+<!ELEMENT falicity   (#PCDATA)>
+<!ATTLIST falicity TYPE (USP|NAM|NOM|BAR|PRO|WHQ|HLS|PTV|NAMPRE|NOMPRE|APP|ARC|FAC) #IMPLIED "USP" >
+
+<!ELEMENT head   (#PCDATA)>
+<!ELEMENT name   (#PCDATA)>
+
+<!ELEMENT located-mention   (#PCDATA)>
+<!ATTLIST located-mention TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+<!ELEMENT employment-mention   (#PCDATA)>
+<!ATTLIST employment-mention TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+<!ELEMENT CRRE   (#PCDATA)>
+<!ATTLIST CRRE TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+
+<!ELEMENT M   (#PCDATA)>
+<!ATTLIST M TYPE (Other|Possessive|Preposition|PreMod|Coordination|Formulaic|Participial|Verbal) #IMPLIED "Other" >
+
+<!ELEMENT entity_link 	EMPTY >
+<!ELEMENT head_link 	EMPTY >
+<!ELEMENT name_link 	EMPTY >
+<!ELEMENT relation_link1 	EMPTY >
+<!ELEMENT relation_link2 	EMPTY >
+

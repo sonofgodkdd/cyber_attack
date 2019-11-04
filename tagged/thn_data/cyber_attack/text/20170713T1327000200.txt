@@ -1,0 +1,23 @@
+New Ransomware Threatens to Send Your Internet History & Private Pics to All Your Friends
+Mohit Kumar
+
+After WannaCry and Petya ransomware outbreaks, a scary (but rather creative) new strain of ransomware is spreading via bogus apps on the Google Play Store, this time targeting Android mobile users.
+Dubbed LeakerLocker, the Android ransomware does not encrypt files on victim's device, unlike traditional ransomware, rather it secretly collects personal images, messages and browsing history and threatens to share it to their contacts if they don't pay $50 (£38).
+Researchers at security firm McAfee spotted the LeakerLocker ransomware in at least two apps — Booster & Cleaner Pro and Wallpapers Blur HD — in the Google Play Store, both of which have thousands of downloads.
+To evade detection of malicious functionality, the apps initially don’t contain any malicious payload and typical function like legitimate apps.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+But once installed by users, the apps load malicious code from its command-and-control server, which instructs them to collect a vast number of sensitive data from the victim's phone — thanks to its victims granting unnecessary permissions blindly during installation.
+The LeakerLocker ransomware then locks the home screen and displays a message that contains details of the data it claims to have stolen and holds instructions on how to pay the ransom to ensure the information is deleted.
+The ransom message reads:
+All personal data from your smartphone has been transferred to our secure cloud.
+In less than 72 hours this data will be sent to every person on your telephone and email contacts list. To abort this action you have to pay a modest ransom of $50 (£38).
+Please note that there is no way to delete your data from our secure but paying for them. Powering off or even damaging your smartphone won't affect your data in the cloud.
+Although the ransomware claims that it has taken a backup of all of your sensitive information, including personal photos, contact numbers, SMS', calls and GPS locations and browsing and correspondence history, researchers believe only a limited amount of data on victims is collected.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to researchers, LeakerLocker can read a victim's email address, random contacts, Chrome history, some text messages and calls, take a picture from the camera, and read some device information.
+All the above information is randomly chosen to display on the device screen, which is enough to convince the victims that lots of data have been copied.
+Both malicious apps have since been removed by Google from the Play Store, but it is likely that hackers will try to smuggle their software into other apps.
+If you have installed any of the two apps, uninstall it right now.
+But if you are hit by the ransomware and are worried about your sexy selfies and photographs being leaked to your friends and relatives, you might be thinking of paying a ransom.
+Do not pay the Ransom! Doing so motivates cyber criminals to carry out similar attacks, and there is also no guarantee that the stolen information will be deleted by the hackers from their server and will not be used to blackmail victims again.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

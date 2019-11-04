@@ -1,0 +1,10 @@
+Energy Department networks hit by major Cyber Attack
+Mohit Kumar
+
+The Computer networks of Energy Department were attacked by unknown hackers in a major cyber attack two weeks ago and personal information on several hundred employees was compromised.
+The Washington Free Beacon reports that, FBI agents are investigating the attacks and 14 computer servers and 20 workstations reportedly were penetrated during the attack. Officials are working to determine the exact nature of the attack and the extent of potential damage.
+"They believe the sophisticated penetration attack was not limited to stealing personal information. There are indications the attackers had other motives, possibly including plans to gain future access to classified and other sensitive information."
+The security breach resulted in the unauthorized disclosure of employee and contractor Personally Identifiable Information (PII) of several hundred people.
+Department is in the process of notifying employees whose information was stolen. However, Chinese hackers are likely suspects because the department is known to be a major target of China for both secrets and technology.
+Last week, New York Times and Wall Street Journal also discloses that they were also hacked by Chinese Hackers and recently 250,000 Twitter accounts was also compromised in similar sophisticated cyber attack.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

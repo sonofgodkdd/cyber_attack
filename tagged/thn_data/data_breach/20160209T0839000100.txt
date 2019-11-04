@@ -1,0 +1,29 @@
+Hacker Leaks Info of 30,000 FBI and DHS Employees
+Swati Khandelwal
+
+An unknown hacker who promised to release the personal information on government employees has dump online a list of nearly 20,000 Federal Bureau of Investigation (FBI) agents and 9,000 Department of Homeland Security (DHS) officers.
+Though the authenticity of the information has not been verified, at least, some of the leaked data appears to be legitimate.
+Here's What the Hacker Leaked:
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hacker leaked first round of data belonging to roughly 9,000 DHS employees on Sunday, which was followed by the release of 20,000 FBI agents information on Monday.
+The hacker, who goes on Twitter by the username of @DotGovs, published the supposed data on an encrypted text-sharing website, including:
+Names
+Job titles
+Phone numbers
+Email addresses
+The Reason Behind the Hack
+The message at the top of the data dump includes the hashtag "#FreePalestine" and reads "Long Live Palestine, Long Live Gaza: This is for Palestine, Ramallah, West Bank, Gaza, This is for the child that is searching for an answer."
+The above message shows the support to Palestine, which could be the motivation behind the hack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it's unclear how much of the hacked data may have been publicly available, the hacker told Motherboard that he had downloaded 200GB of data, out of 1TB total available to him.
+If this comes true, the information that has been leaked so far would just be a small percentage of what the hacker has in its box.
+How the Hacker did it?
+The hacker claimed to have compromised US Department of Justice (DoJ) email account and gained access to the department's Intranet. Then he allegedly downloaded the information of over 20,000 FBI officers, roughly 9,000 DHS employees and an undisclosed number of DoJ staffers.
+The hacker also claimed to have some military emails and credit card numbers belonging to federal employees but provided neither proof nor indication that he intended to release them too.
+In October, a teenage hacker who goes by "Cracka" carried out a similar hack and targeted several high-profile government employees, including the CIA director John Brennan, the US spy chief James Clapper, the FBI Deputy Director Mark Giuliano, and others.
+However, not all hacks are as vast and serious as that of the US Office of Personnel Management (OPM), in which over 21.5 Million government employees were exposed.
+DoJ Downplayed the Impact of Hacking
+"This unauthorized access is still under investigation; however, there is no indication at this time that there is any breach of sensitive personally identifiable information," a DOJ spokesman said in a statement to the Guardian.
+The hacked data posted anonymously on an encrypted Cryptobin website was reviewed by the Guardian, which found that some of the data from the DHS list are outdated, and some listed individuals have not worked for DHS in years.
+Others are criticizing the US government for its failure to protect its sensitive data, especially after the embarrassing and damaging OPM hack that exposed personal details on millions of government employees.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

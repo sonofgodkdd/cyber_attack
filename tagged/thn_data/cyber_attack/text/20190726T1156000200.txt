@@ -1,0 +1,21 @@
+Ransomware Attack Caused Power Outages in the Biggest South African City
+Mohit Kumar
+
+Yesterday, some residents of Johannesburg, the largest city in South Africa, were left without electricity after the city's power company got attacked by a ransomware virus.
+City Power, the company responsible for powering South Africa's financial capital Johannesburg, confirmed Thursday on Twitter that it had been hit by a Ransomware virus that had encrypted all of its databases, applications, and network.
+The attack prevented prepaid customers from buying electricity units, upload invoices when making payments, or access the City Power's official website, eventually leaving them without power.
+"Please note that the virus hit us early Thursday morning, compromising our database and other software, impacting most of our applications and networks," the city government said in a tweet.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, the company has also ensured its customers that none of their details were compromised in the cyber attack.
+At the time of writing, the company confirmed they have restored electricity supply in many areas and also most of the critical applications, including the prepaid vending system responsible for enabling its customers to buy electricity.
+However, customers seeking to access the City Power website to log faults are still not able to do so. They are requested to log calls by their mobile phones using citypower.mobi.
+Depending on the type and severity of the cyberattack, it is believed that the complete clean up of the affected services and networks could take weeks.
+Also, it could cost millions of dollars—just like the City of Baltimore recently spent $5,310,546 in hiring security consultant firms and upgrading its infrastructure following a ransomware attack that shut down the majority of its servers.
+The city government did not provide any details on the type of ransomware virus that hit the power company, or if the company has a backup for critical files encrypted by the malware.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Customers should not panic as none of their details were compromised," the city government said Thursday afternoon. "We apologize for the inconvenience caused to the people of the City of Joburg. Please be patient with us, and we expect to have everything back in order by the end of Thursday."
+Johannesburg is not the only one that was recently hit by a ransomware attack. A growing number of cities has targeted in the last few months with ransomware as cybercriminals aim municipalities around the world.
+Last month, ransomware viruses hit two cities in Florida that made large ransom payments to gain back access to city files that were encrypted in the attacks—these cities include Riviera Beach City ($600,000) and Lake City ($500,000) in Florida.
+However, federal authorities and cybersecurity experts have always advised victims not to pay ransoms since it encourages criminals, and also there's no guarantee of files or computer systems being completely restored.
+Instead of paying the ransom, organizations and companies should consider having robust backups of their important and required files and data in place as well as educating their employees to avoid being a victim of such cyber attacks.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

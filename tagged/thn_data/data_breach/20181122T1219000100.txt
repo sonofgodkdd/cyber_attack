@@ -1,0 +1,24 @@
+US Postal Service Left 60 Million Users Data Exposed For Over a Year
+Swati Khandelwal
+
+The United States Postal Service has patched a critical security vulnerability that exposed the data of more than 60 million customers to anyone who has an account at the USPS.com website.
+The U.S.P.S. is an independent agency of the American federal government responsible for providing postal service in the United States and is one of the few government agencies explicitly authorized by the United States Constitution.
+The vulnerability is tied to an authentication weakness in an application programming interface (API) for the USPS "Informed Visibility" program designed to help business customers track mail in real-time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+60 Million USPS Users' Data Exposed
+According to the cybersecurity researcher, who has not disclosed his identity, the API was programmed to accept any number of "wildcard" search parameters, enabling anyone logged in to usps.com to query the system for account details belonging to any other user.
+In other words, the attacker could have pulled off email addresses, usernames, user IDs, account numbers, street addresses, phone numbers, authorized users and mailing campaign data from as many as 60 million USPS customer accounts.
+"APIs are turning out to be a double-edged sword when it comes to internet scale B2B connectivity and security. APIs, when insecure, break down the very premise of uber connectivity they have helped establish," Setu Kulkarni, VP of strategy and business development at WhiteHat Security told The Hacker News.
+"To avoid similar flaws, government agencies and companies must be proactive, not just reactive, in regards to application security. Every business that handles consumer data needs to make security a consistent, top-of-mind concern with an obligation to perform the strictest security tests against vulnerable avenues: APIs, network connections, mobile apps, websites, and databases. Organizations that rely on digital platforms need to educate and empower developers to code using security best practices throughout the entire software lifecycle (SLC), with proper security training and certifications."
+USPS Ignored Responsible Disclosure For Over a Year
+What's More Worrisome?
+The API authentication vulnerability also allowed any USPS user to request account changes for other users, such as their email addresses, phone numbers or other key details.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The worst part of the whole incident was the USPS handling of responsible vulnerability disclosure.
+The unnamed researcher reportedly discovered and responsibly reported this vulnerability last year to the Postal Service, who ignored it and left its users’ data exposed until last week when a journalist contacted USPS on behalf of the researcher.
+And then, the Portal Service addressed the issue within just 48 hours, journalist Brian Krebs said.
+"While we're not sure whether anyone actually took advantage of the vulnerability, it did reportedly exist for a whole year, so we should assume the worst," Paul Bischoff, privacy advocate with Comparitech told The Hacker News.
+USPS Responds by Saying:
+"We currently have no information that this vulnerability was leveraged to exploit customer records."
+"Out of an abundance of caution, the Postal Service is further investigating to ensure that anyone who may have sought to access our systems inappropriately is pursued to the fullest extent of the law."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

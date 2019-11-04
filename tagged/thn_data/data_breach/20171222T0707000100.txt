@@ -1,0 +1,24 @@
+Nissan Finance Canada Suffers Data Breach — Notifies 1.13 Million Customers
+Mohit Kumar
+
+It's the last month of this year, but possibly not the last data breach report.
+Nissan warns of a possible data breach of personal information on its customers who financed their vehicles through Nissan Canada Finance and INFINITI Financial Services Canada.
+Although the company says it does not know precisely how many customers were affected by the data breach, Nissan is contacting all of its roughly 1.13 million current and previous customers.
+In a statement released Thursday, Nissan Canada said the company became aware of an "unauthorized access to personal information" of some customers on December 11.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"Nissan Canada Finance recently became aware it was the victim of a data breach that may have involved an unauthorized person(s) gaining access to the personal information of some customers that have financed their vehicles through Nissan Canada Finance and INFINITI Financial Services Canada," the company said.
+It's believed that the unknown hacker(s) may have had access to the following information:
+Customers' names
+Home addresses
+Vehicle makes and models
+Vehicle identification numbers (VIN)
+Credit scores
+Loan amounts
+Monthly payments
+The company says there no indication, at least at this moment, that if the data breach also includes payment information and contactable information like email addresses or phone numbers.
+The company offers 12 months of free credit monitoring services through TransUnion to all of its financed customers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Since the investigation into the data breach incident is still ongoing, it is not clear if the hack also impacts customers outside of Canada and customers who did not obtain financing through NCF.
+"We sincerely apologize to the customers whose personal information may have been illegally accessed and for any frustration or inconvenience that this may cause," Nissan Canada president Alain Ballu said. "We are focused on supporting our customers and ensuring the security of our systems."
+Nissan Canada has contacted Canadian privacy regulators, law enforcement, and data security experts to help rapidly investigate the matter.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,14 @@
+How to Minimize Web Application Security Risk !
+Mohit Kumar
+
+With Web applications remaining a popular target for attackers, Web app security sometimes seems like a digital version of the "Good, the Bad and the Ugly." Vulnerabilities in web applications are now the largest vector of enterprise security attacks.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Web application security is much more challenging than infrastructure. The top Web application vulnerabilities occur and re-occur time and again. Items such as Cross Site Scripting (XSS), SQL Injection (SQLi) and file inclusion are common vulnerabilities and show up frequently. In his view, the majority of Web application security problems can be solved by applying well known security technology approaches.
+According to survey results, only 51 percent of organizations currently have coders conduct security testing, and only 40 percent of organizations report they test during development. Vulnerabilities like these fall often outside the traditional expertise of network security managers.
+To help you understand how to minimize these risks, Qualys provides this guide "Web Application Security; How to Minimize Prevalent Risk of Attacks" as a primer to web application security.
+The guide covers:
+Typical web application vulnerabilities
+Comparison of options for web application vulnerability detection
+QualysGuard Web Application Scanning solution
+Download Handbook !
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,16 @@
+Global Internet Authority — ICANN Hacked Again!
+Swati Khandelwal
+
+ICANN (Internet Corporation for Assigned Names and Numbers) – the organisation responsible for allocating domain names and IP addresses for the Internet – has been hacked, potentially compromising its customers’ names, email addresses, hashed passwords, and more.
+The US-administered non-profit corporation admitted on Wednesday that its server security was breached within the past week and that…
+…an "unauthorised person" gained access to usernames, email addresses, and encrypted passwords for profile accounts on ICANN.org public website.
+The organisation believes that the leaked information includes harmless information such as user preferences, public biographies, interests, newsletters, and subscriptions.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Less than ten months ago, ICANN was hacked by a hacker who gained access to its internal system following a spear phishing attack in November last year. Employees were tricked into handing over their credentials after receiving malicious emails apparently sent from the ICANN's own domain.
+With those details, the hackers then managed to access ICANN systems, including the Centralized Zone Data System (CZDS), the domain registration Whois portal, the wiki pages of the ICANN Governmental Advisory Committee (GAC), and ICANN blog.
+The passwords compromised in the latest data breach were encrypted one-way using the bcrypt algorithm.
+"These encrypted passwords (hashes) are not easy to reverse," ICANN said, "but as a precaution we [require] that all users reset their passwords."
+However, there's no evidence that any profile accounts, or its internal systems have been accessed without authorization, nor any operational data, financial data, or IANA (Internet Assigned Numbers Authority) systems were involved.
+The IANA is also a part of ICANN, which performs the actual management of the DNS root zone, globally-unique names and numbers.
+Users are recommended to change their online account passwords, or just not using the same password across multiple websites.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

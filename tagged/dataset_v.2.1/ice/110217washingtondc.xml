@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+February 17, 2011
+Wounded special agent recovering
+WASHINGTON - U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds. He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City. His colleague, Special Agent Jaime Zapata, died Tuesday from the wounds sustained during the attack.
+"As we mourn Special Agent Zapata's death, we also recognize Special Agent Avila's great heroism," said ICE Director John Morton. "His willingness to stand in the gap for the American people and serve on the front lines exemplifies his strength of character and his courage. We honor his service and pray for his continued recovery."
+Special Agent Avila joined ICE in 2004. He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit. At the time of the attack, he was in the midst of an international assignment in the ICE attach office in Mexico City. Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system.
+U.S. law enforcement agencies continue to work closely with Mexican authorities who are investigating the shooting to ensure the perpetrators of this unconscionable crime are captured as quickly as possible. The full resources of the Department of Homeland Security are at the disposal of our Mexican partners in this investigation.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="19" end="51" text="Wounded special agent recovering" TYPE="BAR" />
+<person id="p1" start="65" end="143" text="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." TYPE="NAM" />
+<person id="p2" start="65" end="125" text="U.S. Immigration and Customs Enforcement (ICE) Special Agent" TYPE="NOMPRE" />
+<person id="p3" start="219" end="222" text="his" TYPE="PRO" />
+<person id="p4" start="231" end="233" text="He" TYPE="PRO" />
+<person id="p5" start="304" end="306" text="he" TYPE="PRO" />
+<person id="p6" start="323" end="341" text="unknown assailants" TYPE="BAR" />
+<person id="p7" start="400" end="441" text="His colleague, Special Agent Jaime Zapata" TYPE="NOM" />
+<person id="p8" start="415" end="441" text="Special Agent Jaime Zapata" TYPE="NAM" />
+<person id="p9" start="415" end="428" text="Special Agent" TYPE="NOMPRE" />
+<person id="p10" start="400" end="403" text="His" TYPE="PRO" />
+<person id="p11" start="514" end="534" text="Special Agent Zapata" TYPE="NAM" />
+<person id="p12" start="514" end="527" text="Special Agent" TYPE="NOMPRE" />
+<person id="p13" start="562" end="581" text="Special Agent Avila" TYPE="NAM" />
+<person id="p14" start="562" end="575" text="Special Agent" TYPE="NOMPRE" />
+<person id="p15" start="605" end="629" text="ICE Director John Morton" TYPE="NAM" />
+<person id="p16" start="605" end="617" text="ICE Director" TYPE="NOMPRE" />
+<person id="p17" start="632" end="635" text="His" TYPE="PRO" />
+<person id="p18" start="733" end="736" text="his" TYPE="PRO" />
+<person id="p19" start="763" end="766" text="his" TYPE="PRO" />
+<person id="p20" start="785" end="788" text="his" TYPE="PRO" />
+<person id="p21" start="810" end="813" text="his" TYPE="PRO" />
+<person id="p22" start="835" end="854" text="Special Agent Avila" TYPE="NAM" />
+<person id="p23" start="835" end="848" text="Special Agent" TYPE="NOMPRE" />
+<person id="p24" start="875" end="877" text="He" TYPE="PRO" />
+<person id="p25" start="960" end="962" text="he" TYPE="PRO" />
+<person id="p26" start="1094" end="1096" text="he" TYPE="PRO" />
+<person id="p27" start="1216" end="1235" text="Special Agent Avila" TYPE="NAM" />
+<person id="p28" start="1216" end="1229" text="Special Agent" TYPE="NOMPRE" />
+<person id="p29" start="1240" end="1294" text="a federal probation officer with the U.S. court system" TYPE="NOM" />
+<person id="p30" start="1356" end="1410" text="Mexican authorities who are investigating the shooting" TYPE="BAR" />
+<person id="p31" start="1376" end="1379" text="who" TYPE="WHQ" />
+<person id="p32" start="1421" end="1466" text="the perpetrators of this unconscionable crime" TYPE="NOM" />
+<organization id="o0" start="65" end="110" text="U.S. Immigration and Customs Enforcement (ICE" TYPE="NAMPRE" />
+<organization id="o1" start="107" end="110" text="ICE" TYPE="NAM" />
+<organization id="o2" start="505" end="507" text="we" TYPE="PRO" />
+<organization id="o3" start="544" end="546" text="we" TYPE="PRO" />
+<organization id="o4" start="605" end="608" text="ICE" TYPE="NAMPRE" />
+<organization id="o5" start="776" end="778" text="We" TYPE="PRO" />
+<organization id="o6" start="862" end="865" text="ICE" TYPE="NAM" />
+<organization id="o7" start="894" end="1065" text="the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" TYPE="NAM" />
+<organization id="o8" start="954" end="959" text="where" TYPE="WHQ" />
+<organization id="o9" start="973" end="1013" text="the Human Smuggling and Trafficking Unit" TYPE="NAM" />
+<organization id="o10" start="1030" end="1065" text="the Financial/Asset Forfeiture Unit" TYPE="NAM" />
+<organization id="o11" start="1148" end="1184" text="the ICE attach office in Mexico City" TYPE="NOM" />
+<organization id="o12" start="1152" end="1155" text="ICE" TYPE="NAMPRE" />
+<organization id="o13" start="1203" end="1206" text="ICE" TYPE="NAM" />
+<organization id="o14" start="1277" end="1287" text="U.S. court" TYPE="NOMPRE" />
+<organization id="o15" start="1296" end="1325" text="U.S. law enforcement agencies" TYPE="BAR" />
+<organization id="o16" start="1526" end="1561" text="the Department of Homeland Security" TYPE="NAM" />
+<organization id="o17" start="1585" end="1605" text="our Mexican partners" TYPE="NOM" />
+<organization id="o18" start="1585" end="1588" text="our" TYPE="PRO" />
+<geographical-political id="g0" start="52" end="62" text="WASHINGTON" TYPE="NAM" />
+<geographical-political id="g1" start="364" end="381" text="Monterrey, Mexico" TYPE="NAM" />
+<geographical-political id="g2" start="375" end="381" text="Mexico" TYPE="NAM" />
+<geographical-political id="g3" start="387" end="398" text="Mexico City" TYPE="NAM" />
+<geographical-political id="g4" start="672" end="691" text="the American people" TYPE="NOM" />
+<geographical-political id="g5" start="676" end="684" text="American" TYPE="NAMPRE" />
+<geographical-political id="g6" start="938" end="952" text="El Paso, Texas" TYPE="NAM" />
+<geographical-political id="g7" start="947" end="952" text="Texas" TYPE="NAM" />
+<geographical-political id="g8" start="1173" end="1184" text="Mexico City" TYPE="NAM" />
+<geographical-political id="g9" start="1277" end="1281" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g10" start="1296" end="1300" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g11" start="1356" end="1363" text="Mexican" TYPE="NAMPRE" />
+<geographical-political id="g12" start="1589" end="1596" text="Mexican" TYPE="NAMPRE" />
+<falicity id="f0" start="165" end="177" text="the hospital" TYPE="NOM" />
+<falicity id="f1" start="198" end="202" text="home" TYPE="BAR" />
+<head id="h0" start="35" end="40" text="agent" />
+<head id="h1" start="52" end="62" text="WASHINGTON" />
+<head id="h2" start="126" end="138" text="Victor Avila" />
+<head id="h3" start="120" end="125" text="Agent" />
+<head id="h4" start="65" end="105" text="U.S. Immigration and Customs Enforcement" />
+<head id="h5" start="107" end="110" text="ICE" />
+<head id="h6" start="169" end="177" text="hospital" />
+<head id="h7" start="198" end="202" text="home" />
+<head id="h8" start="219" end="222" text="his" />
+<head id="h9" start="231" end="233" text="He" />
+<head id="h10" start="304" end="306" text="he" />
+<head id="h11" start="331" end="341" text="assailants" />
+<head id="h12" start="364" end="373" text="Monterrey" />
+<head id="h13" start="375" end="381" text="Mexico" />
+<head id="h14" start="387" end="398" text="Mexico City" />
+<head id="h15" start="404" end="413" text="colleague" />
+<head id="h16" start="429" end="441" text="Jaime Zapata" />
+<head id="h17" start="423" end="428" text="Agent" />
+<head id="h18" start="400" end="403" text="His" />
+<head id="h19" start="505" end="507" text="we" />
+<head id="h20" start="528" end="534" text="Zapata" />
+<head id="h21" start="522" end="527" text="Agent" />
+<head id="h22" start="544" end="546" text="we" />
+<head id="h23" start="576" end="581" text="Avila" />
+<head id="h24" start="570" end="575" text="Agent" />
+<head id="h25" start="618" end="629" text="John Morton" />
+<head id="h26" start="609" end="617" text="Director" />
+<head id="h27" start="605" end="608" text="ICE" />
+<head id="h28" start="632" end="635" text="His" />
+<head id="h29" start="685" end="691" text="people" />
+<head id="h30" start="676" end="684" text="American" />
+<head id="h31" start="733" end="736" text="his" />
+<head id="h32" start="763" end="766" text="his" />
+<head id="h33" start="776" end="778" text="We" />
+<head id="h34" start="785" end="788" text="his" />
+<head id="h35" start="810" end="813" text="his" />
+<head id="h36" start="849" end="854" text="Avila" />
+<head id="h37" start="843" end="848" text="Agent" />
+<head id="h38" start="862" end="865" text="ICE" />
+<head id="h39" start="875" end="877" text="He" />
+<head id="h40" start="898" end="934" text="Special Agent in Charge (SAC) office" />
+<head id="h41" start="954" end="959" text="where" />
+<head id="h42" start="938" end="945" text="El Paso" />
+<head id="h43" start="947" end="952" text="Texas" />
+<head id="h44" start="960" end="962" text="he" />
+<head id="h45" start="977" end="1013" text="Human Smuggling and Trafficking Unit" />
+<head id="h46" start="1034" end="1065" text="Financial/Asset Forfeiture Unit" />
+<head id="h47" start="1094" end="1096" text="he" />
+<head id="h48" start="1163" end="1169" text="office" />
+<head id="h49" start="1152" end="1155" text="ICE" />
+<head id="h50" start="1173" end="1184" text="Mexico City" />
+<head id="h51" start="1203" end="1206" text="ICE" />
+<head id="h52" start="1230" end="1235" text="Avila" />
+<head id="h53" start="1224" end="1229" text="Agent" />
+<head id="h54" start="1260" end="1267" text="officer" />
+<head id="h55" start="1282" end="1287" text="court" />
+<head id="h56" start="1277" end="1281" text="U.S." />
+<head id="h57" start="1317" end="1325" text="agencies" />
+<head id="h58" start="1296" end="1300" text="U.S." />
+<head id="h59" start="1364" end="1375" text="authorities" />
+<head id="h60" start="1376" end="1379" text="who" />
+<head id="h61" start="1356" end="1363" text="Mexican" />
+<head id="h62" start="1425" end="1437" text="perpetrators" />
+<head id="h63" start="1530" end="1561" text="Department of Homeland Security" />
+<head id="h64" start="1597" end="1605" text="partners" />
+<head id="h65" start="1589" end="1596" text="Mexican" />
+<head id="h66" start="1585" end="1588" text="our" />
+<name id="n0" start="52" end="62" text="WASHINGTON" />
+<name id="n1" start="126" end="138" text="Victor Avila" />
+<name id="n2" start="65" end="105" text="U.S. Immigration and Customs Enforcement" />
+<name id="n3" start="107" end="110" text="ICE" />
+<name id="n4" start="364" end="373" text="Monterrey" />
+<name id="n5" start="375" end="381" text="Mexico" />
+<name id="n6" start="387" end="398" text="Mexico City" />
+<name id="n7" start="429" end="441" text="Jaime Zapata" />
+<name id="n8" start="528" end="534" text="Zapata" />
+<name id="n9" start="576" end="581" text="Avila" />
+<name id="n10" start="618" end="629" text="John Morton" />
+<name id="n11" start="605" end="608" text="ICE" />
+<name id="n12" start="676" end="684" text="American" />
+<name id="n13" start="849" end="854" text="Avila" />
+<name id="n14" start="862" end="865" text="ICE" />
+<name id="n15" start="898" end="934" text="Special Agent in Charge (SAC) office" />
+<name id="n16" start="938" end="945" text="El Paso" />
+<name id="n17" start="947" end="952" text="Texas" />
+<name id="n18" start="977" end="1013" text="Human Smuggling and Trafficking Unit" />
+<name id="n19" start="1034" end="1065" text="Financial/Asset Forfeiture Unit" />
+<name id="n20" start="1152" end="1155" text="ICE" />
+<name id="n21" start="1173" end="1184" text="Mexico City" />
+<name id="n22" start="1203" end="1206" text="ICE" />
+<name id="n23" start="1230" end="1235" text="Avila" />
+<name id="n24" start="1277" end="1281" text="U.S." />
+<name id="n25" start="1296" end="1300" text="U.S." />
+<name id="n26" start="1356" end="1363" text="Mexican" />
+<name id="n27" start="1530" end="1561" text="Department of Homeland Security" />
+<name id="n28" start="1589" end="1596" text="Mexican" />
+<located-mention id="lo0" start="65" end="229" text="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" TYPE="Verbal" />
+<located-mention id="lo1" start="65" end="229" text="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" TYPE="Verbal" />
+<located-mention id="lo2" start="231" end="398" text="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" TYPE="Other" />
+<located-mention id="lo3" start="231" end="398" text="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" TYPE="Other" />
+<employment-mention id="e0" start="1356" end="1410" text="Mexican authorities who are investigating the shooting" TYPE="PreMod" />
+<M id="M0" start="65" end="125" text="U.S. Immigration and Customs Enforcement (ICE) Special Agent" TYPE="PreMod" />
+<M id="M1" start="605" end="617" text="ICE Director" TYPE="PreMod" />
+<M id="M2" start="835" end="873" text="Special Agent Avila joined ICE in 2004" TYPE="Verbal" />
+<M id="M3" start="875" end="1065" text="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" TYPE="Verbal" />
+<M id="M4" start="875" end="1065" text="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" TYPE="Other" />
+<M id="M5" start="875" end="1065" text="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" TYPE="Verbal" />
+<M id="M6" start="875" end="1065" text="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" TYPE="Other" />
+<M id="M8" start="1186" end="1294" text="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" TYPE="Other" />
+<M id="M7" start="1186" end="1294" text="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" TYPE="Other" />
+<entity_link id="en0" fromID="p1" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." toID="p0" toText="Wounded special agent recovering" />
+<entity_link id="en1" fromID="p2" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en2" fromID="o1" fromText="ICE" toID="o0" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<entity_link id="en3" fromID="p3" fromText="his" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en4" fromID="p4" fromText="He" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en5" fromID="p5" fromText="he" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en6" fromID="p8" fromText="Special Agent Jaime Zapata" toID="p7" toText="His colleague, Special Agent Jaime Zapata" />
+<entity_link id="en7" fromID="p9" fromText="Special Agent" toID="p8" toText="Special Agent Jaime Zapata" />
+<entity_link id="en8" fromID="p10" fromText="His" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en9" fromID="p11" fromText="Special Agent Zapata" toID="p8" toText="Special Agent Jaime Zapata" />
+<entity_link id="en10" fromID="p12" fromText="Special Agent" toID="p11" toText="Special Agent Zapata" />
+<entity_link id="en11" fromID="p13" fromText="Special Agent Avila" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<entity_link id="en12" fromID="p14" fromText="Special Agent" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en13" fromID="p16" fromText="ICE Director" toID="p15" toText="ICE Director John Morton" />
+<entity_link id="en14" fromID="o4" fromText="ICE" toID="o1" toText="ICE" />
+<entity_link id="en15" fromID="o3" fromText="we" toID="o4" toText="ICE" />
+<entity_link id="en16" fromID="o2" fromText="we" toID="o4" toText="ICE" />
+<entity_link id="en17" fromID="p17" fromText="His" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en18" fromID="g5" fromText="American" toID="g4" toText="the American people" />
+<entity_link id="en19" fromID="p18" fromText="his" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en20" fromID="p19" fromText="his" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en21" fromID="o5" fromText="We" toID="o4" toText="ICE" />
+<entity_link id="en22" fromID="p20" fromText="his" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en23" fromID="p21" fromText="his" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en24" fromID="p22" fromText="Special Agent Avila" toID="p13" toText="Special Agent Avila" />
+<entity_link id="en25" fromID="p23" fromText="Special Agent" toID="p22" toText="Special Agent Avila" />
+<entity_link id="en26" fromID="o6" fromText="ICE" toID="o4" toText="ICE" />
+<entity_link id="en27" fromID="p24" fromText="He" toID="p22" toText="Special Agent Avila" />
+<entity_link id="en28" fromID="o8" fromText="where" toID="o7" toText="the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" />
+<entity_link id="en29" fromID="p25" fromText="he" toID="p22" toText="Special Agent Avila" />
+<entity_link id="en30" fromID="p26" fromText="he" toID="p22" toText="Special Agent Avila" />
+<entity_link id="en31" fromID="o12" fromText="ICE" toID="o6" toText="ICE" />
+<entity_link id="en32" fromID="g8" fromText="Mexico City" toID="g3" toText="Mexico City" />
+<entity_link id="en33" fromID="o13" fromText="ICE" toID="o12" toText="ICE" />
+<entity_link id="en34" fromID="p27" fromText="Special Agent Avila" toID="p22" toText="Special Agent Avila" />
+<entity_link id="en35" fromID="p28" fromText="Special Agent" toID="p27" toText="Special Agent Avila" />
+<entity_link id="en36" fromID="p29" fromText="a federal probation officer with the U.S. court system" toID="p27" toText="Special Agent Avila" />
+<entity_link id="en37" fromID="g10" fromText="U.S." toID="g9" toText="U.S." />
+<entity_link id="en38" fromID="g9" fromText="U.S." toID="g5" toText="American" />
+<entity_link id="en39" fromID="p31" fromText="who" toID="p30" toText="Mexican authorities who are investigating the shooting" />
+<entity_link id="en40" fromID="g11" fromText="Mexican" toID="g2" toText="Mexico" />
+<entity_link id="en41" fromID="g12" fromText="Mexican" toID="g11" toText="Mexican" />
+<entity_link id="en42" fromID="o18" fromText="our" toID="o16" toText="the Department of Homeland Security" />
+<head_link id="he0" fromID="p0" fromText="Wounded special agent recovering" toID="h0" toText="agent" />
+<head_link id="he1" fromID="g0" fromText="WASHINGTON" toID="h1" toText="WASHINGTON" />
+<head_link id="he2" fromID="p1" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." toID="h2" toText="Victor Avila" />
+<head_link id="he3" fromID="p2" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent" toID="h3" toText="Agent" />
+<head_link id="he4" fromID="o0" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="h4" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he5" fromID="o1" fromText="ICE" toID="h5" toText="ICE" />
+<head_link id="he6" fromID="f0" fromText="the hospital" toID="h6" toText="hospital" />
+<head_link id="he7" fromID="f1" fromText="home" toID="h7" toText="home" />
+<head_link id="he8" fromID="p3" fromText="his" toID="h8" toText="his" />
+<head_link id="he9" fromID="p4" fromText="He" toID="h9" toText="He" />
+<head_link id="he10" fromID="p5" fromText="he" toID="h10" toText="he" />
+<head_link id="he11" fromID="p6" fromText="unknown assailants" toID="h11" toText="assailants" />
+<head_link id="he12" fromID="g1" fromText="Monterrey, Mexico" toID="h12" toText="Monterrey" />
+<head_link id="he13" fromID="g2" fromText="Mexico" toID="h13" toText="Mexico" />
+<head_link id="he14" fromID="g3" fromText="Mexico City" toID="h14" toText="Mexico City" />
+<head_link id="he15" fromID="p7" fromText="His colleague, Special Agent Jaime Zapata" toID="h15" toText="colleague" />
+<head_link id="he16" fromID="p8" fromText="Special Agent Jaime Zapata" toID="h16" toText="Jaime Zapata" />
+<head_link id="he17" fromID="p9" fromText="Special Agent" toID="h17" toText="Agent" />
+<head_link id="he18" fromID="p10" fromText="His" toID="h18" toText="His" />
+<head_link id="he19" fromID="o2" fromText="we" toID="h19" toText="we" />
+<head_link id="he20" fromID="p11" fromText="Special Agent Zapata" toID="h20" toText="Zapata" />
+<head_link id="he21" fromID="p12" fromText="Special Agent" toID="h21" toText="Agent" />
+<head_link id="he22" fromID="o3" fromText="we" toID="h22" toText="we" />
+<head_link id="he23" fromID="p13" fromText="Special Agent Avila" toID="h23" toText="Avila" />
+<head_link id="he24" fromID="p14" fromText="Special Agent" toID="h24" toText="Agent" />
+<head_link id="he25" fromID="p15" fromText="ICE Director John Morton" toID="h25" toText="John Morton" />
+<head_link id="he26" fromID="p16" fromText="ICE Director" toID="h26" toText="Director" />
+<head_link id="he27" fromID="o4" fromText="ICE" toID="h27" toText="ICE" />
+<head_link id="he28" fromID="p17" fromText="His" toID="h28" toText="His" />
+<head_link id="he29" fromID="g4" fromText="the American people" toID="h29" toText="people" />
+<head_link id="he30" fromID="g5" fromText="American" toID="h30" toText="American" />
+<head_link id="he31" fromID="p18" fromText="his" toID="h31" toText="his" />
+<head_link id="he32" fromID="p19" fromText="his" toID="h32" toText="his" />
+<head_link id="he33" fromID="o5" fromText="We" toID="h33" toText="We" />
+<head_link id="he34" fromID="p20" fromText="his" toID="h34" toText="his" />
+<head_link id="he35" fromID="p21" fromText="his" toID="h35" toText="his" />
+<head_link id="he36" fromID="p22" fromText="Special Agent Avila" toID="h36" toText="Avila" />
+<head_link id="he37" fromID="p23" fromText="Special Agent" toID="h37" toText="Agent" />
+<head_link id="he38" fromID="o6" fromText="ICE" toID="h38" toText="ICE" />
+<head_link id="he39" fromID="p24" fromText="He" toID="h39" toText="He" />
+<head_link id="he40" fromID="o7" fromText="the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="h40" toText="Special Agent in Charge (SAC) office" />
+<head_link id="he41" fromID="o8" fromText="where" toID="h41" toText="where" />
+<head_link id="he42" fromID="g6" fromText="El Paso, Texas" toID="h42" toText="El Paso" />
+<head_link id="he43" fromID="g7" fromText="Texas" toID="h43" toText="Texas" />
+<head_link id="he44" fromID="p25" fromText="he" toID="h44" toText="he" />
+<head_link id="he45" fromID="o9" fromText="the Human Smuggling and Trafficking Unit" toID="h45" toText="Human Smuggling and Trafficking Unit" />
+<head_link id="he46" fromID="o10" fromText="the Financial/Asset Forfeiture Unit" toID="h46" toText="Financial/Asset Forfeiture Unit" />
+<head_link id="he47" fromID="p26" fromText="he" toID="h47" toText="he" />
+<head_link id="he48" fromID="o11" fromText="the ICE attach office in Mexico City" toID="h48" toText="office" />
+<head_link id="he49" fromID="o12" fromText="ICE" toID="h49" toText="ICE" />
+<head_link id="he50" fromID="g8" fromText="Mexico City" toID="h50" toText="Mexico City" />
+<head_link id="he51" fromID="o13" fromText="ICE" toID="h51" toText="ICE" />
+<head_link id="he52" fromID="p27" fromText="Special Agent Avila" toID="h52" toText="Avila" />
+<head_link id="he53" fromID="p28" fromText="Special Agent" toID="h53" toText="Agent" />
+<head_link id="he54" fromID="p29" fromText="a federal probation officer with the U.S. court system" toID="h54" toText="officer" />
+<head_link id="he55" fromID="o14" fromText="U.S. court" toID="h55" toText="court" />
+<head_link id="he56" fromID="g9" fromText="U.S." toID="h56" toText="U.S." />
+<head_link id="he57" fromID="o15" fromText="U.S. law enforcement agencies" toID="h57" toText="agencies" />
+<head_link id="he58" fromID="g10" fromText="U.S." toID="h58" toText="U.S." />
+<head_link id="he59" fromID="p30" fromText="Mexican authorities who are investigating the shooting" toID="h59" toText="authorities" />
+<head_link id="he60" fromID="p31" fromText="who" toID="h60" toText="who" />
+<head_link id="he61" fromID="g11" fromText="Mexican" toID="h61" toText="Mexican" />
+<head_link id="he62" fromID="p32" fromText="the perpetrators of this unconscionable crime" toID="h62" toText="perpetrators" />
+<head_link id="he63" fromID="o16" fromText="the Department of Homeland Security" toID="h63" toText="Department of Homeland Security" />
+<head_link id="he64" fromID="o17" fromText="our Mexican partners" toID="h64" toText="partners" />
+<head_link id="he65" fromID="g12" fromText="Mexican" toID="h65" toText="Mexican" />
+<head_link id="he66" fromID="o18" fromText="our" toID="h66" toText="our" />
+<name_link id="na0" fromID="g0" fromText="WASHINGTON" toID="n0" toText="WASHINGTON" />
+<name_link id="na1" fromID="p1" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." toID="n1" toText="Victor Avila" />
+<name_link id="na2" fromID="o0" fromText="U.S. Immigration and Customs Enforcement (ICE" toID="n2" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na3" fromID="o1" fromText="ICE" toID="n3" toText="ICE" />
+<name_link id="na4" fromID="g1" fromText="Monterrey, Mexico" toID="n4" toText="Monterrey" />
+<name_link id="na5" fromID="g2" fromText="Mexico" toID="n5" toText="Mexico" />
+<name_link id="na6" fromID="g3" fromText="Mexico City" toID="n6" toText="Mexico City" />
+<name_link id="na7" fromID="p8" fromText="Special Agent Jaime Zapata" toID="n7" toText="Jaime Zapata" />
+<name_link id="na8" fromID="p11" fromText="Special Agent Zapata" toID="n8" toText="Zapata" />
+<name_link id="na9" fromID="p13" fromText="Special Agent Avila" toID="n9" toText="Avila" />
+<name_link id="na10" fromID="p15" fromText="ICE Director John Morton" toID="n10" toText="John Morton" />
+<name_link id="na11" fromID="o4" fromText="ICE" toID="n11" toText="ICE" />
+<name_link id="na12" fromID="g5" fromText="American" toID="n12" toText="American" />
+<name_link id="na13" fromID="p22" fromText="Special Agent Avila" toID="n13" toText="Avila" />
+<name_link id="na14" fromID="o6" fromText="ICE" toID="n14" toText="ICE" />
+<name_link id="na15" fromID="o7" fromText="the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="n15" toText="Special Agent in Charge (SAC) office" />
+<name_link id="na16" fromID="g6" fromText="El Paso, Texas" toID="n16" toText="El Paso" />
+<name_link id="na17" fromID="g7" fromText="Texas" toID="n17" toText="Texas" />
+<name_link id="na18" fromID="o9" fromText="the Human Smuggling and Trafficking Unit" toID="n18" toText="Human Smuggling and Trafficking Unit" />
+<name_link id="na19" fromID="o10" fromText="the Financial/Asset Forfeiture Unit" toID="n19" toText="Financial/Asset Forfeiture Unit" />
+<name_link id="na20" fromID="o12" fromText="ICE" toID="n20" toText="ICE" />
+<name_link id="na21" fromID="g8" fromText="Mexico City" toID="n21" toText="Mexico City" />
+<name_link id="na22" fromID="o13" fromText="ICE" toID="n22" toText="ICE" />
+<name_link id="na23" fromID="p27" fromText="Special Agent Avila" toID="n23" toText="Avila" />
+<name_link id="na24" fromID="g9" fromText="U.S." toID="n24" toText="U.S." />
+<name_link id="na25" fromID="g10" fromText="U.S." toID="n25" toText="U.S." />
+<name_link id="na26" fromID="g11" fromText="Mexican" toID="n26" toText="Mexican" />
+<name_link id="na27" fromID="o16" fromText="the Department of Homeland Security" toID="n27" toText="Department of Homeland Security" />
+<name_link id="na28" fromID="g12" fromText="Mexican" toID="n28" toText="Mexican" />
+<relation_link1 id="r0" fromID="M0" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent" toID="p2" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent" />
+<relation_link1 id="r1" fromID="lo0" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<relation_link1 id="r2" fromID="lo1" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" toID="p1" toText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr." />
+<relation_link1 id="r3" fromID="lo2" fromText="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" toID="p5" toText="he" />
+<relation_link1 id="r4" fromID="lo3" fromText="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" toID="p5" toText="he" />
+<relation_link1 id="r5" fromID="M1" fromText="ICE Director" toID="p16" toText="ICE Director" />
+<relation_link1 id="r6" fromID="M2" fromText="Special Agent Avila joined ICE in 2004" toID="p22" toText="Special Agent Avila" />
+<relation_link1 id="r7" fromID="M3" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="p24" toText="He" />
+<relation_link1 id="r8" fromID="M4" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="p25" toText="he" />
+<relation_link1 id="r9" fromID="M5" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="p25" toText="he" />
+<relation_link1 id="r10" fromID="M6" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="p25" toText="he" />
+<relation_link1 id="r12" fromID="M8" fromText="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" toID="p27" toText="Special Agent Avila" />
+<relation_link1 id="r13" fromID="e0" fromText="Mexican authorities who are investigating the shooting" toID="p30" toText="Mexican authorities who are investigating the shooting" />
+<relation_link1 id="r14" fromID="M7" fromText="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" toID="p29" toText="a federal probation officer with the U.S. court system" />
+<relation_link2 id="re0" fromID="M0" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent" toID="o0" toText="U.S. Immigration and Customs Enforcement (ICE" />
+<relation_link2 id="re1" fromID="lo0" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" toID="f0" toText="the hospital" />
+<relation_link2 id="re2" fromID="lo1" fromText="U.S. Immigration and Customs Enforcement (ICE) Special Agent Victor Avila, Jr., was discharged from the hospital Wednesday and is at home recovering from his wounds" toID="f1" toText="home" />
+<relation_link2 id="re3" fromID="lo2" fromText="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" toID="g1" toText="Monterrey, Mexico" />
+<relation_link2 id="re4" fromID="lo3" fromText="He was shot twice in the leg in the line of duty Tuesday afternoon after he was attacked by unknown assailants while driving between Monterrey, Mexico, and Mexico City" toID="g3" toText="Mexico City" />
+<relation_link2 id="re5" fromID="M1" fromText="ICE Director" toID="o4" toText="ICE" />
+<relation_link2 id="re6" fromID="M2" fromText="Special Agent Avila joined ICE in 2004" toID="o6" toText="ICE" />
+<relation_link2 id="re7" fromID="M3" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="o7" toText="the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" />
+<relation_link2 id="re8" fromID="M4" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="o8" toText="where" />
+<relation_link2 id="re9" fromID="M5" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="o9" toText="the Human Smuggling and Trafficking Unit" />
+<relation_link2 id="re10" fromID="M6" fromText="He was assigned to the Special Agent in Charge (SAC) office in El Paso, Texas, where he served on the Human Smuggling and Trafficking Unit as well as with the Financial/Asset Forfeiture Unit" toID="o10" toText="the Financial/Asset Forfeiture Unit" />
+<relation_link2 id="re12" fromID="M8" fromText="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" toID="o13" toText="ICE" />
+<relation_link2 id="re13" fromID="e0" fromText="Mexican authorities who are investigating the shooting" toID="g11" toText="Mexican" />
+<relation_link2 id="re14" fromID="M7" fromText="Prior to joining ICE in 2004, Special Agent Avila was a federal probation officer with the U.S. court system" toID="o14" toText="U.S. court" />
+</TAGS>
+</KddTask>

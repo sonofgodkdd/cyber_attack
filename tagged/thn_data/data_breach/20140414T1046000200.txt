@@ -1,0 +1,14 @@
+Flickr vulnerable to SQL Injection and Remote Code Execution Flaws
+Wang Wei
+
+Yahoo-owned Flickr, one of the biggest online photo management and sharing website in the world was recently impacted by critical web application vulnerabilities, which left website's database and server vulnerable hackers.
+Ibrahim Raafat, a security researcher from Egypt has found SQL injection vulnerabilities on Flickr Photo Books, new feature for printing custom photo books through Flickr that was launched 5 months ago.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+He claimed to have found two parameters (page_id , items) vulnerable to Blind SQL injection and one  (i.e. order_id) Direct SQL Injection that allowed him to query the Flickr database for its content by the injection of a SQL SELECT statements.
+A Successful SQL exploitation could allow an attacker to steal the Database and MYSQL administrator password.
+Furthermore, Flickr's SQL injection flaws also facilitate the attacker to exploit remote code execution on the server and using load_file(“/etc/passwd“) function he was successfully managed to read the content from the sensitive files on the Flickr server, as shown below:
+In addition to this, Ibrahim was able to write new files on the server that let him upload a custom 'code execution shell'.
+Video Demonstration: 
+He reported the vulnerability to Yahoo which have been patched.
+Update: Yahoo awarded Ibrahim Raafat with biggest bug bounty payout ever. He received $15,000 for reporting Flickr SQL injection and Remote code execution vulnerability.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

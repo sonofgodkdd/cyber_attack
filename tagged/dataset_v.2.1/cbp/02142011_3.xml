@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+CBP in Sault Ste. Marie Augments Presidential Security Detail
+(Monday, February 14, 2011)
+Sault Ste. Marie, Mich.  - U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan participated in a presidential security detail in Marquette, Mich., on Feb. 10.click for hi-res
+CBP officers provided security for the president on his trip to the Upper Peninsula.
+The detail was coordinated with the U.S. Secret Service and the U.S. Air Force's Presidential Advance Team and included on site security of Air Force One and its fuel. A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie traveled over 300 miles to conduct tarmac
+hangar security and to perform roving patrols during the President's visit to the Upper Peninsula of Michigan.
+President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access. This was Obama's first visit the Upper Peninsula of Michigan and the first presidential visit since George W. Bush in 2004.
+"This was an excellent opportunity for CBP Office of Field Operations to support the President of the United States and to demonstrate the professionalism and dedication of our officers," stated Devin Chamberlain, Port Director for the Sault Ste. Marie port of entry. "Security was extremely tight and our officers were an important partner in that effort."
+"The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization," said Christopher Perry, Director Field Operations, Detroit Field Office. "This is the same attitude and spirit that these officers bring to their mission at the border every day."
+]]></TEXT>
+<TAGS>
+<person id="p1" start="118" end="205" text="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" TYPE="BAR" />
+<person id="p2" start="302" end="314" text="CBP officers" TYPE="BAR" />
+<person id="p3" start="337" end="350" text="the president" TYPE="NOM" />
+<person id="p4" start="354" end="357" text="his" TYPE="PRO" />
+<person id="p5" start="555" end="663" text="A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="NOM" />
+<person id="p8" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="NOM" />
+<person id="p9" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="NOM" />
+<person id="p0" start="759" end="772" text="the President" TYPE="NOM" />
+<person id="p6" start="817" end="839" text="President Barack Obama" TYPE="NAM" />
+<person id="p7" start="817" end="826" text="President" TYPE="NOMPRE" />
+<person id="p10" start="876" end="891" text="Sen. Carl Levin" TYPE="NAM" />
+<person id="p11" start="876" end="880" text="Sen." TYPE="NOMPRE" />
+<person id="p12" start="905" end="1033" text="local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" TYPE="BAR" />
+<person id="p13" start="927" end="930" text="who" TYPE="WHQ" />
+<person id="p14" start="960" end="965" text="their" TYPE="PRO" />
+<person id="p15" start="1044" end="1049" text="Obama" TYPE="NAM" />
+<person id="p16" start="1135" end="1149" text="George W. Bush" TYPE="NAM" />
+<person id="p17" start="1240" end="1274" text="the President of the United States" TYPE="NOM" />
+<person id="p18" start="1332" end="1344" text="our officers" TYPE="NOM" />
+<person id="p19" start="1354" end="1425" text="Devin Chamberlain, Port Director for the Sault Ste. Marie port of entry" TYPE="APP" />
+<person id="p20" start="1354" end="1371" text="Devin Chamberlain" TYPE="NAM" />
+<person id="p21" start="1373" end="1425" text="Port Director for the Sault Ste. Marie port of entry" TYPE="BAR" />
+<person id="p22" start="1461" end="1473" text="our officers" TYPE="NOM" />
+<person id="p23" start="1479" end="1514" text="an important partner in that effort" TYPE="NOM" />
+<person id="p24" start="1532" end="1562" text="officers from Sault Ste. Marie" TYPE="BAR" />
+<person id="p25" start="1610" end="1624" text="the Presidents" TYPE="NOM" />
+<person id="p26" start="1756" end="1822" text="Christopher Perry, Director Field Operations, Detroit Field Office" TYPE="APP" />
+<person id="p27" start="1756" end="1773" text="Christopher Perry" TYPE="NAM" />
+<person id="p28" start="1775" end="1822" text="Director Field Operations, Detroit Field Office" TYPE="BAR" />
+<person id="p29" start="1867" end="1881" text="these officers" TYPE="NOM" />
+<person id="p30" start="1891" end="1896" text="their" TYPE="PRO" />
+<person id="p31" start="447" end="493" text="the U.S. Air Force's Presidential Advance Team" TYPE="NAM" />
+<organization id="o0" start="1" end="24" text="CBP in Sault Ste. Marie" TYPE="NAM" />
+<organization id="o1" start="118" end="152" text="U.S. Customs and Border Protection" TYPE="NAMPRE" />
+<organization id="o2" start="302" end="305" text="CBP" TYPE="NAMPRE" />
+<organization id="o3" start="419" end="442" text="the U.S. Secret Service" TYPE="NAM" />
+<organization id="o6" start="451" end="465" text="U.S. Air Force" TYPE="NAM" />
+<organization id="o7" start="577" end="607" text="CBP Office of Field Operations" TYPE="NAMPRE" />
+<organization id="o4" start="1198" end="1228" text="CBP Office of Field Operations" TYPE="NAM" />
+<organization id="o10" start="1332" end="1335" text="our" TYPE="PRO" />
+<organization id="o11" start="1461" end="1464" text="our" TYPE="PRO" />
+<organization id="o12" start="1732" end="1735" text="our" TYPE="PRO" />
+<organization id="o13" start="1732" end="1748" text="our organization" TYPE="NOM" />
+<organization id="o14" start="1802" end="1822" text="Detroit Field Office" TYPE="NAM" />
+<geographical-political id="g0" start="8" end="24" text="Sault Ste. Marie" TYPE="NAM" />
+<geographical-political id="g1" start="91" end="113" text="Sault Ste. Marie, Mich" TYPE="NAM" />
+<geographical-political id="g2" start="109" end="113" text="Mich" TYPE="NAM" />
+<geographical-political id="g3" start="179" end="205" text="Sault Ste. Marie, Michigan" TYPE="NAM" />
+<geographical-political id="g4" start="197" end="205" text="Michigan" TYPE="NAM" />
+<geographical-political id="g5" start="256" end="272" text="Marquette, Mich." TYPE="NAM" />
+<geographical-political id="g6" start="267" end="272" text="Mich." TYPE="NAM" />
+<geographical-political id="g7" start="366" end="385" text="the Upper Peninsula" TYPE="NAM" />
+<geographical-political id="g8" start="647" end="663" text="Sault Ste. Marie" TYPE="NAM" />
+<geographical-political id="g9" start="784" end="815" text="the Upper Peninsula of Michigan" TYPE="NAM" />
+<geographical-political id="g10" start="807" end="815" text="Michigan" TYPE="NAM" />
+<geographical-political id="g11" start="851" end="870" text="the Upper Peninsula" TYPE="NAM" />
+<geographical-political id="g12" start="1064" end="1095" text="the Upper Peninsula of Michigan" TYPE="NAM" />
+<geographical-political id="g13" start="1087" end="1095" text="Michigan" TYPE="NAM" />
+<geographical-political id="g14" start="1257" end="1274" text="the United States" TYPE="NAM" />
+<geographical-political id="g16" start="1546" end="1562" text="Sault Ste. Marie" TYPE="NAM" />
+<geographical-political id="g17" start="1634" end="1660" text="Michigan's Upper Peninsula" TYPE="NAM" />
+<geographical-political id="g18" start="1634" end="1642" text="Michigan" TYPE="NAM" />
+<location id="l0" start="1908" end="1918" text="the border" TYPE="NOM" />
+<falicity id="f0" start="167" end="205" text="the Port of Sault Ste. Marie, Michigan" TYPE="NOM" />
+<falicity id="f1" start="635" end="663" text="the port of Sault Ste. Marie" TYPE="NOM" />
+<falicity id="f2" start="1391" end="1425" text="the Sault Ste. Marie port of entry" TYPE="NAM" />
+<falicity id="f3" start="1373" end="1377" text="Port" TYPE="NOMPRE" />
+<head id="h0" start="1" end="4" text="CBP" />
+<head id="h1" start="8" end="24" text="Sault Ste. Marie" />
+<head id="h2" start="91" end="107" text="Sault Ste. Marie" />
+<head id="h3" start="109" end="113" text="Mich" />
+<head id="h4" start="153" end="161" text="officers" />
+<head id="h5" start="118" end="152" text="U.S. Customs and Border Protection" />
+<head id="h6" start="171" end="175" text="Port" />
+<head id="h7" start="179" end="195" text="Sault Ste. Marie" />
+<head id="h8" start="197" end="205" text="Michigan" />
+<head id="h9" start="256" end="265" text="Marquette" />
+<head id="h10" start="267" end="272" text="Mich." />
+<head id="h11" start="306" end="314" text="officers" />
+<head id="h12" start="302" end="305" text="CBP" />
+<head id="h13" start="341" end="350" text="president" />
+<head id="h14" start="354" end="357" text="his" />
+<head id="h15" start="370" end="385" text="Upper Peninsula" />
+<head id="h16" start="423" end="442" text="U.S. Secret Service" />
+<head id="h17" start="468" end="493" text="Presidential Advance Team" />
+<head id="h18" start="451" end="465" text="U.S. Air Force" />
+<head id="h19" start="557" end="567" text="contingent" />
+<head id="h20" start="608" end="616" text="managers" />
+<head id="h21" start="621" end="629" text="officers" />
+<head id="h24" start="639" end="643" text="port" />
+<head id="h25" start="647" end="663" text="Sault Ste. Marie" />
+<head id="h26" start="763" end="772" text="President" />
+<head id="h27" start="788" end="803" text="Upper Peninsula" />
+<head id="h28" start="807" end="815" text="Michigan" />
+<head id="h29" start="827" end="839" text="Barack Obama" />
+<head id="h30" start="817" end="826" text="President" />
+<head id="h31" start="855" end="870" text="Upper Peninsula" />
+<head id="h32" start="881" end="891" text="Carl Levin" />
+<head id="h33" start="876" end="880" text="Sen." />
+<head id="h34" start="920" end="926" text="owners" />
+<head id="h35" start="927" end="930" text="who" />
+<head id="h36" start="960" end="965" text="their" />
+<head id="h37" start="1044" end="1049" text="Obama" />
+<head id="h38" start="1068" end="1083" text="Upper Peninsula" />
+<head id="h39" start="1087" end="1095" text="Michigan" />
+<head id="h40" start="1135" end="1149" text="George W. Bush" />
+<head id="h43" start="1244" end="1253" text="President" />
+<head id="h44" start="1261" end="1274" text="United States" />
+<head id="h45" start="1336" end="1344" text="officers" />
+<head id="h46" start="1332" end="1335" text="our" />
+<head id="h47" start="1354" end="1371" text="Devin Chamberlain" />
+<head id="h48" start="1378" end="1386" text="Director" />
+<head id="h51" start="1465" end="1473" text="officers" />
+<head id="h52" start="1461" end="1464" text="our" />
+<head id="h53" start="1492" end="1499" text="partner" />
+<head id="h54" start="1532" end="1540" text="officers" />
+<head id="h55" start="1546" end="1562" text="Sault Ste. Marie" />
+<head id="h56" start="1614" end="1624" text="Presidents" />
+<head id="h57" start="1645" end="1660" text="Upper Peninsula" />
+<head id="h58" start="1634" end="1642" text="Michigan" />
+<head id="h59" start="1732" end="1735" text="our" />
+<head id="h60" start="1736" end="1748" text="organization" />
+<head id="h61" start="1756" end="1773" text="Christopher Perry" />
+<head id="h62" start="1775" end="1783" text="Director" />
+<head id="h64" start="1802" end="1822" text="Detroit Field Office" />
+<head id="h65" start="1873" end="1881" text="officers" />
+<head id="h66" start="1891" end="1896" text="their" />
+<head id="h67" start="1912" end="1918" text="border" />
+<head id="h22" start="577" end="607" text="CBP Office of Field Operations" />
+<head id="h23" start="1198" end="1228" text="CBP Office of Field Operations" />
+<head id="h41" start="1395" end="1425" text="Sault Ste. Marie port of entry" />
+<head id="h42" start="1373" end="1377" text="Port" />
+<name id="n0" start="1" end="4" text="CBP" />
+<name id="n1" start="8" end="24" text="Sault Ste. Marie" />
+<name id="n2" start="91" end="107" text="Sault Ste. Marie" />
+<name id="n3" start="109" end="113" text="Mich" />
+<name id="n4" start="118" end="152" text="U.S. Customs and Border Protection" />
+<name id="n5" start="179" end="195" text="Sault Ste. Marie" />
+<name id="n6" start="197" end="205" text="Michigan" />
+<name id="n7" start="256" end="265" text="Marquette" />
+<name id="n8" start="267" end="272" text="Mich." />
+<name id="n9" start="302" end="305" text="CBP" />
+<name id="n10" start="370" end="385" text="Upper Peninsula" />
+<name id="n11" start="423" end="442" text="U.S. Secret Service" />
+<name id="n12" start="468" end="493" text="Presidential Advance Team" />
+<name id="n13" start="451" end="465" text="U.S. Air Force" />
+<name id="n16" start="647" end="663" text="Sault Ste. Marie" />
+<name id="n17" start="788" end="803" text="Upper Peninsula" />
+<name id="n18" start="807" end="815" text="Michigan" />
+<name id="n19" start="827" end="839" text="Barack Obama" />
+<name id="n20" start="855" end="870" text="Upper Peninsula" />
+<name id="n21" start="881" end="891" text="Carl Levin" />
+<name id="n22" start="1044" end="1049" text="Obama" />
+<name id="n23" start="1068" end="1083" text="Upper Peninsula" />
+<name id="n24" start="1087" end="1095" text="Michigan" />
+<name id="n25" start="1135" end="1149" text="George W. Bush" />
+<name id="n28" start="1261" end="1274" text="United States" />
+<name id="n29" start="1354" end="1371" text="Devin Chamberlain" />
+<name id="n31" start="1546" end="1562" text="Sault Ste. Marie" />
+<name id="n32" start="1645" end="1660" text="Upper Peninsula" />
+<name id="n33" start="1634" end="1642" text="Michigan" />
+<name id="n34" start="1756" end="1773" text="Christopher Perry" />
+<name id="n36" start="1802" end="1822" text="Detroit Field Office" />
+<name id="n14" start="577" end="607" text="CBP Office of Field Operations" />
+<name id="n15" start="1198" end="1228" text="CBP Office of Field Operations" />
+<name id="n26" start="1395" end="1425" text="Sault Ste. Marie port of entry" />
+<located-mention id="lo0" start="118" end="205" text="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" TYPE="Preposition" />
+<located-mention id="lo2" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="Preposition" />
+<located-mention id="lo3" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="Preposition" />
+<located-mention id="lo6" start="817" end="1033" text="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" TYPE="Verbal" />
+<located-mention id="lo7" start="817" end="1033" text="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" TYPE="Other" />
+<located-mention id="lo8" start="817" end="1033" text="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" TYPE="Other" />
+<located-mention id="lo10" start="1373" end="1425" text="Port Director for the Sault Ste. Marie port of entry" TYPE="Preposition" />
+<located-mention id="lo11" start="1532" end="1562" text="officers from Sault Ste. Marie" TYPE="Preposition" />
+<located-mention id="lo16" start="1825" end="1928" text="This is the same attitude and spirit that these officers bring to their mission at the border every day" TYPE="Verbal" />
+<located-mention id="lo4" start="1373" end="1425" text="Port Director for the Sault Ste. Marie port of entry" TYPE="PreMod" />
+<located-mention id="lo12" start="118" end="284" text="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan participated in a presidential security detail in Marquette, Mich., on Feb. 10" TYPE="Other" />
+<located-mention id="lo15" start="302" end="385" text="CBP officers provided security for the president on his trip to the Upper Peninsula" TYPE="Other" />
+<located-mention id="lo17" start="555" end="815" text="A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie traveled over 300 miles to conduct tarmac hangar security and to perform roving patrols during the President's visit to the Upper Peninsula of Michigan" TYPE="Other" />
+<located-mention id="lo18" start="1035" end="1157" text="This was Obama's first visit the Upper Peninsula of Michigan and the first presidential visit since George W. Bush in 2004" TYPE="Other" />
+<located-mention id="lo19" start="1517" end="1822" text="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" TYPE="Other" />
+<located-mention id="lo20" start="1825" end="1928" text="This is the same attitude and spirit that these officers bring to their mission at the border every day" TYPE="Other" />
+<employment-mention id="e5" start="1240" end="1274" text="the President of the United States" TYPE="Preposition" />
+<M id="M0" start="447" end="493" text="the U.S. Air Force's Presidential Advance Team" TYPE="Possessive" />
+<M id="M1" start="118" end="205" text="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" TYPE="Other" />
+<M id="M2" start="302" end="314" text="CBP officers" TYPE="Other" />
+<M id="M3" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="Other" />
+<M id="M4" start="571" end="663" text="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" TYPE="Other" />
+<M id="M5" start="1332" end="1344" text="our officers" TYPE="Other" />
+<M id="M6" start="1461" end="1473" text="our officers" TYPE="Other" />
+<M id="M7" start="1775" end="1822" text="Director Field Operations, Detroit Field Office" TYPE="Other" />
+<M id="M8" start="1517" end="1822" text="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" TYPE="Other" />
+<entity_link id="en0" fromID="g1" fromText="Sault Ste. Marie, Mich" toID="g0" toText="Sault Ste. Marie" />
+<entity_link id="en1" fromID="o1" fromText="U.S. Customs and Border Protection" toID="o0" toText="CBP in Sault Ste. Marie" />
+<entity_link id="en2" fromID="g3" fromText="Sault Ste. Marie, Michigan" toID="g1" toText="Sault Ste. Marie, Mich" />
+<entity_link id="en3" fromID="g4" fromText="Michigan" toID="g2" toText="Mich" />
+<entity_link id="en4" fromID="g6" fromText="Mich." toID="g4" toText="Michigan" />
+<entity_link id="en5" fromID="p2" fromText="CBP officers" toID="p1" toText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" />
+<entity_link id="en6" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection" />
+<entity_link id="en7" fromID="p4" fromText="his" toID="p3" toText="the president" />
+<entity_link id="en9" fromID="p0" fromText="the President" toID="p3" toText="the president" />
+<entity_link id="en10" fromID="p6" fromText="President Barack Obama" toID="p0" toText="the President" />
+<entity_link id="en11" fromID="p7" fromText="President" toID="p6" toText="President Barack Obama" />
+<entity_link id="en12" fromID="g9" fromText="the Upper Peninsula of Michigan" toID="g7" toText="the Upper Peninsula" />
+<entity_link id="en13" fromID="g11" fromText="the Upper Peninsula" toID="g9" toText="the Upper Peninsula of Michigan" />
+<entity_link id="en14" fromID="p11" fromText="Sen." toID="p10" toText="Sen. Carl Levin" />
+<entity_link id="en15" fromID="p13" fromText="who" toID="p12" toText="local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" />
+<entity_link id="en16" fromID="p14" fromText="their" toID="p12" toText="local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" />
+<entity_link id="en17" fromID="p15" fromText="Obama" toID="p6" toText="President Barack Obama" />
+<entity_link id="en18" fromID="g12" fromText="the Upper Peninsula of Michigan" toID="g11" toText="the Upper Peninsula" />
+<entity_link id="en19" fromID="g13" fromText="Michigan" toID="g10" toText="Michigan" />
+<entity_link id="en20" fromID="o4" fromText="CBP Office of Field Operations" toID="o7" toText="CBP Office of Field Operations" />
+<entity_link id="en22" fromID="p17" fromText="the President of the United States" toID="p15" toText="Obama" />
+<entity_link id="en23" fromID="o10" fromText="our" toID="o4" toText="CBP Office of Field Operations" />
+<entity_link id="en24" fromID="p20" fromText="Devin Chamberlain" toID="p19" toText="Devin Chamberlain, Port Director for the Sault Ste. Marie port of entry" />
+<entity_link id="en25" fromID="p21" fromText="Port Director for the Sault Ste. Marie port of entry" toID="p20" toText="Devin Chamberlain" />
+<entity_link id="en26" fromID="f2" fromText="the Sault Ste. Marie port of entry" toID="f1" toText="the port of Sault Ste. Marie" />
+<entity_link id="en27" fromID="f1" fromText="the port of Sault Ste. Marie" toID="f0" toText="the Port of Sault Ste. Marie, Michigan" />
+<entity_link id="en28" fromID="g8" fromText="Sault Ste. Marie" toID="g3" toText="Sault Ste. Marie, Michigan" />
+<entity_link id="en30" fromID="p22" fromText="our officers" toID="p18" toText="our officers" />
+<entity_link id="en31" fromID="o11" fromText="our" toID="o10" toText="our" />
+<entity_link id="en32" fromID="p23" fromText="an important partner in that effort" toID="p22" toText="our officers" />
+<entity_link id="en36" fromID="p25" fromText="the Presidents" toID="p17" toText="the President of the United States" />
+<entity_link id="en37" fromID="g17" fromText="Michigan's Upper Peninsula" toID="g12" toText="the Upper Peninsula of Michigan" />
+<entity_link id="en38" fromID="g18" fromText="Michigan" toID="g13" toText="Michigan" />
+<entity_link id="en39" fromID="o13" fromText="our organization" toID="o12" toText="our" />
+<entity_link id="en40" fromID="p27" fromText="Christopher Perry" toID="p26" toText="Christopher Perry, Director Field Operations, Detroit Field Office" />
+<entity_link id="en42" fromID="p29" fromText="these officers" toID="p24" toText="officers from Sault Ste. Marie" />
+<entity_link id="en43" fromID="p30" fromText="their" toID="p29" toText="these officers" />
+<entity_link id="en44" fromID="g10" fromText="Michigan" toID="g4" toText="Michigan" />
+<entity_link id="en34" fromID="o13" fromText="our organization" toID="o2" toText="CBP" />
+<entity_link id="en35" fromID="g16" fromText="Sault Ste. Marie" toID="g8" toText="Sault Ste. Marie" />
+<entity_link id="en45" fromID="p28" fromText="Director Field Operations, Detroit Field Office" toID="p27" toText="Christopher Perry" />
+<head_link id="he0" fromID="o0" fromText="CBP in Sault Ste. Marie" toID="h0" toText="CBP" />
+<head_link id="he1" fromID="g0" fromText="Sault Ste. Marie" toID="h1" toText="Sault Ste. Marie" />
+<head_link id="he2" fromID="g1" fromText="Sault Ste. Marie, Mich" toID="h2" toText="Sault Ste. Marie" />
+<head_link id="he3" fromID="g2" fromText="Mich" toID="h3" toText="Mich" />
+<head_link id="he4" fromID="p1" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" toID="h4" toText="officers" />
+<head_link id="he5" fromID="o1" fromText="U.S. Customs and Border Protection" toID="h5" toText="U.S. Customs and Border Protection" />
+<head_link id="he6" fromID="f0" fromText="the Port of Sault Ste. Marie, Michigan" toID="h6" toText="Port" />
+<head_link id="he7" fromID="g3" fromText="Sault Ste. Marie, Michigan" toID="h7" toText="Sault Ste. Marie" />
+<head_link id="he8" fromID="g4" fromText="Michigan" toID="h8" toText="Michigan" />
+<head_link id="he9" fromID="g5" fromText="Marquette, Mich." toID="h9" toText="Marquette" />
+<head_link id="he10" fromID="g6" fromText="Mich." toID="h10" toText="Mich." />
+<head_link id="he11" fromID="p2" fromText="CBP officers" toID="h11" toText="officers" />
+<head_link id="he12" fromID="o2" fromText="CBP" toID="h12" toText="CBP" />
+<head_link id="he13" fromID="p3" fromText="the president" toID="h13" toText="president" />
+<head_link id="he14" fromID="p4" fromText="his" toID="h14" toText="his" />
+<head_link id="he15" fromID="g7" fromText="the Upper Peninsula" toID="h15" toText="Upper Peninsula" />
+<head_link id="he16" fromID="o3" fromText="the U.S. Secret Service" toID="h16" toText="U.S. Secret Service" />
+<head_link id="he19" fromID="o6" fromText="U.S. Air Force" toID="h18" toText="U.S. Air Force" />
+<head_link id="he20" fromID="p5" fromText="A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="h19" toText="contingent" />
+<head_link id="he25" fromID="f1" fromText="the port of Sault Ste. Marie" toID="h24" toText="port" />
+<head_link id="he26" fromID="g8" fromText="Sault Ste. Marie" toID="h25" toText="Sault Ste. Marie" />
+<head_link id="he27" fromID="p8" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="h20" toText="managers" />
+<head_link id="he28" fromID="p9" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="h21" toText="officers" />
+<head_link id="he17" fromID="p0" fromText="the President" toID="h26" toText="President" />
+<head_link id="he21" fromID="g9" fromText="the Upper Peninsula of Michigan" toID="h27" toText="Upper Peninsula" />
+<head_link id="he22" fromID="g10" fromText="Michigan" toID="h28" toText="Michigan" />
+<head_link id="he29" fromID="p6" fromText="President Barack Obama" toID="h29" toText="Barack Obama" />
+<head_link id="he30" fromID="p7" fromText="President" toID="h30" toText="President" />
+<head_link id="he31" fromID="g11" fromText="the Upper Peninsula" toID="h31" toText="Upper Peninsula" />
+<head_link id="he32" fromID="p10" fromText="Sen. Carl Levin" toID="h32" toText="Carl Levin" />
+<head_link id="he33" fromID="p11" fromText="Sen." toID="h33" toText="Sen." />
+<head_link id="he34" fromID="p12" fromText="local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="h34" toText="owners" />
+<head_link id="he35" fromID="p13" fromText="who" toID="h35" toText="who" />
+<head_link id="he36" fromID="p14" fromText="their" toID="h36" toText="their" />
+<head_link id="he37" fromID="p15" fromText="Obama" toID="h37" toText="Obama" />
+<head_link id="he38" fromID="g12" fromText="the Upper Peninsula of Michigan" toID="h38" toText="Upper Peninsula" />
+<head_link id="he39" fromID="g13" fromText="Michigan" toID="h39" toText="Michigan" />
+<head_link id="he40" fromID="p16" fromText="George W. Bush" toID="h40" toText="George W. Bush" />
+<head_link id="he43" fromID="p17" fromText="the President of the United States" toID="h43" toText="President" />
+<head_link id="he44" fromID="g14" fromText="the United States" toID="h44" toText="United States" />
+<head_link id="he45" fromID="p18" fromText="our officers" toID="h45" toText="officers" />
+<head_link id="he46" fromID="o10" fromText="our" toID="h46" toText="our" />
+<head_link id="he47" fromID="p20" fromText="Devin Chamberlain" toID="h47" toText="Devin Chamberlain" />
+<head_link id="he48" fromID="p21" fromText="Port Director for the Sault Ste. Marie port of entry" toID="h48" toText="Director" />
+<head_link id="he51" fromID="p22" fromText="our officers" toID="h51" toText="officers" />
+<head_link id="he52" fromID="o11" fromText="our" toID="h52" toText="our" />
+<head_link id="he53" fromID="p23" fromText="an important partner in that effort" toID="h53" toText="partner" />
+<head_link id="he54" fromID="p24" fromText="officers from Sault Ste. Marie" toID="h54" toText="officers" />
+<head_link id="he55" fromID="g16" fromText="Sault Ste. Marie" toID="h55" toText="Sault Ste. Marie" />
+<head_link id="he56" fromID="p25" fromText="the Presidents" toID="h56" toText="Presidents" />
+<head_link id="he57" fromID="g17" fromText="Michigan's Upper Peninsula" toID="h57" toText="Upper Peninsula" />
+<head_link id="he58" fromID="g18" fromText="Michigan" toID="h58" toText="Michigan" />
+<head_link id="he59" fromID="o12" fromText="our" toID="h59" toText="our" />
+<head_link id="he60" fromID="o13" fromText="our organization" toID="h60" toText="organization" />
+<head_link id="he61" fromID="p27" fromText="Christopher Perry" toID="h61" toText="Christopher Perry" />
+<head_link id="he62" fromID="p28" fromText="Director Field Operations, Detroit Field Office" toID="h62" toText="Director" />
+<head_link id="he63" fromID="o14" fromText="Detroit Field Office" toID="h64" toText="Detroit Field Office" />
+<head_link id="he64" fromID="p29" fromText="these officers" toID="h65" toText="officers" />
+<head_link id="he65" fromID="p30" fromText="their" toID="h66" toText="their" />
+<head_link id="he66" fromID="l0" fromText="the border" toID="h67" toText="border" />
+<head_link id="he67" fromID="o7" fromText="CBP Office of Field Operations" toID="h22" toText="CBP Office of Field Operations" />
+<head_link id="he68" fromID="o4" fromText="CBP Office of Field Operations" toID="h23" toText="CBP Office of Field Operations" />
+<head_link id="he69" fromID="f2" fromText="the Sault Ste. Marie port of entry" toID="h41" toText="Sault Ste. Marie port of entry" />
+<head_link id="he23" fromID="p31" fromText="the U.S. Air Force's Presidential Advance Team" toID="h17" toText="Presidential Advance Team" />
+<head_link id="he24" fromID="f3" fromText="Port" toID="h42" toText="Port" />
+<name_link id="na0" fromID="o0" fromText="CBP in Sault Ste. Marie" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="g0" fromText="Sault Ste. Marie" toID="n1" toText="Sault Ste. Marie" />
+<name_link id="na2" fromID="g1" fromText="Sault Ste. Marie, Mich" toID="n2" toText="Sault Ste. Marie" />
+<name_link id="na3" fromID="g2" fromText="Mich" toID="n3" toText="Mich" />
+<name_link id="na4" fromID="o1" fromText="U.S. Customs and Border Protection" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="g3" fromText="Sault Ste. Marie, Michigan" toID="n5" toText="Sault Ste. Marie" />
+<name_link id="na6" fromID="g4" fromText="Michigan" toID="n6" toText="Michigan" />
+<name_link id="na7" fromID="g5" fromText="Marquette, Mich." toID="n7" toText="Marquette" />
+<name_link id="na8" fromID="g6" fromText="Mich." toID="n8" toText="Mich." />
+<name_link id="na9" fromID="o2" fromText="CBP" toID="n9" toText="CBP" />
+<name_link id="na10" fromID="g7" fromText="the Upper Peninsula" toID="n10" toText="Upper Peninsula" />
+<name_link id="na11" fromID="o3" fromText="the U.S. Secret Service" toID="n11" toText="U.S. Secret Service" />
+<name_link id="na14" fromID="o6" fromText="U.S. Air Force" toID="n13" toText="U.S. Air Force" />
+<name_link id="na17" fromID="g8" fromText="Sault Ste. Marie" toID="n16" toText="Sault Ste. Marie" />
+<name_link id="na12" fromID="g9" fromText="the Upper Peninsula of Michigan" toID="n17" toText="Upper Peninsula" />
+<name_link id="na18" fromID="g10" fromText="Michigan" toID="n18" toText="Michigan" />
+<name_link id="na19" fromID="p6" fromText="President Barack Obama" toID="n19" toText="Barack Obama" />
+<name_link id="na20" fromID="g11" fromText="the Upper Peninsula" toID="n20" toText="Upper Peninsula" />
+<name_link id="na21" fromID="p10" fromText="Sen. Carl Levin" toID="n21" toText="Carl Levin" />
+<name_link id="na22" fromID="p15" fromText="Obama" toID="n22" toText="Obama" />
+<name_link id="na23" fromID="g12" fromText="the Upper Peninsula of Michigan" toID="n23" toText="Upper Peninsula" />
+<name_link id="na24" fromID="g13" fromText="Michigan" toID="n24" toText="Michigan" />
+<name_link id="na25" fromID="p16" fromText="George W. Bush" toID="n25" toText="George W. Bush" />
+<name_link id="na28" fromID="g14" fromText="the United States" toID="n28" toText="United States" />
+<name_link id="na29" fromID="p20" fromText="Devin Chamberlain" toID="n29" toText="Devin Chamberlain" />
+<name_link id="na31" fromID="g16" fromText="Sault Ste. Marie" toID="n31" toText="Sault Ste. Marie" />
+<name_link id="na32" fromID="g17" fromText="Michigan's Upper Peninsula" toID="n32" toText="Upper Peninsula" />
+<name_link id="na33" fromID="g18" fromText="Michigan" toID="n33" toText="Michigan" />
+<name_link id="na34" fromID="p27" fromText="Christopher Perry" toID="n34" toText="Christopher Perry" />
+<name_link id="na35" fromID="o14" fromText="Detroit Field Office" toID="n36" toText="Detroit Field Office" />
+<name_link id="na36" fromID="o7" fromText="CBP Office of Field Operations" toID="n14" toText="CBP Office of Field Operations" />
+<name_link id="na37" fromID="o4" fromText="CBP Office of Field Operations" toID="n15" toText="CBP Office of Field Operations" />
+<name_link id="na38" fromID="f2" fromText="the Sault Ste. Marie port of entry" toID="n26" toText="Sault Ste. Marie port of entry" />
+<name_link id="na15" fromID="p31" fromText="the U.S. Air Force's Presidential Advance Team" toID="n12" toText="Presidential Advance Team" />
+<relation_link1 id="r0" fromID="M1" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" toID="p1" toText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" />
+<relation_link1 id="r1" fromID="lo0" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" toID="p1" toText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" />
+<relation_link1 id="r2" fromID="M2" fromText="CBP officers" toID="p2" toText="CBP officers" />
+<relation_link1 id="r4" fromID="M3" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="p8" toText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" />
+<relation_link1 id="r5" fromID="M4" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="p9" toText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" />
+<relation_link1 id="r6" fromID="lo2" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="p8" toText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" />
+<relation_link1 id="r7" fromID="lo3" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="p9" toText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" />
+<relation_link1 id="r9" fromID="lo6" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="p6" toText="President Barack Obama" />
+<relation_link1 id="r10" fromID="lo7" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="p10" toText="Sen. Carl Levin" />
+<relation_link1 id="r11" fromID="lo8" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="p12" toText="local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" />
+<relation_link1 id="r13" fromID="e5" fromText="the President of the United States" toID="p17" toText="the President of the United States" />
+<relation_link1 id="r14" fromID="M5" fromText="our officers" toID="p18" toText="our officers" />
+<relation_link1 id="r15" fromID="lo10" fromText="Port Director for the Sault Ste. Marie port of entry" toID="p21" toText="Port Director for the Sault Ste. Marie port of entry" />
+<relation_link1 id="r16" fromID="M6" fromText="our officers" toID="p22" toText="our officers" />
+<relation_link1 id="r19" fromID="M7" fromText="Director Field Operations, Detroit Field Office" toID="p28" toText="Director Field Operations, Detroit Field Office" />
+<relation_link1 id="r21" fromID="lo11" fromText="officers from Sault Ste. Marie" toID="p24" toText="officers from Sault Ste. Marie" />
+<relation_link1 id="r23" fromID="lo16" fromText="This is the same attitude and spirit that these officers bring to their mission at the border every day" toID="p29" toText="these officers" />
+<relation_link1 id="r25" fromID="M8" fromText="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" toID="p27" toText="Christopher Perry" />
+<relation_link1 id="r17" fromID="M0" fromText="the U.S. Air Force's Presidential Advance Team" toID="p31" toText="the U.S. Air Force's Presidential Advance Team" />
+<relation_link1 id="r20" fromID="lo4" fromText="Port Director for the Sault Ste. Marie port of entry" toID="p21" toText="Port Director for the Sault Ste. Marie port of entry" />
+<relation_link1 id="r24" fromID="lo12" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan participated in a presidential security detail in Marquette, Mich., on Feb. 10" toID="p1" toText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" />
+<relation_link1 id="r26" fromID="lo15" fromText="CBP officers provided security for the president on his trip to the Upper Peninsula" toID="p4" toText="his" />
+<relation_link1 id="r27" fromID="lo17" fromText="A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie traveled over 300 miles to conduct tarmac hangar security and to perform roving patrols during the President's visit to the Upper Peninsula of Michigan" toID="p0" toText="the President" />
+<relation_link1 id="r28" fromID="lo18" fromText="This was Obama's first visit the Upper Peninsula of Michigan and the first presidential visit since George W. Bush in 2004" toID="p15" toText="Obama" />
+<relation_link1 id="r29" fromID="lo19" fromText="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" toID="p25" toText="the Presidents" />
+<relation_link1 id="r30" fromID="lo20" fromText="This is the same attitude and spirit that these officers bring to their mission at the border every day" toID="p30" toText="their" />
+<relation_link2 id="re0" fromID="M1" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" toID="o1" toText="U.S. Customs and Border Protection" />
+<relation_link2 id="re1" fromID="lo0" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan" toID="f0" toText="the Port of Sault Ste. Marie, Michigan" />
+<relation_link2 id="re2" fromID="M2" fromText="CBP officers" toID="o2" toText="CBP" />
+<relation_link2 id="re4" fromID="M3" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="o7" toText="CBP Office of Field Operations" />
+<relation_link2 id="re5" fromID="M4" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="o7" toText="CBP Office of Field Operations" />
+<relation_link2 id="re6" fromID="lo2" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="f1" toText="the port of Sault Ste. Marie" />
+<relation_link2 id="re7" fromID="lo3" fromText="eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie" toID="f1" toText="the port of Sault Ste. Marie" />
+<relation_link2 id="re9" fromID="lo6" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="g11" toText="the Upper Peninsula" />
+<relation_link2 id="re10" fromID="lo7" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="g11" toText="the Upper Peninsula" />
+<relation_link2 id="re11" fromID="lo8" fromText="President Barack Obama arrived in the Upper Peninsula with Sen. Carl Levin to meet with local business owners who have used broadband to boost their exports and to tout a plan for nationwide wireless broadband access" toID="g11" toText="the Upper Peninsula" />
+<relation_link2 id="re13" fromID="e5" fromText="the President of the United States" toID="g14" toText="the United States" />
+<relation_link2 id="re14" fromID="M5" fromText="our officers" toID="o10" toText="our" />
+<relation_link2 id="re15" fromID="lo10" fromText="Port Director for the Sault Ste. Marie port of entry" toID="f2" toText="the Sault Ste. Marie port of entry" />
+<relation_link2 id="re16" fromID="M6" fromText="our officers" toID="o11" toText="our" />
+<relation_link2 id="re18" fromID="lo11" fromText="officers from Sault Ste. Marie" toID="g16" toText="Sault Ste. Marie" />
+<relation_link2 id="re20" fromID="M7" fromText="Director Field Operations, Detroit Field Office" toID="o14" toText="Detroit Field Office" />
+<relation_link2 id="re23" fromID="lo16" fromText="This is the same attitude and spirit that these officers bring to their mission at the border every day" toID="l0" toText="the border" />
+<relation_link2 id="re25" fromID="M8" fromText="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" toID="o13" toText="our organization" />
+<relation_link2 id="re17" fromID="M0" fromText="the U.S. Air Force's Presidential Advance Team" toID="o6" toText="U.S. Air Force" />
+<relation_link2 id="re21" fromID="lo4" fromText="Port Director for the Sault Ste. Marie port of entry" toID="f3" toText="Port" />
+<relation_link2 id="re24" fromID="lo12" fromText="U.S. Customs and Border Protection officers from the Port of Sault Ste. Marie, Michigan participated in a presidential security detail in Marquette, Mich., on Feb. 10" toID="g5" toText="Marquette, Mich." />
+<relation_link2 id="re26" fromID="lo15" fromText="CBP officers provided security for the president on his trip to the Upper Peninsula" toID="g7" toText="the Upper Peninsula" />
+<relation_link2 id="re27" fromID="lo17" fromText="A contingent of eight CBP Office of Field Operations managers and officers from the port of Sault Ste. Marie traveled over 300 miles to conduct tarmac hangar security and to perform roving patrols during the President's visit to the Upper Peninsula of Michigan" toID="g9" toText="the Upper Peninsula of Michigan" />
+<relation_link2 id="re28" fromID="lo18" fromText="This was Obama's first visit the Upper Peninsula of Michigan and the first presidential visit since George W. Bush in 2004" toID="g12" toText="the Upper Peninsula of Michigan" />
+<relation_link2 id="re29" fromID="lo19" fromText="'The fact that officers from Sault Ste. Marie traveled over 300 miles to provide support for the Presidents visit to Michigan's Upper Peninsula exemplifies the professionalism and can-do spirit that is prevalent in our organization,' said Christopher Perry, Director Field Operations, Detroit Field Office" toID="g17" toText="Michigan's Upper Peninsula" />
+<relation_link2 id="re30" fromID="lo20" fromText="This is the same attitude and spirit that these officers bring to their mission at the border every day" toID="l0" toText="the border" />
+</TAGS>
+</KddTask>

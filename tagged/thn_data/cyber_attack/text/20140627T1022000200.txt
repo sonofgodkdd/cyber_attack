@@ -1,0 +1,25 @@
+Android 4.3 and Earlier versions Vulnerable to Critical Code-Execution Flaw
+Swati Khandelwal
+
+A critical code-execution vulnerability almost affecting everyone those are not running the most updated version of Google Android, i.e. Android version 4.4 also known as KitKat.
+After nine months of vulnerability disclosure to the Android security team, researchers of the Application Security team at IBM have finally revealed all the possible details of a serious code-execution vulnerability that still affects the Android devices running versions 4.3 and earlier, which could allow attackers to exfiltrate sensitive information from the vulnerable devices.
+“Considering Android’s fragmented nature and the fact that this was a code-execution vulnerability, we decided to wait a bit with the public disclosure,” said Roee Hay, a security research group leader at IBM.
+The researchers found the stack buffer overflow vulnerability that resides in the Android's KeyStore storage service, which according to the Android developers’ website is the service code running in Android responsible for storing and securing device’s cryptographic keys.
+CAUSE OF THE CRITICAL FLAW
+According to the researchers, the vulnerability occurred due the absent bounds check for a stack buffer created by the “KeyStore::getKeyForName” method.
+“This function has several callers, which are accessible by external applications using the Binder interface (e.g., ‘android::KeyStoreProxy::get’). Therefore, the ‘keyName’ variable can be controllable with an arbitrary size by a malicious application,” Hay said. “The ‘encode_key’ routine that is called by ‘encode_key_for_uid’ can overflow the ‘filename’ buffer, since bounds checking is absent.”
+ANDROID VULNERABILITY IMPACT
+While IBM's researchers haven't seen this vulnerability being exploited in the wild yet. But  if successfully exploited, would compromise a device completely allowing an attacker to execute malicious code of their choice under the keystore process. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Consequently, the attacker could gain access to the device’s sensitive information such as device’s lock-screen credentials, encrypted and decrypted master keys, data and hardware-backed key identifiers from the memory, as well as the ability to carry out cryptographic operations such as arbitrary signing of data on behalf of the users.
+ATTACK VECTOR
+While this could be accomplished only with the use of a malicious application, but there are a number of obstacles for the working exploit to overcome.
+That means, a malicious application must have ability to bypass memory-based protections native to the operating system including Data Execution Prevention (DEP) and Address Space Layout Randomization (ASLR). 
+DEP is an exploit mitigation that limits where code can be executed and helps prevent certain malicious exploits, but the attackers have had success using shellcode or Return Oriented Programming (ROP) attacks in order to bypass DEP. 
+While, ASLR specifically reduces buffer overflow attacks that exploit vulnerabilities like the one elaborated in this article. ASLR randomizes the memory locations used by system files and other programs, making it much harder for an attacker to correctly guess the location of a given process.
+An attacker would also need to overcome the stack canaries present in Android, which is used to detect stack buffer overflow bugs such as this one before execution of malicious code can occur. Moreover, Android also makes use of encoding, which is also an obstacle for the attacker to overcome. 
+“However, the Android KeyStore is respawned every time it terminates,” Hay cautions. “This behavior enables a probabilistic approach; moreover, the attacker may even theoretically abuse ASLR to defeat the encoding.”
+LATEST UPDATE - ANDROID 4.4.4
+Currently Google is rolling out Android KitKat 4.4.4 with build number KTU84P (branch kitkat-mr2.1-release) to several Nexus devices, including Nexus 4, 5, 7, and 10. Latest update primarily addresses the OpenSSL CCS Injection Vulnerability (CVE-2014-0224), which was discovered in OpenSSL after the Heartbleed bug was uncovered.
+So if you haven't updated your OS, this might be a good time to do it. Users can check to see if the update is available for their device by accessing Settings > About Phone > System Updates.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

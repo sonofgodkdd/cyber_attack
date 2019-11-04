@@ -1,0 +1,35 @@
+Reliance Jio Customers' Data Allegedly Hacked – Company Denies Breach
+Mohit Kumar
+
+Personal details of some 120 Million customers have been allegedly exposed on the Internet in probably the biggest breach of personal data ever in India.
+Last night, an independent website named Magicapk.com went online, offering Reliance Jio customers to search for their identification data (Know Your Customer or KYC) just by typing in their Jio number.
+Reliance set up the Jio 4G network across the length and breadth of India in September last year and gained more than 50 million subscribers within a span of just 83 days. The company gave seven months of free internet, unlimited calls, unlimited music to its subscribers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the website that claimed to have hacked into Jio database is no longer accessible, many users confirmed their personal data showed up on the website, displaying their names, email addresses and most alarmingly, in some cases, Aadhaar numbers.
+Aadhaar is a 12-digit unique identification number issued by the Indian government to every resident of India. This number is also used for enrolling for a SIM.
+Company Denies Data Breach Before Investigation
+In response to the breach, Reliance Jio released a statement, saying that the claims are unverified and that the leaked data appears to be "unauthentic."
+"We have come across the unverified and unsubstantiated claims of the website and are investigating it. Prima facie, the data appears to be unauthentic," a spokesperson said.
+"We want to assure our subscribers that their data is safe and maintained with highest security. Data is only shared with authorities as per their requirement."
+The Jio spokesperson said the company has "informed law enforcement agencies about the claims of the website and will follow through to ensure strict action is taken."
+Breach Appears to be Authentic! But Doesn't Affect All JIO Users
+The Hacker News independently verified the leak for a few Jio numbers, and the data came out to be accurate for some Jio numbers, but not for all.
+Therefore, the data on the website seems to be authentic, but luckily some customers are spared--probably those who have been issued Jio SIM after the breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For obvious reasons, we are not naming the customers we tested on the website and found their identity leaked just by typing their mobile number. The leaked information includes:
+First Name
+Middle Name
+Last Name
+Mobile Number
+Email-Id
+Circle-Id
+SIM Activation Date and Time
+Aadhaar Number, in some cases
+Mobile numbers for other telecom operators in India, such as Vodafone and Airtel, did not work on the website.
+Hackers Identity is Unknown Yet
+The website was hosted by the web hosting company GoDaddy.com and was registered in May 2017, but so far it is not clear who owned the domain.
+Also, it is not clear at this moment that how the hackers got access to sensitive data of Jio customers and was it Jio who got hacked or some third-party marketing company with whom the company shared its customer's data.
+Though there is very little victims (especially those who have exposed their Aadhaar number) can do to protect themselves from future attacks. Hackers holding their Aadhaar number can disguise their identities to carry out several frauds.
+All Jio customers are highly recommended to be vigilant to unrequested calls asking for their further details or account passwords. No company asks for these details over phone calls or emails.
+Victims should also particularly be alert of the Phishing emails, which are usually the next step of cyber criminals after a large-scale hack at any telecoms company. Phishing tricks users into giving up further personal details like passwords.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

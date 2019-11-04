@@ -1,0 +1,22 @@
+Watch Out! Microsoft Spotted Spike in Astaroth Fileless Malware Attacks
+Swati Khandelwal
+
+Security researchers at Microsoft have released details of a new widespread campaign distributing an infamous piece of fileless malware that was primarily being found targeting European and Brazilian users earlier this year.
+Dubbed Astaroth, the malware trojan has been making the rounds since at least 2017 and designed to steal users' sensitive information like their credentials, keystrokes, and other data, without dropping any executable file on the disk or installing any software on the victim's machine.
+Initially discovered by researchers at Cybereason in February this year, Astaroath lived off the land by running the payload directly into the memory of a targeted computer or by leveraging legitimate system tools, such as WMIC, Certutil, Bitsadmin, and Regsvr32, to run the malicious code.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While reviewing the Windows telemetry data, Andrea Lelli, a researcher at Microsoft Defender ATP Research Team, recently spotted a sudden unusual spike in the usage of Management Instrumentation Command-line (WMIC) tool, leading to the disclosure of a fileless attack.
+Further investigation revealed that the attackers behind this campaign are distributing multi-stage Astaroth malware through spear-phishing emails with a malicious link to a website hosting an LNK shortcut file.
+Clicking the shortcut file executes Windows built-in WMIC tool that downloads and executes a JavaScript code, which further abuses the Bitsadmin tool to download all other malicious payloads that actually perform the malicious tasks of pilfering and uploading the victim's data while disguising itself as a system process.
+"All the payloads are Base64-encoded and decoded using the Certutil tool. Two of them result in plain DLL files (the others remain encrypted)," the researcher said in a blog post published Monday.
+"The Regsvr32 tool is then used to load one of the decoded DLLs, which in turn decrypt and loads other files until the final payload, Astaroth, is injected into the Userinit process."
+This means that the malware doesn't rely on any vulnerability exploit or traditional trojan downloader to download anything on the targeted system. Instead, it completely relies on system tools and commands during its entire attack chain to masquerade as a regular activity.
+This technique is called "living off the land" and lets the malware evade detection from most end-point antivirus security solutions which are based on static files analysis.
+The initial access and execution stages to silently install the Astaroth malware on target devices have been demonstrated in the above-shown attack chain.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Once on the targeted system, Astaroth tries to steal sensitive information like credentials, keystrokes, and other data, and send it to a remote server controlled by the attackers.
+The attacker can then use this stolen data to try "moving laterally across networks, carry out financial theft, or sell victim information in the cybercriminal underground," the researcher said.
+Microsoft said the various feature of its Defender ATP next-generation protection could detect such fileless malware attacks at each infection stage, while other file-centric security solutions fail to protect their customers.
+Andrea said: "being fileless doesn't mean being invisible; it certainly doesn't mean being undetectable. There's no such thing as the perfect cybercrime: even fileless malware leaves a long trail of evidence."
+To know more about the Astaroth malware, you can head on to the Cybereason blog post published in February this year, in-depth detailing about the working of the malware and its abilities.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

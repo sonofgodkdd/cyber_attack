@@ -1,0 +1,21 @@
+Leaked NSA Hacking Tools Being Used to Hack Thousands of Vulnerable Windows PCs
+Swati Khandelwal
+
+Script kiddies and online criminals around the world have reportedly started exploiting NSA hacking tools leaked last weekend to compromise hundreds of thousands of vulnerable Windows computers exposed on the Internet.
+Last week, the mysterious hacking group known as Shadow Brokers leaked a set of Windows hacking tools targeting Windows XP, Windows Server 2003, Windows 7 and 8, and Windows 2012, allegedly belonged to the NSA's Equation Group.
+What's Worse? Microsoft quickly downplayed the security risks by releasing patches for all exploited vulnerabilities, but there are still risks in the wild with unsupported systems as well as with those who haven't yet installed the patches.
+Multiple security researchers have performed mass Internet scans over the past few days and found tens of thousands of Windows computers worldwide infected with DoublePulsar, a suspected NSA spying implant, as a result of a free tool released on GitHub for anyone to use.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Security researchers from Switzerland-based security firm Binary Edge performed an Internet scan and detected more than 107,000 Windows computers infected with DoublePulsar.
+A separate scan done by Errata Security CEO Rob Graham detected roughly 41,000 infected machines, while another by researchers from Below0day detected more than 30,000 infected machines, a majority of which were located in the United States.
+The impact? DoublePulsar is a backdoor used to inject and run malicious code on already infected systems, and is installed using the EternalBlue exploit that targets SMB file-sharing services on Microsoft's Windows XP to Server 2008 R2.
+Therefore, to compromise a machine, it must be running a vulnerable version of Windows OS with an SMB service expose to the attacker.
+Both DoublePulsar and EternalBlue are suspected as Equation Group tools and are now available for any script kiddie to download and use against vulnerable computers.
+Once installed, DoublePulsar used hijacked computers to sling malware, spam online users, and launch further cyber attacks on other victims. To remain stealthy, the backdoor doesn't write any files to the PCs it infects, preventing it from persisting after an infected PC is rebooted.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While Microsoft has already patched majority of the exploited flaws in affected Windows operating systems, those who have not patched are vulnerable to exploits such as EternalBlue, EternalChampion, EternalSynergy, EternalRomance, EmeraldThread, and EducatedScholar.
+Moreover, systems that are still using end-of-life platforms like Windows XP, Windows Server 2003, and IIS 6.0, which no longer received security updates, are also vulnerable to the in-the-wild exploits.
+Since it takes hackers roughly a few hours to download the Shadow Brokers dump, scan the Internet with the tool released on Monday, and deliver hacking exploits, researchers are expecting more vulnerable and unpatched computers to fall victims to DoublePulsar.
+After this news had broken, Microsoft officials released a statement saying: "We doubt the accuracy of the reports and are investigating."
+Meanwhile, Windows users who haven't applied MS17-010 by now are strongly advised to download and deploy the patches as soon as possible.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

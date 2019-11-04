@@ -1,0 +1,15 @@
+Docker Hub Suffers a Data Breach, Asks Users to Reset Password
+Wang Wei
+
+Docker Hub, one of the largest cloud-based library of Docker container images, has suffered a data breach after an unknown attacker gained access to the company's single Hub database.
+Docker Hub is an online repository service where users and partners can create, test, store and distribute Docker container images, both publicly and privately.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The breach reportedly exposed sensitive information for nearly 190,000 Hub users (that's less than 5 percent of total users), including usernames and hashed passwords for a small percentage of the affected users, as well as Github and Bitbucket tokens for Docker repositories.
+Docker Hub started notifying affected users via emails informing them about the security incident and asking them to change their passwords for Docker Hub, as well as any online account using the same password.
+"On Thursday, April 25th, 2019, we discovered unauthorized access to a single Hub database storing a subset of non-financial user data. Upon discovery, we acted quickly to intervene and secure the site."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"For users with autobuilds that may have been impacted, we have revoked GitHub tokens and access keys, and ask that you reconnect to your repositories and check security logs to see if any unexpected actions have taken place."
+The company has not revealed any further details about the security incident or how the unknown attackers gained access to its database.
+Docker says the company is continuing to investigate the security breach and will share more information as it becomes available.
+The company is also working to enhance its overall security processes and reviewing its policies following the breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

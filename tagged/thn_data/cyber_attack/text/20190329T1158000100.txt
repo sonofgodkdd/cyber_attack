@@ -1,0 +1,28 @@
+Here's the List of ~600 MAC Addresses Targeted in Recent ASUS Hack
+Swati Khandelwal
+
+EXCLUSIVE — While revealing details of a massive supply chain cyber attack against ASUS customers, Russian security firm Kaspersky last week didn't release the full list all MAC addresses that hackers hardcoded into their malware to surgically target a specific pool of users.
+Instead, Kaspersky released a dedicated offline tool and launched an online web page where ASUS PC users can search for their MAC addresses to check whether they were in the hit list.
+However, many believe it is not a convenient way for large enterprises with hundreds of thousands of systems to know if they were targeted or not.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+List of MAC Addresses Targeted in ASUS Supply Chain Attack
+To solve this and help other cybersecurity experts continue their hunt for related hacking campaigns, Australian security firm Skylight's CTO Shahar Zini contacted The Hacker News and provided the full list of nearly 583 MAC addresses targeted in the ASUS breach.
+"If information regarding targets exists, it should be made publicly available to the security community so we can better protect ourselves," Skylight said in a post shared with The Hacker News.
+"So, we thought it would be a good idea to extract the list and make it public so that every security practitioner would be able to bulk compare them to known machines in their domain."
+Skylight researchers retrieved the list of targeted MAC addresses with the help of the offline tool Kaspersky released, which contains the full list of 619 MAC addresses within the executable, but protected using a salted hash algorithm.
+They used a powerful Amazon server and a modified version of HashCat password cracking tool to brute force 583 MAC addresses in less than an hour.
+"Enter Amazon's AWS p3.16xlarge instance. These beasts carry eight (you read correctly) of NVIDIA's V100 Tesla 16GB GPUs. The entire set of 1300 prefixes was brute-forced in less than an hour."
+ASUS Hack: Operation ShadowHammer
+It was revealed last week that a group of state-sponsored hackers managed to hijack ASUS Live automatic software update server last year and pushed malicious updates to over one million Windows computers worldwide in order to infect them with backdoors.
+As we reported last week, Kaspersky discovered the attack, which it dubbed Operation ShadowHammer, after its 57,000 users were infected with the backdoored version of ASUS LIVE Update software.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The security company then informed ASUS about the ongoing supply chain attack campaign on Jan 31, 2019.
+After analyzing more than 200 samples of the malicious updates, researchers learned that the hackers, who are not yet attributed to any APT group, only wanted to target a specific list of users identified by their unique MAC addresses, which were hardcoded into the malware.
+Though the second stage malware was only pushed to nearly 600 targeted users, it doesn't mean that millions of ASUS computers which received the malicious software update are not compromised.
+How to Check if Your ASUS Laptop Has Been Hacked?
+After admitting that an unknown group of hackers hacked its servers between June and November 2018, ASUS this week released a new clean version of its LIVE Update application (version 3.6.8) and also promised to add "multiple security verification mechanisms" to reduce the chances of further attacks.
+However, you should know that just installing the clean version of the software update over the malicious package would not remove the malware code from the infected systems.
+So, to help its customers know if they were a victim of the attack, ASUS also released a diagnostic tool using which you can check whether your ASUS system was affected by the malicious update.
+If you find your computer MAC address in the list, it means your computer has been backdoored by the malicious update, and ASUS recommends you perform a factory reset to wipe up the entire system.
+The identity of hackers and their intentions are still unknown. The Hacker News will update you with any new developments.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

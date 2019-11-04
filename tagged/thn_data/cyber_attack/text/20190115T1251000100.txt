@@ -1,0 +1,17 @@
+How to Secure Your Mid-Size Organization From the Next Cyber Attack
+Mohit Kumar
+
+If you are responsible for the cybersecurity of a medium-sized company, you may assume your organization is too small to be targeted. Well, think again.
+While the major headlines tend to focus on large enterprises getting breached – such as Sony, Equifax, or Target the actual reality is that small and mid-sized companies are experiencing similar threats. 
+According to Verizon’s 2018 Data Breach Investigations Report, fifty-eight percent of malware attack victims are SMBs. 
+Added to this is the fact that attack vectors that target small and medium-sized businesses are growing increasingly sophisticated, which makes securing them respectively challenging, and the trend of targeting ransomware campaigns on smaller organizations, as attackers assume smaller outfits are more likely to quickly pay in order to avoid damage to their business and reputation.
+Cisco's 2018 Security Capabilities Benchmark Study states that 44 percent of cyber attacks cost organizations over $500,000 in financial damages. To put it simply, the cost of being breached is rising. 
+That said, there is a lot you can do to enhance your security posture within your available resources.
+Ensure that your organization has basic security hygiene processes in place. This includes employee cyber safety training, implementing unique IDs, password management and general cyber education.
+Set system access limitations for employees and third-party vendors so that people only access the data they actually need.
+Ensure that your systems and apps across the network, your databases and servers are updated and patched
+Utilize an updated and robust anti-malware solution, that provides security across your entire environment.
+Have an incident response plan in place, so that you can quickly respond in the event of a breach.
+Want to hear first-hand advice from an experienced CISO? Join this webinar on Wednesday, January 30, 2019, at 1:00 PM EST as Wade P. Richmond, founder, and CEO of CISO ToGo, talks about what SMBs can do to protect their network from cyber attacks effectively. 
+Sign up for the webinar here, and we’ll send you a registration email. See you on January 30, 2019, at 1:00 PM EST to discuss how you can effectively secure your SMB organization from cyber attack. 
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

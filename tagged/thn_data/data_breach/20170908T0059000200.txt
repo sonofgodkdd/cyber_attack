@@ -1,0 +1,22 @@
+Equifax Hack Exposes Personal Info of 143 Million US Consumers
+Unknown
+
+It's ironic—the company that offers credit monitoring and ID theft protection solutions has itself been compromised, exposing personal information of as many as 143 million Americans—that's almost half the country.
+Equifax, one of the three largest credit reporting firm in the United States, admitted today that it had suffered a massive data breach somewhere between mid-May and July this year, which it actually discovered on July 29—that means the data of 143 million people were exposed for over 3 months.
+However, it's unknown why Equifax waited 6 weeks before informing their millions of affected customers about the massive security breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Based on Equifax's investigation, unknown hackers exploited a security vulnerability on its website to gain unauthorized access to certain files.
+Stolen data includes consumers' names, Social Security numbers, and birth dates for 143 million Americans, and in some instances, driving licence numbers and credit card numbers for about 209,000 citizens.
+Also Read: How you can Protect Yourself from possibly the WORST Leak of Personal Data Ever.
+The company said that some personal information for Canadian and British residents was also compromised.
+Moreover, reportedly, three senior executives at Equifax, namely John Gamble (CFO), Joseph Loughran and Rodolfo Ploder, sold almost $2 million worth of their shares just days after the company learned of this massive hack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Equifax is currently investigating the security incident and has reportedly hired FireEye's security firm Mandiant to help the company in hack aftermath.
+Meanwhile, all Equifax customers are advised to visit http://www.equifaxsecurity2017.com website to check if their information has also been stolen. Users just need to enter the last 6 digits of their SSN and last name.
+However, it is not that simple. The website is not giving a clear answer about whether or not your data may have been affected in the hack, but making it clear to those who were not exposed. Yes, it's confusing.
+Equifax is asking affected customers to sign up for credit-monitoring and identity theft protection services—isn't this funny?
+Don't worry; it's free for affected users.
+The company has not yet confirmed whether the hackers have contacted it for any extortion demand, but since the breach is major, Americans quickly need to take necessary actions to protect themselves and their loved ones.
+For this, you can head on to our article on How to Protect Yourself after this Security Mishap.
+Stay tuned for more information, stay safe online.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

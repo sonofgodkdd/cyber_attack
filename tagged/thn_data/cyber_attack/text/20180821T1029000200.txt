@@ -1,0 +1,20 @@
+Microsoft Detects More Russian Cyber Attacks Ahead of Mid-Term Election
+Swati Khandelwal
+
+Microsoft claims to have uncovered another new Russian hacking attempts targeting United States' Senate and conservative think tanks ahead of the 2018 midterm elections.
+The tech giant said Tuesday that the APT28 hacking group—also known as Strontium, Fancy Bear, Sofacy, Sednit, and Pawn Storm, which is believed to be tied to the Russian government—created at least six fake websites related to US Senate and conservative organizations to trick its visitors and hack into their computers.
+Three fake web domains were intended to look as if they belonged to the U.S. Senate, while one non-political website spoofed Microsoft's own online products.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The two other phony websites were designed to mimic two U.S. conservative organizations:
+The Hudson Institute — a conservative Washington think tank hosting extended discussions on topics including cybersecurity, among other important activities.
+The International Republican Institute (IRI) — a nonprofit group that promotes democracy worldwide and whose board includes prominent Republican figures like Sen. John McCain, R-Ariz., and former Republican National Committee Chairman Frank Fahrenkopf.
+Although there is no sign of hackers successful in getting any visitor to click on the fake websites, Microsoft said the fake sites were created over the past several months and registered with major web-hosting companies.
+Microsoft did not go into more details, saying "To be clear, we currently have no evidence these domains were used in any successful attacks before the DCU transferred control of them, nor do we have evidence to indicate the identity of the ultimate targets of any planned attack involving these domains."
+Microsoft's Digital Crimes Unit disabled the fake websites, after obtaining court approval last year, which was executed just last week, effectively allowing the company to seize the fake domains created by APT28 before they were "used in any successful attacks."
+The tech giant has so far used the courts a dozen times since 2016 to shut down 84 fake websites created by APT28.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+While speaking at the Aspen Security Forum last month, Microsoft VP Tom Burt said the company also took down a fake domain registered by APT28, after discovering that it was established for phishing attacks against at least three congressional candidates.
+Active since at least 2007, the notorious hacking group has publicly been linked to the GRU (General Staff Main Intelligence Directorate), Russian secret military intelligence agency, and also been accused of a series of hacks in recent years, including the 2016 presidential election hack.
+In a memorandum filed early in the case, Microsoft said APT28 sought to "establish a command and control infrastructure by which means Defendants conduct illegal activities, including attacks on computers and networks, monitoring of the activities of users, and the theft of information."
+The revelation by Microsoft comes almost a month after US special counsel and former FBI director Robert Mueller filed charges against 12 Russian intelligence officers tied to the cyber attacks on the Democratic National Committee (DNC) during the 2016 election campaign.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

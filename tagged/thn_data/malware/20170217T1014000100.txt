@@ -1,0 +1,27 @@
+This Ransomware Malware Could Poison Your Water Supply If Not Paid
+Swati Khandelwal
+
+Ransomware has been around for a few years, but in last two years, it has become an albatross around everyone's neck, targeting businesses, hospitals, financial institutions and personal computers worldwide and extorting millions of dollars.
+Ransomware is a type of malware that infects computers and encrypts their content with strong encryption algorithms, and then demands a ransom to decrypt that data.
+It turned out to be a noxious game of Hackers to get paid effortlessly.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Initially, ransomware used to target regular internet users, but in past few months, we have already seen the threat targeting enterprises, educational facilities, and hospitals, hotels, and other businesses.
+And now, the threat has gone Worse!
+This PoC Ransomware Could Poison Water Supply!
+Researchers at the Georgia Institute of Technology (GIT) have demonstrated the capability of ransomware to take down the critical infrastructure our cities need to operate, causing havoc among people.
+GIT researchers created a proof-of-concept ransomware that, in a simulated environment, was able to gain control of a water treatment plant and threaten to shut off the entire water supply or poison the city's water by increasing the amount of chlorine in it.
+Dubbed LogicLocker, the ransomware, presented at the 2017 RSA Conference in San Francisco, allowed researchers to alter Programmable Logic Controllers (PLCs) — the tiny computers that control critical Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) infrastructure, like power plants or water treatment facilities.
+This, in turn, gave them the ability to shut valves, control the amount of chlorine in the water, and display false readouts.
+Sounds scary, Right?
+Fortunately, this has not happened yet, but researchers say this is only a matter of time.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The simulated attack by researchers was created to highlight how attackers could disrupt vital services which cater to our critical needs, like water management utilities, energy providers, escalator controllers, HVAC (heating, ventilation and air conditioning) systems, and other mechanical systems.
+Over 1500 PLC Systems Open To Ransomware Attack
+LogicLocker targets three types of PLCs that are exposed online and infects them to reprogram the tiny computer with a new password, locking the legitimate owners out and demanding ransom while holding the utility hostage.
+If the owners pay, they get their control over the PLC back. But if not, the hackers could malfunction water plant, or worse, dump life-threatening amounts of chlorine in water supplies that could potentially poison entire cities.
+GIT researchers searched the internet for the two models of PLCs that they targeted during their experiment and found more than 1,500 PLCs that were exposed online.
+"There are common misconceptions about what is connected to the internet," says researcher David Formby. "Operators may believe their systems are air-gapped and that there's no way to access the controllers, but these systems are often connected in some way."
+Targeting industrial control and SCADA systems is not new, cybercriminals and nation-state actors are doing this for years, with programs like Stuxnet, Flame, and Duqu, but ransomware will soon add a financial element to these type of cyber attacks.
+Therefore, it is inevitable that money-motivated criminals will soon target critical infrastructure directly. Additionally, the nation-state actors could also hide their intentions under ransomware operators.
+So, it is high time for industrial control systems and SCADA operators to start adopting standard security practices like changing the PLCs default passwords, limiting their connections by placing them behind a firewall, scanning their networks for potential threats, and install intrusion monitoring systems.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

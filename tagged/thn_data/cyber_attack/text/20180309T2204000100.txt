@@ -1,0 +1,22 @@
+APT Hackers Infect Routers to Covertly Implant Slingshot Spying Malware
+Swati Khandelwal
+
+Security researchers at Kaspersky have identified a sophisticated APT hacking group that has been operating since at least 2012 without being noticed due to their complex and clever hacking techniques.
+The hacking group used a piece of advanced malware—dubbed Slingshot—to infect hundreds of thousands of victims in the Middle East and Africa by hacking into their routers.
+According to a 25-page report published [PDF] by Kaspersky Labs, the group exploited unknown vulnerabilities in routers from a Latvian network hardware provider Mikrotik as its first-stage infection vector in order to covertly plant its spyware into victims' computers.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although it is unclear how the group managed to compromise the routers at the first place, Kaspersky pointed towards WikiLeaks Vault 7 CIA Leaks, which revealed the ChimayRed exploit, now available on GitHub, to compromise Mikrotik routers.
+Once the router is compromised, the attackers replace one of its DDL (dynamic link libraries) file with a malicious one from the file-system, which loads directly into the victim’s computer memory when the user runs Winbox Loader software.
+Winbox Loader is a legitimate management tool designed by Mikrotik for Windows users to easily configure their routers that downloads some DLL files from the router and execute them on a system.
+This way the malicious DLL file runs on the targeted computer and connects to a remote server to download the final payload, i.e., Slingshot malware.
+Slingshot malware includes two modules—Cahnadr (a kernel mode module) and GollumApp (a user mode module), designed for information gathering, persistence and data exfiltration.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Cahnadr module, aka NDriver, takes care of anti-debugging, rootkit and sniffing functionality, injecting other modules, network communications—basically all the capabilities required by user-mode modules.
+"[Cahnadr is a] kernel-mode program is able to execute malicious code without crashing the whole file system or causing Blue Screen—a remarkable achievement," Kaspersky says in its blog post published today. 
+"Written in pure C language, Canhadr/Ndriver provides full access to the hard drive and operating memory despite device security restrictions, and carries out integrity control of various system components to avoid debugging and security detection."
+Whereas GollumApp is the most sophisticated module which has a wide range of spying functionalities that allow attackers to capture screenshots, collect network-related information, passwords saved in web browsers, all pressed keys, and maintains communication with remote command-and-control servers.
+Since GollumApp runs in kernel mode and can also run new processes with SYSTEM privileges, the malware gives attackers full control of the infected systems.
+Although Kaspersky has not attributed this group to any country but based on clever techniques it used and limited targets, the security firm concluded that it is definitely a highly skilled and English-speaking state-sponsored hacking group.
+"Slingshot is very complex, and the developers behind it have clearly spent a great deal of time and money on its creation. Its infection vector is remarkable—and, to the best of our knowledge, unique," the researchers say.
+The victims include most of the times individuals and some government organizations across various countries including Kenya, Yemen, Libya, Afghanistan, Iraq, Tanzania, Jordan, Mauritius, Somalia, the Democratic Republic of the Congo, Turkey, Sudan and the United Arab Emirates.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

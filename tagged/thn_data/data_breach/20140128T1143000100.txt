@@ -1,0 +1,19 @@
+Angry Birds and other Mobile Gaming apps leaking your private information to NSA
+Swati Khandelwal
+
+Are you fond of playing games on your Smartphone like Angry Birds or Subway Surfer?? You should now stop wasting your time, because NSA is utilizing your gaming energy in the best possible way.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+According to the latest documents leaked by former U.S. Government  contractor Edward Snowden, Some of the world's most popular Smartphone  applications are telling British (GCHQ) and American intelligence  agencies (NSA) everything about you.
+NSA is tapping communication across the Internet of all "leaky" apps (Unencrypted app, without SSL connection) to peek into the tremendous amounts of very personal data, including your age, location, sex and even sexual preferences. This is really unacceptable!
+The Guardian claims that the NSA and its UK counterpart GCHQ have been developing capabilities to take advantage of these ‘leaky’ apps, collecting most sensitive information such as  sexual orientation and "even sends  specific sexual preferences such as whether or not the user may be a  swinger.” Now this is what which blows our minds. 
+Mobile photo uploading appear to be a particularly rich source of information for the spy agencies as well. One of the recently leaked Slide of NSA's May 2010 Presentation titled "Golden Nugget!", explained that how a vast amount of data and metadata, known as EXIF  (Exchangeable Image File Format) of mobile users are compromised by  simply uploading photos to a social network, such as Facebook, Flickr,  LinkedIn, and Twitter from a mobile device. 
+The document dated 2008 includes the basic effort by GCHQ (Government Communications Headquarters) and the NSA to build a geolocation database of every mobile phone in the world. So, Just by having the tower ID from the mobile, its location could be identified. 
+“The efforts effectively means that anyone using Google Maps on a Smartphone is working in support of a GCHQ system."
+The Guardian also reported that the NSA has already spent more than $1 Billion in its phone targeting efforts, giving illogical reason that they are trying to defend the country from terrorist attacks and they are spying on only non-US citizens, but the NSA and GCHQ are collecting the info as part of their widespread global data collection effort.
+'Uninhibited collection of consumers’ personal data by governments hacking into apps is unacceptable,' said the App Developers Alliance President Jon Potter. 'Developers are surprised and disappointed to learn that the personal information entrusted to them by users has been secretly collecting and stored,'.
+In a statement, Rovio (maker of Angry Birds game app) VP of marketing and communications, Saara Bergström, told the Guardian:   
+“Rovio doesn’t have any previous knowledge of this matter, and have not been aware of such activity in 3rd party advertising networks. Nor do we have any involvement with the organizations you mentioned.”
+But that doesn't mean that developers are blameless. Developers can take more proactive measures to try and encrypt the data  obtained from their apps.
+Angry Birds is not alone in this, either; Facebook and Twitter were also named in these reports and Google Maps is apparently a major source of information for these agencies as well. The scale and the specifics of the data haul are not clear.
+Two weeks back, we published about a secret NSA project DISHFIRE,  that collects almost 200 million text messages per day from across the  globe and is using them to extract data including location, contact  networks and even credit card details.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

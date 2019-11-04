@@ -1,0 +1,21 @@
+Hacker Stole Data of Over 70% Bulgarian Citizens from Tax Agency Servers
+Wang Wei
+
+Eastern European country Bulgaria has suffered the biggest data breach in its history that compromised personal and financial information of 5 million adult citizens out of its total population of 7 million people.
+According to multiple sources in local Bulgarian media, an unknown hacker earlier this week emailed them download links to 11GB of stolen data which included taxpayer's personal identifiable numbers, addresses, and financial data.
+In a brief statement released Monday, the National Revenue Agency (NRA) of Bulgaria said the stolen data originates from the country's tax reporting service.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The NRA also indicated that the Ministry of the Interior and the State Agency for National Security (SANS) have started taking an assessment of the potential vulnerability in NRA's systems that attackers might have exploited to breach into its databases.
+It appears that until now, the hacker, who claimed to be a Russian man, has only released 57 out of a total of 110 compromised databases, which is about 21GB in total.
+In a follow-up announcement, the NRA said almost 20 days ago, the attacker unauthorizedly accessed about 3 percent of the information contained in their databases.
+"Currently, e-services for citizens and businesses are functioning normally, with the exception of the VAT refund service paid abroad, as well as by the revenue office. Unregulated access to sensitive information is limited," the NRA said.
+As consequences of the incident, Bulgaria's NRA tax agency is now facing a fine of up to 20 million euros ($22.43 million) or 4% of the agency's annual turnover over the data breach, said Prof. Veselin Tselkov, a member of the Commission for Personal Data Protection.
+Suspected "White Hat" Hacker Arrested
+Bulgarian police have also arrested a 20-year-old "white-hat hacker" as the main suspect for the NRA data breach after authorities raided his home and office in the capital Sofia and seized his computers containing encrypted data, according to a local media.
+The arrested suspect, Christian Boykov, is a cybersecurity expert who has been training officers of the GCDPC for fighting organized cybercrime.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Boykov was in the news two years ago, when he found a vulnerability in the website of the Ministry of Education and Science (MES) and contacted "Lords of the Air," a popular TV show to tell the story only after the ministry ignored his initial disclosure.
+After that incident, Boikov was hired as an ethical hacker by the global cybersecurity company "TAD Group," and at the moment of arrest, he was an employee of the company, where his job responsibility was to pentest the systems in the state agencies and private companies for potential vulnerabilities.
+Since the investigation is still ongoing, at this moment, it's not clear if he is behind the NRA data breach. However, the Sofia City Prosecutor's Office accused Boykov of unauthorized access to a computer system that is part of the critical infrastructure of the state.
+His lawyers say there is no evidence against the boy, but if proven guilty, Boikov—who has no past criminal record—could face up to 8 years in prison.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

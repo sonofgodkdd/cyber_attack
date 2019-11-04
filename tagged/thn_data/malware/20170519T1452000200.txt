@@ -1,0 +1,35 @@
+More Hacking Groups Found Exploiting SMB Flaw Weeks Before WannaCry
+Mohit Kumar
+
+Since the Shadow Brokers released the zero-day software vulnerabilities and hacking tools – allegedly belonged to the NSA's elite hacking team Equation Group – several hacking groups and individual hackers have started using them in their own way.
+The April's data dump was believed to be the most damaging release by the Shadow Brokers till the date, as it publicly leaked lots of Windows hacking tools, including dangerous Windows SMB exploit.
+After the outbreak of WannaCry last week, security researchers have identified multiple different campaigns exploiting Windows SMB vulnerability (CVE-2017-0143), called Eternalblue, which has already compromised hundreds of thousands of computers worldwide.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+I have been even confirmed by multiple sources in hacking and intelligence community that there are lots of groups and individuals who are actively exploiting Eternalblue for different motives.
+Moreover, the Eternalblue SMB exploit (MS17-010) has now been ported to Metasploit, a penetration testing framework that enables researchers as well as hackers to exploit this vulnerability easily.
+Cybersecurity startup Secdo, an incident response platform, has recently discovered two separate hacking campaigns using the same Eternalblue SMB exploit at least three weeks before the outbreak of WannaCry global ransomware attacks.
+So, it would not be surprised to find more hacking groups, state-sponsored attackers, financially motivated organized criminal gangs and gray hat hackers exploiting Eternalblue to target large organizations and individuals.
+The two newly discovered hacking campaigns, one traced back to Russia and another to China, are much more advanced than WannaCry, as sophisticated hackers are leveraging Eternalblue to install backdoors, Botnet malware and exfiltrate user credentials.
+According to Secdo, these attacks might pose a much bigger risk than WannaCry, because even if companies block WannaCry and patch the SMB Windows flaw, "a backdoor may persist and compromised credentials may be used to regain access" to the affected systems.
+Both campaigns are using a similar attack flow, wherein attackers initially infect the target machine with malware via different attack vectors, then uses Eternalblue to infect other devices in the same network and finally inject a stealthy thread inside legitimate applications, which is then used to achieve persistence by either deploying a backdoor or exfiltrating login credentials.
+Russian Campaign: Credential-Theft Attacks 
+Secdo discovered that attackers are injecting a malicious thread into the 'lsass.exe' process using Eternalblue.
+Once infected, the thread began downloading multiple malicious modules and then access SQLite DLL to retrieve users' saved login credentials from Mozilla's FireFox browser.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The stolen credentials are then sent to the attacker's command-and-control server via the encrypted Tor network in order to hide the real location of the C&C server.
+Once sent, a ransomware variant of CRY128, which is a member of the infamous Crypton ransomware family, starts running in the memory and encrypts all the documents on the affected system.
+According to Secdo, "at least 5 of the most popular Next Gen AV vendors and Anti-Malware vendors were running on the endpoints and were unable to detect and stop this attack. This is most likely due to the thread only nature of the attack."
+This attack has been traced back to late April, that's three weeks prior to the WannaCry outbreak. The attack originates from Russia-based IP address (77.72.84.11), but that doesn't mean the hackers are Russian.
+Chinese Campaign: Installs Rootkit and DDoS Botnet
+This campaign was also seen in late April.
+Using Eternalblue, a malicious thread is spawned inside of the lsass.exe process, similar to the above-mentioned credential theft attack.
+But only instead of remaining purely in-memory, the initial payload then connects back to a Chinese command-and-control server on port 998 (117.21.191.69) and downloads a known rootkit backdoor, which is based on ‘Agony rootkit’ to make persistent.
+Once installed, the payload installs a Chinese Botnet malware, equipped with DDoS attack functionality, on the affected machine.
+"These attacks demonstrate that many endpoints may still be compromised despite having installed the latest security patch," Secdo concluded. 
+"We highly recommend using a solution that has the ability to record events at the thread level in order to hunt, mitigate and assess potential damage as soon as possible."
+These malicious campaigns went unnoticed for weeks because unlike WannaCry, the purpose of these attacks was different, holding affected systems for a long time by achieving persistent and stealing credentials to regain access.
+The recent example is of "Adylkuzz," a recently-discovered stealthy cryptocurrency-mining malware that was also using Windows SMB vulnerability at least two weeks before the outbreak of WannaCry ransomware attacks.
+These attacks are just the beginning, as attacks like WannaCry have not been completely stopped and given the broad impact of the NSA exploits, hackers and cyber criminals are curiously waiting for the next Shadow Brokers release, which promised to leak more zero-days and exploits from next month.
+Since the attackers are currently waiting for new zero-days to exploit, there is very little users can do to protect themselves from the upcoming cyber attacks.
+You can follow some basic security tips that I have mentioned in my previous article about how to disable SMB and prevent your devices from getting hacked.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

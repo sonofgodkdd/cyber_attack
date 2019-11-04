@@ -1,0 +1,21 @@
+Microsoft Kept Secret That Its Bug-Tracking Database Was Hacked In 2013
+Mohit Kumar
+
+It was not just Yahoo among "Fortune 500" companies who tried to keep a major data breach incident secret.
+Reportedly, Microsoft had also suffered a data breach four and a half years ago (in 2013), when a "highly sophisticated hacking group" breached its bug-reporting and patch-tracking database, but the hack was never made public until today.
+According to five former employees of the company, interviewed separately by Reuters, revealed that the breached database had been "poorly protected with access possible via little more than a password."
+This incident is believed to be the second known breach of such a corporate database after a critical zero-day vulnerability was discovered in Mozilla's Bugzilla bug-tracking software in 2014.
+As its name suggests, the bug-reporting and patch-tracking database for Windows contained information on critical and unpatched vulnerabilities in some of the most widely used software in the world, including Microsoft's own Windows operating system.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The hack was believed to be carried out by a highly-skilled corporate espionage hacking group known by various names, including Morpho, Butterfly and Wild Neutron, who exploited a JAVA zero-day vulnerability to hack into Apple Mac computers of the Microsoft employees, "and then move to company networks."
+With such a database in hands, the so-called highly sophisticated hacking group could have developed zero-day exploits and other hacking tools to target systems worldwide.
+There's no better example than WannaCry ransomware attack to explain what a single zero-day vulnerability can do.
+"Bad guys with inside access to that information would literally have a ‘skeleton key’ for hundreds of millions of computers around the world," said Eric Rosenbach, who was American deputy assistant secretary of defence for cyber at the time of the breach.
+When Microsoft discovered the compromised database in earlier 2013, an alarm spread inside the company.
+Following the concerns that hackers were using stolen vulnerabilities to conduct new attacks, the tech giant conducted a study to compare the timing of breaches with when the bugs had entered the database and when they were patched.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Although the study found that the flaws in the stolen database were used in cyber attacks, Microsoft argued the hackers could have obtained the information elsewhere, and that there's "no evidence that the stolen information had been used in those breaches."
+Former employees also confirmed that the tech giant tightened up its security after the 2013 hacking incident and added multiple authentication layers to protect its bug-reporting system.
+However, three of the employees believes the study conducted by Microsoft did not rule out stolen vulnerabilities being used in future cyber attacks, and neither the tech giant conducted a thorough investigation into the incident.
+On being contacted, Microsoft declined to speak about the incident, beyond saying: "Our security teams actively monitor cyber threats to help us prioritise and take appropriate action to keep customers protected."
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

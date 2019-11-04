@@ -1,0 +1,36 @@
+Hackers Install Free SSL Certs from Let's Encrypt On Malicious Web Sites
+Swati Khandelwal
+
+Who else didn't see this coming?
+It was so obvious as I stressed earlier that the Let's Encrypt free HTTPS certificates would not just help legitimate website operators to encrypt its users' traffic, but also help criminals to bother innocent users with malware through secure sites.
+Let's Encrypt allows anyone to obtain free SSL/TLS (Secure Socket Layer/Transport Layer Security) certificates for their web servers that encrypt all the Internet traffic passed between a server and users.
+Let's Encrypt is recognized by all major browsers, including Google's Chrome, Mozilla's Firefox and Microsoft's Internet Explorer.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The organization started offering Free HTTPS certs to everyone from last month, and it is very easy for anyone to set up an HTTPS website in a few simple steps (How to Install Free SSL Cert).
+However, the most bothersome part is that Let's Encrypt free SSL certs are not only used by website owners to secure its users connection but also abused by cyber criminals to spread malware onto computers.
+How Criminals are Abusing Let's Encrypt Certificates?
+Researchers from Trend Micro spotted a Malvertising Campaign on Dec. 21 that was installing banking malware on computers and using free SSL certificates issued by the Let's Encrypt to hide its malicious traffic.
+Malvertising is a technique of using Web ads to spread malware. By stealthy inserting malicious advertisements on legitimate websites, malware authors can redirect users to malicious sites to deliver malware payload with the help of an exploit kit.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+For a long time, malware authors purchased stolen SSL certificates from the underground market and deployed them in their malvertising campaigns. Fortunately, these certificates are eventually caught up and invalidate by their legitimate owners.
+However, with the launch of Let's Encrypt free SSL certificates, malware authors don't even have to pay for SSL certificates anymore, and can request one for free instead.
+Criminals Delivering Vawtrack Banking Trojan
+The malvertising campaign discovered by Trend Micro researchers lasted until December 31 and affected users located mainly in Japan.
+People in Japan were delivered malicious ads that redirect them to a malicious website serving up malware over encrypted HTTPS using a Let's Encrypt-issued certificate.
+The malicious website used the Angler Exploit Kit in order to infect victims’ computers with the nasty Vawtrack banking trojan, which is specially designed to raid their online bank accounts.
+Before installing the Let's Encrypt certificate, the attackers behind this campaign compromised an unnamed legitimate web server and set up their own subdomain for the server's website, said Joseph Chen, Fraud Researcher at Trend Micro.
+The cyber crooks then installed the Let's Encrypt cert on the compromised server and hosted a malicious advertisement (also contained anti-antivirus code) from that subdomain.
+The Actual Cause behind the Abuse of Let's Encrypt Certs
+The issue is Let's Encrypt only checks the main domain against the Google's Safe Browsing API to see if a domain for which an SSL certificate is requested has been flagged for malware or phishing.
+However, Let's Encrypt never check for shadow domains like in this case in which authors of the malvertising campaign easily requested and got approved for a Let's Encrypt certificate.
+Moreover, Let's Encrypt has a policy not to revoke certificates. The organization explained in October that certification authorities are not equipped to police content and certificates issued by them 'say nothing else about a site’s content or who runs it'.
+"Domain Validation (DV) certificates do not include any information about a website’s reputation, real-world identity, or safety."
+However Trend Micro disagrees with this approach, saying, certificate authorities (CAs) "should be willing to cancel certificates issued to illicit parties that have been abused by various threat actors."
+In other words, there should be some mechanisms to prevent unauthorized certificates registrations for domains as well as their subdomains.
+How can You Prevent Yourself From Such Attacks?
+Trend Micro has reached out to both the Let's Encrypt project, and the legitimate domain's owner to notify them about the malvertising campaign.
+And Here's your take:
+Users should be aware that a 'secure' website is not always or necessarily a safe website, and the best defense against exploit kits is still an easy go, i.e.:
+Always keep your software up-to-date to minimize the number of vulnerabilities that may be exploited by cyber criminals.
+For online advertisement brokers, an approach would be to implement internal controls to stop malicious advertisements.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

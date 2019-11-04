@@ -1,0 +1,32 @@
+Book Review: Hacking Point of Sale, In-Depth Study on Payment Applications
+Swati Khandelwal
+
+Point-of-sale (POS) is the hottest topic in payment structures and its one of the most popular technology topics as well. A Point-of-sale (POS) machine is a computerized replacement for a cash register. It has ability to quickly process a customer's transaction, accurately keep the records, process credit and debit cards, connect to other systems in a network, and manage inventory.
+A basic POS system would consist of a computer as its core part provided with application specific programs for the particular environment in which it will serve, along with a cash drawer, barcode scanner, receipt printer and the appropriate POS software. Point-of-sale (POS) terminals are used in most industries that have a point of sale such as a service desk, including restaurants, lodging, entertainment, and museums.
+Due to the better track inventory and accuracy of records, the Point-of-sale (POS) machine is used worldwide and it can be easily set-up, depending on the nature of the business. But on the other hand, Point-of-sale (POS) systems are critical components in any retail environment and the users are not aware of the emerging threats it poses in near future.
+Last week I read an excellent book entitled 'HACKING POINT OF SALE', written by Slava Gomzine, that summarizes, systemizes, and shares knowledge about payment application security.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In the Book, the author covers all the aspects of card payment processing from the security point of view that mainly depends on confidentiality, integrity, and availability.
+In past few months, we have seen many massive data breaches targeting POS machines and the largest one is TARGET data breach occurred during the last Christmas holidays. The third-largest U.S. Retailer in which over 40 million Credit & Debit cards were stolen, used to pay for purchases at its 1500 stores nationwide in the U.S.
+Not Target alone, multiple retailers including Neiman Marcus, Michaels Store were also targeted involving the heist of possibly 110 million Credit-Debit cards, and personal information.
+Later, Target and other retailers confirmed that a malware was embedded in point-of-sale (POS) equipment at its checkout counters to collect secure data as the credit cards were swiped during transactions. That means the main theft resides in the company’s POS system.
+The Book 'Hacking Point of Sale: Payment Application Secrets, Threats, and Solutions' is all about the In-Depth technical information of attacks and vulnerabilities in Point-of-sale (POS) system, along with the extensive knowledge about the mitigation and protection measures.
+THE BOOK WALKS THE READER THROUGH -
+Technological overview of Electronic payment systems
+POS applications architecture
+Communication protocols
+Attacks on Point-of-sale Systems
+Step-by-step explanation of credit card fraud processes
+POS payment application vulnerabilities and non-software attacks
+Weak Encryption mechanisms and Poor key management
+How to prevent attacks on payment applications using Cryptography
+How to Protect the cardholders' sensitive information
+How to protect the application itself by utilizing client and server certificates, digital signatures, and code obfuscation.
+From a security perspective, the most critical risk lies in the payment process, because if the information that the customers hand over is captured somehow, the cyber criminals can use it to commit credit card frauds. 
+Also, many point-of-sale (POS) terminals are built using embedded versions of Microsoft Windows, which means that it is trivial for an attacker to create and develop malware that would run on a POS terminal.
+Attackers can also steal the information by leveraging the weakness in the point-of-sale (POS) environment such as unprotected memory, unencrypted network transmission, poorly encrypted disk storage, card reader interface, or compromised pinpad device.
+There are more than a billion active credit and debit card users in US alone, thus an active target for money motivated hackers. If we look at the figures, in 2011, POS terminals and payment card information was involved in almost 48% of security breaches which is more than any other data type breach.
+Due to lack of concern and security measures, point-of-sale (POS) systems have become an attractive target for cybercriminals and to overcome the upcoming threats we should know its architecture, the areas of attacks and the defense measures.
+Either you are a Developer, Security Architect , QA Analyst, Security Researcher or a Hacker, this book is really for you to grab the in-depth research of the point-of-sale (POS) systems, how it works, how it could be exploited, and what protection measures should be taken.
+The Publisher 'Wiley' is offering a special 50% Discount on 'Hacking Point of Sale' book only for 'The Hacker News' readers, so get your copy today. Stay Tuned!
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Seattle NEWS
+March 21, 2011
+Contact: 
+Jodie Underwood
+Seattle Division
+206 553-5443
+Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone
+ANCHORAGE, AK. -  Acting Special Agent in Charge, Mark Thomas and United States Attorney Karen L. Loeffler announced on March 21, 2011 that two Sacramento men were indicted by a federal grand jury in Anchorage for conspiracy to distribute and possess with the intent to distribute oxycodone in Juneau, Alaska.
+The one-count indictment names Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California, as co-defendants.
+According to the indictment, Pinkston and Dantzler conspired with others to distribute and to possess with the intent to distribute oxycodone in Alaska from November 2008 to September 29, 2010. Dantzler coordinated and organized the activities of the conspiracy. Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers. During the course of the conspiracy, both defendants conspired to distribute at least 7,500 pills of oxycodone transported from the Sacramento area to Juneau for distribution.
+The law provides for a maximum total sentence of 20 years in prison, a fine of $1 million, or both. Under the Federal Sentencing Guidelines, the actual sentence imposed will be based upon the seriousness of the offense and the prior criminal history, if any, of the defendants.
+Pinkston was arraigned on Friday, March 18, 2010, in Juneau, and was ordered to be detained pending trial. Dantzler has an active warrant for his arrest and his current whereabouts are unknown.
+The Drug Enforcement Administration (DEA) and the Port of Seattle Police Department conducted the investigation leading to the indictment in this case.
+An indictment is only a charge and is not evidence of guilt. A defendant is presumed innocent and is entitled to a fair trial at which the government must prove guilt beyond a reasonable doubt.
+]]></TEXT>
+<TAGS>
+<person id="p0" start="39" end="54" text="Jodie Underwood" TYPE="NAM" />
+<person id="p1" start="85" end="169" text="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" TYPE="BAR" />
+<person id="p2" start="112" end="130" text="Federal Grand Jury" TYPE="BAR" />
+<person id="p3" start="188" end="231" text="Acting Special Agent in Charge, Mark Thomas" TYPE="BAR" />
+<person id="p4" start="220" end="231" text="Mark Thomas" TYPE="NAMPRE" />
+<person id="p5" start="236" end="276" text="United States Attorney Karen L. Loeffler" TYPE="NAM" />
+<person id="p6" start="236" end="258" text="United States Attorney" TYPE="NOMPRE" />
+<person id="p7" start="310" end="328" text="two Sacramento men" TYPE="NOM" />
+<person id="p8" start="346" end="379" text="a federal grand jury in Anchorage" TYPE="NOM" />
+<person id="p9" start="511" end="606" text="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" TYPE="NAM" />
+<person id="p10" start="511" end="606" text="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" TYPE="NAM" />
+<person id="p12" start="571" end="606" text="residents of Sacramento, California" TYPE="BAR" />
+<person id="p13" start="611" end="624" text="co-defendants" TYPE="BAR" />
+<person id="p14" start="655" end="663" text="Pinkston" TYPE="NAM" />
+<person id="p15" start="668" end="676" text="Dantzler" TYPE="NAM" />
+<person id="p16" start="692" end="698" text="others" TYPE="HLS" />
+<person id="p17" start="820" end="828" text="Dantzler" TYPE="NAM" />
+<person id="p18" start="889" end="897" text="Pinkston" TYPE="NAM" />
+<person id="p19" start="921" end="933" text="conspirators" TYPE="BAR" />
+<person id="p20" start="1086" end="1101" text="both defendants" TYPE="NOM" />
+<person id="p21" start="1487" end="1501" text="the defendants" TYPE="NOM" />
+<person id="p22" start="1503" end="1511" text="Pinkston" TYPE="NAM" />
+<person id="p11" start="1610" end="1618" text="Dantzler" TYPE="NAM" />
+<person id="p23" start="1645" end="1648" text="his" TYPE="PRO" />
+<person id="p24" start="1660" end="1663" text="his" TYPE="PRO" />
+<person id="p25" start="1910" end="1921" text="A defendant" TYPE="NOM" />
+<organization id="o0" start="55" end="71" text="Seattle Division" TYPE="NAM" />
+<organization id="o1" start="1697" end="1737" text="The Drug Enforcement Administration (DEA" TYPE="NAM" />
+<organization id="o2" start="1734" end="1737" text="DEA" TYPE="NAM" />
+<organization id="o3" start="1743" end="1780" text="the Port of Seattle Police Department" TYPE="NAM" />
+<geographical-political id="g0" start="1" end="8" text="Seattle" TYPE="NAMPRE" />
+<geographical-political id="g1" start="85" end="95" text="Sacramento" TYPE="NAMPRE" />
+<geographical-political id="g2" start="170" end="183" text="ANCHORAGE, AK" TYPE="NAM" />
+<geographical-political id="g3" start="181" end="183" text="AK" TYPE="NAM" />
+<geographical-political id="g4" start="236" end="249" text="United States" TYPE="NAMPRE" />
+<geographical-political id="g5" start="314" end="324" text="Sacramento" TYPE="NAMPRE" />
+<geographical-political id="g6" start="370" end="379" text="Anchorage" TYPE="NAM" />
+<geographical-political id="g8" start="464" end="478" text="Juneau, Alaska" TYPE="NAM" />
+<geographical-political id="g9" start="472" end="478" text="Alaska" TYPE="NAM" />
+<geographical-political id="g10" start="584" end="606" text="Sacramento, California" TYPE="NAM" />
+<geographical-political id="g11" start="596" end="606" text="California" TYPE="NAM" />
+<geographical-political id="g12" start="771" end="777" text="Alaska" TYPE="NAM" />
+<geographical-political id="g13" start="958" end="968" text="Sacramento" TYPE="NAM" />
+<geographical-political id="g14" start="970" end="983" text="San Francisco" TYPE="NAM" />
+<geographical-political id="g15" start="985" end="992" text="Oakland" TYPE="NAM" />
+<geographical-political id="g16" start="997" end="1009" text="Reno, Nevada" TYPE="NAM" />
+<geographical-political id="g17" start="1003" end="1009" text="Nevada" TYPE="NAM" />
+<geographical-political id="g18" start="1013" end="1019" text="Alaska" TYPE="NAM" />
+<geographical-political id="g19" start="1181" end="1191" text="Sacramento" TYPE="NAMPRE" />
+<geographical-political id="g20" start="1200" end="1206" text="Juneau" TYPE="NAM" />
+<geographical-political id="g7" start="1556" end="1562" text="Juneau" TYPE="NAM" />
+<geographical-political id="g21" start="1984" end="1998" text="the government" TYPE="NOM" />
+<location id="l0" start="1177" end="1196" text="the Sacramento area" TYPE="NOM" />
+<falicity id="f0" start="1286" end="1292" text="prison" TYPE="BAR" />
+<falicity id="f1" start="1660" end="1683" text="his current whereabouts" TYPE="NOM" />
+<head id="h0" start="1" end="8" text="Seattle" />
+<head id="h1" start="39" end="54" text="Jodie Underwood" />
+<head id="h2" start="55" end="71" text="Seattle Division" />
+<head id="h3" start="96" end="99" text="Men" />
+<head id="h4" start="85" end="95" text="Sacramento" />
+<head id="h5" start="126" end="130" text="Jury" />
+<head id="h6" start="170" end="179" text="ANCHORAGE" />
+<head id="h7" start="181" end="183" text="AK" />
+<head id="h8" start="203" end="208" text="Agent" />
+<head id="h9" start="220" end="231" text="Mark Thomas" />
+<head id="h10" start="259" end="276" text="Karen L. Loeffler" />
+<head id="h11" start="250" end="258" text="Attorney" />
+<head id="h12" start="236" end="249" text="United States" />
+<head id="h13" start="325" end="328" text="men" />
+<head id="h14" start="314" end="324" text="Sacramento" />
+<head id="h15" start="362" end="366" text="jury" />
+<head id="h16" start="370" end="379" text="Anchorage" />
+<head id="h17" start="464" end="470" text="Juneau" />
+<head id="h18" start="472" end="478" text="Alaska" />
+<head id="h19" start="511" end="533" text="Travell Demar Pinkston" />
+<head id="h20" start="543" end="565" text="Deandre Tyron Dantzler" />
+<head id="h21" start="571" end="580" text="residents" />
+<head id="h22" start="584" end="594" text="Sacramento" />
+<head id="h23" start="596" end="606" text="California" />
+<head id="h24" start="611" end="624" text="co-defendants" />
+<head id="h25" start="655" end="663" text="Pinkston" />
+<head id="h26" start="668" end="676" text="Dantzler" />
+<head id="h27" start="692" end="698" text="others" />
+<head id="h28" start="771" end="777" text="Alaska" />
+<head id="h29" start="820" end="828" text="Dantzler" />
+<head id="h30" start="889" end="897" text="Pinkston" />
+<head id="h31" start="921" end="933" text="conspirators" />
+<head id="h32" start="958" end="968" text="Sacramento" />
+<head id="h33" start="970" end="983" text="San Francisco" />
+<head id="h34" start="985" end="992" text="Oakland" />
+<head id="h35" start="997" end="1001" text="Reno" />
+<head id="h36" start="1003" end="1009" text="Nevada" />
+<head id="h37" start="1013" end="1019" text="Alaska" />
+<head id="h38" start="1091" end="1101" text="defendants" />
+<head id="h39" start="1192" end="1196" text="area" />
+<head id="h40" start="1181" end="1191" text="Sacramento" />
+<head id="h41" start="1200" end="1206" text="Juneau" />
+<head id="h42" start="1286" end="1292" text="prison" />
+<head id="h43" start="1491" end="1501" text="defendants" />
+<head id="h44" start="1503" end="1511" text="Pinkston" />
+<head id="h45" start="1556" end="1562" text="Juneau" />
+<head id="h46" start="1610" end="1618" text="Dantzler" />
+<head id="h47" start="1645" end="1648" text="his" />
+<head id="h48" start="1672" end="1683" text="whereabouts" />
+<head id="h49" start="1660" end="1663" text="his" />
+<head id="h50" start="1701" end="1732" text="Drug Enforcement Administration" />
+<head id="h51" start="1734" end="1737" text="DEA" />
+<head id="h52" start="1747" end="1780" text="Port of Seattle Police Department" />
+<head id="h53" start="1912" end="1921" text="defendant" />
+<head id="h54" start="1988" end="1998" text="government" />
+<name id="n0" start="1" end="8" text="Seattle" />
+<name id="n1" start="39" end="54" text="Jodie Underwood" />
+<name id="n2" start="55" end="71" text="Seattle Division" />
+<name id="n3" start="85" end="95" text="Sacramento" />
+<name id="n4" start="170" end="179" text="ANCHORAGE" />
+<name id="n5" start="181" end="183" text="AK" />
+<name id="n6" start="220" end="231" text="Mark Thomas" />
+<name id="n7" start="259" end="276" text="Karen L. Loeffler" />
+<name id="n8" start="236" end="249" text="United States" />
+<name id="n9" start="314" end="324" text="Sacramento" />
+<name id="n10" start="370" end="379" text="Anchorage" />
+<name id="n11" start="464" end="470" text="Juneau" />
+<name id="n12" start="472" end="478" text="Alaska" />
+<name id="n13" start="511" end="533" text="Travell Demar Pinkston" />
+<name id="n14" start="543" end="565" text="Deandre Tyron Dantzler" />
+<name id="n15" start="584" end="594" text="Sacramento" />
+<name id="n16" start="596" end="606" text="California" />
+<name id="n17" start="655" end="663" text="Pinkston" />
+<name id="n18" start="668" end="676" text="Dantzler" />
+<name id="n19" start="771" end="777" text="Alaska" />
+<name id="n20" start="820" end="828" text="Dantzler" />
+<name id="n21" start="889" end="897" text="Pinkston" />
+<name id="n22" start="958" end="968" text="Sacramento" />
+<name id="n23" start="970" end="983" text="San Francisco" />
+<name id="n24" start="985" end="992" text="Oakland" />
+<name id="n25" start="997" end="1001" text="Reno" />
+<name id="n26" start="1003" end="1009" text="Nevada" />
+<name id="n27" start="1013" end="1019" text="Alaska" />
+<name id="n28" start="1181" end="1191" text="Sacramento" />
+<name id="n29" start="1200" end="1206" text="Juneau" />
+<name id="n30" start="1503" end="1511" text="Pinkston" />
+<name id="n31" start="1556" end="1562" text="Juneau" />
+<name id="n32" start="1610" end="1618" text="Dantzler" />
+<name id="n33" start="1701" end="1732" text="Drug Enforcement Administration" />
+<name id="n34" start="1734" end="1737" text="DEA" />
+<name id="n35" start="1747" end="1780" text="Port of Seattle Police Department" />
+<located-mention id="lo0" start="346" end="379" text="a federal grand jury in Anchorage" TYPE="Preposition" />
+<located-mention id="lo1" start="889" end="1047" text="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" TYPE="Other" />
+<located-mention id="lo2" start="889" end="1047" text="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" TYPE="Other" />
+<located-mention id="lo3" start="889" end="1047" text="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" TYPE="Other" />
+<located-mention id="lo4" start="889" end="1047" text="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" TYPE="Other" />
+<located-mention id="lo5" start="889" end="1047" text="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" TYPE="Other" />
+<located-mention id="lo6" start="1503" end="1608" text="Pinkston was arraigned on Friday, March 18, 2010, in Juneau, and was ordered to be detained pending trial" TYPE="Other" />
+<employment-mention id="e0" start="236" end="258" text="United States Attorney" TYPE="PreMod" />
+<CRRE id="C0" start="85" end="169" text="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" TYPE="PreMod" />
+<CRRE id="C1" start="310" end="328" text="two Sacramento men" TYPE="PreMod" />
+<CRRE id="C2" start="571" end="606" text="residents of Sacramento, California" TYPE="Preposition" />
+<entity_link id="en0" fromID="p4" fromText="Mark Thomas" toID="p3" toText="Acting Special Agent in Charge, Mark Thomas" />
+<entity_link id="en1" fromID="p6" fromText="United States Attorney" toID="p5" toText="United States Attorney Karen L. Loeffler" />
+<entity_link id="en2" fromID="p7" fromText="two Sacramento men" toID="p1" toText="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" />
+<entity_link id="en3" fromID="g5" fromText="Sacramento" toID="g1" toText="Sacramento" />
+<entity_link id="en4" fromID="g10" fromText="Sacramento, California" toID="g5" toText="Sacramento" />
+<entity_link id="en5" fromID="p13" fromText="co-defendants" toID="p7" toText="two Sacramento men" />
+<entity_link id="en6" fromID="p14" fromText="Pinkston" toID="p9" toText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" />
+<entity_link id="en7" fromID="p15" fromText="Dantzler" toID="p10" toText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" />
+<entity_link id="en8" fromID="g12" fromText="Alaska" toID="g9" toText="Alaska" />
+<entity_link id="en9" fromID="p17" fromText="Dantzler" toID="p15" toText="Dantzler" />
+<entity_link id="en10" fromID="p18" fromText="Pinkston" toID="p14" toText="Pinkston" />
+<entity_link id="en11" fromID="g13" fromText="Sacramento" toID="g10" toText="Sacramento, California" />
+<entity_link id="en12" fromID="g18" fromText="Alaska" toID="g12" toText="Alaska" />
+<entity_link id="en13" fromID="p20" fromText="both defendants" toID="p13" toText="co-defendants" />
+<entity_link id="en14" fromID="g19" fromText="Sacramento" toID="g13" toText="Sacramento" />
+<entity_link id="en15" fromID="g20" fromText="Juneau" toID="g8" toText="Juneau, Alaska" />
+<entity_link id="en16" fromID="p21" fromText="the defendants" toID="p20" toText="both defendants" />
+<entity_link id="en17" fromID="p22" fromText="Pinkston" toID="p18" toText="Pinkston" />
+<entity_link id="en18" fromID="p11" fromText="Dantzler" toID="p17" toText="Dantzler" />
+<entity_link id="en19" fromID="p23" fromText="his" toID="p11" toText="Dantzler" />
+<entity_link id="en20" fromID="p24" fromText="his" toID="p11" toText="Dantzler" />
+<entity_link id="en21" fromID="o2" fromText="DEA" toID="o1" toText="The Drug Enforcement Administration (DEA" />
+<entity_link id="en22" fromID="g7" fromText="Juneau" toID="g20" toText="Juneau" />
+<entity_link id="en23" fromID="g6" fromText="Anchorage" toID="g2" toText="ANCHORAGE, AK" />
+<entity_link id="en24" fromID="g21" fromText="the government" toID="g4" toText="United States" />
+<entity_link id="en25" fromID="g9" fromText="Alaska" toID="g3" toText="AK" />
+<head_link id="he0" fromID="g0" fromText="Seattle" toID="h0" toText="Seattle" />
+<head_link id="he1" fromID="p0" fromText="Jodie Underwood" toID="h1" toText="Jodie Underwood" />
+<head_link id="he2" fromID="o0" fromText="Seattle Division" toID="h2" toText="Seattle Division" />
+<head_link id="he3" fromID="p1" fromText="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" toID="h3" toText="Men" />
+<head_link id="he4" fromID="g1" fromText="Sacramento" toID="h4" toText="Sacramento" />
+<head_link id="he5" fromID="p2" fromText="Federal Grand Jury" toID="h5" toText="Jury" />
+<head_link id="he6" fromID="g2" fromText="ANCHORAGE, AK" toID="h6" toText="ANCHORAGE" />
+<head_link id="he7" fromID="g3" fromText="AK" toID="h7" toText="AK" />
+<head_link id="he8" fromID="p3" fromText="Acting Special Agent in Charge, Mark Thomas" toID="h8" toText="Agent" />
+<head_link id="he9" fromID="p4" fromText="Mark Thomas" toID="h9" toText="Mark Thomas" />
+<head_link id="he10" fromID="p5" fromText="United States Attorney Karen L. Loeffler" toID="h10" toText="Karen L. Loeffler" />
+<head_link id="he11" fromID="p6" fromText="United States Attorney" toID="h11" toText="Attorney" />
+<head_link id="he12" fromID="g4" fromText="United States" toID="h12" toText="United States" />
+<head_link id="he13" fromID="p7" fromText="two Sacramento men" toID="h13" toText="men" />
+<head_link id="he14" fromID="g5" fromText="Sacramento" toID="h14" toText="Sacramento" />
+<head_link id="he15" fromID="p8" fromText="a federal grand jury in Anchorage" toID="h15" toText="jury" />
+<head_link id="he16" fromID="g6" fromText="Anchorage" toID="h16" toText="Anchorage" />
+<head_link id="he17" fromID="g8" fromText="Juneau, Alaska" toID="h17" toText="Juneau" />
+<head_link id="he18" fromID="g9" fromText="Alaska" toID="h18" toText="Alaska" />
+<head_link id="he19" fromID="p9" fromText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" toID="h19" toText="Travell Demar Pinkston" />
+<head_link id="he20" fromID="p10" fromText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" toID="h20" toText="Deandre Tyron Dantzler" />
+<head_link id="he22" fromID="g10" fromText="Sacramento, California" toID="h22" toText="Sacramento" />
+<head_link id="he23" fromID="g11" fromText="California" toID="h23" toText="California" />
+<head_link id="he24" fromID="p12" fromText="residents of Sacramento, California" toID="h21" toText="residents" />
+<head_link id="he25" fromID="p13" fromText="co-defendants" toID="h24" toText="co-defendants" />
+<head_link id="he26" fromID="p14" fromText="Pinkston" toID="h25" toText="Pinkston" />
+<head_link id="he27" fromID="p15" fromText="Dantzler" toID="h26" toText="Dantzler" />
+<head_link id="he28" fromID="p16" fromText="others" toID="h27" toText="others" />
+<head_link id="he29" fromID="g12" fromText="Alaska" toID="h28" toText="Alaska" />
+<head_link id="he30" fromID="p17" fromText="Dantzler" toID="h29" toText="Dantzler" />
+<head_link id="he31" fromID="p18" fromText="Pinkston" toID="h30" toText="Pinkston" />
+<head_link id="he32" fromID="p19" fromText="conspirators" toID="h31" toText="conspirators" />
+<head_link id="he33" fromID="g13" fromText="Sacramento" toID="h32" toText="Sacramento" />
+<head_link id="he34" fromID="g14" fromText="San Francisco" toID="h33" toText="San Francisco" />
+<head_link id="he35" fromID="g15" fromText="Oakland" toID="h34" toText="Oakland" />
+<head_link id="he36" fromID="g16" fromText="Reno, Nevada" toID="h35" toText="Reno" />
+<head_link id="he37" fromID="g17" fromText="Nevada" toID="h36" toText="Nevada" />
+<head_link id="he38" fromID="g18" fromText="Alaska" toID="h37" toText="Alaska" />
+<head_link id="he39" fromID="p20" fromText="both defendants" toID="h38" toText="defendants" />
+<head_link id="he40" fromID="l0" fromText="the Sacramento area" toID="h39" toText="area" />
+<head_link id="he41" fromID="g19" fromText="Sacramento" toID="h40" toText="Sacramento" />
+<head_link id="he42" fromID="g20" fromText="Juneau" toID="h41" toText="Juneau" />
+<head_link id="he43" fromID="f0" fromText="prison" toID="h42" toText="prison" />
+<head_link id="he44" fromID="p21" fromText="the defendants" toID="h43" toText="defendants" />
+<head_link id="he45" fromID="p22" fromText="Pinkston" toID="h44" toText="Pinkston" />
+<head_link id="he21" fromID="g7" fromText="Juneau" toID="h45" toText="Juneau" />
+<head_link id="he46" fromID="p11" fromText="Dantzler" toID="h46" toText="Dantzler" />
+<head_link id="he47" fromID="p23" fromText="his" toID="h47" toText="his" />
+<head_link id="he48" fromID="f1" fromText="his current whereabouts" toID="h48" toText="whereabouts" />
+<head_link id="he49" fromID="p24" fromText="his" toID="h49" toText="his" />
+<head_link id="he50" fromID="o1" fromText="The Drug Enforcement Administration (DEA" toID="h50" toText="Drug Enforcement Administration" />
+<head_link id="he51" fromID="o2" fromText="DEA" toID="h51" toText="DEA" />
+<head_link id="he52" fromID="o3" fromText="the Port of Seattle Police Department" toID="h52" toText="Port of Seattle Police Department" />
+<head_link id="he53" fromID="p25" fromText="A defendant" toID="h53" toText="defendant" />
+<head_link id="he55" fromID="g21" fromText="the government" toID="h54" toText="government" />
+<name_link id="na0" fromID="g0" fromText="Seattle" toID="n0" toText="Seattle" />
+<name_link id="na1" fromID="p0" fromText="Jodie Underwood" toID="n1" toText="Jodie Underwood" />
+<name_link id="na2" fromID="o0" fromText="Seattle Division" toID="n2" toText="Seattle Division" />
+<name_link id="na3" fromID="g1" fromText="Sacramento" toID="n3" toText="Sacramento" />
+<name_link id="na4" fromID="g2" fromText="ANCHORAGE, AK" toID="n4" toText="ANCHORAGE" />
+<name_link id="na5" fromID="g3" fromText="AK" toID="n5" toText="AK" />
+<name_link id="na6" fromID="p4" fromText="Mark Thomas" toID="n6" toText="Mark Thomas" />
+<name_link id="na7" fromID="p5" fromText="United States Attorney Karen L. Loeffler" toID="n7" toText="Karen L. Loeffler" />
+<name_link id="na8" fromID="g4" fromText="United States" toID="n8" toText="United States" />
+<name_link id="na9" fromID="g5" fromText="Sacramento" toID="n9" toText="Sacramento" />
+<name_link id="na10" fromID="g6" fromText="Anchorage" toID="n10" toText="Anchorage" />
+<name_link id="na11" fromID="g8" fromText="Juneau, Alaska" toID="n11" toText="Juneau" />
+<name_link id="na12" fromID="g9" fromText="Alaska" toID="n12" toText="Alaska" />
+<name_link id="na13" fromID="p9" fromText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" toID="n13" toText="Travell Demar Pinkston" />
+<name_link id="na14" fromID="p10" fromText="Travell Demar Pinkston, 24, and Deandre Tyron Dantzler, 30, residents of Sacramento, California" toID="n14" toText="Deandre Tyron Dantzler" />
+<name_link id="na15" fromID="g10" fromText="Sacramento, California" toID="n15" toText="Sacramento" />
+<name_link id="na16" fromID="g11" fromText="California" toID="n16" toText="California" />
+<name_link id="na17" fromID="p14" fromText="Pinkston" toID="n17" toText="Pinkston" />
+<name_link id="na18" fromID="p15" fromText="Dantzler" toID="n18" toText="Dantzler" />
+<name_link id="na19" fromID="g12" fromText="Alaska" toID="n19" toText="Alaska" />
+<name_link id="na20" fromID="p17" fromText="Dantzler" toID="n20" toText="Dantzler" />
+<name_link id="na21" fromID="p18" fromText="Pinkston" toID="n21" toText="Pinkston" />
+<name_link id="na22" fromID="g13" fromText="Sacramento" toID="n22" toText="Sacramento" />
+<name_link id="na23" fromID="g14" fromText="San Francisco" toID="n23" toText="San Francisco" />
+<name_link id="na25" fromID="g15" fromText="Oakland" toID="n24" toText="Oakland" />
+<name_link id="na26" fromID="g16" fromText="Reno, Nevada" toID="n25" toText="Reno" />
+<name_link id="na27" fromID="g17" fromText="Nevada" toID="n26" toText="Nevada" />
+<name_link id="na28" fromID="g18" fromText="Alaska" toID="n27" toText="Alaska" />
+<name_link id="na29" fromID="g19" fromText="Sacramento" toID="n28" toText="Sacramento" />
+<name_link id="na30" fromID="g20" fromText="Juneau" toID="n29" toText="Juneau" />
+<name_link id="na31" fromID="p22" fromText="Pinkston" toID="n30" toText="Pinkston" />
+<name_link id="na24" fromID="g7" fromText="Juneau" toID="n31" toText="Juneau" />
+<name_link id="na32" fromID="p11" fromText="Dantzler" toID="n32" toText="Dantzler" />
+<name_link id="na33" fromID="o1" fromText="The Drug Enforcement Administration (DEA" toID="n33" toText="Drug Enforcement Administration" />
+<name_link id="na34" fromID="o2" fromText="DEA" toID="n34" toText="DEA" />
+<name_link id="na35" fromID="o3" fromText="the Port of Seattle Police Department" toID="n35" toText="Port of Seattle Police Department" />
+<relation_link1 id="r0" fromID="C0" fromText="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" toID="p1" toText="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" />
+<relation_link1 id="r1" fromID="e0" fromText="United States Attorney" toID="p6" toText="United States Attorney" />
+<relation_link1 id="r2" fromID="C1" fromText="two Sacramento men" toID="p7" toText="two Sacramento men" />
+<relation_link1 id="r4" fromID="lo0" fromText="a federal grand jury in Anchorage" toID="p8" toText="a federal grand jury in Anchorage" />
+<relation_link1 id="r5" fromID="C2" fromText="residents of Sacramento, California" toID="p12" toText="residents of Sacramento, California" />
+<relation_link1 id="r6" fromID="lo1" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="p19" toText="conspirators" />
+<relation_link1 id="r7" fromID="lo2" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="p19" toText="conspirators" />
+<relation_link1 id="r8" fromID="lo3" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="p19" toText="conspirators" />
+<relation_link1 id="r9" fromID="lo4" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="p19" toText="conspirators" />
+<relation_link1 id="r10" fromID="lo5" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="p19" toText="conspirators" />
+<relation_link1 id="r3" fromID="lo6" fromText="Pinkston was arraigned on Friday, March 18, 2010, in Juneau, and was ordered to be detained pending trial" toID="p22" toText="Pinkston" />
+<relation_link2 id="re0" fromID="C0" fromText="Sacramento Men Indicted by Federal Grand Jury for Conspiracy to Distribute Oxycodone" toID="g1" toText="Sacramento" />
+<relation_link2 id="re1" fromID="e0" fromText="United States Attorney" toID="g4" toText="United States" />
+<relation_link2 id="re2" fromID="C1" fromText="two Sacramento men" toID="g5" toText="Sacramento" />
+<relation_link2 id="re4" fromID="lo0" fromText="a federal grand jury in Anchorage" toID="g6" toText="Anchorage" />
+<relation_link2 id="re5" fromID="C2" fromText="residents of Sacramento, California" toID="g10" toText="Sacramento, California" />
+<relation_link2 id="re6" fromID="lo1" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="g13" toText="Sacramento" />
+<relation_link2 id="re7" fromID="lo2" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="g14" toText="San Francisco" />
+<relation_link2 id="re8" fromID="lo3" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="g15" toText="Oakland" />
+<relation_link2 id="re9" fromID="lo4" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="g16" toText="Reno, Nevada" />
+<relation_link2 id="re10" fromID="lo5" fromText="Pinkston arranged the travel of conspirators to carry oxycodone from Sacramento, San Francisco, Oakland and Reno, Nevada to Alaska via commercial air carriers" toID="g18" toText="Alaska" />
+<relation_link2 id="re3" fromID="lo6" fromText="Pinkston was arraigned on Friday, March 18, 2010, in Juneau, and was ordered to be detained pending trial" toID="g7" toText="Juneau" />
+</TAGS>
+</KddTask>

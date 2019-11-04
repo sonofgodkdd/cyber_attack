@@ -1,0 +1,19 @@
+FBI Arrests Another Hacker Who Visited United States to Attend a Conference
+Unknown
+
+The FBI has arrested a Chinese citizen for allegedly distributing malware used in the 2015 massive OPM breach that resulted in the theft of personal details of more than 25 Million U.S. federal employees, including 5.6 Million federal officials' fingerprints.
+Yu Pingan, identified by the agency as the pseudonym "GoldSun," was arrested at Los Angeles international airport on Wednesday when he was arrived in the United States to attend a conference, CNN reported.
+The 36-year-old Chinese national is said to face charges in connection with the Sakula malware, which was not only used to breach the US Office of Personnel Management (OPM) but also breached Anthem health insurance firm in 2015.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The Anthem breach resulted in the theft of personal medical records of around 80 million current and former customers of the company.
+Sakula is a sophisticated remote access Trojan (RAT) that was known to be developed by Deep Panda, a China-based advanced persistent threat group (known as APT19) and could allow an attacker to remotely gain control over a targeted system.
+However, after a few months of the discovery of the OPM breach, Chinese government arrested a handful of hackers within its borders in connection with the OPM hack, dismissing its own involvement.
+Pingan's arrest was similar to that of Marcus Hutchins, a 22-year-old British security researcher who has been accused of creating and distributing the infamous Kronos banking Trojan between 2014 and 2015.
+According to an indictment filed in the US District Court for the Southern District of California on 21 August, Pingan has been charged with one count of the Computer Fraud and Abuse Act and is also accused of conspiracy to commit offence or defraud the United States.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The indictment suggests Pingan collaborated with two unnamed hackers to acquire and use malware to conduct cyber attacks against at least 4 unnamed US companies from April 2011 through January 2014.
+"Defendant YU and co-conspirators in the PRC [People's Republic of China] would establish an infrastructure of domain names, IP addresses, accounts with internet service providers, and websites to facilitate hacks of computer networks operated by companies in the United States and elsewhere," the indictment reads.
+Although the indictment filed doesn't name the companies that were targeted, it does note that the affected companies were headquartered in San Diego, California; Massachusetts; Arizona; and Los Angeles, California.
+Pingan's role in those cyber attacks was to supply advanced malware to other unnamed Chinese crooks for hacks against United States organisations.
+Pingan remains behind bars pending a court hearing on his detention next week.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

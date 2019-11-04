@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Security firm Bit9 hacked, Stolen Digital Certs Used To Sign Malware
+Mohit Kumar
+Bit9 disclosed Friday that hackers had stolen digital code signing certificates from its network and have utilized it to sign malware. Bit9, a company that provides software and network security services to the U.S. government and at least 30 Fortune 100 firms.
+"As a result, a malicious third party was able to illegally gain temporary access to one of our digital code-signing certificates that they then used to illegitimately sign malware," Bit9 Chief Executive Patrick Morley said in a blog post.
+The attackers then sent signed malware to at least three of Bit9's customers, although Bit9 isn't saying which customers were affected or to what extent.
+"Since we discovered this issue, we have been working closely with all of our customers to ensure they are no longer vulnerable to malware associated with the affected certificate." and company said it has resolved the issue.
+It is not the first time that hackers have breached a security firm as part of a sophisticated scheme to access data at one of their customers. EMC Corp's RSA Security division disclosed that it was breached in 2011.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
+]]></TEXT>
+<TAGS>
+<ATTACK.Root_Compromise id="AT0" start="404" end="425" text="gain temporary access" TYPE="TRG" />
+<IMPACT.Breach id="IMPA0" start="121" end="127" text="stolen" TYPE="TRG" />
+</TAGS>
+</KddTask>

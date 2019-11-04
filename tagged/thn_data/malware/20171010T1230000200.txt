@@ -1,0 +1,19 @@
+Warning: Millions Of P0rnHub Users Hit With Malvertising Attack
+Mohit Kumar
+
+Researchers from cybersecurity firm Proofpoint have recently discovered a large-scale malvertising campaign that exposed millions of Internet users in the United States, Canada, the UK, and Australia to malware infections.
+Active for more than a year and still ongoing, the malware campaign is being conducted by a hacking group called KovCoreG, which is well known for distributing Kovter ad fraud malware that was used in 2015 malicious ad campaigns, and most recently earlier in 2017.
+The KovCoreG hacking group initially took advantage of P0rnHub—one of the world's most visited adult websites—to distribute fake browser updates that worked on all three major Windows web browsers, including Chrome, Firefox, and Microsoft Edge/Internet Explorer.
+According to the Proofpoint researchers, the infections in this campaign first appeared on P0rnHub web pages via a legitimate advertising network called Traffic Junky, which tricked users into installing the Kovtar malware onto their systems.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Among other malicious things, the Kovter malware is known for its unique persistence mechanism, allowing the malware to load itself after every reboot of the infected host.
+The Traffic Junky advertising network redirected users to a malicious website, where Chrome and Firefox users were shown a fake browser update window, while Internet Explorer and Edge users got a fake Flash update.
+"The [infection] chain begins with a malicious redirect hosted on avertizingms[.]com, which inserts a call hosted behind KeyCDN, a major content delivery network," Proofpoint writes.
+The attackers used a number of filters and fingerprinting of "the timezone, screen dimension, language (user/browser) history length of the current browser windows, and unique id creation via Mumour," in an effort to target users and evade analysis.
+Researchers said Chrome users were infected with a JavaScript which beaconed back to the server controlled by the attackers, preventing security analysts working through the infection chain if their IP had not "checked in."
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+"This makes it extremely unlikely that the JavaScript can be run alone and provide the payload in a sandbox environment," Proofpoint writes. "This is most likely why this component of the chain has not been documented previously."
+In this case, the attackers limited their campaign to click fraud to generate illicit revenue, but Proofpoint researchers believed the malware could easily be modified to spread ransomware, information stealing Trojans or any other malware.
+Both P0rnHub and Traffic Junky, according to the researchers, "acted swiftly to remediate this threat upon notification."
+Although this particular infection chain was successfully shut down after the site operator and ad network got notified, the malware campaign is still ongoing elsewhere.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

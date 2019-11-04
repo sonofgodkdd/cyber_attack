@@ -1,0 +1,21 @@
+SQL Injection Vulnerability in 'Yahoo! Contributors Network' 
+Mohit Kumar
+
+Yahoo! Contributors Network (contributor.yahoo.com), the network of authors that generated the contents such as photographs, videos, articles and their knowledge to more than 600 million monthly visitors, was vulnerable to a Time based Blind SQL Injection vulnerability. 
+Behrouz Sadeghipour, a security researcher reported the Blind SQLi vulnerability in Yahoo!’s website that could be exploited by hackers to steal users’ and authors’ database, containing their personal information.
+Behrouz reported this flaw to Yahoo! Security team few months back. The team responded positively and within a month they patched the vulnerability successfully. Unfortunately after that Yahoo! announced to shut down ‘Yahoo Contributors Network’ due to its decreasing popularity and removed all the contents from the web, except some of the “work for hire” content may remain on the web. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+The critical vulnerability was able to expose the database which carried sensitive and personal information of those authors who was participating and getting paid from their work. While looking around the website, the researcher came across two vulnerabilities in the following URL/files:
+http://contributor.yahoo.com/forum/search/?
+http://contributor.yahoo.com//library/payments/data-table/?
+The vulnerability allows remote attackers to inject own SQL commands to breach the database of the above vulnerable URLs and get access to the users’ personal data.
+In 2012, Yahoo! Contributors Network was hacked by a group of hackers called “D33DS Company” and “Owned and Exposed” data breach exposed stolen 453,491 email addresses and passwords online. Reportedly, at that time hackers used the same technique i.e. SQL Injection attack to carry out the data breach.
+SQL INJECTION AND ITS IMPACTS
+SQL Injection (SQLi) attacks have been around for over a decade. It involves inserting a malformed SQL query into an application via client-side input. SQLi vulnerabilities are ranked as Critical one because if it is used by Hackers, it will cause a database breach which will lead to confidential information leakage.
+In fact, according to Veracode’s 2014 State of Security Software Report , SQL injection vulnerabilities still plague 32% of all web applications.
+“We are currently seeing more than 50,000 attacks per day that fall into our SQL Injection categorization. Most of them are automated and try to compromise well known vulnerabilities in common CMS’s and web projects (Joomla, WordPress, vBulletin, etc),” the security researcher, David Dede, of the security firm Sucuri wrote in a blog post.
+SQL INJECTION CONTINUE TO GROW
+The analysis carried out by the security firms shows that the number of SQL injection attempts continue to grow as the time passes on.
+“If we drill down into our data and hook it up to a geo locator we can also see that the attacks come from everywhere. Most people tend to think that Russia, Brazil, Romania and a few other countries are the “bad” sources, but for SQL injection, the top attackers come from the USA, India, Indonesia and China,” the researcher added.
+SQL Injections are a real threat and are being actively attacked and exploited by hackers every day. “If you are a developer you should be leveraging the OWASP SQL Injection Prevention Cheat Sheet at a minimum.”
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

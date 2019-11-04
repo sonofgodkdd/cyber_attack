@@ -1,0 +1,22 @@
+Whoops, Turns Out 2.5 Million More Americans Were Affected By Equifax Breach
+Swati Khandelwal
+
+Equifax data breach was bigger than initially reported, exposing highly sensitive information of more Americans than previously revealed.
+Credit rating agency Equifax says an additional 2.5 million U.S. consumers were also impacted by the massive data breach the company disclosed last month, bringing the total possible victims to 145.5 million from 143 million.
+Equifax last month announced that it had suffered a massive data breach that exposed highly sensitive data of hundreds of millions of its customers, which includes names, social security numbers, dates of birth and addresses.
+In addition, credit card information for nearly 209,000 customers was also stolen, as well as certain documents with personally identifying information (PII) for approximately 182,000 Equifax consumers.
+The breach was due to a critical vulnerability (CVE-2017-5638) in Apache Struts 2 framework, which Apache patched over two months earlier (on March 6) of the security incident.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Equifax was even informed by the US-CERT on March 8 to patch the flaw, but the company failed to identified or patched its systems against the issue, Equifax ex-CEO Richard Smith said in a statement [PDF] to the House Committee on Energy and Commerce.
+"It appears that the breach occurred because of both human error and technology failures," Smith said. "Equifax's information security department also ran scans that should have identified any systems that were vulnerable to the Apache Struts issue...Unfortunately, however, the scans did not identify the Apache Struts vulnerability."
+In the wake of the security incident, the company hired FireEye-owned security firm Mandiant to investigate the breach, which has now concluded the forensic portion of its investigation and plans to release the results "promptly."
+Mandiant said a total of 145.5 million consumers might now potentially have been impacted by the breach, which is 2.5 million more than previously estimated. However, the firm did not identify any evidence of "new attacker activity."
+"Mandiant did not identify any evidence of additional or new attacker activity or any access to new databases or tables," Equifax said in a Monday press release. 
+"Instead, this additional population of consumers was confirmed during Mandiant's completion of the remaining investigative tasks and quality assurance procedures built into the investigative process."
+The forensic investigation also found that approximately 8,000 Canadian consumers were also impacted, which is much lower than the 100,000 initially estimated figure by the credit rating and reporting firm.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+However, Equifax said that this figure "was preliminary and did not materialize."
+"I want to apologize again to all impacted consumers. As this important phase of our work is now completed, we continue to take numerous steps to review and enhance our cybersecurity practices," newly appointed interim CEO, Paulino do Rego Barros, Jr. said.
+"We also continue to work closely with our internal team and outside advisors to implement and accelerate long-term security improvements."
+Equifax, which maintains data on over 820 million consumers and over 91 million businesses worldwide, also said the company would update its own notification by October 8 for its customers who want to check if they were among those affected by the data breach.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

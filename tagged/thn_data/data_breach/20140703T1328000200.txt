@@ -1,0 +1,20 @@
+POS Machine Vendor Warns of Possible Payment Card Breach at Restaurants
+Swati Khandelwal
+
+Due to the better track inventory and accuracy of records, Point-of-sale (POS) systems are being used in most of the industries including restaurants, lodging, entertainment, and museums around the world. It can be easily set-up depending on the nature of the business.
+Despite that, Point-of-sale (POS) systems are critical components in any retail environment and users are not aware of the emerging threats it poses in near future. So, it is one of the apparent target for cybercriminals and the recent security breach at Information Systems & Suppliers (ISS) proves this.
+Information Systems & Suppliers (ISS) Inc., the vendor of point-of-sale (POS) electronic cash registers and security systems used by restaurants has warned its customers that it may have experienced a payment card breach.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+HACKERS COMPROMISED VENDOR’S LogMeIn SERVICE
+The company on June 12 notified restaurant customers of its remote-access service, the popular LogMeIn, had been compromised that may have exposed credit card details linked to POS transactions conducted between Feb. 28 and April 18 of this year.
+"We recently discovered that our Log-Me-In account was breached on February 28, March 5 and April 18, 2014," Thomas Potter, president of Information Systems & Suppliers (ISS) Inc., states in the letter. "We have reason to believe that the data accessed could include credit card information from any cards used by your customers between these dates."
+Log-Me-In is a remote access and systems management service founded in 2003, which helps remote control, systems management, business collaboration, along with file sharing and data backup. The company is based in Boston, Massachusetts.
+ATTACK VECTOR: PHISHING
+It is believed that the hacker possibly launch a phishing attack against a company's employees in an effort to steal the company's remote access credentials.
+"We regret this happened, are sorry for any difficulties it may cause, and have taken additional action to protect this from happening again," Potter said.
+The company didn’t mention that how many restaurants or credit card accounts were at risk, but it believes that not all and FuturePOS customers are affected in the credit card breach. "We tried to get out ahead of this thing and do what was right by our customers," he says, adding that the firm had so far not seen any direct evidence of card information being misused.
+To be on the safer side in near future, the company has changed its “Log-Me-In” credentials, as well as added a secondary password protection to protect themselves from other malicious activities, and is in the process of running virus scans at all of its sites.
+RISING THREAT TO POS SYSTEMS
+Due to lack of concern and security measures, point-of-sale (POS) systems have become an attractive target for cybercriminals. Attackers can also steal the information by leveraging the weakness in the point-of-sale (POS) environment such as unprotected memory, unencrypted network transmission, poorly encrypted disk storage, card reader interface, or compromised pinpad device.
+In past year, we have seen many massive data breaches targeting POS machines such as the TARGET data breach occurred during the last Christmas holiday in which over 40 million Credit & Debit cards were stolen, and multiple retailers including Neiman Marcus, Michaels Store involving the heist of possibly 110 million Credit-Debit cards, and personal information.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

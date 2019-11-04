@@ -1,0 +1,30 @@
+Biggest Free Hosting Company Hacked; 13.5 Million Plaintext Passwords Leaked
+Mohit Kumar
+
+The world’s most popular Free Web Hosting company 000Webhost has suffered a major data breach, exposing more than 13.5 Million of its customers' personal records.
+The stolen data includes usernames, passwords in plain text, email addresses, IP addresses and last names of around 13.5 Million of 000Webhost's customers.
+According to a recent report published by Forbes, the Free Hosting service provider 000Webhost was hacked in March 2015 by an anonymous hacker.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+In a post on its official Facebook page, the hosting company has acknowledged the data breach and posted the following statement:
+"We have witnessed a database breach on our main server. A hacker used an exploit in old PHP version to upload some files, gaining access to our systems. Although the whole database has been compromised, we are mostly concerned about the leaked client information."
+The stolen data was obtained by Troy Hunt, an Australian security researcher, who received the data from an anonymous source and also confirmed the authenticity of the data.
+"By now there's no remaining doubt that the breach is legitimate and that impacted users will have to know," Hunt wrote in a blog post published Wednesday. "I'd prefer that 000webhost be the ones to notify [its customer] though."
+000Webhost Ignored Data Breach Warnings Continuously
+000Webhost web Hosting company repeatedly failed to pay attention to the early warnings by Troy Hunt and the Forbes journalist, but the company ultimately decided to ignore them.
+What's even Worse?
+The Web Hosting company did not even follow fundamental and standard security practices to ensure the security of its customers.
+Data breaches are common these days. Just a few days back, we reported about a serious data breach at TalkTalk – the biggest phone and broadband provider in the UK that put the personal data of its 4 Million customers at risk.
+But, What could a Security Breach lead to?
+Severe damage to company's reputation
+Loss of consumer trust
+Thousands of dollars in penalties and fines
+Personal data loss cost infinite
+Temporary or Permanent Closure
+Note: At the time of writing, 000webhost.com website is temporarily down.
+What Should You Do Now?
+For security reasons, the team at Free Hosting service has changed all customers' passwords to the random values and implemented encryption, without giving any direct notice to its affected customers.
+That means, if you are one of those 13.5 Million 000webhost clients, then you need to follow the password reset process to generate a new password in order to access your account.
+However, 000Webhost said: "We removed all illegally uploaded pages as soon as we became aware of the [data] breach. Next, we changed all the passwords and increased their encryption to avoid such mishaps in the future."
+Storing customers passwords in plain text, ignoring early warnings, and then implementing encryption to prevent further damages.
+Shall I clap for that?
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

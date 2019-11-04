@@ -1,0 +1,30 @@
+NCIIPC: It's Time to Step Forward And Protect Our Critical Infrastructures from Cyber Attacks
+Mohit Kumar
+
+The IT threat landscape has changed dramatically over the last three-four years.
+With no shortage of threat actors, from hacktivists to nation-states, criminals to terrorists, all of them are now after something new.
+It's no more just about stealing your money, credit cards and defacing websites, as now they are after the intellectual property, mass attacks and most importantly, our critical infrastructures.
+We have long-discussed nightmare scenarios of cyber attacks against nation's critical infrastructure, but now these scenarios have come to the real world, and we have seen many such incidents in the past years.
+The latest example is cyber attacks against Ukrainian power grid. Just two weeks back, Ukraine's national power company Ukrenergo confirmed that electricity outage on 17-18th December last year was caused by a cyber attack.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Such sophisticated cyber attacks have revealed the extent of vulnerabilities in the systems that are operating the most critical sectors in a country.
+Around 13 years ago, the Indian government established the Computer Emergency Response Team (CERT-In), and just like CERTs in other nations; it is responsible for collecting and sharing reports on cyber attacks against non-critical systems.
+Every minute, we see about half a million attack attempts that are happening in cyberspace.
+But, we are living in a dramatically fast changing world and unfortunately, which now includes threats not only against people, places, and information but also against strategic sectors and critical infrastructure of a nation, for which most organizations were never prepared for.
+In order to address cybersecurity of critical infrastructure and evolve related practices, policies, and procedures to protect our most critical properties, the government set up a special body in 2014, named NCIIPC.
+NCIIPC — National Critical Information Infrastructure Protection Centre — works under the country's technical Intelligence Agency, NTRO and vowed to work with public and private sectors to identify the nation's most critical assets and systems, and help them to create a foolproof firewall around these networks and overall risk management strategies.
+Just last week, NCIIPC organized an event to celebrate its third anniversary of its foundation day, and I got an opportunity to attend the event and represent The Hacker News, among others, including — cyber security experts, policymakers, industry leaders, Academia and Government representatives.
+The event aimed to provide a platform for all stakeholders of the CII ecosystem to converge, deliberate and formalize action plans for optimizing and improving protection of the vast array of CII deployed across the nation.
+ Here's a brief of last week's main events, in case you've missed them:
+The event was inaugurated with the welcome address from Mr. Alok Joshi, Chairman NTRO, who briefly said that the cybersecurity threats are becoming more severe over time. 
+Attacks are happening now… but not only this, it is constantly changing and, in the case of cyber, the threats are becoming ever more sophisticated and insidious.
+And It’s true, everything is under attack… from highly critical infrastructures to medical devices.
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Mr. Joshi’s talk was followed by Dr.Arvind Gupta, Deputy National Security Advisor (NSA), Chief guest for the event, who primarily focused his talk on critical issues originated due to a massive number of unreported cyber-attacks.
+He also showed support for the need of developing capabilities to strengthen cybersecurity research and development (R&D) community, which must include researchers, industry experts, and academia.
+The event also witnessed insightful keynotes including Dr.Gulshan Rai, India’s first National Cyber Security Coordinator and Dr. Sanjay Bahl, Director General CERT-In.
+Both officials collaboratively said that NCIIPC is intended to promote collaboration and information sharing between government and industry to facilitate safe, secure and resilient Information Infrastructure for Critical Sectors of the Nation.
+Moreover, delegates also discussed the security of Internet of Things -- the next generation critical Infrastructure.
+Just as critical infrastructure is essential for everyday living, the rapidly growing "Internet of Things" is changing the way we use technology and helping people live more efficiently.
+So, it has been concluded that to prevent our critical assets from sophisticated cyber attacks, we and organizations like NCIIPC, need to work together to identify the list of infrastructures that need special protection and know, who are after them.... waiting for opportunities to harm nation's economy and steal our secrets.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.

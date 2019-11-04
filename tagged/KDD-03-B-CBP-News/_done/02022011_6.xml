@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<KddTask>
+<TEXT><![CDATA[
+Largest Weapons Seizure to Date by CBP Officers at Del Rio Port
+(Wednesday, February 02, 2011)
+Del Rio, Texas  - U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday seized 14 assault rifles, a shotgun, a pistol, 22 assorted gun magazines and 25 rounds of ammunition from a vehicle driven by a Ft. Worth woman.
+The seizure occurred on Feb. 1, during an outbound (southbound) examination at the Del Rio International Bridge. A CBP officer referred a 2001 BMW 740 IL driven by a 22-year-old female U.S. citizen from Ft. Worth, Texas for a secondary examination. During the examination, CBP officers discovered a cache of weapons and ammunition in the vehicle trunk, including 14 assault rifles of various calibers, but mostly of the AK-47, AR-15 variety, one Saiga 12-gauge shotgun with silencer, a pistol, a total of 22 gun magazines of various calibers, including two drum-style magazines, 25 rounds of 5.56mm ammunition and a rifle sling. CBP officers seized the vehicle, all the weapons and weapons equipment.
+CBP officers turned the driver over to U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents for further investigation.
+"This is the largest weapons seizure at Del Rio port of entry so far for Fiscal Year 2011 and one of the largest ever in the history of the port," said Michael Perez, CBP port director, Del Rio. "This seizure reinforces the commitment of CBP together with our DHS partners to strengthen our border security by preventing the movement of assault weapons and ammunition to Mexico."
+]]></TEXT>
+<TAGS>
+<person id="p0" start="36" end="64" text="CBP Officers at Del Rio Port" TYPE="BAR" />
+<person id="p1" start="114" end="236" text="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" TYPE="BAR" />
+<person id="p2" start="363" end="380" text="a Ft. Worth woman" TYPE="NOM" />
+<person id="p3" start="495" end="508" text="A CBP officer" TYPE="NOM" />
+<person id="p5" start="655" end="667" text="CBP officers" TYPE="BAR" />
+<person id="p6" start="1011" end="1023" text="CBP officers" TYPE="BAR" />
+<person id="p7" start="1083" end="1095" text="CBP officers" TYPE="BAR" />
+<person id="p8" start="1103" end="1113" text="the driver" TYPE="NOM" />
+<person id="p9" start="1122" end="1220" text="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" TYPE="BAR" />
+<person id="p10" start="1400" end="1441" text="Michael Perez, CBP port director, Del Rio" TYPE="APP" />
+<person id="p11" start="1400" end="1413" text="Michael Perez" TYPE="NAM" />
+<person id="p12" start="1415" end="1441" text="CBP port director, Del Rio" TYPE="BAR" />
+<person id="p4" start="546" end="601" text="a 22-year-old female U.S. citizen from Ft. Worth, Texas" TYPE="NOM" />
+<organization id="o0" start="36" end="39" text="CBP" TYPE="NAMPRE" />
+<organization id="o1" start="114" end="153" text="U.S. Customs and Border Protection (CBP" TYPE="NAMPRE" />
+<organization id="o2" start="150" end="153" text="CBP" TYPE="NAM" />
+<organization id="o3" start="497" end="500" text="CBP" TYPE="NAMPRE" />
+<organization id="o4" start="655" end="658" text="CBP" TYPE="NAMPRE" />
+<organization id="o5" start="1011" end="1014" text="CBP" TYPE="NAMPRE" />
+<organization id="o6" start="1083" end="1086" text="CBP" TYPE="NAMPRE" />
+<organization id="o7" start="1122" end="1204" text="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI" TYPE="NAM" />
+<organization id="o8" start="1122" end="1162" text="U.S. Immigration and Customs Enforcement" TYPE="NAMPRE" />
+<organization id="o9" start="1197" end="1204" text="ICE-HSI" TYPE="NAM" />
+<organization id="o10" start="1197" end="1200" text="ICE" TYPE="NAMPRE" />
+<organization id="o11" start="1415" end="1418" text="CBP" TYPE="NAMPRE" />
+<organization id="o12" start="1486" end="1489" text="CBP" TYPE="NAM" />
+<organization id="o13" start="1504" end="1507" text="our" TYPE="PRO" />
+<organization id="o14" start="1504" end="1520" text="our DHS partners" TYPE="NOM" />
+<organization id="o15" start="1508" end="1511" text="DHS" TYPE="NAMPRE" />
+<geographical-political id="g0" start="96" end="110" text="Del Rio, Texas" TYPE="NAM" />
+<geographical-political id="g1" start="105" end="110" text="Texas" TYPE="NAM" />
+<geographical-political id="g2" start="171" end="178" text="Del Rio" TYPE="NAMPRE" />
+<geographical-political id="g3" start="365" end="374" text="Ft. Worth" TYPE="NAMPRE" />
+<geographical-political id="g4" start="567" end="571" text="U.S." TYPE="NAMPRE" />
+<geographical-political id="g5" start="585" end="601" text="Ft. Worth, Texas" TYPE="NAM" />
+<geographical-political id="g6" start="596" end="601" text="Texas" TYPE="NAM" />
+<geographical-political id="g7" start="1288" end="1295" text="Del Rio" TYPE="NAMPRE" />
+<geographical-political id="g8" start="1434" end="1441" text="Del Rio" TYPE="NAM" />
+<geographical-political id="g9" start="1619" end="1625" text="Mexico" TYPE="NAM" />
+<geographical-political id="g10" start="1535" end="1538" text="our" TYPE="PRO" />
+<location id="l0" start="1539" end="1545" text="border" TYPE="BAR" />
+<falicity id="f0" start="52" end="64" text="Del Rio Port" TYPE="NAM" />
+<falicity id="f1" start="167" end="192" text="the Del Rio port of entry" TYPE="NOM" />
+<falicity id="f2" start="461" end="493" text="the Del Rio International Bridge" TYPE="NAM" />
+<falicity id="f4" start="1288" end="1309" text="Del Rio port of entry" TYPE="NOM" />
+<falicity id="f5" start="1384" end="1392" text="the port" TYPE="NOM" />
+<falicity id="f6" start="1419" end="1423" text="port" TYPE="BAR" />
+<head id="h0" start="40" end="48" text="Officers" />
+<head id="h1" start="36" end="39" text="CBP" />
+<head id="h2" start="52" end="64" text="Del Rio Port" />
+<head id="h3" start="96" end="103" text="Del Rio" />
+<head id="h4" start="105" end="110" text="Texas" />
+<head id="h5" start="155" end="163" text="officers" />
+<head id="h6" start="114" end="148" text="U.S. Customs and Border Protection" />
+<head id="h7" start="150" end="153" text="CBP" />
+<head id="h8" start="179" end="183" text="port" />
+<head id="h9" start="171" end="178" text="Del Rio" />
+<head id="h10" start="375" end="380" text="woman" />
+<head id="h11" start="365" end="374" text="Ft. Worth" />
+<head id="h12" start="465" end="493" text="Del Rio International Bridge" />
+<head id="h13" start="501" end="508" text="officer" />
+<head id="h14" start="497" end="500" text="CBP" />
+<head id="h15" start="572" end="579" text="citizen" />
+<head id="h16" start="567" end="571" text="U.S." />
+<head id="h17" start="585" end="594" text="Ft. Worth" />
+<head id="h18" start="596" end="601" text="Texas" />
+<head id="h19" start="659" end="667" text="officers" />
+<head id="h20" start="655" end="658" text="CBP" />
+<head id="h21" start="1015" end="1023" text="officers" />
+<head id="h22" start="1011" end="1014" text="CBP" />
+<head id="h23" start="1087" end="1095" text="officers" />
+<head id="h24" start="1083" end="1086" text="CBP" />
+<head id="h25" start="1107" end="1113" text="driver" />
+<head id="h26" start="1163" end="1195" text="Homeland Security Investigations" />
+<head id="h27" start="1122" end="1162" text="U.S. Immigration and Customs Enforcement" />
+<head id="h28" start="1201" end="1204" text="HSI" />
+<head id="h29" start="1197" end="1200" text="ICE" />
+<head id="h30" start="1214" end="1220" text="agents" />
+<head id="h31" start="1296" end="1300" text="port" />
+<head id="h32" start="1288" end="1295" text="Del Rio" />
+<head id="h33" start="1388" end="1392" text="port" />
+<head id="h34" start="1400" end="1413" text="Michael Perez" />
+<head id="h35" start="1424" end="1432" text="director" />
+<head id="h36" start="1415" end="1418" text="CBP" />
+<head id="h37" start="1434" end="1441" text="Del Rio" />
+<head id="h38" start="1419" end="1423" text="port" />
+<head id="h39" start="1486" end="1489" text="CBP" />
+<head id="h40" start="1504" end="1507" text="our" />
+<head id="h41" start="1512" end="1520" text="partners" />
+<head id="h42" start="1508" end="1511" text="DHS" />
+<head id="h43" start="1619" end="1625" text="Mexico" />
+<head id="h44" start="1539" end="1545" text="border" />
+<head id="h45" start="1535" end="1538" text="our" />
+<name id="n0" start="36" end="39" text="CBP" />
+<name id="n1" start="52" end="64" text="Del Rio Port" />
+<name id="n2" start="96" end="103" text="Del Rio" />
+<name id="n3" start="105" end="110" text="Texas" />
+<name id="n4" start="114" end="148" text="U.S. Customs and Border Protection" />
+<name id="n5" start="150" end="153" text="CBP" />
+<name id="n6" start="171" end="178" text="Del Rio" />
+<name id="n7" start="365" end="374" text="Ft. Worth" />
+<name id="n8" start="465" end="493" text="Del Rio International Bridge" />
+<name id="n9" start="497" end="500" text="CBP" />
+<name id="n10" start="567" end="571" text="U.S." />
+<name id="n11" start="585" end="594" text="Ft. Worth" />
+<name id="n12" start="596" end="601" text="Texas" />
+<name id="n13" start="655" end="658" text="CBP" />
+<name id="n14" start="1011" end="1014" text="CBP" />
+<name id="n15" start="1083" end="1086" text="CBP" />
+<name id="n16" start="1163" end="1195" text="Homeland Security Investigations" />
+<name id="n17" start="1122" end="1162" text="U.S. Immigration and Customs Enforcement" />
+<name id="n18" start="1201" end="1204" text="HSI" />
+<name id="n19" start="1197" end="1200" text="ICE" />
+<name id="n20" start="1288" end="1295" text="Del Rio" />
+<name id="n21" start="1400" end="1413" text="Michael Perez" />
+<name id="n22" start="1415" end="1418" text="CBP" />
+<name id="n23" start="1434" end="1441" text="Del Rio" />
+<name id="n24" start="1486" end="1489" text="CBP" />
+<name id="n25" start="1508" end="1511" text="DHS" />
+<name id="n26" start="1619" end="1625" text="Mexico" />
+<located-mention id="lo0" start="36" end="64" text="CBP Officers at Del Rio Port" TYPE="Preposition" />
+<located-mention id="lo1" start="114" end="236" text="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" TYPE="Preposition" />
+<employment-mention id="e0" start="36" end="48" text="CBP Officers" TYPE="PreMod" />
+<employment-mention id="e2" start="114" end="236" text="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" TYPE="PreMod" />
+<employment-mention id="e3" start="495" end="508" text="A CBP officer" TYPE="PreMod" />
+<employment-mention id="e4" start="655" end="667" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e5" start="1011" end="1023" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e6" start="1083" end="1095" text="CBP officers" TYPE="PreMod" />
+<employment-mention id="e7" start="1122" end="1220" text="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" TYPE="PreMod" />
+<employment-mention id="e8" start="1415" end="1441" text="CBP port director, Del Rio" TYPE="PreMod" />
+<CRRE id="C0" start="363" end="380" text="a Ft. Worth woman" TYPE="PreMod" />
+<CRRE id="C1" start="546" end="601" text="a 22-year-old female U.S. citizen from Ft. Worth, Texas" TYPE="PreMod" />
+<CRRE id="C2" start="546" end="601" text="a 22-year-old female U.S. citizen from Ft. Worth, Texas" TYPE="Preposition" />
+<entity_link id="en0" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="o0" toText="CBP" />
+<entity_link id="en1" fromID="o2" fromText="CBP" toID="o1" toText="U.S. Customs and Border Protection (CBP" />
+<entity_link id="en2" fromID="f1" fromText="the Del Rio port of entry" toID="f0" toText="Del Rio Port" />
+<entity_link id="en3" fromID="g2" fromText="Del Rio" toID="g0" toText="Del Rio, Texas" />
+<entity_link id="en5" fromID="g5" fromText="Ft. Worth, Texas" toID="g3" toText="Ft. Worth" />
+<entity_link id="en6" fromID="g6" fromText="Texas" toID="g1" toText="Texas" />
+<entity_link id="en7" fromID="o4" fromText="CBP" toID="o3" toText="CBP" />
+<entity_link id="en8" fromID="p5" fromText="CBP officers" toID="p1" toText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" />
+<entity_link id="en9" fromID="p6" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<entity_link id="en10" fromID="o5" fromText="CBP" toID="o4" toText="CBP" />
+<entity_link id="en11" fromID="p7" fromText="CBP officers" toID="p6" toText="CBP officers" />
+<entity_link id="en12" fromID="o6" fromText="CBP" toID="o5" toText="CBP" />
+<entity_link id="en14" fromID="o9" fromText="ICE-HSI" toID="o7" toText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI" />
+<entity_link id="en15" fromID="o10" fromText="ICE" toID="o8" toText="U.S. Immigration and Customs Enforcement" />
+<entity_link id="en16" fromID="f4" fromText="Del Rio port of entry" toID="f1" toText="the Del Rio port of entry" />
+<entity_link id="en17" fromID="g7" fromText="Del Rio" toID="g2" toText="Del Rio" />
+<entity_link id="en18" fromID="f5" fromText="the port" toID="f4" toText="Del Rio port of entry" />
+<entity_link id="en19" fromID="p11" fromText="Michael Perez" toID="p10" toText="Michael Perez, CBP port director, Del Rio" />
+<entity_link id="en20" fromID="p12" fromText="CBP port director, Del Rio" toID="p11" toText="Michael Perez" />
+<entity_link id="en21" fromID="o11" fromText="CBP" toID="o6" toText="CBP" />
+<entity_link id="en22" fromID="g8" fromText="Del Rio" toID="g7" toText="Del Rio" />
+<entity_link id="en23" fromID="o13" fromText="our" toID="o12" toText="CBP" />
+<entity_link id="en25" fromID="g10" fromText="our" toID="g4" toText="U.S." />
+<entity_link id="en26" fromID="p4" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="p2" toText="a Ft. Worth woman" />
+<entity_link id="en27" fromID="p8" fromText="the driver" toID="p4" toText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" />
+<head_link id="he0" fromID="p0" fromText="CBP Officers at Del Rio Port" toID="h0" toText="Officers" />
+<head_link id="he1" fromID="o0" fromText="CBP" toID="h1" toText="CBP" />
+<head_link id="he2" fromID="f0" fromText="Del Rio Port" toID="h2" toText="Del Rio Port" />
+<head_link id="he3" fromID="g0" fromText="Del Rio, Texas" toID="h3" toText="Del Rio" />
+<head_link id="he4" fromID="g1" fromText="Texas" toID="h4" toText="Texas" />
+<head_link id="he5" fromID="p1" fromText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" toID="h5" toText="officers" />
+<head_link id="he6" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="h6" toText="U.S. Customs and Border Protection" />
+<head_link id="he7" fromID="o2" fromText="CBP" toID="h7" toText="CBP" />
+<head_link id="he8" fromID="f1" fromText="the Del Rio port of entry" toID="h8" toText="port" />
+<head_link id="he9" fromID="g2" fromText="Del Rio" toID="h9" toText="Del Rio" />
+<head_link id="he10" fromID="p2" fromText="a Ft. Worth woman" toID="h10" toText="woman" />
+<head_link id="he11" fromID="g3" fromText="Ft. Worth" toID="h11" toText="Ft. Worth" />
+<head_link id="he12" fromID="f2" fromText="the Del Rio International Bridge" toID="h12" toText="Del Rio International Bridge" />
+<head_link id="he13" fromID="p3" fromText="A CBP officer" toID="h13" toText="officer" />
+<head_link id="he14" fromID="o3" fromText="CBP" toID="h14" toText="CBP" />
+<head_link id="he16" fromID="g4" fromText="U.S." toID="h16" toText="U.S." />
+<head_link id="he17" fromID="g5" fromText="Ft. Worth, Texas" toID="h17" toText="Ft. Worth" />
+<head_link id="he18" fromID="g6" fromText="Texas" toID="h18" toText="Texas" />
+<head_link id="he19" fromID="p5" fromText="CBP officers" toID="h19" toText="officers" />
+<head_link id="he20" fromID="o4" fromText="CBP" toID="h20" toText="CBP" />
+<head_link id="he21" fromID="p6" fromText="CBP officers" toID="h21" toText="officers" />
+<head_link id="he22" fromID="o5" fromText="CBP" toID="h22" toText="CBP" />
+<head_link id="he23" fromID="p7" fromText="CBP officers" toID="h23" toText="officers" />
+<head_link id="he24" fromID="o6" fromText="CBP" toID="h24" toText="CBP" />
+<head_link id="he25" fromID="p8" fromText="the driver" toID="h25" toText="driver" />
+<head_link id="he26" fromID="o7" fromText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI" toID="h26" toText="Homeland Security Investigations" />
+<head_link id="he27" fromID="o8" fromText="U.S. Immigration and Customs Enforcement" toID="h27" toText="U.S. Immigration and Customs Enforcement" />
+<head_link id="he28" fromID="o9" fromText="ICE-HSI" toID="h28" toText="HSI" />
+<head_link id="he29" fromID="o10" fromText="ICE" toID="h29" toText="ICE" />
+<head_link id="he30" fromID="p9" fromText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" toID="h30" toText="agents" />
+<head_link id="he31" fromID="f4" fromText="Del Rio port of entry" toID="h31" toText="port" />
+<head_link id="he33" fromID="g7" fromText="Del Rio" toID="h32" toText="Del Rio" />
+<head_link id="he34" fromID="f5" fromText="the port" toID="h33" toText="port" />
+<head_link id="he35" fromID="p11" fromText="Michael Perez" toID="h34" toText="Michael Perez" />
+<head_link id="he36" fromID="p12" fromText="CBP port director, Del Rio" toID="h35" toText="director" />
+<head_link id="he37" fromID="o11" fromText="CBP" toID="h36" toText="CBP" />
+<head_link id="he38" fromID="g8" fromText="Del Rio" toID="h37" toText="Del Rio" />
+<head_link id="he39" fromID="f6" fromText="port" toID="h38" toText="port" />
+<head_link id="he40" fromID="o12" fromText="CBP" toID="h39" toText="CBP" />
+<head_link id="he41" fromID="o13" fromText="our" toID="h40" toText="our" />
+<head_link id="he42" fromID="o14" fromText="our DHS partners" toID="h41" toText="partners" />
+<head_link id="he43" fromID="o15" fromText="DHS" toID="h42" toText="DHS" />
+<head_link id="he44" fromID="g9" fromText="Mexico" toID="h43" toText="Mexico" />
+<head_link id="he45" fromID="l0" fromText="border" toID="h44" toText="border" />
+<head_link id="he46" fromID="g10" fromText="our" toID="h45" toText="our" />
+<head_link id="he32" fromID="p4" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="h15" toText="citizen" />
+<name_link id="na0" fromID="o0" fromText="CBP" toID="n0" toText="CBP" />
+<name_link id="na1" fromID="f0" fromText="Del Rio Port" toID="n1" toText="Del Rio Port" />
+<name_link id="na2" fromID="g0" fromText="Del Rio, Texas" toID="n2" toText="Del Rio" />
+<name_link id="na3" fromID="g1" fromText="Texas" toID="n3" toText="Texas" />
+<name_link id="na4" fromID="o1" fromText="U.S. Customs and Border Protection (CBP" toID="n4" toText="U.S. Customs and Border Protection" />
+<name_link id="na5" fromID="o2" fromText="CBP" toID="n5" toText="CBP" />
+<name_link id="na6" fromID="g2" fromText="Del Rio" toID="n6" toText="Del Rio" />
+<name_link id="na7" fromID="g3" fromText="Ft. Worth" toID="n7" toText="Ft. Worth" />
+<name_link id="na8" fromID="f2" fromText="the Del Rio International Bridge" toID="n8" toText="Del Rio International Bridge" />
+<name_link id="na9" fromID="o3" fromText="CBP" toID="n9" toText="CBP" />
+<name_link id="na10" fromID="g4" fromText="U.S." toID="n10" toText="U.S." />
+<name_link id="na11" fromID="g5" fromText="Ft. Worth, Texas" toID="n11" toText="Ft. Worth" />
+<name_link id="na12" fromID="g6" fromText="Texas" toID="n12" toText="Texas" />
+<name_link id="na13" fromID="o4" fromText="CBP" toID="n13" toText="CBP" />
+<name_link id="na14" fromID="o5" fromText="CBP" toID="n14" toText="CBP" />
+<name_link id="na15" fromID="o6" fromText="CBP" toID="n15" toText="CBP" />
+<name_link id="na16" fromID="o7" fromText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI" toID="n16" toText="Homeland Security Investigations" />
+<name_link id="na17" fromID="o8" fromText="U.S. Immigration and Customs Enforcement" toID="n17" toText="U.S. Immigration and Customs Enforcement" />
+<name_link id="na18" fromID="o9" fromText="ICE-HSI" toID="n18" toText="HSI" />
+<name_link id="na19" fromID="o10" fromText="ICE" toID="n19" toText="ICE" />
+<name_link id="na20" fromID="g7" fromText="Del Rio" toID="n20" toText="Del Rio" />
+<name_link id="na21" fromID="p11" fromText="Michael Perez" toID="n21" toText="Michael Perez" />
+<name_link id="na22" fromID="o11" fromText="CBP" toID="n22" toText="CBP" />
+<name_link id="na23" fromID="g8" fromText="Del Rio" toID="n23" toText="Del Rio" />
+<name_link id="na24" fromID="o12" fromText="CBP" toID="n24" toText="CBP" />
+<name_link id="na25" fromID="o15" fromText="DHS" toID="n25" toText="DHS" />
+<name_link id="na26" fromID="g9" fromText="Mexico" toID="n26" toText="Mexico" />
+<relation_link1 id="r0" fromID="e0" fromText="CBP Officers" toID="p0" toText="CBP Officers at Del Rio Port" />
+<relation_link1 id="r1" fromID="lo0" fromText="CBP Officers at Del Rio Port" toID="p0" toText="CBP Officers at Del Rio Port" />
+<relation_link1 id="r2" fromID="e2" fromText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" toID="p1" toText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" />
+<relation_link1 id="r3" fromID="lo1" fromText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" toID="p1" toText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" />
+<relation_link1 id="r4" fromID="e3" fromText="A CBP officer" toID="p3" toText="A CBP officer" />
+<relation_link1 id="r5" fromID="e4" fromText="CBP officers" toID="p5" toText="CBP officers" />
+<relation_link1 id="r6" fromID="e5" fromText="CBP officers" toID="p6" toText="CBP officers" />
+<relation_link1 id="r7" fromID="e6" fromText="CBP officers" toID="p7" toText="CBP officers" />
+<relation_link1 id="r8" fromID="e7" fromText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" toID="p9" toText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" />
+<relation_link1 id="r9" fromID="e8" fromText="CBP port director, Del Rio" toID="p12" toText="CBP port director, Del Rio" />
+<relation_link1 id="r10" fromID="C0" fromText="a Ft. Worth woman" toID="p2" toText="a Ft. Worth woman" />
+<relation_link1 id="r11" fromID="C1" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="p4" toText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" />
+<relation_link1 id="r12" fromID="C2" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="p4" toText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" />
+<relation_link2 id="re0" fromID="e0" fromText="CBP Officers" toID="o0" toText="CBP" />
+<relation_link2 id="re1" fromID="lo0" fromText="CBP Officers at Del Rio Port" toID="f0" toText="Del Rio Port" />
+<relation_link2 id="re2" fromID="e2" fromText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" toID="o1" toText="U.S. Customs and Border Protection (CBP" />
+<relation_link2 id="re3" fromID="lo1" fromText="U.S. Customs and Border Protection (CBP) officers at the Del Rio port of entry conducting outbound examinations on Tuesday" toID="f1" toText="the Del Rio port of entry" />
+<relation_link2 id="re4" fromID="e3" fromText="A CBP officer" toID="o3" toText="CBP" />
+<relation_link2 id="re5" fromID="e4" fromText="CBP officers" toID="o4" toText="CBP" />
+<relation_link2 id="re6" fromID="e5" fromText="CBP officers" toID="o5" toText="CBP" />
+<relation_link2 id="re7" fromID="e6" fromText="CBP officers" toID="o6" toText="CBP" />
+<relation_link2 id="re8" fromID="e7" fromText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI) special agents" toID="o7" toText="U.S. Immigration and Customs Enforcement-Homeland Security Investigations (ICE-HSI" />
+<relation_link2 id="re9" fromID="e8" fromText="CBP port director, Del Rio" toID="o11" toText="CBP" />
+<relation_link2 id="re10" fromID="C0" fromText="a Ft. Worth woman" toID="g3" toText="Ft. Worth" />
+<relation_link2 id="re11" fromID="C1" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="g4" toText="U.S." />
+<relation_link2 id="re12" fromID="C2" fromText="a 22-year-old female U.S. citizen from Ft. Worth, Texas" toID="g5" toText="Ft. Worth, Texas" />
+</TAGS>
+</KddTask>

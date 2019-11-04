@@ -1,0 +1,21 @@
+Israeli Defense computer hacked in Spear Phishing Attack
+Anonymous
+
+Hackers broke into an Israeli defense ministry computer via an email attachment tainted with malicious software.
+Reuters reported Israeli Defense is the latest illustrious victim of the Spear Phishing Attack, and hackers penetrated into an Israeli defense ministry computer using a malicious email as a vector. 
+  (adsbygoogle = window.adsbygoogle || []).push({}); 
+Aviv Raff, Chief Technology officer at Seculert, confirmed that an Email with a malicious attachment that looked like it had been sent by the country’s Shin Bet Secret Security Service. The attackers have penetrated into the network of Israeli Defense accessing to 15 computers, one of them managed by the Israel’s Civil Administration that monitors Palestinians in Israeli-occupied territory.
+The Civil Administration is a unit of Israel’s Defense Ministry that control the passage of goods between Israel and the West Bank and Gaza Strip. It is clear that the information contained in the infected system represents a precious target for someone that intend to examine what and who is authorized to pass through the territories contested by Israelis and Palestinians.
+The office also manages entry permits to Palestinians who work in Israel, and this could be another motivation for the attack. The earliest evidence confirmed the attack was conducted by Palestinians hackers, because there are many similarities with a precedent attack against Israeli systems conduced more than a year ago from a server in the Hamas-ruled Gaza Strip.
+Aviv Raff revealed that the 15 computers were controlled by the hackers  for several days after the January 15, when the malicious email was sent  with an attachment about ex-Israeli prime minister Ariel Sharon who had  just died. 
+The message text anticipates the content of the attached .zip file  that claims to contain reports and photos of the attack. According  Trend Micro firm the initial target of that attack was the Israeli  Customs agency. In fact the file attached to the email hides a known malware, the XtremeRat trojan, which was largely used in surveillance campaigns by many regimes such as Syrian government. 
+Guy Inbar, a spokesman for the Civil Administration said: 
+“We are not commenting on it, we don’t respond to such reports,”
+Let me add, These is not a sufficient proof, but we all know that how much complicated is the attribution for an attack in the cyberspace, and many political actors could be interested to fuel the crisis between the two populations. 
+Anyway security experts recognized the same hand behind the latest attack originated from a server in the US, the tactics adopted by hackers is identical and there are many similarities in the code used. 
+According to Securlet,  the attackers have used ”Xtreme RAT“ for a cyber espionage campaign against Israeli institutions and law enforcement in Novemeber 2012, forcing the government to shut down Internet access for its police. This cause prohibiting the use of memory sticks and mobile storage to avoid the diffusion of the malicious agent.
+If the news is confirmed, it is very concerning. Let’s consider that the attack discovered could be just an initial part of a large operation targeting sub-contractors to hit Israel, because it is very common that hackers target subcontractors to hit big enterprises and government offices due to the poor level of security they often offer.
+Securlert hasn’t discovered what the hackers did after accessing to the system, it is not clear if the attackers have stolen some document or they have tried to manipulate some data.
+“All we know is at least one computer at the Civil Administration was in control of the attackers; what they did we don’t know.” said Raff said. 
+The incident is just the tip of the iceberg, has confirmed by media hacking activity in the Middle East is very intense, foreign governments and group of hacktivists like Anonymous have targeted the military, government offices, private companies and critical infrastructure.
+Have something to say about this article? Comment below or share it with us on Facebook, Twitter or our LinkedIn Group.
